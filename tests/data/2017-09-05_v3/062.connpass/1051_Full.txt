@@ -1,0 +1,1694 @@
+GET https://connpass.com/search/?q=devops HTTP/1.1
+Host: connpass.com
+User-Agent: Mozilla/5.0 (Windows NT 6.1; WOW64; rv:52.0) Gecko/20100101 Firefox/52.0
+Accept: text/html,application/xhtml+xml,application/xml;q=0.9,*/*;q=0.8
+Accept-Language: ja,en-US;q=0.7,en;q=0.3
+Referer: https://connpass.com/dashboard/
+Cookie: connpass-csrftoken=wGc7U0JekZP3BxUtIWir3U5G9bYCKS6V; __utma=215431429.1114560625.1491548972.1491555106.1491565041.3; __utmc=215431429; __utmz=215431429.1491548972.1.1.utmcsr=(direct)|utmccn=(direct)|utmcmd=(none); __utmv=215431429.|1=Authenticated=true=1; connpassusr=AfTLzXJvCcw_1491548973514; sessionid=ohn7q0vre6m4kfe0c51d2rulzl8fcil2; __utmb=215431429.2.10.1491565041; __utmt=1
+Connection: close
+Upgrade-Insecure-Requests: 1
+
+
+HTTP/1.1 200 OK
+Content-Language: ja
+Content-Type: text/html; charset=utf-8
+Date: Fri, 07 Apr 2017 11:44:52 GMT
+Server: nginx
+Set-Cookie: connpass-csrftoken=wGc7U0JekZP3BxUtIWir3U5G9bYCKS6V; Domain=.connpass.com; expires=Fri, 06-Apr-2018 11:44:52 GMT; Max-Age=31449600; Path=/
+Vary: Accept-Encoding
+Vary: Cookie, Accept-Language
+X-Frame-Options: DENY
+transfer-encoding: chunked
+Connection: Close
+
+64b4
+<!DOCTYPE html>
+<!--
+
+
+   _|_|_|    _|_|    _|_|_|    _|_|_|    _|_|_|      _|_|_|    _|_|_|    _|_|_|
+ _|        _|    _|  _|    _|  _|    _|  _|    _|  _|    _|  _|_|      _|_|
+ _|        _|    _|  _|    _|  _|    _|  _|    _|  _|    _|      _|_|      _|_|
+   _|_|_|    _|_|    _|    _|  _|    _|  _|_|_|      _|_|_|  _|_|_|    _|_|_|
+                                         _|
+                                         _|
+-->
+<html lang="ja" xmlns:og="http://ogp.me/ns#" xmlns:fb="https://www.facebook.com/2008/fbml">
+<head>
+
+<meta http-equiv="content-type" content="text/html; charset=utf-8" />
+<meta http-equiv="content-style-type" content="text/css; charset=utf-8" />
+<meta name="keywords" content="connpass,コンパス,イベント,IT勉強会,検索,開催,募集,参加,ソーシャル連携,アクセス解析,手数料無料" />
+<meta name="description" content="connpassはイベントやIT勉強会の開催、さらに参加者の集客に便利です。コミュニティやグループの運営やイベントの検索、事前決済もできます。" />
+<title>検索フォーム - connpass</title>
+
+
+<link type="text/css" href="https://connpass.com/static/css/connpass.css?20170330162749
+" rel="stylesheet" media="all" />
+
+
+
+
+<!-- Google+ Page -->
+<link href="https://plus.google.com/106041817090493633309/" rel="publisher" />
+
+
+<meta property="og:type" content="website" />
+<meta property="og:site_name" content="connpass" />
+<meta property="fb:app_id" content="259235460759625" />
+
+<meta property="og:url" content="https://connpass.com/search/?q=devops" />
+
+<meta property="og:image" content="https://connpass.com/static/img/468_468.png" />
+
+<meta itemprop="image" content="https://connpass.com/static/img/72_72.png" />
+
+<meta property="og:title" content="connpass - エンジニアをつなぐIT勉強会支援プラットフォーム" />
+<meta property="og:description" content="connpassはイベントやIT勉強会の開催、さらに参加者の集客に便利です。コミュニティやグループの運営やイベントの検索、事前決済もできます。" />
+<meta itemprop="name" content="connpass - エンジニアをつなぐIT勉強会支援プラットフォーム" />
+<meta itemprop="description" content="connpassはイベントやIT勉強会の開催、さらに参加者の集客に便利です。コミュニティやグループの運営やイベントの検索、事前決済もできます。" />
+
+
+
+
+
+
+<script type="text/javascript">
+  
+  var _ravenQueue = [];
+  window.onerror = function(message, file, lineNumber) {
+    var msg = lineNumber ? message + " at " + lineNumber : message;
+      _ravenQueue.push({message: msg, culprit: file});
+  };
+</script>
+
+
+
+<link rel="shortcut icon" href="https://connpass.com/static/img/favicon.ico" type="image/vnd.microsoft.icon" />
+<link rel="apple-touch-icon-precomposed" href="https://connpass.com/static/img/apple_touch_icon.png" />
+
+<link href="https://fonts.googleapis.com/css?family=Montserrat" rel="stylesheet" type="text/css">
+
+<script type="text/javascript">
+  if (typeof console == "undefined") {window.console={log: function () {}};console.warn = console.debug = console.log;}
+</script>
+
+<script type="text/javascript">
+  function cst(cat, evt, targetUrl) {
+    if (window._gaq) {
+      _gaq.push(['_trackSocial', cat, evt, targetUrl]);
+    } else {
+      console.log("trackSocial(" + cat + ", " + evt + ", " + targetUrl + ")");
+    }
+  };
+  function cet(cat, evt, label, value, non_interaction) {
+    if (!label) {
+      label = '141247';
+    }
+    if (window._gaq) {
+      _gaq.push(['_trackEvent', cat, evt, label, value, non_interaction]);
+    } else {
+      console.log("trackEvent(" + cat + ", " + evt + ", " + label + ", " + value + ", " + non_interaction + ")");
+    }
+  };
+  function tol(link, cat, evt, label, value, non_interaction) {
+    cet(cat, evt, label, value, non_interaction);
+    if (link) {
+      var func;
+      if (link.href) {
+        func = function() {
+          document.location.href = link.href;
+        };
+      } else {
+        if (link.submit) {
+          func = function() {
+            link.submit();
+          };
+        } else {
+          if (link.form) {
+            func = function() {
+              link.form.submit();
+            };
+          }
+        }
+      }
+      if (func) {
+        setTimeout(func, 100);
+      }
+    }
+  };
+</script>
+
+
+
+<script type="text/javascript">
+  var _gaq = _gaq || [];
+  _gaq.push(['_setAccount', 'UA-26036000-1']);
+  _gaq.push(['_setDomainName', 'connpass.com']);
+  _gaq.push(['_setCustomVar', 1, 'Authenticated', 'true', 1]);
+  _gaq.push(['_trackPageview']);
+
+  (function() {
+    var ga = document.createElement('script'); ga.type = 'text/javascript'; ga.async = true;
+    ga.src = ('https:' == document.location.protocol ? 'https://ssl' : 'http://www') + '.google-analytics.com/ga.js';
+    var s = document.getElementsByTagName('script')[0]; s.parentNode.insertBefore(ga, s);
+  })();
+</script>
+
+
+<script language="JavaScript" type="text/javascript" charset="UTF-8" src="//cdn.bigmining.com/private/media/js/connpass_bigmining.js"></script>
+
+
+  <script async src="//pagead2.googlesyndication.com/pagead/js/adsbygoogle.js"></script>
+
+</head>
+
+<body class="search-page">
+
+<div id="wrapper" class="lang_ja">
+
+  <div id="header">
+    <div class="container clearfix">
+      <h1><a href="https://connpass.com/" title="connpass - エンジニアをつなぐIT勉強会支援プラットフォーム"><img src="https://connpass.com/static/img/common/sitelogo_266x132_bp.png" alt="connpass - エンジニアをつなぐIT勉強会支援プラットフォーム" height="66"></a></h1>
+
+      
+
+      
+        <div class="header_nav_contents">
+          <ul>
+          
+            <li><a href="https://connpass.com/">ダッシュボード</a></li>
+            <li><a href="https://connpass.com/dashboard/#category_link_list">カテゴリ一覧</a></li>
+          
+            <li><a href="https://connpass.com/explore/">新着イベント</a></li>
+          </ul>
+        </div>
+        
+          <div class="header_nav_owner">
+            <a href="https://connpass.com/editmanage/" class="btn btn_action event_manage">イベント管理</a>
+            <span class="EventCreate btn btn_high_priority">イベント作成</span>
+          </div>
+          
+          <div class="header_nav_personal">
+            <ul class="dropdown_menu">
+              <li id="personalMenu" class="image_link">
+                
+                  <img src="https://connpass.com/static/img/common/user_no_image.gif" width="23" height="23" alt="太郎">
+                
+                <ul class="dropdown_sub">
+                  <li class="username image_link"><a href="https://connpass.com/user/crawlingtest1000/" title="太郎">
+                    太郎
+                  </a></li>
+                  <li><a href="https://connpass.com/settings/">利用設定</a></li>
+                  <li><a href="https://connpass.com/logout/">ログアウト</a></li>
+                </ul>
+              </li>
+            </ul>
+          </div>
+          
+        
+      
+
+
+    </div>
+  </div>
+  
+
+
+
+  
+
+
+
+
+
+
+<div id="contents" class="container main_side_column clearfix">
+  <div id="flash_message_area" style="display: none;">
+    
+  </div>
+
+  
+  <div class="clearfix">
+    
+      
+      <div id="main">
+        
+
+
+  <div class="fieldset">
+    <h2>検索フォーム</h2>
+    <form action="/search/" method="GET" class="form_horizontal">
+      
+      
+      <div class="form_group_2">
+        <label class="form_label">キーワード</label>
+        <input type="text" name="q" id="id_q" class="keyword" value="devops">
+      </div>
+      <div class="form_group_2">
+        <label class="form_label">開催日</label>
+        <input type="text" name="start_from" id="id_start_from" class="day" value="">
+        〜
+        <input type="text" name="start_to" id="id_start_to" class="day" value="">
+      </div>
+      <div class="form_group clearfix" >
+        <label class="form_label">都道府県</label>
+        <select multiple="multiple" name="prefectures" id="id_prefectures">
+          <optgroup label="北海道">
+            <option value="hokkaido" >北海道</option>
+          </optgroup>
+          <optgroup label="東北">
+            <option value="aomori" >青森県</option>
+            <option value="iwate" >岩手県</option>
+            <option value="miyagi" >宮城県</option>
+            <option value="akita" >秋田県</option>
+            <option value="yamagata" >山形県</option>
+            <option value="fukushima" >福島県</option>
+          </optgroup>
+          <optgroup label="関東">
+            <option value="ibaraki" >茨城県</option>
+            <option value="tochigi" >栃木県</option>
+            <option value="gunma" >群馬県</option>
+            <option value="saitama" >埼玉県</option>
+            <option value="chiba" >千葉県</option>
+            <option value="tokyo" >東京都</option>
+            <option value="kanagawa" >神奈川県</option>
+          </optgroup>
+          <optgroup label="中部">
+            <option value="yamanashi" >山梨県</option>
+            <option value="nagano" >長野県</option>
+            <option value="niigata" >新潟県</option>
+            <option value="toyama" >富山県</option>
+            <option value="ishikawa" >石川県</option>
+            <option value="fukui" >福井県</option>
+            <option value="gifu" >岐阜県</option>
+            <option value="shizuoka" >静岡県</option>
+            <option value="aichi" >愛知県</option>
+          </optgroup>
+          <optgroup label="近畿">
+            <option value="mie" >三重県</option>
+            <option value="shiga" >滋賀県</option>
+            <option value="kyoto" >京都府</option>
+            <option value="osaka" >大阪府</option>
+            <option value="hyogo" >兵庫県</option>
+            <option value="nara" >奈良県</option>
+            <option value="wakayama" >和歌山県</option>
+          </optgroup>
+          <optgroup label="中国">
+            <option value="tottori" >鳥取県</option>
+            <option value="shimane" >島根県</option>
+            <option value="okayama" >岡山県</option>
+            <option value="hiroshima" >広島県</option>
+            <option value="yamaguchi" >山口県</option>
+          </optgroup>
+          <optgroup label="四国">
+            <option value="tokushima" >徳島県</option>
+            <option value="kagawa" >香川県</option>
+            <option value="ehime" >愛媛県</option>
+            <option value="kochi" >高知県</option>
+          </optgroup>
+          <optgroup label="九州">
+            <option value="fukuoka" >福岡県</option>
+            <option value="saga" >佐賀県</option>
+            <option value="nagasaki" >長崎県</option>
+            <option value="kumamoto" >熊本県</option>
+            <option value="oita" >大分県</option>
+            <option value="miyazaki" >宮崎県</option>
+            <option value="kagoshima" >鹿児島県</option>
+            <option value="okinawa" >沖縄県</option>
+          </optgroup>
+        </select>
+      </div>
+      <div class="text_center">
+        <button type="submit" class="btn btn_default">イベント検索</button>
+      </div>
+  </form>
+  </div>
+
+  <h2 class="main_h2">検索結果 (206件)</h2>
+
+  <div class="event_area">
+    
+      
+
+<div class="event_list vevent">
+  
+  <div class="event_schedule_area">
+    <p class="year">2017</p>
+    <p class="date">05/30</p>
+    （火）
+    <span class="dtstart"><span class="value-title" title="2017-05-30T01:30:00Z"></span></span>
+    <span class="dtend"><span class="value-title" title="2017-05-30T09:00:00Z"></span></span>
+  </div>
+  
+  <div class="event_detail_area clearfix">
+    <div class="event_label_area">
+      <p class="time">10:30〜</p>
+      
+        
+        
+        
+        
+        
+        
+      
+    </div>
+    <div class="event_inner">
+      <p class="event_thumbnail">
+        <a class="image_link" href="https://gameday-japan.connpass.com/event/52437/">
+          
+            <img class="photo" src="https://connpass-tokyo.s3.amazonaws.com/thumbs/88/b2/88b242d09fb28ec817df41653d3a21cc.png" width="108" height="72" alt="AWS DevOps Challenge in AWS Summit Tokyo 2017" />
+          
+        </a>
+        <span class="label_status_event offer">開催前</span>
+      </p>
+      
+        <span class="label_group mb_5">
+          <a href="https://gameday-japan.connpass.com/">
+            
+              <span class="thumbnail_img image_bg" style="background-image: url(https://connpass-tokyo.s3.amazonaws.com/thumbs/ce/da/ceda000441715ae5a6f034eb45e0ed00.png);"></span>
+            
+            <span class="series_title">AWS GameDay Japan</span>
+          </a>
+        </span>
+      
+      <p class="event_title"><a class="url summary" href="https://gameday-japan.connpass.com/event/52437/">AWS DevOps Challenge in AWS Summit Tokyo 2017</a></p>
+      
+      
+      
+        <p class="event_owner">
+          <span class="icon_owner">
+          
+            <a class="image_link" href="/user/con_mame/">
+              
+                <img src="https://connpass-tokyo.s3.amazonaws.com/thumbs/0b/b6/0bb6d1b29b375b17833f12ceba612190.png" width="16" height="16" title="con_mame" alt="con_mame" />
+              
+              con_mame</a>
+          
+           他
+          </span>
+        </p>
+      
+      
+
+      <p class="event_place location">
+        <span class="icon_place">
+        
+          
+            東京都港区高輪 3-13-1
+          
+        
+        </span>
+      </p>
+
+       
+     
+      
+      <p class="event_participants">
+        
+        
+          
+            
+            <span class="amount"><span class="amount_over">83</span>/80</span>人
+          
+        
+      </p>
+      
+      
+    </div>
+  </div>
+</div>
+
+
+    
+    
+      
+
+<div class="event_list vevent">
+  
+  <div class="event_schedule_area">
+    <p class="year">2017</p>
+    <p class="date">05/26</p>
+    （金）
+    <span class="dtstart"><span class="value-title" title="2017-05-26T01:00:00Z"></span></span>
+    <span class="dtend"><span class="value-title" title="2017-05-26T10:00:00Z"></span></span>
+  </div>
+  
+  <div class="event_detail_area clearfix">
+    <div class="event_label_area">
+      <p class="time">10:00〜</p>
+      
+        
+        
+        
+        
+        
+        
+      
+    </div>
+    <div class="event_inner">
+      <p class="event_thumbnail">
+        <a class="image_link" href="https://hinshitsu-univ.connpass.com/event/52796/">
+          
+            <img class="photo" src="https://connpass-tokyo.s3.amazonaws.com/thumbs/cd/99/cd9931c396f7e1cf5bdb957e00e62976.png" width="108" height="72" alt="薮田氏『管理者のための テストプロセス改善』【日本初TPI NEXT講座】5月26日(金)" />
+          
+        </a>
+        <span class="label_status_event offer">開催前</span>
+      </p>
+      
+        <span class="label_group mb_5">
+          <a href="https://hinshitsu-univ.connpass.com/">
+            
+              <span class="thumbnail_img image_bg" style="background-image: url(https://connpass-tokyo.s3.amazonaws.com/thumbs/db/b1/dbb1f99aca90d8f46332394be9a3f4d4.png);"></span>
+            
+            <span class="series_title">ヒンシツ大学</span>
+          </a>
+        </span>
+      
+      <p class="event_title"><a class="url summary" href="https://hinshitsu-univ.connpass.com/event/52796/">薮田氏『管理者のための テストプロセス改善』【日本初TPI NEXT講座】5月26日(金)</a></p>
+      
+      
+      
+        <p class="event_owner">
+          <span class="icon_owner">
+          
+            <a class="image_link" href="/user/yuka_masuo_9/">
+              
+                <img src="https://connpass-tokyo.s3.amazonaws.com/thumbs/fe/c1/fec1e188510130fbd5973e223fa11452.png" width="16" height="16" title="ヒンシツ大学事務局" alt="ヒンシツ大学事務局" />
+              
+              ヒンシツ大学事務局</a>
+          
+          
+          </span>
+        </p>
+      
+      
+
+      <p class="event_place location">
+        <span class="icon_place">
+        
+          
+            東京都港区麻布台2-4-5
+          
+        
+        </span>
+      </p>
+
+       
+     
+      
+      <p class="event_participants">
+        
+        
+          
+            
+            <span class="amount"><span>0</span>/10</span>人
+          
+        
+      </p>
+      
+      
+    </div>
+  </div>
+</div>
+
+
+    
+    
+      
+
+<div class="event_list vevent">
+  
+  <div class="event_schedule_area">
+    <p class="year">2017</p>
+    <p class="date">04/26</p>
+    （水）
+    <span class="dtstart"><span class="value-title" title="2017-04-26T10:00:00Z"></span></span>
+    <span class="dtend"><span class="value-title" title="2017-04-26T12:30:00Z"></span></span>
+  </div>
+  
+  <div class="event_detail_area clearfix">
+    <div class="event_label_area">
+      <p class="time">19:00〜</p>
+      
+        
+        
+        
+        
+        
+        
+      
+    </div>
+    <div class="event_inner">
+      <p class="event_thumbnail">
+        <a class="image_link" href="https://classmethod.connpass.com/event/54342/">
+          
+            <img class="photo" src="https://connpass-tokyo.s3.amazonaws.com/thumbs/cb/cc/cbccadda8bbb90b171295240211df245.png" width="108" height="72" alt="【4/26】GitHubとクラスメソッドの勉強会〜GitHub x AWSの最新DevOps事情〜" />
+          
+        </a>
+        <span class="label_status_event offer">開催前</span>
+      </p>
+      
+        <span class="label_group mb_5">
+          <a href="https://classmethod.connpass.com/">
+            
+              <span class="thumbnail_img image_bg" style="background-image: url(https://connpass-tokyo.s3.amazonaws.com/thumbs/47/82/4782cc7ce8cd43f422849f6bb0b6b994.png);"></span>
+            
+            <span class="series_title">クラスメソッド株式会社</span>
+          </a>
+        </span>
+      
+      <p class="event_title"><a class="url summary" href="https://classmethod.connpass.com/event/54342/">【4/26】GitHubとクラスメソッドの勉強会〜GitHub x AWSの最新DevOps事情〜</a></p>
+      
+      
+      
+        <p class="event_owner">
+          <span class="icon_owner">
+          
+            <a class="image_link" href="/user/classmethod/">
+              
+                <img src="https://connpass-tokyo.s3.amazonaws.com/thumbs/0b/98/0b981643d67a4c6d6f873184ca996d97.png" width="16" height="16" title="クラスメソッド株式会社" alt="クラスメソッド株式会社" />
+              
+              クラスメソッド株式会社</a>
+          
+           他
+          </span>
+        </p>
+      
+      
+
+      <p class="event_place location">
+        <span class="icon_place">
+        
+          
+            東京都千代田区丸の内2-7-3 (東京ビルディング25階)
+          
+        
+        </span>
+      </p>
+
+       
+     
+      
+      <p class="event_participants">
+        
+        
+          
+            
+            <span class="amount"><span class="amount_over">177</span>/50</span>人
+          
+        
+      </p>
+      
+      
+    </div>
+  </div>
+</div>
+
+
+    
+    
+      
+
+<div class="event_list vevent">
+  
+  <div class="event_schedule_area">
+    <p class="year">2017</p>
+    <p class="date">04/21</p>
+    （金）
+    <span class="dtstart"><span class="value-title" title="2017-04-21T10:00:00Z"></span></span>
+    <span class="dtend"><span class="value-title" title="2017-04-21T12:00:00Z"></span></span>
+  </div>
+  
+  <div class="event_detail_area clearfix">
+    <div class="event_label_area">
+      <p class="time">19:00〜</p>
+      
+        
+        
+        
+        
+        
+        
+      
+    </div>
+    <div class="event_inner">
+      <p class="event_thumbnail">
+        <a class="image_link" href="https://network-programmability.connpass.com/event/54303/">
+          
+            <img src="https://connpass.com/static/img/common/no_image_108x72.gif" width="108" height="72" alt="ネットワークプログラマビリティ勉強会 #12" />
+          
+        </a>
+        <span class="label_status_event offer">開催前</span>
+      </p>
+      
+        <span class="label_group mb_5">
+          <a href="https://network-programmability.connpass.com/">
+            
+              <span class="thumbnail_img image_bg" style="background-image: url(https://connpass-tokyo.s3.amazonaws.com/thumbs/02/e5/02e56a4790a87734bf445197d738337f.png);"></span>
+            
+            <span class="series_title">ネットワークプログラマビリティ勉強会</span>
+          </a>
+        </span>
+      
+      <p class="event_title"><a class="url summary" href="https://network-programmability.connpass.com/event/54303/">ネットワークプログラマビリティ勉強会 #12</a></p>
+      
+      
+      
+        <p class="event_owner">
+          <span class="icon_owner">
+          
+            <a class="image_link" href="/user/tetsusat/">
+              
+                <img src="https://connpass.com/static/img/common/user_no_image.gif" width="16" height="16" title="tetz" alt="tetz" />
+              
+              tetz</a>
+          
+           他
+          </span>
+        </p>
+      
+      
+
+      <p class="event_place location">
+        <span class="icon_place">
+        
+          
+            東京都千代田区富士見2-10-2　飯田橋グラン・ブルーム
+          
+        
+        </span>
+      </p>
+
+       
+     
+      
+      <p class="event_participants">
+        
+        
+          
+            
+            <span class="amount"><span class="amount_over">134</span>/105</span>人
+          
+        
+      </p>
+      
+      
+    </div>
+  </div>
+</div>
+
+
+    
+    
+      
+
+<div class="event_list vevent">
+  
+  <div class="event_schedule_area">
+    <p class="year">2017</p>
+    <p class="date">04/14</p>
+    （金）
+    <span class="dtstart"><span class="value-title" title="2017-04-14T01:00:00Z"></span></span>
+    <span class="dtend"><span class="value-title" title="2017-04-14T08:00:00Z"></span></span>
+  </div>
+  
+  <div class="event_detail_area clearfix">
+    <div class="event_label_area">
+      <p class="time">10:00〜</p>
+      
+        
+        
+        
+        
+        
+        
+      
+    </div>
+    <div class="event_inner">
+      <p class="event_thumbnail">
+        <a class="image_link" href="https://fod.connpass.com/event/52522/">
+          
+            <img class="photo" src="https://connpass-tokyo.s3.amazonaws.com/thumbs/07/ac/07ac94c7fc874a1ca0a6f6d69ae62613.png" width="108" height="72" alt="開発リーダのための「明日の開発カンファレンス 2017」【参加無料】" />
+          
+        </a>
+        <span class="label_status_event offer">開催前</span>
+      </p>
+      
+        <span class="label_group mb_5">
+          <a href="https://fod.connpass.com/">
+            
+              <span class="thumbnail_img image_bg" style="background-image: url(https://connpass-tokyo.s3.amazonaws.com/thumbs/3b/32/3b32a6c7f6a52ad359aae4f0eed69a6e.png);"></span>
+            
+            <span class="series_title">明日の開発カンファレンス Future of Development Conference</span>
+          </a>
+        </span>
+      
+      <p class="event_title"><a class="url summary" href="https://fod.connpass.com/event/52522/">開発リーダのための「明日の開発カンファレンス 2017」【参加無料】</a></p>
+      
+      
+      
+        <p class="event_owner">
+          <span class="icon_owner">
+          
+            <a class="image_link" href="/user/kashioka/">
+              
+                <img src="https://connpass-tokyo.s3.amazonaws.com/thumbs/57/19/571908d0134933bb2455800e7bd9198e.png" width="16" height="16" title="Hideo Kashioka" alt="Hideo Kashioka" />
+              
+              Hideo Kashioka</a>
+          
+           他
+          </span>
+        </p>
+      
+      
+
+      <p class="event_place location">
+        <span class="icon_place">
+        
+          
+            東京都大田区南蒲田１丁目２０−２０ 
+          
+        
+        </span>
+      </p>
+
+       
+     
+      
+      <p class="event_participants">
+        
+        
+          
+            
+            <span class="amount"><span>186</span>/200</span>人
+          
+        
+      </p>
+      
+      
+    </div>
+  </div>
+</div>
+
+
+    
+    
+      
+
+<div class="event_list vevent">
+  
+  <div class="event_schedule_area">
+    <p class="year">2017</p>
+    <p class="date">04/07</p>
+    （金）
+    <span class="dtstart"><span class="value-title" title="2017-04-07T01:00:00Z"></span></span>
+    <span class="dtend"><span class="value-title" title="2017-04-07T10:00:00Z"></span></span>
+  </div>
+  
+  <div class="event_detail_area clearfix">
+    <div class="event_label_area">
+      <p class="time">10:00〜</p>
+      
+        
+        
+        
+        
+        
+        
+      
+    </div>
+    <div class="event_inner">
+      <p class="event_thumbnail">
+        <a class="image_link" href="https://hinshitsu-univ.connpass.com/event/51855/">
+          
+            <img class="photo" src="https://connpass-tokyo.s3.amazonaws.com/thumbs/cd/99/cd9931c396f7e1cf5bdb957e00e62976.png" width="108" height="72" alt="薮田氏『管理者のための テストプロセス改善』【日本初TPI NEXT講座】4月7日(金)ヒンシツ大学" />
+          
+        </a>
+        <span class="label_status_event close">終了</span>
+      </p>
+      
+        <span class="label_group mb_5">
+          <a href="https://hinshitsu-univ.connpass.com/">
+            
+              <span class="thumbnail_img image_bg
+64a8
+" style="background-image: url(https://connpass-tokyo.s3.amazonaws.com/thumbs/db/b1/dbb1f99aca90d8f46332394be9a3f4d4.png);"></span>
+            
+            <span class="series_title">ヒンシツ大学</span>
+          </a>
+        </span>
+      
+      <p class="event_title"><a class="url summary" href="https://hinshitsu-univ.connpass.com/event/51855/">薮田氏『管理者のための テストプロセス改善』【日本初TPI NEXT講座】4月7日(金)ヒンシツ大学</a></p>
+      
+      
+      
+        <p class="event_owner">
+          <span class="icon_owner">
+          
+            <a class="image_link" href="/user/yuka_masuo_9/">
+              
+                <img src="https://connpass-tokyo.s3.amazonaws.com/thumbs/fe/c1/fec1e188510130fbd5973e223fa11452.png" width="16" height="16" title="ヒンシツ大学事務局" alt="ヒンシツ大学事務局" />
+              
+              ヒンシツ大学事務局</a>
+          
+          
+          </span>
+        </p>
+      
+      
+
+      <p class="event_place location">
+        <span class="icon_place">
+        
+          
+            東京都港区麻布台2-4-5
+          
+        
+        </span>
+      </p>
+
+       
+     
+      
+      <p class="event_participants">
+        
+        
+          
+            
+            <span class="amount"><span>0</span>/10</span>人
+          
+        
+      </p>
+      
+      
+    </div>
+  </div>
+</div>
+
+
+    
+    
+      
+
+<div class="event_list vevent">
+  
+  <div class="event_schedule_area">
+    <p class="year">2017</p>
+    <p class="date">04/01</p>
+    （土）
+    <span class="dtstart"><span class="value-title" title="2017-04-01T05:00:00Z"></span></span>
+    <span class="dtend"><span class="value-title" title="2017-04-01T10:30:00Z"></span></span>
+  </div>
+  
+  <div class="event_detail_area clearfix">
+    <div class="event_label_area">
+      <p class="time">14:00〜</p>
+      
+        
+        
+        
+        
+        
+        
+      
+    </div>
+    <div class="event_inner">
+      <p class="event_thumbnail">
+        <a class="image_link" href="https://algyan.connpass.com/event/52494/">
+          
+            <img class="photo" src="https://connpass-tokyo.s3.amazonaws.com/thumbs/27/6d/276da1b114ace69866089654810e50f2.png" width="108" height="72" alt="IoT ALGYAN(あるじゃん)2周年記念・IoT祭り2017！機械学習 豪華３点盛＋IoT" />
+          
+        </a>
+        <span class="label_status_event close">終了</span>
+      </p>
+      
+        <span class="label_group mb_5">
+          <a href="https://algyan.connpass.com/">
+            
+              <span class="thumbnail_img image_bg" style="background-image: url(https://connpass-tokyo.s3.amazonaws.com/thumbs/27/d1/27d185d76edd74fa22309e09b1017a28.png);"></span>
+            
+            <span class="series_title">ALGYAN(あるじゃん)主催 公式イベント！</span>
+          </a>
+        </span>
+      
+      <p class="event_title"><a class="url summary" href="https://algyan.connpass.com/event/52494/">IoT ALGYAN(あるじゃん)2周年記念・IoT祭り2017！機械学習 豪華３点盛＋IoT</a></p>
+      
+      
+      
+        <p class="event_owner">
+          <span class="icon_owner">
+          
+            <a class="image_link" href="/user/AtsuhikoKogure/">
+              
+                <img src="https://connpass-tokyo.s3.amazonaws.com/thumbs/1b/b0/1bb0599e6d9a9103179c9208eab364ec.png" width="16" height="16" title="AtsuhikoKogure" alt="AtsuhikoKogure" />
+              
+              AtsuhikoKogure</a>
+          
+           他
+          </span>
+        </p>
+      
+      
+
+      <p class="event_place location">
+        <span class="icon_place">
+        
+          
+            東京都港区港南 2-16-3 品川グランドセントラルタワー
+          
+        
+        </span>
+      </p>
+
+       
+     
+      
+      <p class="event_participants">
+        
+        
+          
+            
+            <span class="amount"><span class="amount_over">230</span>/185</span>人
+          
+        
+      </p>
+      
+      
+    </div>
+  </div>
+</div>
+
+
+    
+    
+      
+
+<div class="event_list vevent">
+  
+  <div class="event_schedule_area">
+    <p class="year">2017</p>
+    <p class="date">03/30</p>
+    （木）
+    <span class="dtstart"><span class="value-title" title="2017-03-30T10:00:00Z"></span></span>
+    <span class="dtend"><span class="value-title" title="2017-03-30T12:00:00Z"></span></span>
+  </div>
+  
+  <div class="event_detail_area clearfix">
+    <div class="event_label_area">
+      <p class="time">19:00〜</p>
+      
+        
+        
+        
+        
+        
+        
+      
+    </div>
+    <div class="event_inner">
+      <p class="event_thumbnail">
+        <a class="image_link" href="https://sitecoreusergroupjp.connpass.com/event/51875/">
+          
+            <img class="photo" src="https://connpass-tokyo.s3.amazonaws.com/thumbs/22/e5/22e54acd2df01dd9bc15f23c099c647a.png" width="108" height="72" alt="Sitecoreもくもく会@新宿 No7" />
+          
+        </a>
+        <span class="label_status_event close">終了</span>
+      </p>
+      
+        <span class="label_group mb_5">
+          <a href="https://sitecoreusergroupjp.connpass.com/">
+            
+              <span class="thumbnail_img image_bg" style="background-image: url(https://connpass-tokyo.s3.amazonaws.com/thumbs/19/d8/19d8c9f9d450d3fc681495a844eafde5.png);"></span>
+            
+            <span class="series_title">Sitecore User Group Japan</span>
+          </a>
+        </span>
+      
+      <p class="event_title"><a class="url summary" href="https://sitecoreusergroupjp.connpass.com/event/51875/">Sitecoreもくもく会@新宿 No7</a></p>
+      
+      
+      
+        <p class="event_owner">
+          <span class="icon_owner">
+          
+            <a class="image_link" href="/user/aoki1210/">
+              
+                <img src="https://connpass-tokyo.s3.amazonaws.com/thumbs/d7/23/d7236681b26a834338ac41257550a42b.png" width="16" height="16" title="aoki1210" alt="aoki1210" />
+              
+              aoki1210</a>
+          
+           他
+          </span>
+        </p>
+      
+      
+
+      <p class="event_place location">
+        <span class="icon_place">
+        
+          
+            東京都新宿区西新宿2-7-1 (小田急第一生命ビル22F)
+          
+        
+        </span>
+      </p>
+
+       
+     
+      
+      <p class="event_participants">
+        
+        
+          
+            
+            <span class="amount"><span>3</span>/10</span>人
+          
+        
+      </p>
+      
+      
+    </div>
+  </div>
+</div>
+
+
+    
+    
+      
+
+<div class="event_list vevent">
+  
+  <div class="event_schedule_area">
+    <p class="year">2017</p>
+    <p class="date">03/30</p>
+    （木）
+    <span class="dtstart"><span class="value-title" title="2017-03-30T09:30:00Z"></span></span>
+    <span class="dtend"><span class="value-title" title="2017-03-30T11:30:00Z"></span></span>
+  </div>
+  
+  <div class="event_detail_area clearfix">
+    <div class="event_label_area">
+      <p class="time">18:30〜</p>
+      
+        
+        
+        
+        
+        
+        
+      
+    </div>
+    <div class="event_inner">
+      <p class="event_thumbnail">
+        <a class="image_link" href="https://connpass.com/event/52936/">
+          
+            <img class="photo" src="https://connpass-tokyo.s3.amazonaws.com/thumbs/b9/ff/b9ffca59eafae5c2bff0ac79222ee34f.png" width="108" height="72" alt="New Relic（ニューレリック) 紹介セミナー" />
+          
+        </a>
+        <span class="label_status_event close">終了</span>
+      </p>
+      
+      <p class="event_title"><a class="url summary" href="https://connpass.com/event/52936/">New Relic（ニューレリック) 紹介セミナー</a></p>
+      
+      
+      
+        <p class="event_owner">
+          <span class="icon_owner">
+          
+            <a class="image_link" href="/user/NISSHO_ELECTRONICS/">
+              
+                <img src="https://connpass-tokyo.s3.amazonaws.com/thumbs/c7/79/c779063a06187e380c549b85444834fc.png" width="16" height="16" title="NISSHO_ELECTRONICS" alt="NISSHO_ELECTRONICS" />
+              
+              NISSHO_ELECTRONICS</a>
+          
+          
+          </span>
+        </p>
+      
+      
+
+      <p class="event_place location">
+        <span class="icon_place">
+        
+          
+            東京都千代田区二番町3-5(麹町三葉ビル6F)
+          
+        
+        </span>
+      </p>
+
+       
+     
+      
+      <p class="event_participants">
+        
+        
+          
+            
+            <span class="amount"><span>7</span>/30</span>人
+          
+        
+      </p>
+      
+      
+    </div>
+  </div>
+</div>
+
+
+    
+    
+      
+
+<div class="event_list vevent">
+  
+  <div class="event_schedule_area">
+    <p class="year">2017</p>
+    <p class="date">03/29</p>
+    （水）
+    <span class="dtstart"><span class="value-title" title="2017-03-29T10:00:00Z"></span></span>
+    <span class="dtend"><span class="value-title" title="2017-03-29T13:00:00Z"></span></span>
+  </div>
+  
+  <div class="event_detail_area clearfix">
+    <div class="event_label_area">
+      <p class="time">19:00〜</p>
+      
+        
+        
+        
+        
+        
+        
+      
+    </div>
+    <div class="event_inner">
+      <p class="event_thumbnail">
+        <a class="image_link" href="https://connpass.com/event/53007/">
+          
+            <img src="https://connpass.com/static/img/common/no_image_108x72.gif" width="108" height="72" alt="新技術の導入を米国並みに！働き方を変えて生産性を高めるための８つの習慣" />
+          
+        </a>
+        <span class="label_status_event close">終了</span>
+      </p>
+      
+      <p class="event_title"><a class="url summary" href="https://connpass.com/event/53007/">新技術の導入を米国並みに！働き方を変えて生産性を高めるための８つの習慣</a></p>
+      
+      
+      
+        <p class="event_owner">
+          <span class="icon_owner">
+          
+            <a class="image_link" href="/user/takubun2323/">
+              
+                <img src="https://connpass-tokyo.s3.amazonaws.com/thumbs/87/d4/87d4618f483fdb539630f5d95a1bcc33.png" width="16" height="16" title="takubun2323" alt="takubun2323" />
+              
+              takubun2323</a>
+          
+           他
+          </span>
+        </p>
+      
+      
+
+      <p class="event_place location">
+        <span class="icon_place">
+        
+          
+            京都港区港南 2-16-3 (品川グランドセントラルタワー）
+          
+        
+        </span>
+      </p>
+
+       
+     
+      
+      <p class="event_participants">
+        
+        
+          
+            
+            <span class="amount"><span class="amount_over">110</span>/50</span>人
+          
+        
+      </p>
+      
+      
+    </div>
+  </div>
+</div>
+
+
+    
+    
+  </div>
+
+  
+  <div class="paging_area">
+    
+    <ol>
+      
+        
+          <li><span>1</span></li>
+        
+      
+        
+          <li><a href="?page=2&q=devops">2</a></li>
+        
+      
+        
+          <li><a href="?page=3&q=devops">3</a></li>
+        
+      
+        
+          <li><a href="?page=4&q=devops">4</a></li>
+        
+      
+        
+          <li><a href="?page=5&q=devops">5</a></li>
+        
+      
+        
+          <li><a href="?page=6&q=devops">6</a></li>
+        
+      
+    </ol>
+    
+      <p class="to_next"><a href="?page=2&q=devops">次へ&gt;&gt;</a></p>
+    
+  </div>
+  <!-- /.paging_area -->
+  
+
+
+      </div>
+    
+    
+    <div id="side_area">
+      
+  
+
+<div class="side_sec_box side_ads_area">
+
+  
+  <!-- connpass_250x250_R_p_mcm -->
+  <ins class="adsbygoogle"
+       style="display:inline-block;width:250px;height:250px"
+       data-ad-client="ca-pub-4284859758109215"
+       data-ad-slot="9840941647"></ins>
+  <script>
+  (adsbygoogle = window.adsbygoogle || []).push({});
+  </script>
+  
+
+</div>
+
+
+  
+<div class="side_sec_box side_border_area series_list">
+  <h2 class="side_title">新着グループ</h2>
+  
+  <div class="thumb48_list">
+    <p class="note font_10">公開日: 2017/04/07</p>
+    <p><strong><a href="https://gyro-n.connpass.com/">Gyro-n</a></strong></p>
+    
+    <span class="thumbnail">
+      <a class="image_link" href="https://gyro-n.connpass.com/">
+        
+          <img src="https://connpass-tokyo.s3.amazonaws.com/thumbs/61/42/61427ab6797480f648541046674b5749.png" width="48" height="48" alt="Gyro-n">
+        
+      </a>
+    </span>
+  </div>
+  
+  <div class="thumb48_list">
+    <p class="note font_10">公開日: 2017/04/06</p>
+    <p><strong><a href="https://coderdojo-nagatsuta.connpass.com/">CoderDojo 長津田</a></strong></p>
+    
+    <span class="sub_title">横浜市緑区長津田で活動している子ども向けのプログラミング道場です</span>
+    
+    <span class="thumbnail">
+      <a class="image_link" href="https://coderdojo-nagatsuta.connpass.com/">
+        
+          <img src="https://connpass-tokyo.s3.amazonaws.com/thumbs/32/f6/32f6cf67c79507e5bd2acde8702ab018.png" width="48" height="48" alt="CoderDojo 長津田">
+        
+      </a>
+    </span>
+  </div>
+  
+  <div class="thumb48_list">
+    <p class="note font_10">公開日: 2017/04/06</p>
+    <p><strong><a href="https://tfug-utsunomiya.connpass.com/">TensorFlow User Group Utsunomiya</a></strong></p>
+    
+    <span class="sub_title">栃木県宇都宮市を拠点としたTensorFlowのユーザーグループです</span>
+    
+    <span class="thumbnail">
+      <a class="image_link" href="https://tfug-utsunomiya.connpass.com/">
+        
+          <img src="https://connpass-tokyo.s3.amazonaws.com/thumbs/3e/f1/3ef1e32e4049413be06919c60ed1df96.png" width="48" height="48" alt="TensorFlow User Group Utsunomiya">
+        
+      </a>
+    </span>
+  </div>
+  
+  <div class="thumb48_list">
+    <p class="note font_10">公開日: 2017/04/06</p>
+    <p><strong><a href="https://opda.connpass.com/">Opendata Asia勉強会</a></strong></p>
+    
+    <span class="sub_title">オープンデータって言うくらいだから、狭い範囲で考えたくない</span>
+    
+    <span class="thumbnail">
+      <a class="image_link" href="https://opda.connpass.com/">
+        
+          <img src="https://connpass-tokyo.s3.amazonaws.com/thumbs/71/46/7146902c3554546ecd681535ccdaf279.png" width="48" height="48" alt="Opendata Asia勉強会">
+        
+      </a>
+    </span>
+  </div>
+  
+  <div class="thumb48_list">
+    <p class="note font_10">公開日: 2017/04/06</p>
+    <p><strong><a href="https://startup-meetup.connpass.com/">STARTUP MEETUP</a></strong></p>
+    
+    <span class="thumbnail">
+      <a class="image_link" href="https://startup-meetup.connpass.com/">
+        
+          <img src="https://connpass.com/static/img/common/no_group.png" width="48" height="48" alt="STARTUP MEETUP">
+        
+      </a>
+    </span>
+  </div>
+  
+  <hr class="mt_10 mb_5">
+  <p class="text_right"><a href="https://connpass.com/recent_group/"><span class="icon_red_four_right"></span>新着グループ一覧</a></p>
+</div>
+
+
+  
+
+<div class="side_sec_box side_ads_area">
+
+  
+  <!-- connpass_250x250_R_t_mcm -->
+  <ins class="adsbygoogle"
+       style="display:inline-block;width:250px;height:250px"
+       data-ad-client="ca-pub-4284859758109215"
+       data-ad-slot="9701340847"></ins>
+  <script>
+  (adsbygoogle = window.adsbygoogle || []).push({});
+  </script>
+  
+
+</div>
+
+
+
+    </div>
+    
+  </div>
+  
+</div>
+
+
+
+
+  <div id="footer">
+    <div class="footer_link_area clearfix">
+      <div class="layout_column_4 footer_site">
+        <div class="mb_5"><a href="https://connpass.com/" title="サイトのトップページへ"><img src="https://connpass.com/static/img/common/sitelogo_295x100.png" alt="connpass" class="connpass">エンジニアをつなぐ<br>IT勉強会支援プラットフォーム</a></div>
+        <div class="mb_5">
+        
+        <a href="https://itunes.apple.com/jp/app/connpass/id723317753?mt=8&uo=4" target="_blank" style="display:inline-block;overflow:hidden;background:url(https://linkmaker.itunes.apple.com/htmlResources/assets/ja_jp//images/web/linkmaker/badge_appstore-lrg.png) no-repeat;width:135px;height:40px;@media only screen{background-image:url(https://linkmaker.itunes.apple.com/htmlResources/assets/ja_jp//images/web/linkmaker/badge_appstore-lrg.svg);}" onClick="cet('Marketing', 'iphone_app_banner', 'footer_banner', undefined, true);"></a>
+        
+        </div>
+        <a href="http://twitter.com/connpass_jp" target="_blank" class="mr_5"><img src="https://connpass.com/static/img/common/icon_twitter_official.png" alt="Twitter公式アカウント"></a>
+        <a href="http://www.facebook.com/connpass" target="_blank"><img src="https://connpass.com/static/img/common/icon_facebook_official.png" alt="Facebookページ"></a>
+
+      </div>
+      <div class="layout_column_4 footer_help">
+        <ul class="cmn_list">
+          <li><a href="http://help.connpass.com/" target="_blank" title="connpassのヘルプ">ご利用ガイド</a></li>
+          <li><a href="http://help.connpass.com/faq/" target="_blank">よくある質問</a></li>
+          <li><a href="https://connpass.com/inquiry/">connpassへのお問い合わせ</a></li>
+          <li><a href="https://connpass.com/term/">利用規約</a></li>
+          <li><a href="https://connpass.com/about/api/">API</a></li>
+          <li><a href="https://connpass.com/law/">特定商取引法に基づく表示</a></li>
+          <li><a href="https://connpass.com/privacy/">プライバシーポリシー</a></li>
+        </ul>
+      </div>
+      <div class="layout_column_4 footer_sns">
+      <ul class="cmn_list">
+        <li class="li_icon_hint"><a href="https://connpass.com/about/" title="connpassの機能をタイムライン風に紹介">機能紹介</a></li>
+        <li class="li_icon_hint"><a href="https://connpass.com/about/comparison/" title="connpassと他イベントサイトとの機能比較">他サービスとの比較</a></li>
+        <li class="li_icon"><a href="https://connpass.com/explore/">新着イベント</a></li>
+        <li class="li_icon_feed"><a href="https://connpass.com/explore/ja.atom" target="_blank">新着イベントfeed</a></li>
+        <li class="li_icon_connpass"><a href="http://blog.connpass.com/" target="_blank">公式ブログ</a></li>
+
+      </ul>
+      </div>
+      <div class="layout_column_4 footer_feedback">
+      
+
+<div class="feedback_area">
+  <div id="FeedbackForm">
+    <p class="em">connpassへのご意見をお聞かせください</p>
+    <div class="FollowBox">
+      <textarea class="feedback FeedbackText" cols="28" rows="5" name="feedback"></textarea>
+      <button class="SendFeedback btn btn_default btn_size_small" disabled="disabled">意見を送る</button>
+      <p>返答が必要な方は<a href="https://connpass.com/inquiry/">「connpassへのお問い合わせ」</a>をご利用ください</p>
+    </div>
+    <div class="PostedBox text_center" style="display:none;">
+      <p class="em">ご意見ありがとうございました！</p>
+      <p>いただいたご意見はスタッフが確認いたします。個々のご意見に返信できないことを予めご了承ください。</p>
+      <button class="link NewFeedback btn btn_default btn_size_small">さらに意見を送る</button>
+    </div>
+  </div>
+</div>
+
+
+      </div>
+    </div>
+    <div class="footer_link_area clearfix">
+      <div class="footer_beproud"><a href="http://www.beproud.jp/company/" target="_blank"><img src="https://connpass.com/static/img/common/logo_beproud.png" alt="BePROUD" title="BePROUD" />connpass は株式会社ビープラウドが開発・運営しています</a></div>
+      <address>&copy; 2017 BeProud, Inc. All Rights Reserved.</address>
+    </div>
+  </div>
+
+
+</div>
+
+
+
+
+
+<script id="EventCreateTemplate" type="text/html">
+  <div class="popup">
+    <div class="popup_wrapper">
+      <div class="popup_header">
+        <h2 class="popup_title">イベントを作成する</h2>
+        <span class="close_btn_area">
+          <span class="btn btn_default btn_size_small corner_none modal-close" title="閉じる"><span class="icon_black_close"></span></span>
+        </span>
+      </div>
+      <div class="popup_contents text_center">
+        <p class="font_16 mb_10"><strong>イベント名を入力してください</strong></p>
+        <input name="title" type="text" class="form_input_text form_width_450 font_18">
+
+        <div class="mt_10 mb_30">
+          <button type="submit" class="EventCreateSubmit btn btn_action btn_size_large" onClick="cet('Create', 'create_event');">イベントを作成</button>
+        </div>
+        <div class="right">
+          <a href="https://connpass.com/group/new/"><span class="icon_red_four_right"></span>グループを作成</a>
+        </div>
+      </div>
+    </div>
+  </div>
+</script>
+
+<script id="MessageTemplate" type="text/html">
+  <p class="message <%= level %>"><%- message %></p>
+</script>
+
+
+<div id="fb-root"></div>
+
+
+
+
+<div id="CurrentUserObj" style="display:none;" data-username="crawlingtest1000" data-display_name="太郎" data-is_deactivated="false" data-id="141247" data-profile_url="http://connpass.com/user/crawlingtest1000/"></div>
+<div id="CSRFToken" style="display:none;" data-csrftoken="wGc7U0JekZP3BxUtIWir3U5G9bYCKS6V"></div>
+
+<script type="text/javascript" src="https://connpass.com/static/js/require.js?20170330162749
+"></script>
+<script type="text/javascript" src="https://connpass.com/static/js/connpass.min.js?20170330162749
+"></script>
+<script type="text/javascript">
+require.config({
+  
+  baseUrl: 'https://connpass.com/static/js/',
+  locale: 'ja',
+  
+  onError: function(e) { _ravenQueue.push(e); },
+  config: {
+    'csrf': {
+      CSRF_COOKIE_NAME: 'connpass-csrftoken'
+    },
+    'sanca': {
+      
+      LOG_LEVEL: "WARNING",
+      HTTP_HOST: 'connpass.com',
+      STATIC_URL: 'https://connpass.com/static/',
+      MEDIA_URL: 'https://connpass.com/media/',
+      API_BASE_URL: 'https://connpass.com/api'
+    }
+  }
+});
+</script>
+
+<script type="text/javascript">
+require(['raven'], function(Raven) {
+  
+  var httpHostRegex = new RegExp('\/\/([a-z0-9]+\.)?' + 'connpass.com'.replace(/[\-\[\]\/\{\}\(\)\*\+\?\.\\\^\$\|]/g, "\\$&") + "\/", 'i');
+  var ignoreErrors = new RegExp("^Script error$|^Script error\\.$", 'i');
+
+  
+  Raven.TraceKit.remoteFetching = false;
+
+  
+  Raven.config('https://3fea03183f7a48ca8f1db8c787c6cd23@app.getsentry.com/83578', {
+    whitelistUrls: [httpHostRegex],
+    ignoreErrors: [ignoreErrors],
+    ignoreUrls: [
+        // Facebook
+        /graph\.facebook\.com/i,
+        /connect\.facebook\.net\/.+\/sdk\.js/i,
+        // Twitter
+        /platform\.twitter\.com\/widgets\.js/i,
+        // Chrome extensions
+        /extensions\//i,
+        /^chrome:\/\//i
+    ],
+    fetchContext: false 
+  }).install();
+  
+  
+  require.config({onError: Raven.captureException});
+
+  
+  for (var i = 0; i < _ravenQueue.length; i+=1) {
+    if (_ravenQueue[i] instanceof Error) {
+      Raven.captureException(_ravenQueue[i]);
+    } else {
+      
+      var msg = _ravenQueue[i].message;
+      var fileurl = _ravenQueue[i].culprit;
+      if (!ignoreErrors.test(msg) && httpHostRegex.test(fileurl)) {
+        Raven.captureMessage(msg, {culprit: fileurl});
+      }
+    }
+  };
+});
+</script>
+
+
+<script type="text/javascript">
+  require([
+    'jquery', 'jquerytools/tooltip.dynamic',
+    'jquerytools/tooltip.slide', 'design'
+  ], function($, Views) {
+    $(function() {
+      $('.Help').tooltip({
+        effect: 'slide',
+        position: 'bottom center',
+        offset: [20, 0],
+      }).dynamic({
+        bottom: {
+          direction: 'down',
+          bounce: true
+        }
+      });
+    });
+  });
+
+  require(['jquery', 'cs!sanca/views/personal_menu'], function($, Views) {
+    var personal_menu = new Views.PersonalMenu({
+      el: '#header',
+      dropdown_el: '#personalMenu'
+    });
+  });
+
+  require(['jquery', 'cs!sanca/views/feedback'], function($, Views) {
+    var feedbackform = new Views.FeedbackView({
+      el: '#FeedbackForm'
+    });
+  });
+
+  require([
+    'jquery', 'underscore', 'cs!sanca/views/event_create', 
+  ], function($, _, Views) {
+    $(function() {
+      var event_create = new Views.EventCreateWindow({
+        template_el: '#EventCreateTemplate'
+      });
+      $('.EventCreate').click(function() {
+        event_create.openModal();
+      });
+
+      
+      
+      if (_.indexOf(window.location.search.substring(1).split("&"), 'create=1') !== -1) {
+        event_create.openModal();
+      }
+    });
+  });
+
+  
+
+</script>
+<script type="text/javascript">
+  window.fbAsyncInit = function() {
+    FB.init({
+      version: 'v2.8',
+      status: true,
+      appId: '259235460759625',
+      xfbml: true  // Like btn
+    });
+    FB.Event.subscribe('edge.create', function(targetUrl) {
+      typeof cst === "function" && cst('facebook', 'like', targetUrl);
+    });
+    FB.Event.subscribe('edge.remove', function(targetUrl) {
+      typeof cst === "function" && cst('facebook', 'unlike', targetUrl);
+    });
+  };
+
+  (function(d, s, id){
+     var js, fjs = d.getElementsByTagName(s)[0];
+     if (d.getElementById(id)) {return;}
+     js = d.createElement(s); js.id = id;
+     js.src = "//connect.facebook.net/ja_JP/sdk.js";
+     fjs.parentNode.insertBefore(js, fjs);
+   }(document, 'script', 'facebook-jssdk'));
+</script>
+
+<script type="text/javascript">
+require(['jquery', 'jqueryui/datepicker', 'datepicker-i18n', 'jquery.multiple.select'], function($) {
+  $("#id_start_from").datepicker();
+  $("#id_start_to").datepicker();
+  $("#id_prefectures").multipleSelect({
+    selectAll: false,
+    multiple: true,
+    width: 460,
+    multipleWidth: 80,
+    maxHeight: 500
+  });
+});
+
+</script>
+
+</body>
+</html>
+
+0
+

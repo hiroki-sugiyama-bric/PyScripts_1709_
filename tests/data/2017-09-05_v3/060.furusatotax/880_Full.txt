@@ -1,0 +1,27 @@
+GET https://www.furusato-tax.jp/logout.html HTTP/1.1
+Host: www.furusato-tax.jp
+User-Agent: Mozilla/5.0 (Windows NT 6.1; WOW64; rv:52.0) Gecko/20100101 Firefox/52.0
+Accept: text/html,application/xhtml+xml,application/xml;q=0.9,*/*;q=0.8
+Accept-Language: ja,en-US;q=0.7,en;q=0.3
+Accept-Encoding: gzip, deflate, br
+Referer: https://www.furusato-tax.jp/mypage.html
+Cookie: __cfduid=d3ddcf860c025e959a2fa1895f734fa7c1491467614; B=F9BARwkGSck94KrWDRf4kw+Rxq9VhzlHyiGIIE0woOy5t2qkRXFjjEYrdSTNi4iAxNWhOClq5S2IapaTWoBAaKdrLCYDgZT6EIVIsp1sRS7Kdwkos59oZwq9I4kmWXBsVU; SNS=q1eyeR1Cx3UKg_WldiFXzA+xLmME8QkmS_6wagwqlHyeCw63LkP9x86ovuxrl0LbpkgMA0IKd0QtbB_88RbVOahC5jKOeYZw2BIoNiaHUbvQUne5QzfSHBKltVZpx-hu2tVj15U5bU_F3mXg6f61rL-6p3rKf81VU93fDUkhnevjw2Ws7vadoCcQZ4tmA_Zi5TpHsMd3zHESYHkArBlfcAsqRNLey318pG4CSeCuma9vphZzTlDwGrNUGFJrT8JxMgg0ObWebWaqqwOOkg9CKWw4fADH5MNiAJByG3h1nNlnUhGnSCV-7J50sT-nUmpg8PMRoxrr1UGQsacuOc3sUyiet7YHvMbwpKuNEhIUWTZa-PkAQHox4vhWzPXdaYqKoptKBU35e2p6VpYWI5zwYCakSAxKfvcQWuepsqf5xzKdmHar8vW-JucFlaoBf6AHISjIiIAa1qNxz67r4KDRyZRfcKlyRSZqdiFKwRnpGyyP8Xjoaqz8MCTT_EHScaOtnJaMyhElsjCZsDb7NM0XXEwJZvfA58Ma_SR0w7UFM5sTSSsytjjxJtS8neqdrS-7WW5p2hR7J_69wobYCO3iYiK; L=1BjFy448CHaBQ1vzdKfODQ+Eppy3lf2RNmc6HsQ0I3rpz0slLQXtXiN9UyJhhjA9OK_ggV5hOJLsk2z_64DqDAn_34xYM2fhuN6HUPdD7g-tLi4N4HYemC5LArqBy-cgk4; LN=V-LcctowiIHxXtuWLCclZg+hpOZu52URA8fwXuZ-7BG2qgMPppSOCIkfSRPQJTe2iazMwERAHUnj0bxGM7E1NWyGB7944X6fUbt8IA9hZeks1CEk4crB1s2mWxS-kpF90w; M=W2iqUFDjUQ8_S63G5iCV_9h84ls; _ga=GA1.2.746399930.1491468457
+Connection: close
+Upgrade-Insecure-Requests: 1
+
+
+HTTP/1.1 302 Found
+Date: Thu, 06 Apr 2017 09:04:05 GMT
+Content-Type: text/html; charset=UTF-8
+Transfer-Encoding: chunked
+Connection: close
+X-Pingback: https://www.furusato-tax.jp/wp/xmlrpc.php
+Link: <https://www.furusato-tax.jp/?p=12101>; rel=shortlink
+Set-Cookie: L=deleted; expires=Thu, 01-Jan-1970 00:00:01 GMT; Max-Age=0
+Set-Cookie: LN=deleted; expires=Thu, 01-Jan-1970 00:00:01 GMT; Max-Age=0
+Location: /
+Server: cloudflare-nginx
+CF-RAY: 34b393e2486d0b68-NRT
+
+0
+

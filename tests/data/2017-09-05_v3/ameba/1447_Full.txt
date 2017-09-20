@@ -1,0 +1,1849 @@
+GET http://ameblo.jp/satouishi/entry-12249541287.html?adxarea=tx-pcmypage HTTP/1.1
+Host: ameblo.jp
+User-Agent: Mozilla/5.0 (Windows NT 6.1; WOW64; rv:51.0) Gecko/20100101 Firefox/51.0
+Accept: text/html,application/xhtml+xml,application/xml;q=0.9,*/*;q=0.8
+Accept-Language: ja,en-US;q=0.7,en;q=0.3
+Referer: http://mypage.ameba.jp/
+Cookie: _ga=GA1.2.709713906.1487829769; __CCID=76ab1bde-65b1-4885-bdea-445e53b8; P=e3791729-5bdb-4aa5-9883-88bf131013c6; __gads=ID=77ef4cc23c0f4c05:T=1487829783:S=ALNI_MadVeHnYAUz3sm-onRE4MpG0kATPg; __utma=168831281.709713906.1487829769.1487834387.1487834387.1; __utmc=168831281; __utmz=168831281.1487834387.1.1.utmcsr=(direct)|utmccn=(direct)|utmcmd=(none); aid=0ca44655611da677d4c8ebf68d1ad944c92af4b8
+Connection: close
+Upgrade-Insecure-Requests: 1
+
+
+HTTP/1.1 200 OK
+Date: Thu, 23 Feb 2017 08:44:24 GMT
+Server: Apache
+Content-Type: text/html;charset=UTF-8
+Content-Language: ja
+Vary: Accept-Encoding,User-Agent
+Connection: close
+Transfer-Encoding: chunked
+
+1040
+<!doctype html>
+<html lang="ja" class="columnC fixed">
+<head>
+<!--base_skin_code:uranus,skin_code:ur_std_official_template21,default_custom_code:-->
+<meta charset="UTF-8" />
+<meta property="fb:app_id" content="311629842256842" />
+<meta property="og:locale" content="ja_JP" />
+<meta property="og:title" content="『天才を生む！？ダイソーＤＶＤ』" />
+<meta property="og:type" content="article" />
+<meta property="og:url" content="http://ameblo.jp/satouishi/entry-12249541287.html" />
+<meta property="og:image" content="http://stat.ameba.jp/user_images/20170220/11/satouishi/25/35/j/o0420030113873025951.jpg" />
+<meta property="og:site_name" content="不器用男の子育て日記123(男の育児）" />
+<meta property="og:description" content="**********************いつもコメント・いいね・リブログ・読者登録ありがとうございます 初めての方、ようこそいらっしゃいませ～♪(*^▽^…" />
+<meta property="al:ios:url" content="jpameblo://ameblo/satouishi/entry/12249541287">
+<meta property="al:ios:app_store_id" content="349442137">
+<meta property="al:ios:app_name" content="Ameba">
+<meta name="mixi-check-robots" content="nodescription, noimage" />
+<meta property="mixi:device-mobile" content="http://m.ameba.jp/m/blogArticle.do?unm=satouishi&articleId=12249541287&guid=ON" />
+<meta name="twitter:card" content="summary_large_image" />
+<meta name="twitter:url" content="http://ameblo.jp/satouishi/entry-12249541287.html" />
+<meta name="twitter:title" content="天才を生む！？ダイソーＤＶＤ" />
+<meta name="twitter:description" content="**********************いつもコメント・いいね・リブログ・読者登録ありがとうございます 初めての方、ようこそいらっしゃいませ～♪(*^▽^…" />
+<meta name="twitter:image" content="http://stat.ameba.jp/user_images/20170220/11/satouishi/25/35/j/o0420030113873025951.jpg" />
+<meta name="twitter:app:country" content="JP">
+<meta name="twitter:app:name:iphone" content="Ameba">
+<meta name="twitter:app:id:iphone" content="349442137">
+<meta name="twitter:app:url:iphone" content="jpameblo://ameblo/satouishi/entry/12249541287">
+<meta name="twitter:app:name:googleplay" content="Ameba">
+<meta name="twitter:app:id:googleplay" content="jp.ameba">
+<meta name="twitter:app:url:googleplay" content="jpameblo://ameblo/satouishi/entry/12249541287">
+<meta name="keywords" content="天才を生む！？ダイソーＤＶＤ,三男 ミー,不器用男の子育て日記123(男の育児）,ユウ,ブログ,アメブロ,アメーバ,ameba" />
+<meta http-equiv="X-UA-Compatible" content="IE=edge">
+<link rel="alternate" href="android-app://jp.ameba/http/ameblo.jp/satouishi/entry-12249541287.html" />
+<link rel="alternate" type="text/html" media="handheld" href="http://m.ameba.jp/m/blogArticle.do?guid=ON&unm=satouishi&articleId=12249541287" />
+<link rel="alternate" type="text/html" media="only screen and(max-device-width: 640px)" href="http://s.ameblo.jp/satouishi/entry-12249541287.html" />
+<link rel="canonical" href="http://ameblo.jp/satouishi/entry-12249541287.html">
+<title>天才を生む！？ダイソーＤＶＤ｜不器用男の子育て日記123(男の育児）</title>
+<link rel="alternate" type="application/rss+xml" title="RSS" href="http://rssblog.ameba.jp/satouishi/rss20.xml" />
+<link rel="shortcut icon" href="//stat100.ameba.jp/common_style/img/favicon.ico" />
+<link rel="apple-touch-icon-precomposed" href="//stat100.ameba.jp/common_style/img/sp/apple-touch-icon.png" />
+<link rel="stylesheet" media="screen,print" type="text/css" href="//stat100.ameba.jp/ameblo/pc/css/amebabar/ameblo.common.hf.white-1.2.0.css" />
+<link rel="stylesheet" media="screen,print" type="text/css" href="//stat100.ameba.jp/ameblo/pc/css/amebabar/amebabar-1.3.0.css" charset="UTF-8" />
+<link rel="stylesheet" type="text/css" href="//stat100.ameba.jp/ameblo/pc/css/templateStd-1.16.0.css" />
+<link rel="stylesheet" media="screen,print" type="text/css" href="//stat100.ameba.jp/ameblo/pc/css/entryDetailEventJack-1.2.0.css">
+<link rel="stylesheet" media="screen,print" href="//stat100.ameba.jp/ameblo/pc/css/freshSp-1.0.0
+5b4
+.css" charset="UTF-8" />
+<link rel="stylesheet" media="screen,print" href="//stat100.ameba.jp/ameblo/pc/css/freshTopics-1.3.0.css" charset="UTF-8" />
+<link rel="stylesheet" media="screen,print" href="//stat100.ameba.jp/ameblo/pc/css/freshCm-1.0.0.css" charset="UTF-8" />
+<link rel="stylesheet" type="text/css" href="//stat100.ameba.jp/p_skin/ur_std_official_template21/css/skin.css" id="skincss">
+<link rel="stylesheet" href="http://usrcss.ameblo.jp/skin/templates/b8/ee/header_10029276128.css">
+<link rel="stylesheet" media="screen,print" href="//stat100.ameba.jp/blog/css/user/blogiineEntry.1.000.css" charset="UTF-8" />
+<link rel="stylesheet" media="screen,print" href="//stat100.ameba.jp/ameblo/pc/css/modal-1.1.0.css" charset="UTF-8" />
+<link rel="stylesheet" media="screen,print" type="text/css" href="//stat100.ameba.jp/ameblo/pc/css/bigfooter-1.14.0.css" charset="UTF-8" />
+<!--[if lt IE 9]><script src="//stat100.ameba.jp/common_style/js/library/html5js/html5.js"></script><![endif]-->
+<script src="//stat100.ameba.jp/blog/new/js/cmn/blog_head.js" charset="UTF-8"></script>
+<script src="//stat100.ameba.jp/common_style/js/library/swfobject.js" charset="UTF-8"></script>
+<script src="//stat100.ameba.jp/ad/dfp/js/dfp.js?20160912"></script>
+<script>
+Amb.dfp.setTargetingParam('genre', 'kosodate,parents');
+Amb.dfp.setTargetingParam('adxOk', 'true');
+Amb.dfp.setTargetingParam('skinCode', 'ur_std_official_template21');
+Amb.dfp.setOpenX();
+</script>
+<!--
+5b4
+ga-->
+<script>
+// 母数（[denom]分の1を評価対象に設定する）
+var denom = 500;
+// tracking id
+var trackingId = 'UA-53871743-4';
+</script>
+<script src="//stat100.ameba.jp/ameblo/vendor/murmurhash3_gc.min.js"></script>
+<script src="//stat100.ameba.jp/ameblo/vendor/ameblo_ga.js"></script>
+<!--/ga-->
+<!-- アドセンス対応 -->
+<script src="//stat100.ameba.jp/adsense/js/gdn.js?ts=20160113"></script>
+<script>
+Amb.Ad.GDN.afc = new Amb.Ad.GDN.AFC({
+currentPage : 1,
+articleGenres : ["kosodate", "parents"],
+articleLength : 1
+});
+Amb.Ad.GDN.adex = new Amb.Ad.GDN.AdEX;
+</script><script>
+<!--
+var meta_words="";
+var theme_words = new Array("");
+article_length=1;
+var rank1 = "";
+var rank2 = "";
+var _gaq = _gaq || [];
+//-->
+</script>
+</head>
+<body class="skin-columnC" amb-layout="columnC">
+<script>
+dataLayer = [{
+skin: 'uranus',
+userType: 'top_blogger',
+columnType: '3columns',
+commonPage_pageId: 'article_blog-entry'
+}];
+</script>
+<noscript><iframe src="//www.googletagmanager.com/ns.html?id=GTM-WHNR29"
+height="0" width="0" style="display:none;visibility:hidden"></iframe></noscript>
+<script>(function(w,d,s,l,i){w[l]=w[l]||[];w[l].push({'gtm.start':
+new Date().getTime(),event:'gtm.js'});var f=d.getElementsByTagName(s)[0],
+j=d.createElement(s),dl=l!='dataLayer'?'&l='+l:'';j.async=true;j.src=
+'//www.googletagmanager.com/gtm.js?id='+i+dl;f.parentNode.insertBefore(j,f);
+})(window,document,'script','dataLayer','GTM-WHNR29');</script>
+<!-- Face
+450
+book Pixel Code -->
+<script>
+!function(f,b,e,v,n,t,s){if(f.fbq)return;n=f.fbq=function()
+{n.callMethod? n.callMethod.apply(n,arguments):n.queue.push(arguments)}
+;if(!f._fbq)f._fbq=n;
+n.push=n;n.loaded=!0;n.version='2.0';n.queue=[];t=b.createElement(e);t.async=!0;
+t.src=v;s=b.getElementsByTagName(e)[0];s.parentNode.insertBefore(t,s)}(window,
+document,'script','https://connect.facebook.net/en_US/fbevents.js');
+fbq('init', '1600985630194213');
+fbq('track', "PageView");</script>
+<noscript><img height="1" width="1" style="display:none"
+src="https://www.facebook.com/tr?id=1600985630194213&ev=PageView&noscript=1"
+/></noscript>
+<!-- End Facebook Pixel Code -->
+<div id="iineEntryListMask" class="mask hide"></div>
+<div class="modal-mask is-hide js-modal-mask js-modal-close"></div>
+<div id="fb-root"></div>
+<script>
+window.fbAsyncInit = function(){
+FB.init({
+appId : '311629842256842',
+version: 'v2.3',
+status : true,
+xfbml : true
+});
+FB.Event.subscribe('edge.create', function(url, html) {
+var pagePath = html.getAttribute('data-page-path') || location.href;
+dataLayer.push({ 'event':'FBevent','socialNe
+5ae
+twork':'Facebook','socialAction':'Like','socialTarget':url,'socialPagePath':pagePath});
+});
+};
+(function(d, s, id) {
+var js, fjs = d.getElementsByTagName(s)[0];
+if (d.getElementById(id)) return;
+js = d.createElement(s); js.id = id;
+js.src = "//connect.facebook.net/ja_JP/sdk.js#xfbml=1&version=v2.3&appId=311629842256842";
+fjs.parentNode.insertBefore(js, fjs);
+}(document, 'script', 'facebook-jssdk'));
+</script>
+<script>
+window.twttr = (function(d, s, id) {
+var js, fjs = d.getElementsByTagName(s)[0],
+t = window.twttr || {};
+if (d.getElementById(id)) return t;
+js = d.createElement(s);
+js.id = id;
+js.src = "https://platform.twitter.com/widgets.js";
+fjs.parentNode.insertBefore(js, fjs);
+t._e = [];
+t.ready = function(f) {
+t._e.push(f);
+};
+return t;
+}(document, "script", "twitter-wjs"));
+(function() {
+twttr.ready(
+function (twttr) {
+twttr.events.bind('follow', function(intentEvent) {
+var pagePath = intentEvent.target.parentNode.getAttribute('data-page-path-twitter');
+if (!pagePath) return;
+var account = intentEvent.target.getAttribute('data-screen-name');
+dataLayer.push({ 'event':'twttrevent','socialNetwork':'twitter','socialAction':'follow','socialTarget':account,'socialPagePath': pagePath});
+});
+}
+);
+})();
+</script>
+<!--bodyTop-->
+<a name="pageTop"></a>
+<!-- ▽ページ全体を包括 -->
+<div class="skin-page">
+<ul id="keyJumpNav" style="display:none">
+<li><a class="skinBlock" href="#blogContent">本文へジャンプ</a></li>
+<li><a 
+5b4
+class="skinBlock" href="http://ameblo.jp/satouishi/entry-12249160398.html">次のページヘ</a></li>
+<li><a class="skinBlock" href="http://ameblo.jp/satouishi/entry-12249817810.html">前のページヘ</a></li>
+<li><a class="skinBlock" href="http://ameblo.jp/satouishi/">ブログのトップページへ</a></li>
+<li><a class="skinBlock" href="http://ameblo.jp/satouishi/archiveentrylist-201702.html">最新の記事一覧ページへ</a></li>
+</ul>
+<div id="ambHeader">
+<div id="ambHeaderLeft"></div>
+<div id="ambHeaderRight">
+<div id="ameblo-option" class="-ameblo-cmnhf-service"></div>
+<div class="-ameblo-cmnhf-register"><a class="-ameblo-cmnhf-registerBtn" href="https://user.ameba.jp/regist/registerIntro.do">Ameba新規登録(無料)</a></div>
+</div>
+</div>
+<header role="banner" amb-layout="header" class="skin-bgHeader">
+<div amb-layout="headerInner">
+<a href="http://ameblo.jp/satouishi/">
+<div amb-component="headerTitle" class="skin-headerTitle">
+<p amb-component="headerMainTitle" class="skin-blogMainTitle">
+不器用男の子育て日記123(男の育児）
+</p>
+<p class="skin-blogSubTitle">
+不器用男の育児日記です。<br/>不器用な男が子育てをしたら・・・<br/>こうなります<br/>男の子三人なので毎日が運動会のような騒ぎです（苦笑）
+</p>
+</div>
+<div amb-component="headerImage" class="skin-headerImage"></div>
+</a>
+</div>
+</header><div amb-component="blogHeaderNav" amb-layout="headerNav
+5b4
+" class="skin-blogHeaderNav">
+<nav amb-layout="headerNavInner" class="skin-blogHeaderNavInner">
+<div amb-layout="headerNavMain">
+<ul amb-component="blogNav" class="skin-blogHeaderNavMenu">
+<li><a href="http://ameblo.jp/satouishi/" class="skin-topNavText is-active"><span amb-icon="blog_top large hasLabel" class="skin-topNavIcon"></span>ブログトップ</a></li>
+<li><a href="http://ameblo.jp/satouishi/entrylist.html" class="skin-topNavText"><span amb-icon="list_article large hasLabel" class="skin-topNavIcon"></span>記事一覧</a></li>
+<li><a href="http://ameblo.jp/satouishi/imagelist.html" class="skin-topNavText"><span amb-icon="photo large hasLabel" class="skin-topNavIcon"></span>画像一覧</a></li>
+</ul>
+</div>
+<div amb-layout="headerNavSub">
+<div amb-component="search" class="skin-blogSearch">
+<form amb-component="search" id="blogSearchFormHeader" class="skin-blogSearch js-searchForm" name="blogSearchFormHeader" action="http://search.ameba.jp/search.html" method="get">
+<input role="search" id="blogSearchInputHeader" class="skin-blogSearchInput js-searchInput" type="text" size="20" maxlength="255" name="q" title="このブログを検索する" value="このブログを検索する" />
+<input type="hidden" name="aid" value="satouishi" />
+<div amb-component="searchButton" id="blogSearchBtnHeader" class="js-searchBtn">
+<span amb-icon="search large"></span>
+</div>
+</form>
+</div>
+</div>
+</nav>
+</div>
+<div class="skin-blogBody" amb-lay
+5b4
+out="body">
+<div class="skin-blogBodyInner" amb-layout="content">
+<div id="primary" amb-layout="primary">
+<div id="main" class="skin-blogMain skinMainArea" amb-layout="main">
+<ul amb-component="paging" class="skin-paging">
+<li>
+<a href="http://ameblo.jp/satouishi/entry-12249817810.html" amb-component="pagingItem" class="skin-pagingPrev skin-btnPaging ga-pagingEntryPrevTop">
+<span amb-icon="paging_previous large" class="skin-btnPagingIcon"></span>
+なめてかかるとイタ･･･</a>
+</li>
+<li>
+<a amb-component="pagingItem" href="http://ameblo.jp/satouishi/entry-12249160398.html" class="skin-pagingNext skin-btnPaging ga-pagingEntryNextTop">
+脳の不思議～ハッピ･･･
+<span amb-icon="paging_next large" class="skin-btnPagingIcon"></span>
+</a>
+</li>
+</ul>
+<div class="skin-blogMainInner skin-bgMain" amb-layout="mainInner" role="main">
+<a name="blogContent"></a>
+<!-- ▽日付表示 -->
+<!-- ▽タイトル表示 -->
+<!-- ▽テーマ表示 -->
+<!-- ▽記事下部いいね！/コメント/リブログ テキストリンク -->
+<!-- ▽記事 -->
+<article amb-component="entry" class="skin-entry themeNumber10091702405 js-entryWrapper" data-unique-entry-id="12249541287" data-unique-entry-title="天才を生む！？ダイソーＤＶＤ" data-unique-ameba-id="satouishi">
+<div class="skin-entryInner">
+<div amb-component="entryHead" class="skin-entryHead">
+<h1 amb-component="entryTitle" class="skin-entryTitle"><a href="http://ameblo
+5b4
+.jp/satouishi/entry-12249541287.html" rel="bookmark">天才を生む！？ダイソーＤＶＤ</a>
+</h1>
+<div><p amb-component="entryDate" class="skin-entryPubdate">
+<time datetime="2017-02-20" class="skin-textQuiet">2017-02-20 11:18:31</time>
+</p>
+</div>
+<div><dl amb-component="entryThemes" class="skin-entryThemes">
+<dt class="skin-textQuiet">テーマ：</dt>
+<dd><a href="http://ameblo.jp/satouishi/theme-10091702405.html" rel="tag">三男 ミー</a></dd>
+</dl>
+</div>
+</div>
+<div amb-component="entryBody" class="skin-entryBody">
+<p>**********************</p>
+<p>いつもコメント・いいね・リブログ・読者登録ありがとうございます</p>
+<p>&nbsp;</p>
+<p>初めての方、ようこそいらっしゃいませ～♪(*^▽^*)</p>
+<p><a href="http://ameblo.jp/satouishi/entry-12056194803.html">→はじめから読む</a></p>
+<p>**********************</p>
+<p>&nbsp;</p>
+<p>先日ブログに書いた</p>
+<p><a href="http://ameblo.jp/satouishi/entry-12211059043.html">「だいすけお兄さんの卒業の理由」</a>を</p>
+<p>アメトピに挙げていただいたみたいで</p>
+<p>すごい反響でした！ありがとうございます♪</p>
+<p>&nbsp;</p>
+<p>だいすけお兄さんの卒業をおしむ声が</p>
+<p>いっぱい聞こえてきますね～</p>
+<p>&nbsp;</p>
+<p>さて、今回は</p>
+<p>&nbsp;</p>
+<p>少し前に紹介した</p>
+<p><a href="http://ameblo.jp/satouishi/entry-1221105
+5ac
+9043.html">「ダイソーで買った超コスパの良いもの」</a></p>
+<p>の続きです・・・</p>
+<p>&nbsp;</p>
+<p>ダイソーには やたらとお世話になっておりますが・・・</p>
+<p>&nbsp;</p>
+<p><a id="i13873025951" class="detailOn" href="http://ameblo.jp/satouishi/image-12249541287-13873025951.html"><img alt="" height="301" src="http://stat.ameba.jp/user_images/20170220/11/satouishi/25/35/j/o0420030113873025951.jpg?caw=800" width="420"></a></p>
+<p>&nbsp;</p>
+<p><a id="i13873025961" class="detailOn" href="http://ameblo.jp/satouishi/image-12249541287-13873025961.html"><img alt="" height="302" src="http://stat.ameba.jp/user_images/20170220/11/satouishi/3f/af/j/o0420030213873025961.jpg?caw=800" width="420"></a></p>
+<p>これ！</p>
+<p>&nbsp;</p>
+<p><a id="i13873025975" class="detailOn" href="http://ameblo.jp/satouishi/image-12249541287-13873025975.html"><img alt="" height="304" src="http://stat.ameba.jp/user_images/20170220/11/satouishi/d4/f3/j/o0420030413873025975.jpg?caw=800" width="420"></a></p>
+<p>&nbsp;</p>
+<p>というのが 前回の話</p>
+<p>&nbsp;</p>
+<p>それから・・・</p>
+<p>&nbsp;</p>
+<p><a id="i13873025991" class="detailOn" href="http://ameblo.jp/satouishi/image-12249541287-13873025991.html"><img alt="" height="301" src="http://stat.ameba.jp/user_images/20170220/11/satouishi/65/da/j/o0420030113873025991.jpg?caw=800" width="420"></a></p>
+<p>&nbsp;</p>
+<p>&nbsp;</p>
+
+5b4
+<p>&nbsp;</p>
+<p><a id="i13873026008" class="detailOn" href="http://ameblo.jp/satouishi/image-12249541287-13873026008.html"><img alt="" height="303" src="http://stat.ameba.jp/user_images/20170220/11/satouishi/0f/4f/j/o0420030313873026008.jpg?caw=800" width="420"></a></p>
+<p>&nbsp;</p>
+<p>いまだに 見ています</p>
+<p>もう コスパどころの話ではない・・・</p>
+<p>&nbsp;</p>
+<p><a id="i13873026027" class="detailOn" href="http://ameblo.jp/satouishi/image-12249541287-13873026027.html"><img alt="" height="302" src="http://stat.ameba.jp/user_images/20170220/11/satouishi/5a/9a/j/o0420030213873026027.jpg?caw=800" width="420"></a></p>
+<p>&nbsp;</p>
+<p>トムとジェリーのひきつけ力スゴイ！</p>
+<p>&nbsp;</p>
+<p>車中の子供たちのたいくつしのぎは</p>
+<p>トムとジェリーにお世話になりっぱなしです</p>
+<p>&nbsp;</p>
+<p>そして・・・</p>
+<p>&nbsp;</p>
+<p><a id="i13873026047" class="detailOn" href="http://ameblo.jp/satouishi/image-12249541287-13873026047.html"><img alt="" height="303" src="http://stat.ameba.jp/user_images/20170220/11/satouishi/1c/09/j/o0420030313873026047.jpg?caw=800" width="420"></a></p>
+<p>&nbsp;</p>
+<p>妻と待ち合わせで ミーをつれてカフェで待っていると・・・</p>
+<p>&nbsp;</p>
+<p>突然 「トムとジェリーよっ！」と叫ぶミー</p>
+<p>&nbsp;</p>
+<p>えっ？どこにもないぞ トムとジェリー？？？
+5b4
+</p>
+<p>&nbsp;</p>
+<p>と思ったら・・・</p>
+<p>&nbsp;</p>
+<p><a id="i13873026064" class="detailOn" href="http://ameblo.jp/satouishi/image-12249541287-13873026064.html"><img alt="" height="302" src="http://stat.ameba.jp/user_images/20170220/11/satouishi/23/10/j/o0420030213873026064.jpg?caw=800" width="420"></a></p>
+<p>&nbsp;</p>
+<p>私はぜんぜん気づかなかったのですが、</p>
+<p>&nbsp;</p>
+<p>ミーは 繰り返し見ているので</p>
+<p>一発で わかるらしい・・・</p>
+<p>&nbsp;</p>
+<p>すごいな・・・</p>
+<p>&nbsp;</p>
+<p><a id="i13873026088" class="detailOn" href="http://ameblo.jp/satouishi/image-12249541287-13873026088.html"><img alt="" height="302" src="http://stat.ameba.jp/user_images/20170220/11/satouishi/e9/36/j/o0420030213873026088.jpg?caw=800" width="420"></a></p>
+<p>&nbsp;</p>
+<p>目を閉じて トムとジェリーのシーンを思い浮かべて</p>
+<p>います</p>
+<p>&nbsp;</p>
+<p>もう 曲を聞いただけで 頭の中に映像が流れるんでしょうね</p>
+<p>&nbsp;</p>
+<p>ミー ちょっと 待つのに退屈しかけていたから</p>
+<p>ちょうどよかった（笑）</p>
+<p>&nbsp;</p>
+<p>だんだんと のってきて・・・</p>
+<p>&nbsp;</p>
+<p><a id="i13873026105" class="detailOn" href="http://ameblo.jp/satouishi/image-12249541287-13873026105.html"><img alt="" height="303" src="http://stat.ameba.jp/user_images/20170220/11/satouishi/6d/fd/j
+5b4
+/o0420030313873026105.jpg?caw=800" width="420"></a></p>
+<p>&nbsp;</p>
+<p>指揮をするトムを 完コピです（笑）</p>
+<p>&nbsp;</p>
+<p>すごい ここまでやれるんだ・・・</p>
+<p>&nbsp;</p>
+<p>まあ 楽しそうだから そのままやらせておいたら・・・</p>
+<p>&nbsp;</p>
+<p>&nbsp;</p>
+<p><a id="i13873026116" class="detailOn" href="http://ameblo.jp/satouishi/image-12249541287-13873026116.html"><img alt="" height="301" src="http://stat.ameba.jp/user_images/20170220/11/satouishi/01/51/j/o0420030113873026116.jpg?caw=800" width="420"></a></p>
+<p>&nbsp;</p>
+<p>端から見ると クラッシックに精通した</p>
+<p>天才幼児に見えたみたいです・・・(^▽^;)</p>
+<p>&nbsp;</p>
+<p>まわりから ザワザワと 声が・・・</p>
+<p>&nbsp;</p>
+<p>いや ちがうんですよ ちがうんです・・・</p>
+<p>&nbsp;</p>
+<p>でも たしかに みごとな指揮でした・・・</p>
+<p>&nbsp;</p>
+<p>100円のＤＶＤで 天才指揮者誕生です（笑）</p>
+<p>&nbsp;</p>
+<p>（不器用男）</p>
+<p>&nbsp;</p>
+<p>&nbsp;</p> 
+<p>昨年の２月は こんなこと書いていました↓</p>
+<p><a href="http://ameblo.jp/satouishi/entry-12130702707.html">→あき缶の生態系</a></p>
+<p>&nbsp;</p>
+<p><a href="http://ameblo.jp/satouishi/entry-12132612695.html">→あの本がやっと届いた</a></p>
+<p>&nbsp;</p>
+<p><a href="http://ameblo.jp/satouishi/entry-
+5b4
+12125178467.html">→カセットテープの青春</a></p>
+<p>*****</p>
+<p>&nbsp;</p>
+<p>よかったら</p>
+<p>一日一回ポチッとお願いします↓<br>
+<a href="http://blog.with2.net/link.php?1768924" target="_blank" title="人気ブログランキングへ"><img border="0" src="http://banner.blog.with2.net/?id=1768924&amp;seq=1"></a></p>
+<p>&nbsp;</p>
+<p>&nbsp;</p>
+<p><a href="https://twitter.com/yuu_mukara" target="_blank"><img alt="" height="106" src="http://stat.ameba.jp/user_images/20170216/05/satouishi/85/9c/j/o0300010613869794008.jpg?caw=800" width="300"></a></p>
+<p>twitterはこちらから↑</p>
+<p>使い方はよくわかってません・・・</p>
+<p>&nbsp;</p>
+<p>すくパラブログ総選挙2016秋冬</p>
+<p>に参加しています！投票よろしくお願いします♪</p>
+<p><a href="http://sukupara.jp/msg_new_send.php?user_id=0 "><img alt="" height="301" src="http://stat.ameba.jp/user_images/20161102/05/satouishi/16/7b/j/o0300030113787789139.jpg?caw=800" width="300"></a></p>
+<p>投票方法は</p>
+<p>１）こちらから→<a href="http://sukupara.jp/msg_new_send.php?user_id=0">☆投票</a></p>
+<p>すくパラはじめての方はお手数ですが</p>
+<p>会員登録をお願いします。</p>
+<p>&nbsp;</p>
+<p>２）メッセージの件名欄に</p>
+<p>「ノンジャンル部門 20番 ユウ」と書いて</p>
+<p>&nbsp;</p>
+<p>本文には 何か適当に あなたの推し�
+5b4
+��ン</p>
+<p>でも書いてください</p>
+<p>「ミー」「フー」「ヒー」「ママ」「不器用男」とか</p>
+<p>&nbsp;</p>
+<p>そして送信♪</p>
+<p>それだけです～</p>
+<p>（重複投票は無効になるみたいなので</p>
+<p> １回だけの投票をお願いします♪）</p>
+<p>&nbsp;</p>
+<p>今回も応援よろしくお願いします♪</p>
+<p>&nbsp;</p>
+<p>☆ ☆ ☆</p>
+<p>&nbsp;</p>
+<p>不器用なブログですが</p>
+<p>読者登録 ぜひおねがいします♪</p>
+<p>↓ここをクリック<br>
+<a href="http://blog.ameba.jp/reader.do?bnm=satouishi" title="どくしゃになってね！"><img alt="どくしゃになってね！" height="52" src="http://stat.ameba.jp/user_images/20161126/10/satouishi/14/78/j/o0590007613806997098.jpg?caw=800" width="400"></a></p>
+<p>&nbsp;</p>
+<p><br>
+「漫画にしてみた！」で<br>
+スマホでも読みやすいので<br>
+見てみてください♪↓</p>
+<p><a href="https://dokusho-ojikan.jp/original/#!author/id=1939101"><img class="selected" id="1447137738682" ratio="1" src="http://stat.ameba.jp/user_images/20151106/13/satouishi/8c/15/j/t02200220_0500050013475996093.jpg" style="width:220px; height:220px; border:none;"> </a></p>
+<p>&nbsp;</p>
+<p>&nbsp;</p>
+</div>
+<div class="js-hashtag hashtag-module-wrapper" data-hash-entryId="12249541287"></div>
+<div amb-component="entryAd" class="skin-entryAd is-single">
+<div amb-component=
+5ac
+"entryAdInner">
+<div amb-component="entryAdHead" class="skin-textQuiet"><span>AD</span></div>
+<div amb-component="entryAdBlock">
+<div amb-component="entryAdBox" class="afc-frame">
+<script>
+Amb.Ad.GDN.adex.setFrameHere({
+articleIndex: 'uranus_3column_1',
+pageUrl: 'http://ameblo.jp/satouishi/entry-12249541287.html'
+});
+</script>
+</div>
+</div>
+</div>
+</div>
+<div amb-component="entryFooter" class="skin-entryFooter">
+<div amb-component="entryAction" class="js-popup-reblog-trigger">
+<div amb-component="entryActionItem">
+<div id="iineBtnWrap" class="iineBtnWrap">
+<iframe src="http://iine.blog.ameba.jp/web/display_iine.html?receiveAmebaId=satouishi&entryId=12249541287&from=entry&device=pc&baseSkinCode=uranus&viewType=vertical" name="iine" width="100%" height="50" class="iineBtnIframe" frameborder="0" allowtransparency="true" scrolling="no">いいね！</iframe>
+</div>
+</div>
+<div amb-component="entryActionItem">
+<p amb-component="entryButton">
+<a href="javascript:void(0);" data-entryId="12249541287" class="commentWinOpenBtn">
+<span amb-component="entryButtonIcon" amb-icon="comment large hasLabel"></span>コメントする
+<span amb-component="entryButtonCount">12</span>
+</a>
+</p>
+</div>
+<div amb-component="entryActionItem">
+<p amb-component="entryButton">
+<a href="http://blog.ameba.jp/ucs/logininput.do?reblog_ameba_id=satouishi&reblog_entry_id=12249541287&entry_title=%E5%A4%A9%E6%89%8D%E3%82%92%E7%94%9F%E3%82%80%EF%BC%81%EF%BC%9F%E3%83%
+b68
+80%E3%82%A4%E3%82%BD%E3%83%BC%EF%BC%A4%EF%BC%B6%EF%BC%A4" data-entryId="12249541287" class="reblogEditBtn" data-tap_id="reblog" data-content_ids="['satouishi','12249541287','top_blogger']">
+<span amb-component="entryButtonIcon" amb-icon="reblog medium hasLabel"></span>リブログする
+</a>
+</p>
+</div>
+</div>
+<div amb-component="feedbacks">
+<p amb-component="feedbacksLike"><a href="javascript:void(0)" class="iineEntryCnt" data-entryTitle="天才を生む！？ダイソーＤＶＤ" data-entryId="12249541287" data-entryIineCnt="242">いいね！した人一覧</a></p>
+<div amb-component="feedbacksComment">
+<div amb-component="feedbacksDivider" class="skin-borderLoud"></div>
+<a href="http://ameblo.jp/satouishi/entry-12249541287.html#cbox">コメント一覧</a>
+</div>
+</div>
+<!-- 区切り線 -->
+<div amb-component="entryFooterDivider" class="skin-borderQuiet"></div>
+<!-- ▽ソーシャルボタン -->
+<ul amb-component="entryShare" class="skin-entryShare">
+<li><div amb-component="hatebuButton" class="hatebu-button"><a href="http://b.hatena.ne.jp/entry/http%3A%2F%2Fameblo.jp%2Fsatouishi%2Fentry-12249541287.html" class="hatena-bookmark-button" data-hatena-bookmark-title="『天才を生む！？ダイソーＤＶＤ』" data-hatena-bookmark-layout="standard-balloon" data-hatena-bookmark-lang="ja" title="このエントリーをはてなブックマークに追加"><img src="https://b.st-hatena.com/images/entry-button/button-only@2x.png" alt="このエントリーをはてなブックマークに追加" width="20" height="20" style="border: none;" /></a><script src="https://b.st-hatena.com/js/bookmark_button.js" charset="utf-8" async="async"></script></div></li>
+<li><a class="tweetBtn" href="//stat100.ameba.jp/blog/proxy.html?longurl=http%3A%2F%2Fameblo.jp%2Fsatouishi%2Fentry-12249541287.html&title=%E3%80%8E%E5%A4%A9%E6%89%8D%E3%82%92%E7%94%9F%E3%82%80%EF%BC%81%EF%BC%9F%E3%83%80%E3%82%A4%E3%82%BD%E3%83%BC%EF%BC%A4%EF%BC%B6%EF%BC%A4%E3%80%8F%0d%0a%e2%87%92&type=tw" target="_blank" rel="nofollow" amb-component="tweetButton"><i></i><span>ツイート</span></a></li>
+<li><div amb-component="fbButton" class="fb-share-button" data-href="http://ameblo.jp/satouishi/entry-12249541287.html" data-layout="button_count"></div></li>
+</ul>
+<!-- ▽SNSアカウント -->
+<div class="snsReaderModule bd skin-bd-color skinBorderColor skin-borderQuiet">
+<div class="snsReaderModuleBlog snsReaderModuleBlog--uranus">
+<div class="snsReaderModuleBlog__profileImg snsReaderModuleBlog__profileImg--uranus3cols">
+<span class="snsReaderModuleBlogProfileImgWrap">
+<img src="https://stat.profile.ameba.jp/profile_images/20150807/22/33/Ac/j/o044604471438954232021.jpg?cpd=72" width="72" />
+</span>
+</div>
+<div class="snsReaderModuleBlog__text snsReaderModuleBlog__text--uranus3cols">
+<p class="snsReaderModuleBlogNickname snsReaderModuleBlogNickname--uranus skinTextColor">ユウさんの読者になろう</p>
+5b4
+
+<p class="snsReaderModuleBlogCopy snsReaderModuleBlogCopy--uranus skin-textQuiet skinWeakColor">ブログの更新情報が受け取れて、アクセスが簡単になります</p>
+</div>
+<div class="snsReaderModuleBlog__button snsReaderModuleBlog__button--uranus3cols">
+<a href="http://blog.ameba.jp/reader.do?bnm=satouishi" amb-component="button" class="skin-btnPrimary"><span amb-icon="reader large hasLabel"></span>読者になる</a>
+</div>
+</div>
+<div class="snsReaderModuleSns">
+<h2 class="snsReaderModuleSns__heading snsReaderModuleSns__heading--uranus skin-textQuiet skinWeakColor">
+<span class="snsReaderModuleSnsHeadingLine snsReaderModuleSnsHeadingLine--left bd skin-bd-color skinBorderColor skin-borderQuiet"></span>
+SNSアカウント
+<span class="snsReaderModuleSnsHeadingLine snsReaderModuleSnsHeadingLine--right bd skin-bd-color skinBorderColor skin-borderQuiet"></span>
+</h2>
+<div class="snsReaderModuleSns__body snsReaderModuleSns__body--uranus">
+<div class="snsReaderModuleSnsAccount snsReaderModuleSnsAccount--double">
+<a href="https://twitter.com/yuu_mukara" class="snsReaderModuleSnsAccount__link snsReaderModuleSnsAccount__link--tw" data-tap_id="profile-twitter">Twitter</a>
+</div>
+<div class="snsReaderModuleSnsAccount snsReaderModuleSnsAccount--double bd skin-bd-color skinBorderColor skin-borderQuiet">
+<a href="https://www.facebook.com/yuusato310" class="snsReaderModuleSnsAccount__link snsReaderModuleSnsAccount__link--fb" data-t
+5b4
+ap_id="profile-facebook">Facebook</a>
+</div>
+</div>
+</div>
+</div>
+</div>
+</div>
+</article><!-- /skin-entry -->
+<ul amb-component="entryPaging" class="skin-entryPaging skin-borderLoud">
+<li amb-component="entryPagingItem">
+<a href="http://ameblo.jp/satouishi/entry-12249817810.html" amb-component="entryPagingPrev" class="skin-entryPagingPrev ga-entryPagingPrev">
+<img src="//stat.ameba.jp/user_images/20170221/10/satouishi/e8/70/j/o0420030313873662220.jpg?cpd=56" amb-component="entryPagingThumb" class="skin-entryPagingThumb">
+<span amb-component="entryPagingTitle" class="skin-entryPagingTitle">なめてかかるとイタ･･･</span>
+<span amb-icon="paging_previous large"></span>
+</a>
+</li>
+<li amb-component="entryPagingDivider" class="skin-entryPagingDivider skin-borderLoud"></li>
+<li amb-component="entryPagingItem">
+<a href="http://ameblo.jp/satouishi/entry-12249160398.html" amb-component="entryPagingNext" class="skin-entryPagingNext ga-entryPagingNext">
+<img src="//stat.ameba.jp/user_images/20170219/04/satouishi/5b/6b/j/o0420030213872063998.jpg?cpd=56" amb-component="entryPagingThumb" class="skin-entryPagingThumb">
+<span amb-component="entryPagingTitle" class="skin-entryPagingTitle">脳の不思議～ハッピ･･･</span>
+<span amb-icon="paging_next large"></span>
+</a>
+</li>
+</ul>
+<div amb-component="mainWidget">
+<div amb-component="mainWidgetHeader" class="skin-mainWidgetTitle skin-borderLoud">
+<h4 amb-component="mainWidgetTitle"
+b60
+>同じテーマ&nbsp;「<a href="http://ameblo.jp/satouishi/theme-10091702405.html">三男 ミー</a>」&nbsp;の記事</h4>
+</div>
+<div amb-component="mainWidgetBody">
+<ul amb-component="relatedEntries" class="skin-borderLoud">
+<li class="skin-borderQuiet">
+<a href="http://ameblo.jp/satouishi/entry-12245132620.html" amb-component="relatedEntriesTarget">
+<p amb-component="relatedEntriesTitle">それってウマい！？</p>
+<p amb-component="relatedEntriesDatetime" class="skin-textQuiet">2017-02-06</p>
+<div amb-component="relatedEntriesFeedback" class="skin-textQuiet">
+<dl amb-component="feedbackCounts" class="skin-textQuiet">
+<dt><span amb-icon="iine large"></span></dt>
+<dd>109</dd>
+<dt><span amb-icon="comment large"></span></dt>
+<dd>4</dd>
+</dl>
+</div>
+</a>
+</li>
+<li class="skin-borderQuiet">
+<a href="http://ameblo.jp/satouishi/entry-12241263096.html" amb-component="relatedEntriesTarget">
+<p amb-component="relatedEntriesTitle">ミーがする昔話の内容（２）</p>
+<p amb-component="relatedEntriesDatetime" class="skin-textQuiet">2017-01-25</p>
+<div amb-component="relatedEntriesFeedback" class="skin-textQuiet">
+<dl amb-component="feedbackCounts" class="skin-textQuiet">
+<dt><span amb-icon="iine large"></span></dt>
+<dd>75</dd>
+<dt><span amb-icon="comment large"></span></dt>
+<dd>10</dd>
+</dl>
+</div>
+</a>
+</li>
+<li class="skin-borderQuiet">
+<a href="http://ameblo.jp/satouishi/entry-12240958880.html" amb-component="relatedEntriesTarget">
+<p amb-component="relatedEntriesTitle">三男ミーがする昔話の内容・・・</p>
+<p amb-component="relatedEntriesDatetime" class="skin-textQuiet">2017-01-24</p>
+<div amb-component="relatedEntriesFeedback" class="skin-textQuiet">
+<dl amb-component="feedbackCounts" class="skin-textQuiet">
+<dt><span amb-icon="iine large"></span></dt>
+<dd>140</dd>
+<dt><span amb-icon="comment large"></span></dt>
+<dd>20</dd>
+</dl>
+</div>
+</a>
+</li>
+</ul>
+</div>
+<div amb-component="mainWidgetFooter">
+<a href="http://ameblo.jp/satouishi/theme-10091702405.html" amb-component="button" class="skin-btn">もっと見る</a>
+</div>
+</div><div amb-component="mainWidget">
+<div amb-component="mainWidgetHeader" class="skin-mainWidgetTitle skin-borderLoud">
+<h4>画像つき記事</h4>
+</div>
+<div amb-component="mainWidgetBody">
+<ul amb-component="imageEntries">
+<li>
+<a href="http://ameblo.jp/satouishi/entry-12250425731.html?frm_src=thumb_module" amb-component="imageEntriesTarget">
+<div amb-component="imageEntriesCover">
+<img src="//stat.ameba.jp/user_images/20170223/03/satouishi/52/01/j/t02200158_0420030213875121810.jpg?cpd=215" alt="妻の逆子はなおるのか&hellip;">
+</div>
+<p amb-component="imageEntriesTitle">妻の逆子はなおるのか&hellip;</p>
+<p amb-component="imageEntriesDatetime" class="skin-textQuiet">今日</p>
+</a>
+</li>
+<li>
+<a href="http://ameblo.jp/satouishi/entry-12250076058.html?frm_src=thumb_module" amb-component="imageEntri
+b68
+esTarget">
+<div amb-component="imageEntriesCover">
+<img src="//stat.ameba.jp/user_images/20170221/10/satouishi/9c/a5/j/t02200159_0420030313873662258.jpg?cpd=215" alt="ロボットに年齢は当て&hellip;">
+</div>
+<p amb-component="imageEntriesTitle">ロボットに年齢は当て&hellip;</p>
+<p amb-component="imageEntriesDatetime" class="skin-textQuiet">昨日</p>
+</a>
+</li>
+<li>
+<a href="http://ameblo.jp/satouishi/entry-12249817810.html?frm_src=thumb_module" amb-component="imageEntriesTarget">
+<div amb-component="imageEntriesCover">
+<img src="//stat.ameba.jp/user_images/20170221/10/satouishi/e8/70/j/t02200159_0420030313873662220.jpg?cpd=215" alt="なめてかかるとイタい&hellip;">
+</div>
+<p amb-component="imageEntriesTitle">なめてかかるとイタい&hellip;</p>
+<p amb-component="imageEntriesDatetime" class="skin-textQuiet">おととい</p>
+</a>
+</li>
+<li>
+<a href="http://ameblo.jp/satouishi/entry-12249160398.html?frm_src=thumb_module" amb-component="imageEntriesTarget">
+<div amb-component="imageEntriesCover">
+<img src="//stat.ameba.jp/user_images/20170219/04/satouishi/5b/6b/j/t02200158_0420030213872063998.jpg?cpd=215" alt="脳の不思議～ハッピー&hellip;">
+</div>
+<p amb-component="imageEntriesTitle">脳の不思議～ハッピー&hellip;</p>
+<p amb-component="imageEntriesDatetime" class="skin-textQuiet">2017-02-19</p>
+</a>
+</li>
+</ul>
+</div>
+<div amb-component="mainWidgetFooter">
+<a href="http://ameblo.jp/satouishi/imagelist.html" amb-component="button" class="skin-btn">もっと見る</a>
+</div>
+</div>
+<span id="js-snews-trigger"></span>
+<script>
+var blogCommentType = "PC";
+</script>
+<div amb-component="mainWidget">
+<div amb-component="mainWidgetAnchor">
+<a id="cbox" name="cbox"></a>
+</div>
+<div amb-component="mainWidgetHeader" class="skin-mainWidgetTitle skin-borderLoud" id="commentsHeader">
+<h4>コメント（12）</h4>
+</div>
+<div amb-component="mainWidgetBody">
+<div amb-component="comments">
+<ul amb-component="commentsList" class="is-collapsed" id="commentsList">
+<li>
+<a id="c12915087889" name="c12915087889" class="js-commentId"></a>
+<div amb-component="commentOwner" class="skin-bgQuiet is-owner">
+<div amb-component="comment" class="skin-comment skin-borderQuiet">
+<p amb-component="commentNum">12</p>
+<p amb-component="commentTitle">Re:無題</p>
+<div amb-component="commentText">＞よいこさん<br />初コメありがとうございます！<br />おおお おんなじですね～<br />自らをジェリーと(^∇^)<br />あっよいこさんは 足だけおばさん・・・(^▽^&#59;) そんな配役・・・<br /><br />うちの次男も その話ごとに 配役します。いちばん活躍するのが自分で、一番イタイ目にあうのが私（ほぼトム）ということが多いですけど(^▽^&#59;)</div>
+<p amb-component="commentAuthor">
+<a rel="nofollow" href="http://ameblo.jp/satouishi/" target="_blank">ユウ</a>
+<
+1114
+/p>
+<p amb-component="commentDatetime" class="skin-textQuiet">2017-02-21 10:43:54</p>
+<p amb-component="commentAction" class="skin-textQuiet">
+<a class="commentReply commentWinOpenBtn" data-entryId="12249541287" data-cid="12915087889" href="javascript:void(0);"><span amb-icon="reply hasLabel"></span>返信する</a>
+</p>
+</div>
+</div>
+</li>
+<li>
+<a id="c12915087479" name="c12915087479" class="js-commentId"></a>
+<div amb-component="commentOwner" class="skin-bgQuiet is-owner">
+<div amb-component="comment" class="skin-comment skin-borderQuiet">
+<p amb-component="commentNum">11</p>
+<p amb-component="commentTitle">Re:最強コスパですね</p>
+<div amb-component="commentText">＞KYLIEさん<br />コメントありがとうございます！<br />目をとじながら、なかなかの指揮者ぶりですよ（笑）</div>
+<p amb-component="commentAuthor">
+<a rel="nofollow" href="http://ameblo.jp/satouishi/" target="_blank">ユウ</a>
+</p>
+<p amb-component="commentDatetime" class="skin-textQuiet">2017-02-21 10:40:44</p>
+<p amb-component="commentAction" class="skin-textQuiet">
+<a class="commentReply commentWinOpenBtn" data-entryId="12249541287" data-cid="12915087479" href="javascript:void(0);"><span amb-icon="reply hasLabel"></span>返信する</a>
+</p>
+</div>
+</div>
+</li>
+<li>
+<a id="c12915087358" name="c12915087358" class="js-commentId"></a>
+<div amb-component="commentOwner" class="skin-bgQuiet is-owner">
+<div amb-component="comment" class="skin-comment skin-borderQuiet">
+<p amb-component="commentNum">10</p>
+<p amb-component="commentTitle">Re:ざわ…ざわ…</p>
+<div amb-component="commentText">＞urashimajiroさん<br />コメントありがとうございます！<br />キャンドゥーにもありますよね。全部買っても数百円♪<br />曲にあわせて トムが指揮をするのを完コピで驚きました（笑）</div>
+<p amb-component="commentAuthor">
+<a rel="nofollow" href="http://ameblo.jp/satouishi/" target="_blank">ユウ</a>
+</p>
+<p amb-component="commentDatetime" class="skin-textQuiet">2017-02-21 10:39:56</p>
+<p amb-component="commentAction" class="skin-textQuiet">
+<a class="commentReply commentWinOpenBtn" data-entryId="12249541287" data-cid="12915087358" href="javascript:void(0);"><span amb-icon="reply hasLabel"></span>返信する</a>
+</p>
+</div>
+</div>
+</li>
+<li>
+<a id="c12915087093" name="c12915087093" class="js-commentId"></a>
+<div amb-component="commentOwner" class="skin-bgQuiet is-owner">
+<div amb-component="comment" class="skin-comment skin-borderQuiet">
+<p amb-component="commentNum">9</p>
+<p amb-component="commentTitle">Re:うちもです！</p>
+<div amb-component="commentText">＞アザミさん<br />コメントありがとうございます！<br />繰り返しみますよね～100円で ほんとコスパすごい♪(^∇^)</div>
+<p amb-component="commentAuthor">
+<a rel="nofollow" href="http://ameblo.jp/satouishi/" target="_blank">ユウ</a>
+</p>
+<p amb-component="commentDatetime" class="skin-textQuiet">2017-02-21 10:38:10</p>
+<p amb-component="commentAction" class="skin-textQuiet">
+<a class="commentReply commentWinOpenBtn" data-entryId="12249541287" data-cid="12915087093" href="javascript:void(0);"><span amb-icon="reply hasLabel"></span>返信する</a>
+</p>
+</div>
+</div>
+</li>
+<li>
+<a id="c12915086835" name="c12915086835" class="js-commentId"></a>
+<div amb-component="commentOwner" class="skin-bgQuiet is-owner">
+<div amb-component="comment" class="skin-comment skin-borderQuiet">
+<p amb-component="commentNum">8</p>
+<p amb-component="commentTitle">Re:無題</p>
+<div amb-component="commentText">＞チワワが好きなんです(☆∀☆)さん<br />コメントありがとうございます！<br />トムとジェリーは音楽もいいんですよね～。サイコーですよね♪(*^▽^*)</div>
+<p amb-component="commentAuthor">
+<a rel="nofollow" href="http://ameblo.jp/satouishi/" target="_blank">ユウ</a>
+</p>
+<p amb-component="commentDatetime" class="skin-textQuiet">2017-02-21 10:36:22</p>
+<p amb-component="commentAction" class="skin-textQuiet">
+<a class="commentReply commentWinOpenBtn" data-entryId="12249541287" data-cid="12915086835" href="javascript:void(0);"><span amb-icon="reply hasLabel"></span>返信する</a>
+</p>
+</div>
+</div>
+</li>
+<li>
+<a id="c12915086675" name="c12915086675" class="js-commentId"></a>
+<div amb-component="commentOwne
+b68
+r" class="skin-bgQuiet is-owner">
+<div amb-component="comment" class="skin-comment skin-borderQuiet">
+<p amb-component="commentNum">7</p>
+<p amb-component="commentTitle">Re:無題</p>
+<div amb-component="commentText">＞おれんじ。さん<br />コメントありがとうございます！<br />そうなんですよね。なんもなかったらなかなかクラッシックを聞く事ないって思うんですけど、いい効果です。曲だけでもすごく楽しそうでした(^∇^)♪</div>
+<p amb-component="commentAuthor">
+<a rel="nofollow" href="http://ameblo.jp/satouishi/" target="_blank">ユウ</a>
+</p>
+<p amb-component="commentDatetime" class="skin-textQuiet">2017-02-21 10:35:19</p>
+<p amb-component="commentAction" class="skin-textQuiet">
+<a class="commentReply commentWinOpenBtn" data-entryId="12249541287" data-cid="12915086675" href="javascript:void(0);"><span amb-icon="reply hasLabel"></span>返信する</a>
+</p>
+</div>
+</div>
+</li>
+<li>
+<a id="c12915042026" name="c12915042026" class="js-commentId"></a>
+<div amb-component="commentOwner">
+<div amb-component="comment" class="skin-comment skin-borderQuiet">
+<p amb-component="commentNum">6</p>
+<p amb-component="commentTitle">無題</p>
+<div amb-component="commentText">初めてコメントさせていただきます☆<br />我が家の長男もまさに同じで…！<br />常にトムとジェリーのBGMを口ずさみ、<br />ついには自分の事をジェリーと名乗り始めました…<br />ちなみにお父さんがトム、<br />弟はニプルス（おむつしてるネズミ）<br />お母さん（わたし）は足だけおばさんだそうです。<br />涙</div>
+<p amb-component="commentAuthor">
+<a rel="nofollow" href="http://ameblo.jp/bluesun11/" target="_blank">よいこ</a>
+</p>
+<p amb-component="commentDatetime" class="skin-textQuiet">2017-02-21 04:45:50</p>
+<p amb-component="commentAction" class="skin-textQuiet">
+<a class="commentReply commentWinOpenBtn" data-entryId="12249541287" data-cid="12915042026" href="javascript:void(0);"><span amb-icon="reply hasLabel"></span>返信する</a>
+</p>
+</div>
+</div>
+</li>
+<li>
+<a id="c12915003987" name="c12915003987" class="js-commentId"></a>
+<div amb-component="commentOwner">
+<div amb-component="comment" class="skin-comment skin-borderQuiet">
+<p amb-component="commentNum">5</p>
+<p amb-component="commentTitle">最強コスパですね</p>
+<div amb-component="commentText">ストローで指揮してるミーくん<br />見たい～～<br /><br /></div>
+<p amb-component="commentAuthor">
+<a rel="nofollow" href="http://ameblo.jp/kylie-in-tokio/" target="_blank">KYLIE</a>
+</p>
+<p amb-component="commentDatetime" class="skin-textQuiet">2017-02-20 23:10:35</p>
+<p amb-component="commentAction" class="skin-textQuiet">
+<a class="commentReply commentWinOpenBtn" data-entryId="12249541287" data-cid="12915003987" href="javascript:void(0);"><span amb-ic
+b68
+on="reply hasLabel"></span>返信する</a>
+</p>
+</div>
+</div>
+</li>
+<li>
+<a id="c12914933633" name="c12914933633" class="js-commentId"></a>
+<div amb-component="commentOwner">
+<div amb-component="comment" class="skin-comment skin-borderQuiet">
+<p amb-component="commentNum">4</p>
+<p amb-component="commentTitle">ざわ…ざわ…</p>
+<div amb-component="commentText">ミーくん最高です！<br />うちはキャンドゥーでトムとジェリー買いました。全種類買いました。<br /><br />天才児ですよ！私も居合わせたかったです。</div>
+<p amb-component="commentAuthor">
+<a rel="nofollow" href="http://ameblo.jp/urashimajiro/" target="_blank">urashimajiro</a>
+</p>
+<p amb-component="commentDatetime" class="skin-textQuiet">2017-02-20 14:30:58</p>
+<p amb-component="commentAction" class="skin-textQuiet">
+<a class="commentReply commentWinOpenBtn" data-entryId="12249541287" data-cid="12914933633" href="javascript:void(0);"><span amb-icon="reply hasLabel"></span>返信する</a>
+</p>
+</div>
+</div>
+</li>
+<li>
+<a id="c12914918826" name="c12914918826" class="js-commentId"></a>
+<div amb-component="commentOwner">
+<div amb-component="comment" class="skin-comment skin-borderQuiet">
+<p amb-component="commentNum">3</p>
+<p amb-component="commentTitle">うちもです！</p>
+<div amb-component="commentText">ダイソーのトムジェリ、次男が大好きで、毎日のように見ています★<br />コスパ高過ぎですよね＼(^-^)／4493</div>
+<p amb-component="commentAuthor">
+<a rel="nofollow" href="http://ameblo.jp/tksaykkr0412/" target="_blank">アザミ</a>
+</p>
+<p amb-component="commentDatetime" class="skin-textQuiet">2017-02-20 12:51:41</p>
+<p amb-component="commentAction" class="skin-textQuiet">
+<a class="commentReply commentWinOpenBtn" data-entryId="12249541287" data-cid="12914918826" href="javascript:void(0);"><span amb-icon="reply hasLabel"></span>返信する</a>
+</p>
+</div>
+</div>
+</li>
+<li>
+<a id="c12914915293" name="c12914915293" class="js-commentId"></a>
+<div amb-component="commentOwner">
+<div amb-component="comment" class="skin-comment skin-borderQuiet">
+<p amb-component="commentNum">2</p>
+<p amb-component="commentTitle">無題</p>
+<div amb-component="commentText">トムとジェリーのオーケストラシーンが目に浮かびます‼(^o^)<br />もちろん、音楽も♪<br />トムとジェリーサイコーです！！！</div>
+<p amb-component="commentAuthor">
+<a rel="nofollow" href="http://ameblo.jp/jikotyuu-tinpira/" target="_blank">チワワが好きなんです(☆∀☆)</a>
+</p>
+<p amb-component="commentDatetime" class="skin-textQuiet">2017-02-20 12:34:51</p>
+<p amb-component="commentAction" class="skin-textQuiet">
+<a class="commentReply commentWinOpenBtn" data-entryId="12249541287" data-cid="12914915293" href="javascript:void(0);"><span amb-icon="reply hasLabel"></span>返信する</a>
+</p>
+</div>
+</div>
+</li>
+b60
+
+<li>
+<a id="c12914905951" name="c12914905951" class="js-commentId"></a>
+<div amb-component="commentOwner">
+<div amb-component="comment" class="skin-comment skin-borderQuiet">
+<p amb-component="commentNum">1</p>
+<p amb-component="commentTitle">無題</p>
+<div amb-component="commentText">すごいですね！<br />きっかけは何であれ、クラシックに興味があるなんて、すばらしい！<br />そのまま伸びてほしいですね。</div>
+<p amb-component="commentAuthor">
+<a rel="nofollow" href="http://ameblo.jp/dive-aqua/" target="_blank">おれんじ。</a>
+</p>
+<p amb-component="commentDatetime" class="skin-textQuiet">2017-02-20 11:36:20</p>
+<p amb-component="commentAction" class="skin-textQuiet">
+<a class="commentReply commentWinOpenBtn" data-entryId="12249541287" data-cid="12914905951" href="javascript:void(0);"><span amb-icon="reply hasLabel"></span>返信する</a>
+</p>
+</div>
+</div>
+</li>
+</ul>
+<input id="js-commentCount" type="hidden" value="12">
+<p amb-component="commentsMore" class="skin-borderLoud">
+<button amb-component="commentsMoreButton" class="skin-textQuiet">もっとみる <span amb-icon="more medium" class="skin-textQuiet"></span></button>
+</p>
+<div amb-component="commentsListPageing">
+<div amb-component="pagination" class="skin-pagination is-hidden" id="indexPagination">
+<ul amb-component="paginationPrevs" class="skin-paginationPrevs">
+<li>
+<a href="#start" amb-component="paginationStart" class="skin-paginationStart skin-btnIndex js-paginationStart is-disabled"><span amb-icon="start large"></span></a>
+</li>
+<li>
+<a href="#prev" amb-component="paginationPrev" class="skin-paginationPrev skin-btnIndex js-paginationPrev is-disabled"><span amb-icon="previous large"></span></a>
+</li>
+</ul>
+<ul amb-component="paginationNexts" class="skin-paginationNexts">
+<li>
+<a href="#next" amb-component="paginationNext" class="skin-paginationNext skin-btnIndex js-paginationNext is-disabled"><span amb-icon="next large"></span></a>
+</li>
+<li>
+<a href="#end" amb-component="paginationEnd" class="skin-paginationEnd skin-btnIndex js-paginationEnd is-disabled"><span amb-icon="end large"></span></a>
+</li>
+</ul>
+<ul amb-component="paginationNums" class="skin-paginationNums">
+<li class="js-paginationIndexPrev">…</li>
+<li><a href="#" class="skin-btnIndex js-paginationIndex1 is-unassigned"></a></li>
+<li><a href="#" class="skin-btnIndex js-paginationIndex2 is-unassigned"></a></li>
+<li><a href="#" class="skin-btnIndex js-paginationIndex3 is-active" data-number="1">1</a></li>
+<li><a href="#" class="skin-btnIndex js-paginationIndex4" data-number="2">2</a></li>
+<li><a href="#" class="skin-btnIndex js-paginationIndex5" data-number="3">3</a></li>
+<li class="js-paginationIndexNext">…</li>
+</ul>
+</div>
+</div>
+</div>
+</div>
+<div amb-component="mainWidgetFooter">
+<a id="cform" name="cform"></a>
+<a href="javascript:void(0);" amb-component="button" class="skin-
+5b4
+btnPrimary commentWinOpenBtn" data-entryId="12249541287"><span amb-icon="comment large hasLabel"></span>コメントする</a>
+</div>
+</div>
+</div>
+<div amb-component="blogFooterNav" amb-layout="footerNav" class="skin-blogFooterNav">
+<ul amb-component="paging" class="skin-paging">
+<li>
+<p amb-component="pagingTextPrev" class="skin-textQuiet">前の記事</p>
+<a href="http://ameblo.jp/satouishi/entry-12249817810.html" amb-component="pagingItem" class="skin-pagingPrev skin-btnPaging ga-pagingEntryPrevBottom">
+<span amb-icon="paging_previous large" class="skin-btnPagingIcon"></span>
+なめてかかるとイタ･･･</a>
+</li>
+<li>
+<p amb-component="pagingTextNext" class="skin-textQuiet">次の記事</p>
+<a amb-component="pagingItem" href="http://ameblo.jp/satouishi/entry-12249160398.html" class="skin-pagingNext skin-btnPaging ga-pagingEntryNextBottom">
+脳の不思議～ハッピ･･･
+<span amb-icon="paging_next large" class="skin-btnPagingIcon"></span>
+</a>
+</li>
+</ul>
+<nav amb-layout="footerNavInner" class="skin-blogFooterNavInner">
+<ul amb-component="blogNav" class="skin-blogHFooterNavMenu">
+<li><a href="http://ameblo.jp/satouishi/" class="skin-bottomNavText is-active"><span amb-icon="blog_top large hasLabel" class="skin-bottomNavIcon"></span>ブログトップ</a></li>
+<li><a href="http://ameblo.jp/satouishi/entrylist.html" class="skin-bottomNavText"><span amb-icon="list_article large hasLabel" class="skin-bottomNavIcon"></span>
+b68
+記事一覧</a></li>
+<li><a href="http://ameblo.jp/satouishi/imagelist.html" class="skin-bottomNavText"><span amb-icon="photo large hasLabel" class="skin-bottomNavIcon"></span>画像一覧</a></li>
+</ul>
+</nav>
+</div>
+</div> <div id="subA" class="skin-blogSubA" amb-layout="subA">
+<div id="subAInner" class="skin-blogSubAInner" amb-layout="subAInner">
+<!--subATop-->
+<div amb-component="widget" class="skin-widget" id="profile">
+<div class="skin-widgetInner">
+<div amb-component="widgetHead" class="skin-widgetHead">
+<h3 amb-component="widgetTitle" class="skin-widgetTitle">プロフィール</h3>
+</div>
+<div amb-component="widgetBody" class="skin-widgetBody">
+<div amb-component="profile" class="skin-profile">
+<div amb-component="profileAvatar" class="skin-profileAvatar">
+<a href="http://profile.ameba.jp/satouishi/">
+<img width="120" height="120" alt="" src="https://stat.profile.ameba.jp/profile_images/20150807/22/33/Ac/j/o044604471438954232021.jpg?cpd=120" />
+</a>
+</div>
+<p amb-component="profileName" class="skin-profileName">
+<a href="http://profile.ameba.jp/satouishi/" class="skin-sideLink">ユウ</a>
+</p>
+<div amb-component="badge">
+<p amb-component="badgeTopBlogger">
+<a href="http://ameblo.jp/" target="_blank">公式トップブロガー</a>
+</p>
+</div>
+<dl amb-component="profileStatus" class="skin-profileStatus">
+</dl>
+</div>
+<p amb-component="widgetButton" class="skin-widgetButton">
+<a href="http://blog.ameba.jp/reader.do?bnm=satouishi" amb-component="button" class="skin-btnSidePrimary"><span amb-icon="reader large hasLabel"></span>読者になる</a>
+</p>
+</div>
+</div>
+</div> <!--adSidePremium-->
+<div amb-component="widget" class="subAdBannerArea subModule" id="sideTopBanner">
+<div amb-component="widgetAd" class="subAdBannerHeader"><span>AD</span></div>
+<!-- [Amebaブログプレミアムバナー（その他）] -->
+<div class="gpt-frame" id="div-gpt-ad-1341245498902-0" name="/7765/PremiumPanel_AmebaBlog_Uranus_other"><script>Amb.dfp.setFrameHere();</script></div>
+</div>
+<div amb-component="widget" class="skin-widget" id="readers">
+<div class="skin-widgetInner">
+<div amb-component="widgetHead" class="skin-widgetHead">
+<h3 amb-component="widgetTitle" class="skin-widgetTitle">このブログの読者</h3>
+</div>
+<div amb-component="widgetBody" class="skin-widgetBody">
+<ul amb-component="linkList" class="skin-linkList">
+<li><a href="http://ameblo.jp/ririo200/" target="_blank">3男子のママ ♡ ramo ミニチュア ドールハウス 大好き</a></li>
+<li><a href="http://ameblo.jp/angelak/" target="_blank">台湾滞在記、旅行、観光、グルメ、ファッション情報</a></li>
+<li><a href="http://ameblo.jp/amsk-r/" target="_blank">鹿児島☆霧島市で筆文字講座と心理カウンセリング受付中の｢かおりんこ｣のブログ♡</a></li>
+<li><a href="http://ameblo.jp/workingmother-project/" target="_blank">ママして学生して仕事�
+5b4
+��て</a></li>
+<li><a href="http://ameblo.jp/nikonikohanasikata/" target="_blank">「話し方が上手くなりたい」あなたの願いを叶える”落語＆ジャニヲタ”司会者</a></li>
+</ul>
+<p amb-component="widgetButton" class="skin-widgetButton">
+<a href="http://ameblo.jp/satouishi/reader.html" amb-component="button" class="skin-btnSide">一覧を見る</a>
+</p>
+<div amb-component="readers" class="skin-readers">
+<p amb-component="readersTotal" class="skin-readersTotal">
+読者数: <span amb-component="readersCount" class="skin-readersCount">2,577</span> 人
+</p>
+<p amb-component="readersButton" class="skin-widgetButton">
+<a href="http://blog.ameba.jp/reader.do?bnm=satouishi" amb-component="button" class="skin-btnSidePrimary"><span amb-icon="reader large hasLabel"></span>読者になる</a>
+</p>
+</div>
+</div>
+</div>
+</div><div amb-component="widget" class="skin-widget" id="favorites">
+<div class="skin-widgetInner">
+<div amb-component="widgetHead" class="skin-widgetHead">
+<h3 amb-component="widgetTitle" class="skin-widgetTitle">お気に入りブログ</h3>
+</div>
+<div amb-component="widgetBody" class="skin-widgetBody">
+<ul amb-component="linkList" class="skin-linkList">
+<li><a href="http://ameblo.jp/tokihiroikuji/" target="_blank">娘沼にハマりました。 <span amb-component="updateLabel" class="skin-sideTextLoud">更新</span></a></li>
+<li><a href="http://ameblo.jp/amami-blog/" target="_blank">甘味生活＊育�
+5ac
+��絵日記 <span amb-component="updateLabel" class="skin-sideTextLoud">更新</span></a></li>
+<li><a href="http://ameblo.jp/kbst2/" target="_blank">4コマ漫画「ちびといつまでも」乳がん闘病記編 <span amb-component="updateLabel" class="skin-sideTextLoud">更新</span></a></li>
+<li><a href="http://ameblo.jp/mokamoka-hiyoko/" target="_blank">これが我が家の日常です <span amb-component="updateLabel" class="skin-sideTextLoud">更新</span></a></li>
+<li><a href="http://ameblo.jp/jpyilina/" target="_blank">中国でピーピー言いながら日本語教師 </a></li>
+</ul>
+<p amb-component="widgetButton" class="skin-widgetButton">
+<a href="http://ameblo.jp/satouishi/favorite.html" amb-component="button" class="skin-btnSide">一覧を見る</a>
+</p>
+</div>
+</div>
+</div><div amb-component="widget" class="skin-widget" id="freespace">
+<div class="skin-widgetInner">
+<div amb-component="widgetBody" class="skin-widgetBody">
+<div amb-component="overwrap">
+<br>
+<p><a href="http://news.mynavi.jp/series/clumsypapa/001/"><img width="280" height="258" alt="" src="http://stat.ameba.jp/user_images/20170122/19/satouishi/3a/0c/j/o0280025813851364941.jpg" /></a><br>
+</p><a href="http://news.mynavi.jp/series/clumsypapa/001/">マイナビニュースにて連載中！</a><br>
+<br>
+</div>
+</div>
+</div>
+</div><div amb-component="widget" class="skin-widget" id="freeplugin">
+<div class="skin-widgetInner">
+<div amb-component="widg
+b68
+etBody" class="skin-widgetBody">
+<div class="plugin"><script type="text/javascript">
+var gaJsHost = (("https:" == document.location.protocol) ? "https://c.reblock.jp" : "http://c.reblock.jp");
+document.write(unescape("%3Cscript src='" + gaJsHost + "/js/b.js' type='text/javascript'%3E%3C/script%3E"));
+</script>
+<script type="text/javascript">
+_blockbnr.disp(gaJsHost, 'maxcom', '140', 'sjis');
+</script></div>
+</div>
+</div>
+</div><div amb-component="widget" class="skin-widget" id="rss">
+<div class="skin-widgetInner">
+<div amb-component="widgetBody" class="skin-widgetBody">
+<p amb-component="widgetLink">
+<a class="skin-sideLink" href="http://rssblog.ameba.jp/satouishi/rss20.xml"><span amb-icon="rss medium hasLabel"></span>RSS</a>
+</p>
+<p amb-component="widgetLink">
+<a href="http://helps.ameba.jp/trouble/copyright.html" class="skin-sideLink" target="_blank"><span amb-icon="attention medium hasLabel"></span>著作権についてのご注意</a>
+</p>
+</div>
+</div>
+</div>
+<div amb-component="widget" class="subAdBannerArea subModule" id="sideBottomBanner">
+<div amb-component="widgetAd" class="subAdBannerHeader"><span>AD</span></div>
+<div class="gpt-frame" id="div-gpt-ad-1341245517290-1" name="/7765/BTFSidePanel_Uranus">
+<script>Amb.dfp.setFrameHere();</script>
+</div>
+</div>
+</div>
+</div>
+</div>
+<div class="skin-blogSubB" amb-layout="subB">
+<div class="skin-blogSubBInner" amb-layout="subBInner">
+<!--subBTop-->
+<div amb-component="widget" class="skin-widget" id="recentEntries">
+<div class="skin-widgetInner">
+<div amb-component="widgetHead" class="skin-widgetHead">
+<h3 amb-component="widgetTitle" class="skin-widgetTitle">最新の記事</h3>
+</div>
+<div amb-component="widgetBody" class="skin-widgetBody">
+<ul amb-component="linkList" class="skin-linkList">
+<li><a href="http://ameblo.jp/satouishi/entry-12250425731.html">妻の逆子はなおるのか！？逆子をなおす方法あれこれ</a></li>
+<li><a href="http://ameblo.jp/satouishi/entry-12250076058.html">ロボットに年齢は当てられるのか？</a></li>
+<li><a href="http://ameblo.jp/satouishi/entry-12249817810.html">なめてかかるとイタい目にあう相手</a></li>
+<li><a href="http://ameblo.jp/satouishi/entry-12249541287.html">天才を生む！？ダイソーＤＶＤ</a></li>
+<li><a href="http://ameblo.jp/satouishi/entry-12249160398.html">脳の不思議～ハッピーターンとピーターパン～</a></li>
+<li><a href="http://ameblo.jp/satouishi/entry-12248845083.html">だいすけお兄さんの卒業の理由</a></li>
+<li><a href="http://ameblo.jp/satouishi/entry-12248521811.html">素手では勝てそうにないひと</a></li>
+<li><a href="http://ameblo.jp/satouishi/entry-12248200437.html">逆子になったらやること＆お知らせ</a></li>
+<li><a href="http://ameblo.jp/satouishi/entry-12247936812.html">新しいヒーロー</a></li>
+<li><a href="http://ameblo.jp/satouishi/entry-12247
+5b4
+566079.html">その後～カレーの匂いは事件をさそう（４）</a></li>
+</ul>
+<p amb-component="widgetButton" class="skin-widgetButton">
+<a href="http://ameblo.jp/satouishi/entrylist.html" amb-component="button" class="skin-btnSide">一覧を見る</a>
+</p>
+</div>
+</div>
+</div><div amb-component="widget" class="skin-widget" id="theme">
+<div class="skin-widgetInner">
+<div amb-component="widgetHead" class="skin-widgetHead">
+<h3 amb-component="widgetTitle" class="skin-widgetTitle">テーマ</h3>
+</div>
+<div amb-component="widgetBody" class="skin-widgetBody">
+<ul amb-component="linkList" class="skin-linkList">
+<li class="themeNumber10049646322"><a href="http://ameblo.jp/satouishi/theme-10049646322.html">ブログ ( 34 )</a></li>
+<li class="themeNumber10091702128"><a href="http://ameblo.jp/satouishi/theme-10091702128.html">子育て名言 ( 7 )</a></li>
+<li class="themeNumber10091702163"><a href="http://ameblo.jp/satouishi/theme-10091702163.html">子育て ( 17 )</a></li>
+<li class="themeNumber10091702405"><a href="http://ameblo.jp/satouishi/theme-10091702405.html">三男 ミー ( 73 )</a></li>
+<li class="themeNumber10091774704"><a href="http://ameblo.jp/satouishi/theme-10091774704.html">子育てグッズ ( 8 )</a></li>
+<li class="themeNumber10091828531"><a href="http://ameblo.jp/satouishi/theme-10091828531.html">不器用男の日常 ( 135 )</a></li>
+<li class="themeNumber10091901565"><a href="http://ameblo.jp/satouishi/theme-10
+5b4
+091901565.html">子育てママの戦い ( 19 )</a></li>
+<li class="themeNumber10091957138"><a href="http://ameblo.jp/satouishi/theme-10091957138.html">次男フー ( 21 )</a></li>
+<li class="themeNumber10092010298"><a href="http://ameblo.jp/satouishi/theme-10092010298.html">ペット ( 11 )</a></li>
+<li class="themeNumber10092111578"><a href="http://ameblo.jp/satouishi/theme-10092111578.html">病気・病院・通院 ( 9 )</a></li>
+<li class="themeNumber10092129466"><a href="http://ameblo.jp/satouishi/theme-10092129466.html">長男ヒー ( 26 )</a></li>
+<li class="themeNumber10092184313"><a href="http://ameblo.jp/satouishi/theme-10092184313.html">ヒーロー ( 1 )</a></li>
+<li class="themeNumber10092211180"><a href="http://ameblo.jp/satouishi/theme-10092211180.html">お知らせ ( 3 )</a></li>
+<li class="themeNumber10092298288"><a href="http://ameblo.jp/satouishi/theme-10092298288.html">保育れんらく帳 ( 2 )</a></li>
+<li class="themeNumber10092486176"><a href="http://ameblo.jp/satouishi/theme-10092486176.html">夫の行動 ( 3 )</a></li>
+<li class="themeNumber10092593069"><a href="http://ameblo.jp/satouishi/theme-10092593069.html">男の料理 ( 6 )</a></li>
+<li class="themeNumber10092664542"><a href="http://ameblo.jp/satouishi/theme-10092664542.html">子育てアイデア ( 4 )</a></li>
+<li class="themeNumber10092696998"><a href="http://ameblo.jp/satouishi/theme-10092696998.html">子供とレジャー ( 46 )</a></li>
+<li class=
+5b4
+"themeNumber10092927114"><a href="http://ameblo.jp/satouishi/theme-10092927114.html">子供を持ってはじめて知ったこと ( 1 )</a></li>
+<li class="themeNumber10092958729"><a href="http://ameblo.jp/satouishi/theme-10092958729.html">子供と行事 ( 20 )</a></li>
+<li class="themeNumber10093170270"><a href="http://ameblo.jp/satouishi/theme-10093170270.html">これは買ってよかった！ ( 2 )</a></li>
+<li class="themeNumber10093434675"><a href="http://ameblo.jp/satouishi/theme-10093434675.html">子育て三男ミー ( 1 )</a></li>
+<li class="themeNumber10093680994"><a href="http://ameblo.jp/satouishi/theme-10093680994.html">育児長男ヒー ( 0 )</a></li>
+<li class="themeNumber10093681042"><a href="http://ameblo.jp/satouishi/theme-10093681042.html">子育て長男ヒー ( 1 )</a></li>
+<li class="themeNumber10093698457"><a href="http://ameblo.jp/satouishi/theme-10093698457.html">子育て次男フー ( 1 )</a></li>
+<li class="themeNumber10100227271"><a href="http://ameblo.jp/satouishi/theme-10100227271.html">不器用男がパパになったら ( 10 )</a></li>
+</ul>
+<p amb-component="widgetButton" class="skin-widgetButton">
+<a href="http://ameblo.jp/satouishi/themeentrylist-10049646322.html" amb-component="button" class="skin-btnSide">一覧を見る</a>
+</p>
+</div>
+</div>
+</div><input type="hidden" id="js-calendarYear" value="2017">
+<input type="hidden" id="js-calendarMonth" value="2">
+<div amb-component="widget" class="sk
+5ac
+in-widget" id="calendar">
+<div class="skin-widgetInner">
+<div amb-component="widgetHead" class="skin-widgetHead">
+<h3 amb-component="widgetTitle" class="skin-widgetTitle">カレンダー</h3>
+</div>
+<div amb-component="widgetBody" class="skin-widgetBody">
+<div amb-component="calendar" class="skin-calendar">
+<div amb-component="calendarBody" class="skin-calendarBody">
+<table summary="カレンダー" amb-component="calendarTable" class="skin-calendarTable">
+<thead>
+<tr>
+<th amb-component="calendarMonth" class="skin-calendarMonth" scope="col" colspan="7">
+<div amb-component="calendarTableHead" class="skin-calendarTableHead">
+<h4 amb-component="calendarTableTitle" class="skin-calendarTableTitle">
+<a href="/satouishi/archiveentrylist-201702.html"> 2017年2月
+</a>
+</h4>
+<p amb-component="calendarPrev" class="skin-calendarPrev">
+<button id="js-calendarPrev" class="skin-sideLink">
+<span amb-icon="previous medium"></span>
+</button>
+</p>
+<p amb-component="calendarNext" class="skin-calendarNext is-hidden">
+<button id="js-calendarNext" class="skin-sideLink">
+<span amb-icon="next medium"></span>
+</button>
+</p>
+</div>
+</th>
+</tr>
+<tr amb-component="calendarDays" class="skin-calendarDays skin-sideBorder">
+<th amb-component="calendarSun" class="skin-calendarSun" scope="col" abbr="Sunday">日</th>
+<th amb-component="calendarMon" class="skin-calendarMon" scope="col" abbr="Monday">月</th>
+<th amb-component="calendarTue" class="skin-calendarTue"
+5b4
+ scope="col" abbr="Tuesday">火</th>
+<th amb-component="calendarWed" class="skin-calendarWed" scope="col" abbr="Wednesday">水</th>
+<th amb-component="calendarThu" class="skin-calendarThu" scope="col" abbr="Thursday">木</th>
+<th amb-component="calendarFri" class="skin-calendarFri" scope="col" abbr="Friday">金</th>
+<th amb-component="calendarSat" class="skin-calendarSat" scope="col" abbr="Saturday">土</th>
+</tr>
+</thead>
+<tbody>
+<tr amb-component="calendarWeek" class="skin-calendarWeek skin-sideBorder">
+<td></td>
+<td></td>
+<td></td>
+<td>
+<a href="http://ameblo.jp/satouishi/day-20170201.html">
+<span amb-component="calendarDate" class="skin-calendarDate is-active">1</span>
+</a>
+</td>
+<td>
+<a href="http://ameblo.jp/satouishi/day-20170202.html">
+<span amb-component="calendarDate" class="skin-calendarDate is-active">2</span>
+</a>
+</td>
+<td>
+<a href="http://ameblo.jp/satouishi/day-20170203.html">
+<span amb-component="calendarDate" class="skin-calendarDate is-active">3</span>
+</a>
+</td>
+<td>
+<a href="http://ameblo.jp/satouishi/day-20170204.html">
+<span amb-component="calendarDate" class="skin-calendarDate is-active">4</span>
+</a>
+</td>
+</tr>
+<tr amb-component="calendarWeek" class="skin-calendarWeek skin-sideBorder">
+<td>
+<a href="http://ameblo.jp/satouishi/day-20170205.html">
+<span amb-component="calendarDate" class="skin-calendarDate is-active">5</span>
+</a>
+</td>
+<td>
+<a href="http://ameblo.jp/satouishi/day-20170206.html">
+<span amb-compon
+5b4
+ent="calendarDate" class="skin-calendarDate is-active">6</span>
+</a>
+</td>
+<td>
+<a href="http://ameblo.jp/satouishi/day-20170207.html">
+<span amb-component="calendarDate" class="skin-calendarDate is-active">7</span>
+</a>
+</td>
+<td>
+<a href="http://ameblo.jp/satouishi/day-20170208.html">
+<span amb-component="calendarDate" class="skin-calendarDate is-active">8</span>
+</a>
+</td>
+<td>
+<a href="http://ameblo.jp/satouishi/day-20170209.html">
+<span amb-component="calendarDate" class="skin-calendarDate is-active">9</span>
+</a>
+</td>
+<td>
+<a href="http://ameblo.jp/satouishi/day-20170210.html">
+<span amb-component="calendarDate" class="skin-calendarDate is-active">10</span>
+</a>
+</td>
+<td>
+<a href="http://ameblo.jp/satouishi/day-20170211.html">
+<span amb-component="calendarDate" class="skin-calendarDate is-active">11</span>
+</a>
+</td>
+</tr>
+<tr amb-component="calendarWeek" class="skin-calendarWeek skin-sideBorder">
+<td>
+<a href="http://ameblo.jp/satouishi/day-20170212.html">
+<span amb-component="calendarDate" class="skin-calendarDate is-active">12</span>
+</a>
+</td>
+<td>
+<a href="http://ameblo.jp/satouishi/day-20170213.html">
+<span amb-component="calendarDate" class="skin-calendarDate is-active">13</span>
+</a>
+</td>
+<td>
+<a href="http://ameblo.jp/satouishi/day-20170214.html">
+<span amb-component="calendarDate" class="skin-calendarDate is-active">14</span>
+</a>
+</td>
+<td>
+<a href="http://ameblo.jp/satouishi/day-20170215.html">
+<span amb-component="
+5b4
+calendarDate" class="skin-calendarDate is-active">15</span>
+</a>
+</td>
+<td>
+<a href="http://ameblo.jp/satouishi/day-20170216.html">
+<span amb-component="calendarDate" class="skin-calendarDate is-active">16</span>
+</a>
+</td>
+<td>
+<a href="http://ameblo.jp/satouishi/day-20170217.html">
+<span amb-component="calendarDate" class="skin-calendarDate is-active">17</span>
+</a>
+</td>
+<td>
+<a href="http://ameblo.jp/satouishi/day-20170218.html">
+<span amb-component="calendarDate" class="skin-calendarDate is-active">18</span>
+</a>
+</td>
+</tr>
+<tr amb-component="calendarWeek" class="skin-calendarWeek skin-sideBorder">
+<td>
+<a href="http://ameblo.jp/satouishi/day-20170219.html">
+<span amb-component="calendarDate" class="skin-calendarDate is-active">19</span>
+</a>
+</td>
+<td>
+<a href="http://ameblo.jp/satouishi/day-20170220.html">
+<span amb-component="calendarDate" class="skin-calendarDate is-active">20</span>
+</a>
+</td>
+<td>
+<a href="http://ameblo.jp/satouishi/day-20170221.html">
+<span amb-component="calendarDate" class="skin-calendarDate is-active">21</span>
+</a>
+</td>
+<td>
+<a href="http://ameblo.jp/satouishi/day-20170222.html">
+<span amb-component="calendarDate" class="skin-calendarDate is-active">22</span>
+</a>
+</td>
+<td>
+<a href="http://ameblo.jp/satouishi/day-20170223.html">
+<span amb-component="calendarDate" class="skin-calendarDate is-active">23</span>
+</a>
+</td>
+<td>
+<span amb-component="calendarDate" class="skin-calendarDate">24</span>
+</td>
+<
+b60
+td>
+<span amb-component="calendarDate" class="skin-calendarDate">25</span>
+</td>
+</tr>
+<tr amb-component="calendarWeek" class="skin-calendarWeek skin-sideBorder">
+<td>
+<span amb-component="calendarDate" class="skin-calendarDate">26</span>
+</td>
+<td>
+<span amb-component="calendarDate" class="skin-calendarDate">27</span>
+</td>
+<td>
+<span amb-component="calendarDate" class="skin-calendarDate">28</span>
+</td>
+</tr>
+</tbody>
+</table>
+</div>
+</div>
+</div>
+</div>
+</div><div amb-component="widget" class="skin-widget" id="archive">
+<div class="skin-widgetInner">
+<div amb-component="widgetHead" class="skin-widgetHead">
+<h3 amb-component="widgetTitle" class="skin-widgetTitle">月別</h3>
+</div>
+<div amb-component="widgetBody" class="skin-widgetBody">
+<ul amb-component="linkList" class="skin-linkList">
+<li>
+<div amb-component="linkListToggle" class="skin-linkListToggle">
+<span class="skin-linkListStatus">
+<span>2017年</span>
+<span amb-component='linkListCloseIcon' amb-icon='close'></span><span amb-component='linkListOpenIcon' amb-icon='open'></span>
+</span>
+</div>
+<ul amb-component="linkChildList" class="skin-linkChildList is-hidden">
+<li><a href="http://ameblo.jp/satouishi/archive1-201702.html" amb-component="linkChildListItem">2月 <span class="skin-linkList-count">( 23 )</span></a></li>
+<li><a href="http://ameblo.jp/satouishi/archive1-201701.html" amb-component="linkChildListItem">1月 <span class="skin-linkList-count">( 31 )</span></a></li>
+</ul>
+</li>
+<li>
+<div amb-component="linkListToggle" class="skin-linkListToggle">
+<span class="skin-linkListStatus">
+<span>2016年</span>
+<span amb-component='linkListCloseIcon' amb-icon='close'></span><span amb-component='linkListOpenIcon' amb-icon='open'></span>
+</span>
+</div>
+<ul amb-component="linkChildList" class="skin-linkChildList is-hidden">
+<li><a href="http://ameblo.jp/satouishi/archive1-201612.html" amb-component="linkChildListItem">12月 <span class="skin-linkList-count">( 31 )</span></a></li>
+<li><a href="http://ameblo.jp/satouishi/archive1-201611.html" amb-component="linkChildListItem">11月 <span class="skin-linkList-count">( 30 )</span></a></li>
+<li><a href="http://ameblo.jp/satouishi/archive1-201610.html" amb-component="linkChildListItem">10月 <span class="skin-linkList-count">( 31 )</span></a></li>
+<li><a href="http://ameblo.jp/satouishi/archive1-201609.html" amb-component="linkChildListItem">9月 <span class="skin-linkList-count">( 18 )</span></a></li>
+<li><a href="http://ameblo.jp/satouishi/archive1-201608.html" amb-component="linkChildListItem">8月 <span class="skin-linkList-count">( 22 )</span></a></li>
+<li><a href="http://ameblo.jp/satouishi/archive1-201607.html" amb-component="linkChildListItem">7月 <span class="skin-linkList-count">( 20 )</span></a></li>
+<li><a href="http://ameblo.jp/satouishi/archive1-201606.html" amb-component="linkChildListItem">6月 <span class="skin-linkList-count">( 18 )</span></a
+5b4
+></li>
+<li><a href="http://ameblo.jp/satouishi/archive1-201605.html" amb-component="linkChildListItem">5月 <span class="skin-linkList-count">( 19 )</span></a></li>
+<li><a href="http://ameblo.jp/satouishi/archive1-201604.html" amb-component="linkChildListItem">4月 <span class="skin-linkList-count">( 13 )</span></a></li>
+<li><a href="http://ameblo.jp/satouishi/archive1-201603.html" amb-component="linkChildListItem">3月 <span class="skin-linkList-count">( 14 )</span></a></li>
+<li><a href="http://ameblo.jp/satouishi/archive1-201602.html" amb-component="linkChildListItem">2月 <span class="skin-linkList-count">( 16 )</span></a></li>
+<li><a href="http://ameblo.jp/satouishi/archive1-201601.html" amb-component="linkChildListItem">1月 <span class="skin-linkList-count">( 24 )</span></a></li>
+</ul>
+</li>
+<li>
+<div amb-component="linkListToggle" class="skin-linkListToggle">
+<span class="skin-linkListStatus">
+<span>2015年</span>
+<span amb-component='linkListCloseIcon' amb-icon='close'></span><span amb-component='linkListOpenIcon' amb-icon='open'></span>
+</span>
+</div>
+<ul amb-component="linkChildList" class="skin-linkChildList is-hidden">
+<li><a href="http://ameblo.jp/satouishi/archive1-201512.html" amb-component="linkChildListItem">12月 <span class="skin-linkList-count">( 25 )</span></a></li>
+<li><a href="http://ameblo.jp/satouishi/archive1-201511.html" amb-component="linkChildListItem">11月 <span class="skin-linkList-count">( 26 )</span></a
+b68
+></li>
+<li><a href="http://ameblo.jp/satouishi/archive1-201510.html" amb-component="linkChildListItem">10月 <span class="skin-linkList-count">( 28 )</span></a></li>
+<li><a href="http://ameblo.jp/satouishi/archive1-201509.html" amb-component="linkChildListItem">9月 <span class="skin-linkList-count">( 33 )</span></a></li>
+<li><a href="http://ameblo.jp/satouishi/archive1-201508.html" amb-component="linkChildListItem">8月 <span class="skin-linkList-count">( 35 )</span></a></li>
+<li><a href="http://ameblo.jp/satouishi/archive1-201507.html" amb-component="linkChildListItem">7月 <span class="skin-linkList-count">( 4 )</span></a></li>
+</ul>
+</li>
+</ul>
+<p amb-component="widgetButton" class="skin-widgetButton">
+<a href="http://ameblo.jp/satouishi/archiveentrylist-201702.html" amb-component="button" class="skin-btnSide">一覧を見る</a>
+</p>
+</div>
+</div>
+</div><div amb-component="widget" class="skin-widget" id="search">
+<div class="skin-widgetInner">
+<div amb-component="widgetBody" class="skin-widgetBody">
+<form amb-component="search" id="blogSearchFormSide" class="skin-blogSearch js-searchForm" name="blogSearchFormSide" action="http://search.ameba.jp/search.html" method="get">
+<input role="search" id="blogSearchInputSide" class="skin-blogSearchInput js-searchInput" type="text" size="20" maxlength="255" name="q" title="このブログを検索する" value="このブログを検索する" />
+<input type="hidden" name="aid" value="satouishi" />
+<div amb-component="searchButton" id="blogSearchBtnSide" class="js-searchBtn">
+<span amb-icon="search large"></span>
+</div>
+</form>
+</div>
+</div>
+</div><div amb-component="widget" class="skin-widget" id="ranking">
+<div class="skin-widgetInner">
+<div amb-component="widgetHead" class="skin-widgetHead">
+<h3 amb-component="widgetTitle" class="skin-widgetTitle">ランキング</h3>
+</div>
+<div amb-component="widgetBody" class="skin-widgetBody">
+<div amb-component="ranking" class="skin-ranking">
+<dl amb-component="rankingList" class="skin-rankingList">
+<dt amb-component="rankingLabel" class="skin-rankingLabel"><a href="http://ranking.ameba.jp/genre/daily">総合ランキング</a></dt>
+<dd amb-component="rankingResult" class="skin-rankingResult">
+739 位
+<span amb-component="rankingStatus">↓</span>
+</dd>
+<dt amb-component="rankingLabel" class="skin-rankingLabel"><a href="http://ranking.ameba.jp/genre/monthly">総合月間</a></dt>
+<dd amb-component="rankingResult" class="skin-rankingResult">
+1204 位
+<span amb-component="rankingStatus" class="skin-sideTextLoud">↑</span>
+</dd>
+</dl>
+<dl amb-component="rankingList" class="skin-rankingList">
+<dt amb-component="rankingLabel" class="skin-rankingLabel"><a href="http://ranking.ameba.jp/gr_kosodate">子育て</a></dt>
+<dd amb-component="rankingResult" class="skin-rankingResult">
+52 位
+<span amb-component="rankingStatus">↓</span>
+<script>
+<!--
+rank1 = "kosodate_52";
+//-->
+</script>
+</dd>
+
+b68
+<dt amb-component="rankingLabel" class="skin-rankingLabel"><a href="http://ranking.ameba.jp/gr_parents">親子</a></dt>
+<dd amb-component="rankingResult" class="skin-rankingResult">
+7 位
+<span amb-component="rankingStatus">↓</span>
+<script>
+<!--
+rank1 = "parents_7";
+//-->
+</script>
+</dd>
+</dl>
+<p amb-component="widgetButton" class="skin-widgetButton">
+<a href="http://ranking.ameba.jp/" amb-component="button" class="skin-btnSide">ランキングトップへ</a>
+</p>
+</div>
+</div>
+</div>
+</div><div amb-component="widget" class="skin-widget" id="bookmarks">
+<div class="skin-widgetInner">
+<div amb-component="widgetHead" class="skin-widgetHead">
+<h3 amb-component="widgetTitle" class="skin-widgetTitle">ブックマーク</h3>
+</div>
+<div amb-component="widgetBody" class="skin-widgetBody">
+</div>
+</div>
+</div> </div>
+</div><!-- /SubB -->
+</div>
+</div>
+<!-- ********************************************************* -->
+<!--bodyBottom-->
+<div class="gpt-frame" id="div-gpt-ad-1341245517293-1" name="/7765/FooterJack_AmebaBlog_other"><script>Amb.dfp.setFrameHere();</script></div>
+<div class="bfl-bigfooter" id="js-bigfooter" data-state="general">
+<div class="bfl-topics__outer" id="js-bigfooter-topics">
+<div class="bfl-topics bfu-clear">
+<div class="bfl-topics__headline">
+<p class="bfl-topics__headline__title bfc-headline bfc-headline--large">Ameba人気のブログ</p>
+</div>
+<div class="bfl-news__outer bfu-clear bfu-is-hidden" id="js-bigfooter-news-outer">
+<div class="bfl-news">
+<div class="bfl-news__headline">
+<h2 class="bfl-news__headline__title bfc-headline bfc-headline--middle">Amebaトピックス</h2>
+<div class="bfl-news__headline__update bfc-text--weak" id="js-new-update"></div>
+</div>
+<div class="bfl-news__content bfu-clear" id="js-bigfooter-news">
+<div class="bfl-news__text">
+<ul class="bfp-news_list bfu-clear" id="js-bigfooter-news-text"></ul>
+</div>
+<div class="bfl-news__img">
+<ul class="bfp-news_imgList" id="js-bigfooter-news-img"></ul>
+</div>
+</div>
+<div class="bfl-topics__more bfl-topics__more--full bfu-clear" id="js-bigfooter-news-more">
+<a class="bfc-more-link" href="http://ametopi.jp" data-ga-category="ametopi-more" data-ga-label="gen"><span class="bfc-more-link___text">もっと見る</span><i class="bfc-icon bfc-icon--more"></i></a>
+</div>
+</div>
+</div>
+<div class="bfl-ranking__outer bfu-clear bfu-is-hidden" id="js-bigfooter-ranking-outer">
+<div class="bfl-ranking__headline">
+<h2 class="bfl-ranking__headline__title bfc-headline bfc-headline--middle">ランキング</h2>
+<ul class="bfl-ranking__headline__tab bfp-ranking__tab bfu-clear" id="js-bigfooter-ranking-tab">
+<li class="bfp-ranking__tab__item" data-rank-index="0" data-ga-category="topBlogRankingTab-topblog" data-ga-label="gen">トップブロガー</li>
+<li class="bfp-ranking__tab__item" data-rank-index="1" data-ga-category="topBlogRanking-official" data-ga-label="gen">芸能人</li>
+</ul>
+<div class="
+b60
+bfl-ranking__headline__update bfc-text--weak" id="js-bigfooter-ranking-update"></div>
+</div>
+<div class="bfp-ranking__list__outer" id="js-bigfooter-ranking-list"></div>
+<div class="bfl-topics__more bfl-topics__more--full bfu-clear">
+<a href="" class="bfc-more-link" id="js-bigfooter-ranking-more"><span class="bfc-more-link___text">もっと見る</span><i class="bfc-icon bfc-icon--more"></i></a>
+</div>
+</div>
+<div class="bfl-topics__button">
+<div class="bfc-button--large"><a href="http://ameblo.jp/" class="bfc-button__link bfu-valign-m" data-ga-category="button-amebloTop" data-ga-label="gen"><span class="bfc-button__text">アメブロトップへ</span></a></div>
+</div>
+</div>
+</div>
+<div id="js-freshTopics"></div>
+<div id="js-freshCm"></div>
+<div class="bfl-register">
+<div class="bfl-register-columns bfu-clear">
+<div class="bfl-register-columns__inner">
+<h3 class="bf-register-column-title bfc-headline">
+<span class="bfc-icon bfc-icon--general-blogger bfl-register-column-icon"></span>
+<span class="bfl-register-column-text">ブログをはじめる</span>
+</h3>
+<p class="bf-register-lead">たくさんの芸能人・有名人が<br />
+書いているAmebaブログを<br />
+無料で簡単にはじめることができます。</p>
+<div class="bfl-register__button">
+<div class="bfc-button-register bfc-button-register--general">
+<a href="http://lo.ameba.jp/v1/RvpCFPlDPJoJGmqPbahu" class="bfc-button__link bfu-valign-m" data-ga-category="button-generalBlogStart">
+<span class="bfc-button__text bfc-button-register__text">はじめる</span>
+</a>
+</div>
+<p class="bfl-register__moreInfo"><a href="http://lo.ameba.jp/v1/HsjpGgjFmlsWlFPyAGPU">他ブログからお引っ越しはこちら</a><span class="bfc-icon bfc-icon--more-register bfl-icon-register__moreInfo"></span></p>
+</div>
+</div>
+<div class="bfl-register-columns__inner bfl-register-sideLine">
+<h3 class="bf-register-column-title bfc-headline">
+<span class="bfc-icon bfc-icon--top-blogger bfl-register-column-icon"></span>
+<span class="bfl-register-column-text">公式トップブロガーへ応募</span>
+</h3>
+<p class="bf-register-lead">多くの方にご紹介したいブログを<br />
+執筆する方を「公式トップブロガー」<br />
+として認定しております。</p>
+<div class="bfl-register__button">
+<div class="bfc-button-register bfc-button-register--topBlogger">
+<a href="http://lo.ameba.jp/v1/SGkprlkWSHymqjVylPTk" class="bfc-button__link bfu-valign-m" data-ga-category="button-generalBlogStart">
+<span class="bfc-button__text bfc-button-register__text">詳しく見る</span>
+</a>
+</div>
+</div>
+</div>
+<div class="bfl-register-columns__inner">
+<h3 class="bf-register-column-title bfc-headline">
+<span class="bfc-icon bfc-icon--official-blogger bfc-register-column-icon"></span>
+<span class="bfl-register-column-text">芸能人・有名人ブログを開設</span>
+</h3>
+<p class="bf-register-lead">Ameba�
+b68
+��ログでは、芸能人・有名人ブログを<br />
+ご希望される著名人の方／事務所様を<br />
+随時募集しております。</p>
+<div class="bfl-register__button">
+<div class="bfc-button-register">
+<a href="http://lo.ameba.jp/v1/vMTwIgvtPsXWZZylIRUk" class="bfc-button__link bfu-valign-m" data-ga-category="button-officialEntry" data-ga-label="gen">
+<span class="bfc-button__text bfc-button-register__text">申し込む</span>
+</a>
+</div>
+</div>
+</div>
+</div>
+</div>
+</div>
+<div id="ambFooter"></div>
+<img src="http://act.ameba.jp/blog/2169f41cbfe63c2f940c4ffc13237d62b31492134083738f3c9f416c4f2032639f341742f2539d3986999415292748925143333333303e3a3a0e68687e68796e79697e08383e3b383e3b393e38383e383a0e584b5e484b2e6b7a7e7b7b4e2b6a60636" style="display:none" />
+<img src="http://act.ameba.jp/common/7f66f61622e4372d97074662158519355480231343847383337343634523336067361749f756973686609626c9f672d636e74729909687374703a9f2f6d75706167f52e6167656261be6a7026" style="display:none" />
+<img src="//ln.ameba.jp/v2/ra/sZofuVxH?qat=view&qv=1-15-0&qpi=article_blog-entry&qr=http%3A%2F%2Fmypage.ameba.jp%2F&entry_id=%2212249541287%22&blogger_ameba_id=%22satouishi%22" style="display:none" />
+<img src="http://ameblo.jp/accesslog/BlogAccessLog?bnm=satouishi&referAddr=http://mypage.ameba.jp/&skincode=ur_std_official_template21" alt="" class="accessLog" style="display:none;"/>
+<img src="http://adt.measure.ameblo.jp/pc/satouishi/c59171075153d3ffe42d52f246847c4cd6de29b2" style="display:none;" />
+<img src="//sy.ameblo.jp/sync/?org=sy.ameblo.jp" width="1" height="1" style="display:none;">
+<script>
+window.ameblo = (typeof window.ameblo === 'object' && window.ameblo.nodeType !== 1) ? window.ameblo : {};
+window.ameblo.config = {
+urls: {
+ameblo: 'http://ameblo.jp',
+blog: 'http://blog.ameba.jp',
+blogNews: 'http://blognews.ameba.jp',
+official: 'http://official.ameba.jp',
+stat: '//stat100.ameba.jp',
+adcrossAPI: '//ad.pr.ameba.jp',
+iine:'http://iine.blog.ameba.jp',
+fresh: 'https://amebafresh.tv',
+abemaFresh: 'https://abemafresh.tv',
+hashtagAPI: 'http://rapi.blogtag.ameba.jp',
+hashtag: 'http://blogtag.ameba.jp'
+},
+flags: {
+isOfficial: false,
+isTopBlogger: true,
+isEntryDetail: true,
+isEntryDetailEventJack: false
+},
+user: {
+amebaId: 'satouishi',
+entryId: '12249541287',
+groupCheckerId: 0,
+sex: '2',
+topBloggerCategoryId: 'kosodate',
+nickname: 'ユウ'
+}
+};
+</script>
+<script src="//stat100.ameba.jp/ameblo/pc/js/lib-1.2.0.js" charset="UTF-8"></script>
+<script src="//stat100.ameba.jp/ameblo/pc/js/common-1.1.2.js"></script>
+<script>
+new Amb.CommentBtnAmb.PcBlog({
+setting:{
+commentDomain:'http://comment.ameba.jp',
+blogName:'satouishi',
+smartPhoneSwitchFlg:'0'
+}
+});
+</script>
+<script src="//stat100.ameba.jp/ameblo/pc/js/utils-1.0.0.js"></script>
+<script src="//stat100.ameba.jp/ameblo/pc/js/uranus/stickySideTop-1.2.1.js"></script>
+<script src="//stat100.ameba.jp/ameblo/pc/js/uranus/calendarView-1.0.1.js"><
+b68
+/script>
+<script src="//stat100.ameba.jp/ameblo/pc/js/uranus/commentListView-1.1.0.js"></script>
+<script src="//stat100.ameba.jp/ameblo/pc/js/uranus/searchBox-1.0.0.js"></script>
+<script src="//stat100.ameba.jp/ameblo/pc/js/uranus/archiveListView-1.0.0.js"></script>
+<script src="//stat100.ameba.jp/ameblo/pc/js/uranus/uranusMain-1.0.0.js"></script>
+<script type="text/javascript" src="//stat100.ameba.jp/ameblo/pc/js/hashtag-1.7.0.js"></script>
+<script src="//stat100.ameba.jp/ameblo/pc/js/entryDetailEventJack-1.1.0.js"></script>
+<script src="//stat100.ameba.jp/common_style/js/ameba/sp/common/sp.viewswitcher.js" charset="UTF-8"></script>
+<script charset="UTF-8" src='//stat100.ameba.jp/blog/js/newskin_imagelink-1.0.0.js'></script>
+<script src='//stat100.ameba.jp/adcross/pub/js/adLoader-0.1.3.js?20141105' type='text/javascript' charset='utf-8'></script>
+<script>
+new window.amb.adcross({iss: true});
+</script>
+<script src="//stat100.ameba.jp/ameblo/pc/js/amebabar/ameblo.common.hf.1.4.0.js"></script>
+<script src="//stat100.ameba.jp/ameblo/pc/js/amebabar/ameba_centertext-1.2.0.js"></script>
+<script src="//stat100.ameba.jp/ameblo/pc/js/amebabar/amebabar-1.2.0.js"></script>
+<script>
+ameblo.amebabar.initialize({
+type: 1,
+centerText: {
+id: 'barPickup',
+callback: function(){ window.Amb.Ameblo.centertext.init(); }
+}
+});
+</script>
+<script src="//stat100.ameba.jp/ameblo/pc/js/amebabar/footer_spm_link.1.0.0.js"></script>
+<script src="//stat100.ameba.jp/ameblo/pc/js/entryDetailResize-1.1.0.js"></script>
+<script>
+new window.ameblo.EntryDetailResize({
+type: 'uranusskin'
+});
+</script>
+<div id="iineEntryFrame">
+<div id="iineCloseBtn" class="iineListClose ico_close hide"></div>
+<div id="iineEntryLoading" class="loading hide"></div>
+</div>
+<script src="//stat100.ameba.jp/blog/js/user/iineEntryDetail.1.000.js"></script>
+<script>
+new Amb.IineEntryAmb.PcBlog({
+setting:{
+receiveAmebaId:'satouishi',
+blogDomain:'http://ameblo.jp',
+statDomain:'//stat100.ameba.jp',
+iineDomain:'http://iine.blog.ameba.jp',
+measureDomain:'http://measure.ameblo.jp'
+}
+});
+</script>
+<script id="js-template-modal-header" type="x-tmpl-mustache">
+<p class="modal-heading js-modal-heading">
+{{^isError}}
+<span class="modal-heading__icon" amb-icon="reblog"></span>「<span class="modal-heading__entry-title">{{entryTitle}}</span>」のリブログ一覧<span class="modal-heading__number">（<span>{{entryReblogCnt}}</span>件）</span>
+{{/isError}}
+{{#isError}}
+<span>システムエラー</span>
+{{/isError}}
+</p>
+</script>
+<script id="js-template-modal-list" type="x-tmpl-mustache">
+{{^isError}}
+{{#list}}
+<li class="modal-list__item">
+<div class="modal-list__link js-modal-link" data-href="{{link}}" data-ameba-id="{{amebaId}}" data-tap-id="reblog-article" data-page-id="article_reblog-list" data-entry-id="{{entryId}}" data-blogger-type="{{bloggerType}}" data-order-id="{{index}}">
+<div class="modal-entry">
+<p class="modal-entry__title"><
+5ad
+span amb-icon="reblog hasLabel"></span>{{entryReblogTitle}}</p>
+<p class="modal-entry__text">{{entryReblogText}}</p>
+<div class="modal-user-info">
+<div class="modal-user-info__sub">
+<img class="modal-user-info__thumb" src="{{thumbnailUrl}}" width="30" height="30">
+</div>
+<div class="modal-user-info__main">
+<p class="modal-user-info__name">{{nickname}}</p>
+<p class="modal-user-info__date">{{entryDate}}{{#isNewReblog}}<i class="modal-user-info__icon modal-ico modal-ico-new"></i>{{/isNewReblog}}</p>
+</div>
+</div>
+</div>
+</div>
+</li>
+{{/list}}
+{{/isError}}
+{{#isError}}
+<div class="modal-error js-modal-error">
+<p class="mo,dal-error__text">情報の取得に失敗しました。再読み込みしてください。</p>
+<p class="modal-btn-retry js-retry">再読み込み</p>
+</div>
+{{/isError}}
+{{#isDispMoreBtn}}
+<div class="modal-more js-fetch-more">
+<a href="javascript:void(0)" data-tap_id="reblog-list-more" data-content_ids="['satouishi','12249541287','top_blogger']">
+<i class="modal-more__icon modal-ico modal-ico-more-btm"></i>もっと見る
+</a>
+</div>
+{{/isDispMoreBtn}}
+{{#isMoreError}}
+<div class="modal-error-more js-modal-error-more">
+<p class="">情報の取得に失敗しました。再読み込みしてください。</p>
+<div class="modal-error-more__btn">
+<p class="modal-btn-retry js-more-retry">再読み込み</p>
+</div>
+</div>
+{{/isMoreError}}
+</script>
+<div class="modal js-modal-frame is-hide">
+<div class="modal-btn-clo
+5b4
+se js-modal-close">
+<a href="javascript:void(0)" class="modal-ico modal-ico-close" data-tap_id="close-reblog-list" data-content_ids="['satouishi','12249541287','top_blogger']"></a>
+</div>
+<div class="modal-container js-modal-container">
+<div class="modal-header js-modal-header"></div>
+<div class="modal-body">
+<ul class="modal-list js-modal-list"></ul>
+</div>
+</div>
+<div class="modal-loading is-hide js-modal-loading"></div>
+</div>
+<script type="text/javascript" src="//stat100.ameba.jp/ameblo/pc/js/entryListModal-1.0.0.js"></script>
+<script>
+new Amb.ReblogEntryAmb.PcBlog({
+setting:{
+receiveAmebaId:'satouishi',
+blogDomain:'http://ameblo.jp',
+statDomain:'//stat100.ameba.jp',
+measureDomain:'http://measure.ameblo.jp'
+}
+});
+</script>
+<script src="//stat100.ameba.jp/ameblo/pc/js/freshSp-1.1.0.js"></script>
+<script src="//stat100.ameba.jp/ameblo/pc/js/freshTopics-1.3.0.js"></script>
+<script src="//stat100.ameba.jp/ameblo/pc/js/freshCm-1.0.0.js"></script>
+<script src="//stat100.ameba.jp/ameblo/pc/js/bigfooter-1.12.0.js"></script><script type="text/javascript" language="javascript">
+if (window.addEventListener) { window.addEventListener('load', addViewModeElement, false); }
+if (window.attachEvent) { window.attachEvent('onload', addViewModeElement); }
+function addViewModeElement(){
+var agent = navigator.userAgent;
+if( agent.search(/iPhone/) != -1 || agent.search(/iPod/) != -1 || agent.search(/Android/) != -1){
+var el = document.createElement("div")
+166
+;
+el.setAttribute("id", "viewSwitcher");
+el.innerHTML = '<dl><dt>表示切替</dt><dd><ul><li><a href="javascript:void(0);" onclick="setSpView(\'s_ameblo_view_type\', \'.ameblo.jp\', \'/\');">モバイル版</a></li><li><em>パソコン版</em></li></ul></dd></dl>';
+document.getElementsByTagName("body").item(0).appendChild(el);
+}
+}
+</script></body>
+</html>
+0
+

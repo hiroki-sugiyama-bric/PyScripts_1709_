@@ -1,0 +1,542 @@
+GET https://www.vocaloid.com/products/search?search%5Bcategory_id%5D=3&search%5Bdistributor_id%5D=&search%5Bname%5D=%E3%83%8D%E3%83%A0%E3%82%8A%E3%81%8A%E3%82%93&commit=%E6%A4%9C%E7%B4%A2 HTTP/1.1
+Host: www.vocaloid.com
+User-Agent: Mozilla/5.0 (Windows NT 6.1; WOW64; rv:52.0) Gecko/20100101 Firefox/52.0
+Accept: text/html,application/xhtml+xml,application/xml;q=0.9,*/*;q=0.8
+Accept-Language: ja,en-US;q=0.7,en;q=0.3
+Accept-Encoding: gzip, deflate, br
+Referer: https://www.vocaloid.com/products/library
+Cookie: _ec_session=ca9f27fa8b0eb612bb43f51e697e8e91; _ga=GA1.2.1743150807.1491383665; _ceg.s=onxjt4; _ceg.u=onxjt4; secure_token=BAgiJWE1ZjA0MmU2ZjdhN2I0YzQxZDc4MGYyNGI2Yzc5MmY3--ebce4be51a30225da783c1eb2672a6baaba1abfd
+Connection: keep-alive
+Upgrade-Insecure-Requests: 1
+
+
+HTTP/1.1 200 OK
+Cache-Control: no-store
+Content-Type: text/html; charset=utf-8
+Date: Wed, 05 Apr 2017 09:51:13 GMT
+ETag: "66ed8d9916544f5115bc7427930a38c4"
+Pragma: no-cache
+Server: Apache
+Set-Cookie: secure_token=BAgiJWE1ZjA0MmU2ZjdhN2I0YzQxZDc4MGYyNGI2Yzc5MmY3--ebce4be51a30225da783c1eb2672a6baaba1abfd; path=/; secure; HttpOnly
+Status: 200 OK
+X-Runtime: 82
+Content-Length: 27654
+Connection: keep-alive
+
+<!DOCTYPE html>
+<html lang="ja">
+<head>
+<meta charset="UTF-8" />
+<meta name="robots" content="index,follow">
+<meta name="author" content="ヤマハ株式会社" lang="ja" />
+<meta name="keywords" content="VOCALOID, ボーカロイド, ボカロ, ヤマハ株式会社, ショップ, 購入" />
+<meta name="description" content="VOCALOID SHOP(ボーカロイドショップ)で今スグにダウンロード購入できるライブラリ製品の検索結果です。" />
+<meta property="og:description" content="VOCALOID SHOP(ボーカロイドショップ)で今スグにダウンロード購入できるライブラリ製品の検索結果です。" />
+<meta property="og:image" content="https://www.vocaloid.com/images/common/fb_shareimg01.png" />
+<meta name="viewport" content="width=device-width, user-scalable=no">
+<meta name="format-detection" content="telephone=no">
+<!-- Google Tag Manager -->
+<script>(function(w,d,s,l,i){w[l]=w[l]||[];w[l].push({'gtm.start':
+new Date().getTime(),event:'gtm.js'});var f=d.getElementsByTagName(s)[0],
+j=d.createElement(s),dl=l!='dataLayer'?'&l='+l:'';j.async=true;j.src=
+'https://www.googletagmanager.com/gtm.js?id='+i+dl;f.parentNode.insertBefore(j,f);
+})(window,document,'script','dataLayer','GTM-586L6T');</script>
+<!-- End Google Tag Manager -->
+
+
+<link href="/stylesheets/responsive/normalize.css?1490148586" media="screen" rel="stylesheet" type="text/css" />
+<link href="/stylesheets/responsive/font-awesome.css?1490148586" media="screen" rel="stylesheet" type="text/css" />
+<link href="/stylesheets/responsive/jquery.bxslider.css?1490148586" media="screen" rel="stylesheet" type="text/css" />
+<link href="/stylesheets/responsive/colorbox.css?1490148586" media="screen" rel="stylesheet" type="text/css" />
+<link href="/stylesheets/responsive/tag_color.css?1490148586" media="screen" rel="stylesheet" type="text/css" />
+
+<link href="/stylesheets/responsive/common.css?1490148586" media="only  screen and (min-width:701px)" rel="stylesheet" type="text/css" />
+<link href="/stylesheets/responsive/top.css?1490148586" media="only  screen and (min-width:701px)" rel="stylesheet" type="text/css" />
+<link href="/stylesheets/responsive/list.css?1490148586" media="only  screen and (min-width:701px)" rel="stylesheet" type="text/css" />
+<link href="/stylesheets/responsive/product.css?1490148586" media="only  screen and (min-width:701px)" rel="stylesheet" type="text/css" />
+<link href="/stylesheets/responsive/purchase.css?1490148586" media="only  screen and (min-width:701px)" rel="stylesheet" type="text/css" />
+<link href="/stylesheets/responsive/setting.css?1490148586" media="only  screen and (min-width:701px)" rel="stylesheet" type="text/css" />
+<link href="/stylesheets/responsive/news_story.css?1490148586" media="only  screen and (min-width:701px)" rel="stylesheet" type="text/css" />
+<link href="/stylesheets/responsive/login.css?1490148586" media="only  screen and (min-width:701px)" rel="stylesheet" type="text/css" />
+<link href="/stylesheets/responsive/registration.css?1490148586" media="only  screen and (min-width:701px)" rel="stylesheet" type="text/css" />
+<link href="/stylesheets/responsive/shipping.css?1490148586" media="only  screen and (min-width:701px)" rel="stylesheet" type="text/css" />
+<link href="/stylesheets/responsive/support.css?1490148586" media="only  screen and (min-width:701px)" rel="stylesheet" type="text/css" />
+
+<link href="/stylesheets/responsive/sp/common.css?1490148586" media="only  screen and (max-width:700px)" rel="stylesheet" type="text/css" />
+<link href="/stylesheets/responsive/sp/top.css?1490148586" media="only  screen and (max-width:700px)" rel="stylesheet" type="text/css" />
+<link href="/stylesheets/responsive/sp/list.css?1490148586" media="only  screen and (max-width:700px)" rel="stylesheet" type="text/css" />
+<link href="/stylesheets/responsive/sp/product.css?1490148586" media="only  screen and (max-width:700px)" rel="stylesheet" type="text/css" />
+<link href="/stylesheets/responsive/sp/purchase.css?1490148586" media="only  screen and (max-width:700px)" rel="stylesheet" type="text/css" />
+<link href="/stylesheets/responsive/sp/setting.css?1490148586" media="only  screen and (max-width:700px)" rel="stylesheet" type="text/css" />
+<link href="/stylesheets/responsive/sp/news_story.css?1490148586" media="only  screen and (max-width:700px)" rel="stylesheet" type="text/css" />
+<link href="/stylesheets/responsive/sp/registration.css?1490148586" media="only  screen and (max-width:700px)" rel="stylesheet" type="text/css" />
+<link href="/stylesheets/responsive/sp/shipping.css?1490148586" media="only  screen and (max-width:700px)" rel="stylesheet" type="text/css" />
+<link href="/stylesheets/responsive/sp/support.css?1490148586" media="only  screen and (max-width:700px)" rel="stylesheet" type="text/css" />
+
+<link href="/stylesheets/responsive/english.css?1490148586" media="screen" rel="stylesheet" type="text/css" />
+<link href="/stylesheets/responsive/english_product.css?1490148586" media="only  screen and (min-width:701px)" rel="stylesheet" type="text/css" />
+<link href="/stylesheets/responsive/sp/english_product.css?1490148586" media="only  screen and (max-width:700px)" rel="stylesheet" type="text/css" />
+
+<script src="//ajax.googleapis.com/ajax/libs/jquery/1.8.3/jquery.min.js" type="text/javascript"></script>
+<script src="/javascripts/jquery.bxslider.min.js?1490148586" type="text/javascript"></script>
+<script src="/javascripts/jquery.colorbox-min.js?1490148586" type="text/javascript"></script>
+<script src="/javascripts/responsive/trunk8.js?1490148586" type="text/javascript"></script>
+<script src="/javascripts/responsive/common.js?1490148586" type="text/javascript"></script>
+<meta name="csrf-param" content="authenticity_token"/>
+<meta name="csrf-token" content="uxy+uykF0HjCYoohwD7xy7Uww2+n9mVfQodKxwByaOw="/>
+
+<script src="/javascripts/social_button.js?1490148586" type="text/javascript"></script>
+
+<!--[if lt IE 9]>
+<script src="http://html5shiv.googlecode.com/svn/trunk/html5.js"></script>
+<![endif]-->
+
+
+<title>検索結果一覧 | VOCALOID SHOP ( ボーカロイドショップ )</title>
+
+    <script src="/javascripts/responsive/jquery.infinitescroll.min.js?1490148586" type="text/javascript"></script>
+    <script type="text/javascript">
+      $(function(){
+        $('#articles').infinitescroll({
+          navSelector  : '.pager',
+          nextSelector : '.pager .next_page',
+          itemSelector : '.item',
+          loading: {
+            finishedMsg: '',
+            img: '/images/common/list_loading.gif',
+            msg: '',
+            msgText: ''
+          }
+        });
+      });
+    </script>
+    <script src="/javascripts/pager.js?1490148586" type="text/javascript"></script>
+
+<meta name="user-name" id="user-name" content="123456789abc" />
+<meta name="premium-grade" id="premium-grade" content="0" />
+<!-- Facebook Pixel Code -->
+<script>
+!function(f,b,e,v,n,t,s){if(f.fbq)return;n=f.fbq=function(){n.callMethod?
+n.callMethod.apply(n,arguments):n.queue.push(arguments)};if(!f._fbq)f._fbq=n;
+n.push=n;n.loaded=!0;n.version='2.0';n.queue=[];t=b.createElement(e);t.async=!0;
+t.src=v;s=b.getElementsByTagName(e)[0];s.parentNode.insertBefore(t,s)}(window,
+document,'script','https://connect.facebook.net/en_US/fbevents.js');
+fbq('init', '248842508903800'); // Insert your pixel ID here.
+fbq('track', 'PageView');
+fbq('track','ViewContent');
+</script>
+<noscript><img height="1" width="1" style="display:none" 
+src="https://www.facebook.com/tr?id=248842508903800&ev=PageView&noscript=1" 
+/></noscript>
+<!-- DO NOT MODIFY -->
+<!-- End Facebook Pixel Code -->
+
+</head>
+
+<body>
+<!-- Google Tag Manager (noscript) -->
+<noscript><iframe src="https://www.googletagmanager.com/ns.html?id=GTM-586L6T"
+height="0" width="0" style="display:none;visibility:hidden"></iframe></noscript>
+<!-- End Google Tag Manager (noscript) -->
+
+
+<!-- ヘッダー開始 -->
+<header class="global">
+  <div class="primary">
+
+      <p class="logo"><a href="/"><img src="/images/common/logo.png" alt="VOCALOID"></a></p>
+        <nav>
+      <ul class="language sp">
+        <li><span>日本語</span></li>
+        <li><a href="/en">English</a></li>
+      </ul>
+      <p class="button_nav">MENU</p>
+      <div>
+        <p>メニュー</p>
+        <ul class="main">
+          <li><a href="/products" class="active">製品情報／ショップ</a></li>
+          <li><a href="/articles">トピックス</a></li>
+          <li><a href="/support">サポート</a></li>
+        </ul>
+
+        <div class="sub_wrap">
+          <div class="language">
+            <ul>
+              <li><span>日本語</span></li>
+              <li><a href="/en">English</a></li>
+            </ul>
+          </div>
+          <ul class="sub">
+
+              <li class="cart"><a href="/shopping_cart"><i class="fa fa-shopping-cart"></i>カート<span class="count" id="cart_count">0</span></a></li>
+              <li class="user">ID:&nbsp;12345678...</li>
+              <li class="setting">
+                <a href="#"><i class="fa fa-cog"></i>設定</a>
+                <ul class="nav_setting">
+                  <li><a href="/accounts/edit"><i class="fa fa-angle-right"></i>VOCALOID ID設定</a></li>
+                  <li><a href="/accounts/history"><i class="fa fa-angle-right"></i>購入履歴</a></li>
+                  <li><a href="/accounts/logout" onclick="var f = document.createElement('form'); f.style.display = 'none'; this.parentNode.appendChild(f); f.method = 'POST'; f.action = this.href;var m = document.createElement('input'); m.setAttribute('type', 'hidden'); m.setAttribute('name', '_method'); m.setAttribute('value', 'delete'); f.appendChild(m);var s = document.createElement('input'); s.setAttribute('type', 'hidden'); s.setAttribute('name', 'authenticity_token'); s.setAttribute('value', 'uxy+uykF0HjCYoohwD7xy7Uww2+n9mVfQodKxwByaOw='); f.appendChild(s);f.submit();return false;"><i class="fa fa-angle-right"></i>ログアウト</a></li>
+                </ul>
+              </li>
+
+          </ul>
+        </div><!-- /.sub_wrap -->
+      </div>
+    </nav>
+  </div>
+
+
+      <div class="local">
+    <div class="wrap">
+      <p class="logo product"><img src="/images/common/service_logo.png" alt="ボカロネット"></p>
+      <ul>
+        <li><a href="/products/editor">エディター</a></li>
+        <li><a href="/products/library">ライブラリ</a></li>
+        <li><a href="/products/vocaloid_stpack">スターターパック</a></li>
+        <li><a href="/products/other">その他</a></li>
+        <li><a href="/products/search?search%5Bname%5D=Cubase">Cubase用</a></li>
+        <li><a href="/articles/buyers_guide" target="_blank">購入ガイド</a></li>
+      </ul>
+    </div>
+  </div>
+
+    
+</header>
+<!-- /ヘッダー終了 -->
+
+
+
+
+<!-- メインエリア開始 -->
+<main>
+  <!-- 製品一覧開始 -->
+  <section id="product_list">
+    <h1 class="headline">ライブラリ一覧<span>（全1件）</span></h1>
+    
+    <!-- 絞り込み、表示切り替え開始 -->
+    <div class="search_condition">
+    <form action="/products/search" method="get">
+      
+      <!-- 絞り込み開始 -->
+      <div class="refine">
+        <p>絞り込み：</p>
+        <div class="select category">
+          <select id="search_category_id" name="search[category_id]"><option value="">カテゴリ</option>
+<option value="2">エディター</option>
+<option value="3" selected="selected">ライブラリ</option>
+<option value="7">その他</option>
+<option value="8">スターターパック</option></select>
+        </div>
+        
+        <div class="select distribution">
+          <select id="search_distributor_id" name="search[distributor_id]"><option value="">販売元</option>
+<option value="6">ビープラッツ株式会社</option>
+<option value="12">クリプトン・フューチャー・メディア株式会社</option>
+<option value="2">ヤマハ株式会社</option>
+<option value="11">株式会社インターネット</option>
+<option value="10">株式会社AHS</option>
+<option value="9">株式会社ガイノイド</option>
+<option value="13">Voctro Labs, S.L.</option>
+<option value="8">1st PLACE株式会社</option>
+<option value="7">エグジットチューンズ株式会社</option></select>
+        </div>
+      </div>
+      <!-- ／絞り込み終了 -->
+        
+      <!-- 表示順開始 -->
+      <div class="sort">
+        <p>表示順：</p>
+        <ul>
+          <li>新着順</li>
+          <li><a href="/products/search?commit=%E6%A4%9C%E7%B4%A2&amp;order%5Bprice%5D=desc&amp;search%5Bcategory_id%5D=3&amp;search%5Bdistributor_id%5D=&amp;search%5Bname%5D=%E3%83%8D%E3%83%A0%E3%82%8A%E3%81%8A%E3%82%93">価格順<i class="fa fa-sort"></i></a></li>
+        </ul>
+      </div>
+      <!-- ／表示順終了 -->
+      
+      <!-- 検索開始 -->
+      <div class="freeword">
+        <i class="fa fa-search"></i>
+        <input id="search_name" name="search[name]" placeholder="製品を検索" size="100" type="text" value="ネムりおん" />
+        
+        <input class="button" name="commit" type="submit" value="検索" />
+      </div>
+      <!-- ／検索終了 -->
+      
+      <!-- 表示切り替え開始 -->
+      <div class="view_mode">
+        <p>表示切替：</p>
+        <ul>
+          <li class="tile">タイル表示</li>
+          <li class="list"><a href="/products?&amp;layout=list&amp;search%5Bcategory_id%5D=3&amp;search%5Bdistributor_id%5D=&amp;search%5Bname%5D=%E3%83%8D%E3%83%A0%E3%82%8A%E3%81%8A%E3%82%93">リスト表示</a></li>
+        </ul>
+      </div>
+      <!-- ／表示切り替え終了 -->
+      
+    </form>
+    </div>
+    <!-- ／絞り込み、表示切り替え終了 -->
+    
+    <!-- 一覧開始 -->
+    <div id="articles" class="tile">
+    
+
+      
+      
+      <!-- 1件 -->
+      <div class="item">
+        <div class="image"><a href="/products/show/v4l_nemu_rion_set"><img alt="VOCALOID4 Library ネムりおん セット" src="//rsc-net.vocaloid.com/assets/image_files/d689f4f6574b03f6c6c2cfd9a7c8432b/nemurion300.png" title="" width="120" /></a></div>
+                <p class="name" title="ネムりおん　セット"><a href="/products/show/v4l_nemu_rion_set">ネムりおん　セット</a></p>
+        <div class="tag new">NEW</div><div class="tag special">特典あり</div>
+        <ul class="data">
+          <li>ライブラリ</li>
+          <li>販売元&nbsp;ヤマハ株式会社</li>
+        </ul>
+        <div class="box_price">
+          <span>税込</span><span class="price">16,200円</span>
+          <span class="net_of_tax">（本体価格：15,000円）</span>
+        </div>
+        <div><a href="/products/show/v4l_nemu_rion_set" class="button button_purple"><i class="fa fa-angle-right"></i>製品の詳細を見る</a></div>
+
+      </div>
+      
+                
+    </div>
+    <!-- ／一覧終了 -->
+    
+    <div id="pager_box" class="clearfix" style="display: none;">
+
+      
+    </div>
+
+  </section>
+  <!-- ／製品一覧終了 -->
+
+</main>
+<!-- ／メインエリア終了 -->
+
+
+<!-- フッター開始 -->
+<p id="page_top"><a href="#" class="scroll">PAGE TOP</a></p>
+
+<footer class="global" id="global_footer">
+  <div class="wrap">
+  <p class="logo"><a href="/"><img src="/images/common/logo.png" alt="VOCALOID"></a></p>
+
+  <ul class="language">
+    <li><span>日本語</span></li>
+    <li><a href="/en">English</a></li>
+  </ul>
+
+    <style scoped>
+  <!--
+   .links .block2{margin:0 auto;width:98%;line-height:1.8em;}
+   .links h4, .block2 h5, .block2 h6, footer.global h5{font-size:14px;margin:1em 0;padding:0;line-height:1em;}
+   .links .block2 ul.ul_ver{display:block;width:100%;max-width:100%;margin-bottom:24px;}
+   .links .block2 ul.ul_ver li{display:table-inline;width:100%;max-width:100%;}
+   .links .block2 ul.ul_hor{display:table;width:100%;max-width:100%;margin-bottom:24px;}
+   .links .block2 ul.ul_hor li{display:table-cell;width:23%;max-width:23%;}
+   .links .block2 ul.ul_ver li a, .links .block2 ul.ul_hor li a{text-decoration:underline;}
+   .links .block2 ul.ul_ver li a:hover, .links .block2 ul.ul_hor li a:hover{color:#666;}
+   footer.global .partner >ul, .partner ul{width:100%;}
+   footer.global .partner >ul.mb18, .partner ul.mb18, footer.global h5.mb18, h5.mb18{margin-bottom:18px;}
+   footer.global .partner >ul li, .partner li, footer.global .partner ul li, .partner ul li, footer.global .partner li:nth-child(3n), .partner li:nth-child(3n){width:auto; margin:0 16px 8px 0;}
+   footer.global .partner li:nth-child(3n+1) ,.partner li:nth-child(3n+1) { clear: none; }
+   footer.global .partner li a{text-decoration:underline;}
+   @media screen and (max-width: 700px){
+     .links .block2 ul.ul_hor li{display:inline-block;width:100%;max-width:100%;}
+   }
+  -->
+  </style>
+  <div class="links">
+    <h4>VOCALOID(ボーカロイド)製品</h4>
+    <div class="block2">
+      <h5>VOCALOIDエディター</h5>
+      <ul class="ul_hor">
+        <li><a href="/products/show/v4e">VOCALOID4 Editor</a></li>
+        <li><a href="/products/show/v4e_upgrade">VOCALOID4 Editor アップグレード版</a></li>
+        <li><a href="/products/show/v4e_for_cubase_ai">ボカキュー4 + Cubase AI</a></li>
+        <li><a href="/products/show/v4e_for_cubase">ボカキュー4 アップグレード版</a></li>
+      </ul>
+    </div>
+    <div class="block2">
+      <h5>VOCALOID 歌声ライブラリ</h5>
+      <h6>VOCALOID4 Library</h6>
+      <ul class="ul_hor">
+        <li><a href="/products/show/v4l_nemu_rion_set">ネムりおん セット</a></li>
+        <li><a href="/products/show/v4l_yumemi_nemu">夢眠ネム</a></li>
+        <li><a href="/products/show/v4l_tone_rion">兎眠りおん</a></li>
+        <li><a href="/products/show/v4l_tone_rion_upgrade">兎眠りおん アップグレード版</a></li>
+        <li><a href="/products/show/v4l_macne_nana_natural">マクネナナ ナチュラル</a></li>
+        <li><a href="/products/show/v4l_macne_nana_petit">マクネナナ プチ</a></li>
+        <li><a href="/products/show/v4l_macne_nana_english">マクネナナ English</a></li> 
+       <li><a href="/products/show/v4l_cyber_songman">CYBER SONGMAN</a></li>
+        <li><a href="/products/show/v4l_tohoku_zunko_natural">東北ずん子 ナチュラル</a></li>
+        <li><a href="/products/show/v4l_hatsune_miku_v4x">初音ミク V4X</a></li>
+        <li><a href="/products/show/v4l_hatsune_miku_v4x_bundle">初音ミク V4X バンドル</a></li>
+        <li><a href="/products/show/v4l_hatsune_miku_v4_english">初音ミク V4 ENGLISH</a></li>
+        <li><a href="/products/show/v4l_otomachi_una">音街ウナ V4</a></li>
+        <li><a href="/products/show/v4l_fukase">Fukase</a></li>
+        <li><a href="/products/show/v4l_unity_chan">unity-chan!</a></li>
+        <li><a href="/products/show/v4l_kagamine_rin_len_v4_english">鏡音リン・レン V4 English</a></li>
+        <li><a href="/products/show/v4l_kagamine_rin_len_v4x_bundle">鏡音リン・レン V4X バンドル</a></li>
+        <li><a href="/products/show/v4l_kagamine_rin_len_v4x">鏡音リン・レン V4X</a></li>
+        <li><a href="/products/show/v4l_rana_v4_upgrade">Rana V4 アップグレード版</a></li>
+        <li><a href="/products/show/v4l_rana_v4">Rana V4</a></li>
+        <li><a href="/products/show/v4l_megpoid_v4_complete">Megpoid V4 Complete</a></li>
+        <li><a href="/products/show/v4l_megpoid_v4_adult">Megpoid V4 Adult</a></li>
+        <li><a href="/products/show/v4l_megpoid_v4_native">Megpoid V4 Native</a></li>
+        <li><a href="/products/show/v4l_megpoid_v4_sweet">Megpoid V4 Sweet</a></li>
+        <li><a href="/products/show/v4l_megpoid_v4_power">Megpoid V4 Power</a></li>
+        <li><a href="/products/show/v4l_megpoid_v4_whisper">Megpoid V4 Whisper</a></li>
+        <li><a href="/products/show/v4l_kaai_yuki_natural">歌愛ユキ ナチュラル</a></li>
+        <li><a href="/products/show/v4l_hiyama_kiyoteru_rock">氷山キヨテル ロック</a></li>
+        <li><a href="/products/show/v4l_hiyama_kiyoteru_natural">氷山キヨテル ナチュラル</a></li>
+        <li><a href="/products/show/v4l_arsloid">アルスロイド</a></li>
+        <li><a href="/products/show/v4l_sachiko">Sachiko</a></li>
+        <li><a href="/products/show/v4l_v4_flower_upgrade">v4 flowerアップグレード版</a></li>
+        <li><a href="/products/show/v4l_v4_flower">v4 flower</a></li>
+        <li><a href="/products/show/v4l_miki_natural">miki ナチュラル</a></li>
+        <li><a href="/products/show/v4l_nekomura_iroha_soft">猫村いろは ソフト</a></li>
+        <li><a href="/products/show/v4l_nekomura_iroha_natural">猫村いろは ナチュラル</a></li>
+        <li><a href="/products/show/v4l_gackpoid_complete">がくっぽいど Complete</a></li>
+        <li><a href="/products/show/v4l_gackpoid_whisper">がくっぽいど Whisper</a></li>
+        <li><a href="/products/show/v4l_gackpoid_power">がくっぽいど Power</a></li>
+        <li><a href="/products/show/v4l_gackpoid_native">がくっぽいど Native</a></li>
+        <li><a href="/products/show/v4l_megurine_luka_v4x">巡音ルカ V4X</a></li>
+        <li><a href="/products/show/v4l_yuzuki_yukari_onn">結月ゆかり 穏</a></li>
+        <li><a href="/products/show/v4l_yuzuki_yukari_lin">結月ゆかり 凛</a></li>
+        <li><a href="/products/show/v4l_yuzuki_yukari_jun">結月ゆかり 純</a></li>
+        <li><a href="/products/show/v4l_cyber_diva">CYBER DIVA</a></li>
+        <li><a href="/products/show/v4l_vy1v4_upgrade">VY1V4 アップグレード版</a></li>
+        <li><a href="/products/show/v4l_vy1v4">VY1V4</a></li>
+      </ul>
+
+      <h6>VOCALOID&trade;3 Library</h6>
+      <ul class="ul_hor">
+        <li><a href="/products/show/v3l_maika">MAIKA</a></li>
+        <li><a href="/products/show/v3l_chika">Chika</a></li>
+        <li><a href="/products/show/v3l_gachapoid">ガチャッポイド V3</a></li>
+        <li><a href="/products/show/v3l_galaco">ギャラ子</a></li>
+        <li><a href="/products/show/v3l_ia_rocks">IA ROCKS</a></li>
+        <li><a href="/products/show/v3l_anonkanon">杏音鳥音（アノンカノン）</a></li>
+        <li><a href="/products/show/v3l_kokone">kokone</a></li>
+        <li><a href="/products/show/v3l_meiko_v3">MEIKO V3</a></li>
+        <li><a href="/products/show/v3l_merli">メルリ</a></li>
+        <li><a href="/products/show/v3l_zola_project">ZOLA PROJECT</a></li>
+        <li><a href="/products/show/v3l_kaito_v3">KAITO V3</a></li>
+        <li><a href="/products/show/v3l_mayu">MAYU</a></li>
+        <li><a href="/products/show/v3l_vy2v3">VY2V3</a></li>
+        <li><a href="/products/show/v3l_lily">Lily</a></li>
+        <li><a href="/products/show/v3l_aoki_lapis">蒼姫ラピス</a></li>
+        <li><a href="/products/show/v3l_ia">IA</a></li>
+        <li><a href="/products/show/v3l_cul">CUL</a></li>
+        <li><a href="/products/show/v3l_mew">Mew</a></li>
+        <li><a href="/products/show/v3l_megpoid_english">Megpoid English</a></li>
+      </ul>
+    </div>
+    <div class="block2">
+      <h5>VOCALOID スターターパック</h5>
+      <ul class="ul_hor">
+        <li><a href="/products/show/v4l_fukase_sp">Fukase スターターパック</a></li>
+      </ul>
+    </div>
+    <div class="block2">
+      <h5>その他</h5>
+      <ul class="ul_hor">
+        <li><a href="/products/show/v4_vocalistener">V4 ぼかりす</a></li>
+        <li><a href="/products/show/v4_vocalistener_upgrade">V4 ぼかりす アップグレード版</a></li>
+      </ul>
+    </div>
+  </div><!-- /links end -->
+<!-- licensee start -->
+  <div class="separate">
+    <h5 class="mb18">VOCALOID&trade;3 または VOCALOID4 ライセンス会社</h5>
+    <div class="partner">
+  <ul class="mb18">
+    <li><a href="http://www.ssw.co.jp/"  target="_blank">インターネット株式会社</a></li>
+    <li><a href="https://www.ah-soft.com/" target="_blank">AHS株式会社</a></li>
+    <li><a href="http://gynoid.co.jp/" target="_blank">ガイノイド株式会社</a></li>
+    <li><a href="http://exittunes.com/" target="_blank">エグジットチューンズ株式会社</a></li>
+    <li><a href="http://www.crypton.co.jp/" target="_blank">クリプトン・フューチャー・メディア株式会社</a></li>
+    <li><a href="http://1stplace.co.jp/" target="_blank">1st PLACE株式会社</a></li>
+    <li><a href="http://www.zero-g.co.uk/" target="_blank">Zero-G limited</a></li>
+    <li><a href="http://powerfx.com/" target="_blank">PowerFX Systems AB</a></li>
+    <li>SBS A&amp;T</li>
+    <li><a href="http://www.zenith-grp.com/henian/" target="_blank">上海禾念信息科技有限公司</a></li>
+    <li><a href="http://www.voctro-vocaloid.com/" target="_blank">Voctro Labs, S.L.</a></li>
+    </ul>
+  </div>
+  </div>
+<!-- / licensee end -->
+<!-- rules start -->  
+  <div class="separate">
+    <ul class="site_links">
+      <li><a href="/articles/privacy">個人情報の取り扱いについて</a></li>
+      <li><a href="/articles/show_tradelaw">特定商取引法に基づく表示</a></li>
+      <li><a href="/articles/terms">利用規約</a></li>
+    </ul>
+  </div>
+  
+  <div class="separate">
+    <p>VOCALOID SHOPは、<a href="http://jp.yamaha.com/" target="_blank">ヤマハ株式会社</a>が運営するVOCALOIDのオフィシャルショップです。<br>
+       「VOCALOID(ボーカロイド)」ならびに「ボカロ」は<a href="http://jp.yamaha.com/" target="_blank">ヤマハ株式会社</a>の登録商標です。<br>
+       その他記載の商品名ならびに会社名は、各社の登録商標ならびに商標です。
+    </p>
+    <p class="corporate"><a href="http://jp.yamaha.com/" target="_blank"><img src="/images/common/logo_yamaha.png" alt="Yamaha"></a></p>
+  </div>
+<!-- /rules end -->
+  </div><!-- /wrap -->
+  
+  <small>Copyright <span class="copyright">&copy; </span> <a href="http://jp.yamaha.com/" target="_blank">Yamaha Corporation</a>. All rights reserved.</small>
+</footer>
+<!-- ／フッター終了 -->
+
+
+<script>
+  // ブラウザ中央にpopupを表示
+  function popupInCenter(url, popup_width, popup_height) {
+    var leftPosition = (screen.width / 2)-(popup_width / 2),
+    topPosition = (screen.height / 2)-(popup_height / 2);
+
+    window.open(url, "childWindow",
+    "status=no,height=" + popup_height + ",width=" + popup_width + ",resizable=yes,left="
+    + leftPosition + ",top=" + topPosition + ",screenX=" + leftPosition + ",screenY="
+    + topPosition + ",toolbar=no,menubar=no,scrollbars=no,location=no,directories=no");
+  };
+</script>
+
+<!--GoogleAnalytics トラッキングコード-->
+
+
+
+<!-- marketing tag -->
+
+  <!-- Google -->
+  <script type="text/javascript">
+/* <![CDATA[ */
+var google_conversion_id = 961213169;
+var google_custom_params = window.google_tag_params;
+var google_remarketing_only = true;
+/* ]]> */
+</script>
+<script type="text/javascript" src="//www.googleadservices.com/pagead/conversion.js">
+</script>
+<noscript>
+<div style="display:inline;">
+<img height="1" width="1" style="border-style:none;" alt="" src="//googleads.g.doubleclick.net/pagead/viewthroughconversion/961213169/?value=0&amp;guid=ON&amp;script=0"/>
+</div>
+</noscript>
+
+
+  <!-- YDN -->
+  <script type="text/javascript" language="javascript">
+/* <![CDATA[ */
+var yahoo_retargeting_id = '9DCXS45EO6';
+var yahoo_retargeting_label = '';
+/* ]]> */
+</script>
+<script type="text/javascript" language="javascript" src="//b92.yahoo.co.jp/js/s_retargeting.js"></script>
+
+<!-- /marketing tag -->
+</body>
+</html>

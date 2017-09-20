@@ -1,0 +1,27 @@
+GET https://my.gnavi.co.jp/login/logout.php HTTP/1.1
+Host: my.gnavi.co.jp
+User-Agent: Mozilla/5.0 (Windows NT 6.1; WOW64; rv:51.0) Gecko/20100101 Firefox/51.0
+Accept: text/html,application/xhtml+xml,application/xml;q=0.9,*/*;q=0.8
+Accept-Language: ja,en-US;q=0.7,en;q=0.3
+Referer: http://my.gnavi.co.jp/
+Cookie: gt=GT0ccdf8f0d000ac1e4ac705Fp-AhqR8J71AUizv6M3JQg; gUser=000ce28f0b5000ac1e4a0d34ySIaoAAVMMWNXM3HK-Bd_A; gcom=%7B%22login_type%22%3A1%2C%22guser_type%22%3A2%7D; GHistory=g048925%3A110%3A1486705396%2Cgdup021%3A110%3A1486701006%2Cgc9e603%3A110%3A1486695530%2Ca742608%3A110%3A1486695248%2Cb205003%3A110%3A1486695028%2Cgdzh702%3A110%3A1486694588%2Cgap7018%3A110%3A1486694535; optimizelyEndUserId=oeu1486694537825r0.6543023241441651; _ga=GA1.3.339950692.1486694539; _vz=viz_588176f232e06; GU=25ecea892fbe30479f97236d2c2c4532; optimizelySegments=%7B%221891520419%22%3A%22search%22%2C%221892920925%22%3A%22search%22%2C%221906460323%22%3A%22false%22%2C%221906820382%22%3A%22none%22%2C%221908320418%22%3A%22ff%22%2C%221911230413%22%3A%22false%22%2C%221914160317%22%3A%22ff%22%2C%221914170296%22%3A%22none%22%7D; optimizelyBuckets=%7B%7D; ds=dec71e5abc42ad70532b70d860d0ae5a11c9075ce62d33929db99800cc9497aa; s_sess=%20sc_prop1%3Dmy%3B; gUserPriv=000ce28f0b5001ac1e4a0d34OdJr6eJV2Lr98GFjUPDfmA; GMemDisp=1002ad3%260%26hitakahashi9999%40gmail.com%260%26hitakahashi9999%260%260%260%2601%260%2602%26%26%26%26%26%26%26; guser_disp=1002ad3%260%26hitakahashi9999%40gmail.com%260%26hitakahashi9999%260%260%260%2601%260%2602%26%26%26%26%26%26%26%26%26%26%26; PHPSESSID=u5qdpoqt6bbj51dmlkkpcitj07; _dc_gtm_UA-43329175-1=1
+Connection: close
+Upgrade-Insecure-Requests: 1
+
+
+HTTP/1.1 302 Found
+Date: Tue, 07 Mar 2017 02:33:20 GMT
+Server: Apache
+Set-Cookie: ds=3ad47a7440d5719a97e30f68ab48862db7949d24cb1cc7f3469ff0d210b00669; expires=Wed, 08-Mar-2017 02:33:20 GMT; path=/; domain=gnavi.co.jp
+Set-Cookie: gloginsession=deleted; expires=Mon, 07-Mar-2016 02:33:19 GMT; path=/; domain=gnavi.co.jp
+Set-Cookie: gUser=000ce291129001ac1e4ac20d6utdGhz4Bj4amnkFn1IY8Q; expires=Tue, 01-May-2018 02:33:20 GMT; path=/; domain=gnavi.co.jp
+Set-Cookie: gUserPriv=deleted; expires=Mon, 07-Mar-2016 02:33:19 GMT; path=/; domain=gnavi.co.jp
+Set-Cookie: gcom=%7B%22login_type%22%3A1%2C%22guser_type%22%3A0%7D; expires=Tue, 01-May-2018 02:33:20 GMT; path=/; domain=gnavi.co.jp
+Set-Cookie: gt=GT0ccdf8f0d000ac1e4ac705Fp-AhqR8J71AUizv6M3JQg; expires=Tue, 01-May-2018 02:33:20 GMT; path=/; domain=gnavi.co.jp
+Set-Cookie: GMemDisp=deleted; expires=Mon, 07-Mar-2016 02:33:19 GMT; path=/; domain=.gnavi.co.jp
+Set-Cookie: guser_disp=deleted; expires=Mon, 07-Mar-2016 02:33:19 GMT; path=/; domain=.gnavi.co.jp
+Location: https://my.gnavi.co.jp/authority/login/?cType=gnaviall
+Content-Length: 0
+Connection: close
+Content-Type: text/html
+

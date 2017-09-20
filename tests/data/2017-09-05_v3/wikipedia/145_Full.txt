@@ -1,0 +1,221 @@
+GET https://ja.wikipedia.org/wiki/%E5%88%A9%E7%94%A8%E8%80%85:Testtesti9994 HTTP/1.1
+Host: ja.wikipedia.org
+User-Agent: Mozilla/5.0 (Windows NT 6.1; WOW64; rv:51.0) Gecko/20100101 Firefox/51.0
+Accept: text/html,application/xhtml+xml,application/xml;q=0.9,*/*;q=0.8
+Accept-Language: ja,en-US;q=0.7,en;q=0.3
+Referer: https://ja.wikipedia.org/
+Cookie: StewardVoteEligible=0; WMF-Last-Access=24-Feb-2017; WMF-Last-Access-Global=24-Feb-2017; VEE=visualeditor; jawikiUserName=Testtesti9994; GeoIP=JP:::36.00:138.00:v4; jawikimwuser-sessionId=ca2951a625d13d5d; jawikiGeoFeaturesUser2=75273b7f5b92ad38; jawikiSession=lqag1eonfp957ttgp8omc0h36c4b7jlt; jawikiUserID=1186985; forceHTTPS=true; centralauth_User=Testtesti9994; centralauth_Session=c68f0b26d6e4ef03c68624fb40789164
+Connection: close
+Upgrade-Insecure-Requests: 1
+
+
+HTTP/1.1 200 OK
+Date: Fri, 24 Feb 2017 08:19:05 GMT
+Content-Type: text/html; charset=UTF-8
+Transfer-Encoding: chunked
+Connection: close
+Server: mw1275.eqiad.wmnet
+X-Content-Type-Options: nosniff
+X-Powered-By: HHVM/3.12.14
+Content-language: ja
+X-UA-Compatible: IE=Edge
+Vary: Accept-Encoding,Cookie,Authorization
+Expires: Thu, 01 Jan 1970 00:00:00 GMT
+Backend-Timing: D=90753 t=1487924345163097
+X-Varnish: 267911340, 99949750, 1002974509, 538835579
+Via: 1.1 varnish-v4, 1.1 varnish-v4, 1.1 varnish-v4, 1.1 varnish-v4
+Accept-Ranges: bytes
+Age: 0
+X-Cache: cp1065 pass, cp2013 pass, cp4017 pass, cp4016 pass
+X-Cache-Status: pass
+Strict-Transport-Security: max-age=31536000; includeSubDomains; preload
+X-Analytics: ns=2;loggedIn=1;WMF-Last-Access=24-Feb-2017;WMF-Last-Access-Global=24-Feb-2017;https=1
+X-Client-IP: 2404:7a00:100:4238:821:d862:4adb:84f8
+Cache-Control: private, s-maxage=0, max-age=0, must-revalidate
+
+c51
+<!DOCTYPE html>
+<html class="client-nojs" lang="ja" dir="ltr">
+<head>
+<meta charset="UTF-8"/>
+<title>利用者:Testtesti9994 - Wikipedia</title>
+<script>document.documentElement.className = document.documentElement.className.replace( /(^|\s)client-nojs(\s|$)/, "$1client-js$2" );</script>
+<script>(window.RLQ=window.RLQ||[]).push(function(){mw.config.set({"wgCanonicalNamespace":"User","wgCanonicalSpecialPageName":false,"wgNamespaceNumber":2,"wgPageName":"利用者:Testtesti9994","wgTitle":"Testtesti9994","wgCurRevisionId":0,"wgRevisionId":0,"wgArticleId":0,"wgIsArticle":true,"wgIsRedirect":false,"wgAction":"view","wgUserName":"Testtesti9994","wgUserGroups":["*","user"],"wgCategories":[],"wgBreakFrames":false,"wgPageContentLanguage":"ja","wgPageContentModel":"wikitext","wgSeparatorTransformTable":["",""],"wgDigitTransformTable":["",""],"wgDefaultDateFormat":"ja","wgMonthNames":["","1月","2月","3月","4月","5月","6月","7月","8月","9月","10月","11月","12月"],"wgMonthNamesShort":["","1月","2月","3月","4月","5月","6月","7月","8月","9月","10月","11月","12月"],"wgRelevantPageName":"利用者:Testtesti9994","wgRelevantArticleId":0,"wgRequestId":"WK-seQpAAEYAAMNBQDMAAABJ","wgUserId":1186985,"wgUserEditCount":0,"wgUserRegistration":1487922693000,"wgUserNewMsgRevisionId":null,"wgIsProbablyEditable":true,"wgRestrictionCreate":[],"wgRelevantUserName":"Testtesti9994","wgGlobalGroups":[],"wgWikiEditorEnabledModules":{"toolbar":true,"dialogs":true,"preview":false,"publish":false},"wgBetaFeaturesFeatures":[],"wgMediaViewerOnClick":false,"wgMediaViewerEnabledByDefault":true,"wgPopupsShouldSendModuleToUser":false,"wgPopupsConflictsWithNavPopupGadget":false,"wgVisualEditor":{"pageLanguageCode":"ja","pageLanguageDir":"ltr","usePageImages":true,"usePageDescriptions":true},"wgPreferredVariant":"ja","wgMFDisplayWikibaseDescriptions":{"search":true,"nearby":true,"watchlist":true,"tagline":true},"wgEchoEventLoggingSchemas":{"EchoMail":{"enabled":true,"revision":5467650,"client":false},"EchoInteraction":{"enabled":true,"revision":15823738,"client":true},"Echo":{"enabled":false,"revision":7731316,"client":false}},"wgEchoEventLoggingVersion":"1.12","wgRelatedArticles":null,"wgRelatedArticlesBetaFeatureEnabled":false,"wgRelatedArticlesUseCirrusSearch":true,"wgRelatedArticlesOnlyUseCirrusSearch":false,"wgULSAcceptLanguageList":["ja","en-us","en"],"wgULSCurrentAutonym":"日本語","wgNoticeProject":"wikipedia","wgCentralNoticeCookiesToDelete":[],"wgCentralNoticeCategoriesUsingLegacy":["Fundraising","fundraising"],"wgNoticeUserData":{"registration":"20170224075133"},"wgCategoryTreePageCategoryOptions":"{\"mode\":0,\"hideprefix\":20,\"showcount\":true,\"namespaces\":false}","wgVisualEditorToolbarScrollOffset":0,"wgEditSubmitButtonLabelPublish":false,"wgEchoSeenTime":{"alert":"1970-01-01T00:00:01Z","notice":"2017-02-24T07:52:20Z"}});mw.loader.state({"ext.globalCssJs.user.styles":"ready","ext.globalCssJs.site.styles":"ready","site.styles":"ready","noscript":"ready","user.styles":"ready","user":"ready","user.options":"loading","user.tokens":"loading","ext.visualEditor.desktopArticleTarget.noscript":"ready","ext.
+1000
+echo.styles.badge":"ready","ext.echo.badgeicons":"ready","ext.uls.interlanguage":"ready","ext.wikimediaBadges":"ready","mediawiki.legacy.shared":"ready","mediawiki.legacy.commonPrint":"ready","mediawiki.sectionAnchor":"ready","mediawiki.skinning.interface":"ready","skins.vector.styles":"ready","ext.globalCssJs.user":"ready","ext.globalCssJs.site":"ready"});mw.loader.implement("user.options@1rfdp26",function($,jQuery,require,module){mw.user.options.set({"echo-subscriptions-email-edit-thank":"1","editsectiononrightclick":"1","echo-subscriptions-email-edit-user-talk":1,"echo-subscriptions-web-reverted":"0","echo-subscriptions-email-article-linked":"1","echo-subscriptions-web-article-linked":"1","echo-subscriptions-email-mention":"1","cx":"0","read-more":"0","revisionslider":"0"});});mw.loader.implement("user.tokens@1dqfd7l",function ( $, jQuery, require, module ) {
+mw.user.tokens.set({"editToken":"4b0758db65eacc08d232240363b38c3158afec79+\\","patrolToken":"9c9bd89c7e9a6a2dc85e96650a9ec09158afec79+\\","watchToken":"dc4794ff97f83f088349484227b3e59158afec79+\\","csrfToken":"4b0758db65eacc08d232240363b38c3158afec79+\\"});/*@nomin*/;
+
+});mw.loader.load(["site","mediawiki.page.startup","mediawiki.user","mediawiki.hidpi","mediawiki.page.ready","mediawiki.legacy.wikibits","mediawiki.searchSuggest","mediawiki.page.watch.ajax","mediawiki.action.view.rightClickEdit","ext.gadget.ReferenceTooltips","ext.gadget.WikiMiniAtlas","ext.gadget.switcher","ext.centralauth.centralautologin.clearcookie","ext.visualEditor.desktopArticleTarget.init","ext.visualEditor.targetLoader","ext.echo.init","ext.eventLogging.subscriber","ext.wikimediaEvents","ext.wikimediaEvents.loggedin","ext.navigationTiming","ext.uls.eventlogger","ext.uls.init","ext.uls.compactlinks","ext.uls.interface","ext.centralNotice.geoIP","ext.centralNotice.startUp","skins.vector.js"]);});</script>
+<link rel="stylesheet" href="/w/load.php?debug=false&amp;lang=ja&amp;modules=ext.echo.badgeicons%7Cext.echo.styles.badge%7Cext.uls.interlanguage%7Cext.visualEditor.desktopArticleTarget.noscript%7Cext.wikimediaBadges%7Cmediawiki.legacy.commonPrint%2Cshared%7Cmediawiki.sectionAnchor%7Cmediawiki.skinning.interface%7Cskins.vector.styles&amp;only=styles&amp;skin=vector"/>
+<script async="" src="/w/load.php?debug=false&amp;lang=ja&amp;modules=startup&amp;only=scripts&amp;skin=vector"></script>
+<meta name="ResourceLoaderDynamicStyles" content=""/>
+<link rel="stylesheet" href="/w/load.php?debug=false&amp;lang=ja&amp;modules=site.styles&amp;only=styles&amp;skin=vector"/>
+<meta name="generator" content="MediaWiki 1.29.0-wmf.13"/>
+<meta name="referrer" content="origin-when-cross-origin"/>
+<meta name="robots" content="noindex,nofollow"/>
+<link rel="alternate" type="application/x-wiki" title="編集" href="/w/index.php?title=%E5%88%A9%E7%94%A8%E8%80%85:Testtesti9994&amp;action=edit"/>
+<link rel="edit" title="編集" href="/w/index.php?title=%E5%88%A9%E7%94%A8%E8%80%85:Testtesti9994&amp;action=edit"/>
+<link rel="apple-touch-icon" href="/static/apple-touch/wikipedia.png"/>
+<link rel="shortcut icon" href="/static/favicon/wikipedia.ico"/>
+<link rel="search" type="application/opensearchdescription+xml" href="/w/opensearch_desc.php" title="Wikipedia (ja)"/>
+<link rel="EditURI" type="application/rsd+xml" href="//ja.wikipedia.org/w/api.php?action=rsd"/>
+<link rel="copyright" href="//creativecommons.org/licenses/by-sa/3.0/"/>
+<link rel="alternate" type="application/atom+xml" title="WikipediaのAtomフィード" href="/w/index.php?title=%E7%89%B9%E5%88%A5:%E6%9C%80%E8%BF%91%E3%81%AE%E6%9B%B4%E6%96%B0&amp;feed=atom"/>
+<link rel="canonical" href="https://ja.wikipedia.org/wiki/%E5%88%A9%E7%94%A8%E8%80%85:Testtesti9994"/>
+<link rel="dns-prefetch" href="//meta.wikimedia.org" />
+</head>
+<body class="mediawiki ltr sitedir-ltr mw-hide-empty-elt ns-2 ns-subject page-利用者_Testtesti9994 rootpage-利用者_Testtesti9994 skin-vector action-view">		<div id="mw-page-base" class="noprint"></div>
+		<div id="mw-head-base" class="noprint"></div>
+		<div id="content" class="mw-body" role="main">
+			<a id="top"></a>
+
+							<div 
+1000
+id="siteNotice"><!-- CentralNotice --></div>
+						<div class="mw-indicators">
+</div>
+			<h1 id="firstHeading" class="firstHeading" lang="ja">利用者:Testtesti9994</h1>
+									<div id="bodyContent" class="mw-body-content">
+									<div id="siteSub">出典: フリー百科事典『ウィキペディア（Wikipedia）』</div>
+								<div id="contentSub"></div>
+												<div id="jump-to-nav" class="mw-jump">
+					移動先:					<a href="#mw-head">案内</a>、					<a href="#p-search">検索</a>
+				</div>
+				<div id="mw-content-text" lang="ja" dir="ltr" class="mw-content-ltr"><div class="noarticletext mw-content-ltr" dir="ltr" lang="ja">
+<div class="plainlinks"><b>ウィキペディアには現在この名前の<a href="/wiki/Wikipedia:%E5%88%A9%E7%94%A8%E8%80%85%E3%83%9A%E3%83%BC%E3%82%B8" title="Wikipedia:利用者ページ">利用者ページ</a>はありません。</b>
+<ul><li> <b><a class="external text" href="//ja.wikipedia.org/w/index.php?title=%E5%88%A9%E7%94%A8%E8%80%85:Testtesti9994&amp;action=edit">"利用者:Testtesti9994"というページを新規作成する</a></b>。</li>
+<li> 既存のページから<a href="/wiki/%E7%89%B9%E5%88%A5:%E6%A4%9C%E7%B4%A2/Testtesti9994" title="特別:検索/Testtesti9994">"Testtesti9994"を検索する</a>。</li>
+<li> <a href="/wiki/%E7%89%B9%E5%88%A5:%E3%83%AA%E3%83%B3%E3%82%AF%E5%85%83/%E5%88%A9%E7%94%A8%E8%80%85:Testtesti9994" title="特別:リンク元/利用者:Testtesti9994">このページへリンクしているウィキペディア内のページを探す</a>。</li></ul>
+<hr />
+<ul><li> もしこのページを作成したことがあるのにこのメッセージがでる場合、<b>データベースの更新が遅れているために表示できない</b>可能性があります。ページを書き直す前にしばらく待ってから、<a class="external text" href="//ja.wikipedia.org/w/index.php?title=%E5%88%A9%E7%94%A8%E8%80%85:Testtesti9994&amp;action=purge">キャッシュを破棄</a>してみてください。</li>
+<li> 上部に削除記録が表示されている場合、このページは既に削除されています（<a href="/wiki/Wikipedia:%E5%8D%B3%E6%99%82%E5%89%8A%E9%99%A4%E3%81%AE%E6%96%B9%E9%87%9D#.E5.AF.BE.E8.B1.A1.E3.81.A8.E3.81.AA.E3.82.8B.E3.82.B1.E3.83.BC.E3.82.B9" title="Wikipedia:即時削除の方針">即時削除の方針</a>に削除された理由が記載されているかもしれません）。</li>
+<li> ページ名（利用者:Testtesti9994）に全角英数字・半角カナ・ローマ数字・丸付数字が含まれている場合は、それらを半角英数字・全角カナ・半角英字による代替表記・半角数字に置き換えた名前でページが存在するかもしれません。</div></li></ul>
+</div>
+<div id="central-auth-images" style="position: absolute;"><img src="//meta.wikimedia.org/wiki/Special:CentralAutoLogin/start?type=1x1&amp;from=jawiki" alt="" title="" width="1" height="1" style="border: none;" /><img src="//en.wiktionary.org/wiki/Special:CentralAutoLogin/start?type=1x1&amp;from=jawiki" alt="" title="" width="1" height="1" style="border: none;" /><img src="//en.wikibooks.org/wiki/Special:CentralAutoLogin/start?type=1x1&amp;from=jawiki" alt="" title="" width="1" height="1" style="border: none;" /><img src="//en.wikiquote.org/wiki/Special:CentralAutoLogin/start?type=1x1&amp;from=jawiki" alt="" title="" width="1" height="1" style="border: none;" /><img src="//en.wikisource.org/wiki/Special:CentralAutoLogin/start?type=1x1&amp;from=jawiki" alt="" title="" width="1" height="1" style="border: none;" /><img src="//commons.wikimedia.org/wiki/Special:CentralAutoLogin/start?type=1x1&amp;from=jawiki" alt="" title="" width="1" height="1" style="border: none;" /><img src="//en.wikinews.org/wiki/Special:CentralAutoLogin/start?type=1x1&amp;from=jawiki" alt="" title="" width="1" height="1" style="border: none;" /><img src="//en.wikiversity.org/wiki/Special:CentralAutoLogin/start?type=1x1&amp;from=jawiki" alt="" title="" width="1" height="1" style="border: none;" /><img src="//www.mediawiki
+1000
+.org/wiki/Special:CentralAutoLogin/start?type=1x1&amp;from=jawiki" alt="" title="" width="1" height="1" style="border: none;" /><img src="//www.wikidata.org/wiki/Special:CentralAutoLogin/start?type=1x1&amp;from=jawiki" alt="" title="" width="1" height="1" style="border: none;" /><img src="//species.wikimedia.org/wiki/Special:CentralAutoLogin/start?type=1x1&amp;from=jawiki" alt="" title="" width="1" height="1" style="border: none;" /><img src="//incubator.wikimedia.org/wiki/Special:CentralAutoLogin/start?type=1x1&amp;from=jawiki" alt="" title="" width="1" height="1" style="border: none;" /><img src="//en.wikivoyage.org/wiki/Special:CentralAutoLogin/start?type=1x1&amp;from=jawiki" alt="" title="" width="1" height="1" style="border: none;" /><img src="//login.wikimedia.org/wiki/Special:CentralAutoLogin/refreshCookies?type=1x1&amp;wikiid=jawiki&amp;proto=https" alt="" title="" width="1" height="1" style="border: none;" /></div></div>					<div class="printfooter">
+						「<a dir="ltr" href="https://ja.wikipedia.org/wiki/利用者:Testtesti9994">https://ja.wikipedia.org/wiki/利用者:Testtesti9994</a>」から取得					</div>
+				<div id="catlinks" class="catlinks catlinks-allhidden" data-mw="interface"></div>				<div class="visualClear"></div>
+							</div>
+		</div>
+		<div id="mw-navigation">
+			<h2>案内メニュー</h2>
+
+			<div id="mw-head">
+									<div id="p-personal" role="navigation" class="" aria-labelledby="p-personal-label">
+						<h3 id="p-personal-label">個人用ツール</h3>
+						<ul>
+							<li id="pt-userpage" class="active"><a href="/wiki/%E5%88%A9%E7%94%A8%E8%80%85:Testtesti9994" class="new" dir="auto" title="自分の利用者ページ [.]" accesskey=".">Testtesti9994</a></li><li id="pt-notifications-alert"><a href="/wiki/%E7%89%B9%E5%88%A5:%E9%80%9A%E7%9F%A5" class="mw-echo-notifications-badge mw-echo-notification-badge-nojs mw-echo-notifications-badge-all-read" data-counter-num="0" data-counter-text="0" title="あなたへの注意喚起">0</a></li><li id="pt-notifications-notice"><a href="/wiki/%E7%89%B9%E5%88%A5:%E9%80%9A%E7%9F%A5" class="mw-echo-notifications-badge mw-echo-notification-badge-nojs" data-counter-num="1" data-counter-text="1" title="あなたへの通知">1</a></li><li id="pt-mytalk"><a href="/wiki/%E5%88%A9%E7%94%A8%E8%80%85%E2%80%90%E4%BC%9A%E8%A9%B1:Testtesti9994" class="new" title="あなたの会話ページ [n]" accesskey="n">会話</a></li><li id="pt-sandbox"><a href="/w/index.php?title=%E5%88%A9%E7%94%A8%E8%80%85:Testtesti9994/sandbox&amp;action=edit&amp;redlink=1&amp;editintro=Template%3AUser_sandbox&amp;preload=Template%3AUser_sandbox%2Fpreload" class="new" title="自分のサンドボックス">下書き</a></li><li id="pt-preferences"><a href="/wiki/%E7%89%B9%E5%88%A5:%E5%80%8B%E4%BA%BA%E8%A8%AD%E5%AE%9A" title="個人設定">個人設定</a></li><li id="pt-betafeatures"><a href="/wiki/%E7%89%B9%E5%88%A5:%E5%80%8B%E4%BA%BA%E8%A8%AD%E5%AE%9A#mw-prefsection-betafeatures" title="ベータ版機能">ベータ版</a></li><li id="pt-watchlist"><a href="/wiki/%E7%89%B9%E5%88%A5:%E3%82%A6%E3%82%A9%E3%83%83%E3%83%81%E3%83%AA%E3%82%B9%E3%83%88" title="変更をウォッチしているページの一覧 [l]" accesskey="l">ウォッチリスト</a></li><li id="pt-mycontris"><a href="/wiki/%E7%89%B9%E5%88%A5:%E6%8A%95%E7%A8%BF%E8%A8%98%E9%8C%B2/Testtesti9994" title="自分の投稿の一覧 [y]" accesskey="y">投稿記録</a></li><li id="pt-logout"><a href="/w/index.php?title=%E7%89%B9%E5%88%A5:%E3%83%AD%E3%82%B0%E3%82%A2%E3%82%A6%E3%83%88&amp;returnto=%E5%88%A9%E7%94%A8%E8%80%85%3ATesttesti9994" title="ログアウト">ログアウト</a></li>						</ul>
+					</div>
+									<div id="left-navigation">
+										<div id="p-namespaces" role="navigation" class="vectorTabs" aria-labelledby="p-namespaces-label">
+						<h3 id="p-namespaces-label">名前空間</h3>
+						<ul>
+															<li  id="ca-nstab-user" class="selected new"><span><a href="/w/index.php?title=%E5%88%A9%E7%94%A8%E8%80%85:Testtesti9994&amp;action=edit&amp;redlink=1"  title="利用者ページを表示 [c]" accesske
+1000
+y="c">利用者ページ</a></span></li>
+															<li  id="ca-talk" class="new"><span><a href="/w/index.php?title=%E5%88%A9%E7%94%A8%E8%80%85%E2%80%90%E4%BC%9A%E8%A9%B1:Testtesti9994&amp;action=edit&amp;redlink=1"  title="本文ページについての議論 [t]" accesskey="t" rel="discussion">ノート</a></span></li>
+													</ul>
+					</div>
+										<div id="p-variants" role="navigation" class="vectorMenu emptyPortlet" aria-labelledby="p-variants-label">
+												<h3 id="p-variants-label">
+							<span>変種</span><a href="#"></a>
+						</h3>
+
+						<div class="menu">
+							<ul>
+															</ul>
+						</div>
+					</div>
+									</div>
+				<div id="right-navigation">
+										<div id="p-views" role="navigation" class="vectorTabs" aria-labelledby="p-views-label">
+						<h3 id="p-views-label">表示</h3>
+						<ul>
+															<li id="ca-edit"><span><a href="/w/index.php?title=%E5%88%A9%E7%94%A8%E8%80%85:Testtesti9994&amp;action=edit"  title="このページを編集 [e]" accesskey="e">作成</a></span></li>
+															<li id="ca-unwatch" class="icon mw-watchlink"><span><a href="/w/index.php?title=%E5%88%A9%E7%94%A8%E8%80%85:Testtesti9994&amp;action=unwatch"  title="このページをウォッチリストから除去する [w]" accesskey="w">ウォッチリストから削除</a></span></li>
+													</ul>
+					</div>
+										<div id="p-cactions" role="navigation" class="vectorMenu emptyPortlet" aria-labelledby="p-cactions-label">
+						<h3 id="p-cactions-label"><span>その他</span><a href="#"></a></h3>
+
+						<div class="menu">
+							<ul>
+															</ul>
+						</div>
+					</div>
+										<div id="p-search" role="search">
+						<h3>
+							<label for="searchInput">検索</label>
+						</h3>
+
+						<form action="/w/index.php" id="searchform">
+							<div id="simpleSearch">
+							<input type="search" name="search" placeholder="Wikipedia内を検索" title="Wikipedia内を検索する [f]" accesskey="f" id="searchInput"/><input type="hidden" value="特別:検索" name="title"/><input type="submit" name="fulltext" value="検索" title="この文字列が含まれるページを探す" id="mw-searchButton" class="searchButton mw-fallbackSearchButton"/><input type="submit" name="go" value="表示" title="厳密に一致する名前のページが存在すれば、そのページへ移動する" id="searchButton" class="searchButton"/>							</div>
+						</form>
+					</div>
+									</div>
+			</div>
+			<div id="mw-panel">
+				<div id="p-logo" role="banner"><a class="mw-wiki-logo" href="/wiki/%E3%83%A1%E3%82%A4%E3%83%B3%E3%83%9A%E3%83%BC%E3%82%B8"  title="メインページに移動する"></a></div>
+						<div class="portal" role="navigation" id='p-navigation' aria-labelledby='p-navigation-label'>
+			<h3 id='p-navigation-label'>案内</h3>
+
+			<div class="body">
+									<ul>
+						<li id="n-mainpage"><a href="/wiki/%E3%83%A1%E3%82%A4%E3%83%B3%E3%83%9A%E3%83%BC%E3%82%B8" title="メインページに移動する [z]" accesskey="z">メインページ</a></li><li id="n-portal"><a href="/wiki/Wikipedia:%E3%82%B3%E3%83%9F%E3%83%A5%E3%83%8B%E3%83%86%E3%82%A3%E3%83%BB%E3%83%9D%E3%83%BC%E3%82%BF%E3%83%AB" title="このプロジェクトについて、できること、情報を入手する場所">コミュニティ・ポータル</a></li><li id="n-currentevents"><a href="/wiki/Portal:%E6%9C%80%E8%BF%91%E3%81%AE%E5%87%BA%E6%9D%A5%E4%BA%8B" title="最近の出来事の背景を知る">最近の出来事</a></li><li id="n-newpages"><a href="/wiki/%E7%89%B9%E5%88%A5:%E6%96%B0%E3%81%97%E3%81%84%E3%83%9A%E3%83%BC%E3%82%B8" title="最近新規に作成されたページの一覧">新しいページ</a></li><li id="n-recentchanges"><a href="/wiki/%E7%89%B9%E5%88%A5:%E6%9C%80%E8%BF%91%E3%81%AE%E6%9B%B4%E6%96%B0" title="このウィキにおける最近の更新の一覧 [r]" accesskey="r">最近の更新</a></li><li id="n-randompage"><a href="/wiki/%E7%89%B9%E5%88%A5:%E3%81%8A%E3%81%BE%E3%81%8B%E3%81%9B%E8%A1%A8%E7%A4%BA" title="無作為に選択されたページを読み込む [x]" accesskey="x">
+1000
+おまかせ表示</a></li><li id="n-sandbox"><a href="/wiki/Wikipedia:%E3%82%B5%E3%83%B3%E3%83%89%E3%83%9C%E3%83%83%E3%82%AF%E3%82%B9" title="練習用のページ">練習用ページ</a></li><li id="n-commonsupload"><a href="//commons.wikimedia.org/wiki/Special:UploadWizard?uselang=ja" title="画像やメディアファイルをウィキメディア・コモンズにアップロード">アップロード (ウィキメディア・コモンズ)</a></li>					</ul>
+							</div>
+		</div>
+			<div class="portal" role="navigation" id='p-help' aria-labelledby='p-help-label'>
+			<h3 id='p-help-label'>ヘルプ</h3>
+
+			<div class="body">
+									<ul>
+						<li id="n-help"><a href="/wiki/Help:%E7%9B%AE%E6%AC%A1" title="情報を得る場所">ヘルプ</a></li><li id="n-villagepump"><a href="/wiki/Wikipedia:%E4%BA%95%E6%88%B8%E7%AB%AF" title="プロジェクトについての意見交換">井戸端</a></li><li id="n-notice"><a href="/wiki/Wikipedia:%E3%81%8A%E7%9F%A5%E3%82%89%E3%81%9B" title="プロジェクトについてのお知らせ">お知らせ</a></li><li id="n-bugreportspage"><a href="/wiki/Wikipedia:%E3%83%90%E3%82%B0%E3%81%AE%E5%A0%B1%E5%91%8A" title="ウィキペディア・ソフトウェアのバグ報告">バグの報告</a></li><li id="n-sitesupport"><a href="//donate.wikimedia.org/wiki/Special:FundraiserRedirector?utm_source=donate&amp;utm_medium=sidebar&amp;utm_campaign=C13_ja.wikipedia.org&amp;uselang=ja" title="ご支援ください">寄付</a></li><li id="n-contact"><a href="/wiki/Wikipedia:%E9%80%A3%E7%B5%A1%E5%85%88" title="ウィキペディアやウィキメディア財団に関する連絡先">ウィキペディアに関するお問い合わせ</a></li>					</ul>
+							</div>
+		</div>
+			<div class="portal" role="navigation" id='p-tb' aria-labelledby='p-tb-label'>
+			<h3 id='p-tb-label'>ツール</h3>
+
+			<div class="body">
+									<ul>
+						<li id="t-whatlinkshere"><a href="/wiki/%E7%89%B9%E5%88%A5:%E3%83%AA%E3%83%B3%E3%82%AF%E5%85%83/%E5%88%A9%E7%94%A8%E8%80%85:Testtesti9994" title="ここにリンクしている全ウィキページの一覧 [j]" accesskey="j">リンク元</a></li><li id="t-contributions"><a href="/wiki/%E7%89%B9%E5%88%A5:%E6%8A%95%E7%A8%BF%E8%A8%98%E9%8C%B2/Testtesti9994" title="この利用者による投稿の一覧">利用者の投稿記録</a></li><li id="t-log"><a href="/wiki/%E7%89%B9%E5%88%A5:%E3%83%AD%E3%82%B0/Testtesti9994">記録</a></li><li id="t-userrights"><a href="/wiki/%E7%89%B9%E5%88%A5:%E5%88%A9%E7%94%A8%E8%80%85%E6%A8%A9%E9%99%90/Testtesti9994">利用者グループの表示</a></li><li id="t-upload"><a href="/wiki/Wikipedia:%E3%83%95%E3%82%A1%E3%82%A4%E3%83%AB%E3%81%AE%E3%82%A2%E3%83%83%E3%83%97%E3%83%AD%E3%83%BC%E3%83%89" title="ファイルをアップロードする [u]" accesskey="u">ファイルをアップロード</a></li><li id="t-specialpages"><a href="/wiki/%E7%89%B9%E5%88%A5:%E7%89%B9%E5%88%A5%E3%83%9A%E3%83%BC%E3%82%B8%E4%B8%80%E8%A6%A7" title="特別ページの一覧 [q]" accesskey="q">特別ページ</a></li><li id="t-info"><a href="/w/index.php?title=%E5%88%A9%E7%94%A8%E8%80%85:Testtesti9994&amp;action=info" title="このページについての詳細情報">ページ情報</a></li>					</ul>
+							</div>
+		</div>
+			<div class="portal" role="navigation" id='p-lang' aria-labelledby='p-lang-label'>
+			<h3 id='p-lang-label'>他言語版</h3>
+
+			<div class="body">
+									<ul>
+											</ul>
+							</div>
+		</div>
+				</div>
+		</div>
+		<div id="footer" role="contentinfo">
+							<ul id="footer-places">
+											<li id="footer-places-privacy"><a href="https://meta.wikimedia.org/wiki/Privacy_policy/ja" class="extiw" title="m:Privacy policy/ja">プライバシー・ポリシー</a></li>
+											<li id="footer-places-about"><a href="/wiki/Wikipedia:%E3%82%A6%E3%82%A3%E3%82%AD%E3%83%9A%E3%83%87%E3%82%A3%E3%82%A2%E3%81%AB%E3%81%A4%E3%81%84%E3%81%A6" title="Wikipedia:ウィキペディアについて">ウィキペディアについて</a></li>
+											<li id="footer-places-disclaimer"><a href="/wiki/Wikipedia:%E5%85%8D%E8%B2%AC%E4%BA%8B%E9%A0
+5ca
+%85" title="Wikipedia:免責事項">免責事項</a></li>
+											<li id="footer-places-developers"><a href="https://www.mediawiki.org/wiki/Special:MyLanguage/How_to_contribute">開発者</a></li>
+											<li id="footer-places-cookiestatement"><a href="https://wikimediafoundation.org/wiki/Cookie_statement">Cookieに関する声明</a></li>
+											<li id="footer-places-mobileview"><a href="//ja.m.wikipedia.org/w/index.php?title=%E5%88%A9%E7%94%A8%E8%80%85:Testtesti9994&amp;mobileaction=toggle_view_mobile" class="noprint stopMobileRedirectToggle">モバイルビュー</a></li>
+									</ul>
+										<ul id="footer-icons" class="noprint">
+											<li id="footer-copyrightico">
+							<a href="https://wikimediafoundation.org/"><img src="/static/images/wikimedia-button.png" srcset="/static/images/wikimedia-button-1.5x.png 1.5x, /static/images/wikimedia-button-2x.png 2x" width="88" height="31" alt="Wikimedia Foundation"/></a>						</li>
+											<li id="footer-poweredbyico">
+							<a href="//www.mediawiki.org/"><img src="/static/images/poweredby_mediawiki_88x31.png" alt="Powered by MediaWiki" srcset="/static/images/poweredby_mediawiki_132x47.png 1.5x, /static/images/poweredby_mediawiki_176x62.png 2x" width="88" height="31"/></a>						</li>
+									</ul>
+						<div style="clear:both"></div>
+		</div>
+		<script>(window.RLQ=window.RLQ||[]).push(function(){mw.config.set({"wgBackendResponseTime":83,"wgHostname":"mw1275"});});</script>
+	</body>
+</html>
+
+0
+

@@ -1,0 +1,37 @@
+GET http://shop.golfdigest.co.jp/newshop/disp/CSfIncludeViewHistory.jsp HTTP/1.1
+Host: shop.golfdigest.co.jp
+User-Agent: Mozilla/5.0 (Windows NT 6.1; WOW64; rv:52.0) Gecko/20100101 Firefox/52.0
+Accept: */*
+Accept-Language: ja,en-US;q=0.7,en;q=0.3
+Accept-Encoding: gzip, deflate
+X-Requested-With: XMLHttpRequest
+Referer: http://shop.golfdigest.co.jp/newshop/disp/CSfDispListPage_001.jsp?chkShop=0000100001&chkShop=0000100003&chkShop=0000100004&q=%E3%82%A2%E3%83%89%E3%83%9F%E3%83%A9%E3%83%AB
+Cookie: sctvaspcookie_cd=20170405115549734xJSHjtjG8bIAaCJ6Z; V1_disp_history=%2F001013; TS01a7dc1d=01f34b983f4beb519ba500ee326148568f3beb03413eb537cd5d34746e6280a3cad470c882a3faf73f5d0696029259c257821b3b43; MkiTracUUID=3314e628bf6f461cae4f76ce0932e85a; _rt.uid=233E91E7569581D8999481F04E14BC1A95E92AEF36A498DFFD8A40C124B6DA52; _rt.xd=3bf3fadd; _rt.cs=2; __utma=110123411.13208537.1491360535.1491360535.1491363927.2; __utmc=110123411; __utmz=110123411.1491360535.1.1.utmcsr=(direct)|utmccn=(direct)|utmcmd=(none); MkiTracMBID=233E91E7569581D8999481F04E14BC1A95E92AEF36A498DFFD8A40C124B6DA52; TS0133a40f=01250487715d9f7cf70318261fb491f2a91b25655b413aa2cae0934319af0e70627e1fba17c2936930c1c59425bda0ba4095b56771; __gads=ID=fac33f16dfb9dace:T=1491361138:S=ALNI_MZ76KC_SXVHwzkwz8Nt2tw7Ps44ig; JSESSIONID=283DA85E51D777030DC2C926A5C01CB6.w2; sid=P08; V1_COMM_005=BD5792107513874B845D38A977157E1B4450678A00CF6B87; TS016d09f0=01f34b983f7c1083a2a4cfb4d70e477c69699d94ab612afa9070f2c6b836a15b0b4b256670a009e46fd7fdf2be3b841e288b991236; ak_bmsc=754B941C047F351EE58F03ABAD690167769BE68A7E3200005368E458BFA3C12A~pl29ctXTCDKAAtM2hvc2LBBMzAwy1LJSVB0L9zDrEKyAhoXbXnCUNj5JvI2ZxQucycbkBBs1GVyzHkI5HI8jRZEHqjpNIwoRAUyuQpQLQl2w1Sck5fZaS85aMJRkQHtXagQYTgjzvGC8Xil1dLuqHC2tGLRtoVmMUQjPO/pUH2aQ+TCHZypdnT4OLTomp/iWvFwwujaQw6AmzKF00rxpGFrA==; _ga=GA1.4.13208537.1491360535; __utmb=110123411.46.10.1491363927; __utma=74518224.13208537.1491360535.1491363927.1491363926.1; __utmb=74518224.14.10.1491363927; __utmc=74518224; __utmz=74518224.1491363927.1.1.utmcsr=(direct)|utmccn=(direct)|utmcmd=(none); sctvaspcookie_cd=20170405115549734xJSHjtjG8bIAaCJ6Z; NavicastApi=20170405.115550.34378200.87809; NavicastApi.su=20170405.124530.13412700.06548; __ulfpc=201704051245308142; __ywapbuk=0.504; _tdim=321afaac-0a16-4129-d0fb-454ce644fe19; krt.vis=1217107314_1491363931323_662509558; krt.s=date%3A1491364289%3Bpv%3A9%3Btime%3A3127; _ga=GA1.3.13208537.1491360535; mmsn=b7901be1b636f83f314f4846611740f3; __ukwlgck=115768848.73957924.0_5_25350397.1491367194005_25350397.1537725254.1491367194005; _td=8cf99a8f-7dbf-4d1b-a9e7-a31cf84eb3b4; _gat=1; _gat_newTracker1=1; _gat_newTracker2=1; __utmt_AllTracker=1; __utmt_RbuTracker=1; __utmli=searchBarForm
+Connection: keep-alive
+
+
+HTTP/1.1 200 OK
+Last-Modified: Wed, 05 Apr 2017 04:43:58 GMT
+Expires: Wed, 31 Dec 1969 15:00:00 GMT
+Pragma: no-cache
+Cache-Control: no-cache,no-store
+Content-Type: text/html;charset=UTF-8
+Content-Language: ja
+Vary: Accept-Encoding
+Date: Wed, 05 Apr 2017 04:43:58 GMT
+Connection: keep-alive
+Set-Cookie: ak_bmsc=754B941C047F351EE58F03ABAD690167769BE68A7E3200005368E458BFA3C12A~pl44XoGEuLTB+AJUGQ9h5q+Hh8suNO7ZcE2nT6hn1Zi9l2dR7cw153xeiRWpSHO73IcUaXtcfml3D+L90+1mMkvUc+B5o9A1nDCuLYcqHBq0uZEVu+SOI0+zdJdd9JHmOtZrOFAYvjKe0DrycfpQ9wL5PLiPbmR5Yy3jTR2lPPvNUxl/L7RuEaN0h3LbP2KEIaXgrtK5a0PSYPEJcpCKcYtA==; expires=Wed, 05 Apr 2017 05:45:23 GMT; max-age=3685; path=/; domain=.golfdigest.co.jp; HttpOnly
+Transfer-Encoding: chunked
+
+131
+<div class="sectionGray commonList recentHistoryList"><div class="headingGray"><div>
+<h2>最近チェックした商品</h2>
+</div></div>
+<div class="inner">
+<ul><center><b>チェックした商品はありません。</b></center>
+  </ul>
+</div>
+<!-- /.sectionGray.commonList.recentHistoryList --></div>
+
+0
+

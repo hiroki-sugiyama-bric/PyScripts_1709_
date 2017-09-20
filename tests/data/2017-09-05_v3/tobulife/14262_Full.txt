@@ -1,0 +1,171 @@
+GET https://stg-life.tobu.co.jp/member/individual/complete HTTP/1.1
+Host: stg-life.tobu.co.jp
+Connection: close
+Cache-Control: max-age=0
+Upgrade-Insecure-Requests: 1
+User-Agent: Mozilla/5.0 (Windows NT 10.0; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/56.0.2924.87 Safari/537.36
+Accept: text/html,application/xhtml+xml,application/xml;q=0.9,image/webp,*/*;q=0.8
+Referer: https://stg-life.tobu.co.jp/member/individual/form/27ca1fed6ac9595deba8cc90e3b99f02c29c4675
+Accept-Encoding: gzip, deflate, sdch, br
+Accept-Language: ja,en-US;q=0.8,en;q=0.6
+Cookie: tsol_frontend=3084c101297c7d1a90fe80443f492059
+
+
+HTTP/1.1 200 OK
+Date: Tue, 28 Feb 2017 07:52:20 GMT
+Server: Apache/2.4.6 (Red Hat) PHP/7.0.14 OpenSSL/1.0.0-fips
+X-Powered-By: PHP/7.0.14
+Cache-Control: no-cache
+Content-Length: 5178
+Connection: close
+Content-Type: text/html; charset=UTF-8
+
+<!DOCTYPE html>
+<html lang="ja">
+<head>
+<title>個人会員登録完了 | ソライエナビ</title>
+<meta name="description" content="">
+<meta name="keywords" content="">
+<meta charset="utf-8">
+<meta http-equiv="X-UA-Compatible" content="IE=edge">
+<meta name="robots" content="none" /><style>
+body {
+  font-family: sans-serif; /*NotoSans読み込みまで使用*/
+}
+</style>
+<meta name="viewport" content="width=1024,maximum-scale=1">
+<link rel="stylesheet" href="/module/lib/drawer/drawer.css" media="all">
+<link rel="stylesheet" href="/module/css/bootstrap/bootstrap.css" media="all">
+<link rel="stylesheet" href="/module/lib/slider-pro/slider-pro.css" media="all">
+<link rel="stylesheet" href="/module/css/style.css" media="all">
+
+<script src="/module/js/jquery-2.2.4.min.js"></script>
+<script src="/module/js/common.js"></script>
+<!--- plugin iscroll --->
+<script src="/module/lib/iscroll.js"></script>
+<!--- plugin drawer --->
+<script src="/module/lib/drawer/drawer.min.js"></script>
+<!--- plugin slick --->
+<script src="/module/lib/slider-pro/slider-pro.js"></script>
+<script src="/module/js/bootstrap.min.js"></script>
+<!--[if lt IE 9]>
+<script src="//cdn.jsdelivr.net/html5shiv/3.7.2/html5shiv.min.js"></script>
+<script src="//cdnjs.cloudflare.com/ajax/libs/respond.js/1.4.2/respond.min.js"></script>
+<![endif]-->
+<script src="/module/js/jsrender.min.js"></script>
+<script src="/module/js/jquery.showProfile.js"></script>
+
+<script id="popupProfileTemplate" type="text/x-jsrender">
+  <div class="user-info">
+    <p class="user-name">{{>name}}<span>さん</span></p>
+    <ul class="user-info-sub">
+      <li>{{>age}}　{{>gender}}</li>
+      {{if job}}
+      <li>職業：{{>job}}</li>
+      {{/if}}
+      {{if hobby}}
+      <li>趣味：{{>hobby}}</li>
+      {{/if}}
+    </ul>
+  </div>
+  <p class="user-comment">{{>comment}}</p>
+  <ul class="user-counter">
+    <li>
+      <span>トピック<br>投稿</span>
+      <span class="counter">{{>count.talk || 0}}</span>
+    </li>
+    <li>
+      <span>口コミ<br>投稿</span>
+      <span class="counter">{{>count.facility_comment || 0}}</span>
+    </li>
+    <li>
+      <span>コメント<br>投稿</span>
+      <span class="counter">{{>count.all_comment || 0}}</span>
+    </li>
+    <li>
+      <span>イイネ！<br>獲得</span>
+      <span class="counter">{{>count.nice || 0}}</span>
+    </li>
+  </ul>
+  <button class="close-profile"></button>
+</script>
+
+
+<script>
+var showProfile = null;
+$(function(){
+  showProfile = $('.js-userInfo .post-user').showProfile({
+    url      : '/member/profile',
+    close    : '.close-profile',
+    template : $('#popupProfileTemplate'),
+  });
+});
+</script>
+<script src="/module/js/googleAnalytics.js"></script>
+</head>
+<body>
+  <header>
+    <div class="header-in-top">
+      <div class="inner-wrap clearfix">
+        <h1 class="logo-site float-l"><a href="/"><img src="/module/images/logo_site.png" alt="ソライエナビ"></a></h1>
+      </div><!-- /.inner-wrap -->
+    </div><!-- /.header-in-top -->
+  </header><!-- /.header -->
+  <div class="wrapper">
+    <main>
+            <div class="box-crumb detail">
+        <div class="box-crumb-child">
+          <ul class="list-crumb">
+            <li><a>ホームへ</a></li>
+            <li><span>本会員登録（個人会員様用）</span></li>
+            <li><span>本会員登録確認</span></li>
+            <li><span>登録完了</span></li>
+          </ul>
+        </div>
+      </div>
+      <div class="clearfix inner-wrap">
+                                            <section class="content-wrap">
+          <section class="box-layout-white box-form">
+            
+            <h2 class="ttl-md box-ttl-line">登録完了</h2>
+            <div class="box-layout-inner clearfix">
+              <ol class="box-step step-3">
+    <li class="active">
+  Step.1<br class="is-sp-only"> 本登録</li>
+    <li class="active">
+  Step.2<br class="is-sp-only"> 確認</li>
+    <li class="active">
+  Step.3<br class="is-sp-only"> 完了</li>
+  </ol>
+
+              
+              <div class="box-complete form-caption">
+                <h3 class="ttl-sm">新規会員登録が完了しました。</h3>
+                <p>以下ボタンよりログインして、ソライエナビをお楽しみください。</p>
+              </div>
+              
+              <a href="/login" class="btn btn-next-blue btn-style-lg">ログイン</a>
+            </div>
+          </section>
+        </section>
+            </div>
+    </main>
+  </div><!-- /.wrapper -->
+  <!-- /ページトップへ ここから -->
+ <a href="#" class="pagetop">
+   <img src="/module/images/icon/icon_arrow_pagetop.png" alt="ページトップへ">
+ </a>
+<!-- /ページトップへ ここまで -->
+
+<!-- /フッター ここから -->
+  <footer class="footer">
+            <div class="copy">
+      <div class="inner-wrap clearfix">
+        <small>Copyright &copy; TOBU RAILWAY CO., LTD. All Rights Reserved.</small>
+      <a href="//www.tobu.co.jp/" target="_blank"><img src="/module/images/logo_tobu.png" alt="TOBU Groupロゴ" class="float-r logo-tobu"></a>
+      </div>
+    </div>
+  </footer><!-- /.footer -->
+<!-- /フッター　ここまで -->
+</body>
+</html>

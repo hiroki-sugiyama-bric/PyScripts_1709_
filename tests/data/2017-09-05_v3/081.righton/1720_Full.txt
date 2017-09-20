@@ -1,0 +1,25 @@
+GET https://e.right-on.co.jp/Form/RestoreSession.aspx?nurl=%2fForm%2fUser%2fUserRegistComplete.aspx&lginflg=1 HTTP/1.1
+Host: e.right-on.co.jp
+User-Agent: Mozilla/5.0 (Windows NT 6.1; rv:52.0) Gecko/20100101 Firefox/52.0
+Accept: text/html,application/xhtml+xml,application/xml;q=0.9,*/*;q=0.8
+Accept-Language: ja,en-US;q=0.7,en;q=0.3
+Referer: https://e.right-on.co.jp/Form/User/UserRegistConfirm.aspx
+Cookie: ASP.NET_SessionId.Front=; Unique_User_Id=20170406_0318504f-731d-45e8-a103-e2d5ec1a6b6e; authkey=77fec99c-e10d-44c6-a695-a3a4793f0930; __access_user_id=32834026.1491474829.172708315; __session_id=32834026.1491474829.1332411641; __last_acs_date=32834026.1491475846539; _ga=GA1.3.1924014357.1491474829; krt.vis=3792700688_1491474830699_189225846; __ulfpc=201704061933512473; krt.s=date%3A1491474831%3Bpv%3A12%3Btime%3A1016; Session_Data_Key=ASP.NET_SessionIdTmp 4iaqvjb33basrmvlc2ft4zry
+Connection: close
+Upgrade-Insecure-Requests: 1
+
+
+HTTP/1.1 302 Found
+Cache-Control: private
+Content-Type: text/html; charset=utf-8
+Location: /Form/User/UserRegistComplete.aspx
+Set-Cookie: ASP.NET_SessionId.Front=c12ox3lmlakgcxvl11iv1bzh; path=/; HttpOnly
+Set-Cookie: Session_Data_Key=; expires=Wed, 05-Apr-2017 10:52:19 GMT; path=/
+X-FRAME-OPTIONS: SAMEORIGIN
+Date: Thu, 06 Apr 2017 10:52:19 GMT
+Connection: close
+Content-Length: 151
+
+<html><head><title>Object moved</title></head><body>
+<h2>Object moved to <a href="/Form/User/UserRegistComplete.aspx">here</a>.</h2>
+</body></html>

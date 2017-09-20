@@ -1,0 +1,23 @@
+POST https://glico-club.net/forget/index.php HTTP/1.1
+Host: glico-club.net
+User-Agent: Mozilla/5.0 (Windows NT 6.1; WOW64; rv:52.0) Gecko/20100101 Firefox/52.0
+Accept: text/html,application/xhtml+xml,application/xml;q=0.9,*/*;q=0.8
+Accept-Language: ja,en-US;q=0.7,en;q=0.3
+Accept-Encoding: gzip, deflate, br
+Referer: https://glico-club.net/forget/index.php
+Cookie: __utma=216876864.307502340.1490935531.1490935531.1491214303.2; __utmz=216876864.1490935531.1.1.utmcsr=google|utmccn=(organic)|utmcmd=organic|utmctr=(not%20provided); _ga=GA1.2.307502340.1490935531; __utmb=216876864.15.10.1491214303; __utmc=216876864; __utmt=1; _gat_UA-76363377-3=1; GCLUB-USER=0bKoj5wZM46vaRS3vxHFJkq2RGa
+Connection: keep-alive
+Upgrade-Insecure-Requests: 1
+Content-Type: application/x-www-form-urlencoded
+Content-Length: 123
+
+forget_csrf=4890183aa2cb609970b67deaaace1c26&step=login&email=crawlingtest1000%40gmail.com&birth_y=1980&birth_m=1&birth_d=1
+HTTP/1.1 302 Found
+Date: Mon, 03 Apr 2017 10:16:13 GMT
+Server: Apache
+Location: index.php?step=result
+Content-Length: 0
+Keep-Alive: timeout=5, max=100
+Connection: Keep-Alive
+Content-Type: text/html
+

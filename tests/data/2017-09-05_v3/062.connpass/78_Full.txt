@@ -1,0 +1,25 @@
+POST https://connpass.com/signup/ HTTP/1.1
+Host: connpass.com
+User-Agent: Mozilla/5.0 (Windows NT 6.1; WOW64; rv:52.0) Gecko/20100101 Firefox/52.0
+Accept: text/html,application/xhtml+xml,application/xml;q=0.9,*/*;q=0.8
+Accept-Language: ja,en-US;q=0.7,en;q=0.3
+Referer: https://connpass.com/signup/?next=
+Cookie: connpass-csrftoken=wGc7U0JekZP3BxUtIWir3U5G9bYCKS6V; sessionid=f7hk7al873mmc9g1rjhw241l8t65ozlt; __utma=215431429.1114560625.1491548972.1491548972.1491555106.2; __utmc=215431429; __utmz=215431429.1491548972.1.1.utmcsr=(direct)|utmccn=(direct)|utmcmd=(none); __utmv=215431429.|1=Authenticated=false=1; connpassusr=AfTLzXJvCcw_1491548973514; __utmb=215431429.7.10.1491555106
+Connection: close
+Upgrade-Insecure-Requests: 1
+Content-Type: application/x-www-form-urlencoded
+Content-Length: 170
+
+username=crawlingtest1000&email=crawlingtest1000%40gmail.com&password1=testtest12345&password2=testtest12345&terms=on&csrfmiddlewaretoken=wGc7U0JekZP3BxUtIWir3U5G9bYCKS6V
+HTTP/1.1 302 FOUND
+Content-Language: ja
+Content-Type: text/html; charset=utf-8
+Date: Fri, 07 Apr 2017 09:24:20 GMT
+Location: https://connpass.com/signup/connect/
+Server: nginx
+Set-Cookie: sessionid=jetpvtntewkjenipdqx59vzqcc5hwzpc; Domain=.connpass.com; expires=Fri, 21-Apr-2017 09:24:20 GMT; httponly; Max-Age=1209600; Path=/
+Vary: Accept-Language, Cookie
+X-Frame-Options: DENY
+Content-Length: 0
+Connection: Close
+

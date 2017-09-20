@@ -1,0 +1,27 @@
+POST https://ssl.mos.jp/password/reset/ASRjpnEcys HTTP/1.1
+Host: ssl.mos.jp
+User-Agent: Mozilla/5.0 (Windows NT 6.1; rv:52.0) Gecko/20100101 Firefox/52.0
+Accept: text/html,application/xhtml+xml,application/xml;q=0.9,*/*;q=0.8
+Accept-Language: ja,en-US;q=0.7,en;q=0.3
+Referer: https://ssl.mos.jp/password/reset/ASRjpnEcys
+Cookie: __mosid__=m58e4b87ea14934.72785550; _ga=GA1.2.91264095.1491384453; sp_key=2MQcj6yeRo; security_token=ef85bb19c2bf785a; PHPSESSID=96fs5peq3gr7ts4otg34eskg14
+Connection: close
+Upgrade-Insecure-Requests: 1
+Content-Type: application/x-www-form-urlencoded
+Content-Length: 677
+
+__jelly_action_state__=dVpUK2t2TUM5SzVVVkdOY3lmVjd4TTEzZExvREpvNTNrcjBJVCtQbTJxN2JVeGErOXBqVHZBM0lkNXFIRmQyZHFUanRvQ1lneXZsNjhDUVJsVFY5YVdKampzTlB3NEIwV0Y1VFFucWxpYVBVTGdOR2x1T2R5bXVNZHJGY295ZnUxRi8xVkgyR2I2a2xOcEtQZ2l1U1p4djdNUEM4a2tnV2MzSG45cFhpM01WY1Ywb0lQWXgxMHl1ZGh2N21SUHcrUWhMMCsrWVlDcHpkWS8xVlZNUDJHOVBNWXdYdEdLMVhVR0grWW43YjI5MTZ3czRkTXlZdjJpb0RZcjV6NU0wd015T1BsYlNJSExwOG8zZjN0NWhNNGxOYWF5Mk5WRFhVUlBFOGcxSlJjREhIbzA3MzZuNkozZU03OXVDS2svekE1djZoVE5maHVmWnVMaW5DUVhpTzBGeGRxeWtNUXpLbGhrOFA0SmJLalJ3dS9wR01rakgzaDdJZzZibzBMYkdx&form_security_token=33ac45841826a949&key=ASRjpnEcys&password=testtest1234&password2=testtest1234&confirm=%E5%A4%89%E6%9B%B4%E3%81%99%E3%82%8B
+HTTP/1.1 302 Found
+Date: Wed, 05 Apr 2017 09:51:10 GMT
+Server: Apache
+Expires: Thu, 19 Nov 1981 08:52:00 GMT
+Cache-Control: no-store, no-cache, must-revalidate, post-check=0, pre-check=0
+Pragma: no-cache
+Set-Cookie: PHPSESSID=otp6eh5agpmro85grp2u46vri4; expires=Tue, 04-Jul-2017 09:51:10 GMT; path=/; domain=.mos.jp
+Set-Cookie: security_token=a7d70541c447a7ad; expires=Wed, 05-Apr-2017 10:51:10 GMT; path=/; domain=.mos.jp; secure
+Location: https://ssl.mos.jp/password/reset/complete/
+Vary: Accept-Encoding
+Content-Length: 0
+Connection: close
+Content-Type: text/html; charset=UTF-8
+

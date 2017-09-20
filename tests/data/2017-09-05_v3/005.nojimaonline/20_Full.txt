@@ -1,0 +1,839 @@
+GET https://online.nojima.co.jp/app/customer/customer_edit1 HTTP/1.1
+Host: online.nojima.co.jp
+User-Agent: Mozilla/5.0 (Windows NT 6.1; WOW64; rv:52.0) Gecko/20100101 Firefox/52.0
+Accept: text/html,application/xhtml+xml,application/xml;q=0.9,*/*;q=0.8
+Accept-Language: ja,en-US;q=0.7,en;q=0.3
+Accept-Encoding: gzip, deflate, br
+Referer: https://online.nojima.co.jp/app/common/login/
+Cookie: COMMODITY_FOOTSTEP_COMMIT=""; __utma=8844779.1950140996.1490941602.1490941602.1491216355.2; __utmz=8844779.1490941602.1.1.utmcsr=google|utmccn=(organic)|utmcmd=organic|utmctr=(not%20provided); JSESSIONID=8E099BBEDB6453A7A53A7675BC07FF05.S12; ArrayID_ENJ=WS-WEB012; __utmb=8844779.1.10.1491216355; __utmc=8844779; __utmt=1
+Connection: keep-alive
+Upgrade-Insecure-Requests: 1
+
+
+HTTP/1.1 200 OK
+Cache-Control: no-cache
+Pragma: no-cache
+Content-Type: text/html;charset=UTF-8
+Expires: -1
+Server: Microsoft-IIS/7.5
+Max-Age: Thu, 01 Jan 1970 00:00:00 GMT
+X-Powered-By: ASP.NET
+Date: Mon, 03 Apr 2017 10:46:01 GMT
+Content-Length: 46373
+Set-Cookie: ArrayID_ENJ=WS-WEB012; Path=/
+Connection: Keep-alive
+Via: 1.1 ID-0314217240373050 uproxy-2
+
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+<html xmlns="http://www.w3.org/1999/xhtml" xml:lang="ja" lang="ja">
+<head>
+<meta name="description" content="nojima onlineはデジタル家電の通販サイトです。神奈川県を中心に展開する、デジタル専門店(株)ノジマが運営。" />
+    <meta name="keywords" content="ノジマ,ノジマオンライン,nojima,nojima online,いーでじ,家電,ゲーム,カー用品" />
+<meta http-equiv="X-UA-Compatible" content="IE=EmulateIE10" />
+<meta http-equiv="content-style-type" content="text/css" />
+<meta http-equiv="content-script-type" content="text/javascript" />
+<meta name="msvalidate.01" content="154A3138BF1A8034BE302E93D7C9A0E6" />
+<link rel="alternate" type="application/rss+xml" title="Nojima Online" href="/rss" />
+<link rel="shortcut icon" href="/default/image/favicon.ico" />
+<link href="/default/style/base.css" rel="stylesheet" type="text/css" media="all" charset="UTF-8" />
+<link href="/default/style/parts.css" rel="stylesheet" type="text/css" media="all" charset="UTF-8" />
+<script type="text/javascript">
+var jsHost = (("https:" == document.location.protocol) ? "https://" : "http://");
+document.write(unescape("%3Cscript src='" + jsHost + "www.google.com/jsapi' type='text/javascript'%3E%3C/script%3E"));
+</script>
+<script src="/default/script/jquery-1.9.1.min.js" type="text/javascript"></script>
+<script type="text/javascript" src="/default/script/ws10_front.js" charset="UTF-8" ></script>
+<script type="text/javascript">
+var pageInfo = {contextPath:""};
+var webshopConfig = {minYear:"2005", maxYear:"2020"};
+</script>
+<script type="text/javascript" src="/default/script/suggest/suggest.js" charset="utf-8"></script>
+<link rel="stylesheet" href="/default/script/auto/jquery-ui-1.10.4.custom.css" type="text/css" />
+<script src="/default/script/auto/jquery-ui-1.10.4.custom.js" type="text/javascript"></script>
+<script src="/default/script/popup.js" type="text/javascript"></script>
+<script src="/default/script/jquery.jqprint.0.3.js" type="text/javascript"></script>
+<script src="/default/script/jquery.cookie.js" type="text/javascript"></script>
+<script src="/default/script/changeViewMord.js" type="text/javascript"></script>
+<script type="text/javascript">
+jQuery(document).ready(function() {
+
+  
+  var ua_smartphone = /Android|iPhone/, 
+  order_url = /\/app\/order/,
+  customer_edit2_url = /\/app\/customer\/customer_edit2/,
+  customer_confirm_url = /\/app\/customer\/customer_confirm/,
+  ranking_url = /\/app\/common\/sales_ranking_category/, 
+  review_ranking_url = /\/app\/common\/review_all_ranking/,
+  campaign_url = /\/ec\/shop\/[^\/]+\/campaign/, 
+  all_campaign_url = /\/app\/catalog\/campaign_list/, 
+  contents_guide_madoguti_url = /\/ec\/siteinfo\/guide/,
+  contents_encho_hosho_url = /\/ec\/encho-hosho/,
+  contents_oogata_url = /\/ec\/oogata/,
+  contents_sitemap_url = /\/app\/info\/sitemap/,
+  contents_faq_url = /\/ec\/faq/, 
+  contents_enj_url = /\/ec\/enj*/, 
+  contents_siteinfo_url = /\/ec\/siteinfo/, 
+  contents_otoiawase_url = /\/ec\/otoiawase*/;
+  var frontUrl = location.host + '/';
+  var spUrl =  location.host + '/sp/';
+  
+  var expiresDay = 7;
+  var cookiePath = '/';
+  var url = document.URL;
+  if(!ranking_url.test(url)
+		  && !review_ranking_url.test(url)
+		  && !campaign_url.test(url)
+		  && !all_campaign_url.test(url)
+		  && !contents_guide_madoguti_url.test(url)
+		  && !contents_encho_hosho_url.test(url)
+		  && !contents_oogata_url.test(url)
+		  && !contents_sitemap_url.test(url)
+		  ){
+      if (ua_smartphone.test(navigator.userAgent)) {
+
+          if(!$.cookie('MODE') || $.cookie('MODE') == "SP"){
+        	  
+              if(contents_faq_url.test(url) || contents_enj_url.test(url) || contents_siteinfo_url.test(url) || contents_otoiawase_url.test(url)){
+            	
+                frontUrl = '/ec/';
+                spUrl = '/sp/ec/SM_';
+                
+              }
+              
+              $.cookie('MODE', 'SP', { path: cookiePath,expires: expiresDay });
+              location.href = document.URL.replace(frontUrl, spUrl);
+          }else{
+              if(!order_url.test(url) && !customer_edit2_url.test(url) && !customer_confirm_url.test(url)){
+            	  
+                  jQuery('#moveSpButton').css("display","block");
+              }
+              $.cookie('MODE', 'PC', { path: cookiePath,expires: expiresDay });
+          }
+      }
+  }
+
+});
+</script>
+<script type="text/javascript" charset="utf-8">
+// Google Adsense
+google.load('ads.search', '2');
+</script>
+<script type="text/javascript">
+// Google Analytics
+  var _gaq = _gaq || [];
+  _gaq.push(['_setAccount', 'UA-7749548-1']);
+  _gaq.push(['_trackPageview']);
+
+  (function() {
+    var ga = document.createElement('script'); ga.type = 'text/javascript'; ga.async = true;
+    ga.src = ('https:' == document.location.protocol ? 'https://' : 'http://') + 'stats.g.doubleclick.net/dc.js';
+    var s = document.getElementsByTagName('script')[0]; s.parentNode.insertBefore(ga, s);
+  })();
+</script><title>お客様情報登録1</title>
+  </head>
+<body>
+  <div class="wrapper">
+    <a href="javascript:moveSp();" id="moveSpButton" class="moveSp">スマートフォン版サイトはこちら</a>
+<div id="nav-shop" class="clear">
+ <a href="http://online.nojima.co.jp"><img src="/default/image/logo.png" alt="ノジマオンライン" border="0" /></a>
+  <h2>日本最大級のデジタル家電通販「Nojima Online」</h2>
+  </div>
+<form id="edit" method="post" action="/app//appc/appu/apps/appt/appo/appm/appe/appr/app//appc/appu/apps/appt/appo/appm/appe/appr/app_/appe/appd/appi/appt/app1/app./appj/apps/appp/app" enctype="application/x-www-form-urlencoded" onsubmit="return false;">
+<input type="hidden" name="transactionToken" value="" />
+<div>
+<div class="touroku_step">
+        <img src="/default/image/navi_customer_edit1.gif" alt="お客様情報登録1" />
+          </div>
+
+      <table class="touroku_waku02" border="0" cellpadding="0" cellspacing="0" width="950" summary="summary">
+          <tr>
+            <td>
+              <p class="touroku_midashi_margin">
+                <img class="touroku_icon" src="/default/image/customer/lock.png" alt="パスワード" />
+                <span class="touroku_midashi">メールアドレス</span><span class="touroku_midashist">と</span><span class="touroku_midashi">パスワード</span><span class="touroku_midashist">の</span><span class="touroku_midashi">ご登録</span>
+                </p>
+            </td>
+          </tr>
+        </table>
+        <table class="touroku_waku01" border="0" cellpadding="0" cellspacing="13" width="950" summary="summary">
+          <tr>
+              <td class="touroku_text_align_R">メールアドレス<span class="touroku_hisssu">必須</span></td>
+              <td><img src="/default/image/line.gif" alt="" /></td>
+              <td colspan="2">
+                <span class="touroku_koumoku">半角英数</span>
+                <input type="text" name="email" id="email" value="" maxlength="60" style="ime-mode: inactive; width:25.0em" />
+</td>
+            </tr>
+            <tr class="normal">
+              <td class="touroku_text_align_R">メールアドレス<strong>再入力</strong><span class="touroku_hisssu">必須</span></td>
+              <td><img src="/default/image/line.gif" alt="" /></td>
+              <td colspan="2">
+                <span class="touroku_koumoku">半角英数</span>
+                <input name="emailCon" value="" type="class jp.co.sint.webshop.web.bean.front.customer.CustomerEdit1Bean" showMaxLength="false" alight="left" maxlength="256" id="imetouroku" oncontextmenu="alert('コピーは出来ません'); return false" oncopy="alert('コピーは出来ません'); return false" onpaste="alert('コピーは出来ません'); return false" />
+              </td>
+            </tr>
+            <tr class="normal">
+              <td class="touroku_text_align_R">パスワード<span class="touroku_hisssu">必須</span></td>
+              <td><img src="/default/image/line.gif" alt="" /></td>
+              <td colspan="2">
+                <span class="touroku_koumoku">半角英数</span>
+                    <input type="password" name="password" id="password" value=""  maxlength="50" style="width:25.0em; ime-mode:inactive;" /></td>
+            </tr>
+
+            <tr>
+                <td></td>
+                <td></td>
+                <td colspan="2"><span class="touroku_fukidasi_top">半角英字と数字の組み合わせ8文字以上。「-」「_」「.」も利用可能です。</span></td>
+              </tr>
+            <tr class="normal">
+                <td class="touroku_text_align_R">&nbsp;パスワード<strong>再入力</strong><span class="touroku_hisssu">必須</span>
+                </td>
+                <td><img src="/default/image/line.gif" alt="" /></td>
+                <td colspan="2">
+                  <span class="touroku_koumoku">半角英数</span>
+                  <input type="password" name="passwordCon" id="passwordCon" value=""  maxlength="50" style="width:25.0em; ime-mode:inactive;" /></td>
+              </tr>
+            </table>
+        <table class="touroku_waku02" border="0" cellpadding="0" cellspacing="0" width="950" summary="summary">
+        <tr>
+          <td>
+            <p class="touroku_midashi_margin">
+              <img class="touroku_icon" src="/default/image/customer/house.png" alt="お客様情報" />
+              <span class="touroku_midashi">お客様情報</span><span class="touroku_midashist">の</span><span class="touroku_midashi">ご登録</span>
+            </p>
+          </td>
+        </tr>
+      </table>
+
+      <table class="touroku_waku01" border="0" cellpadding="0" cellspacing="13" width="950" summary="summary">
+        <tr>
+          <td class="touroku_text_align_R">氏名<span class="touroku_hisssu">必須</span></td>
+          <td class="text_align_L"><img src="/default/image/line.gif" alt="" /></td>
+          <td colspan="2" class="text_align_L">
+            <span class="touroku_koumoku">　全角　</span>
+            <input type="text" name="lastName" id="lastName" value=""  maxlength="20" style="width:10em"  /><span class="touroku_example">&nbsp;例:野島　</span>
+            <input type="text" name="firstName" id="firstName" value=""  maxlength="20" style="width:10em"  /><span class="touroku_example">&nbsp;例:太郎</span>
+          </td>
+        </tr>
+        <tr class="normal">
+          <td class="touroku_text_align_R">氏名カナ<span class="touroku_hisssu">必須</span>
+          </td>
+          <td><img src="/default/image/line.gif" alt="" /></td>
+          <td colspan="2">
+            <span class="touroku_koumoku">全角カナ</span>
+            <input type="text" name="lastNameKana" id="lastNameKana" value=""  maxlength="25" style="width:10em"  /><span class="touroku_example">&nbsp;例:ノジマ</span>
+            <input type="text" name="firstNameKana" id="firstNameKana" value=""  maxlength="25" style="width:10em"  /><span class="touroku_example">&nbsp;例:タロウ</span>
+          </td>
+        </tr>
+        <tr>
+          <td></td>
+          <td></td>
+          <td colspan="3">
+            <span class="touroku_fukidasi_top03 addressinfomini">
+              ハイフンなし7桁で入力後「<strong>住所自動表示</strong>」ボタンを押して下さい。
+            </span>
+          </td>
+        </tr>
+        <tr class="normal">
+          <td class="touroku_text_align_R">郵便番号<span class="touroku_hisssu">必須</span></td>
+          <td width="1%" class="text_align_L"><img src="/default/image/line.gif" alt="" /></td>
+          <td colspan="2" class="text_align_L"><span class="touroku_koumoku">半角数字</span> <script type="text/javascript" src="/default/script/postalsearch.js" charset="UTF-8"></script>
+<input name="postalCode" id="postalCode"
+              value="" maxlength="7" size="8" style="ime-mode:inactive"/>
+      <span class="touroku_jidouinput">
+      <input type="button" value="住所自動表示" onclick="execSearch(
+        '/addr',
+        'postalCode',
+        'guide',
+        'address1',
+        'prefectureCode',
+        'address2',
+        'address3'
+      )" /></span>
+ &nbsp;
+            <span class="zip_link"><a class="touroku_fukidasi_top04" href="http://www.post.japanpost.jp/zipcode/" target="_blank"><span id="yuubincolor">〒</span><span>郵便番号検索は<strong>こちら</strong></span></a></span>
+            <span class="blueotodoke">例：1000001</span>
+          </td>
+        </tr>
+        <tr class="normal">
+          <td class="touroku_text_align_R">都道府県<span class="touroku_hisssu">必須</span></td>
+          <td><img src="/default/image/line.gif" alt="" /></td>
+          <td colspan="2">
+            <span class="touroku_koumoku touroku_koumoku_jidou">自動表示</span>
+            <input type="text" readonly="readOnly" name="address1" id="address1" value="" size="10" style="background-color:#e0e0e0;" /><input type="hidden" name="prefectureCode" id="prefectureCode" value="" />
+</td>
+        </tr>
+        <tr class="normal">
+          <td class="touroku_text_align_R">市区町村<span class="touroku_hisssu">必須</span></td>
+          <td><img src="/default/image/line.gif" alt="" /></td>
+          <td colspan="2">
+            <span class="touroku_koumoku touroku_koumoku_jidou">自動表示</span>
+            <input type="text" readonly="readOnly" name="address2" id="address2" value="郵便番号を入力し、「住所自動表示」ボタンを押して下さい" size="60" maxlength="50" style="background-color:#e0e0e0;" /></td>
+        </tr>
+        <tr class="normal">
+          <td class="touroku_text_align_R">
+            
+            上記以降の住所・番地<span class="touroku_hisssu">必須</span>
+            </td>
+          <td><img src="/default/image/line.gif" alt="" /></td>
+          <td colspan="2">
+            <span class="touroku_koumoku">　全角　</span>
+            <input type="text" name="address3" id="address3" value=""  maxlength="50" style="width:25em"  /><span class="touroku_example">&nbsp;例:1-1-1</span>
+          </td>
+        </tr>
+        <tr class="normal">
+          <td class="touroku_text_align_R">アパート・マンション・ビル</td>
+          <td><img src="/default/image/line.gif" alt="" /></td>
+          <td colspan="2">
+            <span class="touroku_koumoku">　全角　</span>
+            <input type="text" name="address4" id="address4" value=""  maxlength="100" style="width:25em"  /></td>
+        </tr>
+        <tr class="normal">
+          <td class="touroku_text_align_R">電話番号<span class="touroku_hisssu">必須</span></td>
+          <td><img src="/default/image/line.gif" alt="" /></td>
+          <td colspan="2">
+            <span class="touroku_koumoku">半角数字</span>
+            <input type="text" name="phoneNumber_1" id="phoneNumber_1" value="" size="6" maxlength="5" style="ime-mode:inactive" />
+ -&nbsp;<input type="text" name="phoneNumber_2" id="phoneNumber_2" value="" size="6" maxlength="4" style="ime-mode:inactive" />
+ -&nbsp;<input type="text" name="phoneNumber_3" id="phoneNumber_3" value="" size="6" maxlength="4" style="ime-mode:inactive" />
+<span class="touroku_example">例:000-00-0000</span>
+          </td>
+        </tr>
+        <tr class="normal">
+          <td class="touroku_text_align_R">生年月日<span class="touroku_hisssu">必須</span></td>
+            <td><img src="/default/image/line.gif" alt="" /></td>
+            <td colspan="2">
+              <span class="touroku_koumoku">日付選択</span>
+              <select name="birthDate_year" id="birthDate_year">
+<option value="----">----</option>
+<option value="1900" >1900</option>
+<option value="1901" >1901</option>
+<option value="1902" >1902</option>
+<option value="1903" >1903</option>
+<option value="1904" >1904</option>
+<option value="1905" >1905</option>
+<option value="1906" >1906</option>
+<option value="1907" >1907</option>
+<option value="1908" >1908</option>
+<option value="1909" >1909</option>
+<option value="1910" >1910</option>
+<option value="1911" >1911</option>
+<option value="1912" >1912</option>
+<option value="1913" >1913</option>
+<option value="1914" >1914</option>
+<option value="1915" >1915</option>
+<option value="1916" >1916</option>
+<option value="1917" >1917</option>
+<option value="1918" >1918</option>
+<option value="1919" >1919</option>
+<option value="1920" >1920</option>
+<option value="1921" >1921</option>
+<option value="1922" >1922</option>
+<option value="1923" >1923</option>
+<option value="1924" >1924</option>
+<option value="1925" >1925</option>
+<option value="1926" >1926</option>
+<option value="1927" >1927</option>
+<option value="1928" >1928</option>
+<option value="1929" >1929</option>
+<option value="1930" >1930</option>
+<option value="1931" >1931</option>
+<option value="1932" >1932</option>
+<option value="1933" >1933</option>
+<option value="1934" >1934</option>
+<option value="1935" >1935</option>
+<option value="1936" >1936</option>
+<option value="1937" >1937</option>
+<option value="1938" >1938</option>
+<option value="1939" >1939</option>
+<option value="1940" >1940</option>
+<option value="1941" >1941</option>
+<option value="1942" >1942</option>
+<option value="1943" >1943</option>
+<option value="1944" >1944</option>
+<option value="1945" >1945</option>
+<option value="1946" >1946</option>
+<option value="1947" >1947</option>
+<option value="1948" >1948</option>
+<option value="1949" >1949</option>
+<option value="1950" >1950</option>
+<option value="1951" >1951</option>
+<option value="1952" >1952</option>
+<option value="1953" >1953</option>
+<option value="1954" >1954</option>
+<option value="1955" >1955</option>
+<option value="1956" >1956</option>
+<option value="1957" >1957</option>
+<option value="1958" >1958</option>
+<option value="1959" >1959</option>
+<option value="1960" >1960</option>
+<option value="1961" >1961</option>
+<option value="1962" >1962</option>
+<option value="1963" >1963</option>
+<option value="1964" >1964</option>
+<option value="1965" >1965</option>
+<option value="1966" >1966</option>
+<option value="1967" >1967</option>
+<option value="1968" >1968</option>
+<option value="1969" >1969</option>
+<option value="1970" >1970</option>
+<option value="1971" >1971</option>
+<option value="1972" >1972</option>
+<option value="1973" >1973</option>
+<option value="1974" >1974</option>
+<option value="1975" >1975</option>
+<option value="1976" >1976</option>
+<option value="1977" >1977</option>
+<option value="1978" selected="selected">1978</option>
+<option value="1979" >1979</option>
+<option value="1980" >1980</option>
+<option value="1981" >1981</option>
+<option value="1982" >1982</option>
+<option value="1983" >1983</option>
+<option value="1984" >1984</option>
+<option value="1985" >1985</option>
+<option value="1986" >1986</option>
+<option value="1987" >1987</option>
+<option value="1988" >1988</option>
+<option value="1989" >1989</option>
+<option value="1990" >1990</option>
+<option value="1991" >1991</option>
+<option value="1992" >1992</option>
+<option value="1993" >1993</option>
+<option value="1994" >1994</option>
+<option value="1995" >1995</option>
+<option value="1996" >1996</option>
+<option value="1997" >1997</option>
+<option value="1998" >1998</option>
+<option value="1999" >1999</option>
+<option value="2000" >2000</option>
+<option value="2001" >2001</option>
+<option value="2002" >2002</option>
+<option value="2003" >2003</option>
+</select>年<select name="birthDate_month" id="birthDate_month">
+<option value="--">--</option><option value="01" >1</option><option value="02" >2</option><option value="03" >3</option><option value="04" >4</option><option value="05" >5</option><option value="06" >6</option><option value="07" >7</option><option value="08" >8</option><option value="09" >9</option><option value="10" >10</option><option value="11" >11</option><option value="12" >12</option></select>月<select name="birthDate_day" id="birthDate_day">
+<option value="--">--</option><option value="01" >1</option><option value="02" >2</option><option value="03" >3</option><option value="04" >4</option><option value="05" >5</option><option value="06" >6</option><option value="07" >7</option><option value="08" >8</option><option value="09" >9</option><option value="10" >10</option><option value="11" >11</option><option value="12" >12</option><option value="13" >13</option><option value="14" >14</option><option value="15" >15</option><option value="16" >16</option><option value="17" >17</option><option value="18" >18</option><option value="19" >19</option><option value="20" >20</option><option value="21" >21</option><option value="22" >22</option><option value="23" >23</option><option value="24" >24</option><option value="25" >25</option><option value="26" >26</option><option value="27" >27</option><option value="28" >28</option><option value="29" >29</option><option value="30" >30</option><option value="31" >31</option></select>日
+</td>
+            </tr>
+        <tr class="normal">
+          <td class="touroku_text_align_R">性別<span class="touroku_hisssu">必須</span></td>
+          <td><img src="/default/image/line.gif" alt="" /></td>
+          <td colspan="2">
+            <span class="touroku_koumoku">単一選択</span>
+            <span class="tourokuradio">
+<input type="radio" name="sex" value="1" id="sex_0" checked="checked" /><label for="sex_0">男性</label>
+</span>
+<span class="tourokuradio">
+<input type="radio" name="sex" value="2" id="sex_1"  /><label for="sex_1">女性</label>
+</span>
+</td>
+        </tr>
+
+        <tr class="normal">
+          <td class="touroku_text_align_R">希望する配信メールの形式<span class="touroku_hisssu">必須</span></td>
+          <td><img src="/default/image/line.gif" alt="" /></td>
+          <td colspan="2">
+            <span class="touroku_koumoku">単一選択</span>
+            <span class="tourokuimagemail">
+              <span class="tourokuradio">
+<input type="radio" name="clientMailType" value="0" id="clientMailType_0" checked="checked" onclick="" />
+<label for="clientMailType_0"><img src="/default/image/customer/0.gif" />
+
+HTML(PC・タブレット向け)</label>
+
+</span>
+<span class="tourokuradio">
+<input type="radio" name="clientMailType" value="2" id="clientMailType_1"  onclick="" />
+<label for="clientMailType_1"><img src="/default/image/customer/2.gif" />
+
+HTML(スマホ向け)</label>
+
+</span>
+<span class="tourokuradio">
+<input type="radio" name="clientMailType" value="1" id="clientMailType_2"  onclick="" />
+<label for="clientMailType_2"><img src="/default/image/customer/1.gif" />
+
+それ以外</label>
+
+</span>
+</span>
+          </td>
+        </tr>
+        </table>
+
+      <table class="touroku_waku02" border="0" cellpadding="0" cellspacing="0" width="950" summary="summary">
+          <tr>
+            <td>
+              <p class="touroku_midashi_margin">
+                <img class="touroku_icon" src="/default/image/customer/kiyaku.png" alt="お客様情報" />
+                <span class="touroku_midashi">ご利用規約</span><span class="touroku_midashist">を</span><span class="touroku_midashi">ご確認</span><span class="touroku_midashist">下さい</span>
+              </p>
+            </td>
+          </tr>
+        </table>
+
+        <table class="touroku_waku01" cellspacing="13" width="950" cellpadding="0" summary="summary">
+          <tr>
+            <td class="text_align_C">
+              <!-- 半角英数 -->
+<textarea name="privacy" id="privacy" cols="80" rows="100" class="full_width" onblur="checkLength('privacy')">
+
+ご利用規約 
+  
+この規約は株式会社ノジマ（以下「弊社」といいます）の運営管理するインターネットショッピングWEBサイト「Nojima Online」（以下「本サイト」といい、弊社が本サイトを通じて提供するサービスを「本サービス」といいます）をご利用いただく方（以下「お客様」といいます）と弊社との間の一切の関係に適用されるものです。また、本サイト内に掲示された「ご利用ガイド」および当社が随時本ショップ内に掲示するお客様へのご通知等はこの規約と不可分一体のものとして、この規約の一部を構成します（以下「規約等」といいます）。お客様は、ご利用いただく前に、規約等をよくお読みいただき、その内容について十分にご理解いただいた上で本サイトをご利用下さい。 
+
+（お客様の同意等）
+
+第1条　本サイトをご利用されるお客様、又は本サイトから商品等をご購入されるお客様は、規約等に同意されたものとみなします。
+
+2　本サービスの対象地域は日本国内に限定します。
+ 
+  
+（規約等の変更）
+
+第2条　弊社は、事前の予告なしに、又、お客様の承諾を得ることなく、規約等への新たな追加又は変更をすることができるものとします。
+
+2　前項の新たな追加又は変更後に、本サイトを利用されるお客様又は本サイトから商品を購入されるお客様は、当該新たな追加又は変更後の規約等の内容を承諾したものとみなします。
+ 
+  
+（本サービスのご利用）
+第3条　お客様は、本サービスを通じて、掲載情報の閲覧、商品等のご注文を行うことができます。 
+  
+（お客様情報）
+
+第4条　お客様は、お客様が次の各号の一に該当する場合は、直ちに弊社に届け出るものとします。
+
+
+イ） お客様及び配送先の住所、氏名、電話番号、FAX番号、電子メールアドレス等に変更があるとき。
+
+ 
+ロ） その他、ご注文商品の変更を除き本サービスのご利用に際して申請された内容に変更があるとき。
+
+
+ 
+ 
+  
+（売買契約の成立および履行）
+第5条　お客様がご注文された商品の売買契約は、お客様からご注文・購入に同意したことを示すボタンを押したとき成立するものとします。 
+2　弊社は、購入商品の支払い完了後、お客様が指定する場所に商品を納品するものとします。 配送業者によって納品された商品が受領された時点で、引渡しの完了とします。尚、指定の配送先住所は、日本国内に限定させて頂きます。
+ 
+  
+（売買契約の不成立および解除）
+
+第6条　弊社は、お客様よりのご注文を受け付ける際若しくは受け付け売買契約が成立した以後であっても次の各号の一に該当する場合は、弊社の判断に基づき当該ご注文をお断りする又は当該売買契約を解除することができるものとします。
+ 
+
+イ） お客様が過去に規約等に違反していることが判明した場合。 
+ロ） ご注文内容に虚偽の表示又は誤記（特に商品送付先の住所等において）若しくは不備があることが判明した場合。
+
+ 
+ハ） 代金等のお支払いに、お客様名義以外のクレジットカードをご使用になられることが判明した場合。
+
+ 
+ニ） 代金等のお支払いに、お客様が利用されるクレジットカードの利用不可能又はそれに準ずる状態にあることが判明した場合。
+
+ 
+ホ） 弊社との売買契約によりお客様に生じる債務の履行が不確実であると弊社が判断した場合。 
+へ） お客様が、不正な売買行為（営利を目的とした転売）等により著しく弊社の利益を損なう行為を行う若しくはそのおそれがあると弊社が判断した場合。 
+ト） ご注文の商品が弊社において長期にわたり入荷できる見込みがない又は生産が完了している場合。 
+チ） ご注文の商品が限定生産若しくは販売される商品であって、当該ご注文により弊社が手配できる数量を超える場合。 
+リ） 弊社が本サイトに表示した内容（特に価格・個数等）に誤りがあった場合。 
+ヌ） 弊社が、商品の配送先に対して配送手段をもたない又は商品の配送料が弊社の想定水準を上回る場合。但、当該配送料をお客様がご負担される場合は、この限りではありません。 
+ル） お客様に第9条に規定する禁止事項に該当する行為がある場合。 
+ヲ） 前各号の他、弊社がご注文を承認することが不適切である又は弊社が売買契約を解除する必要があると判断した場合。 
+    
+2　 お客様は、お客様により発信されたご注文を、理由の如何に拘わらず、取消できないものとします。
+ 
+3　 前第1項に基づき、お客様と弊社との間の売買契約が不成立又は解除された場合には、弊社は、お客様に対してその旨を通知し、すでにお客様から商品の代金等を受領している場合には相当な期間内に当該代金等を返金し、及びお客様が当該契約により取得したポイントを精算するものとします。 
+
+（商品等の返品、交換）
+
+第7条　お客様は、お客様が注文された商品の返品若しくは交換を申し出ることはできません。但し、次の場合はこの限りではありません。
+
+
+イ） 商品が配送先に到着後8日以内に、お客様より弊社に商品に初期不良若しくは瑕疵がある又は商品が配送中に破損した旨をご連絡され、かつ弊社が当該商品の動作確認等によりそれらを認めた場合。
+
+ 
+ロ） 品違い等明らかに弊社の手違いによる場合。
+
+ 
+ 
+  
+（免責事項）
+
+第8条　本サービスを通じてお客様が購入する商品の保証に関しては、特に指定のない限り商品に添付されている製品保証書の内容に準拠するものとします。
+ 
+
+2 弊社は、次の各号に定める事項について、一切の保証をしないものとします。 
+イ） 本サービスにおいてお客様が購入する商品の他製品との適合性等。
+
+ 
+ロ） お客様が本サービスをご利用なさる際に通信回線上で送受信される個人情報のやりとりの安全性等。
+
+ 
+ハ） 本サイトが、コンピューターウィルス等の本サイトにアクセスするコンピュータに有害な影響を与える可能性があるものに感染していないこと。
+
+ 
+二） 本サイトにリンクにしている他のホームページ（WEBページ）の内容の一切。 
+ホ） 本サイト掲載事項の内容の正確性。 
+ヘ） 商品の配送が、理由の如何を問わず、遅延せずに行われること。 
+ト） 本サイトが未成年者に有害ではないこと。 
+3 弊社は、次の各号に定める事項について、一切の責めを負わないものとします。 
+イ） お客様が本サービスを利用することによってお客様に生じた一切の損害。
+
+ 
+ロ） お客様が本サービスを利用することによって第三者に対して与えた一切の損害
+
+ 
+ハ） 本サービスの中断若しくは中止によってお客様又は第三者に生じた一切の損害
+
+ 
+二） 第6条第1項各号に掲げる事由によりお客様のご注文をお断りし、又は売買契約が解除されたことを原因としてお客様に生じた直接的、間接的に生じた損害。
+ 
+4 お客様は、本サイトに関連した支払について、クレジットカード会社、立替代行業者等の間で料金その他の債務を巡って紛争が生じた場合、当該当事者間で解決するものとし、弊社は一切関知しないものとします。 
+5 お客様が本サイトに登録する一切の個人情報にかんして、お客様の管理不十分等に起因する損害については、弊社は一切の責めを負いません。 
+
+（禁止事項）
+第9条　弊社は、本サービスを利用するに当たり、お客様に対して次の各号に定める行為を禁止します。
+ 
+
+イ） 虚偽の内容にてご注文、お問い合わせ等を行うこと。
+
+ 
+ロ） クレジットカード等を不正に使用すること。
+
+ 
+ハ） 不正な売買行為を行う若しくはその疑義が一般的にもたれる行為。
+
+ 
+二） 転売・営利を目的とするご注文。 
+ホ） 親権者又は後見人の同意の無い20歳未満のお客様によるご注文。 
+ヘ） 第4条第1項で登録する個人情報の第三者への譲渡、貸与、名義変更、売買、質入れ、開示等。 
+ト） 他のお客様、弊社、第三者の著作権やプライバシーをはじめとする各権利を侵害すること。 
+チ） 他のお客様、弊社、第三者に迷惑若しくは不利益を与えること。
+
+ 
+リ） 他のお客様、弊社、第三者を誹謗中傷すること。 
+ヌ） 法令に違反する、またはそのおそれのある行為を行うこと。
+ 
+ル） 公序良俗に反する、またはそのおそれのある行為を行うこと。 
+
+（ご利用者の義務）
+第10条　お客様が本サービスをご利用になられた結果により弊社若しくは第三者が損害を被った場合、お客様若しくはお客様であった方は賠償責任を含むすべての法的責任を負うものとし、弊社及び第三者に対して一切迷惑をかけないものとします。 
+  
+（著作権）
+
+第11条　お客様は、本サイトに掲載されている画像データや商品情報、意匠等、またはシステムの内容等については、それぞれ弊社又はメーカー等に著作権が発生していることを了承され、万が一お客様が当該著作権を侵害し、著作権者又は著作者人格権者との間で紛争が生じた場合には、当該当事者間で解決するものとし、弊社は一切関知しないものとします。
+ 
+  
+（その他）
+
+第12条　弊社とお客様との連絡方法は、原則として電子メールによって行うものとします。
+ 
+
+2　 お客様と弊社との間の本サイトの利用に関して、規約等により解決できない問題が生じた場合、弊社とお客様は誠意を持って協議しこれを解決するものとします。 
+ 
+3 お客様の売買代金不払いその他本規約等の違反によって、損害賠償義務が発生し、その請求回収のために、当社に訴訟手続及びその他の費用等（弁護士費用含む）が発生する場合は、お客様の負担とします。 
+ 
+4 前項の規定にも拘わらず、協議によって解決しない場合は、弊社の本店所在地を管轄とする簡易裁判所又は地方裁判所を専属的合意管轄裁判所とします。  
+
+個人情報取得時の措置
+
+a) 事業者の氏名又は名称
+株式会社ノジマ
+ 
+b) 個人情報保護管理者の氏名、所属及び連絡先
+ノジマオンライン担当　　井上　豊
+〒220-6126 神奈川県横浜市西区みなとみらい2-3-3 クイーンズタワーB 26F
+電話：045-228-1614
+メール：info@enet-japan.com
+
+
+c) 利用目的
+・ お客様の会員登録
+・ お客様がご購入又はご利用等された商品又はサービス等に関連する連絡、配達、設置、設定及び修理等
+・ お客様に対する、当社又は第三者の商品又はサービス等に係る情報を電子メール（メールマガジン及びアンケート等を含む。）で送信、郵送又は電話等
+・ お取引様との連絡及び管理等
+・ 当社従業者等の労務管理等
+
+d) 個人情報を第三者に提供することが予定される場合の事項
+－ 第三者に提供する目的
+・ お客様の会員登録
+・ お客様がご購入又はご利用等された商品又はサービス等に関連する連絡、配達、設置、設定及び修理等
+・ お客様に対する、当社又は第三者の商品又はサービス等に係る情報を電子メール（メールマガジン及びアンケート等を含む。）で送信、郵送又は電話等
+・ お取引様との連絡及び管理等
+・ 当社従業者等の労務管理等
+
+－ 提供する個人情報の項目
+氏名、住所、電話番号及びメールアドレス等
+
+－ 提供の手段又は方法
+電子メール又は郵送等
+
+－ 当該情報の提供を受ける者
+業務提携先等
+
+－ 個人情報の取扱いに関する契約
+業務提携先等（一部）と個人情報の取扱いに関する契約等を締結しています。
+
+e) 個人情報の取扱いの委託
+当社は、取得した個人情報を、下記の目的の為に業務委託先へ委託する場合があります。
+・ お客様の会員登録
+・ お客様がご購入又はご利用等された商品又はサービス等に関連する連絡、配達、設置、設定及び修理等
+・ お客様に対する、当社又は第三者の商品又はサービス等に係る情報を電子メール（メールマガジン及びアンケート等を含む。）で送信、郵送又は電話等
+・ お取引様との連絡及び管理等
+・ 当社従業者等の労務管理等
+
+f) 開示対象個人情報の取扱い
+当社は、開示対象個人情報の利用目的の通知、開示、訂正等（訂正、追加又は削除）及び利用停止等（利用の停止、消去又は第三者への提供の停止）の求めがある場合には、この求めに応じます。
+
+【問い合わせ窓口責任者】
+ノジマオンライン担当　　青木　未央
+〒220-6126 神奈川県横浜市西区みなとみらい2-3-3 クイーンズタワーB 26F
+電話：045-228-1614
+メール：info@enet-japan.com
+
+
+g) 本人が個人情報を与えることの任意性及び当該情報を与えなかった場合に本人に生じる結果
+ご購入又はご利用等された商品又はサービス等に関連する連絡、配達、設置、設定及び修理等させて頂く為に、必須事項は、ご入力下さい。
+必須事項のご入力がない場合は、ご購入又はご利用等された商品又はサービス等に関連する連絡、配達、設置、設定及び修理等できません。
+ 
+h) 本人が容易に認識できない方法による個人情報の取得
+本人が容易に認識できない方法によって個人情報を取得致しません。
+      </textarea></td>
+          </tr>
+        </table>
+      <table class="touroku_waku_bottom" cellspacing="10" cellpadding="0" summary="summary">
+        <tr>
+          <td><a href="/app/common/util/back" /><img src="/default/image/customer/backstep.png" alt="前へ戻る"
+   onmouseout="this.src='/default/image/customer/backstep.png'"
+   onclick="return checkMovable();" 
+   style="cursor:pointer"
+/></a>
+</td>
+          <td align="right">
+            <!-- ��̏��� -->
+<a href="javascript:with(document.forms['edit']){method='post';action='/app/customer/customer_edit1/next/';javascript:void(0);submit()}">
+<img src="/default/image/customer/nextstep02.png" alt="同意して次へ"
+   onmouseout="this.src='/default/image/customer/nextstep02.png'" /></a>
+</td>
+        </tr>
+      </table>
+      <input type="hidden" name="emailHid" id="emailHid" value="" />
+</div>
+</form>
+<div class="footNavi"></div>
+
+
+
+  <div id="footer_area">
+
+
+<div id="footerbody">
+
+      <div class="footerleft fotterwidth01">
+        <div class="fotterbottom"><a href="/ec/enj_guide00/"><img src="/default/image/heartwakaba.png" alt="ご利用ガイド" />ご利用ガイド</a></div>
+        <ul>
+          <li><a href="/ec/enj_guide01/">お買い物の流れ</a> </li>
+          <li><a href="/ec/enj_guide02/">お支払いについて</a> </li>
+          <li><a href="/ec/enj_guide03/">通常配送について</a> </li>
+          <li><a href="/ec/oogata/">大型配送について</a> </li>
+          <li><a href="/ec/enj_guide04/">ご注文の納期について</a> </li>
+          <li><a href="/ec/enj_guide05/">商品のキャンセル、返品</a> </li>
+          <li><a href="/ec/enj_guide06/">アフターサービス、保証</a> </li>
+          <li><a href="/ec/enj_guide07/">各種サービス</a> </li>
+          <li><a href="/ec/enj_guide08/">会員サービス</a> </li>
+        </ul>
+      </div>
+      <div class="footerleft fotterwidth02 footerleftfix">
+        <div class="fotterbottom"><a href="/ec/faq/"><img src="/default/image/faq2.png" alt="よくあるご質問" />FAQ よくあるご質問</a></div>
+        <ul>
+          <li><a href="/ec/faq/#01">ご注文について</a></li>
+          <li><a href="/ec/faq/#07">ポイントについて</a> </li>
+          <li><a href="/ec/faq/#10">各種サービスについて</a></li>
+          <li><a href="/ec/faq/">FAQをすべて見る</a></li>
+        </ul>
+        <br clear="all" />
+         <div class="fotterbottom fotterbottomfix fotterbottomotoiawase"><a href="/ec/otoiawase_madoguchi/"><img src="/default/image/otoiawase.png" alt="お問い合わせ" />お問い合わせ</a></div>
+      </div>
+      <div class="footerleft fotterwidth04">
+        <p>商品カテゴリ</p>
+        <ul class="fotterwidth04ul01">
+          <li><a href="/category/100/">テレビ・レコーダー</a> </li>
+          <li><a href="/category/101/">オーディオ・シアター</a> </li>
+          <li><a href="/category/115/">季節家電</a> </li>
+          <li><a href="/category/10000795/">扇風機</a> </li>
+          <li><a href="/category/10000676/">空気清浄機</a> </li>
+          <li><a href="/category/102/">キッチン家電</a> </li>
+          <li><a href="/category/10000790/">冷蔵庫</a> </li>
+          <li><a href="/category/10000632/">炊飯器</a> </li>
+          <li><a href="/category/103/">生活家電</a> </li>
+          <li><a href="/category/10000809/">洗濯機</a> </li>
+          <li><a href="/category/10000753/">掃除機</a> </li>
+        </ul>
+        <ul class="fotterwidth04ul">
+          <li><a href="/category/104/">美容健康</a> </li>
+          <li><a href="/category/10000740/">ドライヤー</a> </li>
+          <li><a href="/category/105/">デジカメ・ビデオカメラ</a> </li>
+          <li><a href="/category/106/">パソコン・タブレットPC</a> </li>
+          <li><a href="/category/109/">PC周辺機器</a> </li>
+          <li><a href="/category/10002131/">プリンタ</a> </li>
+          <li><a href="/category/113/">スマートフォン・アクセサリ</a> </li>
+          <li><a href="/category/110/">PCサプライ・オフィス</a></li>
+          <li><a href="/category/112/">電話・FAX</a> </li>
+          <li><a href="/category/108/">ゲーム</a> </li>
+          <li><a href="/category/1110/">おもちゃ</a> </li>
+        </ul>
+        <ul class="fotterwidth04ul">
+          <li><a href="/category/111/">PCソフト</a> </li>
+          <li><a href="/category/1111/">映像・音楽</a> </li>
+          <li><a href="/category/107/">カーナビ・カー用品</a> </li>
+          <li><a href="/category/10003705/">スポーツ</a> </li>
+          <li><a href="/category/114/">アウトレット・中古・白ロム</a> </li>
+          <li><a href="/category/120/">サービス・その他</a> </li>
+          <li><a href="/category/200/">Apple</a> </li>
+        </ul>
+      </div>
+      <div class="footerright">
+        <p>株式会社ノジマ</p>
+        <ul>
+          <li><a href="/app/info/sitemap/">サイトマップ</a></li>
+          <li><a href="http://www.nojima.co.jp/recruit/" target="_blank">採用情報</a></li>
+          <li><a href="/ec/siteinfo/rule/">ご利用規約</a></li>
+          <li><a href="http://www.nojima.co.jp/corporation/" target="_blank">会社案内</a></li>
+          <li><a href="/ec/siteinfo/privacy/">個人情報保護方針</a></li>
+          <li class="footerlistend"><a href="http://recruit.valuecommerce.ne.jp/ptn/2036496" target="_blank">アフィリエイト</a></li>
+        </ul>
+      </div>
+      </div>
+        <div class="copy">&copy;&nbsp;2017&nbsp;Nojima&nbsp;Corp.</div>
+  </div>
+ <script type="text/javascript">
+var secureHost = "https://online.nojima.co.jp";
+var normalHost = "http://online.nojima.co.jp";
+var loggerContext = "/logger";
+var hostname = ("https:" == document.location.protocol) ? secureHost : normalHost;
+var referer = "https&#37;3A&#37;2F&#37;2Fonline.nojima.co.jp&#37;2Fapp&#37;2Fcommon&#37;2Flogin&#37;2F";
+document.write("<img src=\"" + hostname + loggerContext + "/?referer=" + referer+ "\" width=\"1\" height=\"1\" alt=\"\" />");
+</script>
+<script type="text/javascript" src="/contents/top/footer.js"></script>
+<script type="text/javascript">
+/* <![CDATA[ */
+var google_conversion_id = 1054355084;
+var google_conversion_language = "en";
+var google_conversion_format = "3";
+var google_conversion_color = "ffffff";
+var google_conversion_label = "CG5-CM7W8gIQjN3g9gM";
+var google_conversion_value = 0;
+/* ]]> */
+</script>
+<script type="text/javascript" src="https://www.googleadservices.com/pagead/conversion.js" class="fotterdisplay" ></script>
+<noscript>
+<div class="fotterdisplay">
+<img height="1" width="1" class="fotterborder" alt="none" src="https://www.googleadservices.com/pagead/conversion/1054355084/?label=CG5-CM7W8gIQjN3g9gM&amp;guid=ON&amp;script=0" />
+</div>
+</noscript>
+<!-- mark:12  --></div>
+</body>
+</html>

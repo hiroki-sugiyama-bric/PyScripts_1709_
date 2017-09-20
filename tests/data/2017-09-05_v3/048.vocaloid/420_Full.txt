@@ -1,0 +1,29 @@
+POST https://www.vocaloid.com/accounts/login HTTP/1.1
+Host: www.vocaloid.com
+User-Agent: Mozilla/5.0 (Windows NT 6.1; WOW64; rv:52.0) Gecko/20100101 Firefox/52.0
+Accept: text/html,application/xhtml+xml,application/xml;q=0.9,*/*;q=0.8
+Accept-Language: ja,en-US;q=0.7,en;q=0.3
+Accept-Encoding: gzip, deflate, br
+Referer: https://www.vocaloid.com/accounts/login
+Cookie: _ga=GA1.2.1743150807.1491383665; _ceg.s=onyovy; _ceg.u=onyovy; _ec_session=497a23e5f1b19f04047485b3c48f1062
+Connection: close
+Upgrade-Insecure-Requests: 1
+Content-Type: application/x-www-form-urlencoded
+Content-Length: 203
+
+session_token=7acdd4062d133c0d98739c72bc4b698f&authenticity_token=FH2ei8l1L2e0zi6amyHxoTUKOBH%2Fn9v%2BBHuuimK3hGg%3D&customer%5Buser_name%5D=hitakahashi88888%40gmail.com&customer%5Bpassword%5D=1765731abc
+HTTP/1.1 302 Found
+Cache-Control: no-store
+Content-Type: text/html; charset=utf-8
+Date: Thu, 06 Apr 2017 02:04:34 GMT
+Location: https://www.vocaloid.com/
+Pragma: no-cache
+Server: Apache
+Set-Cookie: secure_token=BAgiJTRlOWIwZjMyYTZjZDNlMTk0NTU0Yzg1N2U0YzI5MzZm--30534824ba1999230fbf0cc6e6ff44362273914d; path=/; secure; HttpOnly
+Set-Cookie: _ec_session=d433ce336c700dc96503a2f57e25ba3c; path=/; HttpOnly
+Status: 302 Found
+X-Runtime: 187
+Content-Length: 91
+Connection: Close
+
+<html><body>You are being <a href="https://www.vocaloid.com/">redirected</a>.</body></html>

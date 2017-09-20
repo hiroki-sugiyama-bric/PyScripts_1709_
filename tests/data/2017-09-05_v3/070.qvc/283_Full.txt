@@ -1,0 +1,1821 @@
+GET https://qvc.jp/MemberInfo.do?serverId=1 HTTP/1.1
+Host: qvc.jp
+User-Agent: Mozilla/5.0 (Windows NT 6.1; rv:52.0) Gecko/20100101 Firefox/52.0
+Accept: text/html,application/xhtml+xml,application/xml;q=0.9,*/*;q=0.8
+Accept-Language: ja,en-US;q=0.7,en;q=0.3
+Referer: https://qvc.jp/GateToLogin.do
+Cookie: JSESSIONID=9111EDC20EBF176EE3638B44F87CFDD2; uniqueid=f0b95f09-58f0-46bf-9c12-7724c360520c; CK_SERVERID=1; _libra=oOH0I4i73Ar4kEILo3866BObiqBsc6XmkfHBLP32B4rYKdBDLIjBbZnIcepdv57iVaUudWBX5cZM; s_cc=true; s_fid=6EDF1492B909393E-3DC5C71134357C5E; sc_visit=1; sc_fs=ld; sc_fspage=https%3A%2F%2Fqvc.jp%2FGateToLogin.do; sc_segmsest=1491558701749; sc_segmhis=1491558701749; sc_segm=1; s_cvp_1=%5B%5B%27DIR%27%2C%271491558701751%27%5D%5D; s_cvp_2=%5B%5B%27DIR%27%2C%271491558701751%27%5D%5D; s_product=%5BPC%5D%3AOther; sc_prevFlag=F; sc_prevpage=%5BPC%5D%3Aqvc.jp%2FGateToLogin.do; s_sq=qvcjqvcjpprod%3D%2526pid%253D%25255BPC%25255D%25253Aqvc.jp%25252FGateToLogin.do%2526pidt%253D1%2526oid%253Dhttps%25253A%25252F%25252Fqvc.jp%25252FMemberRule.do%25253FserverId%25253D1%2526ot%253DA
+Connection: close
+Upgrade-Insecure-Requests: 1
+
+
+HTTP/1.1 200 OK
+Content-Type: text/html;charset=MS932
+Cache-Control: private,no-store,no-cache,must-revalidate
+Pragma: no-cache
+Date: Fri, 07 Apr 2017 09:51:58 GMT
+Transfer-Encoding: chunked
+Connection: close
+Connection: Transfer-Encoding
+Set-Cookie: CK_SERVERID=1; path=/
+Set-Cookie: CK_SERVERID=1; path=/
+
+00006000
+
+
+
+
+
+
+
+
+
+
+
+<!DOCTYPE HTML PUBLIC "-//W3C//DTD HTML 4.01 Transitional//EN" "http://www.w3.org/TR/html4/strict.dtd">
+<html LANG="ja">
+<head>
+
+
+
+
+<TITLE>QVC JAPAN</TITLE>
+
+<META http-equiv="Content-Type" content="text/html; charset=Shift_JIS">
+<META http-equiv="Content-Script-Type" content="text/javascript">
+<META http-equiv="Content-Style-Type" content="text/css">
+<LINK REL="shortcut icon" href="img/qvc16.gif">
+<META name="author" content="QVC Japan,Inc.">
+
+<meta name="format-detection" content="telephone=no">
+
+
+<META name="copyright" content="Copyright 2001-2017 QVC Japan,Inc. All rights reserved.">
+
+<link rel="stylesheet" type="text/css" href="/css/baloon_default.css">
+<link rel="stylesheet" type="text/css" href="/css/jquery.autocomplete.css">
+<link rel="stylesheet" type="text/css" href="/css/regist2010.css">
+
+
+
+
+
+
+
+<!--AA DTM Header Code-->
+<script type="text/javascript" src="/script/analytics/dtm_header.js"></script>
+<!--AA DTM Header Code-->
+
+</head>
+
+<body leftmargin="10" topmargin="0" marginwidth="10" marginheight="0">
+<!-- -->
+<div class="main">
+<table width="948" border="0" cellspacing="0" cellpadding="0">
+  <tr>
+    <td><div class="logo"><a href="http://qvc.jp/cont/top/Main?serverId=1"><img src="/cont/top/images/logo.gif" alt="QVCテレビショッピング"></a></div><div class="head"><a href="http://qvc.jp/guide/index.html?serverId=1" target="blank">ご利用ガイド</a> | <a href="http://qvc.jp/contact/index.html?serverId=1" target="blank">Q＆A・お問い合わせ</a> </div></td>
+  </tr>
+</table>
+
+<table width="948" border="1" cellpadding="0" cellspacing="0">
+  <tr>
+    <td background="/images/regist2010/headline_regist.gif"><img src="/images/regist2010/headline_regist.gif" width="20" height="20"></td>
+    <td colspan="7" background="/images/regist2010/headline_regist.gif"><img src="/img/spacer.gif" width="908" height="1"></td>
+    <td background="/images/regist2010/headline_regist.gif"><img src="/images/regist2010/headline_regist.gif" width="20" height="20"></td>
+  </tr>
+  <tr>
+    <td rowspan="2"><img src="/img/spacer.gif" width="1" height="1" /></td>
+    <td><img src="/images/regist2010/title_regist.gif" alt="新規会員登録" width="192" height="45"></td>
+    <td><img src="/img/spacer.gif" width="350" height="1" /></td>
+    <td><img src="/images/regist2010/step1up.gif" alt="登録情報の入力" width="114" height="45"></td>
+    <td><img src="/images/regist2010/gray_arrow.gif" width="12" height="7"></td>
+    <td><img src="/images/regist2010/step2.gif" alt="登録情報の確認" width="114" height="45"></td>
+    <td><img src="/images/regist2010/gray_arrow.gif" width="12" height="7"></td>
+    <td><img src="/images/regist2010/step3.gif" alt="会員登録完了" width="114" height="45"></td>
+    <td><img src="/img/spacer.gif" width="1" height="1" /></td>
+  </tr>
+  <tr>
+    <td colspan="7" id="lineregist"><img src="/img/spacer.gif" width="2" height="2" /></td>
+  </tr>
+  <tr>
+    <td colspan="9"><img src="/img/spacer.gif" width="20" height="20" /></td>
+  </tr>
+</table>
+<table width="908" border="0" align="center" cellpadding="0" cellspacing="0">
+  <tr>
+    <td><img src="/images/regist2010/tag_welcome.gif" alt="ようこそ QVCオンラインショッピングへ" width="534" height="35" hspace="20"></td>
+    <td rowspan="3"><img src="/img/spacer.gif" width="15" height="15" /></td>
+    <td rowspan="3"><table width="270" border="0" cellspacing="0" cellpadding="0">
+      <tr>
+        <td><img src="/images/regist2010/tel_ue.gif" width="270" height="4"></td>
+      </tr>
+      <tr>
+        <td background="/images/regist2010/tel_bg.gif"><div class="ivrtitle">QVCで一度でも<br>
+          お買い物をされた方は登録不要です</div>
+          <div class="ivrcopy">以下のボタンよりログインしてお買い物や各種サービスをご利用いただけます</div>
+          <div align="center"><a href="/IVRLogin.do?serverId=1"><img src="/images/regist2010/tel_bt.gif" alt="QVC会員でネットのご利用がはじめての方" width="243" height="47" vspace="10"></a></div></td>
+      </tr>
+      <tr>
+        <td><img src="/images/regist2010/tel_shita.gif" width="270" height="4"></td>
+      </tr>
+    </table></td>
+  </tr>
+  <tr>
+    <td><table width="623" border="0" align="center" cellpadding="0" cellspacing="5">
+
+      <tr>
+        <td><img src="/images/regist2010/benri1.gif" alt="24時間いつでもご利用" width="200" height="120"></td>
+        <td><img src="/images/regist2010/benri2.gif" alt="お得な情報をご紹介" width="200" height="120"></td>
+        <td><img src="/images/regist2010/benri3.gif" alt="便利な機能で快適に" width="200" height="120"></td>
+      </tr>
+      <tr>
+        <td colspan="3">
+
+
+
+
+
+
+
+
+
+
+
+<div align="center" style="margin:5px 0px;"><img src="/images/regist2010/nn_478_80_170330.gif" /><br><!--<font size="2">※大型商品（送料1,080円）をご注文される際、
+お買い上げ明細の画面に<br>送料が表示されますが、送料は無料となります。</font>--></div>
+ 
+
+<!-- User Insight PCDF Code Start : qvc.jp -->
+<script type="text/javascript">
+<!--
+var _uic = _uic ||{}; var _uih = _uih ||{};_uih['id'] = 51116;
+_uih['lg_id'] = '';
+_uih['fb_id'] = '';
+_uih['tw_id'] = '';
+_uih['uigr_1'] = ''; _uih['uigr_2'] = ''; _uih['uigr_3'] = ''; _uih['uigr_4'] = ''; _uih['uigr_5'] = '';
+_uih['uigr_6'] = ''; _uih['uigr_7'] = ''; _uih['uigr_8'] = ''; _uih['uigr_9'] = ''; _uih['uigr_10'] = '';
+
+/* DO NOT ALTER BELOW THIS LINE */
+/* WITH FIRST PARTY COOKIE */
+(function() {
+var bi = document.createElement('scri'+'pt');bi.type = 'text/javascript'; bi.async = true;
+bi.src = ('https:' == document.location.protocol ? 'https://bs' : 'http://c') + '.nakanohito.jp/b3/bi.js';
+var s = document.getElementsByTagName('scri'+'pt')[0];s.parentNode.insertBefore(bi, s);
+})();
+//-->
+</script>
+<!-- User Insight PCDF Code End : qvc.jp -->
+
+<!-- Start Visual Website Optimizer Synchronous Code -->
+<script type='text/javascript'>
+var _vis_opt_account_id = 169394;
+var _vis_opt_protocol = (('https:' == document.location.protocol) ? 'https://' : 'http://');
+document.write('<s' + 'cript src="' + _vis_opt_protocol +
+'dev.visualwebsiteoptimizer.com/deploy/js_visitor_settings.php?v=1&a='+_vis_opt_account_id+'&url='
++encodeURIComponent(document.URL)+'&random='+Math.random()+'" type="text/javascript">' + '<\/s' + 'cript>');
+</script>
+
+<script type='text/javascript'>
+if(typeof(_vis_opt_settings_loaded) == "boolean") { document.write('<s' + 'cript src="' + _vis_opt_protocol +
+'d5phz18u4wuww.cloudfront.net/vis_opt.js" type="text/javascript">' + '<\/s' + 'cript>'); }
+// if your site already has jQuery 1.4.2, replace vis_opt.js with vis_opt_no_jquery.js above
+</script>
+
+<script type='text/javascript'>
+if(typeof(_vis_opt_settings_loaded) == "boolean" && typeof(_vis_opt_top_initialize) == "function") {
+        _vis_opt_top_initialize(); vwo_$(document).ready(function() { _vis_opt_bottom_initialize(); });
+}
+</script>
+<!-- End Visual Website Optimizer Synchronous Code -->
+
+<!-- User Insight Integration Script -->
+<script type="text/javascript">
+var _vis_opt_queue = window._vis_opt_queue || [];
+window._uih = window._uih ||{};
+_vis_opt_queue.push(function() {
+    try {
+      var _vis_data = {},_vis_combination,_vis_id,_vis_l=0;
+      for(;_vis_l<_vwo_exp_ids.length;_vis_l++) {
+        _vis_id = _vwo_exp_ids[_vis_l];
+        if(_vwo_exp[_vis_id].ready) {
+          _vis_combination = _vis_opt_readCookie('_vis_opt_exp_'+_vis_id+'_combi');
+          if(typeof(_vwo_exp[_vis_id].combination_chosen) != "undefined")
+            _vis_combination = _vwo_exp[_vis_id].combination_chosen;
+          if(typeof(_vwo_exp[_vis_id].comb_n[_vis_combination]) != "undefined") {
+            window._uih['vwo_campaign_variation_id'] = _vis_id + "-" + _vis_combination; /* campaign68384-variation2*/
+          }
+        }
+      }
+    }
+    catch(err) {};
+});
+</script>
+<!-- End User Insight Integration Script -->
+</td>
+      </tr>
+    </table></td>
+    </tr>
+  <tr>
+    <td><table width="580" border="0" align="center" cellpadding="0" cellspacing="0">
+
+      <tr>
+        <td><strong>個人情報の取り扱いについて</strong><div class="secure">
+          お預かりしたお客様情報は「<a href="/policy/policy1.html?serverId=1" target="_blank">個人情報保護方針</a>」に則り、適切に取り扱います。利用目的やクレジットカードの取り扱い等については<a href="/policy/policy2.html?serverId=1" target="_blank">個人情報の取り扱い</a>をご確認ください。</div></td>
+        </tr>
+    </table></td>
+    </tr>
+</table>
+<form id="MemberInfoForm" name="MemberInfoForm" method="post" action="/MemberInfoConf.do?serverId=1" >
+
+<div align="center" class="ssl">この画面にご入力いただいたお客様の個人情報は、SSLという技術で暗号化され安全に送信されます</div>
+<!--***************************SNSID連携***************************-->
+
+
+	<div class="snsRegist">
+		<h3>外部サービスの情報を利用してご登録することもできます。</h3>
+		<p>
+		※一度ご登録いただきますと、外部サービスのアカウントでログインすることが可能です。<br />
+		ご登録の外部サービスアイコンをクリックしてください。
+		</p>
+		<ul>
+			<li><a href="/AuthGateway.do?provider=facebook&require=register" ><img src="images/openId/facebook.jpg" alt="facebook" /></a></li>
+			<li><a href="/AuthGateway.do?provider=twitter&require=register"><img src="images/openId/twitter.jpg" alt="twitter" /></a></li>
+			<li><a href="/AuthGateway.do?provider=gplus&require=register"><img src="images/openId/google.jpg" alt="google" /></a></li>
+			<li><a href="/AuthGateway.do?provider=yahoo&require=register"><img src="images/openId/yahoo.jpg" alt="facebook" /></a></li>
+			<li><a href="/AuthGateway.do?provider=mixi&require=register"><img src="images/openId/mixi.jpg" alt="mixi" /></a></li>
+		</ul>
+		<p class="rule-link"><a href="/guide/snslogin/index.html">アカウント連携設定方法</a><a href="/policy/social.html">外部サービスアカウント連携規約</a></p>
+	</div>
+
+
+<!--***************************SNSID連携***************************-->
+  <div align="center" class="error"></div>
+
+<table width="850" border="0" align="center" cellpadding="10" cellspacing="1" bgcolor="#dcdcdc" class="form">
+  <tr>
+    <td width="180" bgcolor="#fafafa"><div class="midashi">お名前</div>
+    <div class="red">※必須</div></td>
+    <td bgcolor="#FFFFFF">
+    &nbsp;&nbsp;姓&nbsp;<input type="text" id="kyakuSei" name="kyakuSei" value="" maxlength="10" size="20" class="tujo" />
+    &nbsp;&nbsp;&nbsp;名&nbsp;<input type="text" id="kyakuMei" name="kyakuMei" value="" maxlength="10" size="20" class="tujo" />
+    </td>
+    <td width="150" nowrap bgcolor="#FFFFFF"><div class="hosoku">例）山田 花子</div></td>
+  </tr>
+  <tr>
+    <td bgcolor="#fafafa"><div class="red">※必須</div>
+      <div class="midashi">フリガナ</div></td>
+    <td bgcolor="#FFFFFF">
+    セイ&nbsp;<input type="text" id="kyakuKanaSei" name="kyakuKanaSei" value="" class="tujo" maxlength="10" size="20" />
+    &nbsp;&nbsp;メイ&nbsp;<input type="text" id="kyakuKanaMei" name="kyakuKanaMei" value="" class="tujo" maxlength="10" size="20" /></td>
+    <td width="150" nowrap bgcolor="#FFFFFF"><div class="hosoku">例）ヤマダ ハナコ</div></td>
+  </tr>
+  <tr>
+    <td bgcolor="#fafafa"><div class="red">※必須</div>
+      <div class="midashi">郵便番号</div>      </td>
+    <td bgcolor="#FFFFFF"><input type="text" id="zipcode" name="zipcode" value="" class="tujo" size="14" maxlength="7" /></td>
+    <td width="150" nowrap bgcolor="#FFFFFF"><div class="hosoku">例）1234567</div>
+      <a href="http://www.post.japanpost.jp/zipcode/index.html" target="_blank">郵便番号、住所を調べる</a></td>
+  </tr>
+  <tr>
+    <td bgcolor="#fafafa"><div class="midashi">住所</div></td>
+    <td bgcolor="#FFFFFF">
+      <div id="addressSelect"></div>
+      <input type="hidden" id="adr1Name" name="adr1Name" value="" readonly />
+      <input type="hidden" id="kenKnjName" name="kenKnjName" value="" readonly />
+    </td>
+    <td nowrap bgcolor="#FFFFFF">&nbsp;</td>
+  </tr>
+  <tr>
+    <td bgcolor="#fafafa"><div class="red">※必須</div>
+      <div class="midashi">番地</div>      </td>
+    <td bgcolor="#FFFFFF"><input type="text" id="adr2" name="adr2" value="" class="tujo" size="50" maxlength="20" /></td>
+    <td width="150" nowrap bgcolor="#FFFFFF"><div class="hosoku">例）2-6-1</div></td>
+  </tr>
+  <tr>
+    <td valign="bottom" bgcolor="#fafafa">アパート、マンション名</td>
+    <td bgcolor="#FFFFFF"><input type="text" id="adr3" name="adr3" value="" class="tujo" size="50" maxlength="20" /></td>
+    <td width="150" nowrap bgcolor="#FFFFFF"><div class="hosoku">例）WBGマンション801</div></td>
+  </tr>
+  <tr>
+    <td bgcolor="#fafafa"><div class="red">※必須<br>
+        <font color="#666666">（携帯可）</font></div>
+      <div class="midashi">ご自宅<br>
+      電話番号</div></td>
+    <td bgcolor="#FFFFFF">
+      <input type="text" id="tel1" name="tel1" value="" Class="tujo" size="8" maxlength="5"/>
+      -
+      <input type="text" id="tel2" name="tel2" value="" class="tujo" size="8" maxlength="5"/>
+      -
+      <input type="text" id="tel3" name="tel3" value="" class="tujo" size="8" maxlength="5"/>
+     </td>
+    <td width="150" nowrap bgcolor="#FFFFFF"><div class="hosoku">例）043-123-4567<br>
+    例）090-1234-4567</div></td>
+  </tr>
+  <tr>
+    <td bgcolor="#fafafa">
+      <div class="red">※必須</div>
+      <div class="midashi">パスワード</div>
+    </td>
+    <td bgcolor="#FFFFFF">
+      <input type="password" id="passWord" name="passWord" class="tujo" size="50" maxlength="24" data-clipboard="false" />
+    </td>
+    <td width="150" nowrap bgcolor="#FFFFFF">
+      <div class="hosoku">※半角英数字を組み合わせた<br />8文字以上</div>
+    </td>
+  </tr>
+  <tr>
+    <td bgcolor="#fafafa">
+      <div class="red">※必須</div>
+      <div class="midashi">パスワードの<br />確認</div>
+    </td>
+    <td bgcolor="#FFFFFF">
+      <input type="password" id="passWordChk" name="passWordChk" class="tujo" size="50" maxlength="24" data-clipboard="false" />
+    </td>
+    <td width="150" nowrap bgcolor="#FFFFFF">
+    </td>
+  </tr>
+  <tr>
+    <td bgcolor="#fafafa"><div class="red">※必須</div>
+      <div class="midashi">生年月日</div></td>
+    <td colspan="2" bgcolor="#FFFFFF">
+    <select id="birthYY" name="birthYY" value="" class="tujo">
+      <option value="" >----／----</option>
+      
+      
+      
+        <option value="1997"
+        
+        >
+          1997／
+          
+            平成
+            9
+          
+          
+          
+        
+        </option>
+      
+        <option value="1996"
+        
+        >
+          1996／
+          
+            平成
+            8
+          
+          
+          
+        
+        </option>
+      
+        <option value="1995"
+        
+        >
+          1995／
+          
+            平成
+            7
+          
+          
+          
+        
+        </option>
+      
+        <option value="1994"
+        
+        >
+          1994／
+          
+            平成
+            6
+          
+          
+          
+        
+        </option>
+      
+        <option value="1993"
+        
+        >
+          1993／
+          
+            平成
+            5
+          
+          
+          
+        
+        </option>
+      
+        <option value="1992"
+        
+        >
+          1992／
+          
+            平成
+            4
+          
+          
+          
+        
+        </option>
+      
+        <option value="1991"
+        
+        >
+          1991／
+          
+            平成
+            3
+          
+          
+          
+        
+        </option>
+      
+        <option value="1990"
+        
+        >
+          1990／
+          
+            平成
+            2
+          
+          
+          
+        
+        </option>
+      
+        <option value="1989"
+        
+        >
+          1989／
+          
+            平成
+            1
+          
+          
+          
+        
+        </option>
+      
+        <option value="1988"
+        
+        >
+          1988／
+          
+          
+            昭和
+            63
+          
+          
+        
+        </option>
+      
+        <option value="1987"
+        
+        >
+          1987／
+          
+          
+            昭和
+            62
+          
+          
+        
+        </option>
+      
+        <option value="1986"
+        
+        >
+          1986／
+          
+          
+            昭和
+            61
+          
+          
+        
+        </option>
+      
+        <option value="1985"
+        
+        >
+          1985／
+          
+          
+            昭和
+            60
+          
+          
+        
+        </option>
+      
+        <option value="1984"
+        
+        >
+          1984／
+          
+          
+            昭和
+            59
+          
+          
+        
+        </option>
+      
+        <option value="1983"
+        
+        >
+          1983／
+          
+          
+            昭和
+            58
+          
+          
+        
+        </option>
+      
+        <option value="1982"
+        
+        >
+          1982／
+          
+          
+            昭和
+            57
+          
+          
+        
+        </option>
+      
+        <option value="1981"
+        
+        >
+          1981／
+          
+          
+            昭和
+            56
+          
+          
+        
+        </option>
+      
+        <option value="1980"
+        
+        >
+          1980／
+          
+          
+            昭和
+            55
+          
+          
+        
+        </option>
+      
+        <option value="1979"
+        
+        >
+          1979／
+          
+          
+            昭和
+            54
+          
+          
+        
+        </option>
+      
+        <option value="1978"
+        
+        >
+          1978／
+          
+          
+            昭和
+            53
+          
+          
+        
+        </option>
+      
+        <option value="1977"
+        
+        >
+          1977／
+          
+          
+            昭和
+            52
+          
+          
+        
+        </option>
+      
+        <option value="1976"
+        
+        >
+          1976／
+          
+          
+            昭和
+            51
+          
+          
+        
+        </option>
+      
+        <option value="1975"
+        
+        >
+          1975／
+          
+          
+            昭和
+            50
+          
+          
+        
+        </option>
+      
+        <option value="1974"
+        
+        >
+          1974／
+          
+          
+            昭和
+            49
+          
+          
+        
+        </option>
+      
+        <option value="1973"
+        
+        >
+          1973／
+          
+          
+            昭和
+            48
+          
+          
+        
+        </option>
+      
+        <option value="1972"
+        
+        >
+          1972／
+          
+          
+            昭和
+            47
+          
+          
+        
+        </option>
+      
+        <option value="1971"
+        
+        >
+          1971／
+          
+          
+            昭和
+            46
+          
+          
+        
+        </option>
+      
+        <option value="1970"
+        
+        >
+          1970／
+          
+          
+            昭和
+            45
+          
+          
+        
+        </option>
+      
+        <option value="1969"
+        
+        >
+          1969／
+          
+          
+            昭和
+            44
+          
+          
+        
+        </option>
+      
+        <option value="1968"
+        
+        >
+          1968／
+          
+          
+            昭和
+            43
+          
+          
+        
+        </option>
+      
+        <option value="1967"
+        
+        >
+          1967／
+          
+          
+            昭和
+            42
+          
+          
+        
+        </option>
+      
+        <option value="1966"
+        
+        >
+          1966／
+          
+          
+            昭和
+            41
+          
+          
+        
+        </option>
+      
+        <option value="1965"
+        
+        >
+          1965／
+          
+          
+            昭和
+            40
+          
+          
+        
+        </option>
+      
+        <option value="1964"
+        
+        >
+          1964／
+          
+          
+            昭和
+            39
+          
+          
+        
+        </option>
+      
+        <option value="1963"
+        
+        >
+          1963／
+          
+          
+            昭和
+            38
+          
+          
+        
+        </option>
+      
+        <option value="1962"
+        
+        >
+          1962／
+          
+          
+            昭和
+            37
+          
+          
+        
+        </option>
+      
+        <option value="1961"
+        
+        >
+          1961／
+          
+          
+            昭和
+            36
+          
+          
+        
+        </option>
+      
+        <option value="1960"
+        
+        >
+          1960／
+          
+          
+            昭和
+            35
+          
+          
+        
+        </option>
+      
+        <option value="1959"
+        
+        >
+          1959／
+          
+          
+            昭和
+            34
+          
+          
+        
+        </option>
+      
+        <option value="1958"
+        
+        >
+          1958／
+          
+          
+            昭和
+            33
+          
+          
+        
+        </option>
+      
+        <option value="1957"
+        
+        >
+          1957／
+          
+          
+            昭和
+            32
+          
+          
+        
+        </option>
+      
+        <option value="1956"
+        
+        >
+          1956／
+          
+          
+            昭和
+            31
+          
+          
+        
+        </option>
+      
+        <option value="1955"
+        
+        >
+          1955／
+          
+          
+            昭和
+            30
+          
+          
+        
+        </option>
+      
+        <option value="1954"
+        
+        >
+          1954／
+          
+          
+            昭和
+            29
+          
+          
+        
+        </option>
+      
+        <option value="1953"
+        
+        >
+          1953／
+          
+          
+            昭和
+            28
+          
+          
+        
+        </option>
+      
+        <option value="1952"
+        
+        >
+          1952／
+          
+          
+            昭和
+            27
+          
+          
+        
+        </option>
+      
+        <option value="1951"
+        
+        >
+          1951／
+          
+          
+            昭和
+            26
+          
+          
+        
+        </option>
+      
+        <option value="1950"
+        
+        >
+          1950／
+          
+          
+            昭和
+            25
+          
+          
+        
+        </option>
+      
+        <option value="1949"
+        
+        >
+          1949／
+          
+          
+            昭和
+            24
+          
+          
+        
+        </option>
+      
+        <option value="1948"
+        
+        >
+          1948／
+          
+          
+            昭和
+            23
+          
+          
+        
+        </option>
+      
+        <option value="1947"
+        
+        >
+          1947／
+          
+          
+            昭和
+            22
+          
+          
+        
+        </option>
+      
+        <option value="1946"
+        
+        >
+          1946／
+          
+          
+            昭和
+            21
+          
+          
+        
+        </option>
+      
+        <option value="1945"
+        
+        >
+          1945／
+          
+          
+            昭和
+            20
+          
+          
+        
+        </option>
+      
+        <option value="1944"
+        
+        >
+          1944／
+          
+          
+            昭和
+            19
+          
+          
+        
+        </option>
+      
+        <option value="1943"
+        
+   
+00003230
+     >
+          1943／
+          
+          
+            昭和
+            18
+          
+          
+        
+        </option>
+      
+        <option value="1942"
+        
+        >
+          1942／
+          
+          
+            昭和
+            17
+          
+          
+        
+        </option>
+      
+        <option value="1941"
+        
+        >
+          1941／
+          
+          
+            昭和
+            16
+          
+          
+        
+        </option>
+      
+        <option value="1940"
+        
+        >
+          1940／
+          
+          
+            昭和
+            15
+          
+          
+        
+        </option>
+      
+        <option value="1939"
+        
+        >
+          1939／
+          
+          
+            昭和
+            14
+          
+          
+        
+        </option>
+      
+        <option value="1938"
+        
+        >
+          1938／
+          
+          
+            昭和
+            13
+          
+          
+        
+        </option>
+      
+        <option value="1937"
+        
+        >
+          1937／
+          
+          
+            昭和
+            12
+          
+          
+        
+        </option>
+      
+        <option value="1936"
+        
+        >
+          1936／
+          
+          
+            昭和
+            11
+          
+          
+        
+        </option>
+      
+        <option value="1935"
+        
+        >
+          1935／
+          
+          
+            昭和
+            10
+          
+          
+        
+        </option>
+      
+        <option value="1934"
+        
+        >
+          1934／
+          
+          
+            昭和
+            9
+          
+          
+        
+        </option>
+      
+        <option value="1933"
+        
+        >
+          1933／
+          
+          
+            昭和
+            8
+          
+          
+        
+        </option>
+      
+        <option value="1932"
+        
+        >
+          1932／
+          
+          
+            昭和
+            7
+          
+          
+        
+        </option>
+      
+        <option value="1931"
+        
+        >
+          1931／
+          
+          
+            昭和
+            6
+          
+          
+        
+        </option>
+      
+        <option value="1930"
+        
+        >
+          1930／
+          
+          
+            昭和
+            5
+          
+          
+        
+        </option>
+      
+        <option value="1929"
+        
+        >
+          1929／
+          
+          
+            昭和
+            4
+          
+          
+        
+        </option>
+      
+        <option value="1928"
+        
+        >
+          1928／
+          
+          
+            昭和
+            3
+          
+          
+        
+        </option>
+      
+        <option value="1927"
+        
+        >
+          1927／
+          
+          
+            昭和
+            2
+          
+          
+        
+        </option>
+      
+        <option value="1926"
+        
+        >
+          1926／
+          
+          
+            昭和
+            1
+          
+          
+        
+        </option>
+      
+        <option value="1925"
+        
+        >
+          1925／
+          
+          
+          
+            大正
+            14
+          
+        
+        </option>
+      
+        <option value="1924"
+        
+        >
+          1924／
+          
+          
+          
+            大正
+            13
+          
+        
+        </option>
+      
+        <option value="1923"
+        
+        >
+          1923／
+          
+          
+          
+            大正
+            12
+          
+        
+        </option>
+      
+        <option value="1922"
+        
+        >
+          1922／
+          
+          
+          
+            大正
+            11
+          
+        
+        </option>
+      
+        <option value="1921"
+        
+        >
+          1921／
+          
+          
+          
+            大正
+            10
+          
+        
+        </option>
+      
+        <option value="1920"
+        
+        >
+          1920／
+          
+          
+          
+            大正
+            9
+          
+        
+        </option>
+      
+        <option value="1919"
+        
+        >
+          1919／
+          
+          
+          
+            大正
+            8
+          
+        
+        </option>
+      
+        <option value="1918"
+        
+        >
+          1918／
+          
+          
+          
+            大正
+            7
+          
+        
+        </option>
+      
+        <option value="1917"
+        
+        >
+          1917／
+          
+          
+          
+            大正
+            6
+          
+        
+        </option>
+      
+        <option value="1916"
+        
+        >
+          1916／
+          
+          
+          
+            大正
+            5
+          
+        
+        </option>
+      
+        <option value="1915"
+        
+        >
+          1915／
+          
+          
+          
+            大正
+            4
+          
+        
+        </option>
+      
+        <option value="1914"
+        
+        >
+          1914／
+          
+          
+          
+            大正
+            3
+          
+        
+        </option>
+      
+        <option value="1913"
+        
+        >
+          1913／
+          
+          
+          
+            大正
+            2
+          
+        
+        </option>
+      
+        <option value="1912"
+        
+        >
+          1912／
+          
+          
+          
+            大正
+            1
+          
+        
+        </option>
+      
+    </select>&nbsp;年&nbsp;
+
+    <select id="birthMM" name="birthMM" value="" class="tujo">
+      <option value="">--</option>
+      
+        <option value="1" > 1 </option>
+      
+        <option value="2" > 2 </option>
+      
+        <option value="3" > 3 </option>
+      
+        <option value="4" > 4 </option>
+      
+        <option value="5" > 5 </option>
+      
+        <option value="6" > 6 </option>
+      
+        <option value="7" > 7 </option>
+      
+        <option value="8" > 8 </option>
+      
+        <option value="9" > 9 </option>
+      
+        <option value="10" > 10 </option>
+      
+        <option value="11" > 11 </option>
+      
+        <option value="12" > 12 </option>
+      
+    </select>&nbsp;月&nbsp;
+
+    <select id="birthDD" name="birthDD" value="" class="tujo">
+      <option value="">--</option>
+      
+        <option value="1" > 1 </option>
+      
+        <option value="2" > 2 </option>
+      
+        <option value="3" > 3 </option>
+      
+        <option value="4" > 4 </option>
+      
+        <option value="5" > 5 </option>
+      
+        <option value="6" > 6 </option>
+      
+        <option value="7" > 7 </option>
+      
+        <option value="8" > 8 </option>
+      
+        <option value="9" > 9 </option>
+      
+        <option value="10" > 10 </option>
+      
+        <option value="11" > 11 </option>
+      
+        <option value="12" > 12 </option>
+      
+        <option value="13" > 13 </option>
+      
+        <option value="14" > 14 </option>
+      
+        <option value="15" > 15 </option>
+      
+        <option value="16" > 16 </option>
+      
+        <option value="17" > 17 </option>
+      
+        <option value="18" > 18 </option>
+      
+        <option value="19" > 19 </option>
+      
+        <option value="20" > 20 </option>
+      
+        <option value="21" > 21 </option>
+      
+        <option value="22" > 22 </option>
+      
+        <option value="23" > 23 </option>
+      
+        <option value="24" > 24 </option>
+      
+        <option value="25" > 25 </option>
+      
+        <option value="26" > 26 </option>
+      
+        <option value="27" > 27 </option>
+      
+        <option value="28" > 28 </option>
+      
+        <option value="29" > 29 </option>
+      
+        <option value="30" > 30 </option>
+      
+        <option value="31" > 31 </option>
+      
+    </select>&nbsp;日</td>
+
+    </tr>
+  <tr>
+    <td bgcolor="#fafafa"><div class="red">※必須</div>
+      <div class="midashi">性別</div>      </td>
+    <td colspan="2" bgcolor="#FFFFFF">
+    <input type="radio" name="sex" value="1" checked="checked"/>&nbsp;女性&nbsp;&nbsp;
+    <input type="radio" name="sex" value="2" />&nbsp;男性</td>
+    </tr>
+  <tr>
+    <td rowspan="2" bgcolor="#fafafa"><div class="red">※必須</div>
+      <div class="midashi">メールアドレス</div></td>
+    <td bgcolor="#FFFFFF">&nbsp;パソコン&nbsp;<input type="text" id="emailAdr1" name="emailAdr1" value="" class="tujo" size="45" maxlength="80" /></td>
+    <td width="150" rowspan="2" bgcolor="#FFFFFF"><div class="hosoku">いずれかを必ずご入力ください
+      <br />ログインの際必要になります
+    </div></td>
+  </tr>
+  <tr>
+    <td bgcolor="#FFFFFF">携帯電話&nbsp;<input type="text" id="emailAdr2local" name="emailAdr2local" value="" class="tujo" size="20" maxlength="80" />
+    ＠
+	<select id="emailAdr2domain" name="emailAdr2domain" size="1">
+	
+	<option value="docomo.ne.jp"  >docomo.ne.jp</option>
+	
+	<option value="ezweb.ne.jp"  >ezweb.ne.jp</option>
+	
+	<option value="vodafone.ne.jp"  >vodafone.ne.jp</option>
+	
+	<option value="softbank.ne.jp"  >softbank.ne.jp</option>
+	
+	<option value="i.softbank.jp"  >i.softbank.jp</option>
+	
+	<option value="disney.ne.jp"  >disney.ne.jp</option>
+	
+	<option value="d.vodafone.ne.jp"  >d.vodafone.ne.jp</option>
+	
+	<option value="h.vodafone.ne.jp"  >h.vodafone.ne.jp</option>
+	
+	<option value="t.vodafone.ne.jp"  >t.vodafone.ne.jp</option>
+	
+	<option value="c.vodafone.ne.jp"  >c.vodafone.ne.jp</option>
+	
+	<option value="r.vodafone.ne.jp"  >r.vodafone.ne.jp</option>
+	
+	<option value="k.vodafone.ne.jp"  >k.vodafone.ne.jp</option>
+	
+	<option value="n.vodafone.ne.jp"  >n.vodafone.ne.jp</option>
+	
+	<option value="s.vodafone.ne.jp"  >s.vodafone.ne.jp</option>
+	
+	<option value="q.vodafone.ne.jp"  >q.vodafone.ne.jp</option>
+	
+	<option value="willcom.com"  >willcom.com</option>
+	
+	<option value="wcm.ne.jp"  >wcm.ne.jp</option>
+	
+	<option value="emnet.ne.jp"  >emnet.ne.jp</option>
+	
+	<option value="emobile.ne.jp"  >emobile.ne.jp</option>
+	
+	<option value="emobile-s.ne.jp"  >emobile-s.ne.jp</option>
+	
+	<option value="uqmobile.jp"  >uqmobile.jp</option>
+	
+	<option value="ymobile1.ne.jp"  >ymobile1.ne.jp</option>
+	
+	<option value="ymobile.ne.jp"  >ymobile.ne.jp</option>
+	
+	<option value="y-mobile.ne.jp"  >y-mobile.ne.jp</option>
+	
+	</select>
+	<input type="hidden" id="emailAdr2" name="emailAdr2" value=""/>
+      </td>
+  </tr>
+  <tr>
+    <td bgcolor="#fafafa"><div class="midashi">QVCからの<br />お知らせ</div></td>
+    <td bgcolor="#FFFFFF"><table><tr><td><input type="checkbox" id="thanks_status" name="thanks_status"  checked />
+      希望する</td><td>
+
+
+
+
+
+
+
+
+
+</td></tr></table></td>
+    <td width="150" bgcolor="#FFFFFF"><div class="hosoku">お得なクーポンや、TSV、イベント情報、送料無料のご案内など、スペシャルな情報を事前にお知らせ（不定期配信）</div></td>
+  </tr>
+
+  <tr>
+    <td bgcolor="#fafafa"><div class="midashi">注文確認メール</div></td>
+    <td bgcolor="#FFFFFF"><input type="checkbox" id="tyumonMail" name="tyumonMail"  checked />
+      希望する</td>
+    <td width="150" bgcolor="#FFFFFF"><div class="hosoku">注文完了、注文キャンセル、お支払い方法変更、お届け先・配送日変更、発送完了、返品/交換受付・口座返金完了</div></td>
+  </tr>
+
+  <tr>
+    <td width="180" bgcolor="#fafafa"><div class="midashi">送信先</div></td>
+    <td bgcolor="#FFFFFF"><input type="checkbox" id="soshinSaki1" name="soshinSaki1"  />&nbsp;パソコン用メールアドレス
+    &nbsp;&nbsp;<input type="checkbox" id="soshinSaki2" name="soshinSaki2"  />&nbsp;携帯用メールアドレス
+    </td>
+    <td width="150" nowrap bgcolor="#FFFFFF"><div class="hosoku"><font color="red"></font></div></td>
+  </tr>
+
+
+  <tr>
+    <td width="180" class="friend"><div class="midashi">ご紹介方法</div></td>
+    <td colspan="2" bgcolor="#FFFFFF">
+      <input type="radio" id="introChoice0" name="introChoice" value="0" checked="checked"/>
+      &nbsp;なし
+      <input type="radio" id="introChoice1" name="introChoice" value="1" />
+      &nbsp;ご紹介コード&nbsp;
+	  <input type="radio" id="introChoice2" name="introChoice" value="2" />
+	  &nbsp;ご紹介者氏名と電話番号&nbsp;
+    </td>
+  </tr>
+  <tr id="introway_code">
+    <td width="180" class="friend"><div class="mid
+0000005A
+ashi">ご紹介コード</div></td>
+    <td bgcolor="#FFFFFF"><input type="text" id="introCode1
+00000548
+" name="introCode1" value="" class="tujo" size="8" maxlength="4"/>
+      -
+  <input type="text" id="introCode2" name="introCode2" value="" class="tujo" size="8" maxlength="4"/></td>
+
+    <td width="150" bgcolor="#FFFFFF"><div class="hosoku">例）1234-5678<br>
+      ※半角数字</div>
+      </td>
+  </tr>
+  <tr id="introway_name">
+    <td width="180" class="friend"><div class="midashi">ご紹介者氏名と電話番号</div></td>
+    <td bgcolor="#FFFFFF" >
+	    <table border="0" cellspacing="5" cellpadding="0">
+	        <tr>
+	          <td nowrap>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;セイ&nbsp;
+	              <input type="text" id="introFirstName" name="introFirstName" value="" class="tujo" style="friendssei" size="20" /></td>
+	          <td nowrap>&nbsp;メイ&nbsp;
+	              <input type="text" id="introLastName" name="introLastName" value="" class="tujo" style="friendsmei" size="20" /></td>
+	        </tr>
+	        <tr>
+	          <td colspan="2">電話番号&nbsp;
+	              <input type="text" id="introTelNo1" name="introTelNo1" value="" class="tujo" style="friendsphone1" size="8" maxlength="5" />
+	            -
+	              <input type="text" id="introTelNo2" name="introTelNo2" value="" class="tujo" style="friendsphone2" size="8" maxlength="5" />
+	            -
+	              <input type="text" id="introTelNo3" name
+0000005A
+="introTelNo3" value="" class="tujo" style="friendsphone3" size="8" maxlength="5" />
+	   
+00000D4C
+     </tr>
+	    </table></td>
+    <td width="150" bgcolor="#FFFFFF"><div class="hosoku">例）<br>ヤマダ ハナコ<br>043-123-4567<br> </div></td>
+  </tr>
+
+  <tr>
+    <td width="180" bgcolor="#fafafa"><div class="red">※必須</div>
+        <div class="midashi">規約の同意</div></td>
+    <td colspan="2" bgcolor="#FFFFFF">会員登録には会員規約の同意が必要です。 規約をお読みいただき、同意後、次の画面へお進みください。<br>
+      <div id="kiyakubk"><input type="checkbox" id="kiyaku2" name="kiyaku2"  />&nbsp;<strong>会員規約に同意する</strong>&nbsp;(<a href="javascript:newWindow('/kiyaku.html', 'window', 550, 580, 0, 0, 2);">会員規約を読む</a>)</div></td>
+  </tr>
+</table>
+<img src="/img/spacer.gif" width="30" height="30" />
+<div class="btarea">
+<div id="attention" style="text-align: center;"></div>
+  <table border="0" align="center" cellpadding="0" cellspacing="10">
+    <tr>
+      <td align="center"><a id="agree_link" href="#"><img id="agree_image" src="/images/regist2010/bt_next.gif" alt="alt" width="207" height="50" vspace="5"></a></td>
+    </tr>
+  </table>
+</div>
+
+
+<input type="hidden" name="shoriKbn" value="1"/>
+<input type="hidden" name="kyakuNo" value="0" />
+<input type="hidden" name="lastYear" value="1997" />
+<input type="hidden" id="adrCd1" name="adrCd1" value=""/>
+<input type="hidden" id="adrCd2" name="adrCd2" value=""/>
+<input type="hidden" id="adrCd3" name="adrCd3" value=""/>
+<input type="hidden" id="adrCd4" name="adrCd4" value=""/>
+<input type="hidden" id="adr1" name="adr1" value="" />
+<input type="hidden" id="mailsymbol"/>
+<input type="hidden" id="telsymbol"/>
+<input type="hidden" id="introsymbol"/>
+
+</form>
+
+
+
+
+	
+		<table width="948" border="0" cellspacing="0" cellpadding="0">
+			<tr>
+				<td background="/cont/top/images/footerline.gif"><img src="/cont/top/images/footerline.gif" width="1" /></td>
+			</tr>
+			<tr>
+				<td align="right" bgcolor="#FFFFFF"><img src="/cont/top/images/copyright.gif" hspace="20" vspace="10" /></td>
+			</tr>
+		</table>
+	
+	
+
+</div>
+<script type="text/javascript" language="JavaScript" src="/script/jquery-1.7.2.js?serverId=1"></script>
+<script type="text/javascript" language="JavaScript" src="/script/memberpage.js?serverId=1"></script>
+<script type="text/javascript" language="JavaScript" src="/script/util.js?serverId=1"></script>
+<script type="text/javascript" language="JavaScript" src="/script/validatorForRegist.js?serverId=1"></script>
+<script type="text/javascript" language="JavaScript" src="/script/jquery.autocomplete.js?serverId=1"></script>
+<script type="text/javascript" language="JavaScript" src="/script/regist.js?serverId=1"></script>
+<script type="text/javascript" language="JavaScript" src="/script/clipboardControl.js?serverId=1"></script>
+
+
+
+
+
+
+
+
+
+
+
+<script type="text/javascript">
+<!--
+
+_sc.eVar13 = "[PC]:新規会員登録";
+
+_sc.pageName = "[PC]:ソーシャル連携_新規会員登録_入力";
+
+_sc.eVar11 = "[PC]:新規会員登録";
+
+_sc.eVar12 = "[PC]:新規会員登録";
+
+-->
+</script>
+
+
+
+
+<!--AA code-->
+
+<script type="text/javascript" src="/script/analytics/s_code_pc.js?date=170407"></script>
+
+
+<script type="text/javascript" src="/script/analytics/s_code_do.js"></script>
+
+<!--/AA code-->
+
+<!--AA DTM Footer Code-->
+<script type="text/javascript" src="/script/analytics/dtm_footer.js"></script>
+<!--AA DTM Footer Code-->
+
+</body>
+</html>
+
+00000000
+

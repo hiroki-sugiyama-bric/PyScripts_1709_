@@ -1,0 +1,37 @@
+POST https://machicon.jp/accounts/sign_out/ HTTP/1.1
+Host: machicon.jp
+User-Agent: Mozilla/5.0 (Windows NT 6.1; rv:52.0) Gecko/20100101 Firefox/52.0
+Accept: text/html,application/xhtml+xml,application/xml;q=0.9,*/*;q=0.8
+Accept-Language: ja,en-US;q=0.7,en;q=0.3
+Referer: https://machicon.jp/profile/edit/
+Cookie: mjss=true; sctvaspcookie_cd=20170407132047230ipglBJmGxKCZlc8Sw; _mj_session=418b9f960511d674966b2a8ea2cf5d2d; _rt.uid=5312314c0aeb9fec712d9910c859bde1; _rt.xd=23e1495c; _vwo_uuid_v2=BC45F43832623F11FE784F03603D37F8|c7a388996300f7c1d40c88fcce0767bd; _ga=GA1.2.351694118.1491538841; __ulfpc=201704071320417355; __gads=ID=91b042424eb8f8bd:T=1491538835:S=ALNI_MbxN14qbgk48O8ckSksRQtGoWF7Gg; krt.vis=3792700688_1491538849031_314136133; mjss=true; deqwas_vc=7875ee31600940ffa10fb20066629695; FormAssist_1tag=view; FormAssist_cookie=linkbal/20161007111426/20170407/204459-376; remember_user_token=W1sxMTI3NDgwXSwiJFAkQm82bk1ZUkhOIiwiMTQ5MTU2NTgyMS4yMjY5NzI2Il0%3D--580cd4bd0f14a6a451114e0efbb8d44f5f9e099e; krt.v=message%3A57bd492aba1915a253120f8d%7C57b17b435a5784687fc05543; krt.s=date%3A1491566023%3Bpv%3A0%3Btime%3A0; _dc_gtm_UA-24162865-10=1; _dc_gtm_UA-24162865-1=1
+Connection: close
+Upgrade-Insecure-Requests: 1
+Content-Type: application/x-www-form-urlencoded
+Content-Length: 132
+
+_method=delete&authenticity_token=q%2FqgS1QI5iCbOYfU2uN22818ICamJM7Gt1TZP0aO07OyETF0j%2FIq%2BU20uduAR1emShI7svFGLK9VufXsuQMXcg%3D%3D
+HTTP/1.1 302 Found
+Content-Type: text/html; charset=utf-8
+Transfer-Encoding: chunked
+Connection: close
+Date: Fri, 07 Apr 2017 11:53:52 GMT
+Server: nginx
+X-Frame-Options: SAMEORIGIN
+X-XSS-Protection: 1; mode=block
+X-Content-Type-Options: nosniff
+Location: https://machicon.jp/
+Cache-Control: no-cache
+Set-Cookie: _mj_session=418b9f960511d674966b2a8ea2cf5d2d; path=/; expires=Sat, 07 Apr 2018 11:53:52 -0000; secure; HttpOnly
+Set-Cookie: remember_user_token=; path=/; max-age=0; expires=Thu, 01 Jan 1970 00:00:00 -0000; secure
+X-Request-Id: c0337554-4d14-4246-baf7-76bd1bf60e10
+X-Runtime: 0.057921
+Strict-Transport-Security: max-age=15552000
+X-Cache: Miss from cloudfront
+Via: 1.1 2fe788985cac89c0ef661ff7cd8edf63.cloudfront.net (CloudFront)
+X-Amz-Cf-Id: O_oraQOG_wdXU9pTwVGJjspw4vx-Y6neF52rhnWm7CMwes5epNwbsg==
+
+56
+<html><body>You are being <a href="https://machicon.jp/">redirected</a>.</body></html>
+0
+

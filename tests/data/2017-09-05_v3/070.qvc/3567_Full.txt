@@ -1,0 +1,27 @@
+GET https://qvc.jp/cont/Logout HTTP/1.1
+Host: qvc.jp
+User-Agent: Mozilla/5.0 (Windows NT 6.1; rv:52.0) Gecko/20100101 Firefox/52.0
+Accept: text/html,application/xhtml+xml,application/xml;q=0.9,*/*;q=0.8
+Accept-Language: ja,en-US;q=0.7,en;q=0.3
+Referer: https://qvc.jp/CustomerMenu.do?serverId=9
+Cookie: s_fid=10F9B53A616D5858-361A8D711FE622DE; sc_visit=1; sc_segmsest=1491562811163; sc_segmhis=1491562811163; sc_segm=1; s_cvp_1=%5B%5B%27DIR%27%2C%271491562811166%27%5D%5D; s_cvp_2=%5B%5B%27DIR%27%2C%271491562811167%27%5D%5D; sc_prevpage=%5BPC%5D%3Aqvc.jp%2FCustomerMenu.do; s_sq=qvcjqvcjpprod%3D%2526pid%253D%25255BPC%25255D%25253Aqvc.jp%25252FCustomerMenu.do%2526pidt%253D1%2526oid%253Dhttps%25253A%25252F%25252Fqvc.jp%25252FLogoff.do%2526ot%253DA; JSESSIONID=E88692C27AB3F838FC1F2A719AC155AB; uniqueid=72382c80-45d6-4570-b99c-40fb77afb267; CK_SERVERID=9; _libra=6dA0fTnq68ahFOyxyqhGihBYPA/zacSBTXDtUX81tp7fYAcRmguS8tcHeEspSN9q9DXcrrpSqnPbnA==; s_cc=true; s_product=%5BPC%5D%3AOther; sc_prevFlag=F; uniqueUserHash=29734a174ee175eb828c61e737d8ccd87f66282559917b7d4aa889793aa8860f0155bac93a103c80699cedfba1e09fdac66bdfbbe2abdc53cc4ed2ec5b5edd5b; easilylogin=538920846964167284; custid=73790398
+Connection: close
+Upgrade-Insecure-Requests: 1
+
+
+HTTP/1.1 301 Moved Permanently
+Server: Apache
+Location: http://qvc.jp/cont/Logout/
+Content-Length: 243
+Content-Type: text/html; charset=iso-8859-1
+Date: Fri, 07 Apr 2017 11:00:54 GMT
+Connection: close
+Set-Cookie: CK_SERVERID=9; path=/
+
+<!DOCTYPE HTML PUBLIC "-//IETF//DTD HTML 2.0//EN">
+<html><head>
+<title>301 Moved Permanently</title>
+</head><body>
+<h1>Moved Permanently</h1>
+<p>The document has moved <a href="http://172.31.213.9:81/cont/Logout/">here</a>.</p>
+</body></html>

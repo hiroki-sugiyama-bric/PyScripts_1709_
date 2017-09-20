@@ -1,0 +1,189 @@
+GET https://pid.gree.net/reg/entry?reg_code=PCHD000000001&from_pcheader=registration HTTP/1.1
+Host: pid.gree.net
+User-Agent: Mozilla/5.0 (Windows NT 6.1; WOW64; rv:52.0) Gecko/20100101 Firefox/52.0
+Accept: text/html,application/xhtml+xml,application/xml;q=0.9,*/*;q=0.8
+Accept-Language: ja,en-US;q=0.7,en;q=0.3
+Accept-Encoding: gzip, deflate, br
+Referer: http://gree.jp/
+Cookie: gcid=B=e35b9659ff20a4d28206f8748c53aa030a15595f&T=58e6e7c6&V=1&S=r66fecb2ag; _ga=GA1.2.220016531.1491527622
+Connection: close
+Upgrade-Insecure-Requests: 1
+
+
+HTTP/1.1 200 OK
+Date: Fri, 07 Apr 2017 01:35:43 GMT
+Server: Apache
+X-FRAME-OPTIONS: DENY
+Vary: Accept-Encoding
+Content-Length: 8485
+Content-Type: text/html
+Set-Cookie: gssid=deleted; expires=Thu, 01-Jan-1970 00:00:01 GMT; Max-Age=0; path=/; domain=gree.net; httponly
+Set-Cookie: gssid_hash=deleted; expires=Thu, 01-Jan-1970 00:00:01 GMT; Max-Age=0; path=/; domain=gree.net
+Set-Cookie: user_mail=deleted; expires=Thu, 01-Jan-1970 00:00:01 GMT; Max-Age=0; path=/; domain=gree.net
+Set-Cookie: user_password=deleted; expires=Thu, 01-Jan-1970 00:00:01 GMT; Max-Age=0; path=/; domain=gree.net
+Set-Cookie: login_status=deleted; expires=Thu, 01-Jan-1970 00:00:01 GMT; Max-Age=0; path=/; domain=gree.net
+Set-Cookie: bm_backto=deleted; expires=Thu, 01-Jan-1970 00:00:01 GMT; Max-Age=0; path=/
+Connection: close
+
+<!DOCTYPE html>
+<!--[if IE 8]><html lang="ja" class="ltIe10 ie8"><![endif]-->
+<!--[if IE 9]><html lang="ja" class="ltIe10 ie9"><![endif]-->
+<!--[if gt IE 9]><!--><html lang="ja"><!--<![endif]-->
+<head>
+  <meta charset="utf-8">
+  <meta name="apple-mobile-web-app-capable" content="no">
+  <meta name="format-detection" content="telephone=no">
+  <meta name="format-detection" content="address=no">
+  <title>GREE</title>
+  <link rel="shortcut ico" type="image/x-icon" href="">
+  <!--[if lte IE 8 ]>
+  <script src="https://aimg-pid.gree.net/js/html5shiv.js?2014080401"></script>
+  <script src="https://aimg-pid.gree.net/js/es5-shim.js?2014080401"></script>
+  <![endif]-->
+  <link rel="stylesheet" href="https://aimg-pid.gree.net/css/pc/mint/reg.css?2014080401" media="all">
+  <script src="https://aimg-pid.gree.net/js/jquery-1.9.1.min.js?2014080401"></script>
+  <script src="https://aimg-pid.gree.net/js/gree_id.min.js?2014020500" type="text/javascript"></script>
+  <script src="https://aimg-pid.gree.net/js/quill.js?2014080401"></script>
+
+<script type="text/javascript">
+function setTz() {
+    var d = new Date()
+    var n = d.getTimezoneOffset();
+    // javascript returns e.g. "-540" for "UTC+9"
+    document.forms.next.tz_offset.value = (-1) * n;
+}
+
+// IE fix
+if (!window.location.origin) {
+  window.location.origin = window.location.protocol + "//" + window.location.hostname;
+}
+</script>
+
+</head><script type="text/javascript">
+  
+  'use strict';
+  window.fbAsyncInit = function() {
+    FB.init({
+      appId:   '149284241794491',
+      version: 'v2.0'
+    });
+  };
+  // Load the SDK asynchronously
+  (function(d, s, id) {
+    var js, fjs = d.getElementsByTagName(s)[0];
+    if (d.getElementById(id)) return;
+    js = d.createElement(s); js.id = id;
+    js.src = "//connect.facebook.net/ja_JP/sdk.js";
+    // js.src = "//connect.facebook.net/en_US/sdk/debug.js";
+    fjs.parentNode.insertBefore(js, fjs);
+  }(document, 'script', 'facebook-jssdk'));
+  $(function () {
+    var btn  = $('#auth-btn-facebook'),
+      form   = $('#idp-form'),
+      action = $('#idp-action'),
+      code  = $('#idp-code'),
+      statusChangeCallback = function (response) {
+        if (response.status === 'connected') {
+          submitForm(response);
+        }
+      },
+      submitForm = function(response) {
+        action.val('connect_handle_facebook');
+        code.attr('name', 'signed_request').val(response.authResponse.signedRequest);
+        form.submit();
+      };
+    btn.on('click', function () {
+      FB.login(statusChangeCallback, {scope: 'email,user_birthday'});
+    });
+  });
+  
+</script><script type="text/javascript">
+  
+  'use strict';
+  $(function () {
+    var CONFIG = {
+        targetOrigin: "https://pid.gree.net"
+      },
+      btn = $('#auth-btn-yahoo'),
+      form = $('#idp-form'),
+      form_action = $('#idp-action'),
+      form_code = $('#idp-code'),
+      target_url = CONFIG.targetOrigin + '?action=connect_authentication_start&service=yahoo' +
+      '&origin=' + encodeURIComponent(window.location.origin),
+      auth = function () {
+        var child = window.open(target_url, 'child', 'width=800,height=600,location=yes');
+        window.addEventListener('message', function (event) {
+          if (event.origin == CONFIG.targetOrigin) {
+            child.close();
+            submitForm(event.data);
+          }
+        });
+      },
+      submitForm = function (code) {
+        form_action.val('connect_handle_yahoo');
+        form_code.val(code);
+        form.submit();
+      };
+    btn.on('click', auth);
+  });
+  
+</script>
+<script type="text/javascript">
+  
+  'use strict';
+  // https://developers.google.com/api-client-library/javascript/reference/referencedocs
+  $(function () {
+    var CONFIG = {
+        'client_id': '782778935196-70j0b81ea0ibmasc6vcccptttk33cq84.apps.googleusercontent.com',
+        'scope': 'openid profile email',
+        'response_type': 'code'
+      },
+      btn = $('#auth-btn-google'),
+      form = $('#idp-form'),
+      form_action = $('#idp-action'),
+      form_code = $('#idp-code'),
+      count = 0,
+      auth = function (config) {
+        gapi.auth.authorize(config, function() {
+          authCallback(gapi.auth.getToken());
+        });
+      },
+      authCallback = function (response) {
+        if ('code' in response) {
+          submitForm(response.code);
+        } else if (count <= 0) {
+          ++count;
+          auth($.extend(CONFIG, {'immediate': true}));
+        }
+      },
+      submitForm = function(code) {
+        form_action.val('connect_handle_google');
+        form_code.val(code);
+        form.submit();
+      };
+    btn.on('click', function () {
+      count = 0;
+      auth(CONFIG);
+    });
+  });
+  
+</script>
+<script src="https://apis.google.com/js/client.js"></script><body><div class="glContr" id="glContr"><header class="nav" id="navigation"><div class="contr"><h1 class="navLogo"><a class="logoGree" href="http://gree.jp/">GREE</a></h1></div></header><!--  --><script src="https://aimg-static-ssl.gree.net/js/navigation_pc_ja.js?20140909" type="text/javascript"></script>
+<script type="text/javascript">
+$(function(){
+var user_id = "";var backto_url = "";
+    // login url: pid.gree.net/login/entry
+    var initial_config = user_id ? {pattern_id: user_id}
+        : { header: {login_extension: backto_url} };
+    initial_config.footer = {silent: true}; // NOTE: turn-off Ajax call via non-secure channel.
+
+    gree_common_navigation.init(initial_config);
+    gree_common_navigation.show();
+});
+</script>
+<div class="contWrap"><div class="contr"><div class="unit"><article class="contCol12 center"><div class="unit"><div class="cst"><div class="inVtlFat"><ul class="row"><li class="colVtlSpc6"><div class="colIn"><h2 class="lv2 space20">新規会員登録</h2><p class="sen space15"><a class="lnk" href="https://pid.gree.net/?action=term_generic&amp;page=terms_pc">利用規約</a>と<a class="lnk" href="https://pid.gree.net/?action=term_generic&amp;page=privacy_policy_pc">プライバシーポリシー</a>に同意の上、メールを送信してください。</p><form method="post" action="https://pid.gree.net/"><input type="hidden" name="action" value="register_by_blankmail_send" /><input type="hidden" name="app_id" value="0" /><div class="space15 inptL "><div id="inputFreemail" class="list-item round sink hasform hasform-medium spacing space10"><input type="email" name="mail" class="reset full" autocapitalize="off" placeholder="送信先のメールアドレス" value=""></div></div><button class="btn lrg primGreen w250" type="button submit">メールを送信する</button></form></div></li><li class="colVtlSpc6"><div class="colIn"><h2 class="lv2 space20">外部IDで登録</h2><a id="auth-btn-facebook" class="btn lrg w250 space15 btnFlex"><div class="flex"><div class="wrapIco24"><span class="spr s24_service_fb"></span></div><div class="itm vaM taC">Facebookで登録</div><div class="wrapIco24"></div></div></a><a id="auth-btn-yahoo" class="btn lrg w250 space15 btnFlex"><div class="flex"><div class="wrapIco24"><span class="spr s24_service_yahoo"></span></div><div class="itm vaM taC">Yahoo! IDで登録</div><div class="wrapIco24"></div></div></a><a id="auth-btn-google" class="btn lrg w250 space15 btnFlex"><div class="flex"><div class="wrapIco24"><span class="spr s24_service_google"></span></div><div class="itm vaM taC">Google+で登録</div><div class="wrapIco24"></div></div></a><form id="idp-form" method="post" action="https://pid.gree.net/"><input type="hidden" name="pid_csrf[token]" value="626468f7a1c2e019bc29c72870cc54e6726735da" /><input type="hidden" id="idp-action" name="action" value="" /><input type="hidden" id="idp-code" name="code" value="" /><input type="hidden" name="app_id" value="0" /><input type="hidden" name="backto" value="" /></form></div></li><div id="fb-root"></div></ul></div></div><div class="unit"><div class="cst skDark sen"><div class="in"><p>・メールを送信する前に「@gree.net」「@gree.jp」からのメールが受信できるようになっているかどうかご確認ください。</p></div></div></div></div></article></div><!--  --></div><!--  -->        <div class="contr">
+          <div class="unit">
+            <div class="taR"><a href="#" class="lnk fsS"><span class="vaM spaceR">ページトップ</span><span class="spr s18_arw_t_blue"></span></a></div>
+          </div>
+        </div></div><!--  --><noscript class="jsneeded">
+JavaScript を ON にしてください</noscript></div><!--  --></body></html>

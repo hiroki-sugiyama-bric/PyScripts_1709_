@@ -1,0 +1,228 @@
+GET https://point.recruit.co.jp/member/memRegist/?client_id=d37b0ba0d2f2d914e6214a3130668745619a5ae452be1b41555da255f2714e54&redirect_uri=https%3A%2F%2Fwww.hotpepper.jp%2FCSP%2FcapMemberForward%2F&login_redirect_uri=%2Fmember%2FOAuthLogin%2F%3Fclient_id%3Dd37b0ba0d2f2d914e6214a3130668745619a5ae452be1b41555da255f2714e54%26redirect_uri%3Dhttps%253A%252F%252Fwww.hotpepper.jp%252FCSP%252FcapMemberForward%252F%26response_type%3Dcode%26state%3D4a26f880145ff911aac63eee4127c4ec3b8e84f24b3b6c7b%26re_auth%3D1%26insertion_flg%3D&response_type=code&state=4a26f880145ff911aac63eee4127c4ec3b8e84f24b3b6c7b HTTP/1.1
+Host: point.recruit.co.jp
+User-Agent: Mozilla/5.0 (Windows NT 6.1; WOW64; rv:51.0) Gecko/20100101 Firefox/51.0
+Accept: text/html,application/xhtml+xml,application/xml;q=0.9,*/*;q=0.8
+Accept-Language: ja,en-US;q=0.7,en;q=0.3
+Referer: https://www.hotpepper.jp/SA11/
+Cookie: r2abtest_cid=73df171a52a8e23dcb5043eaa4715e158908ea67; r2abtest="201703101404:I9MR040_HPG_01_001,898,HPG_01_001:I9MR010_S03_a,896,other"; rm_tk=6V5HYX6dxDb9yTYKQ4xndttBokMbAa1j; site_cd=HPG; s_fid=4493AB07D01B65E8-1F03BA2E2FEE4E44; s_nr=1489128629216-Repeat; s_nr2=1489128629278-Repeat; JSESSIONID=104FD9C5C9DDBE8B01ED4103B76203DF.0401; s_cc=true; s_fr=2017%3A03%3A10; s_cm=1; s_fbsr=1; s_sq=%5B%5BB%5D%5D
+Connection: close
+Upgrade-Insecure-Requests: 1
+Cache-Control: max-age=0
+
+
+HTTP/1.1 200 OK
+Date: Fri, 10 Mar 2017 06:51:18 GMT
+Server: Apache
+X-RUN_ID: R-14136_54_44113
+Set-Cookie: r2abtest_cid=73df171a52a8e23dcb5043eaa4715e158908ea67; Domain=point.recruit.co.jp; Expires=Wed, 28-Mar-2085 10:05:25 GMT; Path=/; HttpOnly
+Set-Cookie: r2abtest="201703101404:I9MR040_HPG_01_001,898,HPG_01_001:I9MR010_S03_a,896,other"; Version=1; Domain=point.recruit.co.jp; Max-Age=2147483647; Expires=Wed, 28-Mar-2085 10:05:25 GMT; Path=/; HttpOnly
+Set-Cookie: JSESSIONID=52D0FF3958EC6B4BE5D6001AB596C1B4.0101; Path=/; Secure; HttpOnly
+Set-Cookie: site_cd=HPG; Expires=Sun, 10-Mar-2019 06:51:18 GMT; Path=/; Secure
+Expires: 0
+Pragma: no-cache
+Cache-Control: no-cache, no-store, proxy-revalidate
+Content-Type: text/html;charset=UTF-8
+Content-Length: 8590
+Vary: Accept-Encoding,User-Agent
+P3P: CP="NON DSP COR CURa ADMa DEVa CUSo TAIa PSDo OUR BUS UNI COM NAV STA"
+Strict-Transport-Security: max-age=315360000
+Connection: close
+
+<!DOCTYPE html>
+<html lang="ja"><head>
+<meta http-equiv="Content-Type" content="text/html; charset=utf-8" />
+<meta http-equiv="Content-Style-Type" content="text/css" />
+<meta http-equiv="Content-Script-Type" content="text/javascript" /><meta name="title" content="リクルートID - 新規会員登録" /><title>リクルートID - 新規会員登録</title><link rel="stylesheet" href="/css/member_common.css?__rel=20170217032405" type="text/css"><link rel="shortcut icon" href="/img/icon/r_point_fabicon.ico?__rel=20170217032405"><link rel="stylesheet" href="/css/tone_HPG.css?__rel=20170217032405" type="text/css"><noscript>
+	<p class="noScript_box">
+		JavaScriptの設定が無効の為、すべての機能を利用いただけません。<br />
+		JavaScriptの設定を有効にしてからご利用いただきますようお願いいたします。
+	</p>
+</noscript>
+</head>
+<body id="pageTop">
+
+<!-- wrapper -->
+<div id="wrapper"> 
+
+	<!-- header -->
+	<header id="header">
+		<section class="globalHeader clearFix">
+			<h1 class="globalHeader_logo">
+				<a href="https://www.hotpepper.jp/">
+					<img src="/doc/img/sitelogo/member/logo_bridge_HPG.png?date=20161021160534" title="ホットペッパーグルメ" alt="ホットペッパーグルメ"></a>
+					</h1>
+			<h2 class="globalHeader_sub">
+				<img src="/doc/img/sitelogo/member/logo_bridge_CAP.png?date=20161021160534" alt="リクルートID"></h2>
+			</section>
+	</header><!-- //header-->
+
+	<!-- contents -->
+	<div id="contents">
+
+		<div>
+			
+</div>
+		
+		<section>
+            <h2 class="title_page">新規会員登録</h2>
+		</section>
+
+		<section id="contentsInner">
+
+			<div id="insertionContentsTopSite">
+				                <div style="margin-top: 20px; text-align: center;">
+                    <img src="//www.hotpepper.jp/doc/recruitid/images/pc_membership_registration_step1_B.png" alt="" width="650" height="79" />
+                </div>
+				<div style="margin-top: 20px; padding: 10px; text-align: center; background-color: #EBEBEB;">
+					<p style="font-size: 14px;">すでに下記サイトで会員登録されていましたら、同じメールアドレス、パスワードでログインできます。</p>
+					<p><a href="" id="jsiSetUrl">ログインはこちら</a></p>
+					<div style="margin-top: 10px;">
+						<img src="//www.hotpepper.jp/doc/recruitid/images/logo_other_products_500.png" alt="じゃらん,HOT PEPPER Beauty,ポンパレ,ポンパレモール" width="500" height="28" />
+					</div>
+				</div>
+				<script type="text/javascript">
+					function getQueryParameters() {
+						var plus,search,query,
+							baseUrl = '/member/OAuthLogin/?',
+							targetLink = document.getElementById('jsiSetUrl');
+
+						plus = /\+/g;
+						search = /([^&=]+)=?([^&]*)/g;
+						query  = window.location.search.substring(1);
+
+						if (query === '') {
+							targetLink.parentNode.removeChild(targetLink)
+						} else {
+							targetLink.href = baseUrl + query;
+						}
+					};
+					function addEvent(elm,listener,fn){
+						try{
+							elm.addEventListener(listener,fn,false);
+						}catch(e){
+							elm.attachEvent("on"+listener,fn);
+						}
+					}
+					addEvent(window,"load",getQueryParameters);
+				</script></div>
+			<div id="insertionContentsTop">
+				</div>
+
+			<div class="assetsMessage">
+				<p>
+					ご利用になるリクルートID（メールアドレス）を入力してください。<br />
+					入力したメールアドレス宛に仮登録メールが届きます。<br />
+					メール受信制限をされている方は point.recruit.co.jp からのメール受信を許可してください。
+				</p>
+			</div>
+			
+			<section class="layoutGrid_01">
+				<form name="member_memRegistActionForm" id="member_memRegistActionForm" method="post" action="/member/memRegist/doDupChk"><input type="hidden" name="client_id" value="d37b0ba0d2f2d914e6214a3130668745619a5ae452be1b41555da255f2714e54"><input type="hidden" name="redirect_uri" value="https://www.hotpepper.jp/CSP/capMemberForward/"><input type="hidden" name="response_type" value="code"><input type="hidden" name="state" value="4a26f880145ff911aac63eee4127c4ec3b8e84f24b3b6c7b"><input type="hidden" name="re_auth" value=""><input type="hidden" name="insertion_flg" value=""><input type="hidden" name="preset_key" value=""><input type="hidden" name="sc_vid" value=""><input type="hidden" name="sc_ap" value=""><input type="hidden" name="scope" value=""><input type="hidden" name="nonce" value=""><input type="hidden" name="prompt" value=""><input type="hidden" name="auth_transct_id" value=""><div class="bg_02 memberEntry">
+						<dl class="memberEntry_id">
+							<dt>リクルートID<br>(メールアドレス)</dt>
+							<dd>
+								<input type="text" name="mainEmail" maxlength="100" placeholder="例）sample@recruit.co.jp" autocomplete="off" value="" style="ime-mode: disabled;" class="ime_mode_dis"></dd>	
+						</dl>
+						<div>
+							</div>
+						<ul class="memberEntry_link01">
+							<li>
+								<a href="https://cmn.point.recruit.co.jp/terms/terms.html" target="_blank" class="blank" title="リクルートID規約">リクルートID規約</a>
+							</li>
+							<li>
+								・<a href="https://cmn.point.recruit.co.jp/policy/privacy.html" target="_blank" class="blank" title="プライバシーポリシー">プライバシーポリシー</a>
+							</li>
+							<li>
+								・<a title="Ponta Web会員規約" href="https://cmn.point.recruit.co.jp/pontaweb/terms/term.html" target="_blank" class="blank">Ponta Web会員規約</a></li>
+							<li>をご覧ください。</li>
+						</ul>
+						<ul class="memberEntry_submit">
+							<li>
+								<input type="submit" value="上記に同意して仮登録メールを送信" id="acceptSubmitPink" class="button_01" title="上記に同意して仮登録メールを送信"></li>
+						</ul>
+					</div>
+				</form></section>
+			<div id="insertionContentsUnderSite">
+				</div>
+			<div id="insertionContentsUnder">
+				</div>
+		</section>
+	</div>
+	<!-- //contents --> 
+	<!-- footerWrapper -->
+	<div id="footerWrapper">
+		<footer id="footer">
+			<section class="globalFooter">
+				<nav class="globalFooter_nav">
+					<ul id="footerLinks">
+						<li><a href="https://cmn.point.recruit.co.jp/terms/terms.html" target="_blank">ID・会員規約</a></li>
+						<li><a href="https://cmn.point.recruit.co.jp/policy/privacy.html" target="_blank">プライバシーポリシー</a></li>
+						<li><a href="https://help.point.recruit.co.jp/">お問い合わせ</a></li>
+					</ul>
+				</nav>
+				<div class="globalFooter_contents">
+					<div class="globalFooter_logo">
+						<p id="copyright">
+							<a href="https://www.recruit.jp/" target="_blank">
+							<img src="/doc/img/sitelogo/member/complogo_RHD.png?date=20150407153151" title="(C) Recruit Holdings Co.,Ltd." alt="(C) Recruit Holdings Co.,Ltd."></a>
+						</p>
+						<p id="groupSite">
+							<a href="https://www.recruit.co.jp/"><span class="copyRight">リクルートグループサイトへ</span></a>
+						</p>
+					</div>
+				</div>
+			</section>
+		</footer>
+		</div>
+<script type="text/javascript" src="/js/sitecatalyst/s_code.js"></script>
+<script ><!--
+	s.pageName = 'cap:member:memregist:index.html';
+	s.prop3 = 'I1MR010';
+
+	s.prop40 = 'HPG';
+
+//--></script>
+<script type="text/javascript" src="/js/sitecatalyst/code_to_paste.js"></script>
+
+<script ><!--
+var globalPageName = '';
+var globalDispId = '';
+var globalSiteCd = '';
+var globalEvents = '';
+var globalABTest = '';
+
+
+	globalPageName = 'cap:member:memregist:index.html';
+	globalDispId = 'I1MR010';
+	
+		globalSiteCd = 'HPG';
+	
+//--></script>
+
+<script type="text/javascript">
+	pageName = "rikupon:register:email_input:I1MR010";
+	channel = "rikupon";
+	subSiteSection = "rikupon:register:email_input:I1MR010";
+	media = "rikupon";
+</script>
+
+<script type="text/javascript" src="//www.hotpepper.jp/DEV/DEV_OPEN/CSP/log/js/s_code.js"></script>
+<script type="text/javascript" src="//www.hotpepper.jp/DEV/DEV_OPEN/CSP/log/js/logTeam.js"></script><!-- //footerWrapper -->
+
+</div>
+<!-- //wrapper --> 
+
+<script type="text/javascript" src="/js/p_csp.js"></script>
+	<script type="text/javascript" src="/js/submitControl.js"></script>
+	<script type="text/javascript">
+		document.getElementById("acceptSubmitPink").onclick = function() {
+			return submitCtr.submit(function() {
+
+				document.forms['member_memRegistActionForm'].submit();
+
+				return true;
+			});
+		};
+	</script>
+</body>
+</html>

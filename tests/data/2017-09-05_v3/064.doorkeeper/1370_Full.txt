@@ -1,0 +1,33 @@
+POST https://manage.doorkeeper.jp/user/sign_out HTTP/1.1
+Host: manage.doorkeeper.jp
+User-Agent: Mozilla/5.0 (Windows NT 6.1; rv:52.0) Gecko/20100101 Firefox/52.0
+Accept: text/html,application/xhtml+xml,application/xml;q=0.9,*/*;q=0.8
+Accept-Language: ja,en-US;q=0.7,en;q=0.3
+Accept-Encoding: gzip, deflate, br
+Referer: https://manage.doorkeeper.jp/user/detailed_profile/edit
+Cookie: locale=ja; usdksc=Ky9uSjhjdjZJVnNiZWtMRTFiQTc2UGVGaVUvZ2l1MVQ2NTAxM1NuUGZlS3hWZmMxV1M3VWVNUExlc05qR2pmWC9GSUF0eTR5MXpUbmk2T0p2WHBYMmpidm5HRDJhdWtiY2piV1pSdnByclNKcDJnek45MnI5MXc2MmVnN1F2QjN0U1lCWTB0b3dpVWdWZFZibk9KSHNHYlFURDFTVG1kQlJ2V0dMd1lGdGE2eGZJQ29HS1hsdURsaEZNVlFRUlhGaWhXTzlIcUhJSU4wck5oNFRVSVhHN2VRa0FUaFFYWTFyWGhrazR4Qitrdz0tLWM1bWF3VlRwQ05mL0QwL2FxVHRwcmc9PQ%3D%3D--a67ccd6aa9b0a67b7411f05aee1b296aa9ec92d2; mp_mixpanel__c=2; remember_user_token=W1szNDkxMzFdLCJUNHo0VDRpb3ZHc2t5dFB2UkZ5SiIsIjE0OTE1NDQ3NTEuOTY1NjUyNSJd--ae6ba7d6fa62d101f560bd9f9ca7ae8e483fb527; mp_2d0a9fadc66f322337b0428d60907db5_mixpanel=%7B%22distinct_id%22%3A%20%22349131%22%2C%22%24initial_referrer%22%3A%20%22%24direct%22%2C%22%24initial_referring_domain%22%3A%20%22%24direct%22%7D
+DNT: 1
+Connection: close
+Upgrade-Insecure-Requests: 1
+Content-Type: application/x-www-form-urlencoded
+Content-Length: 132
+
+_method=delete&authenticity_token=cSZds8bKt7qn9P4p26O4hr68oXhL6hqS58bPQlE0qTQpqD8xNnzCNM9vXAfv2RRZ9cY%2BT%2BFaYRY%2BNiRNFMqaQA%3D%3D
+HTTP/1.1 302 Found
+Cache-Control: no-cache
+Content-Type: text/html; charset=utf-8
+Date: Fri, 07 Apr 2017 06:24:12 GMT
+Location: https://www.doorkeeper.jp/
+Server: nginx/1.10.1
+Set-Cookie: locale=ja; domain=.doorkeeper.jp; path=/; expires=Tue, 07 Apr 2037 06:24:12 -0000
+Set-Cookie: usdksc=VWdEY1pSVHArNTJ5ZUdQblczMEhhZ2JLZndOY21mVWpCRU1QdFZiOHhzVnJ0clQ5WXRKZjZCSmloT1dPVVJ0dm5JZXhDd2dTWVRUUmRiTC90c1FCWTBVckFEUkJ1bGJGSUw4L2N0RzV6V1BMbWlTV05reFRZVURFYTBmQXFIYStSLzVCTmJKSjdJV3hNeWN5VkpIZjl6bDlMbHZvM0UwQk1UOE8xeEVoVW04PS0tSWx4NFEzQWo5ampDdnhMRTluMzVVZz09--c54aad61d80763ce571ddb4c393b9fafb3819093; domain=.doorkeeper.jp; path=/; secure; HttpOnly
+Set-Cookie: remember_user_token=; domain=.doorkeeper.jp; path=/; max-age=0; expires=Thu, 01 Jan 1970 00:00:00 -0000; secure
+X-Content-Type-Options: nosniff
+X-Frame-Options: SAMEORIGIN
+X-Request-Id: 0be6e1bf-cf8a-432f-8fe1-83d39877130a
+X-Runtime: 0.027775
+X-XSS-Protection: 1; mode=block
+Content-Length: 92
+Connection: Close
+
+<html><body>You are being <a href="https://www.doorkeeper.jp/">redirected</a>.</body></html>

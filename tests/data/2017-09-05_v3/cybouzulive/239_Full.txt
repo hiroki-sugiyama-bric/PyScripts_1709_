@@ -1,0 +1,376 @@
+GET https://cybozulive.com/mpConfiguration/account/passwordModify HTTP/1.1
+Host: cybozulive.com
+User-Agent: Mozilla/5.0 (Windows NT 6.1; WOW64; rv:51.0) Gecko/20100101 Firefox/51.0
+Accept: text/html,application/xhtml+xml,application/xml;q=0.9,*/*;q=0.8
+Accept-Language: ja,en-US;q=0.7,en;q=0.3
+Referer: https://cybozulive.com/mpConfiguration/account/view
+Cookie: __ctc=0oDq2liqccNNXhKjCeuYAg==; __utma=224468744.859744565.1487565255.1487657870.1487909616.4; __utmz=224468744.1487909616.4.4.utmcsr=google|utmccn=(organic)|utmcmd=organic|utmctr=(not%20provided); _ga=GA1.2.859744565.1487565255; __utma=1.859744565.1487565255.1487565260.1487909691.2; __utmz=1.1487565260.1.1.utmcsr=(direct)|utmccn=(direct)|utmcmd=(none); JSESSIONID=D8A129345D6932129683B3EB8194B97A; __utmb=224468744.3.10.1487909616; __utmc=224468744; __utmb=1.2.10.1487909691; __utmc=1
+Connection: close
+Upgrade-Insecure-Requests: 1
+
+
+HTTP/1.1 200 OK
+Server: nginx
+Date: Fri, 24 Feb 2017 04:41:12 GMT
+Content-Type: text/html;charset=UTF-8
+Transfer-Encoding: chunked
+Connection: close
+Vary: Accept-Encoding
+Cache-Control: private
+X-Cybozu-Status-Code: 200
+X-Frame-Options: SAMEORIGIN
+Strict-Transport-Security: max-age=315360000; includeSubDomains; preload;
+X-UA-Compatible: IE=Edge
+X-Content-Type-Options: nosniff
+X-XSS-Protection: 1; mode=block
+
+2234
+
+
+
+
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+<html xmlns="http://www.w3.org/1999/xhtml">
+<head>
+<meta http-equiv="content-type" content="text/html; charset=utf-8" />
+<meta http-equiv="content-style-type"  content="text/css" />
+<meta http-equiv="content-script-type" content="text/javascript" />
+<meta http-equiv="X-UA-Compatible" content="IE=edge" />
+<meta name="keywords" content="無料,グループウェア,プロジェクト,クラウド,PTA,イベント運営" />
+<meta name="description" content="サイボウズLiveは、グループチャットや掲示板、ファイル共有など、チーム運営に必要な機能がそろった「チームのためのグループウェア」です。すべて無料で利用できます。PTA、自治会、おやじの会、NPO、イベント運営、企業間プロジェクトなど、様々なシーンで利用できます。" />
+<meta http-equiv="Imagetoolbar" content="no" />
+
+<meta property="og:site_name" content="サイボウズLive" />
+<meta property="og:type" content="article" />
+<meta property="og:title" content="プロジェクトは情報共有で成功する : 無料コラボレーションツール サイボウズLive" />
+<meta property="og:image" content="https://cybozulive.com/static/11417123b1/images/og_image.png" />
+<meta property="og:description" content="サイボウズLiveは、グループチャットや掲示板、ファイル共有など、チーム運営に必要な機能がそろった「チームのためのグループウェア」です。すべて無料で利用できます。PTA、自治会、おやじの会、NPO、イベント運営、企業間プロジェクトなど、様々なシーンで利用できます。" />
+<meta property="og:url" content="https://cybozulive.com" />
+
+<link rel="stylesheet" type="text/css" href="https://cybozulive.com/static/11417123b1/css/common/base.css" media="screen" />
+<link rel="stylesheet" type="text/css" href="https://cybozulive.com/static/11417123b1/css/common/common.css" media="screen" />
+<link rel="stylesheet" type="text/css" href="https://cybozulive.com/static/11417123b1/css/common/lightbox.css" media="screen" />
+<link rel="stylesheet" type="text/css" href="https://cybozulive.com/static/11417123b1/css/common/colorbox.css" media="screen" />
+<link rel="stylesheet" type="text/css" href="https://cybozulive.com/static/11417123b1/css/error.css" media="screen" />
+<link rel="stylesheet" type="text/css" href="https://cybozulive.com/static/11417123b1/css/syntaxHighlighter/shCore.css" media="screen" />
+<link rel="stylesheet" type="text/css" href="https://cybozulive.com/static/11417123b1/css/syntaxHighlighter/shThemeDefault.css" media="screen" />
+<link rel="stylesheet" type="text/css" href="https://cybozulive.com/static/11417123b1/css/common/print.css" media="print" />
+<link rel="stylesheet" type="text/css" href="https://cybozulive.com/static/11417123b1/css/newCss/design/standard.css" media="screen" />
+
+            <link rel="stylesheet" type="text/css" href="https://cybozulive.com/static/11417123b1/css/application/mpConfiguration.css" media="screen,print" />
+    <link rel="stylesheet" type="text/css" href="https://cybozulive.com/static/11417123b1/css/jquery.qtip.css" media="screen" />
+<link rel="stylesheet" type="text/css" href="https://cybozulive.com/static/11417123b1/css/error.css" media="screen" />
+
+<link rel="start" href="/" title="home" />
+<link rel="apple-touch-icon" href="https://cybozulive.com/static/11417123b1/images/iphone/apple-touch-icon.png" />
+
+                                <title>パスワードの変更 - サイボウズLive</title>
+<link rel="shortcut icon" href="https://cybozulive.com/static/11417123b1/images/favicon.ico" /> 
+
+<script type="text/javascript">
+<!--
+var CbAries = window.CbAries || new Object();
+if( ! CbAries.Global )
+{
+    CbAries.Global = new Object;
+}
+
+CbAries.Global.cybozuStatus = 200;
+CbAries.Global.lastAccessDate = '';
+
+CbAries.Global.setStatic = function( path, param ) {
+    var result = 'https://cybozulive.com/static/11417123b1' + path + '';
+
+    if( typeof param !== "undefined" ) {
+        var match= new RegExp( "\\?" );
+        if( ''.match( match ) ) {
+            result += '&' + param;
+        } else {
+            result += '?' + param;
+        }
+    }
+
+    return result;
+};
+CbAries.Global.setRelative = function( path, param ) {
+    var result = '' + path + '';
+
+    if( typeof param !== "undefined" ) {
+        var match= new RegExp( "\\?" );
+        if( ''.match( match ) ) {
+            result += '&' + param;
+        } else {
+            result += '?' + param;
+        }
+    }
+
+    var match= new RegExp( "\\?" );
+    if( result.match( match ) ) {
+        result += '&dummy=' + new Date().getTime();
+    }
+    else {
+        result += '?dummy=' + new Date().getTime();
+    }
+
+    return result;
+};
+CbAries.Global.setAbsolute = function( path, param ) {
+    var result = 'https://cybozulive.com' + path + '';
+
+    if( typeof param !== "undefined" ) {
+        var match= new RegExp( "\\?" );
+        if( ''.match( match ) ) {
+            result += '&' + param;
+        } else {
+            result += '?' + param;
+        }
+    }
+
+    result = CbAries.Global.addDummyParam( result );
+
+    return result;
+};
+CbAries.Global.setPortalRelative = function( path, param ) {
+    var result = '' + path + '';
+
+    if( typeof param !== "undefined" ) {
+        var match= new RegExp( "\\?" );
+        if( ''.match( match ) ) {
+            result += '&' + param;
+        } else {
+            result += '?' + param;
+        }
+    }
+
+    result = CbAries.Global.addDummyParam( result );
+
+    return result;
+};
+CbAries.Global.addDummyParam = function( url )
+{
+    if( !url )
+    {
+        return url;
+    }
+    var match= new RegExp( "\\?" );
+    if( url.match( match ) ) {
+        url += '&dummy=' + new Date().getTime();
+    }
+    else {
+        url += '?dummy=' + new Date().getTime();
+    }
+    return url;
+};
+CbAries.Global.isGw = false;
+CbAries.Global.inline = true;
+  CbAries.Global.newCss = false;
+-->
+</script>
+
+
+</head>
+<body class="mypage mpConfig FIREFOX FIREFOX_51 ja "><div class="globalNavi" data-interval="60">
+
+<table class="globalNavi__table">
+<tr>
+<th class="globalNavi__logo">
+    <a href="/">
+        <img src="https://cybozulive.com/static/11417123b1/images/newCss/globalNavi/brand-logo.png" alt="" />
+    </a>
+</th>
+<td class="globalNavi__menu globalNavi__menu--group">
+    <a href="javascript:void(0);" class="globalNavi__link globalNavi__link--menu globalNavi__link--groupware iconLink globalNavi__link--unselected" data-url="https://cybozulive.com/common/globalNavi/groupMenuAjax" data-type="group">
+        <img src="https://cybozulive.com/static/11417123b1/images/newCss/globalNavi/icon-group.png" alt="" class="globalNavi__icon" />
+        <span class="globalNavi__label">グループ</span>
+        <span>
+            <img src="https://cybozulive.com/static/11417123b1/images/newCss/globalNavi/sort-down.png" alt="メニューを開く" class="globalNavi__arrow" />
+        </span>
+    </a>
+</td>
+<td class="globalNavi__menu">
+    <a href="/mpSchedule/calendarSwitch?ref=header" class="globalNavi__link globalNavi__link--menu globalNavi__link--mpSchedule iconLink globalNavi__link--unselected">
+        <img src="https://cybozulive.com/static/11417123b1/images/newCss/globalNavi/icon-calendar.png" alt="" class="globalNavi__icon" />
+        <span class="globalNavi__label">マイカレンダー</span>
+    </a>
+</td>
+<td class="globalNavi__menu">
+    <a href="/mpChat/list?ref=header" class="globalNavi__link globalNavi__link--menu globalNavi__link--mpChat iconLink globalNavi__link--unselected">
+        <img src="https://cybozulive.com/static/11417123b1/images/newCss/globalNavi/icon-chat.png" alt="" class="globalNavi__icon" />
+        <span class="globalNavi__label">チャット</span>
+    </a>
+</td>
+<td class="globalNavi__menu">
+    <a href="javascript:void(0);" class="globalNavi__link globalNavi__link--account globalNavi__link--menu iconLink globalNavi__link--selected" data-url="https://cybozulive.com/common/globalNavi/accountMenuAjax" data-type="account">
+        <img src="https://cybozulive.com/static/11417123b1/images/newCss/globalNavi/icon-user.png" alt="" class="globalNavi__icon" />
+        <span class="globalNavi__label">アカウント</span>
+        <span>
+            <img src="https://cybozulive.com/static/11417123b1/images/newCss/globalNavi/sort-down.png" alt="メニューを開く" class="globalNavi__arrow" />
+        </span>
+    </a>
+</td>
+<td class="globalNavi__menu--blank"></td>
+<td class="globalNavi__menu--notification">
+    <a href="javascript:void(0);" class="globalNavi__link globalNavi__link--list
+1af3
+ globalNavi__link--update" title="新着情報" data-url="https://cybozulive.com/common/globalNavi/updateListAjax" data-type="update">
+        <span class="unreadMark unreadMark--confirmed" style="display: none;">0</span>
+        <img src="https://cybozulive.com/static/11417123b1/images/newCss/globalNavi/icon-bell.png" alt="新着情報" />
+    </a>
+</td>
+<td class="globalNavi__menu--notification">
+    <a href="javascript:void(0);" class="globalNavi__link globalNavi__link--list globalNavi__link--good" title="いいね！" data-url="https://cybozulive.com/common/globalNavi/goodListAjax" data-type="good">
+        <span class="unreadMark" style="display: none;">0</span>
+        <img src="https://cybozulive.com/static/11417123b1/images/newCss/globalNavi/icon-good.png" alt="いいね！" />
+    </a>
+</td>
+<td class="globalNavi__menu--notification">
+    <a href="javascript:void(0);" class="globalNavi__link globalNavi__link--list globalNavi__link--star" title="お気に入り" data-url="https://cybozulive.com/common/globalNavi/starListAjax" data-type="star">
+        <span class="unreadMark unreadMark--confirmed" style="display: none;">0</span>
+        <img src="https://cybozulive.com/static/11417123b1/images/newCss/globalNavi/icon-star.png" alt="お気に入り" />
+    </a>
+</td>
+</tr>
+</table>
+</div>
+<div id="body">
+
+<div class="breadcrumb">
+<ul>
+<li><a href="/"><span>ホーム</span></a></li><li><a href="/mpConfiguration/account/view"><span>アカウント情報</span></a></li><li class='active'>パスワードの変更</li>
+</ul>
+</div>
+
+
+<div class="menuArea">
+<div class="menuAreaWrapper selfclear">
+<div class="bodyArea">
+
+<div class="menuFrame">
+<div class="menuFrameInner">
+<div class="menuTitle">
+    <span class="titleText">個人設定</span>
+</div>
+<ul>
+<li class="list active">
+    <a href="/mpConfiguration/account/view">アカウント情報</a>
+</li>
+<li class="list ">
+    <a href="/mpConfiguration/language/view">言語</a>
+</li>
+<li class="list ">
+    <a href="/mpConfiguration/twitter/view">Twitter連携</a>
+</li>
+<li class="list ">
+    <a href="/mpConfiguration/facebook/view">Facebook連携</a>
+</li>
+<li class="list ">
+    <a href="/mpConfiguration/profile/view">プロフィール</a>
+</li>
+<li class="list ">
+    <a href="/mpConfiguration/privacy/view">プライバシー</a>
+</li>
+<li class="list ">
+    <a href="/mpConfiguration/group/list">参加グループ</a>
+</li>
+<li class="list ">
+    <a href="/mpConfiguration/display/view">表示</a>
+</li>
+<li class="list ">
+    <a href="/mpConfiguration/mailNotification/view">新着メール通知</a>
+</li>
+<li class="list ">
+    <a href="/mpConfiguration/mailEvent/view">予定メール通知</a>
+</li>
+<li class="list ">
+    <a href="/mpConfiguration/eventPublication/list">予定公開</a>
+</li>
+<li class="list ">
+    <a href="/mpConfiguration/information/view">お知らせ</a>
+</li>
+<li class="list ">
+    <a href="/mpConfiguration/application/list">連携アプリケーション</a>
+</li>
+</ul></div>
+</div>
+<div class="bodyAreaWrapper">
+<div class="contentsArea">
+<div class="contentsFrame">
+<form method="post" action="/mpConfiguration/account/passwordModify">
+<div class="contentsTitle">
+<h2>パスワードの変更</h2>
+</div>
+
+<p class="message">
+    ログインパスワードを変更します。<br />
+    パスワードを変更すると、自動ログイン設定が破棄されます。
+</p>
+
+<div class="displayParts">
+<h3>登録されているメールアドレス</h3>
+<div>
+    hitakahashi88888@gmail.com
+</div>
+</div>
+
+<div class="fieldParts">
+<h3>現在のパスワード<span class="required">[必須]</span></h3>
+<div class="currentPassword">
+    <input type="password" name="currentPassword" value="" size="30" maxlength="32" class="submitStop" autocomplete="off" />
+        </div>
+
+<h3>新しいパスワード<span class="required">[必須]</span></h3>
+<div class="password">
+    <input type="password" name="password" value="" size="30" maxlength="32" class="submitStop" autocomplete="off" />
+            <p class="guide">6～32文字で入力してください。</p>
+</div>
+
+<h3>新しいパスワード (確認用)<span class="required">[必須]</span></h3>
+<div class="passwordConfirm">
+    <input type="password" name="passwordConfirm" value=""  size="30" maxlength="32" class="submitStop" autocomplete="off" />
+        </div>
+</div>
+
+<div class="operationParts">
+    <div class="functionButton choice">
+        <input type="submit" name="czJzdHJ1dHMuQkFTRTY0X0ZPUk1BVDpzMnN0cnV0cy5BQ1RJT05fRVhQUkVTU0lPTj0lNDAlN0JtcENvbmZpZ3VyYXRpb25fYWNjb3VudF9wYXNzd29yZE1vZGlmeUFjdGlvbi5kb1NhdmUlN0Q=" value="変更する" class="submit undblclick" />
+        <input type="submit" name="czJzdHJ1dHMuQkFTRTY0X0ZPUk1BVDpzMnN0cnV0cy5BQ1RJT05fRVhQUkVTU0lPTj0lNDAlN0JtcENvbmZpZ3VyYXRpb25fYWNjb3VudF9wYXNzd29yZE1vZGlmeUFjdGlvbi5kb0NhbmNlbCU3RCZzMnN0cnV0cy5DQU5DRUw9" value="キャンセルする" class="cancel back undblclick" />
+    </div>
+            <input type="hidden" name="org.apache.struts.taglib.html.TOKEN" value="2a5865c6-d3c6-4258-aab1-bd004c9f7456" id="cba_commonHiddenToken" />
+</div>
+
+</form>
+</div>
+</div>
+</div>
+
+</div>
+<div class="sideArea">
+<div class="contentsFrame">
+<div class="productLink">
+<dl class="linkList">
+    <dt><a href="https://www.cybozu.com/jp/" class="iconLink" target="_blank"><img src="https://cybozulive.com/static/11417123b1/images/productIcon/dotcom16.png" class="icon" alt="cybozu.com" /><span>cybozu.com</span></a></dt>
+<dd>月500円から使えるサイボウズのビジネスクラウド</dd>
+<dt><a href="https://kintone.cybozu.com/jp/" class="iconLink" target="_blank"><img src="https://cybozulive.com/static/11417123b1/images/productIcon/kintone16.gif" class="icon" alt="kintone" /><span>kintone</span></a></dt>
+<dd>ビジネスアプリケーションが10分で作れるファストシステム</dd>
+<dt><a href="http://products.cybozu.co.jp/office/" class="iconLink" target="_blank"><img src="https://cybozulive.com/static/11417123b1/images/productIcon/office16.gif" class="icon" alt="サイボウズ Office" /><span>サイボウズ Office</span></a></dt>
+<dd>中小企業向けシェアNO1グループウェア</dd>
+<dt><a href="https://garoon.cybozu.co.jp/" class="iconLink" target="_blank"><img src="https://cybozulive.com/static/11417123b1/images/productIcon/garoon16.gif" class="icon" alt="サイボウズ ガルーン" /><span>サイボウズ ガルーン</span></a></dt>
+<dd>チームコラボレーションを実現するエンタープライズグループウェア</dd>
+</dl>
+</div>
+</div>
+</div>
+
+</div>
+</div>
+
+</div>    <script>
+        var require = {
+            baseUrl: "https://cybozulive.com/static/11417123b1/js/src"
+        };
+    </script>
+            <script src="https://cybozulive.com/static/11417123b1/js/require-jquery.js" data-main="../built/defaultMain" type="text/javascript"></script>
+</body>
+</html>
+0
+

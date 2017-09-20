@@ -1,0 +1,739 @@
+GET https://myp.golfdigest.co.jp/myp/onep_reservestate.aspx HTTP/1.1
+Host: myp.golfdigest.co.jp
+User-Agent: Mozilla/5.0 (Windows NT 6.1; WOW64; rv:52.0) Gecko/20100101 Firefox/52.0
+Accept: text/html,application/xhtml+xml,application/xml;q=0.9,*/*;q=0.8
+Accept-Language: ja,en-US;q=0.7,en;q=0.3
+Accept-Encoding: gzip, deflate, br
+Referer: https://myp.golfdigest.co.jp/myp/reservestate.aspx
+Cookie: sctvaspcookie_cd=20170405115549734xJSHjtjG8bIAaCJ6Z; go.itv=1; MkiTracUUID=3314e628bf6f461cae4f76ce0932e85a; _rt.uid=233E91E7569581D8999481F04E14BC1A95E92AEF36A498DFFD8A40C124B6DA52; _rt.xd=3bf3fadd; _rt.cs=2; __utma=110123411.13208537.1491360535.1491360535.1491363927.2; __utmc=110123411; __utmz=110123411.1491360535.1.1.utmcsr=(direct)|utmccn=(direct)|utmcmd=(none); MkiTracMBID=233E91E7569581D8999481F04E14BC1A95E92AEF36A498DFFD8A40C124B6DA52; TS0133a40f=01250487715d9f7cf70318261fb491f2a91b25655b413aa2cae0934319af0e70627e1fba17c2936930c1c59425bda0ba4095b56771; ASP.NET_SessionId=4g0xuldo0sfwik1kglvmzw0k; TS016d09f0=01250487718b4477797809ff4a8f58ce343ee89094369fbd88a517dbda5dd1cf437b2b142e641e1a6dc01fa4258fafed94317101e5; _ga=GA1.4.13208537.1491360535; NavicastApi=20170405.115550.34378200.87809; __ulfpc=201704051155505241; __gads=ID=fac33f16dfb9dace:T=1491361138:S=ALNI_MZ76KC_SXVHwzkwz8Nt2tw7Ps44ig; ak_bmsc=754B941C047F351EE58F03ABAD690167769BE68A7E3200005368E458BFA3C12A~plFXBKXCpXmcxRJf90zVS+D52EC7NMRafZnHjrotNCJ0ncUt4JPDF2rCUhoawH/ris54pTE/1gsh4XkReo1IVBwZstIvUfagIliHcXAuhNI0RB8M6U4cl8ujWXpkrK2dPHy/y7gcsJk4mhGr6MVR2CiYWq+mA3nJNJqKIPFZFp+xIqtTIrU8PPIZwUVgKt/LkEH6K6iMcmbgRlfgjeftcOHA==; __utmb=110123411.108.10.1491363927; krt.vis=1217107314_1491363931323_662509558; krt.s=date%3A1491364289%3Bpv%3A18%3Btime%3A5167; _ga=GA1.3.13208537.1491360535; mmsn=b7901be1b636f83f314f4846611740f3; mmsns=eec318d695f73335375e582e3f1a3e80; NavicastApi.su=20170405.132542.00568400.85250; optimizelyEndUserId=oeu1491368449236r0.4412442998135777; optimizelySegments=%7B%223194110549%22%3A%22false%22%2C%223212510208%22%3A%22direct%22%2C%223231260170%22%3A%22ff%22%2C%223859553265%22%3A%22true%22%7D; optimizelyBuckets=%7B%7D; _gat=1; _gat_newTracker1=1; __utmt_AllTracker=1; _td=8cf99a8f-7dbf-4d1b-a9e7-a31cf84eb3b4; __utmli=mm_mygdo_contents
+Connection: keep-alive
+Upgrade-Insecure-Requests: 1
+
+
+HTTP/1.1 200 OK
+Cache-Control: private
+Content-Type: text/html; charset=utf-8
+X-AspNet-Version: 4.0.30319
+X-Powered-By: ASP.NET
+Date: Wed, 05 Apr 2017 05:18:13 GMT
+Content-Length: 31397
+
+
+
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+
+<html xmlns="http://www.w3.org/1999/xhtml">
+<head><meta http-equiv="Content-Type" content="text/html; charset=utf-8" /><meta http-equiv="Content-Script-Type" content="text/javascript" /><meta http-equiv="Content-Style-Type" content="text/css" /><title>
+	GDO | 予約状況一覧 | MY GDO
+</title><meta name="keywords" /><meta name="description" />
+    <link rel="shortcut icon" href="https://myp.golfdigest.co.jp/resource/images/favicon.ico" type="image/vnd.microsoft.icon" />
+    <link type="text/css" rel="stylesheet" href="https://myp.golfdigest.co.jp/resource/css/import_resource.css" media="all" />
+    <link type="text/css" rel="stylesheet" href="https://myp.golfdigest.co.jp/resource/css/root.css" media="all" />
+    <link type="text/css" rel="stylesheet" href="https://myp.golfdigest.co.jp/resource/css/mk.css" media="all" />
+    <link type="text/css" rel="stylesheet" href="https://myp.golfdigest.co.jp/resource/css/addition.css" media="all" />
+    <link type="text/css" rel="stylesheet" href="https://myp.golfdigest.co.jp/resource/css/hotprice_lightbox.css" media="all" />
+    <link type="text/css" rel="stylesheet" href="https://myp.golfdigest.co.jp/resource/css/new.css" media="all" />
+    <script type="text/javascript" src="https://myp.golfdigest.co.jp/resource/scripts/jquery.js"></script>
+    <script type="text/javascript" src="https://myp.golfdigest.co.jp/resource/scripts/common_mm.js"></script>
+    <script type="text/javascript" src="https://myp.golfdigest.co.jp/resource/scripts/rollover.js""></script>
+    <script type="text/javascript" src="https://myp.golfdigest.co.jp/resource/scripts/jquery.leanModal.min.js""></script>
+    
+    <!-- レコメンド用JS ここから -->
+    <script type="text/javascript" src="//js.rtoaster.jp/Rtoaster.js"></script>
+    <script type="text/javascript">
+      Rtoaster.init("RTA-d72d-400f90f91715",Rtoaster.Cookie.get("MkiTracMBID"));
+      Rtoaster.track();
+    </script>
+    
+    <script language="javascript" type="text/javascript">
+
+    window.onload = window_Load;
+        
+    function window_Load() {
+      var i;
+      
+      // 全リンクのクリックイベントを submittableObject_Click で取得する。
+      for (i = 0; i < document.links.length; i ++) {
+        var item = document.links[i]
+        Object.Aspect.around(item, "onclick", checkLoading);
+      }
+      
+      // 全ボタンのクリックイベントを submittableObject_Click で取得する。
+      if (document.forms[0] != undefined)
+      {
+          for (i = 0; i < document.forms[0].elements.length; i ++) {
+            var item = document.forms[0].elements[i]
+            if (item.type == "button" ||
+              item.type == "submit" ||
+              item.type == "reset") {
+              Object.Aspect.around(item, "onclick", checkLoading);
+              
+            }
+          }
+      }
+      
+      return true;
+    }
+
+    //2度押し抑止アスペクト
+    var checkLoading = function(invocation) {
+      if (isDocumentLoading()) {
+        
+        return false;
+      }
+      
+      return invocation.proceed();
+    }
+
+    //画面描画が終わったかどうか
+    function isDocumentLoading() {
+      return (document.readyState != null &&
+              document.readyState != "complete");
+    }
+
+    //アスペクト用
+    Object.Aspect = {
+      _around: function(target, methodName, aspect) {
+        var method = target[methodName];
+        target[methodName] = function() {
+          var invocation = {
+            "target" : this,
+            "method" : method,
+            "methodName" : methodName,
+            "arguments" : arguments,
+            "proceed" : function() {
+              if (!method) {
+                return true;
+              }
+              return method.apply(target, this.arguments);
+            }
+          };
+          return aspect.apply(null, [invocation]);
+        };
+      },
+      around: function(target, methodName, aspect) {
+        this._around(target, methodName, aspect);
+      }
+    }
+
+    function SetDesignView(view_flag) 
+    {
+        var strRedirect = 'myp_spview_redirect=' + view_flag + ';';
+        var dt = new Date();
+        dt.setDate(dt.getDate() + 1);
+        strRedirect += 'expires=' + dt.toGMTString() + ';'; 
+        document.cookie = strRedirect;
+        location.href = 'mygdotop.aspx';
+        return false;
+    }
+
+    </script>
+
+    
+    <!-- modal -->
+    <script type="text/javascript">
+	$(function() {
+	$('a[rel*=leanModal]').leanModal({ top : 45, closeButton: ".modal_close" });		
+	});
+    </script>
+
+    
+    
+    <script>(function(w,d,s,l,i){w[l]=w[l]||[];w[l].push({'gtm.start':
+    new Date().getTime(),event:'gtm.js'});var f=d.getElementsByTagName(s)[0],
+    j=d.createElement(s),dl=l!='dataLayer'?'&l='+l:'';j.async=true;j.src=
+    'https://www.googletagmanager.com/gtm.js?id='+i+dl;f.parentNode.insertBefore(j,f);
+    })(window,document,'script','dataLayer','GTM-NGCP4J');</script>
+
+    <script type="text/javascript" src= "//www.golfdigest.co.jp/resource/scripts/setDataLayerDeliveryFlag.js?02"></script>
+    <script type="text/javascript">
+    	setDataLayerDeliveryFlag ('myp');
+    </script>
+    
+</head>
+<body>		
+    
+    <noscript><iframe src="https://www.googletagmanager.com/ns.html?id=GTM-NGCP4J"
+    height="0" width="0" style="display:none;visibility:hidden"></iframe></noscript>
+    
+    <a name="ptop" id="ptop"></a>
+    <!-- Header -->
+    <div id="res_header">
+<div id="res_globalnavigation">
+<ul id="res_gnavi_new">
+<li class="nav01"><a href="http://www.golfdigest.co.jp/?car=top2_navi">ホーム</a></li>
+<li class="nav02"><a href="http://shop.golfdigest.co.jp/?car=top2_navi">ショップ</a></li>
+<li class="nav10"><a href="http://shop.golfdigest.co.jp/used/?car=top2_navi">中古クラブ</a></li>
+<li class="nav03"><a href="http://reserve.golfdigest.co.jp/?car=top2_navi">ゴルフ場予約</a></li>
+<li class="nav04"><a href="http://news.golfdigest.co.jp/?car=top2_navi">ニュース</a></li>
+<li class="nav05"><a href="http://lesson.golfdigest.co.jp/gear/?car=top2_navi">ギア情報</a></li>
+<li class="nav06"><a href="http://www.golfdigest.co.jp/event/?car=top2_navi">競技・イベント</a></li>
+<li class="nav07"><a href="http://lesson.golfdigest.co.jp/lesson/?car=top2_navi">レッスン・練習</a></li>
+<li class="nav08"><a href="http://lesson.golfdigest.co.jp/score/opening/?car=top2_navi">スコア</a></li>
+<li class="nav09"><a href="https://myp.golfdigest.co.jp/?car=top2_navi">MY GDO</a></li></ul>
+<!-- /#res_globalnavigation --></div>
+
+<div id="res_headbody" class="typeA mygdo">
+<div id="res_headbodyL">
+
+<div id="res_ci">
+<a href="http://www.golfdigest.co.jp/special/gdo15th/?car=top_15th_myp"><img src="https://myp.golfdigest.co.jp/resource/images/headfoot/header/ci_small.gif" alt="GOLF DIGEST ONLINE ゴルフダイジェスト・オンライン" width="84" height="31" /></a>
+</div>
+<div id="res_serviceName">
+<img src="https://myp.golfdigest.co.jp/resource/images/headfoot/header/txt_catename_mygdo.gif" alt="MY GDO" width="94" height="31" />
+</div>
+</div>
+
+<div id="res_headbodyR">
+<div id="res_welcome">
+<p>ようこそ<span id="res_username">微微太郎</span>さん</p>
+<ul>
+<li class="points">
+<ul>
+<li>保有ポイント：<span id="res_possession_point">0pt</span></li>
+<li>ショップ割引レベル：<span id="res_discountlevel">0</span></li>
+<li>予約レベル：<span id="res_gslevel">0</span></li>
+<li><a href="https://lesson.golfdigest.co.jp/score/default.asp?car=myp_score">GDOハンディ</a>：<span id="res_gdohandi">未登録</span></li>
+</ul>
+</li>
+<li class="logout"><a href="https://usr.golfdigest.co.jp/pg/frlogout.php">ログアウト</a></li>
+</ul>
+</div>
+</div><!-- /#res_headbody -->
+</div><!-- /#res_header -->
+</div>
+
+    <div id="str_container">
+        <div id="mm_mygdo_container" class="clearfix">
+            <!-- サイトマップパス -->
+            <p id='topicPath'><a href='http://www.golfdigest.co.jp/'>ホーム</a><span>&gt;</span><a href='https://myp.golfdigest.co.jp/myp/mygdotop.aspx'>MY GDO</a><span>&gt;</span><strong>予約状況一覧</strong></p>
+            
+            
+            
+            
+            <div id="information_area_kyugyo"></div>
+            <div id="information_area_keikaku"></div>
+            <div id="information_area_hanyo"></div>
+            
+            <!-- コンテンツ -->
+            
+
+    <div id="mm_mygdo_contents">
+        <div class="pageTitle">
+            <h2>
+                予約状況一覧
+            </h2>
+        </div>
+        
+        <!-- 集計中 -->
+        <!--<p><img id="current_level_img" src="/resource/images/myp/pc/reserve_count.gif" alt="current_level_img" /></p>-->
+        
+        <div id="result_level">
+	        <div class="thisyear">
+                <h2>
+                    現在の予約レベル&emsp;:&emsp;0
+                </h2>
+                <p>
+                    <a href="http://reserve.golfdigest.co.jp/point/royalprogram/" class="link_icn">ポイントプログラムの詳細はこちら</a>
+                </p>
+            </div>
+            <div class="nextyear">
+    	        <ol>
+                <li>2017年の累計プレー回数&emsp;：<span class="txtbold">&emsp;0&ensp;回</span><span class="txtsmall"></span></li>
+                
+                <li>現時点での2018年予約レベル&emsp;：<span class="txtbold">&emsp;0</span></li>
+                
+                </ol>
+                
+    	        <p>2018年の予約レベル1まで、あと<em class="pink">&ensp;2&ensp;回</em></p>
+    	        
+            </div>
+        </div>
+        
+
+        <p class="mb20">※プレー回数はプレー翌月中旬に更新されます。</p>
+        <p class="mb20">※予約レベルは毎年1月中旬に更新されます。</p>
+		<div class="clearfix mb5">
+			<div class="form_fr style-tab"><a href="https://myp.golfdigest.co.jp/myp/reservestate.aspx">通常予約状況一覧</a>　｜　<span>１人予約状況一覧</span></div>
+		</div>
+
+        
+            <div class="clearfix mt20">
+                <p class="txt_status_result form_fl">
+                    現在予約は承っておりません。
+                </p>
+                <p class="form_fr">
+                    <a href="https://myp.golfdigest.co.jp/myp/onep_reserveresults.aspx" class="form_link">予約実績一覧はこちら</a>
+                </p>
+            </div>
+            <p class="mb20">
+                <a href="http://reserve.golfdigest.co.jp/cp_list/" class="link_icn">実施中のキャンペーンはこちら</a>
+            </p>
+            
+        
+        
+        <ul class="form_comments_list mt20">
+            <li>
+                ※予約に関する手続き方法は、<a href="http://faq.golfdigest.co.jp/faq_list.html?page=1&category=230000">ヘルプ（よくあるご質問）</a>をご確認ください。</li>
+            <li>
+                ※ご予約内容の詳細やゴルフ場の連絡先などは、プレー日をクリックした画面にてご確認ください。</li>
+            <li>
+                ※お客様のお申し込み方法やご予約のゴルフ場によっては、「お問い合わせ」ボタンが表示されない場合がございます。ゴルフ場へは直接お電話にてご連絡ください。</li>
+        </ul>
+    </div><!-- /#mm_mygdo_contents -->
+    <form method="post" action="./onep_reservestate.aspx" id="Form1">
+<div class="aspNetHidden">
+<input type="hidden" name="__VIEWSTATE" id="__VIEWSTATE" value="/wEPDwUKMTM2MjY1NjA4NA9kFgJmD2QWAgIBD2QWBAIBD2QWAgICDxYCHgdWaXNpYmxlZ2QCAw8WAh8AaGRkWUTOYFerWtIEki29y6hw2gEI1zk=" />
+</div>
+
+<div class="aspNetHidden">
+
+	<input type="hidden" name="__VIEWSTATEGENERATOR" id="__VIEWSTATEGENERATOR" value="263E8145" />
+</div></form>
+
+
+
+            
+            <!-- Leftメニュー -->
+            
+                <div id="mm_mygdo_left_menu">
+    <div class="lm_head_navy_B">
+        <div class="lm_head_navy_T">
+            <div>
+                サービスメニュー
+            </div>
+        </div>
+    </div>
+    <div id="mm_mygdo_lm_wrap">
+        <div id="mm_mygdo_lm_wrap_inner">
+            <div class="mm_mygdo_lm_wrap_inner_head">
+                <span>
+                    ゴルフショップ
+                </span>
+            </div>
+            <ul class="mm_mygdo_lm_ul clearfix">
+                <li class="form_fl">
+                    <a href="https://myp.golfdigest.co.jp/myp/orderlist.aspx">
+                        注文履歴
+                    </a>
+                </li>
+                <li class="form_fr">
+                    <a href="https://myp.golfdigest.co.jp/myp/buylist.aspx">
+                        買取履歴
+                    </a>
+                </li>
+                <li class="form_fl">
+                    <a href="https://myp.golfdigest.co.jp/myp/couponlist.aspx">
+                        いま使えるクーポン
+                    </a>
+                </li>
+                <li class="form_fr">
+                    <a href="http://shop.golfdigest.co.jp/gdogolfshop/favorite/CFaViewFavorite.jsp">
+                        お気に入り
+                    </a>
+                </li>
+                <li class="form_fl">
+                    <a href="https://shop.golfdigest.co.jp/gdogolfshop/member/CMmMemberAddrEntry.jsp">
+                        お届け先住所編集
+                    </a>
+                </li>
+            </ul>
+            <div class="mm_mygdo_lm_wrap_inner_head">
+                <span>
+                    ゴルフ場予約
+                </span>
+            </div>
+            <ul class="mm_mygdo_lm_ul clearfix">
+                <li class="form_fl">
+                    <a href="https://myp.golfdigest.co.jp/myp/reservestate.aspx">
+                        予約状況
+                    </a>
+                </li>
+                <li class="form_fr">
+                    <a href="https://reserve.golfdigest.co.jp/mygdo/congplus_signup_list">
+                        スマートコンペ予約
+                    </a>
+                </li>
+                <li class="form_fl" id="line">
+                    <a href="https://myp.golfdigest.co.jp/myp/reserveresults.aspx">
+                        予約実績
+                    </a>
+                </li>
+                <li class="form_fl" id="line">
+                    <a href="https://myp.golfdigest.co.jp/myp/reservecouponlist.aspx">
+                        いま使えるクーポン
+                    </a>
+                </li>
+                <li class="form_fl" id="line">
+                    <a href="https://myp.golfdigest.co.jp/myp/hotprice.aspx">
+                        HOT PRICE購入状況
+                    </a>
+                </li>
+                <li class="form_fl">
+                    <a href="https://myp.golfdigest.co.jp/myp/favcourse.aspx">
+                        お気に入りコース
+                    </a>
+                </li>
+                <li class="form_fr">
+                    <a href="https://myp.golfdigest.co.jp/myp/favarea.aspx">
+                        お気に入りエリア
+                    </a>
+                </li>
+                <li class="form_fl" id="line">
+                    <a href="https://oc.golfdigest.co.jp/index.php/settings/mail_setting">１人予約お知らせメール設定</a>
+                </li>
+                <li class="form_fl" id="line">
+                    <a href="https://oc.golfdigest.co.jp/users/update">１人予約プロフィール設定</a>
+                </li>
+                <li class="form_fl" id="line">
+                    <a href="https://oc.golfdigest.co.jp/index.php/settings/mail_setting_empframe/">
+                        １人予約直前空き枠情報設定
+                    </a>
+                </li>
+            </ul>
+            <div class="mm_mygdo_lm_wrap_inner_head">
+                <span>
+                    メディアパック
+                </span>
+            </div>
+             <ul class="mm_mygdo_lm_ul_full clearfix">
+                <li>
+                    <a href="https://myp.golfdigest.co.jp/myp/mp_servicelist.aspx">
+                        ご利用中のサービス一覧
+                    </a>
+                </li>
+                <li>
+                    <a href="https://myp.golfdigest.co.jp/myp/mp_buylist.aspx">
+                        購入履歴
+                    </a>
+                </li>
+            </ul>
+            <div class="mm_mygdo_lm_wrap_inner_head">
+                <span>
+                    GDO ポイント
+                </span>
+            </div>
+            <ul class="mm_mygdo_lm_ul clearfix">
+                <li class="form_fl">
+                    <a href="https://usr.golfdigest.co.jp/point/list.php">
+                        ポイント履歴
+                    </a>
+                </li>
+            </ul>
+            <div class="mm_mygdo_lm_wrap_inner_head">
+                <span>
+                    ポイント交換
+                </span>
+            </div>
+            <ul class="mm_mygdo_lm_ul_full clearfix">
+                <li>
+                    <a href="https://usr.golfdigest.co.jp/point/jmb.php">
+                        JALマイレージへ移行
+                    </a>
+                </li>
+            </ul>
+            <div class="mm_mygdo_lm_wrap_inner_head">
+                <span>
+                    スコアアップ
+                </span>
+            </div>
+            <ul class="mm_mygdo_lm_ul clearfix">
+                <li class="form_fl">
+                    <a href="http://lesson.golfdigest.co.jp/score/">
+                        スコア管理
+                    </a>
+                </li>
+                <li class="form_fr">
+                    <a href="https://lesson.golfdigest.co.jp/score/club_entry.asp?mygdo">
+                        マイクラブ登録
+                    </a>
+                </li>
+            </ul>
+            <div class="mm_mygdo_lm_wrap_inner_head">
+                <span>
+                    アマチュアゴルフトーナメント
+                </span>
+            </div>
+            <ul class="mm_mygdo_lm_ul clearfix">
+                <li class="form_fl">
+                    <a href="https://api.golfdigest.co.jp/evententry/redirect.php">
+                        エントリー状況
+                    </a>
+                </li>
+            </ul>
+            <div class="mm_mygdo_lm_wrap_inner_head">
+                <span>
+                    GDO カード
+                </span>
+            </div>
+            <ul class="mm_mygdo_lm_ul_full clearfix">
+                <li>
+                    <a href="https://usr.golfdigest.co.jp/card/regist.php">
+                        お持ちのGDOカードを登録する
+                    </a>
+                </li>
+                <li>
+                    <a href="http://www.golfdigest.co.jp/card/card_course.asp">
+                        GDOカード特典つきコース
+                    </a>
+                </li>
+            </ul>
+            <div class="mm_mygdo_lm_wrap_inner_head">
+                <span>
+                    GDOアスリート
+                </span>
+            </div>
+            <ul class="mm_mygdo_lm_ul_full clearfix">
+                <li>
+                    <a href="https://reserve.golfdigest.co.jp/mygdo/athlete_buylist">
+                       GDOアスリート購入履歴
+                    </a>
+                </li>
+            </ul>
+            <div class="mm_mygdo_lm_wrap_inner_head">
+                <span>
+                    会員情報
+                </span>
+            </div>
+            <ul class="mm_mygdo_lm_ul clearfix">
+                <li class="form_fl">
+                    <a href="https://usr.golfdigest.co.jp/usr/uedit.php">
+                        会員情報変更
+                    </a>
+                </li>
+                <li class="form_fr">
+                    <a href="https://usr.golfdigest.co.jp/mypage/chgaddrinfo.php">
+                        メールアドレス変更
+                    </a>
+                </li>
+                <li class="form_fl">
+                    <a href="https://usr.golfdigest.co.jp/mailmag/dm.php">
+                        メルマガ購読・変更
+                    </a>
+                </li>
+                <li class="form_fr">
+                    <a href="https://usr.golfdigest.co.jp/mypage/quit_edit.php ">
+                        退会
+                    </a>
+                </li>
+                <li class="form_fl" id="line">
+                    <a href="https://billing.golfdigest.co.jp/v1/mygdo/cardupdate">
+                        通常使うカード情報変更
+                    </a>
+                </li>
+                <li class="form_fl" id="line">
+                    <a href="https://myp.golfdigest.co.jp/myp/answerlist.aspx">
+                        アンケート回答・キャンペーン応募履歴
+                    </a>
+                </li>
+                <li class="form_fl" id="line">
+                    <a href="https://myp.golfdigest.co.jp/myp/socialRelations.aspx">
+                        他サイトとのアカウント連携
+                    </a>
+                </li>
+                <li class="form_fl" id="line">
+                    <a href="https://reserve.golfdigest.co.jp/mygdo/friend/friend_list">
+                        ゴルフ仲間を登録・確認する
+                    </a>
+                </li>
+	                <li class="form_fl" id="line">
+	                    <a href="https://myp.golfdigest.co.jp/community/myprofile/">
+	                        プロフィール変更
+	                    </a>
+	                </li>
+	                <li class="form_fl" id="line">
+	                    <a href="https://myp.golfdigest.co.jp/community/myreview/">
+	                        自分のレビューを見る
+	                    </a>
+	                </li>
+            </ul>
+            <div class="mm_mygdo_lm_wrap_inner_head">
+                <span>
+                    ヘルプ
+                </span>
+            </div>
+            <ul class="mm_mygdo_lm_ul_full clearfix">
+                <li>
+                    <a href="http://faq.golfdigest.co.jp/faq_list.html?page=1&category=280000">
+                        MY GDOについて
+                    </a>
+                </li>
+                <li>
+                    <a href="http://faq.golfdigest.co.jp/faq_list.html?page=1&category=220000">
+                        ゴルフショップについて
+                    </a>
+                </li>
+                <li>
+                    <a href="http://faq.golfdigest.co.jp/faq_list.html?page=1&category=230000">
+                        ゴルフ場予約について
+                    </a>
+                </li>
+                <li>
+                    <a href="http://faq.golfdigest.co.jp/faq_list.html?page=1&category=210303">
+                        ポイントの失効について
+                    </a>
+                </li>
+                <li>
+                    <a href="http://faq.golfdigest.co.jp/faq_list.html?page=1&category=250000">
+                        ニュースについて
+                    </a>
+                </li>
+            </ul>
+        </div>
+    </div>
+</div>
+
+        </div>
+        <p class="moveTop">
+            <a href="#ptop">ページの先頭へ</a>
+        </p>
+    </div>
+    <!-- Footer -->
+    <div id="res_seofooter" class="res_seofooter_2016">
+
+<dl class="res_seofooter_top">
+<dt>GDOサービス一覧</dt>
+<dd>
+
+<ul>
+<li><a href="http://shop.golfdigest.co.jp/">ゴルフショップ</a></li>
+<li><a href="http://shop.golfdigest.co.jp/used/">中古クラブ</a></li>
+</ul>
+
+<ul>
+<li><a href="http://reserve.golfdigest.co.jp/">ゴルフ場予約</a></li>
+<li><a href="http://www.golfdigest.co.jp/event/">競技・イベント</a></li>
+</ul>
+
+<ul>
+<li><a href="http://news.golfdigest.co.jp/">ゴルフニュース</a></li>
+<li><a href="http://lesson.golfdigest.co.jp/gear/">ギア情報</a></li>
+</ul>
+
+<ul>
+<li><a href="http://lesson.golfdigest.co.jp/lesson/">レッスン・練習</a></li>
+<li><a href="http://lesson.golfdigest.co.jp/score/opening/">スコア</a></li>
+</ul>
+
+<ul>
+<li><a href="http://www.golfdigest.co.jp/golfstyle/">ゴルフスタイル</a></li>
+<li><a href="https://brandco.jp/gdo/" target="_blank">GDO NEXT</a></li>
+</ul>
+
+<ul>
+<li><a href="http://www.golfdigest.co.jp/sitemap/">サイトマップ</a></li>
+</ul>
+
+<ul>
+<li><a href="http://faq.golfdigest.co.jp/">ヘルプ</a></li>
+</ul>
+
+</dd>
+</dl>
+
+<dl>
+<dt>GDOおすすめサービス</dt>
+<dd>
+<ul id="res_seofooter_recommend" class="blockList">
+<li><a href="http://golftec.golfdigest.co.jp/" target="_blank">ゴルフテック</a></li>
+<li><a href="http://kidsgolf.co.jp/" target="_blank">キッズゴルフ</a></li>
+<li><a href="http://www.golfdigest.co.jp/golfgarage/" target="_blank">ゴルフガレージ</a></li>
+<li><a href="http://www.golfers-ponta.jp/" target="_blank">Golfers Ponta</a></li>
+</ul>
+</dd>
+</dl>
+</div>
+
+<div id="res_footer">
+<div id="res_footer_utilitylinks">
+<ul>
+<li><a href="http://www.golfdigest.co.jp/company/kiyaku.html">総合利用規約</a></li>
+<li><a href="http://www.golfdigest.co.jp/company/privacy.html">個人情報保護ポリシー</a></li>
+<li><a href="http://www.golfdigest.co.jp/company/kiyaku/envi.html">推奨環境について</a></li>
+<li><a href="http://faq.golfdigest.co.jp/">お問い合わせ・ヘルプ</a></li>
+<li><a href="https://usr.golfdigest.co.jp/enq/enq_form.php?qIds=WtK5xbvCavNW" target="_blank">ご意見・ご要望</a></li>
+</ul>
+</div>
+<div id="res_footer_addressmarks">
+<address>Copyright &copy; 2000-2017 Golf Digest Online Inc. All rights reserved.</address>
+</div>
+</div><!-- /#res_footer -->
+
+<!-- postload javascript -->
+<script type="text/javascript" src="https://myp.golfdigest.co.jp/resource/scripts/headfoot.js"></script>
+
+<!-- analyse code -->
+<script type="text/javascript" src="//www.golfdigest.co.jp/rtsrc/uuid.js" charset="utf-8"></script>
+<script type="text/javascript" src="//www.golfdigest.co.jp/rtsrc/set_cookie.js" charset="utf-8"></script>
+
+<script type="text/javascript" src="//www.golfdigest.co.jp/mk/galib/loader.js" charset="UTF-8"></script>
+
+<!-- User Insight PCDF Code Start : golfdigest.co.jp -->
+<script type="text/javascript">
+<!--
+var uilid  = '';
+var uigr_1   = ''; var uigr_2 = ''; var uigr_3 = ''; var uigr_4 = ''; var uigr_5 = '';
+var uigr_6   = ''; var uigr_7 = ''; var uigr_8 = ''; var uigr_9 = ''; var uigr_10 = '';
+
+// DO NOT ALTER BELOW THIS LINE
+// WITHOUT F.P.C.
+
+var uiinit   = uiinit || Math.floor(Math.random() * 9000000) + 1000000;
+var uihost   = uihost || (("https:" == document.location.protocol) ? "https://bs." : "http://b03.")+"nakanohito.jp/b1/";
+document.write("<img id='id_shellfish' style='position: absolute' src='"+uihost+"?uisv=3&id=31475&mode=default&h=abda&rand="+uiinit+"&url="+encodeURIComponent(parent.document.URL)+"&ref="+encodeURIComponent(parent.document.referrer)+"&uigr_1="+encodeURIComponent(uigr_1)+"&uigr_2="+encodeURIComponent(uigr_2)+"&uigr_3="+encodeURIComponent(uigr_3)+"&uigr_4="+encodeURIComponent(uigr_4)+"&uigr_5="+encodeURIComponent(uigr_5)+"&uigr_6="+encodeURIComponent(uigr_6)+"&uigr_7="+encodeURIComponent(uigr_7)+"&uigr_8="+encodeURIComponent(uigr_8)+"&uigr_9="+encodeURIComponent(uigr_9)+"&uigr_10="+encodeURIComponent(uigr_10)+"&lv="+uilid+"&sb="+encodeURIComponent(document.title)+"&guid=ON&eflg=1' border='0' width='1' height='1' alt='' />");
+if (typeof document.documentElement.style.maxHeight != "undefined") {
+document.write('<span  style="position: absolute" id="id_bivalves"></span>'); document.write(decodeURI("%3Cscr"+"ipt src='"+uihost+"bivalves.js' charset='utf-8' type='text/javascript'%3E%3C/script%3E")); var uiLimit = 3000, uiInterval = 50, uiTime = 0; var uiLoadedId = setInterval(function(){ if ((typeof(Vesicomyid) != "undefined") && (typeof(Vesicomyid.Bivalves) != "undefined") && (typeof(Vesicomyid.Bivalves.Loaded) == "function") ) { clearInterval(uiLoadedId); try { var lb = new Vesicomyid.Bivalves(31475, uiinit); lb.host = uihost; lb.uisv = 3; lb.init(); } catch (err) { } } else if ((uiTime += uiInterval) > uiLimit) { clearInterval(uiLoadedId); } }, uiInterval);
+}
+
+//-->
+</script>
+<!-- User Insight PCDF Code End : golfdigest.co.jp -->
+
+<!-- Mk_div AFF recomend tag start -->
+<div id="_silveregg_tracker"></div>
+<script>document.write("<script src='//aigent2.silveregg.net/suite/page?m=gdo&t="+(new Date()).getTime()+"&r="+escape(document.referrer)+"'><\/script>");</script>
+<!-- Mk_div AFF recomend tag end -->
+
+<!-- Mk_div BLADE tag start -->
+<script type="text/javascript">
+<!--
+var blade_co_account_id='2767';
+var blade_group_id='';
+-->
+</script>
+<script src="https://d-track.send.microad.jp/js/bl_track.js">
+</script>
+<!-- Mk_div BLADE tag end -->
+
+<!-- Start 20121120 Mk Scaleout TAG -->
+<script type="text/javascript">
+//<![CDATA[
+(function() {
+  var so_src = ('https:' == document.location.protocol ? 'https://ssl.socdm.com' : 'http://tg.socdm.com') + '/so.js?' + 'siteid=8524';
+  var so_script = '<scr'+'ipt type="text/javascript" src="'+so_src+'"></scr'+'ipt>';
+  document.write(so_script);
+})();
+//]]>
+</script>
+<!-- End 20121120 Mk Scaleout TAG --><!-- OneTagManager 20120218-->
+<noscript><iframe src="//www.googletagmanager.com/ns.html?id=GTM-4XSC"
+height="0" width="0" style="display:none;visibility:hidden"></iframe></noscript>
+<script>(function(w,d,s,l,i){w[l]=w[l]||[];w[l].push({'gtm.start':
+new Date().getTime(),event:'gtm.js'});var f=d.getElementsByTagName(s)[0],
+j=d.createElement(s),dl=l!='dataLayer'?'&l='+l:'';j.async=true;j.src=
+'//www.googletagmanager.com/gtm.js?id='+i+dl;f.parentNode.insertBefore(j,f);
+})(window,document,'script','dataLayerGDOall','GTM-4XSC');</script>
+<script language='JavaScript' type='text/javascript' src='https://track.mk.impact-ad.jp/ad/js/cjs.js'></script>
+<script language='JavaScript' type='text/javascript'><!--
+admage_onetag('https://track.mk.impact-ad.jp/ad/p/ot', '_aid=22&_oid=140',false);
+ --></script>
+<noscript>
+<iframe src='https://track.mk.impact-ad.jp/ad/p/ot?_aid=22&_oid=140' width='0' height='0' marginwidth='0' marginheight='0' hspace='0' vspace='0' frameborder='0' scrolling='no' bordercolor='#000000'></iframe>
+</noscript>
+<!-- //OneTagManager 20120218-->
+<!-- OneTagManagerECO 201307-->
+<script type="text/javascript" src="//cf.eco-tag.jp/perfx/pix-gdo-min.js"></script>
+<!-- //OneTagManagerECO 201307-->
+
+</body>
+</html>

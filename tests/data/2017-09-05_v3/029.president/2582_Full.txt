@@ -1,0 +1,35 @@
+POST https://president.jp/auth/dologin?return_to=http://president.jp/ HTTP/1.1
+Host: president.jp
+User-Agent: Mozilla/5.0 (Windows NT 6.1; WOW64; rv:52.0) Gecko/20100101 Firefox/52.0
+Accept: text/html,application/xhtml+xml,application/xml;q=0.9,*/*;q=0.8
+Accept-Language: ja,en-US;q=0.7,en;q=0.3
+Accept-Encoding: gzip, deflate, br
+Referer: https://president.jp/auth/dologin?return_to=http://president.jp/
+Cookie: _session_id=7457cc90691d9f7a135e033b69cfc032; __gads=ID=ad306b2de29c9dbc:T=1490947842:S=ALNI_MY_RoRGgeyONFvhR6pnrJal6HeyEg; __ulfpc=201703311710439072; vim=218.223.2.230.1490947843745090; ismub=62897727979810488374447.1491462454181711; ismdi=b527e3b8-10c6-45e3-99b7-1978e2c90d3f; cX_S=j1628j46jtqsxb60; _ga=GA1.2.985078682.1491462449; visitor_id184832=92269721; OX_plg=pm; ismuu=vEZH_woc_u5raDLEoHPdokUxtAEgV_SWE_fc3wd0U9M; _gat_UA-27243701-16=1; _gat_UA-27243701-1=1; _td=7c26009a-e180-47ec-959c-3c8f934655b5; cX_P=j0xjumudp558pwb0
+Connection: keep-alive
+Upgrade-Insecure-Requests: 1
+Content-Type: application/x-www-form-urlencoded
+Content-Length: 69
+
+login=crawlingtest1000%40gmail.com&password=Password009&rememberme=on
+HTTP/1.1 302 Found
+Content-Type: text/html; charset=utf-8
+Connection: keep-alive
+Status: 302 Found
+Cache-Control: no-cache
+X-XSS-Protection: 1; mode=block
+X-Request-Id: 95f6162a-87be-4b8f-9d33-5fc5692691c8
+Location: http://president.jp/
+X-Frame-Options: SAMEORIGIN
+X-Content-Type-Options: nosniff
+Date: Thu, 06 Apr 2017 08:34:17 GMT
+Set-Cookie: ismss=7505fff704fb1b26a66030df5102852bde7b8dbc6bc6d3e95d0d4da76d6d087f4f0a92c04e3d0b73966754f4cece1da2ad83a5b84aec8a6da84e5b3886351dc2806007c86f145389c8047cfb6b7477621520b0e5383bb6409a2a8a0194d2ca62289421559df14b645b9c4493f0fbd4c6; domain=president.jp; path=/; expires=Fri, 07 Apr 2017 08:34:17 -0000
+Set-Cookie: ismuu=vEZH_woc_u5raDLEoHPdokUxtAEgV_SWE_fc3wd0U9M; domain=president.jp; path=/; expires=Sat, 06 Apr 2019 08:34:17 -0000
+Set-Cookie: ismal=23c7b7c68481addc20dcaa7340f7c1a500875ab2; domain=president.jp; path=/; expires=Fri, 06 Oct 2017 08:34:17 -0000
+Set-Cookie: _session_id=7457cc90691d9f7a135e033b69cfc032; path=/auth; expires=Thu, 06 Apr 2017 09:04:17 -0000; secure; HttpOnly
+Transfer-Encoding: chunked
+
+56
+<html><body>You are being <a href="http://president.jp/">redirected</a>.</body></html>
+0
+

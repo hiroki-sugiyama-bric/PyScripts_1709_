@@ -1,0 +1,451 @@
+GET http://zigsow.jp/?m=pc&a=page_h_config_prof HTTP/1.1
+Host: zigsow.jp
+User-Agent: Mozilla/5.0 (Windows NT 6.1; WOW64; rv:52.0) Gecko/20100101 Firefox/52.0
+Accept: text/html,application/xhtml+xml,application/xml;q=0.9,*/*;q=0.8
+Accept-Language: ja,en-US;q=0.7,en;q=0.3
+Accept-Encoding: gzip, deflate
+Cookie: ziguid=73b39c512b885990c6a823e0ce165b60; _zab=B; _zabc=B; _zus=%7B%22%5C%2Fnew%5C%2Freview%5C%2Forder%22%3A%22ud%22%7D; _zois=2017-04-10+14%3A50%3A34; _ga=GA1.2.300364206.1491466997; renewal=yes; _zdpr=1.25; __utma=221298707.300364206.1491466997.1491802189.1491802189.1; __utmb=221298707.15.10.1491802189; __utmc=221298707; __utmz=221298707.1491802189.1.1.utmcsr=(direct)|utmccn=(direct)|utmcmd=(none); authchallenge=fe0892401b40b6e24876c343388686ce; renewal_ini=yes; _zris=2017-04-10+14%3A43%3A58; _zdla=2017-04-10+14%3A43%3A58; __utmt=1; PHPSESSID=rim4qfntqa0ed7451gu4shoe31; _gat=1
+Connection: close
+Upgrade-Insecure-Requests: 1
+
+
+HTTP/1.1 200 OK
+Date: Mon, 10 Apr 2017 06:26:38 GMT
+Server: Apache
+Set-Cookie: ziguid=73b39c512b885990c6a823e0ce165b60; expires=Wed, 10-May-2017 06:26:38 GMT; path=/
+Expires: Mon, 26 Jul 1997 05:00:00 GMT
+Cache-Control: no-store, no-cache, must-revalidate
+Pragma: no-cache
+Set-Cookie: renewal=yes; path=/
+Set-Cookie: reborn=deleted; expires=Sun, 10-Apr-2016 06:26:37 GMT; path=/
+Set-Cookie: mono=deleted; expires=Sun, 10-Apr-2016 06:26:37 GMT; path=/
+Last-Modified: Mon, 10 Apr 2017 06:26:38 GMT
+Cache-Control: post-check=0, pre-check=0
+X-XSS-Protection: 0
+Vary: Accept-Encoding,User-Agent
+Server-Hash: 9d975ef19a8e47350c883a53ed0b6f75
+Connection: close
+Content-Type: text/html; charset=UTF-8
+Transfer-Encoding: chunked
+
+5a7
+<!DOCTYPE HTML PUBLIC "-//W3C//DTD HTML 4.01 Transitional//EN" "http://www.w3.org/TR/html4/loose.dtd">
+<html>
+<head>
+<meta http-equiv="Pragma" content="no-cache">
+<meta http-equiv="Cache-Control" content="no-cache">
+<meta http-equiv="Expires" content="Thu, 01 Dec 1994 16:00:00 GMT">
+<meta http-equiv="Content-Type" content="text/html; charset=UTF-8">
+<meta http-equiv="Content-Style-Type" content="text/css">
+<meta http-equiv="X-UA-Compatible" content="IE-Edge">
+<meta name="viewport" content="width=1038" />
+<title>ZIGSOW</title>
+
+<link rel="stylesheet" href="./css/reset-min.css" type="text/css">
+<link rel="stylesheet" href="./css/base-min.css" type="text/css">
+<link rel="stylesheet" href="./css/common.css?g=20140828" type="text/css">
+<link rel="stylesheet" href="./css/embed_style.css" type="text/css">
+<link rel="stylesheet" href="./css/page_navi.css?g=20130725" type="text/css">
+<link rel="stylesheet" href="//zigsow.jp/css/styles.css?t=1491286416" type="text/css">
+<link rel="stylesheet" href="./css/fonts-min.css?20131201" type="text/css">
+
+<style type="text/css">
+#footer {
+	font-size: 14px;
+	line-height: normal;
+	margin-top: 30px;
+}
+#header {
+	font-size: 14px;
+	line-height: normal;
+}
+h3 {
+	background-color: #FFF;
+}
+td, th {
+	padding: .5em;
+	border: 1px solid #dbdde8;
+}
+th {
+	font-weight: bold;
+}
+.remove-button-box, .block_body, .comment-list-box {
+	border-color: #dbdde8;
+}
+textarea {
+	height:20em;
+}
+</style>
+<style type="text/c
+5b4
+ss">
+
+</style>
+
+<script src="./js/jquery-1.7.2.min.js?20160428" type="text/javascript"></script>
+<script src="http://zigsow.jp/js/review/jquery.cookie.js"></script>
+<script src="http://zigsow.jp/js/jquery.socialbutton-1.8.1.js" type="text/javascript"></script>
+<script type="text/javascript">
+
+$(document).ready(function(){
+	$('img').error(function() {
+		$(this).attr("src", "skin/no_image_76x76.gif");
+		$(this).attr("alt", "");
+		$(this).addClass("no_image");
+	});
+});
+if (window.devicePixelRatio != undefined) {
+	$.cookie('_zdpr', window.devicePixelRatio);
+}
+
+</script>
+
+<script src="./js/jquery.autocomplete.min.js" type="text/javascript"></script>
+<link rel="stylesheet" type="text/css" href="./css/jquery.autocomplete.css" />
+<script src="./js/jquery.blockUIv2.js" type="text/javascript"></script>
+<script src="./js/zigsow.bootstrap.js" type="text/javascript"></script>
+<script src="./js/smoothscroll-to-the-top.js" type="text/javascript"></script>
+<script type="text/javascript">
+
+var ua ="";
+</script>
+<script type="text/javascript" src="http://zigsow.jp/js/review/common.js?20150104"></script>
+
+
+<link rel="stylesheet" href="/css/venus/renewal.min.css?a3950d28dff93da0c08df972941c048d">
+<script type="text/javascript" src="/js/venus/renewal.min.js?8bd6eeba910ff8b2c11aafa363b1ae95"></script>
+
+</head>
+<body>
+
+<div class="renewal">
+					<header class="header-navigation">
+	<h1>レビューメディア「ジグソー」</h1>
+	<div class="container-flui
+5b4
+d">
+		<div class="navigation-header">
+			<a href="/home" class="header-logo"><i class="zigsow-header-logo logined"></i></a>
+		</div>
+		<div class="navigation-body">
+			<div class="navigation-body-inner">
+					<ul class="header-navigation-list">
+	<li><a href="/">ラウンジ</a></li>
+	<li class="separator"></li>
+	<li class="premium-review"><a href="/review">プレミアム<br>レビュー</a></li>
+</ul>
+<ul class="header-navigation-list">
+	<li class="everybody">みんなの<br>投稿▶︎</li>
+	<li>
+		<a href="/new/review">
+			<i class="zigcon zigcon-own-item"></i> レビュー		</a>
+	</li>
+	<li class="separator"></li>
+	<li>
+		<a href="/new/interesting">
+			<i class="zigcon zigcon-req-item"></i> 気になるモノ		</a>
+	</li>
+	<li class="separator"></li>
+	<li>
+		<a href="/new/diary">
+			<i class="zigcon zigcon-diary"></i> 日記		</a>
+	</li>
+</ul>
+				</div>
+		</div>
+		<div class="navigation-footer">
+			<div class="btn-group dropdown-box hidden-sp">
+				<a href="http://zigsow.jp/?m=zeditor&amp;a=page_item_search" class="btn btn-small btn-orange">モチモノを追加</a>
+				<a href="javascript:void(0)" class="btn btn-small btn-orange" data-dropdown="#add-item">▼</a>
+				<ul class="dropdown" id="add-item">
+					<li><a href="http://zigsow.jp/?m=zigsow&amp;a=page_h_item_regist_start&amp;mode=req">気になるモノを追加</a></li>
+					<li><a href="http://zigsow.jp/?m=pc&amp;a=page_h_diary_add">日記を書く</a></li>
+				</ul>
+			<
+5b4
+/div>
+			<ul class="actions">
+				<li class="search dropdown-box">
+					<a href="javascript:void(0)" data-dropdown="#search-box"><i class="zigcon zigcon-search"></i></a>
+					<div class="dropdown search-box" id="search-box">
+						<form action="/new/review" method="GET" class="form" id="header-search">
+								<div class="input-group">
+								<select name="type">
+									<option value="/new/review">モチモノ</option>
+									<option value="/new/interesting">気になるモノ</option>
+									<option value="/new/diary">日記</option>
+									<option value="/member/128796/review">自分のモチモノ</option>
+									<option value="/member/128796/interesting">自分の気になるモノ</option>
+									<option value="/member/128796/diary">自分の日記</option>
+									<option value="/member/search">ヒト</option>
+										</select>
+							</div>
+								<div class="input-group">
+								<input type="search" name="keyword" placeholder="キーワードを入力">
+							</div>
+						</form>
+					</div>
+				</li>
+				<li class="menu">
+					<a href="javascript:void(0)" data-dropdown="#navigation-menu">
+						<div class="thumbnail thumbnail-inline thumbnail-circle member-icon" data-src="http://zigsow.jp/skin/no_image_76x76.gif" data-cover="true" data-lazy="false"></div>
+					</a>
+				</li>
+			</ul>
+		</div>
+	</div>
+	<div class="dropdown navigation-menu member" id="navigation-menu">
+		<div class="profile">
+			<h3 class="user
+5ac
+name">ペンさん <span class="zigcon-stack zigcon-beginner"></span></h3>
+			<ul class="inline-list">
+				<li>0 レビュー</li>
+				<li>0 COOL</li>
+			</ul>
+		</div>
+		<div class="list-box">
+			<ul class="block-list menu-list-double">
+				<li><a href="/home"><i class="zigcon zigcon-home"></i> ホーム</a></li>
+				<li><a href="/member/128796"><i class="zigcon zigcon-profile"></i> プロフィール</a></li>
+				<li><a href="/member/128796/review"><i class="zigcon zigcon-own-item"></i> モチモノ</a></li>
+				<li><a href="https://zigsow.jp/?m=pc&amp;a=page_h_message_box"><i class="zigcon zigcon-message"></i> メッセージ </a></li>
+				<li><a href="/member/128796/interesting"><i class="zigcon zigcon-req-item"></i> 気になるモノ</a></li>
+				<li><a href="/ashiato"><i class="zigcon zigcon-welcome"></i> ようこそ</a></li>
+				<li><a href="/member/128796/diary"><i class="zigcon zigcon-diary"></i> 日記</a></li>
+				<li><a href="https://zigsow.jp/?m=pc&amp;a=page_h_config"><i class="zigcon zigcon-gear"></i> 設定</a></li>
+				<li><a href="http://zigsow.jp/?m=zigsow&amp;a=page_h_image_list"><i class="zigcon zigcon-picture"></i> フォトアルバム</a></li>
+				<li><a href="/watchboard"><i class="zigcon zigcon-watchboard"></i> ウォッチボード</a></li>
+			</ul>
+		</div>
+		<h3>みんなの投稿</h3>
+		<div class="list-box">
+			<ul class="block-list menu-list-double">
+				<li><a href="/"><i class="zigcon zigcon-l
+5b4
+ounge"></i> ラウンジ</a></li>
+				<li><a href="/review"><i class="zigcon zigcon-premium-review"></i> プレミアムレビュー</a></li>
+				<li><a href="/new/review"><i class="zigcon zigcon-own-item"></i> レビュー</a></li>
+				<li><a href="/special"><i class="zigcon zigcon-special"></i> 特集</a></li>
+				<li><a href="/new/interesting"><i class="zigcon zigcon-req-item"></i> 気になるモノ</a></li>
+				<li><a href="http://zigsow.jp/?m=zigsow&amp;a=page_h_community_search"><i class="zigcon zigcon-community"></i> コミュニティ</a></li>
+				<li><a href="/new/diary"><i class="zigcon zigcon-diary"></i> 日記</a></li>
+				<li><a href="http://zigsow.jp/?m=pc&amp;a=page_h_ranking_summary"><i class="zigcon zigcon-ichiban"></i> イチバン</a></li>
+				<li><a href="/item/ranking"><i class="zigcon zigcon-ranking"></i> アイテムランキング</a></li>
+				<li><a href="http://zigsow.jp/?m=zigsow&amp;a=page_h_item_search"><i class="zigcon zigcon-search"></i> カテゴリ</a></li>
+				<li><a href="/help"><i class="zigcon zigcon-help"></i> ヘルプ</a></li>
+				<li><a href="javascript:void(0)" data-dialog="#dialog-invite"><i class="zigcon zigcon-invitation"></i> 友達を招待</a></li>
+				<li><a href="javascript:void(0)" data-dialog="#dialog-feedback"><i class="zigcon zigcon-feedback"></i> フィードバック</a></li>
+				<li><a href="http://zigsow.jp/?m=pc&amp;a=do_inc_page_header_logout&amp;sessid=bdddbb18637768c765c9bd1
+5b4
+7e36953f2"><i class="zigcon zigcon-logout"></i> ログアウト</a></li>
+			</ul>
+		</div>
+	</div>
+</header>
+	</div>
+
+
+
+<hr class="shadow" />
+
+<div id="document"><div id="alert_box">
+</div><div id="body" class="single"> <!-- single column --><div class="content_main"><form action="./" method="post">
+<input type="hidden" name="m" value="pc">
+<input type="hidden" name="a" value="do_h_config_prof"><input type="hidden" name="sessid" value="bdddbb18637768c765c9bd17e36953f2"><h1>プロフィール変更</h1>(<span class="caution">※</span>の項目は必須です)<table><tr><th>ニックネーム <span class="caution">※</span></th><td><input name="nickname" value="ペン" size="30"><br></td></tr><tr><th>生まれた年 <span class="caution">※</span></th><td><input name="birth_year" value="1990" size="10" maxlength="4">年<select name="public_flag_birth_year"><option label="全員に公開" value="public" selected="selected">全員に公開</option>
+<option label="おものだちに公開" value="friend">おものだちに公開</option>
+<option label="公開しない" value="private">公開しない</option>
+</select></td></tr><tr><th>誕生日 <span class="caution">※</span></th><td><select name="birth_month"><option value="0">--<option value="1" selected="selected">1<option value="2">2<option value="3">3<option value="4">4<option value="5">5<option value="6">6<option value="7">7<option value="8">8<option value="9">9<option value="10">
+5b4
+10<option value="11">11<option value="12">12</select>月&nbsp;<select name="birth_day"><option value="0">--<option value="1" selected="selected">1<option value="2">2<option value="3">3<option value="4">4<option value="5">5<option value="6">6<option value="7">7<option value="8">8<option value="9">9<option value="10">10<option value="11">11<option value="12">12<option value="13">13<option value="14">14<option value="15">15<option value="16">16<option value="17">17<option value="18">18<option value="19">19<option value="20">20<option value="21">21<option value="22">22<option value="23">23<option value="24">24<option value="25">25<option value="26">26<option value="27">27<option value="28">28<option value="29">29<option value="30">30<option value="31">31</select>日</td></tr><tr><th>性別 </th><td><div style="width:500px"><select name="profile[sex]"><option value="">選択してください</option><option value="1">男性</option><option value="2">女性</option></select>&nbsp;</div></td></tr><tr><th>血液型 </th><td><div style="width:500px"><select name="profile[blood_type]"><option value="">選択してください</option><option value="3">A</option><option value="4">B</option><option value="5">O</option><option value="6">AB</option></select>&nbsp;<select name="public_flag[blood_type]"><option value="public" selected="selected">全員に公開<option value="friend">おものだちに公開<option value="private">公開しない</sele
+5ac
+ct></div></td></tr><tr><th>現住所 </th><td><div style="width:500px"><select name="profile[pre_addr_pref]"><option value="">選択してください</option><option value="7">北海道</option><option value="8">青森県</option><option value="9">岩手県</option><option value="10">宮城県</option><option value="11">秋田県</option><option value="12">山形県</option><option value="13">福島県</option><option value="14">茨城県</option><option value="15">栃木県</option><option value="16">群馬県</option><option value="17">埼玉県</option><option value="18">千葉県</option><option value="19">東京都</option><option value="20">神奈川県</option><option value="21">新潟県</option><option value="22">富山県</option><option value="23">石川県</option><option value="24">福井県</option><option value="25">山梨県</option><option value="26">長野県</option><option value="27">岐阜県</option><option value="28">静岡県</option><option value="29">愛知県</option><option value="30">三重県</option><option value="31">滋賀県</option><option value="32">京都府</option><option value="33">大阪府</option><option value="34">兵庫県</option><option value="35">奈良県</option><option value="36">和歌山県</option><option value="37">鳥取県</option><option value="38">島根県</option><option value="39">岡山県</option><option value="40">広島県</option><option value="41">山口県</op
+5b4
+tion><option value="42">徳島県</option><option value="43">香川県</option><option value="44">愛媛県</option><option value="45">高知県</option><option value="46">福岡県</option><option value="47">佐賀県</option><option value="48">長崎県</option><option value="49">熊本県</option><option value="50">大分県</option><option value="51">宮崎県</option><option value="52">鹿児島県</option><option value="53">沖縄県</option><option value="54">その他</option></select>&nbsp;<select name="public_flag[pre_addr_pref]"><option value="public" selected="selected">全員に公開<option value="friend">おものだちに公開<option value="private">公開しない</select></div></td></tr><tr><th>出身地 </th><td><div style="width:500px"><select name="profile[old_addr_pref]"><option value="">選択してください</option><option value="55">北海道</option><option value="56">青森県</option><option value="57">岩手県</option><option value="58">宮城県</option><option value="59">秋田県</option><option value="60">山形県</option><option value="61">福島県</option><option value="62">茨城県</option><option value="63">栃木県</option><option value="64">群馬県</option><option value="65">埼玉県</option><option value="66">千葉県</option><option value="67">東京都</option><option value="68">神奈川県</option><option value="69">新潟県</option><option value="70">富山県</option><option va
+5b4
+lue="71">石川県</option><option value="72">福井県</option><option value="73">山梨県</option><option value="74">長野県</option><option value="75">岐阜県</option><option value="76">静岡県</option><option value="77">愛知県</option><option value="78">三重県</option><option value="79">滋賀県</option><option value="80">京都府</option><option value="81">大阪府</option><option value="82">兵庫県</option><option value="83">奈良県</option><option value="84">和歌山県</option><option value="85">鳥取県</option><option value="86">島根県</option><option value="87">岡山県</option><option value="88">広島県</option><option value="89">山口県</option><option value="90">徳島県</option><option value="91">香川県</option><option value="92">愛媛県</option><option value="93">高知県</option><option value="94">福岡県</option><option value="95">佐賀県</option><option value="96">長崎県</option><option value="97">熊本県</option><option value="98">大分県</option><option value="99">宮崎県</option><option value="100">鹿児島県</option><option value="101">沖縄県</option><option value="102">その他</option></select>&nbsp;<select name="public_flag[old_addr_pref]"><option value="public" selected="selected">全員に公開<option value="friend">おものだちに公開<option value="private">公開しない</select></div></td></tr><tr><th>喫煙 </th><td><div style="width:500px"><t
+5b4
+able class="choice" style="width:95%"><tr><td class="checkbox"><input type="radio" name="profile[cigarette]" value="103" class="no_bg"></td><td class="name">吸う</td><td class="checkbox"><input type="radio" name="profile[cigarette]" value="104" class="no_bg"></td><td class="name">吸わない</td><td class="checkbox"><input type="radio" name="profile[cigarette]" value="105" class="no_bg"></td><td class="name">ときどき吸う</td></tr><tr><td class="checkbox"><input type="radio" name="profile[cigarette]" value="106" class="no_bg"></td><td class="name">シガー愛好家</td><td class="checkbox"><input type="radio" name="profile[cigarette]" value="107" class="no_bg"></td><td class="name">パイプ愛好家</td></tr></table><select name="public_flag[cigarette]"><option value="public" selected="selected">全員に公開<option value="friend">おものだちに公開<option value="private">公開しない</select></div></td></tr><tr><th>自己紹介 </th><td><div style="width:500px"><textarea name="profile[self_intro]" rows="6" cols="50" style="width:496px"></textarea></div></td></tr></table><div class="controller"><input type="submit" class="submit" name="ok" value="　変　更　">&nbsp;<input type="submit" class="submit" name="cancel" value="　戻　る　"></div></form></div><!-- end of main --></div><!-- end of body --></div><!-- end of document -->
+<div class="renewal">
+	<footer class="footer-navigation">
+	<div class="container"
+5b4
+>
+		<div class="footer-navigation-menu">
+			<ul class="block-list menu-list">
+				<li><a href="/">ラウンジ</a></li>
+				<li><a href="/review">プレミアムレビュー</a></li>
+				<li class="sp-hidden"><a href="/portal/category">カテゴリー</a></li>
+				<li class="sp-hidden"><a href="/special">特集</a></li>
+				<li class="sp-hidden"><a href="/portal/help">ZIGSOWの使い方</a></li>
+				<li class="feedback"><a href="javascript:void(0)" data-dialog="#dialog-feedback">フィードバック</a></li>
+				<li class="sp-hidden"><a href="javascript:void(0)" class="toggle-renewal visible-lg visible-xl">旧デザインに切替え</a></li>
+			</ul>
+			<ul class="block-list menu-list">
+				<li><a href="https://solflare.co.jp/" target="_blank">運営会社</a></li>
+				<li><a href="https://solflare.co.jp/contact/" target="_blank">問い合わせ</a></li>
+				<li><a href="http://zigsow.jp/info/terms.html">利用規約</a></li>
+				<li><a href="https://solflare.co.jp/privacy/" target="_blank">プライバシーポリシー</a></li>
+				<li><a href="http://zigsow.jp/info/policy.html">サイトポリシー</a></li>
+				<li><a href="https://solflare.co.jp/business/premiumreview" target="_blank">メーカーの皆様へ</a></li>
+			</ul>
+			<ul class="block-list menu-list">
+				<li><a href="https://www.facebook.com/zigsow" target="_blank"><i class="zigcon zigcon-facebook"></i> 公式 Facebook</a></li>
+				<li><a href="https://twitter.com/zi
+5ac
+gsow" target="_blank"><i class="zigcon zigcon-twitter"></i> 公式 Twitter</a></li>
+			</ul>
+		</div>
+		<div class="copyright">
+			<div class="logo"><a href="http://zigsow.jp/"></a></div>
+			<p class="text">&copy; 2013 zigsow Inc, &copy; 2016 Solflare Inc. <br class="pc-hidden">All rights reserved.</p>
+		</div>
+	</div>
+</footer>
+<div class="pagetop"><a href="#pagetop"><i class="zigcon zigcon-pagetop"></i></a></div>
+
+<div class="dialog dialog-login" id="dialog-login">
+	<div class="dialog-content">
+		<h3><i class="zigcon zigcon-zigsow"></i> ZIGSOW にログイン</h3>
+		<p class="info"><a href="https://zigsow.jp/?m=portal&amp;a=page_regist">ZIGSOW会員登録（無料）はこちらから</a></p>
+		<div class="dialog-form">
+			<form action="https://zigsow.jp/" method="post" id="login-form" novalidate>
+<input type="hidden" name="m" value="pc">
+<input type="hidden" name="a" value="do_o_login">
+				<input type="email" name="username" value="" placeholder="メールアドレス" />
+				<input type="password" name="password" value="" placeholder="パスワード" />
+				<label><input type="checkbox" name="is_save" value="1">次回から自動的にログイン</label>
+			</form>
+			<button class="btn btn-submit">ログイン</button>
+			<div class="link">
+				<a href="https://zigsow.jp/?m=pc&amp;a=page_o_password_query"><small>ログインできない場合はこちら</small></a>
+			</div>
+		</div>
+		<!--<div class="dialog-actions dia
+5b4
+log-actions-centered">
+			<button class="btn btn-confirm">ログイン</button>
+		</div>-->
+		<div class="row dialog-footer">
+			<a href="javascript:void(0);" data-href="http://zigsow.jp/?m=portal&amp;a=page_extauth_start&amp;site=facebook" class="facebook col-sm-5"><i class="zigcon zigcon-facebook"></i> Facebook</a>
+			<a href="javascript:void(0);" data-href="http://zigsow.jp/?m=portal&amp;a=page_extauth_start&amp;site=twitter" class="twitter col-sm-5"><i class="zigcon zigcon-twitter"></i> Twitter</a>
+		</div>
+	</div>
+</div>
+
+
+
+
+
+<div class="dialog dialog-feedback" id="dialog-feedback">
+	<div class="dialog-content">
+		<h3>フィードバック</h3>
+		<p class="info">ご意見・ご要望・ご感想は、サービス改善や新サービスの開発などの目的で<br>使用させていただきます</p>
+		<div class="dialog-form">
+			<p class="error-msg">送信に失敗しました</p>
+			<select class="category" id="feedback-category">
+				<option value="renewal">新 ZIGSOW について</option>
+				<option value="function">機能要望</option>
+				<option value="bug">不具合</option>
+				<option value="support">その他ご意見・ご感想</option>
+			</select>
+			<textarea class="message" placeholder="ご意見・ご要望・ご感想などを記入してください"></textarea>
+		</div>
+		<div class="dialog-actions">
+			<button type="button" class="btn btn-cancel">キャンセル</button>
+			<button type="button" class="b
+5b4
+tn btn-confirm">送信する</button>
+		</div>
+	</div>
+</div>
+
+<div class="dialog dialog-invite" id="dialog-invite">
+	<div class="dialog-content">
+		<h3>友人をZIGSOWに招待</h3>
+		<p class="info">ZIGSOWに招待したい友人のメールアドレスを入力してください</p>
+		<div class="dialog-form">
+			<form action="https://zigsow.jp/" method="post">
+<input type="hidden" name="m" value="pc">
+<input type="hidden" name="a" value="page_h_invite_confirm">
+				<input type="mail" name="mail" class="mail pull-left" placeholder="メールアドレス">
+				<textarea class="message" name="message" placeholder="メッセージ（任意）"></textarea>
+			</form>
+		</div>
+		<div class="dialog-actions">
+			<button type="button" class="btn btn-cancel">キャンセル</button>
+			<button type="button" class="btn btn-confirm">確認する</button>
+		</div>
+	</div>
+</div>
+
+<div class="dialog dialog-message" id="dialog-message">
+	<div class="dialog-content">
+		<h3></h3>
+		<p class="info"></p>
+	</div>
+</div>
+<div class="dialog dialog-confirm" id="dialog-confirm">
+	<div class="dialog-content">
+		<h3 class="title"></h3>
+		<p class="info"></p>
+		<div class="dialog-actions dialog-actions-centered">
+			<button type="button" class="btn btn-cancel">キャンセル</button>
+			<button type="button" class="btn btn-confirm">決定</button>
+		</div>
+	</div>
+</div>
+</div>
+<script src="http://zigsow.jp/js/lazyyoutubefix.js"></script>
+<script src="http:/
+5b4
+/zigsow.jp/js/review/link_tracking.js" type="text/javascript"></script>
+<script src="http://zigsow.jp/js/jquery.google-analytics.js" type="text/javascript"></script>
+<script src="http://zigsow.jp/js/jquery.linklog.js" type="text/javascript"></script>
+<script type="text/javascript">
+$.trackPage('UA-4578583-2', {uri : ''} );
+$(document).ready(function() {
+    var baseurl = (("https:" == document.location.protocol) ? "https://zigsow.jp/" : "http://zigsow.jp/");
+    var sessid = "bdddbb18637768c765c9bd17e36953f2";
+
+    //$.fn.track.defaults.debug = true;
+    $('a:not(.notrack):not(.link-tracking)').track({
+        category: function(element) {
+            if (element[0].hostname == undefined || element[0].hostname.length == 0) {
+                if(element[0].hash == undefined || element[0].hash.indexOf('#ui-tabs') == 0) {
+                    return 'internal';
+                } else {
+                    return 'external';
+                }
+            } else {
+                return (element[0].hostname === location.hostname) ? 'internal':'external';
+            }
+        },
+        skip_internal: true 
+    });
+    $("a.link-log").addLinkLog(baseurl, sessid);
+});
+
+</script>
+<script type="text/javascript">
+/* <![CDATA[ */
+var google_conversion_id = 1026971159;
+var google_custom_params = window.google_tag_params;
+var google_remarketing_only = true;
+/* ]]> */
+</script>
+<div style="display: none;">
+<script type="text/javascript" src="//www.goo
+127
+gleadservices.com/pagead/conversion.js"></script>
+</div>
+<noscript>
+<div style="display:none;">
+<img height="1" width="1" style="border-style:none;" alt="" src="//googleads.g.doubleclick.net/pagead/viewthroughconversion/1026971159/?value=0&guid=ON&script=0"/>
+</div>
+</noscript>
+
+</body>
+</html>
+0
+

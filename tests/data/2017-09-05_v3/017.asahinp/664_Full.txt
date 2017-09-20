@@ -1,0 +1,572 @@
+POST https://digital.asahi.com/change_info/editform_d.html HTTP/1.1
+Host: digital.asahi.com
+User-Agent: Mozilla/5.0 (Windows NT 6.1; WOW64; rv:52.0) Gecko/20100101 Firefox/52.0
+Accept: text/html,application/xhtml+xml,application/xml;q=0.9,*/*;q=0.8
+Accept-Language: ja,en-US;q=0.7,en;q=0.3
+Accept-Encoding: gzip, deflate, br
+Referer: https://digital.asahi.com/passauth/auth.html
+Cookie: AMCV_D16360625419F1800A4C98A2%40AdobeOrg=-1330315163%7CMCIDTS%7C17261%7CMCMID%7C08719537627179009591567834143669766850%7CMCAAMLH-1491886854%7C11%7CMCAAMB-1491886854%7CNRX38WO0n5BH8Th-nqAG_A%7CMCOPTOUT-1491289254s%7CNONE%7CMCAID%7C2C50A9928548FCEC-60000103E0000B0A; AMCVS_D16360625419F1800A4C98A2%40AdobeOrg=1; _ga=GA1.2.322565690.1491282055; digital_fontsize=100; s_nr=1491282504150-New; sc_clk_btn=no%20value; sc_prv_mp=2; sc_prv_crs=nm; s_pnum=https%3A%2F%2Fdigital.asahi.com%2Fpassauth%2F%3Freferer%3Dhttps%3A%2F%2Fdigital.asahi.com%2Fchange_info%2Feditform_d.html%26s_vn%3D12%26non_tgt%3D1; s_lv=1491282055048; s_lv_s=First%20Visit; sc_ppv_pagename=%2Fpassauth%2Findex.html%5Bdigital.asahi.com%5D; s_cc=true; AONEU=true; tuuid=07ea4fa4-6050-4088-a10b-adf84606efa6; sync_af=1; ASAHISEG=AS0%3D207016/AS1%3D61468/AS2%3D61486/AS3%3D61557/AS4%3D61561/AS5%3D61563/AS6%3D61577/AS7%3D202011/AS8%3D46210/AS9%3D46236/AS10%3D46742/AS11%3D46923/AS12%3D46925/AS13%3D46926/AS14%3D46945/AS15%3D46947/AS16%3D46948/AS17%3D46955/AS18%3D52802/AS19%3D52805/AS20%3D52808/; sc_crs=nm; sc_m_attr=m%3A1980; s_ppvl=%2Finfo%2Fprice%2Findex.html%255Bdigital.asahi.com%255D%2C31%2C31%2C1053%2C1178%2C549%2C1536%2C960%2C1.25%2CP; s_ppv=%2Fpassauth%2Findex.html%255Bdigital.asahi.com%255D%2C99%2C99%2C549%2C1178%2C549%2C1536%2C960%2C1.25%2CP; s_sq=asahicomall%3D%2526pid%253D%25252Fpassauth%25252Findex.html%25255Bdigital.asahi.com%25255D%2526pidt%253D1%2526oid%253D%2525E6%2525AC%2525A1%2525E3%252581%2525B8%2525E9%252580%2525B2%2525E3%252582%252580%2526oidt%253D3%2526ot%253DSUBMIT; ch_ac=D87JeqwZ5eTJQLnv0vC7MQ%3D%3D; trd=8c9781d923e887fc3b0008cfee834dfa; tdn=7a81bca7d359c90c10846dbcece3cfbb; AID_SESS=a%3A4%3A%7Bs%3A10%3A%22session_id%22%3Bs%3A32%3A%22D7DD575CA6F1DAEA5AD1B49ABAF509CA%22%3Bs%3A8%3A%22nickname%22%3Bs%3A24%3A%22cVlMR8IznJCYlosMYsol9w%3D%3D%22%3Bs%3A9%3A%22loginflag%22%3Bb%3A1%3Bs%3A9%3A%22life_time%22%3Bs%3A12%3A%226ButRj0JP80%3D%22%3B%7D; sc_nki=o1KE24y93dI%3D; sc_pdc=S999C005P001C1; sc_mp=2; sc_tm=20170405140743; LTMD=1; WWW_SESS=LITECA00000000O__________UJNx1mAXmhyCtPQ3Nkcps4hebdQG8lxeQdlLczbEld5%2FmA3b1cSggolK2lmrWreaVxytONMjXbcBaggH%2BnkG%2BtuAuMES5%2FOK50DNUiwRVaC6qi5w%2BhN0IdYmdRZKpeK%2FI0Fcka07556d%2FzAvj%2Btedumh6cbAsq%2FdLHXz5sv9U04%3D; sc_c40_ev=event22; sc_c19_ev=event22; sc_c64_ev=event22; GnaviLink=TopnewsNav; _gat_fa6142983d4ece5c593030abe8cc37c7=1; __utma=211903489.322565690.1491282055.1491282489.1491282489.1; __utmb=211903489.1.10.1491282489; __utmc=211903489; __utmz=211903489.1491282489.1.1.utmcsr=asahi.com|utmccn=(referral)|utmcmd=referral|utmcct=/; __utmt=1
+Connection: keep-alive
+Upgrade-Insecure-Requests: 1
+Content-Type: application/x-www-form-urlencoded
+Content-Length: 98
+
+login_password=Password001&referer=https%3A%2F%2Fdigital.asahi.com%2Fchange_info%2Feditform_d.html
+HTTP/1.1 200 OK
+Date: Tue, 04 Apr 2017 05:08:25 GMT
+Server: Apache
+Set-Cookie: AID_SESS=a%3A4%3A%7Bs%3A10%3A%22session_id%22%3Bs%3A32%3A%22D7DD575CA6F1DAEA5AD1B49ABAF509CA%22%3Bs%3A8%3A%22nickname%22%3Bs%3A24%3A%22cVlMR8IznJCYlosMYsol9w%3D%3D%22%3Bs%3A9%3A%22loginflag%22%3Bb%3A1%3Bs%3A9%3A%22life_time%22%3Bs%3A12%3A%226ButRj0JP80%3D%22%3B%7D; expires=Thu, 04-May-2017 05:08:25 GMT; path=/; domain=digital.asahi.com
+pragma: no-cache
+cache-control: no-cache
+expires: 0
+Set-Cookie: AID_SESS=a%3A4%3A%7Bs%3A10%3A%22session_id%22%3Bs%3A32%3A%22D7DD575CA6F1DAEA5AD1B49ABAF509CA%22%3Bs%3A8%3A%22nickname%22%3Bs%3A24%3A%22cVlMR8IznJCYlosMYsol9w%3D%3D%22%3Bs%3A9%3A%22loginflag%22%3Bb%3A1%3Bs%3A9%3A%22life_time%22%3Bs%3A12%3A%226ButRj0JP80%3D%22%3B%7D; expires=Thu, 04-May-2017 05:08:25 GMT; path=/; domain=digital.asahi.com
+Set-Cookie: AID_SESS=a%3A4%3A%7Bs%3A10%3A%22session_id%22%3Bs%3A32%3A%22D7DD575CA6F1DAEA5AD1B49ABAF509CA%22%3Bs%3A8%3A%22nickname%22%3Bs%3A24%3A%22cVlMR8IznJCYlosMYsol9w%3D%3D%22%3Bs%3A9%3A%22loginflag%22%3Bb%3A1%3Bs%3A9%3A%22life_time%22%3Bs%3A12%3A%226ButRj0JP80%3D%22%3B%7D; expires=Thu, 04-May-2017 05:08:26 GMT; path=/; domain=digital.asahi.com
+Set-Cookie: AID_SESS=a%3A4%3A%7Bs%3A10%3A%22session_id%22%3Bs%3A32%3A%22D7DD575CA6F1DAEA5AD1B49ABAF509CA%22%3Bs%3A8%3A%22nickname%22%3Bs%3A24%3A%22cVlMR8IznJCYlosMYsol9w%3D%3D%22%3Bs%3A9%3A%22loginflag%22%3Bb%3A1%3Bs%3A9%3A%22life_time%22%3Bs%3A12%3A%226ButRj0JP80%3D%22%3B%7D; expires=Thu, 04-May-2017 05:08:26 GMT; path=/; domain=digital.asahi.com
+Set-Cookie: sc_mp=2; expires=Thu, 04-May-2017 05:08:26 GMT; path=/; domain=.asahi.com
+Set-Cookie: LTMD=1; expires=Thu, 04-May-2017 05:08:26 GMT; path=/; domain=digital.asahi.com
+Set-Cookie: WWW_SESS=LITECA00000000O__________ih13G6J0WCSYjiPJAiMVNM0AXpD%2Fk6z9JasmXrgdtIfNwbcU3P742GRpiHLU85SG5XNE0tpOJQ66BrS5FCHUIFYsEaUlwnHedxM4VhIC9Or6pz6JsuZU6cV2RHG9wzLNlIEBFbF2agd3zScK8yOU4rZMKWkpfJRYGxk0qrkgCCQ%3D; expires=Thu, 04-May-2017 05:08:26 GMT; path=/; domain=.asahi.com
+Vary: Accept-Encoding
+Content-Length: 22774
+Keep-Alive: timeout=5, max=100
+Connection: Keep-Alive
+Content-Type: text/html; charset=euc-jp
+
+<?xml version="1.0" encoding="euc-jp"?>
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+<html xmlns="http://www.w3.org/1999/xhtml" xml:lang="ja" lang="ja">
+<head>
+<!-- DTMä¸Š -->
+<script src="//assets.adobedtm.com/d7e679c95b1f3fceafd1fcdf47a9b3bc7a11d039/satelliteLib-b5f070ddaa8837c4b9c5d3e0509562a889b01b07.js"></script>
+<!-- /DTMä¸Š -->
+<meta http-equiv="content-type" content="text/html; charset=euc-jp" />
+<meta http-equiv="content-language" content="ja" />
+<meta http-equiv="content-style-type" content="text/css" />
+<meta http-equiv="content-script-type" content="text/javascript" />
+<meta name="author" content="The Asahi Shimbun Company" />
+<meta name="copyright" content="Copyright The Asahi Shimbun Company. All rights reserved. No reproduction or republication without written permission." />
+<title>¹ØÆÉ¼Ô¾ğÊóÊÑ¹¹ - Ä«Æü¿·Ê¹¥Ç¥¸¥¿¥ë</title>
+<meta name="description" content="Ä«Æü¿·Ê¹¤ÎÅÅ»ÒÈÇ¥µ¡¼¥Ó¥¹¡ÖÄ«Æü¿·Ê¹¥Ç¥¸¥¿¥ë¡×¤Î¥Ú¡¼¥¸¤Ç¤¹¡£" lang="ja" />
+<meta name="keywords" content="Ä«Æü¿·Ê¹,Ä«Æü,¿·Ê¹,Ä«Æü¿·Ê¹¥Ç¥¸¥¿¥ë,Ä«ÆüÅÅ»ÒÈÇ" lang="ja" />
+<link rel="stylesheet" type="text/css" href="/css/user.css" media="screen,print" />
+<link rel="stylesheet" type="text/css" href="/css/form.css" media="screen,print" />
+<link rel="stylesheet" type="text/css" href="/css/tool.css" media="screen,print" />
+<script type="text/javascript" src="/js/core/jquery-1.4.4.min.js"></script> 
+<script type="text/javascript" src="./js/jquery.search_postal.js"></script> 
+<script type="text/javascript">
+<!--
+jQuery(document).ready(function(){
+changeInputPrefCode();
+document.international.changeInput.checked=true;changeInputPrefCode();
+$(".changeInputTxt").show();
+changeAbroad();
+});
+  
+jQuery(document).ready(function(){
+jQuery("select#job_code").change(function(){
+if(jQuery(this).val() == "3" || jQuery(this).val() == "4" || jQuery(this).val() == "5"){
+var defined = "9999"; jQuery("select#job_type_code").val(defined);
+var defined = "9999"; jQuery("select#job_title_code").val(defined);
+var defined = "9999"; jQuery("select#position_code").val(defined);
+var defined = "9999"; jQuery("select#employees_code").val(defined);
+}
+});
+});
+
+function changeInputPrefCode()
+{
+  if( document.international.changeInput.checked==true ){
+    document.getElementById("pref_nm").style.display="none";
+    document.getElementById("pref_nm_text").style.display="none";
+    document.getElementById("pref_nm2").style.display="";
+  }else{
+    document.getElementById("pref_nm").style.display="";
+    document.getElementById("pref_nm_text").style.display="";
+    document.getElementById("pref_nm2").style.display="none";
+  }
+}
+function changeInputPrefCode2()
+{
+    document.getElementById("pref_nm").style.display="none";
+    document.getElementById("pref_nm_text").style.display="none";
+    document.getElementById("pref_nm2").style.display="";
+}
+function changePrefName()
+{
+  document.getElementById("pref_id").value = document.getElementById("pref_nm2").value;
+}
+function changeAbroad()
+{
+  if( document.international.abroad.checked==true ){
+    document.getElementById("pref_code1").value="";
+    document.getElementById("pref_code2").value="";
+    document.getElementById("pref_nm").value="";
+    document.getElementById("address").value="";
+    document.getElementById("address").value="";
+    document.getElementById("tel").value="";
+    document.getElementById("pref_code1").disabled=true;
+    document.getElementById("pref_code2").disabled=true;
+    document.getElementById("pref_nm").disabled=true;
+    document.getElementById("pref_nm2").disabled=true;
+    document.getElementById("pref_id").disabled=true;
+    document.getElementById("address").disabled=true;
+    document.getElementById("tel").disabled=true;
+    document.getElementById("autoaddress").disabled=true;
+    document.getElementById("changeInput").disabled=true;
+  }else{
+    document.getElementById("pref_code1").disabled=false;
+    document.getElementById("pref_code2").disabled=false;
+    document.getElementById("pref_nm").disabled=false;
+    document.getElementById("pref_nm2").disabled=false;
+    document.getElementById("pref_id").disabled=false;
+    document.getElementById("address").disabled=false;
+    document.getElementById("tel").disabled=false;
+    document.getElementById("autoaddress").disabled=false;
+    document.getElementById("changeInput").disabled=false;
+  }
+}
+
+function check_checkbox( click_num ){
+  if( click_num == document.international.elements["newspapers[]"].length-1 ){
+    for(i=0;i<document.international.elements["newspapers[]"].length;i++){
+      if( i!=click_num ){
+        document.international.elements["newspapers[]"][i].checked = false;
+      }
+    }
+  }else{
+    document.international.elements["newspapers[]"][document.international.elements["newspapers[]"].length-1].checked = false;
+  }
+}
+
+
+//½»½ê¤ÎÂ³¤­¤òÆşÎÏ
+$(function() {
+    $('#changeInput,.Address').click(function(){
+        $('#suggestMsg').show();
+    });
+    $('#address').click(function(){
+        $('#suggestMsg').hide();
+    });
+});
+
+// -->
+</script>
+</head>
+
+<body>
+
+<!-- Container BGN --><div id="Container">
+
+<!-- Header BGN --><div id="Header" class="cFix"> 
+<div class="HeaderLeft"> 
+ 
+<div class="Welcome"> 
+<ul><li class="User">¤è¤¦¤³¤½¡¡¹âÍü½à¤µ¤ó</li></ul>
+</div> 
+</div> 
+ 
+<div class="Logo"> 
+<p><a href="http://www.asahi.com/"><img src="/img/logo_s.gif" alt="Ä«Æü¿·Ê¹¡¡¥Ç¥¸¥¿¥ë" /></a></p> 
+</div> 
+ 
+<div class="HeaderRight"> 
+<div class="UserTools"> 
+<ul> 
+<li class="LogInOut"><a href="/logout/">¥í¥°¥¢¥¦¥È</a></li> 
+<li class="Guide"><a href="/my_menu/">¤ªµÒÍÍ¥µ¥İ¡¼¥È</a></li> 
+</ul> 
+</div> 
+</div> 
+ 
+</div><!-- Header END --> 
+
+<!-- Contents BGN --><div id="Contents">
+
+<!-- Main BGN --><div id="Main">
+
+<!-- MainInner BGN --><div class="MainInner cFix">
+
+<h1>¹ØÆÉ¼Ô¾ğÊó³ÎÇ§¡¦ÊÑ¹¹</h1> 
+ 
+<h2>Ä«ÆüIDÅĞÏ¿¾ğÊóÊÑ¹¹</h2> 
+ 
+<div class="Box cFix"> 
+<form action="editform.html" method="post" onsubmit="this.onsubmit=function(){return false}"> 
+<input type="hidden" name="form_id_d2" value="7e41de5d41bc57375a77ba102f140561" />
+<table class="From Chart" summary=""> 
+<tbody> 
+<tr> 
+<th>»áÌ¾</th> 
+<td>¹âÍü½à</td> 
+</tr> 
+<tr> 
+<th>»áÌ¾¤Õ¤ê¤¬¤Ê</th> 
+<td>¤¿¤«¤Ê¤·¤¸¤å¤ó</td> 
+</tr> 
+<tr> 
+<th>À¸Ç¯·îÆü</th> 
+<td>À¾Îñ1980Ç¯01·î01Æü</td> 
+</tr> 
+<tr> 
+<th>À­ÊÌ</th> 
+<td>ÃËÀ­</td> 
+</tr> 
+<tr> 
+<td colspan="2" class="OneSubmit"><input type="submit" value="Ä«ÆüIDÅĞÏ¿¾ğÊóÊÑ¹¹" class="JpassChange" /></td> 
+</tr> 
+</tbody> 
+</table> 
+</form> 
+</div> 
+ 
+<h2>Ä«Æü¿·Ê¹¥Ç¥¸¥¿¥ë¹ØÆÉ¼Ô¾ğÊóÊÑ¹¹</h2> 
+ 
+<!-- Error BGN -->
+<!-- Error END -->
+
+<div class="Anq Box cFix"> 
+<p>¤´ÆşÎÏ¤¤¤¿¤À¤¯¿¦¶È¡¢¶È¼ï¡¢¿¦¼ï¡¢Ìò¿¦¤Ê¤É¤Î¾ğÊó¤Ï¡¢º£¸å¤Î¥µ¡¼¥Ó¥¹¤Î¸ş¾å¤ËÍøÍÑ¤µ¤»¤ÆÄº¤­¤Ş¤¹¡£</p>
+<form action="confirm_d.html" method="post" name="international" id="international" onsubmit="this.onsubmit=function(){return false}"> 
+<input type="hidden" name="form_id" value="7e41de5d41bc57375a77ba102f140561" />
+<input type="hidden" name="asacd[0]" value=""/>
+<input type="hidden" name="asatel[0]" value=""/>
+<input type="hidden" name="asashacd[0]" value=""/>
+<input type="hidden" name="asacd[1]" value=""/>
+<input type="hidden" name="asatel[1]" value=""/>
+<input type="hidden" name="asashacd[1]" value=""/>
+<input type="hidden" name="asacd[2]" value=""/>
+<input type="hidden" name="asatel[2]" value=""/>
+<input type="hidden" name="asashacd[2]" value=""/>
+<input type="hidden" name="asacd[3]" value=""/>
+<input type="hidden" name="asatel[3]" value=""/>
+<input type="hidden" name="asashacd[3]" value=""/>
+<input type="hidden" name="asacd[4]" value=""/>
+<input type="hidden" name="asatel[4]" value=""/>
+<input type="hidden" name="asashacd[4]" value=""/>
+<table class="From Chart" summary=""> 
+<tbody> 
+<tr> 
+<th>Í¹ÊØÈÖ¹æ<span class="option">Ç¤°Õ</span><span>¡ÊÈ¾³Ñ¡Ë</span></th> 
+<td class="Zip">
+<span id="ziperror"></span>
+<div class="cFix ZipError">
+<input type="text" name="pref_code1" id="pref_code1" value="" size="4" maxlength="3" /><span class="Hyphen">¡İ</span>
+<input type="text" name="pref_code2" id="pref_code2" value=""size="4" maxlength="4" />
+<input type="button" class="Address" id="autoaddress" value="½»½ê¼«Æ°ÆşÎÏ" onclick="searchPostal(this.form.pref_code1.value, this.form.pref_code2.value, this.form );" />
+
+<span class="changeInputTxt" style="display: none;">
+<input name="changeInput" type="checkbox" value="1" onClick="changeInputPrefCode();" id="changeInput" /><label for="changeInput">¼êÆ°¤Ç½»½ê¤òÆşÎÏ¤¹¤ë</label></span>
+</div>
+<p class="mt5 pb0"><input type="checkbox" name="abroad" class="mt5" id="abroad" value="1" onclick="changeAbroad();" /><label for="abroad">³¤³°ºß½»¤ÎÊı</label></p>
+</td> 
+</tr> 
+<tr> 
+<th>½»½ê¡ÊÅÔÆ»ÉÜ¸©¡Ë<span class="caution">É¬¿Ü</span><span>¡ÊÁ´³Ñ¡Ë</span></th> 
+<td colspan="2"><input type="text" name="pref_nm" id="pref_nm" value="¿ÀÆàÀî¸©" readonly size="24"class="em24 mb5 BgDisabled"><span class="comment" id="pref_nm_text">¡ÊÅÔÆ»ÉÜ¸©¡Ë</span>
+<select name="pref_id2" id="pref_nm2" class="mb5" style="display:none;" onChange="changePrefName();">
+<option value="">ÅÔÆ»ÉÜ¸©¤òÁªÂò</option>
+<option value="01">ËÌ³¤Æ»</option>
+<option value="02">ÀÄ¿¹¸©</option>
+<option value="03">´ä¼ê¸©</option>
+<option value="04">µÜ¾ë¸©</option>
+<option value="05">½©ÅÄ¸©</option>
+<option value="06">»³·Á¸©</option>
+<option value="07">Ê¡Åç¸©</option>
+<option value="08">°ñ¾ë¸©</option>
+<option value="09">ÆÊÌÚ¸©</option>
+<option value="10">·²ÇÏ¸©</option>
+<option value="11">ºë¶Ì¸©</option>
+<option value="12">ÀéÍÕ¸©</option>
+<option value="13">ÅìµşÅÔ</option>
+<option value="14"selected>¿ÀÆàÀî¸©</option>
+<option value="15">¿·³ã¸©</option>
+<option value="16">ÉÙ»³¸©</option>
+<option value="17">ÀĞÀî¸©</option>
+<option value="18">Ê¡°æ¸©</option>
+<option value="19">»³Íü¸©</option>
+<option value="20">Ä¹Ìî¸©</option>
+<option value="21">´ôÉì¸©</option>
+<option value="22">ÀÅ²¬¸©</option>
+<option value="23">°¦ÃÎ¸©</option>
+<option value="24">»°½Å¸©</option>
+<option value="25">¼¢²ì¸©</option>
+<option value="26">µşÅÔÉÜ</option>
+<option value="27">ÂçºåÉÜ</option>
+<option value="28">Ê¼¸Ë¸©</option>
+<option value="29">ÆàÎÉ¸©</option>
+<option value="30">ÏÂ²Î»³¸©</option>
+<option value="31">Ä»¼è¸©</option>
+<option value="32">Åçº¬¸©</option>
+<option value="33">²¬»³¸©</option>
+<option value="34">¹­Åç¸©</option>
+<option value="35">»³¸ı¸©</option>
+<option value="36">ÆÁÅç¸©</option>
+<option value="37">¹áÀî¸©</option>
+<option value="38">°¦É²¸©</option>
+<option value="39">¹âÃÎ¸©</option>
+<option value="40">Ê¡²¬¸©</option>
+<option value="41">º´²ì¸©</option>
+<option value="42">Ä¹ºê¸©</option>
+<option value="43">·§ËÜ¸©</option>
+<option value="44">ÂçÊ¬¸©</option>
+<option value="45">µÜºê¸©</option>
+<option value="46">¼¯»ùÅç¸©</option>
+<option value="47">²­Æì¸©</option>
+</select><br />
+<input type="hidden" name="pref_id" id="pref_id" value="14" />
+</td>
+</tr>
+<tr>
+<th>½»½ê¡Ê»Ô¶èÄ®Â¼°Ê¹ß¡Ë<span class="option">Ç¤°Õ</span><span>¡ÊÁ´³Ñ¡Ë</span></th>
+<td>
+<input type="text" name="address" id="address" value="" size="48" class="em48 mb5" /><span class="comment">¡Ê»Ô¶èÄ®Â¼°Ê¹ß¡Ë</span>
+<p id="suggestMsg"><span>½»½ê¤ÎÂ³¤­¤òÆşÎÏ¤·¤Æ¤¯¤À¤µ¤¤¡£</span></p>
+</td> 
+</tr> 
+<tr> 
+<th>ÅÅÏÃÈÖ¹æ<span class="option">Ç¤°Õ</span><span>¡ÊÈ¾³Ñ¡Ë</span></th> 
+<td colspan="2"><input type="text" name="tel" id="tel" value="" size="16" class="em32" /><span class="comment">¡Ê¥«¥Ã¥³¡¦¥Ï¥¤¥Õ¥ó¤Ê¤·¡¡Îã¡§0335450131¡Ë</span></td> 
+</tr> 
+<tr> 
+<th>¿¦¶È<span class="caution">É¬¿Ü</span></th> 
+<td colspan="2"><select name="job_code" id="job_code" > 
+<option value="">¿¦¶È¤òÁªÂò</option> 
+<option value="1">¤ª¶Ğ¤á¡Ê²ñ¼Ò°÷¡¦¸øÌ³°÷¤Ê¤É¡Ë</option>
+<option value="2"selected>¼«±Ä¡¦¼«Í³¶È</option>
+<option value="3">³ØÀ¸</option>
+<option value="4">¼çÉØ¡Ê¥Ñ¡¼¥È´Ş¤à¡Ë</option>
+<option value="5">Ìµ¿¦</option>
+</select></td> 
+</tr> 
+<tr> 
+<th>¶È¼ï<span class="option">Ç¤°Õ</span></th> 
+<td colspan="2"><select name="job_type_code" id="job_type_code" > 
+<option value="">¶È¼ï¤òÁªÂò</option> 
+<option value="1">ÇÀÎÓ¿å»º¡¦¹Û¶È</option>
+<option value="2">±¿Í¢¡¦Î¹¹Ô</option>
+<option value="3">¶µ°é</option>
+<option value="4">²·Çä¡¦¾®Çä¡¦¾¦¼Ò</option>
+<option value="5">¥µ¡¼¥Ó¥¹</option>
+<option value="6">·úÀß</option>
+<option value="7">¶âÍ»¡¦Êİ¸±</option>
+<option value="8">¼«Æ°¼Ö¡¦Í¢Á÷µ¡´ï</option>
+<option value="9">ÌôÉÊ¡¦¿©ÉÊ¡¦²½¾ÑÉÊ</option>
+<option value="10">µ¡³£¡¦½Å¹©¶È</option>
+<option value="11">¾ğÊóÄÌ¿®¡¦ÅÅµ¡</option>
+<option value="12">ÁÇºà¡¦²½³Ø</option>
+<option value="13">¤½¤ÎÂ¾À½Â¤</option>
+<option value="14">¥¨¥Í¥ë¥®¡¼</option>
+<option value="15">ÉÔÆ°»º</option>
+<option value="16">°û¿©¡¦½ÉÇñ</option>
+<option value="17">¥³¥ó¥µ¥ë¥Æ¥£¥ó¥°¡¦²ñ·×¡¦Ë¡Î§´ØÏ¢</option>
+<option value="18">¸øÌ³°÷¡Ê¶µ°÷½ü¤¯¡Ë</option>
+<option value="19">ÊüÁ÷¡¦½ĞÈÇ¡¦¹­¹ğ¡¦¥Ş¥¹¥³¥ß</option>
+<option value="20">¥¢¥Ñ¥ì¥ë¡¦¥Õ¥¡¥Ã¥·¥ç¥ó</option>
+<option value="21">¿Íºà¥µ¡¼¥Ó¥¹</option>
+<option value="9999">¤½¤ÎÂ¾¡Ê³ØÀ¸¡¦¼çÉØ¡¦Ìµ¿¦¤ÎÊı¤â¤³¤Á¤é¤ò¤ªÁª¤Ó¤¯¤À¤µ¤¤¡Ë</option>
+</select></td> 
+</tr> 
+<tr> 
+<th>¿¦¼ï<span class="option">Ç¤°Õ</span></th> 
+<td colspan="2"><select name="job_title_code" id="job_title_code" > 
+<option value="">¿¦¼ï¤òÁªÂò</option> 
+<option value="1">Ìò°÷¡¦·Ğ±Ä¼Ô</option>
+<option value="2">±Ä¶È¡¦ÈÎÇä</option>
+<option value="3">·ĞÍı¡¦ºâÌ³</option>
+<option value="4">ÁíÌ³¡¦¿Íºà</option>
+<option value="5">°ìÈÌ»öÌ³</option>
+<option value="6">¾ğÊó¥·¥¹¥Æ¥à</option>
+<option value="7">¹­Êó¡¦ÀëÅÁ</option>
+<option value="8">Ä´ºº¡¦¥Ş¡¼¥±¥Æ¥£¥ó¥°</option>
+<option value="9">·Ğ±Ä´ë²è</option>
+<option value="10">À¸»º¡¦À½Â¤</option>
+<option value="11">»ñºà¡¦¹ØÇã</option>
+<option value="12">¾¦ÉÊ´ë²è¡¦¾¦ÉÊ³«È¯</option>
+<option value="13">ÇÛÁ÷¡¦ÊªÎ®</option>
+<option value="14">¸¦µæ¡¦µ»½Ñ³«È¯</option>
+<option value="15">ÊÔ½¸¡¦ÊÔÀ®¡¦À©ºî</option>
+<option value="16">ÀìÌç¿¦¡Ê·úÃÛ¡¦ÅÚÌÚ´ØÏ¢¡Ë</option>
+<option value="17">ÀìÌç¿¦¡Ê°åÎÅ´ØÏ¢¡Ë</option>
+<option value="18">ÀìÌç¿¦¡Ê²ñ·×´ØÏ¢¡Ë</option>
+<option value="19">ÀìÌç¿¦¡ÊË¡Î§´ØÏ¢¡Ë</option>
+<option value="20">ÀìÌç¿¦¡Ê¶µ°é´ØÏ¢¡Ë</option>
+<option value="9999">¤½¤ÎÂ¾¡Ê³ØÀ¸¡¦¼çÉØ¡¦Ìµ¿¦¤ÎÊı¤â¤³¤Á¤é¤ò¤ªÁª¤Ó¤¯¤À¤µ¤¤¡Ë</option>
+</select></td> 
+</tr> 
+<tr> 
+<th>Ìò¿¦<span class="option">Ç¤°Õ</span></th> 
+<td colspan="2"><select name="position_code" id="position_code" > 
+<option value="">Ìò¿¦¤òÁªÂò</option> 
+<option value="1">·Ğ±Ä¼Ô</option>
+<option value="2">Ìò°÷¥¯¥é¥¹</option>
+<option value="3">ËÜÉôÄ¹¥¯¥é¥¹</option>
+<option value="4">ÉôÄ¹¥¯¥é¥¹</option>
+<option value="5">Éô¼¡Ä¹¡¦ÉôÄ¹ÂåÍı¥¯¥é¥¹</option>
+<option value="6">²İÄ¹¥¯¥é¥¹</option>
+<option value="7">²İÄ¹ÂåÍı¡¦·¸Ä¹¥¯¥é¥¹</option>
+<option value="8">°ìÈÌ¼Ò°÷</option>
+<option value="9">ÇÉ¸¯¡¦·ÀÌó¼Ò°÷</option>
+<option value="9999">¤½¤ÎÂ¾¡Ê³ØÀ¸¡¦¼çÉØ¡¦Ìµ¿¦¤ÎÊı¤â¤³¤Á¤é¤ò¤ªÁª¤Ó¤¯¤À¤µ¤¤¡Ë</option>
+</select></td> 
+</tr> 
+<tr> 
+<th>½¾¶È°÷µ¬ÌÏ<span class="option">Ç¤°Õ</span></th> 
+<td colspan="2"><select name="employee_code" id="employee_code" > 
+<option value="">½¾¶È°÷µ¬ÌÏ¤òÁªÂò</option> 
+<option value="1">10¿ÍÌ¤Ëş</option>
+<option value="2">10¿Í¡Á50¿ÍÌ¤Ëş</option>
+<option value="3">50¿Í¡Á100¿ÍÌ¤Ëş</option>
+<option value="4">100¿Í¡Á200¿ÍÌ¤Ëş</option>
+<option value="5">200¿Í¡Á300¿ÍÌ¤Ëş</option>
+<option value="6">300¿Í¡Á500¿ÍÌ¤Ëş</option>
+<option value="7">500¿Í¡Á1,000¿ÍÌ¤Ëş</option>
+<option value="8">1,000¿Í¡Á10,000¿ÍÌ¤Ëş</option>
+<option value="9">10,000¿Í°Ê¾å</option>
+<option value="9999">¤½¤ÎÂ¾¡Ê³ØÀ¸¡¦¼çÉØ¡¦Ìµ¿¦¤ÎÊı¤â¤³¤Á¤é¤ò¤ªÁª¤Ó¤¯¤À¤µ¤¤¡Ë</option>
+</select></td> 
+</tr> 
+
+
+<tr> 
+<th>ºÇ½ª³ØÎò<span class="option">Ç¤°Õ</span></th> 
+<td colspan="2"><select name="achademic_background" id="achademic_background" > 
+<option value="">ºÇ½ª³ØÎò¤òÁªÂò</option> 
+<option value="1">Ãæ³Ø¹»¡Êµì¹â¾®¡¦µì¾®¡Ë</option>
+<option value="2">¹âÅù³Ø¹»¡¦¹âÅùÀì½¤³Ø¹»</option>
+<option value="3">Ã»Âç¡¦¹âÀì¡¦ÀìÌç³Ø¹»</option>
+<option value="4">Âç³Ø¡¦Âç³Ø±¡</option>
+<option value="5">ºß³ØÃæ</option>
+<option value="9999">¤½¤ÎÂ¾¡¦ÉÔÌÀ</option>
+</select></td> 
+</tr> 
+<tr> 
+<th>À¤ÂÓÇ¯¼ı<span class="option">Ç¤°Õ</span></th> 
+<td colspan="2"><select name="income_code" id="income_code" > 
+<option value="">À¤ÂÓÇ¯¼ı¤òÁªÂò</option> 
+<option value="1">400Ëü±ßÌ¤Ëş</option>
+<option value="2">400Ëü±ß¡Á700Ëü±ßÌ¤Ëş</option>
+<option value="3">700Ëü±ß¡Á1,000Ëü±ßÌ¤Ëş</option>
+<option value="4">1,000Ëü±ß¡Á1,500Ëü±ßÌ¤Ëş</option>
+<option value="5">1,500Ëü±ß¡Á2,000Ëü±ßÌ¤Ëş</option>
+<option value="6">2,000Ëü±ß°Ê¾å</option>
+</select></td> 
+</tr> 
+
+<tr>
+<th>¿·Ê¹¤Î¹ØÆÉ¾õ¶·¡ÊÂğÇÛ¡Ë<span class="caution">É¬¿Ü</span></th>
+<td colspan="2">
+<ul class="cFix">
+<li><input type="checkbox" name="newspapers[]" class="subsc" id="NP0001" value="NP0001" onClick="check_checkbox(0);" /><label for="NP0001">Ä«Æü¿·Ê¹</label></li>
+<li><input type="checkbox" name="newspapers[]" class="subsc" id="NP0002" value="NP0002" onClick="check_checkbox(1);" /><label for="NP0002">ËèÆü¿·Ê¹</label></li>
+<li><input type="checkbox" name="newspapers[]" class="subsc" id="NP0003" value="NP0003" onClick="check_checkbox(2);" /><label for="NP0003">ÆÉÇä¿·Ê¹</label></li>
+<li><input type="checkbox" name="newspapers[]" class="subsc" id="NP0004" value="NP0004" onClick="check_checkbox(3);" /><label for="NP0004">»º·Ğ¿·Ê¹</label></li>
+<li><input type="checkbox" name="newspapers[]" class="subsc" id="NP0005" value="NP0005" onClick="check_checkbox(4);" /><label for="NP0005">ÆüËÜ·ĞºÑ¿·Ê¹</label></li>
+<li><input type="checkbox" name="newspapers[]" class="subsc" id="NP0006" value="NP0006" onClick="check_checkbox(5);" /><label for="NP0006">ËÌ³¤Æ»¿·Ê¹</label></li>
+<li><input type="checkbox" name="newspapers[]" class="subsc" id="NP0007" value="NP0007" onClick="check_checkbox(6);" /><label for="NP0007">ÃæÆü¿·Ê¹</label></li>
+<li><input type="checkbox" name="newspapers[]" class="subsc" id="NP0009" value="NP0009" onClick="check_checkbox(7);" /><label for="NP0009">À¾ÆüËÜ¿·Ê¹</label></li>
+<li><input type="checkbox" name="newspapers[]" class="subsc" id="NP9999" value="NP9999" onClick="check_checkbox(8);" /><label for="NP9999">¤½¤ÎÂ¾¤Î¿·Ê¹</label></li>
+<li><input type="checkbox" name="newspapers[]" class="subsc" id="NP0000" value="NP0000" onClick="check_checkbox(9);" checked /><label for="NP0000">¹ØÆÉ¤·¤Æ¤¤¤Ê¤¤</label></li>
+</ul>
+</td>
+</tr>
+<tr>
+<th>ËÜ¥µ¡¼¥Ó¥¹¤ò¤´ÍøÍÑ¤ÎÃ¼Ëö<span class="option">Ç¤°Õ</span></th>
+<td colspan="2">
+<ul class="cFix">
+<li><input type="checkbox" name="devices[]" id="DV0001" value="DV0001" /><label for="DV0001">PC</label></li>
+<li><input type="checkbox" name="devices[]" id="DV0002" value="DV0002" /><label for="DV0002">iPad</label></li>
+<li><input type="checkbox" name="devices[]" id="DV0003" value="DV0003" /><label for="DV0003">iPhone</label></li>
+<li><input type="checkbox" name="devices[]" id="DV0004" value="DV0004" /><label for="DV0004">iPod touch</label></li>
+<li><input type="checkbox" name="devices[]" id="DV0005" value="DV0005" /><label for="DV0005">Android¡Ê·ÈÂÓÅÅÏÃ¡Ë</label></li>
+<li><input type="checkbox" name="devices[]" id="DV0006" value="DV0006" /><label for="DV0006">Android¡Ê¥¿¥Ö¥ì¥Ã¥È¡Ë</label></li>
+</ul>
+</td>
+</tr>
+
+<tr>
+<th>¥ê¥µ¡¼¥Á¥â¥Ë¥¿¡¼¤Î±şÊç<span class="option">Ç¤°Õ</span></th>
+<td colspan="2"><input type="checkbox" name="entry_monitor" id="research" value="1" checked /><label for="research">ÅĞÏ¿¤¹¤ë</label><span class="ml20"><a href="http://digital.asahi.com/info/guide/index09_05.html" target="_blank" class="Blank">¥ê¥µ¡¼¥Á¥â¥Ë¥¿¡¼¤È¤Ï¡©</a></span></td>
+</tr>
+<tr>
+<th>¶½Ì£¡¦´Ø¿´¤Î¤¢¤ë¾ğÊó<span class="option">Ç¤°Õ</span></th>
+<td colspan="2">
+<ul class="cFix">
+<li><input type="checkbox" name="interest[]" id="IN0001" value="IN0001" /><label for="IN0001">¥¨¥ó¥¿¡¼¥Æ¥¤¥á¥ó¥È</label></li>
+<li><input type="checkbox" name="interest[]" id="IN0002" value="IN0002" /><label for="IN0002">¿©¡¦·ò¹¯¡¦°åÎÅ</label></li>
+<li><input type="checkbox" name="interest[]" id="IN0003" value="IN0003" /><label for="IN0003">¼«¸Ê·¼È¯¡¦³Ø½¬</label></li>
+<li><input type="checkbox" name="interest[]" id="IN0004" value="IN0004" /><label for="IN0004">¥·¥ç¥Ã¥Ô¥ó¥°</label></li>
+<li><input type="checkbox" name="interest[]" id="IN0005" value="IN0005" /><label for="IN0005">½»Âğ¡¦¥¤¥ó¥Æ¥ê¥¢</label></li>
+<li><input type="checkbox" name="interest[]" id="IN0006" value="IN0006" /><label for="IN0006">¶âÍ»</label></li>
+<li><input type="checkbox" name="interest[]" id="IN0007" value="IN0007" /><label for="IN0007">½¢¿¦¡¦Å¾¿¦</label></li>
+<li><input type="checkbox" name="interest[]" id="IN0008" value="IN0008" /><label for="IN0008">ËÜ¡¦Ê¸²½¶µÍÜ</label></li>
+<li><input type="checkbox" name="interest[]" id="IN0009" value="IN0009" /><label for="IN0009">Î¹¹Ô¡¦¥¹¥İ¡¼¥Ä¡¦¥¢¥¦¥È¥É¥¢</label></li>
+<li><input type="checkbox" name="interest[]" id="IN0010" value="IN0010" /><label for="IN0010">¥Ó¥¸¥Í¥¹</label></li>
+<li><input type="checkbox" name="interest[]" id="IN0011" value="IN0011" /><label for="IN0011">¼Ö</label></li>
+<li><input type="checkbox" name="interest[]" id="IN0012" value="IN0012" /><label for="IN0012">¥Õ¥¡¥Ã¥·¥ç¥ó</label></li>
+<li><input type="checkbox" name="interest[]" id="IN0013" value="IN0013" /><label for="IN0013">IT¾ğÊó</label></li>
+<li><input type="checkbox" name="interest[]" id="IN0014" value="IN0014" /><label for="IN0014">´Ä¶­</label></li>
+<li><input type="checkbox" name="interest[]" id="IN0015" value="IN0015" /><label for="IN0015">¹ñºİ¡¦³¤³°¾ğÊó</label></li>
+<li><input type="checkbox" name="interest[]" id="IN0016" value="IN0016" /><label for="IN0016">¥Ú¥Ã¥È¡Ê¸¤¡¦¤Í¤³¡Ë</label></li>
+</ul>
+</td>
+</tr>
+
+
+<tr> 
+<td colspan="3" class="TwoSubmit"><input type="button" value="Ìá¤ë" class="Back FloatL" onclick="location.href='/my_menu/';" /><input type="submit" value="¼¡¤Ø¿Ê¤à" class="Next FloatR" /></td> 
+</tr> 
+</tbody> 
+</table> 
+</form>
+
+<ul class="mt20 TxtM LnkDot">
+<li>Cookie¤ÈJava Script¤ÎÀßÄê¤ÏÍ­¸ú¤Ë¤·¤Æ¤¯¤À¤µ¤¤¡£</li>
+<li>Åö¥µ¥¤¥È¤ÏSSL¤ËÂĞ±ş¤·¤Æ¤¤¤Ş¤¹¡£¤¹¤Ù¤Æ¤Î¸Ä¿Í¾ğÊó¤Ï°Å¹æ²½¤·¤ÆÁ÷¿®¤µ¤ì¤Ş¤¹¡£</li>
+</ul>
+
+</div> 
+
+
+</div><!-- MainInner END -->
+
+</div><!-- Main END -->
+
+</div><!-- Contents END -->
+
+
+<!-- Footer BGN --><div id="Footer">
+
+<div class="PageTop">
+<ul>
+<li><a href="#Container">¥Ú¡¼¥¸¥È¥Ã¥×¤ØÌá¤ë</a></li>
+</ul>
+</div>
+
+<!-- FooterInner BGN --><div class="FooterInner">
+
+<p class="Notice">·ÇºÜ¤Îµ­»ö¡¦¼Ì¿¿¤ÎÌµÃÇÅ¾ºÜ¤ò¶Ø¤¸¤Ş¤¹¡£¤¹¤Ù¤Æ¤ÎÆâÍÆ¤ÏÆüËÜ¤ÎÃøºî¸¢Ë¡ÊÂ¤Ó¤Ë¹ñºİ¾òÌó¤Ë¤è¤êÊİ¸î¤µ¤ì¤Æ¤¤¤Ş¤¹¡£</p>
+
+<ul>
+<li><a href="http://digital.asahi.com/policy.html ">ÍøÍÑ¤Ë¤¢¤¿¤Ã¤Æ</a></li>
+<li><a href="http://digital.asahi.com/kojinjoho.html">¸Ä¿Í¾ğÊó</a></li>
+<li><a href="http://digital.asahi.com/copyright.html">Ãøºî¸¢</a></li>
+<li><a href="http://www.asahi.com/shimbun/">²ñ¼Ò°ÆÆâ</a></li>
+<li><a href="http://www.asahi.com/shimbun/reference/">¤ªÌä¤¤¹ç¤ï¤»¡¦¥Ø¥ë¥×</a></li>
+</ul>
+
+<p class="Notice">Copyright &copy; The Asahi Shimbun Company. All rights reserved. No reproduction or republication without written permission.</p>
+
+</div><!-- FooterInner END -->
+
+
+</div><!-- Footer END -->
+
+
+</div><!-- Container END -->
+
+
+<!-- DTMä¸‹ -->
+<script type="text/javascript">_satellite.pageBottom();</script>
+<!-- /DTMä¸‹ -->
+</body>
+</html>
+

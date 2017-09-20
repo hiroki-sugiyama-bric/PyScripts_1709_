@@ -1,0 +1,1234 @@
+GET https://shop.nestle.jp/front/app/mypage/mypage/ HTTP/1.1
+Host: shop.nestle.jp
+User-Agent: Mozilla/5.0 (Windows NT 6.1; rv:52.0) Gecko/20100101 Firefox/52.0
+Accept: text/html,application/xhtml+xml,application/xml;q=0.9,*/*;q=0.8
+Accept-Language: ja,en-US;q=0.7,en;q=0.3
+Referer: https://shop.nestle.jp/front/app/common/login/auth
+Cookie: CLOGID=35a799f3-e1ed-4c; JSESSIONID=E5DE65862EBC4BBD4625874A053C9AE0; OFFICE_LOGIN_FLG=0; NM001=0; NM002=0; NM003=0; citrix_ns_id=2JNCpAgUvAh61dwzu9/f6WJnPK0A000; citrix_ns_id_.nestle.jp_%2F_wat=bmVzdGxlX3JlZ2lzdF9f?vVzcGAJWOhqxgn+mpQVJG9qdss0A&TlNDX1FIX3RpcHEub2Z0dW1mLmtx?qrdzuhiYte6pbz9tXZzE+TKWdI0A&T0ZGSUNFX0xPR0lOX0ZMR19f?/yjgiQYBE7/Vs0bt3++VYqLAN44A#VjqFJqy+hIj8xxctRAlszDUQlmIA&U1NPU0lE?4RbILcCuJqXopI2KZlnUBH9wDPgA&SlNFU1NJT05JRF9f?0MBfSLGxxrHGZYDWjDmtRc/0Rb8A#VjqFJqy+hIj8xxctRAlszDUQlmIA&; citrix_ns_id_.nestle.jp_%2F_wlf=TlNDX1FIX29mdHVtZi5rcV9f?wR65IKVkxcS0+sqyOplIs4ShohYA&dXNlcl9f?BJsssd5wm5QURadmGLQqccSQycoA&TlNDX1FIX3Eub2Z0dW1mLmtx?wR65IKVkxcS0+sqyOplIs4ShohYA&UkFGUF9VSURf?VO0aA98imu1U46ETMZ4WuJaY5Z0A&Tk0wMDFf?/yjgiQYBE7/Vs0bt3++VYqLAN44A#VjqFJqy+hIj8xxctRAlszDUQlmIA&Tk0wMDJf?/yjgiQYBE7/Vs0bt3++VYqLAN44A#VjqFJqy+hIj8xxctRAlszDUQlmIA&Tk0wMDNf?/yjgiQYBE7/Vs0bt3++VYqLAN44A#VjqFJqy+hIj8xxctRAlszDUQlmIA&Q0xPR0lE?IOnqO4TFIjHjVgSioY17C4jCgVAA#8545cLbBUcuDEUQ/B3VHP0LyTxQA&; visid_incap_701124=BfBxUy5HTUWf1eLeSVHAqdTJ5FgAAAAAQUIPAAAAAACZI5sWzH7Pk4wlnt3zFIbi; incap_ses_218_701124=Kr2VX2LaETRJdfx0Zn8GA9TJ5FgAAAAANH8C3hTARWafvVQefyqbhg==; _ga=GA1.2.1158537501.1491388892; __ulfpc=201704051941332184; NSC_QH_tipq.oftumf.kq=ffffffffc3a0975d45525d5f4f58455e445a4a423660; _kyp={'.nestle.jp':{'uid':'2afefb67-674e-a1f7-adce-583d2c7a9359'%2C'_ex':1493980985466%2C'i':{'lt':1491389371321%2C'_ex':1493981371326%2C'sid':'ff1edb573f48'%2C'sc':1%2C'lc':54}}}; _ga=GA1.3.1158537501.1491388892; bt3.yjcd=; krt.vis=3792700688_1491388986631_1544688; style=null; RAFP_UID=Q00EuNqkqK; _dc_gtm_UA-18030477-88=1; _gat=1; _gat_newTracker=1; _gat_rolloutTracker=1; _gat_globalTracker=1; _dc_gtm_UA-18030477-56=1; SSOSID=a973f4194b6378e6c5dab5b6ab0299ec5c2ecbc8
+Connection: close
+Upgrade-Insecure-Requests: 1
+
+
+HTTP/1.1 200 OK
+Date: Wed, 05 Apr 2017 10:49:27 GMT
+X-FRAME-OPTIONS: SAMEORIGIN
+Cache-Control: no-store
+Pragma: no-cache
+Expires: -1
+Max-Age: Thu, 01 Jan 1970 00:00:00 GMT
+Content-Type: text/html;charset=UTF-8
+Content-Length: 25915
+Connection: close
+X-Content-Type-Options: nosniff
+
+
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+
+
+
+
+
+<html xmlns="http://www.w3.org/1999/xhtml" xml:lang="ja" lang="ja">
+<head>
+  
+
+
+
+
+
+
+<meta http-equiv="content-type" content="text/html;charset=UTF-8" />
+<meta http-equiv="content-style-type" content="text/css" />
+<meta http-equiv="content-script-type" content="text/javascript" />
+<meta name="Keywords" content="コーヒー通販,ドルチェグスト,ネスカフェ,,詳細,コーヒー,珈琲,通販,ネスレ" lang="ja" xml:lang="ja" />
+<meta name="viewport" content="width=device-width, initial-scale=1, maximum-scale=2, user-scalable=yes" id="Meta" />
+<meta name="Description" content="コーヒー通販のネスレ通販オンラインショップ【公式サイト】。ネスレのコーヒー製品ブランド「ネスカフェ」の他、ネスカフェ ドルチェ グスト、ネスカフェ バリスタ、等コーヒーメーカーも取り扱っています。" lang="ja" xml:lang="ja" />
+<link rel="alternate" type="application/rss+xml" title="コーヒー通販のネスレ通販オンラインショップ" href="/front/rss" />
+<link rel="alternate" media="handheld" href="http://shop.nestle.jp/m/" />
+
+  
+
+
+
+
+
+
+<link href="/front/style/import.css" rel="stylesheet" type="text/css" media="all" charset="UTF-8" />
+
+
+
+
+
+
+
+
+
+
+  
+
+
+
+
+
+
+
+<script type="text/javascript" src="/front/script/ws10_front.js" charset="UTF-8" ></script>
+
+
+
+
+
+
+<script type="text/javascript" src="/front/script/prototype.js"></script>
+
+
+
+
+
+
+<script type="text/javascript" src="/front/script/heightLine.js" charset="UTF-8"></script>
+
+
+
+
+<script type="text/javascript" src="/front/script/jsjquery-1.4.2.js" charset="UTF-8"></script>
+
+
+
+<script type="text/javascript">
+jQuery.noConflict();
+
+
+(function($) {
+	 $(function(){
+		$('#navi a img').not('[src*="'+ '_o' +'."]').each(function() {
+			var src = $(this).attr('src');
+									var src_on = src.substr(0, src.lastIndexOf('.'))
+			 + '_o'
+			 + src.substr(src.lastIndexOf('.'));　
+			$(this).hover(
+				function() {
+					$(this).attr('src', src_on);
+				},
+				function() {
+					$(this).attr('src', src);
+				}
+			);
+		});
+	});
+})(jQuery);
+
+
+</script>
+
+
+
+<script type="text/javascript" src="/front/script/jkl-parsexml.js" charset="UTF-8"></script>
+<script type="text/javascript" src="/front/script/commodity_ajax_clip1.js" charset="UTF-8"></script>
+<script type="text/javascript" src="/front/script/commodity_ajax_clip2.js" charset="UTF-8"></script>
+
+
+
+
+
+
+<script type="text/javascript" src="/front/script/ws10_front_mypage.js" charset="UTF-8" ></script>
+
+<script type="text/javascript">
+var pageInfo = {contextPath:"/front"};
+
+var webshopConfig = {minYear:"2005", maxYear:"2020"};
+
+</script>
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+<script type="text/javascript">
+function _redirect() {
+  setTimeout(function() {
+    window.location.href = "/front/app/common/logout/";
+  }, 1200000);
+}
+if(window.addEventListener) {
+  window.addEventListener('load', _redirect, false);
+} else if(window.attachEvent) {
+  window.attachEvent('onload', _redirect);
+} else {
+  window.onload = function() { _redirect(); }
+}
+</script>
+<noscript>
+<meta http-equiv="refresh" content="1200; url=/front/app/common/logout/"  />
+</noscript>
+
+
+
+<style>html { display:none }</style>
+<script>
+if (self == top) {
+  document.documentElement.style.display = 'block';
+} else {
+  top.location = self.location;
+}
+</script>
+
+
+
+<script type="text/javascript" src="/front/script/entry.js" charset="UTF-8"></script>
+
+  <title>マイページ</title>
+  
+
+<script data-kz-key="ab0d46173ece76ba" data-kz-namespace="kzs" src="//cdn.kaizenplatform.net/s/ab/0d46173ece76ba.js"></script>
+
+
+
+</head>
+<body onload="textInputController()">
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+<script type="text/javascript">(function(){var t,e,r,n,c;for(t=function(){var t;return t=t||[],function(){var e,r,n,c;for(r=["init","start","stop","user","track","action","event","goal","chat","buy","page","view","admin","group","alias","ready","link","form","click","submit","cmd","emit","on","send","css","js","style","option","get","set"],e=function(e){return function(){return t.push([e].concat(Array.prototype.slice.call(arguments,0)))}},n=0,c=[];n<r.length;)t[r[n]]=e(r[n]),c.push(n++);return c}(),t.init=function(e,r){var n,c;return t.api_key=e,t.options=r||{},c=document.createElement("script"),c.type="text/javascript",c.async=!0,c.charset="utf-8",c.src="https://static.karte.io/libs/tracker.js",n=document.getElementsByTagName("script")[0],n.parentNode.insertBefore(c,n)},t},c=window.karte_tracker_names||["tracker"],r=0,n=c.length;n>r;r++)e=c[r],window[e]=t();tracker.init("6cb76d28ca3c90a2eb14dd8db99556b1")}).call(this);</script>
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+<script type="text/javascript" src="/front/script/styleswitcher.js" >
+</script>
+
+
+
+
+
+
+
+
+
+<script language="JavaScript" type="text/javascript">
+
+<!--
+styleCk();
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+//K0077 削除 ここから
+//document.write("<scr" + "ipt language='JavaScript' type='text/javascript' "
+//+ "src='" + "/front/modapp/?url=" + mod_url + "&login=" + mod_login
+//+ "&method=" + mod_method + "&protocol=" + mod_protocol + "&referer=" + mod_referer + "'></scr" + "ipt>");
+//K0077 削除 ここまで
+// -->
+
+</script>
+
+
+
+
+
+
+
+  
+  
+  
+
+
+  
+  
+
+
+
+<div id="wrapMypage">
+
+
+
+        <div id="header_outer">
+            <div id="header">
+
+
+
+
+
+            
+                <p class="logo"><a href="/" onClick="_gaq.push(['_trackEvent','EC_Header', document.URL.replace(/^https:\/\/shop.nestle.jp|^http:\/\/shop.nestle.jp/g,''), this.href.replace(/^https:\/\/shop.nestle.jp|^http:\/\/shop.nestle.jp/g,'')]);"><img src="/front/image/obj_logo.jpg" alt="ネスレ通販オンラインショップ" width="172" height="75"></a></p>
+                
+            
+
+
+
+
+
+
+
+
+
+	
+	
+
+
+                    <div id="header_btn">
+
+
+                          <ul id="header_btn_suvnavi">
+
+                                <li><a href="/front/app/common/logout/"  onClick="_gaq.push(['_trackEvent','EC_Header', document.URL.replace(/^https:\/\/shop.nestle.jp|^http:\/\/shop.nestle.jp/g,''), this.href.replace(/^https:\/\/shop.nestle.jp|^http:\/\/shop.nestle.jp/g,'')]);"><img width="100" height="26" alt="ログアウト" src="/front/image/btn_header_logout.jpg" /></a></li>
+
+
+
+                        
+                                <li class="last"><a href="/front/app/mypage/mypage/"><img width="100" height="26" alt="マイページ" src="/front/image/btn_header_mypage.jpg" /></a></li>
+                                
+                        
+
+
+
+                          </ul>
+
+
+                          <ul id="header_btn_cart">
+                                
+								
+                                
+                                <li><a href="/front/app/cart/cart/"  onClick="_gaq.push(['_trackEvent','EC_Header', document.URL.replace(/^https:\/\/shop.nestle.jp|^http:\/\/shop.nestle.jp/g,''), this.href.replace(/^https:\/\/shop.nestle.jp|^http:\/\/shop.nestle.jp/g,'')]);"><img width="206" height="30" alt="カートを見る" src="/front/image/btn_header_cart.jpg" /></a></li>
+								
+                                
+                                
+                          </ul>
+
+
+                    </div>
+
+                    <div id="subnavi_outer">
+                        
+                        
+                        
+
+
+                        
+                            
+                        
+
+
+                        
+                        
+                        
+
+                    
+                    <div class="cwcn">
+                    <p><img src="/front/image/header_cwcn.jpg" alt="あなたのほっとするひと時と笑顔のために CHOOSE WELLNESS CHOOSE NESTLE" width="353" height="51" /></p>
+                    </div>
+                    
+
+
+                    <div class="txtwelcome_login">
+                        <p>ようこそ<strong>小林高太郎</strong>さん
+		
+			
+			
+                        <br>
+                          最終ログイン日時は  <strong>
+
+
+
+
+
+
+2017年04月05日　19時07分 
+
+</strong>です。
+			
+		         </p>
+                    </div>
+
+                </div>
+
+	
+	
+
+
+
+                <ul id="navi">
+                      
+                      <li><a href="/" onClick="_gaq.push(['_trackEvent','EC_Header', document.URL.replace(/^https:\/\/shop.nestle.jp|^http:\/\/shop.nestle.jp/g,''), this.href.replace(/^https:\/\/shop.nestle.jp|^http:\/\/shop.nestle.jp/g,'')]);"><img width="96" height="30" class="imgover" alt="HOME" src="/front/image/btn_header_home.png" hsrc="/front/image/btn_header_home_o.png"></a></li>
+
+                      <li><a href="/front/app/info/help/" onClick="_gaq.push(['_trackEvent','EC_Header', document.URL.replace(/^https:\/\/shop.nestle.jp|^http:\/\/shop.nestle.jp/g,''), this.href.replace(/^https:\/\/shop.nestle.jp|^http:\/\/shop.nestle.jp/g,'')]);"><img width="176" height="30" class="imgover" alt="ご利用ガイドと利用規約" src="/front/image/btn_header_guide.png" hsrc="/front/image/btn_header_guide_o.png"></a></li>
+
+                      <li><a href="/front/app/info/compliance/" onClick="_gaq.push(['_trackEvent','EC_Header', document.URL.replace(/^https:\/\/shop.nestle.jp|^http:\/\/shop.nestle.jp/g,''), this.href.replace(/^https:\/\/shop.nestle.jp|^http:\/\/shop.nestle.jp/g,'')]);"><img width="191" height="30" class="imgover" alt="特定商取引法に基づく表示" src="/front/image/btn_header_law.png" hsrc="/front/image/btn_header_law_o.png"></a></li>
+
+                      <li><a href="/front/contents/address/" onClick="window.open('/contents/address/','_blank','width=900,scrollbars=1');return false; _gaq.push(['_trackEvent','EC_Header', document.URL.replace(/^https:\/\/shop.nestle.jp|^http:\/\/shop.nestle.jp/g,''), this.href.replace(/^https:\/\/shop.nestle.jp|^http:\/\/shop.nestle.jp/g,'')]);"><img width="180" height="30" class="imgover" alt="アドレス帳機能について" src="/front/image/btn_header_add.png" hsrc="/front/image/btn_header_add_o.png"></a></li>
+
+                      <li><a href="/front/app/info/faq/" onClick="_gaq.push(['_trackEvent','EC_Header', document.URL.replace(/^https:\/\/shop.nestle.jp|^http:\/\/shop.nestle.jp/g,''), this.href.replace(/^https:\/\/shop.nestle.jp|^http:\/\/shop.nestle.jp/g,'')]);"><img width="129" height="30" class="imgover" alt="よくあるご質問" src="/front/image/btn_header_faq.png" hsrc="/front/image/btn_header_faq_o.png"></a></li>
+
+                      <li><a href="/front/contents/inquiry/" onClick="_gaq.push(['_trackEvent','EC_Header', document.URL.replace(/^https:\/\/shop.nestle.jp|^http:\/\/shop.nestle.jp/g,''), this.href.replace(/^https:\/\/shop.nestle.jp|^http:\/\/shop.nestle.jp/g,'')]);"><img width="128" height="30" class="imgover" alt="お問い合わせ" src="/front/image/btn_header_ask.png" hsrc="/front/image/btn_header_ask_o.png"></a></li>
+                      
+                      
+                </ul>
+
+
+
+
+
+            </div>
+        </div>
+        
+  
+  
+
+
+
+
+
+
+
+
+
+
+
+<div id="contents_nosub" class="clearfix">
+
+
+
+<div id="breadcrumbs">
+
+</div>
+
+
+
+
+
+
+<div id="matter" class="mypage">
+
+
+
+
+
+
+
+
+
+
+<form id='main' method="post" action="/front/app/mypage/mypage" enctype="application/x-www-form-urlencoded" onsubmit="return false;">
+
+<input type="hidden" name="transactionToken" value="9f881186-95a4-45b2-8aa8-d58b7d522b8c" />
+
+<div>
+
+  
+  <script type="text/javascript">
+    function removeEvent(){
+      if (window.removeEventListener) {
+        window.removeEventListener("load", onFocus, false);
+      } else if (window.detachEvent) {
+        window.detachEvent("onload", onFocus);
+      }
+    }
+    removeEvent();
+  </script>
+  
+  
+  
+
+
+
+
+
+
+
+<script type="text/javascript" data-gc-mark="Membership">
+
+    window.dataLayer = window.dataLayer || [];
+    window.dataLayer.push({
+        membershipID: '2000000003078087',
+        isAMBMember: 'NO',
+        isNestleMember: 'YES',
+        isRegularPurchaseSubscriber: 'NO',
+        isSpotPurchase: 'NO',
+        isPastRegularPurchaseSubscriber: 'NO',
+        event: 'MembershipLoaded'
+      });
+
+</script>
+
+
+
+  
+  <div class="cont_header">
+    <div class="headerWrap ">
+      <h1>
+        
+        <span>
+
+
+
+
+
+
+
+
+
+
+
+<span>小林</span>
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+<span>高太郎</span>
+
+
+
+</span>
+        
+        
+        様のマイページ
+        
+        
+        
+        
+      </h1>
+      
+      <ul class="header-nav">
+        
+        
+        
+        <li><a href="/front/contents/info/AboutMyPage/" target="_blank" class="btn btn-about -mypage"><i class="fa fa-question-circle"></i>マイページについて</a></li>
+        <li><a href="/front/contents/info/Subscription" target="_blank" class="btn btn-about -subscription"><i class="fa fa-question-circle"></i>定期お届け便について</a></li>
+        
+        
+        
+        
+      </ul>
+      
+      
+    </div>
+  </div>
+  
+
+
+
+
+
+
+  
+  
+  
+
+
+  <div class="container ">
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    <div class="contentsWrap wrapL">
+      <div class="contents main">
+        <div class="column columnL">
+          
+          <div class="unit order">
+            <h2>ご注文の確認・変更</h2>
+            <div class="box first">
+              <ul class="list-menu">
+                
+                <li>
+
+
+
+
+
+
+
+
+
+
+
+
+<span >予約した商品を確認する</span>
+
+</li>
+              </ul>
+            </div>
+            
+            <h2>定期お届け便のご注文内容確認・変更</h2>
+            
+            
+            <div class="box">
+              <ul class="list-menu">
+                
+                <li>
+                  
+                  次回の定期お届け便の注文内容を変更する
+                  
+                  
+                </li>
+                
+                <li>
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+<a href="/front/app/combinedorder/combined_cart/"  onclick="" onkeypress="" onmouseover="" onmouseout=""><span >おすすめ商品を注文して次回の定期お届け便と一緒に受け取る</span></a>
+
+</li>
+              </ul>
+            </div>
+          </div>
+
+          
+          <div class="unit account">
+            
+            
+            
+            <h2>ネスレ会員情報の確認・変更</h2>
+            
+            
+            <div class="box">
+              <ul class="list-menu">
+                
+                
+                
+                
+                <li>
+
+
+
+
+
+
+
+
+
+
+
+
+
+<a href="javascript:with(document.forms[0]){method='post';action='/front/app/mypage/mypage/move/edit';javascript:void(0);submit();}" id=""><span >お客様情報を確認・変更する</span></a>
+
+
+</li>
+                
+                
+                
+                <li>
+
+
+
+
+
+
+
+
+
+
+
+
+
+<a href="javascript:with(document.forms[0]){method='post';action='/front/app/mypage/mypage/move/password';javascript:void(0);submit();}" id=""><span >パスワードを変更する</span></a>
+
+
+</li>
+                <li>
+
+
+
+
+
+
+
+
+
+
+
+
+
+<a href="javascript:with(document.forms[0]){method='post';action='/front/app/mypage/mypage/move/address';javascript:void(0);submit();}" id=""><span >アドレス帳を編集する</span></a>
+
+
+</li>
+              </ul>
+            </div>
+          </div>
+
+          
+          <div class="unit sirial">
+            
+            <h2>シリアルコード／ラッキーナンバーの入力</h2>
+            <div class="box">
+              <p>ギフトカード裏面のシリアルコード、またはラッキーナンバーを入力してください。</p>
+              <div class="form">
+                
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+<input type="text" name="giftCardSerialCode" id="giftCardSerialCode" value=""  maxlength="16" style="ime-mode:inactive" class="form-control" />
+
+
+
+
+
+
+
+                <a href="javascript:with(document.forms['main']){method='post';action='/front/app/mypage/mypage/serial_code_register';javascript:void(0);javascript:blockDoubleSubmit(document.forms['main'])}" class="btn btn-submit">送信する</a>
+              </div>
+              
+              
+              <p class="annotation">※スペースを空けずに入力してください。</p>
+            </div>
+            
+          </div>
+
+          
+          
+          
+          
+          
+          
+          
+          
+          
+
+          
+          
+          
+          
+          
+        </div>
+
+
+        <div class="column columnR">
+          
+          <div class="unit point">
+            <h2>ショッピングポイントの確認・設定</h2>
+            <div class="box">
+              <p class="has-point">
+                現在の保有ポイントは <strong>
+
+
+
+
+
+
+
+
+
+
+
+
+<span>0</span>
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+<span>ポイント</span>
+
+
+
+</strong> です。
+              </p>
+              
+              <ul class="list-menu">
+                <li>
+
+
+
+
+
+
+
+
+
+
+
+
+
+<a href="javascript:with(document.forms[0]){method='post';action='/front/app/mypage/mypage/move/point';javascript:void(0);submit();}" id=""><span >ポイント履歴を確認する</span></a>
+
+
+</li>
+                <li>
+
+
+
+
+
+
+
+
+
+
+
+
+
+<a href="javascript:with(document.forms[0]){method='post';action='/front/app/mypage/mypage/move/lapse';javascript:void(0);submit();}" id=""><span >失効予定ポイント一覧</span></a>
+
+
+</li>
+              </ul>
+              
+              <div class="auto-setting">
+				
+                
+				<h3> 自動使用ポイントの設定<span class="detailBtn"><a onclick="window.open('/contents/AutoPoint/','_blank','width=780, height=300, scrollbars=1, location=yes, status=yes');return false;" href="/contents/AutoPoint/"><span>詳しくはこちら</span></a></span></h3>
+                
+				<div class="box">
+                  <ul class="radioWrap">
+                    <li>
+                      
+
+
+
+
+
+
+
+
+
+
+
+
+<input type="radio" name="useAutoPointType" value="0" id="useAutoPointType_0" checked="checked" onclick="textInputController()"/>
+
+
+                      <label class="radio" for="useAutoPointType_0">ポイントをためる（自動使用しない）</label>
+                    </li>
+                    <li>
+                      
+
+
+
+
+
+
+
+
+
+
+
+
+<input type="radio" name="useAutoPointType" value="1" id="useAutoPointType_1"  onclick="textInputController()"/>
+
+
+                      <label class="radio" for="useAutoPointType_1">毎回、すべての保有ポイントを自動的に使用する</label>
+                    </li>
+                    <li>
+                      
+
+
+
+
+
+
+
+
+
+
+
+
+<input type="radio" name="useAutoPointType" value="2" id="useAutoPointType_2"  onclick="textInputController()"/>
+
+
+                      <label class="radio" for="useAutoPointType_2">毎回、指定したポイントを自動的に使用する</label>
+                    </li>
+                    <input type="text" class="form-control inline" name="useAutoPoint" id="useAutoPoint" value="" size="8" maxlength="8" style="ime-mode:inactive;" onblur="null" onmouserover="null" disabled="">
+                  </ul>
+                  <div class="btnWrap">
+                    <div class="actionBtn">
+                      <a href="javascript:with($('main')){method='post';action='/front/app/mypage/mypage/Setting';javascript:void(0);submit()}" class="btn btn-submit">設定する</a>
+                    </div>
+                  </div>
+                </div>
+                <div class="textWrap">
+                  <p class="annotation">※自動的に使用するポイントが設定値に満たない場合は、その時点で保有しているポイントをすべて使用します。</p>
+                  
+                </div>
+                <ul class="list-menu">
+                  <li><a onclick="openUsedPlan('/contents/about_nsp/')" href="#"><span>ショッピングポイントについて</span></a></li>
+                </ul>
+              </div>
+            </div>
+          </div>
+          
+          <div class="unit coin">
+            <h2>ネスレコインの確認<span class="iconNA dpNoneSP"><img src="/front/image/mypage/logo_amuse.png"></span></h2>
+            <div class="box">
+              <p class="has-coin">
+                現在の保有コインは<strong>
+
+
+
+
+
+
+
+
+
+
+
+
+<span class="icCoin">1,100</span>
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+<span>コイン</span>
+
+
+
+</strong> です。
+              </p>
+              <p class="text">ネスレアミューズではネスレコインを獲得できるコンテンツを多数ご用意しています。貯まったコインで、豪華賞品等が当たるキャンペーンに簡単にご応募いただけます。</p>
+              <ul class="list-menu">
+				
+                
+                <li> <a href="http://nestle.jp/member/#/nestle_coin" onclick="javascript:window.open('http://nestle.jp/member/#/nestle_coin','_blank','width=800,height=440,menubar=no,toolbar=no,location=yes,status=yes,resizable=yes,scrollbars=yes');return false;"><span >ネスレコインについて</span></a> </li>
+                
+                
+                <li> <a href="http://nestle.jp/member/#point_program" onclick="javascript:window.open('http://nestle.jp/member/#point_program','_blank','width=800,height=440,menubar=no,toolbar=no,location=yes,status=yes,resizable=yes,scrollbars=yes');return false;"><span >ネスレコインが貯まるコンテンツ</span></a> </li>
+                <li> <a href="http://p.nestle.jp/coin_present/" onclick="javascript:window.open('http://p.nestle.jp/coin_present/','_blank','width=800,height=440,menubar=no,toolbar=no,location=yes,status=yes,resizable=yes,scrollbars=yes');return false;"><span >ネスレコインで応募！</span></a> </li>
+                
+                
+              </ul>
+            </div>
+          </div>
+          
+          
+          
+          <div class="register">
+            <a href="/front/contents/MachineReg/" class="external_link">
+            <img src="/contents/top/images/other/bnr_machine_register.png" alt="マシン登録" width="100%">
+            </a>
+          </div>
+          
+        </div>
+      </div>
+      
+      
+      
+      
+      <div id="sgs_product_list_wide" class="clearfix itemList" style="text-align: center;">
+        <iframe src="/contents/machineInfo/mypage/000.html" height=446 width=742 frameborder=0 scrolling=no></iframe>
+      </div>
+      
+    </div>
+    
+    <div class="contentsWrap wrapR">
+      <iframe id="custRecom" src="/front/app/catalog/customer_recommend" width=200 height=1780 frameborder=0 scrolling=no></iframe>
+    </div>
+    
+  </div>
+
+
+</div>
+</form>
+
+
+</div>
+
+
+
+</div>
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+ 
+ 
+ 
+ 
+
+ 
+ 
+
+ 
+ 
+
+ 
+<!--▼footer▼-->
+
+
+	
+	
+		<div id="footer">
+	
+
+
+<div class="container">
+<p class="btnpagetop"><a href="#header"><img src="/front/image/btn_pagetop.gif" width="133" height="21" alt="このページのトップへ" class="imgover"></a></p>
+<ul class="btnfooter">
+
+<li><a href="http://nestle.jp/">ネスレのホームへ</a>｜</li>
+
+
+<li><a href="/">ネスレ通販オンラインショップへ</a>｜</li>
+
+<li><a href="http://nestle.jp/faq/">お問合せ</a>｜</li>
+<li><a href="http://nestle.jp/a_web/">サイトの運営方針</a>｜</li>
+<li><a href="http://nestle.jp/privacy/">個人情報保護方針</a>｜</li>
+<li><a href="http://nestle.jp/point/">ポイントプログラム</a>｜</li>
+<li><a href="http://b.nestle.co.jp/map/">サイトマップ</a></li>
+
+</ul>
+
+
+<div id="footer_inner" class="clearfix">
+<div id="footer_description">
+
+
+<p>ネスレ通販オンラインショップでは、ギフトにも最適なコーヒー「ネスカフェ」をはじめ、「バリスタ」や「ドルチェ グスト」といったコーヒーマシン、世界初のカプセル式ティー専用マシン「スペシャル.T」、「キットカット」等のお菓子など、幅広い分野の商品を取り揃えています。<br />
+お買い上げ金額に応じてネスレショッピングポイントも貯まります！ぜひネスレ通販オンラインショップで、楽しくおトクにお買いものを！
+</p></div>
+
+
+
+
+
+
+
+
+<div id="copyright">
+<p class="copyright"><a href="http://nestle.jp/" target="_blank"><img src="/front/image/logo.png" alt="ネスレのホームへ" border="0"></a></p><address>Copyright (C) Nestle Group All rights reserved.</address></div> 
+ 
+
+
+</div>
+<!--/.footer_inner-->
+<!--/.container-->
+</div>
+<!-- /#footer -->
+</div>
+<!--▲footer▲-->
+
+ 
+ 
+
+
+
+
+
+
+ 
+
+
+
+
+
+ </div>
+
+
+<!-- Yahoo Tag Manager -->
+<script type="text/javascript">
+  (function () {
+    var tagjs = document.createElement("script");
+    var s = document.getElementsByTagName("script")[0];
+    tagjs.async = true;
+    tagjs.src = "//s.yjtag.jp/tag.js#site=B2PHsnr";
+    s.parentNode.insertBefore(tagjs, s);
+  }());
+</script>
+<noscript>
+  <iframe src="//b.yjtag.jp/iframe?c=B2PHsnr" width="1" height="1" frameborder="0" scrolling="no" marginheight="0" marginwidth="0"></iframe>
+</noscript>
+<!-- End Yahoo Tag Manager -->
+
+<!-- Google Tag Manager -->
+<noscript>
+  <iframe src="//www.googletagmanager.com/ns.html?id=GTM-MGZBBD" height="0" width="0" style="display:none;visibility:hidden"></iframe>
+</noscript>
+<script>
+  (function(w,d,s,l,i){
+    w[l] = w[l]||[];w[l].push({'gtm.start':new Date().getTime(),event:'gtm.js'});
+    var f = d.getElementsByTagName(s)[0],j=d.createElement(s),dl=l!='dataLayer'?'&l='+l:'';
+    j.async = true;
+    j.src = '//www.googletagmanager.com/gtm.js?id='+i+dl;
+    f.parentNode.insertBefore(j,f);
+  })(window,document,'script','dataLayer','GTM-T3888T');
+</script>
+<!-- End Google Tag Manager -->
+
+</body>
+</html>

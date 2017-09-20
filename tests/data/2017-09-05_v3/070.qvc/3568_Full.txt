@@ -1,0 +1,112 @@
+GET http://qvc.jp/cont/Logout/ HTTP/1.1
+Host: qvc.jp
+User-Agent: Mozilla/5.0 (Windows NT 6.1; rv:52.0) Gecko/20100101 Firefox/52.0
+Accept: text/html,application/xhtml+xml,application/xml;q=0.9,*/*;q=0.8
+Accept-Language: ja,en-US;q=0.7,en;q=0.3
+Cookie: s_fid=10F9B53A616D5858-361A8D711FE622DE; sc_visit=1; sc_segmsest=1491562811163; sc_segmhis=1491562811163; sc_segm=1; s_cvp_1=%5B%5B%27DIR%27%2C%271491562811166%27%5D%5D; s_cvp_2=%5B%5B%27DIR%27%2C%271491562811167%27%5D%5D; sc_prevpage=%5BPC%5D%3Aqvc.jp%2FCustomerMenu.do; s_sq=qvcjqvcjpprod%3D%2526pid%253D%25255BPC%25255D%25253Aqvc.jp%25252FCustomerMenu.do%2526pidt%253D1%2526oid%253Dhttps%25253A%25252F%25252Fqvc.jp%25252FLogoff.do%2526ot%253DA; JSESSIONID=E88692C27AB3F838FC1F2A719AC155AB; uniqueid=72382c80-45d6-4570-b99c-40fb77afb267; CK_SERVERID=9; _libra=6dA0fTnq68ahFOyxyqhGihBYPA/zacSBTXDtUX81tp7fYAcRmguS8tcHeEspSN9q9DXcrrpSqnPbnA==; s_cc=true; s_product=%5BPC%5D%3AOther; sc_prevFlag=F; uniqueUserHash=29734a174ee175eb828c61e737d8ccd87f66282559917b7d4aa889793aa8860f0155bac93a103c80699cedfba1e09fdac66bdfbbe2abdc53cc4ed2ec5b5edd5b; easilylogin=538920846964167284; custid=73790398
+Connection: close
+Upgrade-Insecure-Requests: 1
+
+
+HTTP/1.1 200 OK
+Server: Apache
+Last-Modified: Tue, 02 Feb 2016 06:18:04 GMT
+ETag: "224b29-cd3-52ac376df8c9f"
+Accept-Ranges: bytes
+Content-Type: text/html
+Content-Length: 3713
+Date: Fri, 07 Apr 2017 11:00:54 GMT
+Connection: close
+Set-Cookie: CK_SERVERID=9; path=/
+
+<!DOCTYPE HTML PUBLIC "-//W3C//DTD HTML 4.01 Transitional//EN" "http://www.w3.org/TR/html4/strict.dtd">
+<html LANG="ja">
+<head>
+<TITLE>QVC JAPAN</TITLE>
+
+<META http-equiv="Content-Type" content="text/html; charset=Shift_JIS">
+<META http-equiv="Content-Script-Type" content="text/javascript">
+<META http-equiv="Content-Style-Type" content="text/css">
+<LINK REL="shortcut icon" href="img/qvc16.gif">
+<META name="author" content="QVC Japan,Inc.">
+
+
+<META name="copyright" content="Copyright 2001-2015 QVC Japan,Inc. All rights reserved.">
+
+
+<link rel="stylesheet" type="text/css" href="/css/logout.css">
+<link rel="stylesheet" type="text/css" href="/css/regist2010.css">
+<script type="text/javascript" language="JavaScript" src="/script/jquery-latest.js"></script>
+<script type="text/javascript" language="javascript" src="/script/jquery.cookie.js"></script>
+<script type="text/javascript" language="JavaScript" src="/script/regist.js"></script>
+<script type="text/javascript" language="JavaScript" src="/script/clickCheck.js"></script>
+
+<!--AA DTM Header Code--><script type="text/javascript" src="/script/analytics/dtm_header.js"></script><!--AA DTM Header Code--></head>
+
+<body leftmargin="10" topmargin="0" marginwidth="10" marginheight="0" onload="javascript:onfocus();">
+<div class="main">
+
+<table width="948" border="0" cellspacing="0" cellpadding="0">
+  <tr>
+    <td><div class="logo"><a href="/cont/top/Main"><img src="/cont/top/images/logo.gif" alt="QVCテレビショッピング"></a></div><div class="head"><a href="/guide/index.html" target="blank">ご利用ガイド</a> | <a href="/contact/index.html">Q＆A・お問い合わせ</a> </div></td>
+    </tr>
+</table>
+
+
+
+<table width="948" border="0" cellpadding="0" cellspacing="0">
+  <tr>
+    <td background="/images/regist2010/headline_login.gif"><img src="/images/regist2010/headline_login.gif" width="20" height="20"></td>
+    <td background="/images/regist2010/headline_login.gif"><img src="/img/spacer.gif" width="908" height="1"></td>
+    <td background="/images/regist2010/headline_login.gif"><img src="/images/regist2010/headline_login.gif" width="20" height="20"></td>
+  </tr>
+  <tr>
+    <td rowspan="2"><img src="/img/spacer.gif" width="1" height="1" /></td>
+    <td><img src="/images/regist2010/title_logout.gif" alt="ログイン" width="138" height="45"></td>
+    <td><img src="/img/spacer.gif" width="1" height="1" /></td>
+  </tr>
+  <tr>
+    <td id="linelogin"><img src="/img/spacer.gif" width="2" height="2" /></td>
+  </tr>
+</table>
+
+
+
+<div class="logout">
+<div class="logout_msg">
+<p>ログアウトしました。<br/>
+QVC.jpのまたのご利用をお待ちしております。</p>
+</div>
+
+
+
+<div class="back_top">
+
+<a href="/GateToLogin.do"><p>ログインページへはこちら</p></a>
+
+
+	<a href="/cont/top/Main"><img id="confirm_image" src="/images/regist2010/bt_totop.gif" border="0" alt="トップページ" width="208" height="60"></a><br />
+</div>
+</div>
+
+
+
+<table width="948" border="0" cellspacing="0" cellpadding="0">
+  <tr>
+    <td background="/cont/top/images/footerline.gif"><img src="/cont/top/images/footerline.gif" width="1" /></td>
+  </tr>
+  <tr>
+    <td align="right" bgcolor="#FFFFFF"><img src="/cont/top/images/copyright.gif" hspace="20" vspace="10"/></td>
+  </tr>
+</table>
+</div>
+<script type="text/javascript">
+<!--
+	_sc.pageName = "[PC]:ログアウト";
+	_sc.eVar11 = "[PC]:ログアウト";
+	_sc.eVar12 = "[PC]:D=pageName";
+	_sc.eVar13 = "[PC]:D=pageName";
+-->
+</script>
+<script type="text/javascript" src="/script/analytics/s_code_pc.js"></script><script type="text/javascript" src="/script/analytics/s_code_do.js"></script><script type="text/javascript" src="/script/analytics/dtm_footer.js"></script><script type="text/javascript" src="/script/ytmUniversal.js"></script></body>
+</html>

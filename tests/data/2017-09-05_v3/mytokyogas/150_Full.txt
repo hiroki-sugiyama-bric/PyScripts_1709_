@@ -1,0 +1,227 @@
+GET https://www2.eee.tokyo-gas.co.jp/mytokyogasbiz2RP/charge/TC_12_07.php HTTP/1.1
+Host: www2.eee.tokyo-gas.co.jp
+User-Agent: Mozilla/5.0 (Windows NT 10.0; WOW64; rv:50.0) Gecko/20100101 Firefox/50.0
+Accept: text/html,application/xhtml+xml,application/xml;q=0.9,*/*;q=0.8
+Accept-Language: ja,en-US;q=0.7,en;q=0.3
+Accept-Encoding: gzip, deflate, br
+Referer: https://www2.eee.tokyo-gas.co.jp/mytokyogasbiz2RP/charge/TC_12.php
+Cookie: Apache=139.152.1.135.1485305947494466; PHPSESSID=89f76a36ace0929e8efb2a8236c95eeb
+Connection: close
+Upgrade-Insecure-Requests: 1
+
+
+HTTP/1.1 200 OK
+Date: Wed, 25 Jan 2017 01:16:27 GMT
+Server: Apache
+Expires: Wed, 25 Jan 2017 04:16:27 GMT
+Cache-Control: public, max-age=10800
+Last-Modified: Tue, 24 Jan 2017 10:02:26 GMT
+Content-Type: text/html; charset=EUC-JP
+Connection: close
+Content-Length: 8370
+
+<?xml version="1.0" encoding="euc-jp" ?>
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Strict//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-strict.dtd">
+<html xmlns="http://www.w3.org/1999/xhtml" xml:lang="ja" lang="ja">
+<head>
+	<meta name="robots" content="noindex,nofollow">
+	<meta http-equiv="Content-Type" content="text/html; charset=euc-jp">
+	<meta http-equiv="Cache-Control" content="no-cache">
+	<meta http-equiv="Pragma" content="no-cache">
+	<link rel="stylesheet" href="../css/reset.css"  type="text/css" media="screen,tv,print">
+	<link rel="stylesheet" href="../css/fonts.css"  type="text/css" media="screen,tv,print">
+	<link rel="stylesheet" href="../css/base.css"   type="text/css" media="screen,tv,print">
+	<link rel="stylesheet" href="../css/layout.css" type="text/css" media="screen,tv,print">
+	<style type="text/css">
+	<!--
+	
+		.self_layout {
+			background-color: #afd3fa;
+		}
+	
+	//-->
+	</style>
+	<script type="text/javascript" src="../js/tgc_common.js"></script>
+	<script type="text/javascript" src="../js/jquery-1.4.1.js"></script>
+	<script type="text/javascript">
+	<!--
+	
+	function selfSubmit()
+	{
+		// 選択(一覧)チェックボックスオブジェクトを取得
+		var checkObject = document.getElementsByName('checkSelect[]');
+		// 選択(一覧)hidden値をチェック状況に同期
+		var j;
+		var jMax = checkObject.length;
+		var id;
+
+		for (j = 0; j < jMax; j++)
+		{
+			id = checkObject[j].value;
+
+			if (checkObject[j].checked)
+			{
+				document.getElementById("dataSelect["+id+"]").value = "1";
+			}
+			else
+			{
+				document.getElementById("dataSelect["+id+"]").value = "0";
+			}
+		}
+
+		// 契約種別ラジオボタンオブジェクトを取得
+		var typeObject = document.getElementsByName('choice_target_contract');
+		var typeValue;
+		jMax = typeObject.length;
+
+		for (j = 0; j < jMax; j++)
+		{
+			if (typeObject[j].checked)
+			{
+				typeValue = typeObject[j].value;
+				break;
+			}
+		}
+
+		// 対象アクションへ遷移
+		if(typeValue == '2')
+		{
+			callSubmitFunc('downloadCsvElec', '', '');
+		}
+		else
+		{
+			callSubmitFunc('downloadCsvGas', '', '');
+		}
+	}
+
+	function selfCheckedAll()
+	{
+		// 選択(一覧)チェックボックスオブジェクトを取得
+		var checkObject = document.getElementsByName('checkSelect[]');
+
+		// 選択(ヘッダ)のチェック状態を取得
+		var selectAll = document.main_form.checkSelectAll.checked;
+		var j;
+		var jMax = checkObject.length;
+
+		// 選択(ヘッダ)のチェック状態を選択(一覧)全項目へ適用
+		for (j = 0; j < jMax; j++) {
+			checkObject[j].checked = selectAll;
+		}
+	}
+	
+	//-->
+	</script>
+	<title>東京ガス ： myTOKYOGASビジネス ／ 料金一括CSVダウンロード</title>
+</head>
+<body>
+		<div id="container">
+	<div class="wrap">
+		<div id="header">
+			<p class="logo">
+															<a href="../TC_02.php"><img src="../img/MYTG_biz_4C_2.png" width="375" height="47" border="0" alt="myTOKYOGASビジネス" /></a>
+												</p>
+			<p class="client_name">受付比較18様</p>
+		</div>
+		<div id="page">
+			<div class="nav">
+				<p class="breadcrumbs">
+								<a href="https://www2.eee.tokyo-gas.co.jp/mytokyogasbiz2RP/TC_02.php">				トップメニュー
+				</a>				&gt;								<a href="https://www2.eee.tokyo-gas.co.jp/mytokyogasbiz2RP/charge/TC_12.php">				料金・ご使用量実績照会サービスメニュー
+				</a>				&gt;												料金一括CSVダウンロード
+																</p>
+									<form name="logout_form" id="logout_form" method="post" action="../TC_01_01.php" onsubmit="return false;">
+					<p class="logout"><a href="javascript:void(0);" onclick="callSubmitFunc('logout','',''); return false;">ログアウト</a></p>
+					</form>
+							</div>		<h1>料金一括CSVダウンロード</h1>
+	<form name="main_form" id="main_form" action="../charge/TC_12_07.php" method="post" onsubmit="return false;" autocomplete="off">
+		<input type="hidden" name="hdn_func"    id="hdn_func"    value="">
+		<input type="hidden" name="hdn_targets" id="hdn_targets" value="">
+		<div class="section" id="docs">
+			<ul class="tab clear">
+				<li><a href="#" onclick="callSubmitFunc('gasChargeSyoRy','',''); return false;" class="blue">料金・ご使用量実績照会  </a></li>
+				<li class="none"><a href="" onclick="return false" class="blue">料金一括CSVダウンロード </a></li>
+				<li><a href="#" onclick="callSubmitFunc('unitPrice','',''); return false;" class="blue">ガス調整単位料金(単価)のお知らせ </a></li>
+				<li><a href="#" onclick="callSubmitFunc('gasChargeSisan','',''); return false;" class="blue">ガス料金試算</a></li>
+			</ul>
+			<br>
+									●ガス・電気の請求を請求月ごとにCSVダウンロードできます。<br>
+			●合算契約の場合、ガス、電気それぞれのダウンロードとなります。<br>
+			●一度に選択できる契約は30件までとなります。<br>
+			<br>
+			<table border="1" cellspacing="0" cellspacing="0" style="margin-left : 0px; width : 158px;">
+			<tr>
+				<th width="80px">対象会員ID</th>
+				<td width="60px">tg256695</td>
+			</tr>
+			</table>
+
+			<br>
+			対象契約：&nbsp;&nbsp;
+							<input type="radio" name="choice_target_contract" id="choice_target_contract" value="1" checked />ガス契約&nbsp;
+				<input type="radio" name="choice_target_contract" id="choice_target_contract" value="2" />電力契約<br>
+						<br>
+							請求年月：&nbsp;&nbsp;
+				<select name="choice_ym" id="choice_ym">
+<option label="2017年1月" value="201701">2017年1月</option>
+<option label="2016年12月" value="201612">2016年12月</option>
+<option label="2016年11月" value="201611">2016年11月</option>
+<option label="2016年10月" value="201610">2016年10月</option>
+<option label="2016年9月" value="201609">2016年9月</option>
+<option label="2016年8月" value="201608">2016年8月</option>
+<option label="2016年7月" value="201607">2016年7月</option>
+<option label="2016年6月" value="201606">2016年6月</option>
+<option label="2016年5月" value="201605">2016年5月</option>
+<option label="2016年4月" value="201604">2016年4月</option>
+<option label="2016年3月" value="201603">2016年3月</option>
+<option label="2016年2月" value="201602">2016年2月</option>
+<option label="2016年1月" value="201601">2016年1月</option>
+<option label="2015年12月" value="201512">2015年12月</option>
+<option label="2015年11月" value="201511">2015年11月</option>
+<option label="2015年10月" value="201510">2015年10月</option>
+<option label="2015年9月" value="201509">2015年9月</option>
+<option label="2015年8月" value="201508">2015年8月</option>
+<option label="2015年7月" value="201507">2015年7月</option>
+<option label="2015年6月" value="201506">2015年6月</option>
+<option label="2015年5月" value="201505">2015年5月</option>
+<option label="2015年4月" value="201504">2015年4月</option>
+<option label="2015年3月" value="201503">2015年3月</option>
+<option label="2015年2月" value="201502">2015年2月</option>
+<option label="2015年1月" value="201501">2015年1月</option>
+</select>
+
+				&nbsp;<button type="button" class="normal" name="downloadCsv" id="downloadCsv" onclick="selfSubmit(); return false;">CSV形式でダウンロード</button><br>
+				<br>
+				<br>
+				<table id="gas_list"  border="1" cellspacing="0" cellspacing="0" style="width:630px" align="left">
+				<tr align="right">
+					<td class="self_layout" width="40px" align="center">選択<br>
+													<input type="checkbox" name="checkSelectAll" id="checkSelectAll" onclick="selfCheckedAll()" value="1" />
+											</th>
+					<th class="head" width="100px">お客さま番号</th>
+					<th class="head" width="250px">プルダウン表示名</th>
+					<th class="head" width="230px">供給地点特定番号</th>
+				</tr>
+								<tr align="left">
+					<td align="center">
+						<input type="hidden" id="dataSelect[16888250061]" name="dataSelect[16888250061]" value="0">
+													<input type="checkbox" name="checkSelect[]" id="checkSelect[]" value="16888250061" /></td>
+											<td align="left">1688-825-0061</td>
+					<td align="left">○崎　○香</td>
+					<td align="left">&nbsp;</td>
+				</tr>
+								</table>
+					</div>
+		＊ガス契約の供給地点特定番号は、1から始まるお客さま番号の頭に 001-000 をつけた17桁です。正しくは検針票をご確認ください。<br><br>
+	</form>
+				</div><!-- /#page -->
+	</div><!-- /.wrap -->
+
+	<div id="footer">
+	<p class="totop"><a href="#container">このページの先頭へ</a></p>
+	<p class="copyright">
+					<a href="http://www.tokyo-gas.co.jp/" target="_blank"><img src="../shared/img/tg_logo.gif" alt="TOKYO GAS" width="76" height="14"></a><img src="../shared/img/copyright.gif" alt="Copyright TOKYO GAS Co., Ltd. All Rights Reserved." width="256" height="10">
+			</p>
+	</div><!-- /#footer -->
+</div><!-- /#container --></body>
+</html>

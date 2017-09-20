@@ -1,0 +1,133 @@
+GET https://member.livedoor.com/login/?.sv=top HTTP/1.1
+Host: member.livedoor.com
+User-Agent: Mozilla/5.0 (Windows NT 6.1; WOW64; rv:51.0) Gecko/20100101 Firefox/51.0
+Accept: text/html,application/xhtml+xml,application/xml;q=0.9,*/*;q=0.8
+Accept-Language: ja,en-US;q=0.7,en;q=0.3
+Referer: http://www.livedoor.com/
+Cookie: _ga=GA1.2.782945163.1484635068; ucd=ZpmlGMuZD2bgplA1PzMORjYrG4EGnmYC; ucd_sig=rEgLOFXwiKWGsTI2bltrck4GRZ8%3A1487584567; ldsuid=y2iZKFitAhQNPcCPzfN3Ag==; member_sid=4f5d006645e2fd8eb86343554bfc60cb; .LRCS=7c12faaf6a62cf5f0956f1f129d7ba6b; __utma=222699911.782945163.1484635068.1487731851.1487731851.1; __utmb=222699911.14.10.1487731851; __utmc=222699911; __utmz=222699911.1487731851.1.1.utmcsr=(direct)|utmccn=(direct)|utmcmd=(none); __utmt=1; _gat=1
+Connection: close
+Upgrade-Insecure-Requests: 1
+
+
+HTTP/1.1 200 OK
+Date: Wed, 22 Feb 2017 03:18:11 GMT
+Server: Plack::Handler::Starlet
+Content-Type: text/html; charset=utf-8
+Set-Cookie: member_sid=4f5d006645e2fd8eb86343554bfc60cb; domain=.member.livedoor.com; path=/; secure
+Vary: Accept-Encoding,User-Agent
+Connection: close
+Transfer-Encoding: chunked
+
+11ae
+<?xml version="1.0" encoding="utf-8"?>
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+<html xmlns="http://www.w3.org/1999/xhtml" xml:lang="ja" lang="ja">
+<head>
+    	<meta http-equiv="Content-Type" content="text/html; charset=UTF-8" />
+	<title>livedoor ログイン</title>
+	<meta name="keywords" content="livedoor" />
+	<meta name="description" content="livedoorのログインページです。ようこそライブドアへ。" />
+	<meta http-equiv="Content-Style-Type" content="text/css" />
+	<meta http-equiv="Content-Script-Type" content="text/javascript" />
+	<meta name="verify-v1" content="1bivxaxGrLBSoWSu7qAOa0M36HWHyewW+8YqCFDlBZQ=" />
+	<link rel="stylesheet" type="text/css" href="/common/css/login/01/login.css" />
+<script type="text/javascript" src="/common/js/swfobject.js"></script>
+<script type="text/javascript">
+window.onload = function(){
+	if (document.loginForm) {
+		if (document.loginForm.livedoor_id.value == ''){
+			document.loginForm.livedoor_id.focus();
+		}
+	}
+}
+</script>
+</head>
+<body>
+
+
+<div id="headerWrapper">
+<div id="contentHeader" class="clearfix">
+	<h1 id="logo"><a href="http://www.livedoor.com/" title="livedoor トップページ"><img src="/common/img/login/logo.gif" width="153" height="35" alt="livedoor" /></a></h1>
+	
+	<div id="headadbox">
+	  <script type="text/javascript">
+    (function(d){d.write("<scr"+"ipt type=\"text/javascript\" src=\""+(d.location.protocol == "https:" ? "https:" : "http:")+"//api.unthem.com/js/pcad.js?zname=hs9001172&ref="+encodeURIComponent(document.referrer)+"&_="+Math.round(Math.random()*10000000000)+"\" charset=\"UTF-8\"></scr"+"ipt>");})(document);
+    </script>
+	</div>
+</div>
+</div>
+
+
+<div class="wrapper">
+<div id="mainContent" class="clearfix">
+<div id="login_main"></div>
+<div id="loginAdwall">
+<h3 class="clearfix">PR</h3>
+    <div class="Adwall">
+      <script type="text/javascript">
+      (function(d){d.write("<scr"+"ipt type=\"text/javascript\" src=\""+(d.location.protocol == "https:" ? "https:" : "http:")+"//api.unthem.com/js/pcad.js?zname=hs9000760&ref="+encodeURIComponent(document.referrer)+"&_="+Math.round(Math.random()*10000000000)+"\" charset=\"UTF-8\"></scr"+"ipt>");})(document);
+      </script>
+    </div>
+</div>
+
+	<div id="loginContent">
+		<div id="loginFormbox" class="clearfix">
+<div class="loginbox">
+<span style="font-weight: bold;line-height:200%;"><a href="/pc/info/passwd.html">パスワード設定に関するお願い</a></span>
+	
+    
+	<fieldset>
+	<legend>ログインフォーム</legend>
+	<form action="/login/index" method="post" name="loginForm"><input type="hidden" name="_token" value="gULjwqTX" />
+  
+	<input type="hidden" name=".next" value="" />
+	<input type="hidden" name=".sv" value="top" />
+	<dl>
+	<dt class="livedoor_id"><label for="livedoor_id">livedoor ID :</label></dt>
+	<dd>
+	  
+	  <input type="text" name="livedoor_id" id="livedoor_id" class="livedoor_id" />
+	  
+	</dd>
+	<dt class="password"><label for="password">パスワード :</label></dt>
+	<dd><input type="password" name="password" class="password" id="password" /></dd>
+	</dl>
+	<div class="autologinbox">
+	<input type="checkbox" name="auto_login" id="check_auto_login" value="1" /><label for="check_auto_login">自動ログイン設定を有効にする</label><br />
+	<a href="/reminder/" tabindex="-1">ID・パスワードを忘れた方</a> | <a href="http://help.livedoor.com/ldid/qa4542">ヘルプ</a>
+	</div>
+	<div class="submitbox"><input id="submit" type="image"  src="/common/img/login/02/btn_login.gif" value="ログイン" /></div>
+
+	</form>
+	</fieldset>
+	<div class="beginnerbox">
+	<p><a href="/register/?.next=&amp;.sv=top"><img src="/common/img/login/02/btn_new.gif" width="184" height="32" alt="新規登録" /></a></p>
+	</div>
+</div><!-- /loginbox -->
+</div><!-- /loginFormbox -->
+
+	</div><!-- /loginContent -->
+</div><!-- /mainContent -->
+
+
+
+
+<div id="footer" class="clearfix">
+<div id="commonFooter">
+<ul>
+<li><a href="http://www.livedoor.com/">livedoorトップ</a></li>
+<li><a href="javaScript:setStartPage()">livedoorをホームに設定</a></li>
+<li><a href="http://recruit.livedoor.com/">採用情報</a></li>
+<li><a href="http://docs.livedoor.com/ad/">広告掲載</a></li>
+<li><a href="http://docs.livedoor.com/info/kiyaku.html">利用規約</a></li>
+<li><a href="http://docs.livedoor.com/info/privacy.html">プライバシーポリシー</a></li>
+</ul>
+</div>
+<p>&copy; LINE Corporation</p>
+</div>
+</div><!-- wrapper -->
+</body>
+</html>
+
+0
+

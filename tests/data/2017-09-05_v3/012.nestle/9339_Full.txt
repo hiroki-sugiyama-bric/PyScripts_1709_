@@ -1,0 +1,171 @@
+GET https://nestle.jp/enquete/point/visit_regist/enquete.php HTTP/1.1
+Host: nestle.jp
+User-Agent: Mozilla/5.0 (Windows NT 6.1; rv:52.0) Gecko/20100101 Firefox/52.0
+Accept: text/html,application/xhtml+xml,application/xml;q=0.9,*/*;q=0.8
+Accept-Language: ja,en-US;q=0.7,en;q=0.3
+Cookie: citrix_ns_id=M65Qpvz1ZQ+lc+mesY4DHuwr1oMA000; citrix_ns_id_.nestle.jp_%2F_wlf=TlNDX1FIX3Eub2Z0dW1mLmtx?wR65IKVkxcS0+sqyOplIs4ShohYA&dXNlcl9f?QP1oZY0Fch4lJu5ep/Kn5JatkyYA&TlNDX1FIX29mdHVtZi5rcV9f?asXUZ01y/Halew2vaNCEBk6UH50A&SVNfTUVNQkVS?vK0zVfYBHosUif0+wD4Q0AcBaU4A&; _ga=GA1.2.1066312592.1491386477; user=198.143.44.9.1491386473156498; NSC_QH_oftumf.kq=ffffffffaf181f7e45525d5f4f58455e445a4a42378b; visid_incap_701124=BD4jXy/GTx2NmGAJ0MI7vWjA5FgAAAAAQUIPAAAAAAAlIweCMV3KVdsSIbyb1ASa; incap_ses_200_701124=lU3YGb9AaXE+qPSRPYvGAmjA5FgAAAAAmnPzup4C9HcNjgqyVs8ylw==; bt3.yjcd=; __ulfpc=201704051902227973; nestle_regist=4gm8v393p9r8j4bsht68robmp2; citrix_ns_id_.nestle.jp_%2F_wat=bmVzdGxlX3JlZ2lzdF9f?JppGSX0eT0UVLCxsP/KSyY3jXiEA&U1NPU0lE?VSst6jGhV9da3HuyhmMKglUCJX0A&bmVzdGxlX2VucXVldGVf?/yl3toXqJm7pg/l8PutM0NRiR7kA&; efocube_960_pc_amb_mon_sessid=fc693b61943b401f360b4fa08cf4e270c3c903afwww1; efocube_960_pc_amb_mon_visitcnt=1; efocube_960_pc_amb_mon_1_cv=on; SSOSID=dcd3aac6e2284bd35ec2338af2c97cc418105b19; IS_MEMBER=1; nestle_enquete=54oul62c9g32bitausuh38sp06
+Connection: close
+Upgrade-Insecure-Requests: 1
+
+
+HTTP/1.1 200 OK
+Date: Wed, 05 Apr 2017 10:07:57 GMT
+Server: Apache
+Expires: Thu, 19 Nov 1981 08:52:00 GMT
+Cache-Control: no-store
+Pragma: no-cache
+Login: LI
+Uq: 2000000003078087
+X-Frame-Options: SAMEORIGIN
+Link: <https://m.nestle.jp/enquete/point/visit_regist/enquete.php>; rel="canonical"
+Content-Length: 7338
+Connection: close
+Content-Type: text/html; charset=utf-8
+X-Content-Type-Options: nosniff
+Set-Cookie: NSC_QH_oftumf.kq=ffffffffaf181f7e45525d5f4f58455e445a4a42378b; Expires=Wed, 05-Apr-2017 10:31:31 GMT; Path=/; HttpOnly
+Set-Cookie: citrix_ns_id_.nestle.jp_%2F_wat=bmVzdGxlX3JlZ2lzdF9f?JppGSX0eT0UVLCxsP/KSyY3jXiEA&U1NPU0lE?VSst6jGhV9da3HuyhmMKglUCJX0A&bmVzdGxlX2VucXVldGVf?/yl3toXqJm7pg/l8PutM0NRiR7kA&; Domain=.nestle.jp; Path=/; Secure; HttpOnly
+Set-Cookie: citrix_ns_id_.nestle.jp_%2F_wlf=TlNDX1FIX3Eub2Z0dW1mLmtx?wR65IKVkxcS0+sqyOplIs4ShohYA&dXNlcl9f?QP1oZY0Fch4lJu5ep/Kn5JatkyYA&TlNDX1FIX29mdHVtZi5rcV9f?asXUZ01y/Halew2vaNCEBk6UH50A&SVNfTUVNQkVS?vK0zVfYBHosUif0+wD4Q0AcBaU4A&; Domain=.nestle.jp; Expires=Wed, 01 Jan 2020 00:00:00 GMT; Path=/; Secure; HttpOnly
+X-Iinfo: 8-12000990-12000996 NNNN CT(11 9 0) RT(1491386877256 32) q(0 0 1 -1) r(3 3) U5
+X-CDN: Incapsula
+
+<!DOCTYPE HTML PUBLIC "-//W3C//DTD HTML 4.0 Transitional//EN" "">
+<html>
+  <head>
+    <title>訪問コイン新規会員登録アンケート｜アンケート</title>
+    <meta content="JA" http-equiv="Content-Language" />
+    <meta name="description" content="" />
+    <meta name="keywords" content="ネスレ,Nestle,ネスカフェ,Nescafe,プレゼント,ポイント" />
+    <meta name="author" content="Nestle" />
+    <meta name="copyright" content="Nestle" />
+    <meta name="ROBOTS" content="FOLLOW,INDEX" />
+    <link rel="stylesheet" type="text/css" href="css/mac_style.css" />
+    <meta content="no-cache" http-equiv="Pragma" />
+    <meta content="no-cache" http-equiv="Cache-Control" />
+    <meta content="-1" http-equiv="Expires" />
+    <meta content="text/html; charset=utf-8" http-equiv="content-type" />
+  <script type="text/javascript">
+    window.dataLayer = window.dataLayer || [];
+    window.dataLayer.push({
+        membershipID: '2000000003078087',
+        isAMBMember: 'NO',
+        isNestleMember: 'YES',
+        isRegularPurchaseSubscriber: '',
+        isSpotPurchase: '',
+        isPastRegularPurchaseSubscriber: '',
+        isToHaveBarista: 'YES',
+        isToHaveDolceGusto: 'YES',
+        isToHaveSpecialT: 'YES',
+        isToEntryCoffeeServer: 'NO',
+        event: 'MembershipLoaded'
+      });
+</script>
+<style>html { display:none }</style>
+<script>
+if (self == top) {
+document.documentElement.style.display = 'block';
+} else {
+top.location = self.location;
+}
+</script>
+<!-- Yahoo Tag Manager -->
+<script type="text/javascript">
+  (function () {
+    var tagjs = document.createElement("script");
+    var s = document.getElementsByTagName("script")[0];
+    tagjs.async = true;
+    tagjs.src = "//s.yjtag.jp/tag.js#site=B2PHsnr";
+    s.parentNode.insertBefore(tagjs, s);
+  }());
+</script>
+<noscript>
+  <iframe src="//b.yjtag.jp/iframe?c=B2PHsnr" width="1" height="1" frameborder="0" scrolling="no" marginheight="0" marginwidth="0"></iframe>
+</noscript>
+<!-- End Yahoo Tag Manager -->
+
+<!-- Google Tag Manager -->
+<noscript><iframe src="//www.googletagmanager.com/ns.html?id=GTM-T3888T"
+height="0" width="0" style="display:none;visibility:hidden"></iframe></noscript>
+<script>(function(w,d,s,l,i){w[l]=w[l]||[];w[l].push({'gtm.start':
+new Date().getTime(),event:'gtm.js'});var f=d.getElementsByTagName(s)[0],
+j=d.createElement(s),dl=l!='dataLayer'?'&l='+l:'';j.async=true;j.src=
+'//www.googletagmanager.com/gtm.js?id='+i+dl;f.parentNode.insertBefore(j,f);
+})(window,document,'script','dataLayer','GTM-T3888T');</script>
+<!-- End Google Tag Manager -->
+</head>
+  <body leftmargin="0" topmargin="0" bgcolor="#ffffff" marginwidth="0" marginheight="0">
+<form id="Form1" method="post" name="Form1">
+ 
+<div class="container"><span id="HeaderPlaceholder">
+<p>&nbsp;</p>
+<style type="text/css">BODY {
+	PADDING-BOTTOM: 0px; BACKGROUND-COLOR: #ffffff; MARGIN: 0px; PADDING-LEFT: 0px; PADDING-RIGHT: 0px; PADDING-TOP: 0px
+}
+#Table2 {
+	WIDTH: 100%
+}
+#tableattention {
+	LINE-HEIGHT: 135%; WIDTH: 420px; MARGIN-BOTTOM: 15px; FONT-SIZE: 80%
+}
+#btnNext {
+	MARGIN-BOTTOM: 30px
+}
+BODY {
+	FONT-FAMILY: '&#65325;&#65331; &#65328;&#12468;&#12471;&#12483;&#12463;', Osaka, '&#12498;&#12521;&#12462;&#12494;&#35282;&#12468; Pro W3'
+}
+TABLE {
+	FONT-FAMILY: '&#65325;&#65331; &#65328;&#12468;&#12471;&#12483;&#12463;', Osaka, '&#12498;&#12521;&#12462;&#12494;&#35282;&#12468; Pro W3'
+}
+TD {
+	FONT-FAMILY: '&#65325;&#65331; &#65328;&#12468;&#12471;&#12483;&#12463;', Osaka, '&#12498;&#12521;&#12462;&#12494;&#35282;&#12468; Pro W3'
+}
+DIV {
+	FONT-FAMILY: '&#65325;&#65331; &#65328;&#12468;&#12471;&#12483;&#12463;', Osaka, '&#12498;&#12521;&#12462;&#12494;&#35282;&#12468; Pro W3'
+}
+#tableattention {
+	DISPLAY: none
+}
+.voteEnqueteColorCell {
+	BACKGROUND-COLOR: #ffeab6
+}
+.voteEnqueteColorCell TD {
+	TEXT-ALIGN: left; LINE-HEIGHT: 135%; FONT-SIZE: 85%; FONT-WEIGHT: bold
+}
+.voteEnqueteWhiteCell {
+	TEXT-ALIGN: left; BACKGROUND-COLOR: #ffffff
+}
+.voteEnqueteDetailTxt TD {
+	TEXT-ALIGN: left; LINE-HEIGHT: 135%; BACKGROUND-COLOR: #ffffff; FONT-SIZE: 80%
+}
+.sizeM {
+	LINE-HEIGHT: 135%; FONT-SIZE: 85%
+}
+.sizeS {
+	LINE-HEIGHT: 135%; FONT-SIZE: 80%
+}
+.red {
+	COLOR: #ff0000
+}
+.redirect_copy {
+	TEXT-ALIGN: center; MARGIN: 20px auto; WIDTH: 100%
+}
+</style><div class="redirect_copy"><span class="sizeS">しばらくしても画面が変わらない場合は「送信」ボタンをクリックしてください。</span><br /></div></span><span id="CenterPlaceHolder"></span>
+<table id="Table1" border="0" cellspacing="0" cellpadding="0" width="100%"><tbody><tr><td width="100%">
+      <table id="Table2" border="0" cellspacing="0" cellpadding="0" width="728"><tbody><tr><td>
+            <table id="tableattention"><tbody><tr><td>送信ボタンは1回だけ押してください。</td></tr></tbody></table><br /></td></tr><tr><td align="middle"><input id="btnNext" value="送信" type="submit" name="btnNext" /></td></tr></tbody></table></td></tr></tbody></table><div id="Footer" align="center">
+<table id="TableFooterLine" border="0" cellspacing="0" cellpadding="0" width="100%"><tbody><tr><td bgcolor="#999999"><img src="" width="1" height="1" /></td></tr><tr><td><img style="WIDTH: 1px; HEIGHT: 8px" id="CommonFooter1_Image1" border="0" alt="" src="image/spacer.gif" /></td></tr><tr><td align="middle">
+      <table id="TableFooter" border="0" width="680" bgcolor="#ffffff"><tbody><tr><td style="FONT-SIZE: 12px" valign="top"><a style="TEXT-DECORATION: none" href="https://nestle.jp/"><font color="#0000cc">ネスレのホームへ</font></a> <font color="#000000">｜</font> <a style="TEXT-DECORATION: none" href="https://nestle.jp/faq/"><font color="#0000cc">お問合せ</font></a> <font color="#000000">｜</font> <a style="TEXT-DECORATION: none" href="https://nestle.jp/a_web/"><font color="#0000cc">サイトの運営方針</font></a> <font color="#000000">｜</font> <a style="TEXT-DECORATION: none" href="https://nestle.jp/privacy/"><font color="#0000cc">個人情報保護方針</font></a> <font color="#000000">｜</font> <a style="TEXT-DECORATION: none" href="https://p.nestle.jp/about_nc.html"><font color="#0000cc">ポイントプログラム</font></a> <font color="#000000">｜</font> <a style="TEXT-DECORATION: none" href="https://b.nestle.co.jp/map/"><font color="#0000cc">サイトマップ</font></a> </td>
+          <td align="right"><a id="CommonFooter1_HyperLinkLogo" href="https://nestle.jp/"><img style="WIDTH: 73px; HEIGHT: 33px" id="CommonFooter1_CopyRightImage" border="0" alt="ネスレのホームへ" src="image/footer_logo.gif" /></a></td></tr><tr align="right"><td style="FONT-SIZE: 11px" colspan="2"><font color="#000000">Copyright 
+            (C) Nestle Group All rights 
+  reserved.</font></td></tr></tbody></table></td></tr></tbody></table></div><span id="MetaDataPlaceholder"></span></div>
+<script language='JavaScript' src="https://nestle.jp/enquete/js/DoublePostRestriction.js"></script>
+<script language='JavaScript' src="https://nestle.jp/enquete/js/enquete.js"></script><script type='text/javascript'><!--
+if(window.addEventListener) {
+	window.addEventListener('load', function(){document.getElementById('btnNext').click();}, false);
+}
+else if(window.attacheEvent) {
+	window.attacheEvent('onload', function(){document.getElementById('btnNext').click();});
+}
+//--></script>
+
+</form></body>
+</html>

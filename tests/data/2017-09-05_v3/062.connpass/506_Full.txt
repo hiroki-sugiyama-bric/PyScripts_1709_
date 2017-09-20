@@ -1,0 +1,111 @@
+POST https://connpass.com/settings/ HTTP/1.1
+Host: connpass.com
+User-Agent: Mozilla/5.0 (Windows NT 6.1; WOW64; rv:52.0) Gecko/20100101 Firefox/52.0
+Accept: text/html,application/xhtml+xml,application/xml;q=0.9,*/*;q=0.8
+Accept-Language: ja,en-US;q=0.7,en;q=0.3
+Referer: https://connpass.com/settings/
+Cookie: connpass-csrftoken=wGc7U0JekZP3BxUtIWir3U5G9bYCKS6V; sessionid=jetpvtntewkjenipdqx59vzqcc5hwzpc; __utma=215431429.1114560625.1491548972.1491548972.1491555106.2; __utmc=215431429; __utmz=215431429.1491548972.1.1.utmcsr=(direct)|utmccn=(direct)|utmcmd=(none); __utmv=215431429.|1=Authenticated=true=1; connpassusr=AfTLzXJvCcw_1491548973514; __utmb=215431429.16.10.1491555106; __utmt=1
+Connection: close
+Upgrade-Insecure-Requests: 1
+Content-Type: multipart/form-data; boundary=---------------------------324561737615258
+Content-Length: 2708
+
+-----------------------------324561737615258
+Content-Disposition: form-data; name="display_name"
+
+太郎
+-----------------------------324561737615258
+Content-Disposition: form-data; name="email"
+
+crawlingtest1000@gmail.com
+-----------------------------324561737615258
+Content-Disposition: form-data; name="profile"
+
+
+-----------------------------324561737615258
+Content-Disposition: form-data; name="avatar"; filename=""
+Content-Type: application/octet-stream
+
+
+-----------------------------324561737615258
+Content-Disposition: form-data; name="language"
+
+ja
+-----------------------------324561737615258
+Content-Disposition: form-data; name="notify_email-event_publish_to_follower"
+
+on
+-----------------------------324561737615258
+Content-Disposition: form-data; name="notify_email-event_open_start_to_follower"
+
+on
+-----------------------------324561737615258
+Content-Disposition: form-data; name="notify_email-event_open_start_to_owner"
+
+on
+-----------------------------324561737615258
+Content-Disposition: form-data; name="notify_email-event_participate_to_owner"
+
+on
+-----------------------------324561737615258
+Content-Disposition: form-data; name="notify_email-event_participate_cancel_to_owner"
+
+on
+-----------------------------324561737615258
+Content-Disposition: form-data; name="notify_email-new_event_links_to_owner"
+
+on
+-----------------------------324561737615258
+Content-Disposition: form-data; name="notify_email-event_reminder_to_owner"
+
+on
+-----------------------------324561737615258
+Content-Disposition: form-data; name="notify_email-new_event_links_to_presenter"
+
+on
+-----------------------------324561737615258
+Content-Disposition: form-data; name="notify_email-event_waitlist_promotion_to_participant"
+
+on
+-----------------------------324561737615258
+Content-Disposition: form-data; name="notify_email-event_cancel_to_participant"
+
+on
+-----------------------------324561737615258
+Content-Disposition: form-data; name="notify_email-new_event_links_to_participant"
+
+on
+-----------------------------324561737615258
+Content-Disposition: form-data; name="notify_email-event_reminder_to_participant"
+
+on
+-----------------------------324561737615258
+Content-Disposition: form-data; name="send_finish_mail"
+
+on
+-----------------------------324561737615258
+Content-Disposition: form-data; name="send_mail_newsletter"
+
+on
+-----------------------------324561737615258
+Content-Disposition: form-data; name="send_tips_mail"
+
+on
+-----------------------------324561737615258
+Content-Disposition: form-data; name="csrfmiddlewaretoken"
+
+wGc7U0JekZP3BxUtIWir3U5G9bYCKS6V
+-----------------------------324561737615258--
+
+HTTP/1.1 302 FOUND
+Content-Language: ja
+Content-Type: text/html; charset=utf-8
+Date: Fri, 07 Apr 2017 09:42:08 GMT
+Location: https://connpass.com/settings/
+Server: nginx
+Set-Cookie: messages="392d38ada997a453f75f5c5dce476e8eb09ccbf4$[[\"__json_message\"\0540\05420\054\"\\u8a2d\\u5b9a\\u3092\\u4fdd\\u5b58\\u3057\\u307e\\u3057\\u305f\\u3002\"]]"; Domain=.connpass.com; httponly; Path=/
+Vary: Accept-Language, Cookie
+X-Frame-Options: DENY
+Content-Length: 0
+Connection: Close
+

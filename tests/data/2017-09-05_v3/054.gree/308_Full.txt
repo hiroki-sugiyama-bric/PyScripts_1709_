@@ -1,0 +1,28 @@
+POST https://pid.gree.net/ HTTP/1.1
+Host: pid.gree.net
+User-Agent: Mozilla/5.0 (Windows NT 6.1; WOW64; rv:52.0) Gecko/20100101 Firefox/52.0
+Accept: */*
+Accept-Language: ja,en-US;q=0.7,en;q=0.3
+Accept-Encoding: gzip, deflate, br
+Content-Type: application/x-www-form-urlencoded; charset=UTF-8
+X-Requested-With: XMLHttpRequest
+Referer: https://pid.gree.net/reg/bm.reg.opt/7d6bb8bbebd7c4236f732b3cc65f1b82
+Content-Length: 68
+Cookie: gcid=B=e35b9659ff20a4d28206f8748c53aa030a15595f&T=58e6e7c6&V=1&S=r66fecb2ag; _ga=GA1.2.220016531.1491527622
+Connection: close
+
+action=api_password_strength_dictionary_check&password=testtest12345
+HTTP/1.1 302 Found
+Date: Fri, 07 Apr 2017 01:41:22 GMT
+Server: Apache
+X-FRAME-OPTIONS: DENY
+Location: http://jp.apps.gree.net/
+Content-Length: 0
+Content-Type: text/html
+Set-Cookie: gssid=deleted; expires=Thu, 01-Jan-1970 00:00:01 GMT; Max-Age=0; path=/; domain=gree.net; httponly
+Set-Cookie: gssid_hash=deleted; expires=Thu, 01-Jan-1970 00:00:01 GMT; Max-Age=0; path=/; domain=gree.net
+Set-Cookie: user_mail=deleted; expires=Thu, 01-Jan-1970 00:00:01 GMT; Max-Age=0; path=/; domain=gree.net
+Set-Cookie: user_password=deleted; expires=Thu, 01-Jan-1970 00:00:01 GMT; Max-Age=0; path=/; domain=gree.net
+Set-Cookie: login_status=deleted; expires=Thu, 01-Jan-1970 00:00:01 GMT; Max-Age=0; path=/; domain=gree.net
+Connection: close
+

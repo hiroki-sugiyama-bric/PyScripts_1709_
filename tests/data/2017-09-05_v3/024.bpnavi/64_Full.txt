@@ -1,0 +1,28 @@
+POST http://bpnavi.jp/s/base_signup/presignup_confirm HTTP/1.1
+Host: bpnavi.jp
+User-Agent: Mozilla/5.0 (Windows NT 6.1; WOW64; rv:52.0) Gecko/20100101 Firefox/52.0
+Accept: text/html,application/xhtml+xml,application/xml;q=0.9,*/*;q=0.8
+Accept-Language: ja,en-US;q=0.7,en;q=0.3
+Accept-Encoding: gzip, deflate
+Referer: http://bpnavi.jp/s/base_signup/presignup
+Cookie: _ga=GA1.2.1212862488.1490947295; _bpnavi_session=6aebb3f1645e5a70e6e62632cf069ae1
+Connection: keep-alive
+Upgrade-Insecure-Requests: 1
+Content-Type: application/x-www-form-urlencoded
+Content-Length: 229
+
+utf8=&authenticity_token=H2kplnvLcmsZxj4Ymj8pqgUHDURJoIGK1A2B3%2FoyBrU%3D&pc_mail=crawlingtest1000%40gmail.com&capture_text=%E3%82%81%E3%81%A4%E3%81%9B%E3%81%9F&capture_text_ans=%E3%82%81%E3%81%A4%E3%81%9B%E3%81%9F&pc.x=21&pc.y=8
+HTTP/1.1 302 Found
+Date: Wed, 05 Apr 2017 00:44:41 GMT
+Server: Apache
+X-UA-Compatible: IE=Edge,chrome=1
+Cache-Control: no-cache
+X-Request-Id: b88709447932441f4632df71490e1559
+Location: http://bpnavi.jp/s/base_signup/presignup_complete
+Status: 302 Found
+Vary: Accept-Encoding,User-Agent
+Connection: close
+Content-Type: text/html; charset=utf-8
+Content-Length: 115
+
+<html><body>You are being <a href="http://bpnavi.jp/s/base_signup/presignup_complete">redirected</a>.</body></html>

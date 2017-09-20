@@ -1,0 +1,396 @@
+GET https://ssl.fudemame.net/auth/myid/registration HTTP/1.1
+Host: ssl.fudemame.net
+User-Agent: Mozilla/5.0 (Windows NT 6.1; WOW64; rv:52.0) Gecko/20100101 Firefox/52.0
+Accept: text/html,application/xhtml+xml,application/xml;q=0.9,*/*;q=0.8
+Accept-Language: ja,en-US;q=0.7,en;q=0.3
+Accept-Encoding: gzip, deflate, br
+Cookie: _ga=GA1.2.91021461.1490941344; _ga=GA1.3.91021461.1490941344; _session_id=7357e16661984e5e6c92bca035649516; _gat_UA-13063075-23=1
+Connection: keep-alive
+Upgrade-Insecure-Requests: 1
+
+
+HTTP/1.1 200 OK
+Cache-Control: must-revalidate, private, max-age=0
+Content-Type: text/html; charset=utf-8
+Date: Mon, 03 Apr 2017 08:10:56 GMT
+ETag: "14b826c45d91bd701dfcb035f26fcf05"
+Server: Apache
+Set-Cookie: _session_id=7357e16661984e5e6c92bca035649516; path=/; expires=Mon, 03-Apr-2017 08:40:56 GMT; secure; HttpOnly
+Status: 200 OK
+X-Powered-By: Phusion Passenger 4.0.59
+X-Rack-Cache: miss
+X-Request-Id: abddc5de869a84ed9f1d32264f15a733
+X-Runtime: 0.122652
+X-UA-Compatible: IE=Edge,chrome=1
+transfer-encoding: chunked
+Connection: keep-alive
+
+40d1
+<!DOCTYPE html>
+<html lang="ja">
+<head>
+  <meta http-equiv="content-type" content="text/html;charset=UTF-8" />
+  <meta name="viewport" content="width=device-width, initial-scale=1" />
+  <title>【筆まめネット】ユーザ登録 ｜ 新規ユーザ登録</title>
+  <meta http-equiv="X-UA-Compatible" content="IE=edge" />
+  <meta name="description" content="" />
+  <meta name="keywords" content="" />
+  <link rel="shortcut icon" href="/favicon.ico" />
+  <link rel="apple-touch-icon" href="/apple-touch-icon.png" />
+  <link rel="stylesheet" href="/common_v2/css/common.css" />
+  <link rel="stylesheet" href="/mypage/common/css/common.css" />
+  <script src="/javascripts/application.js?1474463559" type="text/javascript"></script>
+  <script src="/javascripts/product_regist.js" charset="UTF-8"></script>
+  <script src="/javascripts/default.js" charset="UTF-8"></script>
+  <script src="/javascripts/nav.js" charset="UTF-8"></script>
+  <script type="text/javascript" src="/common_v2/js/jquery.heightLine.js"></script>
+  <script type="text/javascript" src="/common_v2/js/jquery.exresize.js"></script>
+  <script type="text/javascript" src="/common_v2/js/jquery.cookie.js"></script>
+  <script type="text/javascript" src="/common_v2/js/jquery.overflowScroll.js"></script>
+  <!-- flexslider -->
+  <script type="text/javascript" src="/common_v2/js/jquery.flexslider-min.js"></script>
+  <!-- / flexslider -->
+  <!-- sly -->
+  <script type="text/javascript" src="/common_v2/js/sly.min.js"></script>
+  <script type="text/javascript" src="/common_v2/js/plugins.js"></script>
+  <!-- / sly -->
+  <script type="text/javascript" src="/common_v2/js/common.js"></script>
+    <meta content="authenticity_token" name="csrf-param" />
+<meta content="g14cyHrEs8n/B81XOQUn1heehp/+kB+RFRdsO93+0mk=" name="csrf-token" />
+  <link href="/product_regist_static/stylesheets/import.css" rel="stylesheet" type="text/css" media="all" />
+  <link href="/stylesheets/regist.css" media="all" rel="stylesheet" type="text/css" />
+  <link href="/stylesheets/application.css?1474463559" media="all" rel="stylesheet" type="text/css" />
+
+</head>
+<body>
+  <!-- Google Tag Manager -->
+<noscript>
+  <iframe src="//www.googletagmanager.com/ns.html?id=GTM-PJLNRH" height="0" width="0" style="display:none;visibility:hidden"></iframe>
+</noscript>
+<script>
+  (function(w, d, s, l, i) {
+    w[l] = w[l] || [];
+    w[l].push({
+      'gtm.start': new Date().getTime(),
+      event: 'gtm.js'
+    });
+    var f = d.getElementsByTagName(s)[0],
+      j = d.createElement(s),
+      dl = l != 'dataLayer' ? '&l=' + l : '';
+    j.async = true;
+    j.src =
+      '//www.googletagmanager.com/gtm.js?id=' + i + dl;
+    f.parentNode.insertBefore(j, f);
+  })(window, document, 'script', 'dataLayer', 'GTM-PJLNRH');
+</script>
+<!-- End Google Tag Manager -->
+  <header>
+    <div class="innerBlock">
+  <p class="logo">
+    <a href="https://fudemame.net/"><img src="/common_v2/img/logo.png" alt="筆まめネット FUDEMAME.net" />
+    </a>
+  </p>
+</div>
+  </header>
+  <div id="container" class="layout2ColumnBase mypage simple">
+    <main>
+        <div id="contents">
+    <div id="wrap">
+      <div id="contentsRegist">
+        <div class="titleWrap clear">
+  <h2 class="title">
+      <img src="/auth/myid/images/title01.png" alt="ユーザ登録" width="452" height="56" />
+  </h2>
+</div>
+
+        
+        <div class="mcArea section">
+           <h3 class="marginBt10 planeTitle">新規ユーザ登録</h3>
+ <p class="marginBt20">すべて必須項目です。<br />
+※登録区分が法人の場合は部署名以外はすべて必須です。<br />
+お客様のユーザ情報を入力してください。最後に「確認画面へ」ボタンをクリックしてください。
+ </p>
+<strong>「*」のついた項目は入力必須項目です。</strong>
+<form method="post" action="/auth/myid/registration" accept-charset="UTF-8">
+<input id="authenticity_token" name="authenticity_token" type="hidden" value="g14cyHrEs8n/B81XOQUn1heehp/+kB+RFRdsO93+0mk=" />
+
+
+
+<table cellspacing="0" cellpadding="0" border="0" class="marginBt20">
+<tr>
+<td>
+
+ <table cellspacing="1" cellpadding="4" border="1" bordercolor="#999">
+  <tr>
+   <th bgcolor="#F1EBDD"><font size="2" class="textA"> MyID<font color="red">*</font><br />（MyCreoID）</font></th>
+   <td bgcolor="#FFFFFF"><input type="text" id="my_id" name="my_id" size="56" maxlength="30" value="" class="ipt" >
+<a href="/auth/myid/check_booking" class="new_regist" data-remote="true" data-submit="$(&#x27;#my_id&#x27;)" data-type="html" id="check_booking_myid"><img alt="Confirmation_01" class="iptBtn edit" src="/images/../images/confirmation_01.png?1474463559" style="margin-bottom:-4px;" /></a>
+<div id="check_booking_mess"></div>
+<div class="marginBt10 describe_input">MyID（MyCreoID）は、お好きな半角英数字6文字以上30文字以内で設定してください。<br />
+※一部記号「-」、「_」、「.」、「@」もご利用いただけます。</div>
+  </td>
+  </tr>
+  <tr>
+   <th bgcolor="#F1EBDD"><font class="textA" size="2" >パスワード<font color="red">*</font><br />
+（MyCreoパスワード）</font></th>
+   <td bgcolor="#FFFFFF"><input name="password" size="58" maxlength="40" value="" type="password" class="ipt">
+   <div class="marginBt10 describe_input">パスワードは、記号を除く半角英数6文字以上40文字以内で設定してください。<br />
+※大文字と小文字は違う文字として識別されますので、ご注意ください。</div>
+  </td>
+  </tr>
+  <tr>
+   <th bgcolor="#F1EBDD"><font class="textA" size="2" >パスワード<font color="red">*</font><br />（確認用）</font></th>
+   <td bgcolor="#FFFFFF"><input name="password_confirm" size="58" maxlength="40" value="" type="password" class="ipt"></td>
+  </tr>
+  <tr>
+   <th bgcolor="#F1EBDD"><font class="textA" size="2" >メールアドレス<font color="red">*</font></font></th>
+   <td bgcolor="#FFFFFF"><input type="text" name="email_view" size="58"  value="crawlingtest1000@gmail.com" disabled="disabled"  class="ipt" ></td>
+  </tr>
+  <tr>
+   <th bgcolor="#F1EBDD"><font size="2" class="textA"> 登録区分 <font color="red">*</font></font></th>
+   <td bgcolor="#FFFFFF">
+     <font class="textA" size="2"><input checked="checked" id="division_1" name="division" type="radio" value="1" />個人&nbsp;<input id="division_2" name="division" type="radio" value="2" />法人</font>
+     
+   </td>
+  </tr>
+  <tr>
+   <th bgcolor="#F1EBDD"><font class="textA" size="2" >会社名</font>
+     <span name="company_required" style="display: none;" ><font color="red">*</font></span>
+   </th>
+   <td bgcolor="#FFFFFF">
+     <input style="display: none;" type="text" name="company" size="45" maxlength="50" value="" class="ipt" >
+     
+   </td>
+  </tr>
+  <tr>
+   <th bgcolor="#F1EBDD"><font class="textA" size="2" >部署名</font>
+   </th>
+   <td bgcolor="#FFFFFF">
+     <input style="display: none;" type="text" name="section" size="45" maxlength="50" value="" class="ipt" >
+     
+   </td>
+  </tr>
+  <tr>
+   <th bgcolor="#F1EBDD"><font size="2" class="textA"> 氏名 （全角）<font color="red">*</font></font></th>
+   <td bgcolor="#FFFFFF"><font size="2" class="textA"> 姓 </font>
+<input type="text" name="last_name" size="28" maxlength="15" value="" class="ipt" >
+<font size="2" class="textA"> 名 </font>
+<input type="text" name="first_name" size="28" maxlength="15" value="" class="ipt" >
+  </td>
+  </tr>
+  <tr>
+   <th bgcolor="#F1EBDD"><font size="2" class="textA"> フリガナ （全角）<font color="red">*</font></font></th>
+   <td bgcolor="#FFFFFF"><font size="2" class="textA"> 姓 </font>
+<input type="text" name="kana_last_name" size="28" maxlength="15"value="" class="ipt" >
+<font size="2" class="textA"> 名 </font>
+<input type="text" name="kana_first_name" size="28" maxlength="15"value="" class="ipt" >
+  </td>
+  </tr>
+  <tr>
+   <th bgcolor="#F1EBDD"><font size="2" class="textA"> 生年月日 （半角）<font color="red">*</font></font></th>
+   <td bgcolor="#FFFFFF"><input type="text" value=""  maxlength="4"size="5" name="sei_nen" class="ipt"></input>
+<font size="2" class="textA"> 年 </font>
+<input type="text" value="" maxlength="2"size="2" name="sei_getsu" class="ipt"></input>
+<font size="2" class="textA"> 月 </font>
+<input type="text" value="" maxlength="2"size="2" name="sei_bi" class="ipt"></input>
+<font size="2" class="textA"> 日 </font>
+<font size="2" class="textA describe_input"> 例：1967 01 20</font>
+  </td>
+  </tr>
+  <tr>
+   <th bgcolor="#F1EBDD"><font size="2" class="textA"> 性別 <font color="red">*</font></font></th>
+   <td bgcolor="#FFFFFF"><font class="textA" size="2"><input checked="checked" id="gender_1" name="gender" type="radio" value="1" />男性&nbsp;<input id="gender_2" name="gender" type="radio" value="2" />女性</font>
+   </td>
+  </tr>
+  <tr>
+   <th bgcolor="#F1EBDD"><font size="2" class="textA"> 郵便番号 （半角）<font color="red">*</font></font></th>
+   <td id="zip_area" name="zip_area" bgcolor="#FFFFFF"><input type="text" name="zip1" size="3" maxlength="3" value="" class="ipt" >
+<font size="2" class="textA"> - </font>
+<input type="text" name="zip2" size="4" maxlength="4"value="" class="ipt" >
+&nbsp;
+<input type="button" onClick="AjaxZip3.zip2addr('zip1','zip2','prefecture','addr_2','addr_3');" value="住所を設定" name="zipbutton">
+</input>
+  
+</td>
+  </tr>
+  <tr>
+   <th bgcolor="#F1EBDD"><font size="2" class="textA"> 都道府県 <font color="red">*</font></font></th>
+   <td bgcolor="#FFFFFF"><select id="prefecture" name="prefecture"><option value="0">選択してください</option>
+<option value="1">北海道</option>
+<option value="2">青森県</option>
+<option value="3">岩手県</option>
+<option value="4">宮城県</option>
+<option value="5">秋田県</option>
+<option value="6">山形県</option>
+<option value="7">福島県</option>
+<option value="8">茨城県</option>
+<option value="9">栃木県</option>
+<option value="10">群馬県</option>
+<option value="11">埼玉県</option>
+<option value="12">千葉県</option>
+<option value="13">東京都</option>
+<option value="14">神奈川県</option>
+<option value="15">新潟県</option>
+<option value="16">富山県</option>
+<option value="17">石川県</option>
+<option value="18">福井県</option>
+<option value="19">山梨県</option>
+<option value="20">長野県</option>
+<option value="21">岐阜県</option>
+<option value="22">静岡県</option>
+<option value="23">愛知県</option>
+<option value="24">三重県</option>
+<option value="25">滋賀県</option>
+<option value="26">京都府</option>
+<option value="27">大阪府</option>
+<option value="28">兵庫県</option>
+<option value="29">奈良県</option>
+<option value="30">和歌山県</option>
+<option value="31">鳥取県</option>
+<option value="32">島根県</option>
+<option value="33">岡山県</option>
+<option value="34">広島県</option>
+<option value="35">山口県</option>
+<option value="36">徳島県</option>
+<option value="37">香川県</option>
+<option value="38">愛媛県</option>
+<option value="39">高知県</option>
+<option value="40">福岡県</option>
+<option value="41">佐賀県</option>
+<option value="42">長崎県</option>
+<option value="43">熊本県</option>
+<option value="44">大分県</option>
+<option value="45">宮崎県</option>
+<option value="46">鹿児島県</option>
+<option value="47">沖縄県</option></select>
+   </td>
+  </tr>
+  <tr>
+   <th bgcolor="#F1EBDD"><font size="2" class="textA"> 市区町村 <font color="red">*</font></font></th>
+   <td bgcolor="#FFFFFF"><input type="text" name="addr_2" size="45" maxlength="30" value="" class="ipt" >
+   </td>
+  </tr>
+  <tr>
+   <th bgcolor="#F1EBDD"><font size="2" class="textA"> 番地／ビル名 <font color="red">*</font></font></th>
+   <td bgcolor="#FFFFFF"><input type="text" name="addr_3" size="45" maxlength="60" value="" class="ipt" >
+   </td>
+  </tr>
+  <tr>
+   <th bgcolor="#F1EBDD"><font size="2" class="textA"> 電話番号 （半角）<font color="red">*</font></font></th>
+   <td bgcolor="#FFFFFF"><input type="text" name="tel_1" size="5" maxlength="10" value="" class="ipt" >
+<font size="2" class="textA"> - </font>
+<input type="text" name="tel_2" size="5" maxlength="10" value="" class="ipt" >
+<font size="2" class="textA"> - </font>
+<input type="text" name="tel_3" size="5" maxlength="10" value="" class="ipt" >
+  </td>
+  </tr>
+  <tr>
+   <th bgcolor="#F1EBDD"><font size="2" class="textA"> 郵送でのご案内 <font color="red">*</font></font></th>
+   <td bgcolor="#FFFFFF">
+     <font class="textA" size="2"><input id="direct_mail_post_flg_0" name="direct_mail_post_flg" type="radio" value="0" />不要&nbsp;<input checked="checked" id="direct_mail_post_flg_1" name="direct_mail_post_flg" type="radio" value="1" />要</font>
+     
+   </td>
+  </tr>
+  <tr>
+   <th bgcolor="#F1EBDD"><font size="2" class="textA"> 新製品のご案内 <font color="red">*</font></font></th>
+   <td bgcolor="#FFFFFF">
+     <font class="textA" size="2"><input id="product_information_type_0" name="product_information_type" type="radio" value="0" />不要&nbsp;<input checked="checked" id="product_information_type_1" name="product_information_type" type="radio" value="1" />メールを受け取る</font>
+     
+   </td>
+  </tr>
+  <tr>
+   <th bgcolor="#F1EBDD"><font size="2" class="textA"> キャンペーンのご案内 <font color="red">*</font></font></th>
+   <td bgcolor="#FFFFFF">
+     <font class="textA" size="2"><input id="campaign_flg_0" name="campaign_flg" type="radio" value="0" />不要&nbsp;<input checked="checked" id="campaign_flg_1" name="campaign_flg" type="radio" value="1" />メールを受け取る</font>
+     
+   </td>
+  </tr>
+  <tr>
+   <th bgcolor="#F1EBDD"><font size="2" class="textA"> サポートのご案内 <font color="red">*</font></font></th>
+   <td bgcolor="#FFFFFF">
+     <font class="textA" size="2"><input id="support_flg_0" name="support_flg" type="radio" value="0" />不要&nbsp;<input checked="checked" id="support_flg_1" name="support_flg" type="radio" value="1" />メールを受け取る</font>
+     
+   </td>
+  </tr>
+  <tr>
+   <th bgcolor="#F1EBDD"><font size="2" class="textA"> HTMLメールの受け取り <font color="red">*</font></font></th>
+   <td bgcolor="#FFFFFF">
+     <font class="textA" size="2"><input id="html_mail_flg_0" name="html_mail_flg" type="radio" value="0" />不可&nbsp;<input checked="checked" id="html_mail_flg_1" name="html_mail_flg" type="radio" value="1" />可</font>
+     
+   </td>
+  </tr>
+ </table>
+
+ </td>
+</tr>
+</table>
+ <div class="confirmationBtnArea">
+<!--<input name="submit_u_base" src="../images/confirmation_go_off.png" alt="登録内容変更" title="登録内容変更" border="0" height="59" type="image" width="185">-->
+
+<input type="image" name="submit_u_base" id="" value="" alt="登録内容変更" title="登録内容変更" src="../images/confirmation_go_off.png" onmouseover="this.src='../images/confirmation_go_on.png'" onmouseout="this.src='../images/confirmation_go_off.png'" />
+</div>
+</form>
+<script src="/javascripts/ajaxzip3.js" charset="UTF-8"></script>
+
+        </div>
+      </div>
+    </div>
+  </div>
+  <div class="navLocal">
+  <ul class="listBnr">
+    <li class="btnArea">
+      <p class="btnBnr qa">
+        <a href="https://fudemame.net/support/support/product/user_qa/" target="_blank"><span>ユーザ登録に関するQ&amp;A</span>
+        </a>
+      </p>
+    </li>
+  </ul>
+</div>
+
+    </main>
+  </div>
+  <footer>
+    <div class="title">
+  <div class="innerBlock">
+    <ul class="linkDefault">
+      <li>
+        <a href="https://fudemame.net/">筆まめネット ホーム</a>
+      </li>
+    </ul>
+  </div>
+</div>
+<div class="utility">
+  <div class="innerBlock">
+    <ul class="linkDefault">
+      <li>
+        <a href="http://www.fudemame.co.jp/policy/privacy.html" class="linkBlank" target="_blank">個人情報保護方針</a>
+      </li>
+      <li>
+        <a href="https://fudemame.net/copyright/">商標・著作権について</a>
+      </li>
+      <li>
+        <a href="https://fudemame.net/policy/">サイトポリシー</a>
+      </li>
+      <li>
+        <a href="https://fudemame.net/sitemap/">サイトマップ</a>
+      </li>
+      <li>
+        <a href="http://www.fudemame.co.jp/" class="linkBlank" target="_blank">企業情報</a>
+      </li>
+    </ul>
+  </div>
+</div>
+<div class="copyRight">
+  <p>Copyright &copy; 2015 FUDEMAME Co.,Ltd All rights Reserved.</p>
+</div>
+<p id="linkPageTop" class="displayPc"><span>ページトップへ</span>
+</p>
+  </footer>
+    <p class="notice"></p>
+  <p class="alert"></p>
+
+</body>
+</html>
+
+0
+

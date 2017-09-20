@@ -1,0 +1,386 @@
+GET https://ap.morinaga.co.jp/user/add/redir/Lw== HTTP/1.1
+Host: ap.morinaga.co.jp
+User-Agent: Mozilla/5.0 (Windows NT 6.1; WOW64; rv:52.0) Gecko/20100101 Firefox/52.0
+Accept: text/html,application/xhtml+xml,application/xml;q=0.9,*/*;q=0.8
+Accept-Language: ja,en-US;q=0.7,en;q=0.3
+Accept-Encoding: gzip, deflate, br
+Referer: https://ap.morinaga.co.jp/auth/login
+Cookie: _ga=GA1.4.1999983014.1491200025; PHPSESSID=paq4nmugnnu4ogo6l7582dpeb7; _dc_gtm_UA-34904702-18=1; _dc_gtm_UA-34904702-22=1; _gat_UA-34904702-18=1
+Connection: keep-alive
+Upgrade-Insecure-Requests: 1
+
+
+HTTP/1.1 200 OK
+Date: Tue, 04 Apr 2017 01:42:11 GMT
+Server: Apache
+X-Powered-By: PHP/5.3.3
+Last-Modified: Wed, 10 Feb 2016 09:40:33 GMT
+Expires: Thu, 19 Nov 1981 08:52:00 GMT
+Cache-Control: no-store, no-cache, must-revalidate, post-check=0, pre-check=0
+Pragma: no-cache
+Connection: close
+Transfer-Encoding: chunked
+Content-Type: text/html; charset=UTF-8
+
+90ee
+<!DOCTYPE HTML>
+<html lang="ja">
+<head>
+<meta charset="UTF-8"><script type="text/javascript">window.NREUM||(NREUM={}),__nr_require=function(e,n,t){function r(t){if(!n[t]){var o=n[t]={exports:{}};e[t][0].call(o.exports,function(n){var o=e[t][1][n];return r(o||n)},o,o.exports)}return n[t].exports}if("function"==typeof __nr_require)return __nr_require;for(var o=0;o<t.length;o++)r(t[o]);return r}({1:[function(e,n,t){function r(){}function o(e,n,t){return function(){return i(e,[c.now()].concat(u(arguments)),n?null:this,t),n?void 0:this}}var i=e("handle"),a=e(2),u=e(3),f=e("ee").get("tracer"),c=e("loader"),s=NREUM;"undefined"==typeof window.newrelic&&(newrelic=s);var p=["setPageViewName","setCustomAttribute","setErrorHandler","finished","addToTrace","inlineHit","addRelease"],d="api-",l=d+"ixn-";a(p,function(e,n){s[n]=o(d+n,!0,"api")}),s.addPageAction=o(d+"addPageAction",!0),s.setCurrentRouteName=o(d+"routeName",!0),n.exports=newrelic,s.interaction=function(){return(new r).get()};var m=r.prototype={createTracer:function(e,n){var t={},r=this,o="function"==typeof n;return i(l+"tracer",[c.now(),e,t],r),function(){if(f.emit((o?"":"no-")+"fn-start",[c.now(),r,o],t),o)try{return n.apply(this,arguments)}finally{f.emit("fn-end",[c.now()],t)}}}};a("setName,setAttribute,save,ignore,onEnd,getContext,end,get".split(","),function(e,n){m[n]=o(l+n)}),newrelic.noticeError=function(e){"string"==typeof e&&(e=new Error(e)),i("err",[e,c.now()])}},{}],2:[function(e,n,t){function r(e,n){var t=[],r="",i=0;for(r in e)o.call(e,r)&&(t[i]=n(r,e[r]),i+=1);return t}var o=Object.prototype.hasOwnProperty;n.exports=r},{}],3:[function(e,n,t){function r(e,n,t){n||(n=0),"undefined"==typeof t&&(t=e?e.length:0);for(var r=-1,o=t-n||0,i=Array(o<0?0:o);++r<o;)i[r]=e[n+r];return i}n.exports=r},{}],4:[function(e,n,t){n.exports={exists:"undefined"!=typeof window.performance&&window.performance.timing&&"undefined"!=typeof window.performance.timing.navigationStart}},{}],ee:[function(e,n,t){function r(){}function o(e){function n(e){return e&&e instanceof r?e:e?f(e,u,i):i()}function t(t,r,o,i){if(!d.aborted||i){e&&e(t,r,o);for(var a=n(o),u=m(t),f=u.length,c=0;c<f;c++)u[c].apply(a,r);var p=s[y[t]];return p&&p.push([b,t,r,a]),a}}function l(e,n){v[e]=m(e).concat(n)}function m(e){return v[e]||[]}function w(e){return p[e]=p[e]||o(t)}function g(e,n){c(e,function(e,t){n=n||"feature",y[t]=n,n in s||(s[n]=[])})}var v={},y={},b={on:l,emit:t,get:w,listeners:m,context:n,buffer:g,abort:a,aborted:!1};return b}function i(){return new r}function a(){(s.api||s.feature)&&(d.aborted=!0,s=d.backlog={})}var u="nr@context",f=e("gos"),c=e(2),s={},p={},d=n.exports=o();d.backlog=s},{}],gos:[function(e,n,t){function r(e,n,t){if(o.call(e,n))return e[n];var r=t();if(Object.defineProperty&&Object.keys)try{return Object.defineProperty(e,n,{value:r,writable:!0,enumerable:!1}),r}catch(i){}return e[n]=r,r}var o=Object.prototype.hasOwnProperty;n.exports=r},{}],handle:[function(e,n,t){function r(e,n,t,r){o.buffer([e],r),o.emit(e,n,t)}var o=e("ee").get("handle");n.exports=r,r.ee=o},{}],id:[function(e,n,t){function r(e){var n=typeof e;return!e||"object"!==n&&"function"!==n?-1:e===window?0:a(e,i,function(){return o++})}var o=1,i="nr@id",a=e("gos");n.exports=r},{}],loader:[function(e,n,t){function r(){if(!x++){var e=h.info=NREUM.info,n=d.getElementsByTagName("script")[0];if(setTimeout(s.abort,3e4),!(e&&e.licenseKey&&e.applicationID&&n))return s.abort();c(y,function(n,t){e[n]||(e[n]=t)}),f("mark",["onload",a()+h.offset],null,"api");var t=d.createElement("script");t.src="https://"+e.agent,n.parentNode.insertBefore(t,n)}}function o(){"complete"===d.readyState&&i()}function i(){f("mark",["domContent",a()+h.offset],null,"api")}function a(){return E.exists&&performance.now?Math.round(performance.now()):(u=Math.max((new Date).getTime(),u))-h.offset}var u=(new Date).getTime(),f=e("handle"),c=e(2),s=e("ee"),p=window,d=p.document,l="addEventListener",m="attachEvent",w=p.XMLHttpRequest,g=w&&w.prototype;NREUM.o={ST:setTimeout,CT:clearTimeout,XHR:w,REQ:p.Request,EV:p.Event,PR:p.Promise,MO:p.MutationObserver};var v=""+location,y={beacon:"bam.nr-data.net",errorBeacon:"bam.nr-data.net",agent:"js-agent.newrelic.com/nr-1026.min.js"},b=w&&g&&g[l]&&!/CriOS/.test(navigator.userAgent),h=n.exports={offset:u,now:a,origin:v,features:{},xhrWrappable:b};e(1),d[l]?(d[l]("DOMContentLoaded",i,!1),p[l]("load",r,!1)):(d[m]("onreadystatechange",o),p[m]("onload",r)),f("mark",["firstbyte",u],null,"api");var x=0,E=e(4)},{}]},{},["loader"]);</script>
+<title>エンゼルPLUS</title>
+<meta name="description" content="エンゼルPLUSはお菓子大好きなみなさんが、気軽に楽しめて、ゆったりくつろげる。さらに、お得な情報もゲットできるHAPPYな森永製菓のファンサイトです。">
+<meta name="keywords" content="エンゼルPLUS,森永製菓,森永,もりなが,モリナガ,morinaga,MORINAGA,レシピ,食品,お菓子,チョコ,アイス,ココア,ホットケーキ,キャンディ,キャラメル,ビスケット">
+<meta name="viewport" content="width=device-width, initial-scale=1, user-scalable=no">
+<meta property="og:title" content="エンゼルPLUS" />
+<meta property="og:description" content="エンゼルPLUSはお菓子大好きなみなさんが、気軽に楽しめて、ゆったりくつろげる。さらに、お得な情報もゲットできるHAPPYな森永製菓のファンサイト。" />
+<meta property="og:image" content="http://ap.morinaga.co.jp/assets/images/cs_fb.jpg" />
+<meta property="og:site_name" content="エンゼルPLUS" />
+<meta property="og:type" content="article" />
+<meta property="og:url" content="http://ap.morinaga.co.jp/" />
+<meta property="fb:app_id" content="552217968185104" />
+<link rel="stylesheet" href="https://d1vp7ti2bj1ydk.cloudfront.net/assets/css/main.css?20170403150734">
+<script src="https://d1vp7ti2bj1ydk.cloudfront.net/assets/js/main.js?20170403150734"></script>
+<script src="https://d1vp7ti2bj1ydk.cloudfront.net/assets/scripts/api-common.js?20170403150734"></script>
+<!-- <script src="https://d1vp7ti2bj1ydk.cloudfront.net/assets/scripts/ajax-uploader-cs.js?20170403150734"></script> -->
+<script src="https://d1vp7ti2bj1ydk.cloudfront.net/assets/scripts/jquery.ajax-upload-multiple.js?20170403150734"></script>
+<!--[if lt IE 9.0]>
+  <script type="text/javascript">
+  $('.top_box2_inbox').corner("8px");
+  $('.top_box2_inbox_radius').corner("8px");
+  $('.top_box2_title_radius').corner("8px");
+  $('.top_box2_inbox_photo').corner("8px");
+  </script>
+<![endif]-->
+<link rel="apple-touch-icon-precomposed apple-touch-icon" href="https://d1vp7ti2bj1ydk.cloudfront.net/assets/images/bookmark_icon.png?20170403150734" />
+
+
+
+
+<!-- Google Analytics の Tag をGTMと別に表示するかどうかの設定を見て表示／非表示を制御）--> 
+
+
+<!-- Google Tag Manager の Tag を表示するかどうかの設定を見て表示／非表示を制御）--> 
+<script>dataLayer = [{"LoggedIn":"Never","GA Tracking ID":"UA-34904702-18","Custom Tracking":"scrolling"}];</script>
+<script>(function(w,d,s,l,i){w[l]=w[l]||[];w[l].push({'gtm.start':
+new Date().getTime(),event:'gtm.js'});var f=d.getElementsByTagName(s)[0],
+j=d.createElement(s),dl=l!='dataLayer'?'&l='+l:'';j.async=true;j.src=
+'//www.googletagmanager.com/gtm.js?id='+i+dl;f.parentNode.insertBefore(j,f);
+})(window,document,'script','dataLayer','GTM-MG7ZTK');</script>
+<!-- End Google Tag Manager -->
+</head>
+<body>
+<noscript><iframe src="//www.googletagmanager.com/ns.html?id=GTM-MG7ZTK"
+height="0" width="0" style="display:none;visibility:hidden"></iframe></noscript>
+<div id="js-page" class="cs-page">
+
+<!-- レイアウトを使用しないアンケートのため特別対応 -->
+<!-- header-->
+      <header id="js-cs-header" class="cs-header">
+        <div class="cs-header__inner">
+          <div class="cs-header-navbar">
+            <!-- brand logo-->
+            <div class="cs-header-navbar__brand"><a href="/" class="cs-header-navbar__brand-logo">エンゼルPLUS</a></div>
+            <!-- navigation-->
+            <div class="cs-header-navbar__nav">
+              <div data-header-menu="trigger" data-target="#js-header-nav" class="cs-header-navbar__nav-icon"></div>
+              <div data-header-menu="menu" id="js-header-nav" class="cs-header-navbar__nav-menu cs-h-menu-nav fx-fade">
+                <div class="cs-h-menu-nav__inner">
+                  <div id="js-header-nav-ui" class="cs-h-menu-nav__content">
+                    <div class="cs-h-menu-nav-signin">
+                                          <div class="cs-h-menu-nav-signin__item"><a href="/user/add" class="cs-button-b--2-m cs-button--w-120">会員登録</a></div>
+                      <div class="cs-h-menu-nav-signin__item"><a href="/auth/login" class="cs-button-b--2-m cs-button--w-120">ログイン</a></div>
+                                        </div>
+                    <div class="cs-h-menu-nav-list"><div class="cs-h-menu-nav-list__title">エンゼルPLUS</div><ul class="cs-h-menu-nav-list__items"><li class="cs-h-menu-nav-list__item"><a href="/information/">おしらせ</a></li><li class="cs-h-menu-nav-list__item"><a href="/talk/angel">エンゼルPLUS掲示板</a></li><li class="cs-h-menu-nav-list__item"><a href="/article/angel_blog/">ブログ</a></li><li class="cs-h-menu-nav-list__item"><a href="/vote/vote">投票</a></li><li class="cs-h-menu-nav-list__item"><a href="/quiz/quiz/">クイズ</a></li><li class="cs-h-menu-nav-list__item"><a href="/campaign/campaign">キャンペーン</a></li><li class="cs-h-menu-nav-list__item"><a href="/gallery/angel_gallery/">ギャラリー</a></li></ul></div><div class="cs-h-menu-nav-list"><div class="cs-h-menu-nav-list__title">サイト情報</div><ul class="cs-h-menu-nav-list__items"><li class="cs-h-menu-nav-list__item"><a href="/guide/">掲示板ガイドライン</a></li><li class="cs-h-menu-nav-list__item"><a href="/password-reminder">パスワードのお問い合わせ</a></li><li class="cs-h-menu-nav-list__item"><a href="/points/">エンゼルポイントについて</a></li><li class="cs-h-menu-nav-list__item"><a href="/faq">よくあるご質問</a></li><li class="cs-h-menu-nav-list__item"><a href="/about-site02/">はじめての方へ</a></li></ul></div><div class="cs-h-menu-nav-list"><div class="cs-h-menu-nav-list__title">関連リンク</div><ul class="cs-h-menu-nav-list__items"><li class="cs-h-menu-nav-list__item"><a href="http://www.morinaga.co.jp/" target="_blank">森永製菓</a></li><li class="cs-h-menu-nav-list__item"><a href="http://www.morinaga.co.jp/socialmedia/" target="_blank">ソーシャルメディア一覧</a></li><li class="cs-h-menu-nav-list__item"><a href="http://www.morinaga.co.jp/company/" target="_blank">会社情報</a></li></ul></div><div class="cs-h-menu-nav-list"><div class="cs-h-menu-nav-list__title">　</div><ul class="cs-h-menu-nav-list__items"><li class="cs-h-menu-nav-list__item"><a href="/rules/">ご利用規約</a></li><li class="cs-h-menu-nav-list__item"><a href="http://www.morinaga.co.jp/individual/" target="_blank">個人情報の取扱いについて</a></li><li class="cs-h-menu-nav-list__item"><a href="/inquiry/">お問い合わせ</a></li><li class="cs-h-menu-nav-list__item"><a href="/sitemap">サイト マップ</a></li></ul></div>                  </div>
+                </div>
+              </div>
+            </div>
+            <!-- search-->
+            <div class="cs-header-navbar__search">
+              <div data-header-menu="trigger" data-target="#js-header-search" class="cs-header-navbar__search-icon"></div>
+              <div data-header-menu="menu" data-api="/api/search/get-search-header" id="js-header-search" class="cs-header-navbar__search-menu cs-h-menu-search">
+                <div class="cs-h-menu-search__inner">
+                  <div id="js-header-search-spinner" class="cs-h-menu-search__spinner is-hidden">
+                    <div class="cs-h-menu-search__spinner-icon"></div>
+                  </div>
+                  <div id="js-header-search-ui" class="cs-h-menu-search__content">
+                  </div>
+                </div>
+              </div>
+            </div>
+            <!-- toolbar-->
+            <div class="cs-header-navbar__toolbar">
+                            <ul class="cs-header-toolbar">
+                <li class="cs-header-toolbar__item cs-h-toolbar-item--regist">
+                  <div class="cs-h-toolbar-item__trigger">
+                    <a href="/user/add"><span class="cs-h-toolbar-item__name">新規会員登録</span></a>
+                  </div>
+                </li>
+                <li class="cs-header-toolbar__item cs-h-toolbar-item--login">
+                  <div class="cs-h-toolbar-item__trigger">
+                    <a href="/auth/login"><span class="cs-h-toolbar-item__name">ログイン</span></a>
+                  </div>
+                </li>
+              </ul>
+                          </div>
+          </div>
+        </div>
+        <!-- TODO PCグロナビ汎用化 -->
+        <div class="cs-header-menubar">
+          <div class="cs-header-menubar__inner">
+                        <ul class="cs-header-menubar-list" style="max-width:1000px;">
+              <li class="cs-header-menubar-list__item"><a href="/">ホーム</a></li>
+                                                            <li class="cs-header-menubar-list__item "><a href="/information/">おしらせ</a></li>
+                                              <li class="cs-header-menubar-list__item "><a href="/talk/angel">エンゼルPLUS掲示板</a></li>
+                                              <li class="cs-header-menubar-list__item "><a href="/article/angel_blog/">ブログ</a></li>
+                                              <li class="cs-header-menubar-list__item "><a href="/vote/vote">投票</a></li>
+                                              <li class="cs-header-menubar-list__item "><a href="/quiz/quiz/">クイズ</a></li>
+                                              <li class="cs-header-menubar-list__item "><a href="/campaign/campaign">キャンペーン</a></li>
+                                              <li class="cs-header-menubar-list__item "><a href="/gallery/angel_gallery/">ギャラリー</a></li>
+                          </ul>
+          </div>
+        </div>
+      </header>
+      <!-- / header--><div id="js-page-content" class="cs-page__content">
+
+<!-- start module-->
+<div class="pm-lgn">
+  <!-- <div class="pm-lgn__header cs-container--type-c">
+    <div class="cs-container__inner">
+      <div class="cs-container__main">
+        <img src="http://dummyimage.com/1000x200/333/666" width="100%">
+        <ul data-cstabs="tablist" class="pm-lgn-tabs">
+          <li class="pm-lgn-tabs__item"><a href="/auth/login" class="pm-lgn-tabs__item-link">ログイン</a></li>
+          <li class="pm-lgn-tabs__item"><a href="#" class="pm-lgn-tabs__item-link is-active">会員登録</a></li>
+        </ul>
+      </div>
+    </div>
+  </div> -->
+  <div class="cs-titlebar--type-b">
+    <div class="cs-titlebar__inner">
+      <div class="cs-titlebar__main">
+        <div class="cs-titlebar__title-outer">
+          <div class="cs-titlebar__title">新規会員登録</div>
+        </div>
+        <div class="cs-titlebar__nav-back"><a href="javascript:history.back()">&lt;</a></div>
+      </div>
+    </div>
+  </div>
+  <div class="pm-lgn__content cs-container--type-b">
+    <div class="cs-container__inner">
+      <div class="cs-container__main">
+        <div data-cstabs="container" class="pm-lgn-panes">
+          <div data-cstabs="pane" id="js-signup" class="pm-lgn-panes__item is-active">
+
+            <div class="pm-lgn-form">
+              <div class="cs-text-s" style="text-align: right;margin-bottom: 5px;"><small style="color: red;">※</small> は入力必須の項目です。</div>
+                            <form action="/user/confirm-add" method="post">
+                <input type="hidden" name="token" value="4b6e4dd8a978e1d86cf34905be7697e99166e45c" id="token">                                <div class="pm-lgn-form__label">メールアドレス <small style="color: red;">※</small><span>半角英数字</span></div>
+                <div><p style="margin-bottom:5px;color:#aaa;">※指定受信を設定の方は、「@ap.morinaga.co.jp」の受信を許可願います。</p></div>
+                <div class="pm-lgn-form__field"><input type="text" name="email" id="email" value="" class="cs-field-a cs-field--w-100p"></div>
+                                <div class="pm-lgn-form__label">パスワード <small style="color: red;">※</small><span>半角英数字4～64文字以内</span></div>
+                <div class="pm-lgn-form__field"><input type="password" name="passwd" id="passwd" value="" class="cs-field-a cs-field--w-100p"></div>
+                                <div class="pm-lgn-form__label">ユーザー名 <small style="color: red;">※</small><span>半角または全角で15文字以内</span></div>
+                <div class="pm-lgn-form__field"><input type="text" name="nickname" id="nickname" value="" class="cs-field-a cs-field--w-100p"><p style="margin-top:5px;color:#aaa;">※自身のマイページや投稿の際に使います。</p>
+                </div>
+                
+                                <div class="pm-lgn-form__label">性別 </div>
+                <div class="pm-lgn-form__field">
+                                    <label class="cs-radio-a--l"><input type="radio" class="" name="gender" id="gender-1" value="2" />女性</label><label class="cs-radio-a--l"><input type="radio" class="" name="gender" id="gender-2" value="1" />男性</label>                </div>
+                                                <div class="pm-lgn-form__label">生年月日 </div>
+                <div class="pm-lgn-form__field">
+                                    <div class="pm-usr-settings-form__inline-layout"><div class="pm-usr-settings-form__inline-layout-item"><div class="pm-usr-settings-form__field-item"><select class="cs-field-a" id="birthday_year" name = "birthday_year">&nbsp;<option value="" selected="selected">--年</option><option value="2017">2017年</option><option value="2016">2016年</option><option value="2015">2015年</option><option value="2014">2014年</option><option value="2013">2013年</option><option value="2012">2012年</option><option value="2011">2011年</option><option value="2010">2010年</option><option value="2009">2009年</option><option value="2008">2008年</option><option value="2007">2007年</option><option value="2006">2006年</option><option value="2005">2005年</option><option value="2004">2004年</option><option value="2003">2003年</option><option value="2002">2002年</option><option value="2001">2001年</option><option value="2000">2000年</option><option value="1999">1999年</option><option value="1998">1998年</option><option value="1997">1997年</option><option value="1996">1996年</option><option value="1995">1995年</option><option value="1994">1994年</option><option value="1993">1993年</option><option value="1992">1992年</option><option value="1991">1991年</option><option value="1990">1990年</option><option value="1989">1989年</option><option value="1988">1988年</option><option value="1987">1987年</option><option value="1986">1986年</option><option value="1985">1985年</option><option value="1984">1984年</option><option value="1983">1983年</option><option value="1982">1982年</option><option value="1981">1981年</option><option value="1980">1980年</option><option value="1979">1979年</option><option value="1978">1978年</option><option value="1977">1977年</option><option value="1976">1976年</option><option value="1975">1975年</option><option value="1974">1974年</option><option value="1973">1973年</option><option value="1972">1972年</option><option value="1971">1971年</option><option value="1970">1970年</option><option value="1969">1969年</option><option value="1968">1968年</option><option value="1967">1967年</option><option value="1966">1966年</option><option value="1965">1965年</option><option value="1964">1964年</option><option value="1963">1963年</option><option value="1962">1962年</option><option value="1961">1961年</option><option value="1960">1960年</option><option value="1959">1959年</option><option value="1958">1958年</option><option value="1957">1957年</option><option value="1956">1956年</option><option value="1955">1955年</option><option value="1954">1954年</option><option value="1953">1953年</option><option value="1952">1952年</option><option value="1951">1951年</option><option value="1950">1950年</option><option value="1949">1949年</option><option value="1948">1948年</option><option value="1947">1947年</option><option value="1946">1946年</option><option value="1945">1945年</option><option value="1944">1944年</option><option value="1943">1943年</option><option value="1942">1942年</option><option value="1941">1941年</option><option value="1940">1940年</option><option value="1939">1939年</option><option value="1938">1938年</option><option value="1937">1937年</option><option value="1936">1936年</option><option value="1935">1935年</option><option value="1934">1934年</option><option value="1933">1933年</option><option value="1932">1932年</option><option value="1931">1931年</option><option value="1930">1930年</option><option value="1929">1929年</option><option value="1928">1928年</option><option value="1927">1927年</option><option value="1926">1926年</option><option value="1925">1925年</option><option value="1924">1924年</option><option value="1923">1923年</option><option value="1922">1922年</option><option value="1921">1921年</option><option value="1920">1920年</option><option value="1919">1919年</option><option value="1918">1918年</option><option value="1917">1917年</option></select></div></div><div class="pm-usr-settings-form__inline-layout-item"><div class="pm-usr-settings-form__field-item"><select class="cs-field-a" id="birthday_month" name = "birthday_month">&nbsp;<option value="" selected="selected">--月</option><option value="1">1月</option><option value="2">2月</option><option value="3">3月</option><option value="4">4月</option><option value="5">5月</option><option value="6">6月</option><option value="7">7月</option><option value="8">8月</option><option value="9">9月</option><option value="10">10月</option><option value="11">11月</option><option value="12">12月</option></select></div></div><div class="pm-usr-settings-form__inline-layout-item"><div class="pm-usr-settings-form__field-item"><select class="cs-field-a" id="birthday_day" name = "birthday_day">&nbsp;<option value="" selected="selected">--日</option><option value="1">1日</option><option value="2">2日</option><option value="3">3日</option><option value="4">4日</option><option value="5">5日</option><option value="6">6日</option><option value="7">7日</option><option value="8">8日</option><option value="9">9日</option><option value="10">10日</option><option value="11">11日</option><option value="12">12日</option><option value="13">13日</option><option value="14">14日</option><option value="15">15日</option><option value="16">16日</option><option value="17">17日</option><option value="18">18日</option><option value="19">19日</option><option value="20">20日</option><option value="21">21日</option><option value="22">22日</option><option value="23">23日</option><option value="24">24日</option><option value="25">25日</option><option value="26">26日</option><option value="27">27日</option><option value="28">28日</option><option value="29">29日</option><option value="30">30日</option><option value="31">31日</option></select></div></div><input type = "hidden" id = "birthday" name = "birthday" value = ""></div><script type="text/javascript">
+                        $(function() {
+                            $("#birthday").change(function(){
+                                $("#birthday_year").val($("#birthday").val().substr(0,4));
+                                $("#birthday_month").val(parseInt($("#birthday").val().substr(5,2), 10));
+                                $("#birthday_day").val(parseInt($("#birthday").val().substr(8,2), 10));
+                                
+                            });
+                            $("#birthday_year").change(dateChange_birthday);
+                            $("#birthday_month").change(dateChange_birthday);
+                            $("#birthday_day").change(dateChange_birthday);
+                        });
+
+                        function dateChange_birthday() {
+                            var setDate = '';
+                            var setTime = '';
+                            setDate = $("#birthday_year").val() + '-' + $("#birthday_month").val() + '-' + $("#birthday_day").val();setTime = ' 00:00:00'
+                            if ($("#birthday_year").val() == "" || $("#birthday_month").val() == "" || $("#birthday_day").val() == "") {
+                                $("#birthday").val("");
+                            } else {
+                                $("#birthday").val(setDate + setTime);
+                            }
+                        }
+
+                        function dateDelete_birthday() {
+                            $("#birthday_year").val('');
+                            $("#birthday_month").val('');
+                            $("#birthday_day").val('');
+                            dateChange_birthday();
+                        }
+        	            </script>
+                                        </div>
+                                                <div class="pm-lgn-form__label">都道府県 </div>
+                <div class="pm-lgn-form__field">
+                                    <select name="prefecture_id" id="prefecture_id" class="cs-field-a cs-field--w-100p">
+    <option value="" label="選択して下さい">選択して下さい</option>
+    <option value="1" label="北海道">北海道</option>
+    <option value="2" label="青森県">青森県</option>
+    <option value="3" label="岩手県">岩手県</option>
+    <option value="4" label="宮城県">宮城県</option>
+    <option value="5" label="秋田県">秋田県</option>
+    <option value="6" label="山形県">山形県</option>
+    <option value="7" label="福島県">福島県</option>
+    <option value="8" label="茨城県">茨城県</option>
+    <option value="9" label="栃木県">栃木県</option>
+    <option value="10" label="群馬県">群馬県</option>
+    <option value="11" label="埼玉県">埼玉県</option>
+    <option value="12" label="千葉県">千葉県</option>
+    <option value="13" label="東京都">東京都</option>
+    <option value="14" label="神奈川県">神奈川県</option>
+    <option value="15" label="新潟県">新潟県</option>
+    <option value="16" label="富山県">富山県</option>
+    <option value="17" label="石川県">石川県</option>
+    <option value="18" label="福井県">福井県</option>
+    <option value="19" label="山梨県">山梨県</option>
+    <option value="20" label="長野県">長野県</option>
+    <option value="21" label="岐阜県">岐阜県</option>
+    <option value="22" label="静岡県">静岡県</option>
+    <option value="23" label="愛知県">愛知県</option>
+    <option value="24" label="三重県">三重県</option>
+    <option value="25" label="滋賀県">滋賀県</option>
+    <option value="26" label="京都府">京都府</option>
+    <option value="27" label="大阪府">大阪府</option>
+    <option value="28" label="兵庫県">兵庫県</option>
+    <option value="29" label="奈良県">奈良県</option>
+    <option value="30" label="和歌山県">和歌山県</option>
+    <option value="31" label="鳥取県">鳥取県</option>
+    <option value="32" label="島根県">島根県</option>
+    <option value="33" label="岡山県">岡山県</option>
+    <option value="34" label="広島県">広島県</option>
+    <option value="35" label="山口県">山口県</option>
+    <option value="36" label="徳島県">徳島県</option>
+    <option value="37" label="香川県">香川県</option>
+    <option value="38" label="愛媛県">愛媛県</option>
+    <option value="39" label="高知県">高知県</option>
+    <option value="40" label="福岡県">福岡県</option>
+    <option value="41" label="佐賀県">佐賀県</option>
+    <option value="42" label="長崎県">長崎県</option>
+    <option value="43" label="熊本県">熊本県</option>
+    <option value="44" label="大分県">大分県</option>
+    <option value="45" label="宮崎県">宮崎県</option>
+    <option value="46" label="鹿児島県">鹿児島県</option>
+    <option value="47" label="沖縄県">沖縄県</option>
+    <option value="48" label="国外">国外</option>
+</select>                </div>
+                                                <div class="pm-lgn-form__label">どこでエンゼルPLUSを知りましたか？  </div>
+                <div class="pm-lgn-form__field">
+                                    <select name="question_01" id="question_01" class="cs-field-a cs-field--w-100p">
+    <option value="" label="選択してください">選択してください</option>
+    <option value="1" label="森永製菓のメルマガをみて">森永製菓のメルマガをみて</option>
+    <option value="2" label="商品・リーフレットをみて">商品・リーフレットをみて</option>
+    <option value="3" label="森永製菓のwebサイトから">森永製菓のwebサイトから</option>
+    <option value="4" label="森永製菓モニプラ支店から">森永製菓モニプラ支店から</option>
+    <option value="5" label="Facebook・Twitterから">Facebook・Twitterから</option>
+    <option value="6" label="buzzLifeから">buzzLifeから</option>
+    <option value="7" label="検索エンジン">検索エンジン</option>
+    <option value="8" label="懸賞サイト">懸賞サイト</option>
+    <option value="9" label="イベントで知った">イベントで知った</option>
+    <option value="10" label="友達からの紹介">友達からの紹介</option>
+    <option value="11" label="その他">その他</option>
+</select>                </div>
+                                
+                <div class="pm-lgn-form__remember">
+                  <label>
+                    <input type="hidden" name="mail_magazine_type" value="0"><input type="checkbox" name="mail_magazine_type" id="mail_magazine_type" value="2" checked="checked"> メールマガジンを受け取る
+                  </label>
+                </div>
+
+                <div class="pm-lgn-form__agree"><a href="/rules" target="_blank">利用規約</a>をご確認の上、「同意して確認画面へ進む」ボタンを押してください。<br />メールアドレスは「エンゼルPLUS」へのログインと、メールマガジン（商品情報やキャンペーンなどのお得な情報）をお送りするために使用致します。</div>
+                <div><button class="cs-button-a--1-l cs-button--w-100p">同意して確認画面へ</button></div>
+              </form>
+            </div>
+ 
+            <div class="pm-lgn-sns">
+              <div class="pm-lgn-sns__heading"><span>または</span>SNSアカウントで会員登録する</div>
+              <ul class="pm-lgn-sns__list">
+                <li class="pm-lgn-sns__link"><a href="/user/add-social-login/type/twitter" class="pm-lgn-sns__link-tw"><span>Twitter アカウントを使用</span></a></li>
+                <li class="pm-lgn-sns__link"><a href="/user/add-social-login/type/facebook" class="pm-lgn-sns__link-fb"><span>Facebook アカウントを使用</span></a></li>
+                <!-- <li class="pm-lgn-sns__link"><a href="/user/add-social-login/type/line" class="pm-lgn-sns__link-line"><span>LINE アカウントを使用</span></a></li> -->
+              </ul>
+　　　　　　　<div class="pm-lgn-form__agree" style="margin-top:5px;">&lt;エンゼルPLUS&gt; はFacebook、Twitterのアカウントをご利用いただけます。<br />Facebook、Twitterアカウントでログインされた場合、公開アイコンと名前が表示されます。</div>
+            </div>
+          </div>
+        </div>
+      </div>
+    </div>
+  </div>
+</div>
+<!-- end module-->
+<!-- footer-->
+        <!-- TODO フッター汎用化 -->
+        <footer class="cs-footer">
+          <div class="cs-footer-pagetop">
+            <div class="cs-footer-pagetop__inner"><a href="#top" data-scroller="true">ページトップへ</a></div>
+          </div>
+          <div class="cs-footer-main">
+            <div class="cs-footer-main__inner">
+              <div class="cs-footer-brand"><a href="http://www.morinaga.co.jp/" target="_blank"><div class="cs-footer-brand__logo"></div></a></div>
+              <div class="cs-footer-nav">
+                <div class="cs-footer-nav__item">
+                  <div class="cs-footer-nav-group">
+                    <div class="cs-footer-nav-group__heading">エンゼルPLUS</div>
+                    <ul class="cs-footer-nav-group__items">
+                      <div class="cs-footer-nav-group__item"><a href="/information/">おしらせ</a></div>
+                      <div class="cs-footer-nav-group__item"><a href="/campaign/campaign/">キャンペーン</a></div>
+                      <div class="cs-footer-nav-group__item"><a href="/article/angel_blog/">エンゼルブログ</a></div>
+                      <div class="cs-footer-nav-group__item"><a href="/vote/vote/">投票</a></div>
+                      <div class="cs-footer-nav-group__item"><a href="/talk/angel/">エンゼルPLUS掲示板</a></div>
+                      <!-- div class="cs-footer-nav-group__item"><a href="/talk/biscuit/">ビスケット掲示板</a></div -->
+                      <div class="cs-footer-nav-group__item"><a href="/gallery/angel_gallery/">エンゼルギャラリー</a></div>
+                      <div class="cs-footer-nav-group__item"><a href="/guide/">掲示板ガイドライン</a></div>
+                    </ul>
+                  </div>
+                </div>
+                <div class="cs-footer-nav__item">
+                  <div class="cs-footer-nav-group">
+                    <div class="cs-footer-nav-group__heading">サイト情報</div>
+                    <ul class="cs-footer-nav-group__items">
+                      <div class="cs-footer-nav-group__item"><a href="/password-reminder">パスワードのお問い合わせ</a></div>
+                      <div class="cs-footer-nav-group__item"><a href="/points/">エンゼルポイントについて</a></div>
+                      <div class="cs-footer-nav-group__item"><a href="/faq/">よくあるご質問</a></div>
+                      <div class="cs-footer-nav-group__item"><a href="/about-site02/">はじめての方へ</a></div>
+                    </ul>
+                  </div>
+                </div>
+                <div class="cs-footer-nav__item">
+                  <div class="cs-footer-nav-group">
+                    <div class="cs-footer-nav-group__heading">関連リンク</div>
+                    <ul class="cs-footer-nav-group__items">
+                      <div class="cs-footer-nav-group__item"><a href="http://www.morinaga.co.jp/" target="_blank">森永製菓</a></div>
+                      <div class="cs-footer-nav-group__item"><a href="http://www.morinaga.co.jp/socialmedia/" target="_blank">ソーシャルメディア一覧</a></div>
+                      <div class="cs-footer-nav-group__item"><a href="http://www.morinaga.co.jp/company/" target="_blank">会社情報</a></div>
+                    </ul>
+                  </div>
+                </div>
+              </div>
+              <div class="cs-footer-utils">
+                <div class="cs-footer-utils__items">
+                  <div class="cs-footer-utils__item"><a href="/rules/">ご利用規約</a></div>
+                  <div class="cs-footer-utils__item"><a href="http://www.morinaga.co.jp/individual/" target="_blank">個人情報の取扱いについて</a></div>
+                  <div class="cs-footer-utils__item"><a href="/inquiry/">お問い合わせ</a></div>
+　　　　　<div class="cs-footer-utils__item"><a href="/sitemap/">サイトマップ</a></div>
+                </div>
+                <div class="cs-footer-utils__copyright">Copyright &copy; MORINAGA &amp; CO.,LTD. all rights reserved.</div>
+              </div>
+            </div>
+          </div>
+        </footer><!-- レイアウトを使用しないアンケートのため特別対応 ここまで -->
+
+</div>
+</div>
+<!-- /container -->
+<script type="text/javascript">window.NREUM||(NREUM={});NREUM.info={"beacon":"bam.nr-data.net","licenseKey":"e5fa2fe75e","applicationID":"47051424","transactionName":"bgZbZUVTXhYDVkNaXldMeFJDW18LTVFSVVBMD00eQkFVF01UU1c=","queueTime":0,"applicationTime":445,"atts":"QkFYEw1JTRg=","errorBeacon":"bam.nr-data.net","agent":""}</script></body>
+</html>
+0
+

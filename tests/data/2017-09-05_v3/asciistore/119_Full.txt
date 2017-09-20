@@ -1,0 +1,92 @@
+POST http://ascii-store.jp/forgot/? HTTP/1.1
+Host: ascii-store.jp
+User-Agent: Mozilla/5.0 (Windows NT 6.1; WOW64; rv:51.0) Gecko/20100101 Firefox/51.0
+Accept: text/html,application/xhtml+xml,application/xml;q=0.9,*/*;q=0.8
+Accept-Language: ja,en-US;q=0.7,en;q=0.3
+Accept-Encoding: gzip, deflate
+Referer: http://ascii-store.jp/forgot/
+Cookie: ECSESSID=ft1ank9sgh0su5g3iare0joii6; ascii-store-lb=HJNCBEAK; __utma=133384606.1117544772.1489393026.1489393026.1489393026.1; __utmb=133384606.18.10.1489393026; __utmc=133384606; __utmz=133384606.1489393026.1.1.utmcsr=kadokawa.co.jp|utmccn=(referral)|utmcmd=referral|utmcct=/similarsites/; hikiageru_uuid=1cc4161ecbc807f48657ab32c8e4ca8b; __utmt=1; _tdim=a5fcad9f-1ace-4b4e-fe10-a039d83690ba
+Connection: keep-alive
+Upgrade-Insecure-Requests: 1
+Content-Type: application/x-www-form-urlencoded
+Content-Length: 175
+
+transactionid=8c6199bf270264635a75cb8c385764a1e3cfe7cc&mode=complete&email=hitakahashi9999%40gmail.com&reminder=7&reminder_answer=%E3%81%AA%E3%81%97&confirm=%E6%AC%A1%E3%81%B8
+HTTP/1.1 200 OK
+Date: Mon, 13 Mar 2017 08:28:59 GMT
+Server: Apache/2.2.15 (CentOS)
+X-Powered-By: PHP/5.3.3
+Pragma: no-cache
+Expires: Thu, 19 Nov 1981 08:52:00 GMT
+Cache-Control: no-store, no-cache, must-revalidate, post-check=0, pre-check=0
+Content-Length: 2994
+Connection: close
+Content-Type: text/html; charset=UTF-8
+Set-Cookie: ascii-store-lb=HJNCBEAK; Domain=ascii-store.jp; Expires=Tue, 14-Mar-2017 08:28:58 GMT; Path=/
+
+
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+
+<html xmlns="http://www.w3.org/1999/xhtml" lang="ja" xml:lang="ja">
+<head>
+<meta http-equiv="Content-Type" content="text/html; charset=UTF-8" />
+<meta http-equiv="Content-Script-Type" content="text/javascript" />
+<meta http-equiv="Content-Style-Type" content="text/css" />
+<link rel="stylesheet" href="/user_data/packages/default/css/import.css" type="text/css" media="all" />
+<script type="text/javascript" src="/js/css.js"></script>
+<script type="text/javascript" src="/js/navi.js"></script>
+<script type="text/javascript" src="/js/win_op.js"></script>
+<script type="text/javascript" src="/js/site.js"></script>
+<script type="text/javascript" src="/js/jquery-1.4.2.min.js"></script>
+<title>アスキーストア/パスワードを忘れた方(完了ページ)</title>
+<link rel="shortcut icon" href="/user_data/packages/default/img/common/favicon.ico" />
+<link rel="icon" type="image/vnd.microsoft.icon" href="/user_data/packages/default/img/common/favicon.ico" />
+<script type="text/javascript">//<![CDATA[
+    
+    $(function(){
+        opener.location.reload(true);
+    });
+//]]></script>
+</head>
+
+<body>
+<noscript>
+    <p><em>JavaScriptを有効にしてご利用下さい.</em></p>
+</noscript>
+
+
+
+<a name="top" id="top"></a>
+
+<div id="windowcolumn">
+<div id="window_area">
+
+        <h2 class="title">パスワード再発行完了</h2>
+        <form action="?" method="post" name="form1">
+            <input type="hidden" name="transactionid" value="8c6199bf270264635a75cb8c385764a1e3cfe7cc" />
+            <div class="caution_box">
+                本人確認の為、パスワード再設定用URLをご登録メールアドレスに送信いたしました。<br />
+                メール本文に記載されたURLから、パスワード再設定を行ってください。
+                <p class="mini mt10 indent">※セキュリティのため、お送りしたURLは3時間後に無効となりますので、ご注意ください。<br />無効になった場合は、再度パスワード再発行用URLを取得してください。</p>
+            </div>
+	        <div class="btn_area">
+	            <ul>
+	                <li><a href="javascript:window.close()" onmouseover="chgImg('/user_data/packages/default/img/button/btn_close_on.jpg','close');" onmouseout="chgImg('/user_data/packages/default/img/button/btn_close.jpg','close');"><img src="/user_data/packages/default/img/button/btn_close.jpg" alt="閉じる" name="close" id="close" /></a></li>
+	            </ul>
+	        </div>
+        </form>
+</div>
+
+
+</div>
+<script type="text/javascript">
+ (function(w,d,s,c){
+ w["_itm_cid_"] = c;
+ var f=d.getElementsByTagName(s)[0],j=d.createElement(s);
+ j.async=true;j.src = '//dmp.im-apps.net/itm8/js/itm.js';
+ f.parentNode.insertBefore(j, f);
+ })(window,document,'script',6189);
+</script>
+</body>
+</html>

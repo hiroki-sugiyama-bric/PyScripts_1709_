@@ -1,0 +1,394 @@
+GET https://login.yahoo.co.jp/config/login_verify2?.src=acct&.done=https%3A%2F%2Faccount.edit.yahoo.co.jp%2Faddress%3F.src%3Dacct%26.done%3Dhttps%253A%252F%252Faccounts.yahoo.co.jp%252Fprofile%253F.scrumb%253D0%2526.done%253Dhttp%25253A%25252F%25252Fwww.yahoo.co.jp%25252F%2526.src%253Dwww%26.scrumb%3D0 HTTP/1.1
+Host: login.yahoo.co.jp
+User-Agent: Mozilla/5.0 (Windows NT 6.1; WOW64; rv:51.0) Gecko/20100101 Firefox/51.0
+Accept: text/html,application/xhtml+xml,application/xml;q=0.9,*/*;q=0.8
+Accept-Language: ja,en-US;q=0.7,en;q=0.3
+Referer: https://accounts.yahoo.co.jp/profile?.done=http%3A%2F%2Fwww.yahoo.co.jp%2F&.src=www
+Cookie: B=a6lg541c6u1mt&b=4&d=wInzN5dpYF2.yMGU8thCfe9eUch.KVrq9nYvcTUN&s=sn&i=sKsVUnf.da7OAzT2tnWy; JV=l7dpcCo04h7pFq4Cz3Wt9d1f8OAPJk0jKNgovcHty0LcfDz4CR7g50todYC7ELsviPyXRvuPFt.xQBQXRlLR90ortD7_E1uIN.thQ_4vrS..ZkDavPZFgu62AuJzxosnwEbJ_jrdcPMzEOKQLG5YenKxYPuJzxhAk7ZEd6z0Dv19XRxslCaWuK46GXIFr0cjmX.n8sVaFtDp6JquSTHzUTKiXLo6V6nvlMT5eV6FMlsa4tmgNWHDuKOQTMicNX67a1UISbtXuJPhAlPlCLtrLM4zjvH9TW2fMxYp; sB=sbt=9vyvQDOZJvA0f1abJxeVLUKrqOSc3Jo-; _vwo_uuid_v2=86864CD76DD169C3625E9466E571F688|fad6cdb99bc2624122629a2ef8821c99; YJTC=g.xxVMSMy4lv3HunYXxlnTv4..BbeS0-; F=a=0hTmEs0MvSAHRW8d_8CIw7G.7qRPG3ixjzw6dKml6NeqznGHyeAgYklMLv5HWO7sEUfpbSM-&b=rIHl; YLS=v=2&p=1&n=1; Y=v=1&n=dmchm5jfmtbgg&l=j4ij4hzzzzrs/o&p=m2ivvjp012000000&ig=00cpr&r=11k&lg=ja-JP&intl=jp; T=z=h6opYBhi3yYB0AhjzkC.O/sNjc2NAYxMzI0MzY0NTY-&sk=DAAc/Y482mRrER&ks=EAAdhzp1pqtiSNAOWf7PZKH0w--~E&d=dGlwAWFfdEFVRAFhAVFBRQFnATJSWENESElDVkxUTjVYVldKVElLQUNUVU1RAXNsAU1UQXhNd0UyTkRVek5ERXpNakUtAXNjAXd3dwF6egFoNm9wWUJBMko-; SSL=v=1&s=Jb_k3FcneYcqT8AcBMlJL4rNKtGQvWKt9P8u2BuxZWkytBpKNybfDD_UYKyt4QOyht88nLgVBKO0kFTgYi9tlA--&kv=0; YLF=v=1&y=aytMB6onJ8_5hNOR3uO8FVw4YgZIHe7O3rDYQzEsV6Oz.94923DfMQ8nQg--&s=p_caCGAIU1CuZTOx.F2q3DUc6x8-
+Connection: close
+Upgrade-Insecure-Requests: 1
+
+
+HTTP/1.1 200 OK
+Date: Fri, 17 Feb 2017 05:48:33 GMT
+P3P: policyref="http://privacy.yahoo.co.jp/w3c/p3p_jp.xml", CP="CAO DSP COR CUR ADM DEV TAI PSA PSD IVAi IVDi CONi TELo OTPi OUR DELi SAMi OTRi UNRi PUBi IND PHY ONL UNI PUR FIN COM NAV INT DEM CNT STA POL HEA PRE GOV"
+X-Content-Type-Options: nosniff
+X-XSS-Protection: 1; mode=block
+Expires: Thu, 01 Jan 1970 00:00:00 GMT
+Cache-Control: private
+Pragma: no-cache
+Vary: Accept-Encoding
+Content-Type: text/html; charset=UTF-8
+Age: 0
+Transfer-Encoding: chunked
+Connection: close
+Server: ATS
+
+4d77
+<!DOCTYPE HTML PUBLIC "-//W3C//DTD HTML 4.01//EN" "http://www.w3.org/TR/html4/strict.dtd">
+<html>
+
+<head>
+<!-- Refresh login page every 15 minutes -->
+<meta http-equiv="Pragma" content="no-cache">
+<meta http-equiv="Expires" content="0">
+<meta http-equiv="Content-Type" content="text/html; charset=utf-8">
+<meta name="description" content="Yahoo! JAPAN IDでログインすると、Yahoo! JAPANのサービスがさらに便利にご利用いただけます。Yahoo! JAPAN IDをお持ちでない方もいますぐ無料で登録しましょう。">
+<title>パスワードの再確認 - Yahoo! JAPAN</title>
+<link rel="stylesheet" type="text/css" href="https://s.yimg.jp/images/login/pc/css/login/1.3.4/login-min.css">
+<!--[if IE]>
+<link rel="stylesheet" type="text/css" href="https://s.yimg.jp/images/css/login/reg06/common/yreg_ie_1.1.0.css">
+<![endif]-->
+</head>
+
+<body id="yregtctx" class=frontpage onload="document.login_form.passwd.focus();">
+<noscript><style type="text/css"><!--#linksTheme{display:none;}//--></style></noscript>
+
+<div id="wrapper" >
+
+<div id="header" class="yregwp">
+<!-- begin header -->
+<!--- MH -->
+<div id="msthd">
+<div class="logo">
+<a href="http://rdsig.yahoo.co.jp/login/pc/v/ytoplogo/RV=1/RU=aHR0cDovL3d3dy55YWhvby5jby5qcC8-" data-ylk="slk:ytop;pos:1;"><img src="https://s.yimg.jp/c/logo/f/2.0/yj_r_34_2x.png" alt="Yahoo! JAPAN" width="136" height="34" id="ygmhlog"></a>
+</div>
+<div class="msthdlink">
+<ul>
+<li class="help"><a href="http://rdsig.yahoo.co.jp/login/pc/v/helplogin/RV=1/RU=aHR0cDovL2hlbHAueWFob28uY28uanAvaGVscC9qcC9lZGl0Lw--">ヘルプ</a></li>
+</ul>
+</div>
+</div>
+<!--- /MH -->
+<!-- end header -->
+<span id="cache"></span>
+<div id="EMG">
+<!-- SpaceID=2080174427 loc=EMG3 noad-spid -->
+
+<!-- SpaceID=2080174427 loc=EMG2 noad-spid -->
+
+<!-- SpaceID=2080174427 loc=EMG noad -->
+
+
+</div>
+</div><!-- /#header -->
+
+<div id="contents">
+<div class="yregwp">
+<div id="notices">
+<div class="info yjS clearfix"><div class="left"><div class="infoImg"><img src="https://s.yimg.jp/images/login/pc/img/login/1.0.0/ico_info.png" width="8" height="16" alt="お知らせ"></div><p class="title"><a href="http://rdsig.yahoo.co.jp/login/attention/yjfx_cmp/RV=1/RE=1488520113/RH=cmRzaWcueWFob28uY28uanA-/RB=/RU=aHR0cDovL3d3dy55amZ4LmpwL2NhbXBhaWduL3lhaG9vL3ByZW1pdW01MDAwdHBvaW50MTcwMjE1LTE3MDMzMS8_Y2lkPSZpaWQ9MjAxMiZzaWQ9MSZ1dG1fc291cmNlPVlBSE9PZ3JvdXAmdXRtX21lZGl1bT15YWhvb3ByZW1pdW1fcGMmdXRtX2NhbXBhaWduPTIwMTcwMl8wMyZ1dG1fY29udGVudD1pZF9sb2dpbg--/RS=^ADAAwGsIKzd7akLud.1beYNtkFSMQg-">5,000ポイントもらえるキャンペーン実施中！</a></p></div><div class="right"><div class="infoImg"><img src="https://s.yimg.jp/images/login/pc/img/login/1.0.0/ico_info.png" width="8" height="16" alt="お知らせ"></div><p class="title"><a href="http://rdsig.yahoo.co.jp/ycrd/pc/id/login/ue/evt=125002/RV=1/RU=aHR0cDovL2NhcmQueWFob28uY28uanAvY2FtcGFpZ24v">最大7,000ポイントもらえる！Yahoo!カード</a></p></div></div>
+</div>
+
+<div id="yregct" class="yregclb">
+<div id="yreglg">
+<!-- login box goes here -->
+<div class="top yregbx">
+<div class="yregbxi" id="themeBox">
+<div id="noticeBox">
+<a href="https://rdsig.yahoo.co.jp/login/pc/l/promo/release_login/RV=1/RU=aHR0cDovL2lkLnlhaG9vLmNvLmpwL3Byb21vL3JlbGVhc2VfbG9naW4uaHRtbA--" target="_blank">ログイン画面に関するお知らせ</a>
+</div>
+<ul id="linksTheme" class="links yjS">
+<li class="clearfix"><a href="" id="openTheme">テーマ設定</a></li>
+</ul>
+
+<h1 class="yjM verify">パスワードの再確認</h1>
+
+<fieldset id="loginfs">
+<legend>パスワード再確認フォーム</legend>
+<form method="post" action="/config/login" name="login_form" id="login_form">
+<input type="hidden" name=".ct" value="">
+<input type="hidden" name=".display" value="">
+<input type="hidden" name=".done" value="https://account.edit.yahoo.co.jp/address?.src=acct&.done=https%3A%2F%2Faccounts.yahoo.co.jp%2Fprofile%3F.scrumb%3D0%26.done%3Dhttp%253A%252F%252Fwww.yahoo.co.jp%252F%26.src%3Dwww&.scrumb=0">
+<input type="hidden" name=".keep" value="">
+<input type="hidden" name=".reg" value="https://account.edit.yahoo.co.jp/registration?src=acct&done=https%3A%2F%2Faccount.edit.yahoo.co.jp%2Faddress%3F.src%3Dacct%26.done%3Dhttps%253A%252F%252Faccounts.yahoo.co.jp%252Fprofile%253F.scrumb%253D0%2526.done%253Dhttp%25253A%25252F%25252Fwww.yahoo.co.jp%25252F%2526.src%253Dwww%26.scrumb%3D0">
+<input type="hidden" name=".src" value="acct">
+<input type="hidden" name=".suppreg_skip" value="">
+<input type="hidden" name=".yby" value="">
+<input type="hidden" name="auth_lv" value="">
+<input type="hidden" name="card_cushion_skip" value="">
+<input type="hidden" name="ckey" value="">
+<input type="hidden" name="nolink" value="">
+<input type="hidden" name="nonotice" value="">
+<input type="hidden" name="noreg" value="">
+<input type="hidden" name="referrer" value="">
+<input type="hidden" name="t_cushion" value="">
+<input type="hidden" name=".albatross" value="dD14Nm9wWUImc2s9dElDdWJ1NDdTWklsakY0d3JTODdVNmRZTVowLQ==">
+<input type="hidden" name=".requiredPsCheckBox" value="">
+<input type="hidden" name=".slogin" value="tester999912">
+<input type="hidden" name=".tries" value="1">
+<input type="hidden" name="ls_autocomp" value="">
+<input type="hidden" name="showpw_status" value="">
+<input type="hidden" name="x_yahooj_login_device_type" value="">
+
+<div id="yregloginfield">
+<label for="username" class="yjM"  id="labelUsername">Yahoo! JAPAN ID</label>
+<div class="formv yjWordBreak" id="username"><span class="yjWordBreakTxt">tester999912</span></div>
+<label for="passwd" class="yjM" id="labelPasswd">パスワード</label>
+<div class="placeholderWrp"><span class="placeholder" id="phpw">パスワード</span><input name="passwd" id="passwd" value="" class="yreg_ipt c01bd yjM" type="password"></div>
+<input type="submit" value="続ける" class="btnLogin yjM" id=".save">
+</div><!-- /#yregloginfield -->
+<input type="hidden" name=".persistent" value="y">
+</form>
+</fieldset>
+
+<ul class="links yjS clearfix">
+<li><a href="http://rdsig.yahoo.co.jp/login/pc/v/changeid/RV=1/RU=aHR0cHM6Ly9sb2dpbi55YWhvby5jby5qcC9jb25maWcvbG9naW4_LmtlZXA9MSYucmVnPWh0dHBzJTNBJTJGJTJGYWNjb3VudC5lZGl0LnlhaG9vLmNvLmpwJTJGcmVnaXN0cmF0aW9uJTNGc3JjJTNEYWNjdCUyNmRvbmUlM0RodHRwcyUyNTNBJTI1MkYlMjUyRmFjY291bnQuZWRpdC55YWhvby5jby5qcCUyNTJGYWRkcmVzcyUyNTNGLnNyYyUyNTNEYWNjdCUyNTI2LmRvbmUlMjUzRGh0dHBzJTI1MjUzQSUyNTI1MkYlMjUyNTJGYWNjb3VudHMueWFob28uY28uanAlMjUyNTJGcHJvZmlsZSUyNTI1M0Yuc2NydW1iJTI1MjUzRDAlMjUyNTI2LmRvbmUlMjUyNTNEaHR0cCUyNTI1MjUzQSUyNTI1MjUyRiUyNTI1MjUyRnd3dy55YWhvby5jby5qcCUyNTI1MjUyRiUyNTI1MjYuc3JjJTI1MjUzRHd3dyUyNTI2LnNjcnVtYiUyNTNEMCZyZWZlcnJlcj1jaGFuZ2VfaWQmLnNyYz1hY2N0Ji5kb25lPWh0dHBzJTNBJTJGJTJGYWNjb3VudC5lZGl0LnlhaG9vLmNvLmpwJTJGYWRkcmVzcyUzRi5zcmMlM0RhY2N0JTI2LmRvbmUlM0RodHRwcyUyNTNBJTI1MkYlMjUyRmFjY291bnRzLnlhaG9vLmNvLmpwJTI1MkZwcm9maWxlJTI1M0Yuc2NydW1iJTI1M0QwJTI1MjYuZG9uZSUyNTNEaHR0cCUyNTI1M0ElMjUyNTJGJTI1MjUyRnd3dy55YWhvby5jby5qcCUyNTI1MkYlMjUyNi5zcmMlMjUzRHd3dyUyNi5zY3J1bWIlM0Qw">別のYahoo! JAPAN IDでログイン</a></li>
+<li><a href="https://rdsig.yahoo.co.jp/reg/fpflib/verify/RV=1/RU=aHR0cHM6Ly9hY2NvdW50LmVkaXQueWFob28uY28uanAvZm9yZ290X2FjY3Q_Lm1vZGU9MSZzcmM9YWNjdCZkb25lPWh0dHBzJTNBJTJGJTJGYWNjb3VudC5lZGl0LnlhaG9vLmNvLmpwJTJGYWRkcmVzcyUzRi5zcmMlM0RhY2N0JTI2LmRvbmUlM0RodHRwcyUyNTNBJTI1MkYlMjUyRmFjY291bnRzLnlhaG9vLmNvLmpwJTI1MkZwcm9maWxlJTI1M0Yuc2NydW1iJTI1M0QwJTI1MjYuZG9uZSUyNTNEaHR0cCUyNTI1M0ElMjUyNTJGJTI1MjUyRnd3dy55YWhvby5jby5qcCUyNTI1MkYlMjUyNi5zcmMlMjUzRHd3dyUyNi5zY3J1bWIlM0Qw">ログインできない</a></li>
+</ul>
+<div id="themeArea"></div>
+<div id="bgGradLayer"></div>
+<div id="bgLayer"></div>
+</div>
+</div><!-- /.yregbx -->
+<!-- end login box -->
+</div>
+
+<div id="panelSetTheme">
+<h2>テーマ設定</h2>
+<div class="wrp">
+<h3>色とテクスチャーを組み合わせて、<br>あなただけのログイン画面をつくろう</h3>
+<a href="http://rdsig.yahoo.co.jp/login/pc/v/theme/RV=1/RU=aHR0cDovL2lkLnlhaG9vLmNvLmpwL3NlY3VyaXR5L2xvZ2luX3RoZW1lLmh0bWw_LmRvbmU9aHR0cHM6Ly9hY2NvdW50LmVkaXQueWFob28uY28uanAvYWRkcmVzcz8uc3JjPWFjY3QmLmRvbmU9aHR0cHMlM0ElMkYlMkZhY2NvdW50cy55YWhvby5jby5qcCUyRnByb2ZpbGUlM0Yuc2NydW1iJTNEMCUyNi5kb25lJTNEaHR0cCUyNTNBJTI1MkYlMjUyRnd3dy55YWhvby5jby5qcCUyNTJGJTI2LnNyYyUzRHd3dyYuc2NydW1iPTA-" class="helpLink">詳しくはこちら</a>
+<ul id="color">
+<li class="options clearfix">
+<div class="item"><span id="c01"></span></div><div class="item"><span id="c03"></span></div><div class="item"><span id="c04"></span></div><div class="item"><span id="c07"></span></div><div class="item"><span id="c08"></span></div><div class="item"><span id="c09"></span></div><div class="item"><span id="c10"></span></div><div class="item"><span id="c11"></span></div><div class="item"><span id="c12"></span></div><div class="item"><span id="c02"></span></div><div class="item"><span id="c13"></span></div><div class="item"><span id="c14"></span></div><div class="item"><span id="c15"></span></div><div class="item"><span id="c16"></span></div><div class="item"><span id="c17"></span></div><div class="item"><span id="c18"></span></div><div class="item"><span id="c19"></span></div><div class="item"><span id="c20"></span></div>
+</li>
+</ul>
+<div class="icoPlus">＋</div>
+<ul id="texture">
+<li class="options clearfix">
+<div class="item"><span id="t01"></span></div><div class="item"><span id="t03"></span></div><div class="item"><span id="t30"></span></div><div class="item"><span id="t15"></span></div><div class="item"><span id="t16"></span></div><div class="item"><span id="t25"></span></div><div class="item"><span id="t20"></span></div><div class="item"><span id="t26"></span></div><div class="item"><span id="t18"></span></div><div class="item"><span id="t24"></span></div><div class="item"><span id="t23"></span></div><div class="item"><span id="t28"></span></div><div class="item"><span id="t50"></span></div><div class="item"><span id="t02"></span></div><div class="item"><span id="t36"></span></div><div class="item"><span id="t37"></span></div><div class="item"><span id="t09"></span></div><div class="item"><span id="t10"></span></div><div class="item"><span id="t06"></span></div><div class="item"><span id="t07"></span></div><div class="item"><span id="t59"></span></div><div class="item"><span id="t60"></span></div><div class="item"><span id="t61"></span></div><div class="item"><span id="t08"></span></div><div class="item"><span id="t49"></span></div><div class="item"><span id="t47"></span></div><div class="item"><span id="t48"></span></div>
+</li>
+</ul>
+<a href="#" id="btnSave" class="themeBtn">設定</a>
+<a href="#" id="btnClose" class="themeBtnClose">閉じる</a>
+</div><!-- /.wrp -->
+</div><!-- /#panelSetTheme -->
+
+<!-- begin left side content -->
+<div id="yregtxt" class="yregclb">
+<script language="JavaScript" type="text/javascript">
+    var spaceid = '2080174427';
+    var position = 'LIP';
+    var property = 'jp_common';
+    var domain = 'login.yahoo.co.jp';
+    var yj_src = 'https://yeas.yahoo.co.jp/a';
+    yj_src += '?f='+spaceid+'&l='+position+'&p='+property+'&domain='+domain+'&c=r&jcode=u&rnd='+new Date().getTime();
+    document.write('<sc'+'ript language="JavaScript" type="text/javascript" src="'+yj_src+'">');
+    document.write('</sc'+'ript>');
+</script>
+
+<div id="themeSettingBg">
+</div>
+</div>
+<!-- end left side content -->
+
+</div><!-- /#yregct -->
+</div><!-- /.yregwp -->
+</div><!-- /#contents -->
+
+<div id="footer" class="yregwp">
+<!-- begin footer -->
+<div id="yregft" class="yjS">
+<p>
+<a href="http://rdsig.yahoo.co.jp/login/pc/v/privacy/RV=1/RU=aHR0cDovL2RvY3MueWFob28uY28uanAvZG9jcy9pbmZvL3Rlcm1zL2NoYXB0ZXIxLmh0bWwjY2YybmQ-">プライバシーポリシー</a> - 
+<a href="http://rdsig.yahoo.co.jp/login/pc/v/terms/RV=1/RU=aHR0cDovL2RvY3MueWFob28uY28uanAvZG9jcy9pbmZvL3Rlcm1zLw--">利用規約</a> - 
+<a href="http://rdsig.yahoo.co.jp/login/pc/v/easylogin/RV=1/RU=aHR0cHM6Ly9sb2dpbi55YWhvby5jby5qcC9jb25maWcvbG9naW4_LmRpc3BsYXk9c2ltcGxlJi5yZWc9aHR0cHMlM0ElMkYlMkZhY2NvdW50LmVkaXQueWFob28uY28uanAlMkZyZWdpc3RyYXRpb24lM0ZzcmMlM0RhY2N0JTI2ZG9uZSUzRGh0dHBzJTI1M0ElMjUyRiUyNTJGYWNjb3VudC5lZGl0LnlhaG9vLmNvLmpwJTI1MkZhZGRyZXNzJTI1M0Yuc3JjJTI1M0RhY2N0JTI1MjYuZG9uZSUyNTNEaHR0cHMlMjUyNTNBJTI1MjUyRiUyNTI1MkZhY2NvdW50cy55YWhvby5jby5qcCUyNTI1MkZwcm9maWxlJTI1MjUzRi5zY3J1bWIlMjUyNTNEMCUyNTI1MjYuZG9uZSUyNTI1M0RodHRwJTI1MjUyNTNBJTI1MjUyNTJGJTI1MjUyNTJGd3d3LnlhaG9vLmNvLmpwJTI1MjUyNTJGJTI1MjUyNi5zcmMlMjUyNTNEd3d3JTI1MjYuc2NydW1iJTI1M0QwJi5zcmM9YWNjdCYuZG9uZT1odHRwcyUzQSUyRiUyRmFjY291bnQuZWRpdC55YWhvby5jby5qcCUyRmFkZHJlc3MlM0Yuc3JjJTNEYWNjdCUyNi5kb25lJTNEaHR0cHMlMjUzQSUyNTJGJTI1MkZhY2NvdW50cy55YWhvby5jby5qcCUyNTJGcHJvZmlsZSUyNTNGLnNjcnVtYiUyNTNEMCUyNTI2LmRvbmUlMjUzRGh0dHAlMjUyNTNBJTI1MjUyRiUyNTI1MkZ3d3cueWFob28uY28uanAlMjUyNTJGJTI1MjYuc3JjJTI1M0R3d3clMjYuc2NydW1iJTNEMA--">簡易版画面を表示</a> - 
+<a href="http://www.yahoo-help.jp/app/home/p/544/">ヘルプ・お問い合わせ</a>
+</p>
+<p>Copyright (C) 2017 Yahoo Japan Corporation. All Rights Reserved.</p>
+</div>
+<!-- end footer -->
+</div><!-- /#footer -->
+
+</div><!-- /#wrapper -->
+<div id="versionSwf"></div>
+
+<script type="text/javascript" src="https://s.yimg.jp/images/login/pc/js/login/1.0.1/flash-min.js"></script>
+<script type="text/javascript" src="https://s.yimg.jp/images/login/pc/js/lib/wordbreak/1.1.0/wordbreak-min.js"></script>
+<script type="text/javascript">
+<!--
+/* iFrame抑制処理 */
+if (top != self) top.location.href = location.href;
+
+(function(){
+if (document.getElementById("yregtctx")
+	&& document.getElementById("yregtxt").getElementsByTagName("object").length === 0
+	&& (navigator.userAgent.match(/MSIE 6/)
+		|| navigator.userAgent.match(/MSIE 5/))) {
+	document.getElementById("yregct").style.paddingBottom = 0;
+	document.getElementById("yregtxt").style.height = document.getElementById("yreglg").offsetHeight + 20;
+}
+
+YAHOO.JP.lib.WordBreak.init();
+
+YAHOO = typeof YAHOO === "undefined" ? {} : YAHOO;
+YAHOO.JP = typeof YAHOO.JP === "undefined" ? {} : YAHOO.JP;
+YAHOO.JP.idpf = typeof YAHOO.JP.idpf === "undefined" ? {} : YAHOO.JP.idpf;
+var IDPF=YAHOO.JP.idpf;IDPF.Util={addListener:function(a,d,c,b){if(!a){return false}if(a.addEventListener){a.addEventListener(d,c,b)}else{if(a.attachEvent){a.attachEvent("on"+d,c)}else{return false}}return false},addClass:function(b,a){if(b){if(!b.className.match(a)){b.className+=" "+a}}},removeClass:function(e,f){var g=(typeof e==="string")?document.getElementById(e):e,h,c,a,d,b=[];if(g){h=g.className.split(" ");for(c=0,a=h.length;c<a;c++){d=h[c];if(d!==f&&d!==""){b.push(d)}}g.className=b.join(" ")}}};
+
+/**
+ * Placeholderを設定する
+ * @class Placeholder
+ * @namespace IDPF
+ */
+IDPF.Placeholder = function(ph, id, option) {
+    var _d = document,
+    targetph     = _d.getElementById(ph),
+    target       = _d.getElementById(id),
+    isFocused    = false,
+    autocomplete = (option && option.autocomplete) || false,
+    passwdId     = (option && option.passwdId)     || "",
+    isMonitoring = false,
+    timer,
+    focusph = function() {
+            targetph.nextSibling.focus();
+    },
+    set = function() {
+        if (target.value === "") {
+            IDPF.Util.addClass(target.previousSibling, "show");
+            IDPF.Util.removeClass(target.previousSibling, "focus");
+        } else {
+            IDPF.Util.removeClass(target.previousSibling, "show");
+        }
+    },
+    onBlur = function(e) {
+        stopMonitoring();
+        isFocused = false;
+        set();
+    },
+    onKeydown = function(e) {
+        var ev = e || window.event,
+            key;
+        key = ev.keyCode;
+        setTimeout(function() {
+            IDPF.Util.removeClass(target.previousSibling, "show");
+            // 8: Backspace, 9: Tab, 46: Delete
+            if (target.value === "" && (key === 8 || key === 9 || key === 46)) {
+                IDPF.Util.addClass(target.previousSibling, "show");
+            }
+        }, 0);
+        if (autocomplete) {
+            startMonitoring();
+        }
+    },
+    onMousedown = function(e) {
+        // IEでのautocomplete候補表示の場合(focus + click)
+        if (isFocused) {
+            IDPF.Util.removeClass(target.previousSibling, "show");
+        }
+    },
+    startMonitoring = function() {
+        var passwd = _d.getElementById(passwdId),
+            orgValue = passwd.value;
+        if (isMonitoring) {
+            return false;
+        }
+        isMonitoring = true;
+        timer = setInterval(function() {
+            if (orgValue !== passwd.value) {
+                IDPF.Util.removeClass(passwd.previousSibling, "show");
+                stopMonitoring();
+            }
+        }, 200);
+    },
+    stopMonitoring = function() {
+        if (isMonitoring) {
+            clearInterval(timer);
+            isMonitoring = false;
+        }
+    },
+    onFocus = function(e) {
+        var ev = e || window.event,
+            target;
+        target = ev.target || ev.srcElement;
+        IDPF.Util.addClass(target.previousSibling, "focus");
+        if (target.value !== "") {
+            IDPF.Util.removeClass(target.previousSibling, "show");
+        }
+        setTimeout(function() {
+            isFocused = true;
+        }, 100);
+    };
+
+    if (!targetph) {
+        return false;
+    }
+    // without autocomplete
+    if (target.value === "") {
+        IDPF.Util.addClass(target.previousSibling, "show");
+        IDPF.Util.removeClass(target.previousSibling, "focus");
+    }
+    // autocomplete
+    setTimeout(function() {
+        if (target.value !== "") {
+            IDPF.Util.removeClass(target.previousSibling, "show");
+        }
+    }, 700);
+    // event
+    IDPF.Util.addListener(targetph, "click",     focusph);
+    IDPF.Util.addListener(target,   "keydown",   onKeydown);
+    IDPF.Util.addListener(target,   "mousedown", onMousedown);
+    IDPF.Util.addListener(target,   "focus",     onFocus);
+    IDPF.Util.addListener(target,   "blur",      onBlur);
+    if (autocomplete) {
+        IDPF.Util.addListener(target, "click", startMonitoring);
+    }
+};
+var placeholder1 = new IDPF.Placeholder("phid","username",{autocomplete:true,passwdId:"passwd"}),
+    placeholder2 = new IDPF.Placeholder("phpw","passwd"),
+    placeholder3 = new IDPF.Placeholder("phnum","secword");
+IDPF.Util.addClass(document.getElementById("labelUsername"), "hide");
+IDPF.Util.addClass(document.getElementById("labelPasswd"), "hide");
+IDPF.Util.addClass(document.getElementById("labelSecword"), "hide");
+
+//2度押し防止
+IDPF.Util.addListener(document.getElementById("login_form"), "submit", function(){
+    document.getElementById(".save").disabled = true;
+});
+
+})();
+//-->
+</script>
+
+<!-- IADS -->
+<script src="https://s.yimg.jp/images/settlecomtd/yjbfp/yjbfp.js" type="text/javascript"></script>
+
+<script type="text/javascript" src="https://s.yimg.jp/images/login/pc/js/theme/1.0.0/theme-min.js"></script>
+<script type="text/javascript">
+if ( !(navigator.userAgent.match(/MSIE 6/) || navigator.userAgent.match(/MSIE 5/)) ) {
+YAHOO.JP.idpf.Theme.init({
+    themeUrl: "https://protect.login.yahoo.co.jp/theme/set",
+    color:    "c01",
+    texture:  "t01",
+    bc:       "dD14Nm9wWUImc2s9ak9PYjlVaGkybE9HUDM5djB2dk54Q0dJQ2pZLQ==",
+    opened:   "",
+    type:     "browser",
+    done:     "https://account.edit.yahoo.co.jp/address?.src=acct&.done=https%3A%2F%2Faccounts.yahoo.co.jp%2Fprofile%3F.scrumb%3D0%26.done%3Dhttp%253A%252F%252Fwww.yahoo.co.jp%252F%26.src%3Dwww&.scrumb=0"
+});
+}
+
+document.getElementsByName(".albatross")[0].value = "dD14Nm9wWUImc2s9bnN0WGJBYTVEUVRqcXY0VjNMbmlIQTdORk1ZLQ==";
+</script>
+
+<!-- ULT  -->
+<script src="https://s.yimg.jp/images/ds/ult/login/rapidjp-1.0.0.js" type="text/javascript"></script>
+<script type="text/javascript">
+var sr = new YAHOO.i13n.JP.simpleRapid();
+var ins = sr.setSpaceid("2080174427").setService("login").setApptype("web").setOpttype("pc").setPagetype("form").setConttype("login").setStatus("login").initRapid();
+</script>
+
+
+</body>
+</html>
+
+3bb
+
+<!-- prod06.login.kks.yahoo.co.jp Fri Feb 17 14:48:33 JST 2017 -->
+<script language=javascript>
+if(window.yzq_p==null)document.write("<scr"+"ipt language=javascript src=https://s.yimg.jp/bdv/yahoo/javascript/csc/20060824/lib2obf_b5.js></scr"+"ipt>");
+</script><script language=javascript>
+if(window.yzq_p)yzq_p('P=fSZjijEyNy6jVgUgWG8G3T47MjE4LgAAAAB20MB1&T=15k2qtltp%2fX%3d1487310513%2fE%3d2080174427%2fR%3djp_c_s_ad%2fK%3d5%2fV%3d1.1%2fW%3dJ%2fY%3djp%2fF%3d3497230222%2fH%3dc2VjdXJlPXRydWUgc2VjdXJlPVwidFwiIGFkY3Zlcj02LjguMQ--%2fS%3d1%2fJ%3d58A68EB1');
+if(window.yzq_s)yzq_s();
+</script><noscript><div style="position:absolute;"><img width=1 height=1 alt="" src="https://b5.yahoo.co.jp/b?P=fSZjijEyNy6jVgUgWG8G3T47MjE4LgAAAAB20MB1&T=15or5squ0%2fX%3d1487310513%2fE%3d2080174427%2fR%3djp_c_s_ad%2fK%3d5%2fV%3d3.1%2fW%3dJ%2fY%3djp%2fF%3d188945757%2fH%3dc2VjdXJlPXRydWUgc2VjdXJlPVwidFwiIGFkY3Zlcj02LjguMQ--%2fQ%3d-1%2fS%3d1%2fJ%3d58A68EB1"></div></noscript>
+0
+

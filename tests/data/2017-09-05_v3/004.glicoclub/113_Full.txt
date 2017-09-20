@@ -1,0 +1,24 @@
+POST https://glico-club.net/regist/index.php HTTP/1.1
+Host: glico-club.net
+User-Agent: Mozilla/5.0 (Windows NT 6.1; WOW64; rv:52.0) Gecko/20100101 Firefox/52.0
+Accept: text/html,application/xhtml+xml,application/xml;q=0.9,*/*;q=0.8
+Accept-Language: ja,en-US;q=0.7,en;q=0.3
+Accept-Encoding: gzip, deflate, br
+Referer: https://glico-club.net/regist/index.php
+Cookie: __utma=216876864.307502340.1490935531.1490935531.1491214303.2; __utmz=216876864.1490935531.1.1.utmcsr=google|utmccn=(organic)|utmcmd=organic|utmctr=(not%20provided); _ga=GA1.2.307502340.1490935531; GCLUB-USER=0TRTYIm2cwfEywWzXJchphmBq06; __utmb=216876864.3.10.1491214303; __utmc=216876864; __utmt=1; _gat_UA-76363377-3=1
+Connection: keep-alive
+Upgrade-Insecure-Requests: 1
+Content-Type: application/x-www-form-urlencoded
+Content-Length: 288
+
+regist_csrf=0cd99f46aa1b7308fa258f7645a2de6d&step=exec&agree=1&nickname=%E8%8B%A6%E5%8A%B4%E3%83%A9%E3%83%BC&password=Password001&sex=0&birth_y=1980&birth_m=01&birth_d=01&pref=13&email=crawlingtest1000%40gmail.com&email_con=crawlingtest1000%40gmail.com&mail_flg=0&mail_type=0&friend_code=
+HTTP/1.1 302 Found
+Date: Mon, 03 Apr 2017 10:12:59 GMT
+Server: Apache
+Set-Cookie: glico_ac=deleted; expires=Sun, 03-Apr-2016 10:12:58 GMT; path=/; secure; httponly
+Location: index.php?step=registEnd
+Content-Length: 0
+Keep-Alive: timeout=5, max=99
+Connection: Keep-Alive
+Content-Type: text/html
+

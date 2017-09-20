@@ -1,0 +1,325 @@
+GET http://zigsow.jp/?m=pc&a=page_o_tologin&msg_code=password_query HTTP/1.1
+Host: zigsow.jp
+User-Agent: Mozilla/5.0 (Windows NT 6.1; WOW64; rv:52.0) Gecko/20100101 Firefox/52.0
+Accept: text/html,application/xhtml+xml,application/xml;q=0.9,*/*;q=0.8
+Accept-Language: ja,en-US;q=0.7,en;q=0.3
+Accept-Encoding: gzip, deflate
+Cookie: ziguid=73b39c512b885990c6a823e0ce165b60; _zab=B; _zabc=B; _zus=%7B%22%5C%2Fnew%5C%2Freview%5C%2Forder%22%3A%22ud%22%7D; _zois=2017-04-10+14%3A50%3A34; _ga=GA1.2.300364206.1491466997; renewal=yes; _zdpr=1.25; __utma=221298707.300364206.1491466997.1491802189.1491802189.1; __utmb=221298707.9.10.1491802189; __utmc=221298707; __utmz=221298707.1491802189.1.1.utmcsr=(direct)|utmccn=(direct)|utmcmd=(none); authchallenge=a1d9f65dc20db3c4bfba1448a0bd859b; renewal_ini=yes; _zris=2017-04-10+14%3A43%3A58; _zdla=2017-04-10+14%3A43%3A58; __utmt=1
+Connection: close
+Upgrade-Insecure-Requests: 1
+
+
+HTTP/1.1 200 OK
+Date: Mon, 10 Apr 2017 06:09:22 GMT
+Server: Apache
+Set-Cookie: ziguid=73b39c512b885990c6a823e0ce165b60; expires=Wed, 10-May-2017 06:09:22 GMT; path=/
+Set-Cookie: renewal=yes; path=/
+Set-Cookie: reborn=deleted; expires=Sun, 10-Apr-2016 06:09:21 GMT; path=/
+Set-Cookie: mono=deleted; expires=Sun, 10-Apr-2016 06:09:21 GMT; path=/
+Refresh: 3; URL=http://zigsow.jp/
+Expires: Mon, 26 Jul 1997 05:00:00 GMT
+Last-Modified: Mon, 10 Apr 2017 06:09:22 GMT
+Cache-Control: no-store, no-cache, must-revalidate
+Cache-Control: post-check=0, pre-check=0
+Pragma: no-cache
+X-XSS-Protection: 0
+Vary: Accept-Encoding,User-Agent
+Server-Hash: 9d975ef19a8e47350c883a53ed0b6f75
+Connection: close
+Content-Type: text/html; charset=UTF-8
+Content-Length: 11532
+
+<!DOCTYPE HTML PUBLIC "-//W3C//DTD HTML 4.01 Transitional//EN" "http://www.w3.org/TR/html4/loose.dtd">
+<html>
+<head>
+<meta http-equiv="Pragma" content="no-cache">
+<meta http-equiv="Cache-Control" content="no-cache">
+<meta http-equiv="Expires" content="Thu, 01 Dec 1994 16:00:00 GMT">
+<meta http-equiv="Content-Type" content="text/html; charset=UTF-8">
+<meta http-equiv="Content-Style-Type" content="text/css">
+<meta http-equiv="X-UA-Compatible" content="IE-Edge">
+<meta name="viewport" content="width=1038" />
+<title>ZIGSOW</title>
+
+<link rel="stylesheet" href="./css/reset-min.css" type="text/css">
+<link rel="stylesheet" href="./css/base-min.css" type="text/css">
+<link rel="stylesheet" href="./css/common.css?g=20140828" type="text/css">
+<link rel="stylesheet" href="./css/embed_style.css" type="text/css">
+<link rel="stylesheet" href="./css/page_navi.css?g=20130725" type="text/css">
+<link rel="stylesheet" href="//zigsow.jp/css/styles.css?t=1491286416" type="text/css">
+<link rel="stylesheet" href="./css/fonts-min.css?20131201" type="text/css">
+
+<style type="text/css">
+#footer {
+	font-size: 14px;
+	line-height: normal;
+	margin-top: 30px;
+}
+#header {
+	font-size: 14px;
+	line-height: normal;
+}
+h3 {
+	background-color: #FFF;
+}
+td, th {
+	padding: .5em;
+	border: 1px solid #dbdde8;
+}
+th {
+	font-weight: bold;
+}
+.remove-button-box, .block_body, .comment-list-box {
+	border-color: #dbdde8;
+}
+textarea {
+	height:20em;
+}
+</style>
+<style type="text/css">
+
+</style>
+
+<script src="./js/jquery-1.7.2.min.js?20160428" type="text/javascript"></script>
+<script src="http://zigsow.jp/js/review/jquery.cookie.js"></script>
+<script src="http://zigsow.jp/js/jquery.socialbutton-1.8.1.js" type="text/javascript"></script>
+<script type="text/javascript">
+
+$(document).ready(function(){
+	$('img').error(function() {
+		$(this).attr("src", "skin/no_image_76x76.gif");
+		$(this).attr("alt", "");
+		$(this).addClass("no_image");
+	});
+});
+if (window.devicePixelRatio != undefined) {
+	$.cookie('_zdpr', window.devicePixelRatio);
+}
+
+</script>
+
+<script src="./js/jquery.autocomplete.min.js" type="text/javascript"></script>
+<link rel="stylesheet" type="text/css" href="./css/jquery.autocomplete.css" />
+<script src="./js/jquery.blockUIv2.js" type="text/javascript"></script>
+<script src="./js/zigsow.bootstrap.js" type="text/javascript"></script>
+<script src="./js/smoothscroll-to-the-top.js" type="text/javascript"></script>
+<script type="text/javascript">
+
+var ua ="";
+</script>
+<script type="text/javascript" src="http://zigsow.jp/js/review/common.js?20150104"></script>
+
+
+<link rel="stylesheet" href="/css/venus/renewal.min.css?a3950d28dff93da0c08df972941c048d">
+<script type="text/javascript" src="/js/venus/renewal.min.js?8bd6eeba910ff8b2c11aafa363b1ae95"></script>
+
+</head>
+<body>
+
+<div class="renewal">
+					<header class="header-navigation">
+	<h1>レビューメディア「ジグソー」</h1>
+	<div class="container-fluid">
+		<div class="navigation-header">
+			<a href="/" class="header-logo"><i class="zigsow-header-logo"></i></a>
+		</div>
+		<div class="navigation-body">
+			<div class="navigation-body-inner">
+					<ul class="header-navigation-list">
+	<li><a href="/portal/category">カテゴリーから探す</a></li>
+	<li class="separator"></li>
+	<li><a href="/new/review">みんなのレビュー</a></li>
+	<li class="separator"></li>
+	<li class="premium-review"><a href="/review">プレミアム<br>レビュー</a></li>
+	<li class="separator"></li>
+	<li><a href="/special">特集</a></li>
+	<li class="separator"></li>
+	<li><a href="/portal/help">ZIGSOW とは?</a></li>
+</ul>
+				</div>
+		</div>
+		<div class="navigation-footer">
+			<div class="header-btn-group">
+				<a href="https://zigsow.jp/?m=portal&amp;a=page_regist" class="btn btn-small btn-orange"><i class="zigcon zigcon-pencil"></i> レビューする</a>
+				<a href="https://zigsow.jp/?m=portal&amp;a=page_login" class="btn btn-small"><i class="zigcon zigcon-login"></i><span class="login-text"> ログイン</span></a>
+			</div>
+			<ul class="actions">
+				<li class="menu"><a href="javascript:void(0)" data-dropdown="#navigation-menu"><i class="zigcon zigcon-menu-bar"></i></a></li>
+			</ul>
+		</div>
+	</div>
+	<div class="dropdown navigation-menu lounge" id="navigation-menu">
+			<ul class="block-list menu-list-single clearfix">
+				<li><a href="/portal/category"><i class="zigcon zigcon-search"></i> カテゴリーから探す</a></li>
+				<li><a href="/new/review"><i class="zigcon zigcon-own-item"></i> みんなのレビュー</a></li>
+				<li><a href="/review"><i class="zigcon zigcon-premium-review"></i> プレミアムレビュー</a></li>
+				<li><a href="/item/ranking"><i class="zigcon zigcon-ranking"></i> アイテムランキング</a></li>
+				<li><a href="/special"><i class="zigcon zigcon-special"></i> 特集</a></li>
+				<li><a href="/portal/help"><i class="zigcon zigcon-help"></i> ZIGSOWとは?</a></li>
+				<li><a href="https://zigsow.jp/?m=portal&amp;a=page_regist"><i class="zigcon zigcon-pencil"></i> 会員登録 (無料)</a></li>
+				<li><a href="https://zigsow.jp/?m=portal&amp;a=page_login"><i class="zigcon zigcon-login"></i> ログイン</a></li>
+				<li><a href="/portal/search"><i class="zigcon zigcon-search"></i> 検索</a></li>
+			</ul>
+		</div>
+	</div>
+</header>
+	</div>
+
+
+
+<hr class="shadow" />
+
+<div id="document"><div id="alert_box">
+<div class="alert_box">
+
+<script type="text/javascript">
+<!--
+function close_alert_box(elem) {
+	jQuery('div#alert_box').hide();
+}
+//-->
+</script>
+
+<div class="close_button" onclick="close_alert_box(this);">
+<img src="./skin/close_10x10.png">
+</div>
+
+<div class="icon">
+<img src="http://zigsow.jp/skin/icon_alert_l.gif" class="icon">
+</div>
+
+<div class="message">
+パスワード再発行の案内メールを送信しました。<br>
+</div>
+
+</div>
+</div><div id="body" class="single"> <div class="content_main"><div class="to_login"><a href="http://zigsow.jp/">ZIGSOWトップページへ</a></div></div></div></div>
+<div class="renewal">
+	<footer class="footer-navigation">
+	<div class="container">
+		<div class="footer-navigation-menu">
+			<ul class="block-list menu-list">
+				<li><a href="/">ラウンジ</a></li>
+				<li><a href="/review">プレミアムレビュー</a></li>
+				<li class="sp-hidden"><a href="/portal/category">カテゴリー</a></li>
+				<li class="sp-hidden"><a href="/special">特集</a></li>
+				<li class="sp-hidden"><a href="/portal/help">ZIGSOWの使い方</a></li>
+			</ul>
+			<ul class="block-list menu-list">
+				<li><a href="https://solflare.co.jp/" target="_blank">運営会社</a></li>
+				<li><a href="https://solflare.co.jp/contact/" target="_blank">問い合わせ</a></li>
+				<li><a href="http://zigsow.jp/info/terms.html">利用規約</a></li>
+				<li><a href="https://solflare.co.jp/privacy/" target="_blank">プライバシーポリシー</a></li>
+				<li><a href="http://zigsow.jp/info/policy.html">サイトポリシー</a></li>
+				<li><a href="https://solflare.co.jp/business/premiumreview" target="_blank">メーカーの皆様へ</a></li>
+			</ul>
+			<ul class="block-list menu-list">
+				<li><a href="https://www.facebook.com/zigsow" target="_blank"><i class="zigcon zigcon-facebook"></i> 公式 Facebook</a></li>
+				<li><a href="https://twitter.com/zigsow" target="_blank"><i class="zigcon zigcon-twitter"></i> 公式 Twitter</a></li>
+			</ul>
+		</div>
+		<div class="copyright">
+			<div class="logo"><a href="http://zigsow.jp/"></a></div>
+			<p class="text">&copy; 2013 zigsow Inc, &copy; 2016 Solflare Inc. <br class="pc-hidden">All rights reserved.</p>
+		</div>
+	</div>
+</footer>
+<div class="pagetop"><a href="#pagetop"><i class="zigcon zigcon-pagetop"></i></a></div>
+
+<div class="dialog dialog-login" id="dialog-login">
+	<div class="dialog-content">
+		<h3><i class="zigcon zigcon-zigsow"></i> ZIGSOW にログイン</h3>
+		<p class="info"><a href="https://zigsow.jp/?m=portal&amp;a=page_regist">ZIGSOW会員登録（無料）はこちらから</a></p>
+		<div class="dialog-form">
+			<form action="https://zigsow.jp/" method="post" id="login-form" novalidate>
+<input type="hidden" name="m" value="pc">
+<input type="hidden" name="a" value="do_o_login">
+				<input type="email" name="username" value="" placeholder="メールアドレス" />
+				<input type="password" name="password" value="" placeholder="パスワード" />
+				<label><input type="checkbox" name="is_save" value="1">次回から自動的にログイン</label>
+			</form>
+			<button class="btn btn-submit">ログイン</button>
+			<div class="link">
+				<a href="https://zigsow.jp/?m=pc&amp;a=page_o_password_query"><small>ログインできない場合はこちら</small></a>
+			</div>
+		</div>
+		<!--<div class="dialog-actions dialog-actions-centered">
+			<button class="btn btn-confirm">ログイン</button>
+		</div>-->
+		<div class="row dialog-footer">
+			<a href="javascript:void(0);" data-href="http://zigsow.jp/?m=portal&amp;a=page_extauth_start&amp;site=facebook" class="facebook col-sm-5"><i class="zigcon zigcon-facebook"></i> Facebook</a>
+			<a href="javascript:void(0);" data-href="http://zigsow.jp/?m=portal&amp;a=page_extauth_start&amp;site=twitter" class="twitter col-sm-5"><i class="zigcon zigcon-twitter"></i> Twitter</a>
+		</div>
+	</div>
+</div>
+
+
+
+
+
+
+
+<div class="dialog dialog-message" id="dialog-message">
+	<div class="dialog-content">
+		<h3></h3>
+		<p class="info"></p>
+	</div>
+</div>
+<div class="dialog dialog-confirm" id="dialog-confirm">
+	<div class="dialog-content">
+		<h3 class="title"></h3>
+		<p class="info"></p>
+		<div class="dialog-actions dialog-actions-centered">
+			<button type="button" class="btn btn-cancel">キャンセル</button>
+			<button type="button" class="btn btn-confirm">決定</button>
+		</div>
+	</div>
+</div>
+</div>
+<script src="http://zigsow.jp/js/lazyyoutubefix.js"></script>
+<script src="http://zigsow.jp/js/review/link_tracking.js" type="text/javascript"></script>
+<script src="http://zigsow.jp/js/jquery.google-analytics.js" type="text/javascript"></script>
+<script src="http://zigsow.jp/js/jquery.linklog.js" type="text/javascript"></script>
+<script type="text/javascript">
+$.trackPage('UA-4578583-2', {uri : ''} );
+$(document).ready(function() {
+    var baseurl = (("https:" == document.location.protocol) ? "https://zigsow.jp/" : "http://zigsow.jp/");
+    var sessid = "";
+
+    //$.fn.track.defaults.debug = true;
+    $('a:not(.notrack):not(.link-tracking)').track({
+        category: function(element) {
+            if (element[0].hostname == undefined || element[0].hostname.length == 0) {
+                if(element[0].hash == undefined || element[0].hash.indexOf('#ui-tabs') == 0) {
+                    return 'internal';
+                } else {
+                    return 'external';
+                }
+            } else {
+                return (element[0].hostname === location.hostname) ? 'internal':'external';
+            }
+        },
+        skip_internal: true 
+    });
+    $("a.link-log").addLinkLog(baseurl, sessid);
+});
+
+</script>
+<script type="text/javascript">
+/* <![CDATA[ */
+var google_conversion_id = 1026971159;
+var google_custom_params = window.google_tag_params;
+var google_remarketing_only = true;
+/* ]]> */
+</script>
+<div style="display: none;">
+<script type="text/javascript" src="//www.googleadservices.com/pagead/conversion.js"></script>
+</div>
+<noscript>
+<div style="display:none;">
+<img height="1" width="1" style="border-style:none;" alt="" src="//googleads.g.doubleclick.net/pagead/viewthroughconversion/1026971159/?value=0&guid=ON&script=0"/>
+</div>
+</noscript>
+
+</body>
+</html>

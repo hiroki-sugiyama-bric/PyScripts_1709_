@@ -1,0 +1,317 @@
+GET http://shop.golfdigest.co.jp/newshop/disp/CSfIncludeCmnGoodsList.jsp?dispNo= HTTP/1.1
+Host: shop.golfdigest.co.jp
+User-Agent: Mozilla/5.0 (Windows NT 6.1; WOW64; rv:52.0) Gecko/20100101 Firefox/52.0
+Accept: */*
+Accept-Language: ja,en-US;q=0.7,en;q=0.3
+Accept-Encoding: gzip, deflate
+X-Requested-With: XMLHttpRequest
+Referer: http://shop.golfdigest.co.jp/newshop/disp/CSfDispListPage_001.jsp?chkShop=0000100001&chkShop=0000100003&chkShop=0000100004&q=%E3%82%A2%E3%83%89%E3%83%9F%E3%83%A9%E3%83%AB
+Cookie: sctvaspcookie_cd=20170405115549734xJSHjtjG8bIAaCJ6Z; V1_disp_history=%2F001013; TS01a7dc1d=01f34b983f4beb519ba500ee326148568f3beb03413eb537cd5d34746e6280a3cad470c882a3faf73f5d0696029259c257821b3b43; MkiTracUUID=3314e628bf6f461cae4f76ce0932e85a; _rt.uid=233E91E7569581D8999481F04E14BC1A95E92AEF36A498DFFD8A40C124B6DA52; _rt.xd=3bf3fadd; _rt.cs=2; __utma=110123411.13208537.1491360535.1491360535.1491363927.2; __utmc=110123411; __utmz=110123411.1491360535.1.1.utmcsr=(direct)|utmccn=(direct)|utmcmd=(none); MkiTracMBID=233E91E7569581D8999481F04E14BC1A95E92AEF36A498DFFD8A40C124B6DA52; TS0133a40f=01250487715d9f7cf70318261fb491f2a91b25655b413aa2cae0934319af0e70627e1fba17c2936930c1c59425bda0ba4095b56771; __gads=ID=fac33f16dfb9dace:T=1491361138:S=ALNI_MZ76KC_SXVHwzkwz8Nt2tw7Ps44ig; JSESSIONID=283DA85E51D777030DC2C926A5C01CB6.w2; sid=P08; V1_COMM_005=BD5792107513874B845D38A977157E1B4450678A00CF6B87; TS016d09f0=01f34b983f7c1083a2a4cfb4d70e477c69699d94ab612afa9070f2c6b836a15b0b4b256670a009e46fd7fdf2be3b841e288b991236; ak_bmsc=754B941C047F351EE58F03ABAD690167769BE68A7E3200005368E458BFA3C12A~pl29ctXTCDKAAtM2hvc2LBBMzAwy1LJSVB0L9zDrEKyAhoXbXnCUNj5JvI2ZxQucycbkBBs1GVyzHkI5HI8jRZEHqjpNIwoRAUyuQpQLQl2w1Sck5fZaS85aMJRkQHtXagQYTgjzvGC8Xil1dLuqHC2tGLRtoVmMUQjPO/pUH2aQ+TCHZypdnT4OLTomp/iWvFwwujaQw6AmzKF00rxpGFrA==; _ga=GA1.4.13208537.1491360535; __utmb=110123411.46.10.1491363927; __utma=74518224.13208537.1491360535.1491363927.1491363926.1; __utmb=74518224.14.10.1491363927; __utmc=74518224; __utmz=74518224.1491363927.1.1.utmcsr=(direct)|utmccn=(direct)|utmcmd=(none); sctvaspcookie_cd=20170405115549734xJSHjtjG8bIAaCJ6Z; NavicastApi=20170405.115550.34378200.87809; NavicastApi.su=20170405.124530.13412700.06548; __ulfpc=201704051245308142; __ywapbuk=0.504; _tdim=321afaac-0a16-4129-d0fb-454ce644fe19; krt.vis=1217107314_1491363931323_662509558; krt.s=date%3A1491364289%3Bpv%3A9%3Btime%3A3127; _ga=GA1.3.13208537.1491360535; mmsn=b7901be1b636f83f314f4846611740f3; __ukwlgck=115768848.73957924.0_5_25350397.1491367194005_25350397.1537725254.1491367194005; _td=8cf99a8f-7dbf-4d1b-a9e7-a31cf84eb3b4; _gat=1; _gat_newTracker1=1; _gat_newTracker2=1; __utmt_AllTracker=1; __utmt_RbuTracker=1; __utmli=searchBarForm
+Connection: keep-alive
+
+
+HTTP/1.1 200 OK
+Last-Modified: Wed, 05 Apr 2017 04:43:58 GMT
+Expires: Wed, 31 Dec 1969 15:00:00 GMT
+Pragma: no-cache
+Cache-Control: no-cache,no-store
+Content-Type: text/html;charset=UTF-8
+Content-Language: ja
+Vary: Accept-Encoding
+Date: Wed, 05 Apr 2017 04:43:59 GMT
+Connection: keep-alive
+Set-Cookie: ak_bmsc=754B941C047F351EE58F03ABAD690167769BE68A7E3200005368E458BFA3C12A~pl6vzJ7+kXZ4zNoVvbl3WRUTuMVS/P3GGQRRGddp+OMcXKpNTXFQTROnpkMQiHeJgJv65ffJ1labkzjMA6BKkgffnLSr1EqoW/dahcbSm1nqxJLk4Cis22WNE8LPvcEeac0yrX8kiqfaJlleqN3xzx7dshf0NgnngH/AehtUj2qQw5kzSzXE42fg/D5W45ni4FDz1PDxh6R1poubWXUG32Qg==; expires=Wed, 05 Apr 2017 05:45:23 GMT; max-age=3685; path=/; domain=.golfdigest.co.jp; HttpOnly
+Transfer-Encoding: chunked
+
+5a7
+<div class="sectionGray commonList mt20">
+  <div class="headingGray"><div>
+<h2><a href="../f/rank">新商品ランキング</a></h2>
+</div></div>
+<div class="inner">
+<ul>
+<li>
+  <p class="mt0"><img src="../images/parts/main/ti_rank1.gif" alt="1位" width="135" height="22" /></p><div class="cl_icon mt5">
+    </div>
+  <div class="cl_photo"><a href="/newshop/f/dmg_0000504651_rnknew"><img onerror="alterImage(this, '../images/goods/no_image_p03.jpg')" src="//a248.e.akamai.net/f/248/217668/7d/s.gimg.jp/gdogolfshop/images/goods/000050/0000504651/0000504651_p03.jpg" alt="" width="133" height="133" /></a></div>
+  <p class="cl_catchcopy">打って合わなかったら9割保証</p><p class="cl_pname"><a href="/newshop/f/dmg_0000504651_rnknew">ヤマハ inpres 17インプレス UD+2 ドライバー オリジナルカーボンTMX-417D </a></p>
+  <p class="cl_refprice">参考価格<span>
+    ￥80,000（税抜）</span>
+    <br/>通常特価<span>
+    ￥72,000（税抜）</span>
+  </p><p class="cl_personarize">微微 太郎様特価<span>
+    ￥64,000（税抜）</span>
+  </p>
+<p class="cl_moresaleprice" style="margin-top: 0px;">
+</p>
+<div class="rev_box">
+      <p>
+        <span class="rev_image">
+          <span class="rev_star_icon rev_star_icon4"></span>
+        </span>
+        <span class="rev_point">
+          <span class="text">(</span><span class="count"><a href="http://shop.golfdigest.co.jp/newshop/disp/CSfRe
+5b4
+viewList.jsp?ATT_GRP_ID=0000504651" rel="nofollow">51</a></span><span class="text">)</span>
+        </span>
+      </p>
+    </div>
+  <div class="cl_iconB">
+    </div>
+  </li>
+<li>
+  <p class="mt0"><img src="../images/parts/main/ti_rank2.gif" alt="2位" width="135" height="22" /></p><div class="cl_icon mt5">
+    </div>
+  <div class="cl_photo"><a href="/newshop/f/dmg_0000499391_rnknew"><img onerror="alterImage(this, '../images/goods/no_image_p03.jpg')" src="//a248.e.akamai.net/f/248/217668/7d/s.gimg.jp/gdogolfshop/images/goods/000049/0000499391/0000499391_p03.jpg" alt="" width="133" height="133" /></a></div>
+  <p class="cl_catchcopy">打って合わなかったら9割保証</p><p class="cl_pname"><a href="/newshop/f/dmg_0000499391_rnknew">スコッティキャメロン SELECT セレクト ニューポート 2 ノッチバック 2016 パター </a></p>
+  <p class="cl_refprice">価格<span>
+    ￥55,000（税抜）</span>
+  </p>
+<p class="cl_moresaleprice" style="margin-top: 0px;">
+</p>
+<div class="rev_box">
+      <p>
+        <span class="rev_image">
+          <span class="rev_star_icon rev_star_icon5"></span>
+        </span>
+        <span class="rev_point">
+          <span class="text">(</span><span class="count"><a href="http://shop.golfdigest.co.jp/newshop/disp/CSfReviewList.jsp?ATT_GRP_ID=0000499391" rel="nofollow">9</a></span><span class="text">)</span>
+        </span>
+      </p>
+    </div>
+  <div class="cl_iconB"
+5b4
+>
+    </div>
+  </li>
+<li>
+  <p class="mt0"><img src="../images/parts/main/ti_rank3.gif" alt="3位" width="135" height="22" /></p><div class="cl_icon mt5">
+    </div>
+  <div class="cl_photo"><a href="/newshop/f/dmg_0000504659_rnknew"><img onerror="alterImage(this, '../images/goods/no_image_p03.jpg')" src="//a248.e.akamai.net/f/248/217668/7d/s.gimg.jp/gdogolfshop/images/goods/000050/0000504659/0000504659_p03.jpg" alt="" width="133" height="133" /></a></div>
+  <p class="cl_catchcopy">打って合わなかったら9割保証</p><p class="cl_pname"><a href="/newshop/f/dmg_0000504659_rnknew">ヤマハ inpres 17インプレス UD+2 アイアンセット(4本セット) オリジナルカーボンMX-517i </a></p>
+  <p class="cl_refprice">参考価格<span>
+    ￥96,000（税抜）</span>
+    <br/>通常特価<span>
+    ￥86,400（税抜）</span>
+  </p><p class="cl_personarize">微微 太郎様特価<span>
+    ￥76,800（税抜）</span>
+  </p>
+<p class="cl_moresaleprice" style="margin-top: 0px;">
+</p>
+<div class="rev_box">
+      <p>
+        <span class="rev_image">
+          <span class="rev_star_icon rev_star_icon5"></span>
+        </span>
+        <span class="rev_point">
+          <span class="text">(</span><span class="count"><a href="http://shop.golfdigest.co.jp/newshop/disp/CSfReviewList.jsp?ATT_GRP_ID=0000504659" rel="nofollow">53</a></span><span class="text">)</span>
+        </span>
+      </p>
+    </div>
+  <div class
+5b4
+="cl_iconB">
+    </div>
+  </li>
+<li>
+  <p class="mt0"><img src="../images/parts/main/ti_rank4.gif" alt="4位" width="135" height="22" /></p><div class="cl_icon mt5">
+    </div>
+  <div class="cl_photo"><a href="/newshop/f/dmg_0000504653_rnknew"><img onerror="alterImage(this, '../images/goods/no_image_p03.jpg')" src="//a248.e.akamai.net/f/248/217668/7d/s.gimg.jp/gdogolfshop/images/goods/000050/0000504653/0000504653_p03.jpg" alt="" width="133" height="133" /></a></div>
+  <p class="cl_catchcopy">打って合わなかったら9割保証</p><p class="cl_pname"><a href="/newshop/f/dmg_0000504653_rnknew">ヤマハ inpres 17インプレス UD+2 フェアウェイウッド オリジナルカーボンTMX-417F </a></p>
+  <p class="cl_refprice">参考価格<span>
+    ￥46,000～￥52,000（税抜）</span>
+    <br/>通常特価<span>
+    ￥41,400（税抜）</span>
+  </p><p class="cl_personarize">微微 太郎様特価<span>
+    ￥36,800（税抜）</span>
+  </p>
+<p class="cl_moresaleprice" style="margin-top: 0px;">
+</p>
+<div class="rev_box">
+      <p>
+        <span class="rev_image">
+          <span class="rev_star_icon rev_star_icon4"></span>
+        </span>
+        <span class="rev_point">
+          <span class="text">(</span><span class="count"><a href="http://shop.golfdigest.co.jp/newshop/disp/CSfReviewList.jsp?ATT_GRP_ID=0000504653" rel="nofollow">22</a></span><span class="text">)</span>
+        </span>
+      </p>
+    </div
+5b4
+>
+  <div class="cl_iconB">
+    </div>
+  </li>
+<li>
+  <p class="mt0"><img src="../images/parts/main/ti_rank5.gif" alt="5位" width="135" height="22" /></p><div class="cl_icon mt5">
+    </div>
+  <div class="cl_photo"><a href="/newshop/f/dmg_0000452034_rnknew"><img onerror="alterImage(this, '../images/goods/no_image_p03.jpg')" src="//a248.e.akamai.net/f/248/217668/7d/s.gimg.jp/gdogolfshop/images/goods/000045/0000452034/0000452034_p03.jpg" alt="" width="133" height="133" /></a></div>
+  <p class="cl_catchcopy">会員はまとめ買いがお得</p><p class="cl_pname"><a href="/newshop/f/dmg_0000452034_rnknew">ブリヂストン TOURSTAGE エクストラディスタンス ボール 3ダースセット </a></p>
+  <p class="cl_refprice">価格<span>
+    ￥5,552（税抜）</span>
+  </p><p class="cl_personarize">微微 太郎様特価<span>
+    ￥3,695（税抜）</span>
+  </p>
+<p class="cl_moresaleprice" style="margin-top: 0px;">
+</p>
+<div class="rev_box">
+      <p>
+        <span class="rev_image">
+          <span class="rev_star_icon rev_star_icon4"></span>
+        </span>
+        <span class="rev_point">
+          <span class="text">(</span><span class="count"><a href="http://shop.golfdigest.co.jp/newshop/disp/CSfReviewList.jsp?ATT_GRP_ID=0000452034" rel="nofollow">1851</a></span><span class="text">)</span>
+        </span>
+      </p>
+    </div>
+  <div class="cl_iconB">
+    </div>
+  </li>
+</ul>
+</div>
+<!-- /.sectionGra
+5b4
+y.bgBlue --></div>
+<div class="sectionGray commonList">
+  <div class="headingGray"><div>
+<h2><a href="../f/rank">セール品ランキング</a></h2>
+</div></div>
+<div class="inner">
+<ul>
+<li>
+  <p class="mt0"><img src="../images/parts/main/ti_rank1.gif" alt="1位" width="135" height="22" /></p><div class="cl_icon mt5">
+    <img src="../images/parts/iconmark/icn_falg_sale.gif" alt="SALE" width="43" height="13" /></div>
+  <div class="cl_photo"><a href="/newshop/f/dmg_0000471311_rnksale"><img onerror="alterImage(this, '../images/goods/no_image_p03.jpg')" src="//a248.e.akamai.net/f/248/217668/7d/s.gimg.jp/gdogolfshop/images/goods/000047/0000471311/0000471311_p03.jpg" alt="" width="133" height="133" /></a></div>
+  <p class="cl_pname"><a href="/newshop/f/dmg_0000471311_rnksale">タイトリスト PRO V1Xボール 2015年モデル </a></p>
+  <p class="cl_refprice">価格<span>
+    ￥4,600（税抜）</span>
+  </p><p class="cl_personarize">微微 太郎様特価<span>
+    ￥3,980（税抜）</span>
+  </p>
+<p class="cl_moresaleprice" style="margin-top: 0px;">
+</p>
+<div class="rev_box">
+      <p>
+        <span class="rev_image">
+          <span class="rev_star_icon rev_star_icon5"></span>
+        </span>
+        <span class="rev_point">
+          <span class="text">(</span><span class="count"><a href="http://shop.golfdigest.co.jp/newshop/disp/CSfReviewList.jsp?ATT_GRP_ID=0000471311" rel="nofollow">612</a></span><span class="t
+5b4
+ext">)</span>
+        </span>
+      </p>
+    </div>
+  <div class="cl_iconB">
+    </div>
+  </li>
+<li>
+  <p class="mt0"><img src="../images/parts/main/ti_rank2.gif" alt="2位" width="135" height="22" /></p><div class="cl_icon mt5">
+    <img src="../images/parts/iconmark/icn_falg_sale.gif" alt="SALE" width="43" height="13" /></div>
+  <div class="cl_photo"><a href="/newshop/f/dmg_0000492403_rnksale"><img onerror="alterImage(this, '../images/goods/no_image_p03.jpg')" src="//a248.e.akamai.net/f/248/217668/7d/s.gimg.jp/gdogolfshop/images/goods/000049/0000492403/0000492403_p03.jpg" alt="" width="133" height="133" /></a></div>
+  <p class="cl_pname"><a href="/newshop/f/dmg_0000492403_rnksale">キャロウェイゴルフ CHROME TOUR クロムツアーボール </a></p>
+  <p class="cl_personarize">特価<span>
+    ￥2,980（税抜）</span>
+  </p>
+<p class="cl_moresaleprice" style="margin-top: 0px;">
+</p>
+<div class="rev_box">
+      <p>
+        <span class="rev_image">
+          <span class="rev_star_icon rev_star_icon4"></span>
+        </span>
+        <span class="rev_point">
+          <span class="text">(</span><span class="count"><a href="http://shop.golfdigest.co.jp/newshop/disp/CSfReviewList.jsp?ATT_GRP_ID=0000492403" rel="nofollow">84</a></span><span class="text">)</span>
+        </span>
+      </p>
+    </div>
+  <div class="cl_iconB">
+    </div>
+  </li>
+<li>
+  <p class="mt0"><img src="../images/parts/main/ti_rank3.gi
+5ad
+f" alt="3位" width="135" height="22" /></p><div class="cl_icon mt5">
+    <img src="../images/parts/iconmark/icn_falg_sale.gif" alt="SALE" width="43" height="13" /></div>
+  <div class="cl_photo"><a href="/newshop/f/dmg_0000470970_rnksale"><img onerror="alterImage(this, '../images/goods/no_image_p03.jpg')" src="//a248.e.akamai.net/f/248/217668/7d/s.gimg.jp/gdogolfshop/images/goods/000047/0000470970/0000470970_p03.jpg" alt="" width="133" height="133" /></a></div>
+  <p class="cl_catchcopy">値下げしました</p><p class="cl_pname"><a href="/newshop/f/dmg_0000470970_rnksale">オデッセイ ODYSSEY WORKS オデッセイワークス VERSA パター #1 </a></p>
+  <p class="cl_refprice">参考価格<span>
+    ￥23,000（税抜）</span>
+    </p><p class="cl_personarize">特価<span>
+    ￥12,871（税抜）</span>
+  </p>
+<p class="cl_moresaleprice" style="margin-top: 0px;">
+</p>
+<div class="rev_box">
+      <p>
+        <span class="rev_image">
+          <span class="rev_star_icon rev_star_icon4"></span>
+        </span>
+        <span class="rev_point">
+          <span class="text">(</span><span class="count"><a href="http://shop.golfdigest.co.jp/newshop/disp/CSfReviewList.jsp?ATT_GRP_ID=0000470970" rel="nofollow">38</a></span><span class="text">)</span>
+        </span>
+      </p>
+    </div>
+  <div class="cl_iconB">
+    </div>
+  </li>
+<li>
+  <p class="mt0"><img src="../images/parts/main/ti_rank4.gif" alt="4位" width
+5b4
+="135" height="22" /></p><div class="cl_icon mt5">
+    <img src="../images/parts/iconmark/icn_falg_sale.gif" alt="SALE" width="43" height="13" /></div>
+  <div class="cl_photo"><a href="/newshop/f/dmg_0000470972_rnksale"><img onerror="alterImage(this, '../images/goods/no_image_p03.jpg')" src="//a248.e.akamai.net/f/248/217668/7d/s.gimg.jp/gdogolfshop/images/goods/000047/0000470972/0000470972_p03.jpg" alt="" width="133" height="133" /></a></div>
+  <p class="cl_catchcopy">値下げしました</p><p class="cl_pname"><a href="/newshop/f/dmg_0000470972_rnksale">オデッセイ ODYSSEY WORKS オデッセイワークス VERSA パター 2BALL FANG </a></p>
+  <p class="cl_refprice">参考価格<span>
+    ￥25,000（税抜）</span>
+    </p><p class="cl_personarize">特価<span>
+    ￥13,797（税抜）</span>
+  </p>
+<p class="cl_moresaleprice" style="margin-top: 0px;">
+</p>
+<div class="rev_box">
+      <p>
+        <span class="rev_image">
+          <span class="rev_star_icon rev_star_icon5"></span>
+        </span>
+        <span class="rev_point">
+          <span class="text">(</span><span class="count"><a href="http://shop.golfdigest.co.jp/newshop/disp/CSfReviewList.jsp?ATT_GRP_ID=0000470972" rel="nofollow">65</a></span><span class="text">)</span>
+        </span>
+      </p>
+    </div>
+  <div class="cl_iconB">
+    </div>
+  </li>
+<li>
+  <p class="mt0"><img src="../images/parts/main/ti_rank5.gif" alt="5位" width="135" height="22"
+58c
+ /></p><div class="cl_icon mt5">
+    <img src="../images/parts/iconmark/icn_falg_sale.gif" alt="SALE" width="43" height="13" /></div>
+  <div class="cl_photo"><a href="/newshop/f/dmg_0000482344_rnksale"><img onerror="alterImage(this, '../images/goods/no_image_p03.jpg')" src="//a248.e.akamai.net/f/248/217668/7d/s.gimg.jp/gdogolfshop/images/goods/000048/0000482344/0000482344_p03.jpg" alt="" width="133" height="133" /></a></div>
+  <p class="cl_catchcopy">値下げしました</p><p class="cl_pname"><a href="/newshop/f/dmg_0000482344_rnksale">キャロウェイゴルフ MACK DADDY 3 ウェッジ クロムメッキ仕上げ ダイナミックゴールド </a></p>
+  <p class="cl_refprice">参考価格<span>
+    ￥20,000（税抜）</span>
+    </p><p class="cl_personarize">特価<span>
+    ￥11,945（税抜）</span>
+  </p>
+<p class="cl_moresaleprice" style="margin-top: 0px;">
+</p>
+<div class="rev_box">
+      <p>
+        <span class="rev_image">
+          <span class="rev_star_icon rev_star_icon5"></span>
+        </span>
+        <span class="rev_point">
+          <span class="text">(</span><span class="count"><a href="http://shop.golfdigest.co.jp/newshop/disp/CSfReviewList.jsp?ATT_GRP_ID=0000482344" rel="nofollow">34</a></span><span class="text">)</span>
+        </span>
+      </p>
+    </div>
+  <div class="cl_iconB">
+    </div>
+  </li>
+</ul>
+</div>
+<!-- /.sectionGray.bgBlue --></div>
+
+0
+

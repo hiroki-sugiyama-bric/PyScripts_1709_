@@ -1,0 +1,30 @@
+POST https://accounts.user.ameba.jp/accounts/issue/password/fix/inform?entryKey=54A2CA87703239E36290F19C4C92692B HTTP/1.1
+Host: accounts.user.ameba.jp
+User-Agent: Mozilla/5.0 (Windows NT 6.1; WOW64; rv:51.0) Gecko/20100101 Firefox/51.0
+Accept: text/html,application/xhtml+xml,application/xml;q=0.9,*/*;q=0.8
+Accept-Language: ja,en-US;q=0.7,en;q=0.3
+Referer: https://accounts.user.ameba.jp/accounts/issue/password/fix/inform?entryKey=54A2CA87703239E36290F19C4C92692B
+Cookie: P=e3791729-5bdb-4aa5-9883-88bf131013c6; _ga=GA1.2.1145132502.1487829810; __utma=42061857.1145132502.1487829810.1487829811.1487834547.2; __utmz=42061857.1487834547.2.2.utmcsr=ameba.jp|utmccn=(referral)|utmcmd=referral|utmcct=/; __utma=257183131.1145132502.1487829810.1487835608.1487838367.2; __utmz=257183131.1487838367.2.2.utmcsr=mypage.ameba.jp|utmccn=(referral)|utmcmd=referral|utmcct=/; __gads=ID=df80c22e0b5f7ed3:T=1487831318:S=ALNI_Mak9xY_urv-jSBMPVjsXsX28FLN9w; __utmc=257183131; __utmc=42061857; regFrmId=2001; tutorial_term=true; aid=0ca44655611da677d4c8ebf68d1ad944c92af4b8; __utmb=257183131.1.10.1487838367; __utmt=1; _gat=1; _acptd_eid=5569abcb883f4944700579a23fb9e553e4b638dff5c24f0ac5fe004639723ade; _acct_sid=e901cf2b40bf0c5d63f077812b89c25518547df5488ff6e00f584ef49d07366f
+Connection: close
+Upgrade-Insecure-Requests: 1
+Content-Type: application/x-www-form-urlencoded
+Content-Length: 94
+
+newPassword=password002&confirmPassword=password002&_csrf=d8d70356-4100-4a54-bd73-583b5b844283
+HTTP/1.1 302 Found
+Date: Thu, 23 Feb 2017 08:28:08 GMT
+Set-Cookie: asauth=417323786ac2fd5be35a6315021bcaa0db21b90d5599a29c4d2b132d4d0d4f5d; Domain=.user.ameba.jp; Expires=Wed, 24-May-2017 08:28:07 GMT; Path=/
+Set-Cookie: N=3a56d47b974280cf0ca52e31fc528b87c0f9ec623e1a00c3b02315a4249a032e31e998b1450e5900b5c2225b9f9c2d2b99e48cb2619e9c6f215ea51ae28f69ee71653655735960ff4ba2fa0fd3e18136; Domain=.ameba.jp; Expires=Wed, 24-May-2017 08:28:07 GMT; Path=/
+P3P: CP='UNI CUR OUR'
+Cache-Control: no-cache,no-store
+Pragma: no-cache
+Expires: -1
+X-XSS-Protection: 1; mode=block
+X-Frame-Options: SAMEORIGIN
+X-Content-Type-Options: nosniff
+Location: https://accounts.user.ameba.jp/accounts/issue/password/fix/complete
+Content-Language: ja
+Content-Length: 0
+Connection: close
+Content-Type: text/plain
+

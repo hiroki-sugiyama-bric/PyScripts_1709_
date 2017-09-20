@@ -1,0 +1,610 @@
+POST https://usr.golfdigest.co.jp/usr/regist_attestation.php HTTP/1.1
+Accept: text/html, application/xhtml+xml, */*
+Referer: https://usr.golfdigest.co.jp/usr/regist_attestation.php
+Accept-Language: ja-JP
+User-Agent: Mozilla/5.0 (Windows NT 6.1; WOW64; Trident/7.0; rv:11.0) like Gecko
+Content-Type: application/x-www-form-urlencoded
+Accept-Encoding: gzip, deflate
+Host: usr.golfdigest.co.jp
+Content-Length: 3613
+Connection: Keep-Alive
+Cache-Control: no-cache
+Cookie: sctvaspcookie_cd=20170405102845736ERCrMmdwAHiLpIO6M; TS016d09f0=012504877193c5f62dccf691bbbd10a3e3855901a7c685b7ad383774a0c8eb8a176be298125d43a7056843655017bd8685c1d3179f; _ga=GA1.4.2096811031.1491355357; __ulfpc=201704051022452793; FormAssist_1tag=view; FormAssist_cookie=gdo/20111110173643/20170405/102838-853; _gat=1; _gat_newTracker1=1; __utmli=FormAssist_submit; __utmc=110123411; MkiTracUUID=4f7166d1bf4e4f6b939202b5badaad8a; __utma=110123411.2096811031.1491355357.1491355357.1491355357.1; __utmb=110123411.18.10.1491355357; __utmz=110123411.1491355357.1.1.utmcsr=(direct)|utmccn=(direct)|utmcmd=(none); _rt.uid=5aa7c100-199e-11e7-29a9-06f386003737; _rt.xd=552bd595; _rt.cs=2; MkiTracMBIDFlag=1; __utmt_AllTracker=1; _td=1ab528f2-9c04-45e3-c797-bc5785010391
+
+qLoginNmFlg=1&qELoginNm=crawlingtest1000@gmail.com&qEPasswd=12345678&qERePasswd=12345678&qEName=%E5%BE%AE%E5%BE%AE&qEName2=%E5%A4%AA%E9%83%8E&qEKana=%E3%81%B3%E3%81%B3&qEKana2=%E3%81%9F%E3%82%8D%E3%81%86&qESeibetsu=1&qEBirthday_1=2000&qEBirthday_2=1&qEBirthday_3=1&qEZip=160&qEZip2=0000&qEPref=%E6%9D%B1%E4%BA%AC%E9%83%BD&qECity=%E6%96%B0%E5%AE%BF%E5%8C%BA&qEAddr=%E8%A5%BF%E6%96%B0%E5%AE%BF1-1&qETatemono=A%E3%83%93%E3%83%AB&qETel=0312345678&qEMbTel=09012345678&qUPRM4=300%E4%B8%87%E5%86%86%E4%BB%A5%E4%B8%8A+-+400%E4%B8%87%E5%86%86%E6%9C%AA%E6%BA%80&qEMailMagaID1%5B%5D=GDO%E3%82%B4%E3%83%AB%E3%83%95%E5%A0%B4%E4%BA%88%E7%B4%84%E6%83%85%E5%A0%B1+&qEMailMagaStatusID1=GDO%E3%82%B4%E3%83%AB%E3%83%95%E5%A0%B4%E4%BA%88%E7%B4%84%E6%83%85%E5%A0%B1&qEMailMagaStatusForm1=1&qEMailMagaMailForm1=1&qEMailMagaID3%5B%5D=GDO%E3%82%B4%E3%83%AB%E3%83%95%E3%82%B7%E3%83%A7%E3%83%83%E3%83%97%E6%83%85%E5%A0%B1+%EF%BC%88%E6%96%B0%E5%95%86%E5%93%81%EF%BC%8F%E3%82%AF%E3%83%BC%E3%83%9D%E3%83%B3%EF%BC%8F%E3%81%8A%E5%BE%97%E6%83%85%E5%A0%B1%E3%81%AA%E3%81%A9%EF%BC%89&qEMailMagaStatusID3=GDO%E3%82%B4%E3%83%AB%E3%83%95%E3%82%B7%E3%83%A7%E3%83%83%E3%83%97%E6%83%85%E5%A0%B1+%EF%BC%88%E6%96%B0%E5%95%86%E5%93%81%EF%BC%8F%E3%82%AF%E3%83%BC%E3%83%9D%E3%83%B3%EF%BC%8F%E3%81%8A%E5%BE%97%E6%83%85%E5%A0%B1%E3%81%AA%E3%81%A9%EF%BC%89&qEMailMagaStatusForm3=1&qEMailMagaMailForm3=1&qEMailMagaID5%5B%5D=GDO%E3%82%B4%E3%83%AB%E3%83%95%E3%83%8B%E3%83%A5%E3%83%BC%E3%82%B9&qEMailMagaStatusID5=GDO%E3%82%B4%E3%83%AB%E3%83%95%E3%83%8B%E3%83%A5%E3%83%BC%E3%82%B9&qEMailMagaStatusForm5=1&qEMailMagaMailForm5=1&qEMailMagaID7%5B%5D=GDO%E3%82%B4%E3%83%AB%E3%83%95%E3%82%B9%E3%82%BF%E3%82%A4%E3%83%AB&qEMailMagaStatusID7=GDO%E3%82%B4%E3%83%AB%E3%83%95%E3%82%B9%E3%82%BF%E3%82%A4%E3%83%AB&qEMailMagaStatusForm7=1&qEMailMagaMailForm7=1&qEMailMagaID9%5B%5D=GDO%E3%82%B9%E3%82%B3%E3%82%A2%E3%82%A2%E3%83%83%E3%83%97&qEMailMagaStatusID9=GDO%E3%82%B9%E3%82%B3%E3%82%A2%E3%82%A2%E3%83%83%E3%83%97&qEMailMagaStatusForm9=1&qEMailMagaMailForm9=1&qEMailMagaID10%5B%5D=GDO%E3%81%8B%E3%82%89%E3%81%AE%E3%81%8A%E5%BE%97%E3%81%AA%E6%83%85%E5%A0%B1&qEMailMagaStatusID10=GDO%E3%81%8B%E3%82%89%E3%81%AE%E3%81%8A%E5%BE%97%E3%81%AA%E6%83%85%E5%A0%B1&qEMailMagaStatusForm10=1&qEMailMagaMailForm10=1&qEMailMagaStatusID2=&qEMailMagaStatusForm2=&qEMailMagaMailForm2=0&qEMailMagaStatusID6=&qEMailMagaStatusForm6=&qEMailMagaMailForm6=0&qEMbMail=&qEMailMagaID8%5B%5D=%E8%88%88%E5%91%B3%E5%88%86%E9%87%8E%E3%81%AE%E6%83%85%E5%A0%B1%E3%82%92E+%E3%83%A1%E3%83%BC%E3%83%AB%E3%81%A7%E5%8F%97%E3%81%91%E5%8F%96%E3%82%8B&qEMailMagaStatusID8=%E8%88%88%E5%91%B3%E5%88%86%E9%87%8E%E3%81%AE%E6%83%85%E5%A0%B1%E3%82%92E+%E3%83%A1%E3%83%BC%E3%83%AB%E3%81%A7%E5%8F%97%E3%81%91%E5%8F%96%E3%82%8B&qEMailMagaStatusForm8=1&qEMailMagaMailForm8=2&qEOptDm=0&qEOptDm%5B%5D=%E8%88%88%E5%91%B3%E5%88%86%E9%87%8E%E3%81%AE%E6%83%85%E5%A0%B1%E3%82%92%E3%83%80%E3%82%A4%E3%83%AC%E3%82%AF%E3%83%88%E3%83%A1%E3%83%BC%E3%83%AB%EF%BC%88%E9%83%B5%E9%80%81%EF%BC%89%E3%81%A7%E5%8F%97%E3%81%91%E5%8F%96%E3%82%8B&qUPRM1%5B%5D=%E3%82%B4%E3%83%AB%E3%83%95%E6%83%85%E5%A0%B1%E5%85%A8%E8%88%AC&qUPRM1%5B%5D=%E3%82%B4%E3%83%AB%E3%83%95%E6%83%85%E5%A0%B1%EF%BC%88%E3%82%AE%E3%82%A2%E3%83%BB%E3%82%A2%E3%82%AF%E3%82%BB%E3%82%B5%E3%83%AA%EF%BC%89&qUPRM1%5B%5D=%E3%82%B4%E3%83%AB%E3%83%95%E6%83%85%E5%A0%B1%EF%BC%88%E3%83%95%E3%82%A1%E3%83%83%E3%82%B7%E3%83%A7%E3%83%B3%EF%BC%89&qEMail=crawlingtest1000@gmail.com&qReEmail=crawlingtest1000@gmail.com&qMode=index_yn&qBack=1&qArmrid=VD7VwSC_EvU_&qSiteId=RFJlqsCACK7_&qAllianceId=&qAllianceUsrCd=&qUrl=https%253A%252F%252Fmyp.golfdigest.co.jp%252Fmyp%252Fmygdotop.aspx&x=97&y=21
+HTTP/1.1 200 OK
+Date: Wed, 05 Apr 2017 01:42:16 GMT
+X-Powered-By: PHP/5.4.16
+X-Frame-Options: SAMEORIGIN
+Vary: Accept-Encoding
+Content-Length: 28277
+Keep-Alive: timeout=5, max=100
+Connection: Keep-Alive
+Content-Type: text/html; charset=UTF-8
+
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+<html xmlns="http://www.w3.org/1999/xhtml" xml:lang="ja" lang="ja">
+<head>
+<meta http-equiv="Content-Type" content="text/html; charset=UTF-8" />
+<meta http-equiv="Content-Script-Type" content="text/javascript" />
+<meta http-equiv="Content-Style-Type" content="text/css" />
+<title>GDO | 新規登録 | GDOクラブ会員</title>
+<meta name="keywords" content="" />
+<meta name="description" content="" />
+<!-- common stylesheet -->
+<link type="text/css" rel="stylesheet" href="/resource/css/import_resource.css" media="all" />
+<!-- individual stylesheet -->
+<link type="text/css" rel="stylesheet" href="/resource/css/root.css" media="all" />
+<!-- preload javascript -->
+<script type="text/javascript" src="/resource/scripts/jquery.js"></script>
+<SCRIPT language="JavaScript">
+     <!--
+     sent = false;
+     function send_check(){
+        if (sent) {
+            return false;
+        }
+        sent = true;
+        return true;
+     }
+     //-->
+     </SCRIPT>
+<style type="text/css"> 
+table.center { 
+	margin:auto; 
+} 
+</style>
+</head>
+<body>
+<div id="res_header" class="res_simple">
+<div id="res_headbody">
+<div class="ci"><img src="/resource/images/headfoot/header/ci_small.gif" alt="GOLF DIGEST ONLINE ゴルフダイジェスト・オンライン" width="84" height="31" /></div>
+<div class="utility"><a href="http://faq.golfdigest.co.jp/faq_list.html?page=1&category=210000" target="_blank">ヘルプ</a></div>
+<!-- /#res_headbody --></div>
+<!-- /#res_header --></div>
+<div id="str_container">
+<div id="str_center">
+<h1 id="ttl_gdoclub_addmember"><span class="ttl_substitution"><span>GDOクラブ会員 新規登録</span></span></h1>
+<ul id="step_view_area"><!--
+--><li><img src="/resource/images/root/bg_010_step1_def.gif" alt="STEP 1 メールアドレス入力" width="158" height="52" /></li><!--
+--><li><img src="/resource/images/root/bg_010_check_def.gif" alt="チェック メール確認" width="158" height="52" /></li><!--
+--><li><img src="/resource/images/root/bg_010_step2_def.gif" alt="STEP 2 ログインID 取得・登録情報入力" width="158" height="52" /></li><!--
+--><li><img src="/resource/images/root/bg_010_step3_cur.gif" alt="STEP 3 登録情報確認" width="158" height="52" /></li><!--
+--><li><img src="/resource/images/root/bg_010_step4_def.gif" alt="STEP 4 GDOクラブ会員登録完了" width="158" height="52" /></li><!--
+--></ul>
+<h2>登録情報確認</h2>
+<div class="mb10">
+<form action="/usr/regist_attestation.php?rtype=complete" method="post"  onSubmit="return send_check()"  style="float: right; margin-top: -10px;">
+<input type="image" src="/resource/images/root/btn_add2.gif" alt="登録する" width="121" height="42" class="rollover" />
+<input type="hidden" name="qEMail" value="crawlingtest1000@gmail.com">
+<input type="hidden" name="qReEmail" value="crawlingtest1000@gmail.com">
+<input type="hidden" name="qELoginNm" value="crawlingtest1000@gmail.com">
+<input type="hidden" name="qEPasswd" value="12345678">
+<input type="hidden" name="qERePasswd" value="12345678">
+<input type="hidden" name="qEName" value="微微">
+<input type="hidden" name="qEName2" value="太郎">
+<input type="hidden" name="qEKana" value="びび">
+<input type="hidden" name="qEKana2" value="たろう">
+<input type="hidden" name="qESeibetsu" value="1">
+<input type="hidden" name="qEBirthday_1" value="2000">
+<input type="hidden" name="qEBirthday_2" value="1">
+<input type="hidden" name="qEBirthday_3" value="1">
+<input type="hidden" name="qEZip" value="160">
+<input type="hidden" name="qEZip2" value="0000">
+<input type="hidden" name="qEPref" value="東京都">
+<input type="hidden" name="qECity" value="新宿区">
+<input type="hidden" name="qEAddr" value="西新宿1-1">
+<input type="hidden" name="qETatemono" value="Aビル">
+<input type="hidden" name="qETel" value="0312345678">
+<input type="hidden" name="qEMbTel" value="09012345678">
+<input type="hidden" name="qEMbMail" value="">
+<input type="hidden" name="qEOptDm[]" value="興味分野の情報をダイレクトメール（郵送）で受け取る">
+<input type="hidden" name="qEMail" value="crawlingtest1000@gmail.com">
+<input type="hidden" name="qReEmail" value="crawlingtest1000@gmail.com">
+<input type="hidden" name="qEBirthday" value="">
+<input type="hidden" name="qUPRM4" value="300万円以上 - 400万円未満">
+<input type="hidden" name="qUPRM1[]" value="ゴルフ情報全般">
+<input type="hidden" name="qUPRM1[]" value="ゴルフ情報（ギア・アクセサリ）">
+<input type="hidden" name="qUPRM1[]" value="ゴルフ情報（ファッション）">
+<input type="hidden" name="qUPRM2" value="">
+<input type="hidden" name="qEMailMagaIDValue1" value="GDOゴルフ場予約情報">
+<input type="hidden" name="qEMailMagaID1" value="GDOゴルフ場予約情報">
+<input type="hidden" name="qEMailMagaMailForm1" value="1">
+<input type="hidden" name="qEMailMagaStatusID1" value="GDOゴルフ場予約情報">
+<input type="hidden" name="qEMailMagaStatusForm1" value="1">
+<input type="hidden" name="qEMailMagaIDValue2" value="">
+<input type="hidden" name="qEMailMagaID2" value="">
+<input type="hidden" name="qEMailMagaMailForm2" value="0">
+<input type="hidden" name="qEMailMagaStatusID2" value="">
+<input type="hidden" name="qEMailMagaStatusForm2" value="">
+<input type="hidden" name="qEMailMagaIDValue3" value="GDOゴルフショップ情報 （新商品／クーポン／お得情報など）">
+<input type="hidden" name="qEMailMagaID3" value="GDOゴルフショップ情報 （新商品／クーポン／お得情報など）">
+<input type="hidden" name="qEMailMagaMailForm3" value="1">
+<input type="hidden" name="qEMailMagaStatusID3" value="GDOゴルフショップ情報 （新商品／クーポン／お得情報など）">
+<input type="hidden" name="qEMailMagaStatusForm3" value="1">
+<input type="hidden" name="qEMailMagaIDValue5" value="GDOゴルフニュース">
+<input type="hidden" name="qEMailMagaID5" value="GDOゴルフニュース">
+<input type="hidden" name="qEMailMagaMailForm5" value="1">
+<input type="hidden" name="qEMailMagaStatusID5" value="GDOゴルフニュース">
+<input type="hidden" name="qEMailMagaStatusForm5" value="1">
+<input type="hidden" name="qEMailMagaIDValue6" value="">
+<input type="hidden" name="qEMailMagaID6" value="">
+<input type="hidden" name="qEMailMagaMailForm6" value="0">
+<input type="hidden" name="qEMailMagaStatusID6" value="">
+<input type="hidden" name="qEMailMagaStatusForm6" value="">
+<input type="hidden" name="qEMailMagaIDValue7" value="GDOゴルフスタイル">
+<input type="hidden" name="qEMailMagaID7" value="GDOゴルフスタイル">
+<input type="hidden" name="qEMailMagaMailForm7" value="1">
+<input type="hidden" name="qEMailMagaStatusID7" value="GDOゴルフスタイル">
+<input type="hidden" name="qEMailMagaStatusForm7" value="1">
+<input type="hidden" name="qEMailMagaIDValue8" value="興味分野の情報をE メールで受け取る">
+<input type="hidden" name="qEMailMagaID8" value="興味分野の情報をE メールで受け取る">
+<input type="hidden" name="qEMailMagaMailForm8" value="2">
+<input type="hidden" name="qEMailMagaStatusID8" value="興味分野の情報をE メールで受け取る">
+<input type="hidden" name="qEMailMagaStatusForm8" value="1">
+<input type="hidden" name="qEMailMagaIDValue9" value="GDOスコアアップ">
+<input type="hidden" name="qEMailMagaID9" value="GDOスコアアップ">
+<input type="hidden" name="qEMailMagaMailForm9" value="1">
+<input type="hidden" name="qEMailMagaStatusID9" value="GDOスコアアップ">
+<input type="hidden" name="qEMailMagaStatusForm9" value="1">
+<input type="hidden" name="qEMailMagaIDValue10" value="GDOからのお得な情報">
+<input type="hidden" name="qEMailMagaID10" value="GDOからのお得な情報">
+<input type="hidden" name="qEMailMagaMailForm10" value="1">
+<input type="hidden" name="qEMailMagaStatusID10" value="GDOからのお得な情報">
+<input type="hidden" name="qEMailMagaStatusForm10" value="1">
+<input type="hidden" name="qMode" value="index_conf">
+<input type="hidden" name="qBack" value="1">
+<input type="hidden" name="qArmrid" value="VD7VwSC_EvU_">
+<input type="hidden" name="qSiteId" value="RFJlqsCACK7_">
+<input type="hidden" name="qAllianceId" value="">
+<input type="hidden" name="qAllianceUsrCd" value="">
+<input type="hidden" name="qUrl" value="https%3A%2F%2Fmyp.golfdigest.co.jp%2Fmyp%2Fmygdotop.aspx">
+<input type="hidden" name="qCrossCode" value="2a467cad717d45e8188c3a67a817b2eb">
+
+</form>
+<p>
+下記内容で登録します。<br />
+よろしければ、【登録する】ボタンを押してください。内容を修正したい場合【戻る】ボタンを押してください。
+</p>
+</div>
+<table border="1" cellspacing="0" summary="" class="tbl form_tbl_layout">
+<col width="186" />
+<col width="582" />
+<tbody>
+<tr>
+<td colspan="2"><div class="fw_bold_strong">ログインID情報</div></td>
+</tr>
+<tr>
+<th>Eメールアドレス</th>
+<td>
+<div>crawlingtest1000@gmail.com</div>
+</td>
+</tr>
+<tr>
+<th>ログインID</th>
+<td>
+<div>crawlingtest1000@gmail.com</div>
+</td>
+</tr>
+<tr>
+<th>パスワード</th>
+<td>
+<div>********</div>
+</td>
+</tr>
+<tr>
+<td colspan="2"><div class="fw_bold_strong">会員情報</div></td>
+</tr>
+<tr>
+<th>お名前</th>
+<td>
+<div>微微 太郎</div>
+</td>
+</tr>
+<tr>
+<th>ふりがな</th>
+<td>
+<div>びび たろう</div>
+</td>
+</tr>
+<tr>
+<th>性別</th>
+<td>
+<div>男性</div>
+</td>
+</tr>
+<tr>
+<th>生年月日</th>
+<td>
+<div>2000年1月1日</div>
+</td>
+</tr>
+<tr>
+<th>郵便番号</th>
+<td>
+<div>〒160 - 0000</div>
+</td>
+</tr>
+<tr>
+<th>都道府県</th>
+<td>
+<div>東京都</div>
+</td>
+</tr>
+<tr>
+<th>市区町村</th>
+<td>
+<div>新宿区</div>
+</td>
+</tr>
+<tr>
+<th>それ以降の住所</th>
+<td>
+<div>西新宿1-1</div>
+</td>
+</tr>
+<tr>
+<th>建物名・部屋番号</th>
+<td>
+<div>Aビル</div>
+</td>
+</tr>
+<tr>
+<th>電話番号</th>
+<td>
+<div>0312345678</div>
+</td>
+</tr>
+<tr>
+<th>携帯電話番号</th>
+<td>
+<div>09012345678</div>
+</td>
+</tr>
+<tr>
+<th>世帯年収</th>
+<td>
+<div>300万円以上 - 400万円未満</div>
+</td>
+</tr>
+<tr>
+<td colspan="2">
+<div class="fw_bold_strong">GDO　メールマガジン配信サービス（無料）</div>
+</td>
+</tr>
+<tr>
+<th rowspan="2">メルマガ選択</th>
+<td>
+<div class="mb10">
+<div>PCメルマガ</div>
+</div>
+<table border="0" cellspacing="0" summary="" class="form_tbl_layout_inner">
+<!--
+<tr>
+<td>GDOゴルフ場予約情報</td>
+<td>HTMLメールで受け取る</td>
+</tr>
+<tr>
+<td>GDOゴルフショップ情報 （新商品／クーポン／お得情報など）</td>
+<td>HTMLメールで受け取る</td>
+</tr>
+<tr>
+<td>GDOゴルフニュース</td>
+<td>HTMLメールで受け取る</td>
+</tr>
+<tr>
+<td>GDOゴルフスタイル</td>
+<td>HTMLメールで受け取る</td>
+</tr>
+-->
+<tr><td>・GDOゴルフ場予約情報</td><td>HTMLメールで受け取る</td></tr>
+<tr><td>・GDOゴルフショップ情報 （新商品／クーポン／お得情報など）</td><td>HTMLメールで受け取る</td></tr>
+<tr><td>・GDOゴルフニュース</td><td>HTMLメールで受け取る</td></tr>
+<tr><td>・GDOゴルフスタイル</td><td>HTMLメールで受け取る</td></tr>
+<tr><td>・GDOスコアアップ</td><td>HTMLメールで受け取る</td></tr>
+<tr><td>・GDOからのお得な情報</td><td>HTMLメールで受け取る</td></tr>
+</table>
+</td>
+</tr>
+<tr>
+<td>
+<div class="mb10">ケータイ版メルマガ</div>
+<table border="0" cellspacing="0" summary="" class="form_tbl_layout_inner">
+<!--
+<tr>
+<td></td>
+<td></td>
+</tr>
+<tr>
+<td></td>
+<td></td>
+</tr>
+<tr>
+<td></td>
+<td></td>
+</tr>
+-->
+
+</table>
+</td>
+</tr>
+<tr>
+<th>携帯メールアドレス</th>
+<td>
+<div></div>
+</td>
+</tr>
+<tr>
+<td colspan="2">
+<div class="fw_bold_strong">お得情報提供サービス（無料）【不定期】</div>
+</td>
+</tr>
+<tr>
+<th>興味分野購読</th>
+<td>
+<div>興味分野の情報をE メールで受け取る</div>
+<div>興味分野の情報をダイレクトメール（郵送）で受け取る</div>
+</td>
+</tr>
+<tr>
+<th>興味分野<br />（複数選択可）</th>
+<td>
+ゴルフ情報全般<br>ゴルフ情報（ギア・アクセサリ）<br>ゴルフ情報（ファッション）
+</td>
+</tr>
+<!--
+<tr>
+<td colspan="2">
+<span class="fw_bold_strong">会員登録のきっかけ</span><span class="ml20"></span>
+</td>
+</tr>
+-->
+</tbody>
+</table>
+<div class="form_submit_btn">
+<table class="center">
+<tr>
+<td>
+<form method="post" action="/usr/regist_attestation.php">
+<input type="hidden" name="qEMail" value="crawlingtest1000@gmail.com">
+<input type="hidden" name="qReEmail" value="crawlingtest1000@gmail.com">
+<input type="hidden" name="qELoginNm" value="crawlingtest1000@gmail.com">
+<input type="hidden" name="qEPasswd" value="12345678">
+<input type="hidden" name="qERePasswd" value="12345678">
+<input type="hidden" name="qEName" value="微微">
+<input type="hidden" name="qEName2" value="太郎">
+<input type="hidden" name="qEKana" value="びび">
+<input type="hidden" name="qEKana2" value="たろう">
+<input type="hidden" name="qESeibetsu" value="1">
+<input type="hidden" name="qEBirthday_1" value="2000">
+<input type="hidden" name="qEBirthday_2" value="1">
+<input type="hidden" name="qEBirthday_3" value="1">
+<input type="hidden" name="qEZip" value="160">
+<input type="hidden" name="qEZip2" value="0000">
+<input type="hidden" name="qEPref" value="東京都">
+<input type="hidden" name="qECity" value="新宿区">
+<input type="hidden" name="qEAddr" value="西新宿1-1">
+<input type="hidden" name="qETatemono" value="Aビル">
+<input type="hidden" name="qETel" value="0312345678">
+<input type="hidden" name="qEMbTel" value="09012345678">
+<input type="hidden" name="qEMbMail" value="">
+<input type="hidden" name="qEOptDm[]" value="興味分野の情報をダイレクトメール（郵送）で受け取る">
+<input type="hidden" name="qEMail" value="crawlingtest1000@gmail.com">
+<input type="hidden" name="qReEmail" value="crawlingtest1000@gmail.com">
+<input type="hidden" name="qEBirthday" value="">
+<input type="hidden" name="qUPRM4" value="300万円以上 - 400万円未満">
+<input type="hidden" name="qUPRM1[]" value="ゴルフ情報全般">
+<input type="hidden" name="qUPRM1[]" value="ゴルフ情報（ギア・アクセサリ）">
+<input type="hidden" name="qUPRM1[]" value="ゴルフ情報（ファッション）">
+<input type="hidden" name="qUPRM2" value="">
+<input type="hidden" name="qEMailMagaIDValue1" value="GDOゴルフ場予約情報">
+<input type="hidden" name="qEMailMagaID1" value="GDOゴルフ場予約情報">
+<input type="hidden" name="qEMailMagaMailForm1" value="1">
+<input type="hidden" name="qEMailMagaStatusID1" value="GDOゴルフ場予約情報">
+<input type="hidden" name="qEMailMagaStatusForm1" value="1">
+<input type="hidden" name="qEMailMagaIDValue2" value="">
+<input type="hidden" name="qEMailMagaID2" value="">
+<input type="hidden" name="qEMailMagaMailForm2" value="0">
+<input type="hidden" name="qEMailMagaStatusID2" value="">
+<input type="hidden" name="qEMailMagaStatusForm2" value="">
+<input type="hidden" name="qEMailMagaIDValue3" value="GDOゴルフショップ情報 （新商品／クーポン／お得情報など）">
+<input type="hidden" name="qEMailMagaID3" value="GDOゴルフショップ情報 （新商品／クーポン／お得情報など）">
+<input type="hidden" name="qEMailMagaMailForm3" value="1">
+<input type="hidden" name="qEMailMagaStatusID3" value="GDOゴルフショップ情報 （新商品／クーポン／お得情報など）">
+<input type="hidden" name="qEMailMagaStatusForm3" value="1">
+<input type="hidden" name="qEMailMagaIDValue5" value="GDOゴルフニュース">
+<input type="hidden" name="qEMailMagaID5" value="GDOゴルフニュース">
+<input type="hidden" name="qEMailMagaMailForm5" value="1">
+<input type="hidden" name="qEMailMagaStatusID5" value="GDOゴルフニュース">
+<input type="hidden" name="qEMailMagaStatusForm5" value="1">
+<input type="hidden" name="qEMailMagaIDValue6" value="">
+<input type="hidden" name="qEMailMagaID6" value="">
+<input type="hidden" name="qEMailMagaMailForm6" value="0">
+<input type="hidden" name="qEMailMagaStatusID6" value="">
+<input type="hidden" name="qEMailMagaStatusForm6" value="">
+<input type="hidden" name="qEMailMagaIDValue7" value="GDOゴルフスタイル">
+<input type="hidden" name="qEMailMagaID7" value="GDOゴルフスタイル">
+<input type="hidden" name="qEMailMagaMailForm7" value="1">
+<input type="hidden" name="qEMailMagaStatusID7" value="GDOゴルフスタイル">
+<input type="hidden" name="qEMailMagaStatusForm7" value="1">
+<input type="hidden" name="qEMailMagaIDValue8" value="興味分野の情報をE メールで受け取る">
+<input type="hidden" name="qEMailMagaID8" value="興味分野の情報をE メールで受け取る">
+<input type="hidden" name="qEMailMagaMailForm8" value="2">
+<input type="hidden" name="qEMailMagaStatusID8" value="興味分野の情報をE メールで受け取る">
+<input type="hidden" name="qEMailMagaStatusForm8" value="1">
+<input type="hidden" name="qEMailMagaIDValue9" value="GDOスコアアップ">
+<input type="hidden" name="qEMailMagaID9" value="GDOスコアアップ">
+<input type="hidden" name="qEMailMagaMailForm9" value="1">
+<input type="hidden" name="qEMailMagaStatusID9" value="GDOスコアアップ">
+<input type="hidden" name="qEMailMagaStatusForm9" value="1">
+<input type="hidden" name="qEMailMagaIDValue10" value="GDOからのお得な情報">
+<input type="hidden" name="qEMailMagaID10" value="GDOからのお得な情報">
+<input type="hidden" name="qEMailMagaMailForm10" value="1">
+<input type="hidden" name="qEMailMagaStatusID10" value="GDOからのお得な情報">
+<input type="hidden" name="qEMailMagaStatusForm10" value="1">
+<input type="hidden" name="qMode" value="index_conf">
+<input type="hidden" name="qBack" value="1">
+<input type="hidden" name="qArmrid" value="VD7VwSC_EvU_">
+<input type="hidden" name="qSiteId" value="RFJlqsCACK7_">
+<input type="hidden" name="qAllianceId" value="">
+<input type="hidden" name="qAllianceUsrCd" value="">
+<input type="hidden" name="qUrl" value="https%3A%2F%2Fmyp.golfdigest.co.jp%2Fmyp%2Fmygdotop.aspx">
+<input type="hidden" name="qMode" value="">
+<input type="hidden" name="qBack" value="1">
+
+<input type="image" src="/resource/images/root/btn_back.gif" alt="戻る" width="152" height="42" class="rollover mr30" />
+</form>
+</td>
+<td>
+<form action="/usr/regist_attestation.php?rtype=complete" method="post"  onSubmit="return send_check()" >
+<input type="image" src="/resource/images/root/btn_add.gif" alt="登録する" width="237" height="42" class="rollover" />
+<input type="hidden" name="qEMail" value="crawlingtest1000@gmail.com">
+<input type="hidden" name="qReEmail" value="crawlingtest1000@gmail.com">
+<input type="hidden" name="qELoginNm" value="crawlingtest1000@gmail.com">
+<input type="hidden" name="qEPasswd" value="12345678">
+<input type="hidden" name="qERePasswd" value="12345678">
+<input type="hidden" name="qEName" value="微微">
+<input type="hidden" name="qEName2" value="太郎">
+<input type="hidden" name="qEKana" value="びび">
+<input type="hidden" name="qEKana2" value="たろう">
+<input type="hidden" name="qESeibetsu" value="1">
+<input type="hidden" name="qEBirthday_1" value="2000">
+<input type="hidden" name="qEBirthday_2" value="1">
+<input type="hidden" name="qEBirthday_3" value="1">
+<input type="hidden" name="qEZip" value="160">
+<input type="hidden" name="qEZip2" value="0000">
+<input type="hidden" name="qEPref" value="東京都">
+<input type="hidden" name="qECity" value="新宿区">
+<input type="hidden" name="qEAddr" value="西新宿1-1">
+<input type="hidden" name="qETatemono" value="Aビル">
+<input type="hidden" name="qETel" value="0312345678">
+<input type="hidden" name="qEMbTel" value="09012345678">
+<input type="hidden" name="qEMbMail" value="">
+<input type="hidden" name="qEOptDm[]" value="興味分野の情報をダイレクトメール（郵送）で受け取る">
+<input type="hidden" name="qEMail" value="crawlingtest1000@gmail.com">
+<input type="hidden" name="qReEmail" value="crawlingtest1000@gmail.com">
+<input type="hidden" name="qEBirthday" value="">
+<input type="hidden" name="qUPRM4" value="300万円以上 - 400万円未満">
+<input type="hidden" name="qUPRM1[]" value="ゴルフ情報全般">
+<input type="hidden" name="qUPRM1[]" value="ゴルフ情報（ギア・アクセサリ）">
+<input type="hidden" name="qUPRM1[]" value="ゴルフ情報（ファッション）">
+<input type="hidden" name="qUPRM2" value="">
+<input type="hidden" name="qEMailMagaIDValue1" value="GDOゴルフ場予約情報">
+<input type="hidden" name="qEMailMagaID1" value="GDOゴルフ場予約情報">
+<input type="hidden" name="qEMailMagaMailForm1" value="1">
+<input type="hidden" name="qEMailMagaStatusID1" value="GDOゴルフ場予約情報">
+<input type="hidden" name="qEMailMagaStatusForm1" value="1">
+<input type="hidden" name="qEMailMagaIDValue2" value="">
+<input type="hidden" name="qEMailMagaID2" value="">
+<input type="hidden" name="qEMailMagaMailForm2" value="0">
+<input type="hidden" name="qEMailMagaStatusID2" value="">
+<input type="hidden" name="qEMailMagaStatusForm2" value="">
+<input type="hidden" name="qEMailMagaIDValue3" value="GDOゴルフショップ情報 （新商品／クーポン／お得情報など）">
+<input type="hidden" name="qEMailMagaID3" value="GDOゴルフショップ情報 （新商品／クーポン／お得情報など）">
+<input type="hidden" name="qEMailMagaMailForm3" value="1">
+<input type="hidden" name="qEMailMagaStatusID3" value="GDOゴルフショップ情報 （新商品／クーポン／お得情報など）">
+<input type="hidden" name="qEMailMagaStatusForm3" value="1">
+<input type="hidden" name="qEMailMagaIDValue5" value="GDOゴルフニュース">
+<input type="hidden" name="qEMailMagaID5" value="GDOゴルフニュース">
+<input type="hidden" name="qEMailMagaMailForm5" value="1">
+<input type="hidden" name="qEMailMagaStatusID5" value="GDOゴルフニュース">
+<input type="hidden" name="qEMailMagaStatusForm5" value="1">
+<input type="hidden" name="qEMailMagaIDValue6" value="">
+<input type="hidden" name="qEMailMagaID6" value="">
+<input type="hidden" name="qEMailMagaMailForm6" value="0">
+<input type="hidden" name="qEMailMagaStatusID6" value="">
+<input type="hidden" name="qEMailMagaStatusForm6" value="">
+<input type="hidden" name="qEMailMagaIDValue7" value="GDOゴルフスタイル">
+<input type="hidden" name="qEMailMagaID7" value="GDOゴルフスタイル">
+<input type="hidden" name="qEMailMagaMailForm7" value="1">
+<input type="hidden" name="qEMailMagaStatusID7" value="GDOゴルフスタイル">
+<input type="hidden" name="qEMailMagaStatusForm7" value="1">
+<input type="hidden" name="qEMailMagaIDValue8" value="興味分野の情報をE メールで受け取る">
+<input type="hidden" name="qEMailMagaID8" value="興味分野の情報をE メールで受け取る">
+<input type="hidden" name="qEMailMagaMailForm8" value="2">
+<input type="hidden" name="qEMailMagaStatusID8" value="興味分野の情報をE メールで受け取る">
+<input type="hidden" name="qEMailMagaStatusForm8" value="1">
+<input type="hidden" name="qEMailMagaIDValue9" value="GDOスコアアップ">
+<input type="hidden" name="qEMailMagaID9" value="GDOスコアアップ">
+<input type="hidden" name="qEMailMagaMailForm9" value="1">
+<input type="hidden" name="qEMailMagaStatusID9" value="GDOスコアアップ">
+<input type="hidden" name="qEMailMagaStatusForm9" value="1">
+<input type="hidden" name="qEMailMagaIDValue10" value="GDOからのお得な情報">
+<input type="hidden" name="qEMailMagaID10" value="GDOからのお得な情報">
+<input type="hidden" name="qEMailMagaMailForm10" value="1">
+<input type="hidden" name="qEMailMagaStatusID10" value="GDOからのお得な情報">
+<input type="hidden" name="qEMailMagaStatusForm10" value="1">
+<input type="hidden" name="qMode" value="index_conf">
+<input type="hidden" name="qBack" value="1">
+<input type="hidden" name="qArmrid" value="VD7VwSC_EvU_">
+<input type="hidden" name="qSiteId" value="RFJlqsCACK7_">
+<input type="hidden" name="qAllianceId" value="">
+<input type="hidden" name="qAllianceUsrCd" value="">
+<input type="hidden" name="qUrl" value="https%3A%2F%2Fmyp.golfdigest.co.jp%2Fmyp%2Fmygdotop.aspx">
+<input type="hidden" name="qCrossCode" value="2a467cad717d45e8188c3a67a817b2eb">
+
+</form>
+</td>
+</tr>
+</table>
+</div>
+</div>
+<div id="res_footer">
+<address>Copyright &copy; 2000-2017 Golf Digest Online Inc. All rights reserved.</address>
+<!-- /#res_footer --></div>
+<!-- postload javascript -->
+<script type="text/javascript" src="/resource/scripts/headfoot.js"></script>
+<!-- analyse code -->
+<script type="text/javascript" src="//www.golfdigest.co.jp/rtsrc/uuid.js" charset="utf-8"></script>
+<script type="text/javascript" src="//www.golfdigest.co.jp/rtsrc/set_cookie.js" charset="utf-8"></script>
+
+<script type='text/javascript' src='https://formassist.jp/FormAssist_tag.js?user=gdo&num=20110601205447'></script>
+
+<!-- Google Analytics Start -->
+<script type="text/javascript" src="//www.golfdigest.co.jp/rtsrc/ga_gdo.js" charset="utf-8"></script>
+<!-- Google Analytics End -->
+
+<!-- User Insight PCDF Code Start : golfdigest.co.jp -->
+<script type="text/javascript">
+<!--
+var uilid  = '';
+var uigr_1   = ''; var uigr_2 = ''; var uigr_3 = ''; var uigr_4 = ''; var uigr_5 = '';
+var uigr_6   = ''; var uigr_7 = ''; var uigr_8 = ''; var uigr_9 = ''; var uigr_10 = '';
+// DO NOT ALTER BELOW THIS LINE
+// WITHOUT F.P.C.
+var uiinit   = uiinit || Math.floor(Math.random() * 9000000) + 1000000;
+var uihost   = uihost || (("https:" == document.location.protocol) ? "https://bs." : "http://b03.")+"nakanohito.jp/b1/";
+document.write("<img id='id_shellfish' style='position: absolute' src='"+uihost+"?uisv=3&id=31475&mode=default&h=abda&rand="+uiinit+"&url="+encodeURIComponent(parent.document.URL)+"&ref="+encodeURIComponent(parent.document.referrer)+"&uigr_1="+encodeURIComponent(uigr_1)+"&uigr_2="+encodeURIComponent(uigr_2)+"&uigr_3="+encodeURIComponent(uigr_3)+"&uigr_4="+encodeURIComponent(uigr_4)+"&uigr_5="+encodeURIComponent(uigr_5)+"&uigr_6="+encodeURIComponent(uigr_6)+"&uigr_7="+encodeURIComponent(uigr_7)+"&uigr_8="+encodeURIComponent(uigr_8)+"&uigr_9="+encodeURIComponent(uigr_9)+"&uigr_10="+encodeURIComponent(uigr_10)+"&lv="+uilid+"&sb="+encodeURIComponent(document.title)+"&guid=ON&eflg=1' border='0' width='1' height='1' alt='' />");
+if (typeof document.documentElement.style.maxHeight != "undefined") {
+document.write('<span  style="position: absolute" id="id_bivalves"></span>'); document.write(decodeURI("%3Cscr"+"ipt src='"+uihost+"bivalves.js' charset='utf-8' type='text/javascript'%3E%3C/script%3E")); var uiLimit = 3000, uiInterval = 50, uiTime = 0; var uiLoadedId = setInterval(function(){ if ((typeof(Vesicomyid) != "undefined") && (typeof(Vesicomyid.Bivalves) != "undefined") && (typeof(Vesicomyid.Bivalves.Loaded) == "function") ) { clearInterval(uiLoadedId); try { var lb = new Vesicomyid.Bivalves(31475, uiinit); lb.host = uihost; lb.uisv = 3; lb.init(); } catch (err) { } } else if ((uiTime += uiInterval) > uiLimit) { clearInterval(uiLoadedId); } }, uiInterval);
+}
+//-->
+</script>
+<!-- User Insight PCDF Code End : golfdigest.co.jp -->
+
+
+
+
+<!-- Google Tag Manager -->
+<noscript><iframe src="//www.googletagmanager.com/ns.html?id=GTM-4XSC"
+height="0" width="0" style="display:none;visibility:hidden"></iframe></noscript>
+<script>(function(w,d,s,l,i){w[l]=w[l]||[];w[l].push({'gtm.start':
+new Date().getTime(),event:'gtm.js'});var f=d.getElementsByTagName(s)[0],
+j=d.createElement(s),dl=l!='dataLayer'?'&l='+l:'';j.async=true;j.src=
+'//www.googletagmanager.com/gtm.js?id='+i+dl;f.parentNode.insertBefore(j,f);
+})(window,document,'script','dataLayerGDOall','GTM-4XSC');</script>
+<!-- End Google Tag Manager -->
+
+<!-- social tracking -->
+<script>
+var _gaq = _gaq || [];
+_gaq.push(['AllTracker._setAccount','UA-30272087-1']);
+_gaq.push(['AllTracker._setDomainName','golfdigest.co.jp']);
+_gaq.push(['AllTracker._setVisitorCookieTimeout',15552000000]);
+_gaq.push(['AllTracker._trackPageview', '/virtualPV/normal/03confirm']);
+</script>
+<!-- //social tracking -->
+
+
+</body>
+</html>

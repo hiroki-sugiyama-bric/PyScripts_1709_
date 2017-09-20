@@ -1,0 +1,2479 @@
+GET https://r.gnavi.co.jp/g064213/?date=20170307 HTTP/1.1
+Host: r.gnavi.co.jp
+User-Agent: Mozilla/5.0 (Windows NT 6.1; WOW64; rv:51.0) Gecko/20100101 Firefox/51.0
+Accept: text/html,application/xhtml+xml,application/xml;q=0.9,*/*;q=0.8
+Accept-Language: ja,en-US;q=0.7,en;q=0.3
+Referer: https://r.gnavi.co.jp/area/tokyo/party/?rd=20170307&nord=&rh=&gcnth=&pprl=&pprh=10000&sv[]=&ptype=T&ndx=t&
+Cookie: gt=GT0ccdf8f0d000ac1e4ac705Fp-AhqR8J71AUizv6M3JQg; gUser=000ce291b63001ac1e4a0f15UCtJ8YUCX_1-BBtgdX0EUQ; gcom=%7B%22login_type%22%3A1%2C%22guser_type%22%3A0%7D; GHistory=g048925%3A110%3A1486705396%2Cgdup021%3A110%3A1486701006%2Cgc9e603%3A110%3A1486695530%2Ca742608%3A110%3A1486695248%2Cb205003%3A110%3A1486695028%2Cgdzh702%3A110%3A1486694588%2Cgap7018%3A110%3A1486694535; optimizelyEndUserId=oeu1486694537825r0.6543023241441651; _ga=GA1.3.339950692.1486694539; _vz=viz_588176f232e06; GU=25ecea892fbe30479f97236d2c2c4532; ds=4659c70985286d7a628429d36a44f53b9bf0e901c98d2676265b0c60b5e8c1c1; s_sess=%20sc_prop1%3Drs_search%3B%20cpnt_referer%3D%3B; _dc_gtm_UA-43329175-1=1; rsrchssn=%7B%22dptr%22%3A%2266%22%2C%22BS%22%3A%22b%22%7D; rs_sort_order=20170307140141; _dc_gtm_UA-43329175-2=1; optimizelySegments=%7B%221891520419%22%3A%22search%22%2C%221892920925%22%3A%22referral%22%2C%221906460323%22%3A%22false%22%2C%221906820382%22%3A%22none%22%2C%221908320418%22%3A%22ff%22%2C%221911230413%22%3A%22false%22%2C%221914160317%22%3A%22ff%22%2C%221914170296%22%3A%22none%22%7D; optimizelyBuckets=%7B%7D; optimizelyPendingLogEvents=%5B%5D; sc_data_click=%22g064213%22%3A%7B%22rnk%22%3A%22RNK010%22%2C%22sp%22%3A1%2C%22ouen%22%3A1%2C%22tk%22%3A1%2C%22pr%22%3A0%2C%22mc%22%3A0%2C%22tkc%22%3A12%2C%22prc%22%3A0%2C%22thumbnail%22%3A1%2C%22bridal%22%3A0%2C%22yuino%22%3A0%2C%22secretory%22%3A0%7D; shop_cassette=rs_party,2:todetail_shopname
+Connection: close
+Upgrade-Insecure-Requests: 1
+
+
+HTTP/1.1 200 OK
+Date: Tue, 07 Mar 2017 05:02:09 GMT
+Server: Apache
+Cache-Control: no-store, no-cache, must-revalidate
+Pragma: no-cache
+Vary: User-Agent
+Set-Cookie: ds=4659c70985286d7a628429d36a44f53b9bf0e901c98d2676265b0c60b5e8c1c1; expires=Wed, 08-Mar-2017 05:02:09 GMT; path=/; domain=gnavi.co.jp
+Set-Cookie: gloginsession=deleted; expires=Thu, 01-Jan-1970 00:00:01 GMT; path=/; domain=gnavi.co.jp
+Set-Cookie: gcom=%7B%22login_type%22%3A1%2C%22guser_type%22%3A0%7D; expires=Tue, 01-May-2018 05:02:09 GMT; path=/; domain=gnavi.co.jp
+Set-Cookie: gt=GT0ccdf8f0d000ac1e4ac705Fp-AhqR8J71AUizv6M3JQg; expires=Tue, 01-May-2018 05:02:09 GMT; path=/; domain=gnavi.co.jp
+Set-Cookie: gUser=000ce291b63001ac1e4a0f15UCtJ8YUCX_1-BBtgdX0EUQ; expires=Tue, 01-May-2018 05:02:09 GMT; path=/; domain=gnavi.co.jp
+Set-Cookie: GHistory=g064213%3A110%3A1488862929%2Cg048925%3A110%3A1486705396%2Cgdup021%3A110%3A1486701006%2Cgc9e603%3A110%3A1486695530%2Ca742608%3A110%3A1486695248%2Cb205003%3A110%3A1486695028%2Cgdzh702%3A110%3A1486694588%2Cgap7018%3A110%3A1486694535; expires=Mon, 05-Jun-2017 05:02:09 GMT; path=/; domain=.gnavi.co.jp
+Connection: close
+Content-Type: text/html
+Content-Length: 205248
+
+<!DOCTYPE html>
+<html lang="ja">
+<head>
+<meta charset="UTF-8" />
+
+<title>SNAPPER＆GROUPER(スナッパーアンドグルーパー)（銀座/イタリアン（イタリア料理）） - ぐるなび</title>
+<meta name="description" content="SNAPPER＆GROUPER（銀座/イタリアン（イタリア料理））の店舗情報をご紹介。お店のウリキーワード：ソファ 個室 誕生日など。ぐるなびなら店舗の詳細なメニューの情報やクーポン情報など、「SNAPPER＆GROUPER」の情報が満載です。宴会・記念日・送別会・歓迎会
+銀座・大注目！！コロナもスパークリングも3時間飲み放題　
+ボリューム満点・全8品　￥4,000
+ラテンリゾート空間【完全個室】最大23名様" />
+<meta name="keywords" content="地下鉄銀座駅,銀座　個室ダイニング,ソファ 個室 誕生日,合コン 女子会 銀座,飲み放題 メキシコ,ぐるなび" />
+<link rel="canonical" href="https://r.gnavi.co.jp/g064213/" />
+<link rel="alternate" href="android-app://jp.co.gnavi.activity/gnavi/r.gnavi.co.jp/g064213?ref=gs" />
+<meta property="og:title" content="ぐるなび - SNAPPER＆GROUPER(スナッパーアンドグルーパー) （銀座/イタリアン（イタリア料理））" />
+<meta property="og:description" content="SNAPPER＆GROUPER（銀座/イタリアン（イタリア料理））の店舗情報をご紹介。お店のウリキーワード：ソファ 個室 誕生日など。ぐるなびなら店舗の詳細なメニューの情報やクーポン情報など、「SNAPPER＆GROUPER」の情報が満載です。宴会・記念日・送別会・歓迎会
+銀座・大注目！！コロナもスパークリングも3時間飲み放題　
+ボリューム満点・全8品　￥4,000
+ラテンリゾート空間【完全個室】最大23名様" />
+<link rel="amphtml" href="https://amp.gnavi.co.jp/r/g064213/">
+
+
+<meta property="og:url" content="http://r.gnavi.co.jp/g064213/" />
+<meta property="og:image" content="http://uds.gnst.jp/rest/img/c9z9ef2r0000/t_0n5k.jpg" />
+<meta property="og:site_name" content="ぐるなび" />
+<meta property="fb:app_id" content="183141018390835" />
+<link rel="index" href="https://r.gnavi.co.jp/g064213/" />
+<link rel="alternate" media="handheld" href="http://mobile.gnavi.co.jp/g064213/" />
+<link rel="dns-prefetch" href="http://my.gnavi.co.jp/" />
+    <link rel="stylesheet" href="//c-cpnt.gnst.jp/header/css/header-module.min.css?1462955561" />
+<link rel="stylesheet" href="//c-r.gnst.jp/r/cm.css?revision=1488760749" />
+<link rel="stylesheet" href="//c-r.gnst.jp/r/x2.css?revision=1488760749" />
+        <link rel="stylesheet" href="//uds.gnst.jp/rest/etc/c9z9ef2r0000/p.css?t=1488744828" title="white" />
+    <link rel="hub" href="http://pubsubhubbub.appspot.com" />
+<link rel="alternate" type="application/rss+xml" title="RSS 2.0" href="http://r.gnavi.co.jp/rss/shop/g064213/rss.xml" />
+
+<!--headタグオプション-->
+
+<script src="//cdn.optimizely.com/js/1889410424.js"></script><script>var GNAVI;(function(GNAVI) {GNAVI.Config = GNAVI.Config || {};GNAVI.Config.Flags = {"isBot":false};GNAVI.Config.Shop = {"isInquiry":true,"inquiryUrl":"https://r.gnavi.co.jp/plan/g064213/plan-reserve/inquiry/input/form/","inquiryRedirectParamName":"launch_inq_form","isPlanReserve":true};GNAVI.Config.Social = {"uri":"","title":""};})(GNAVI || (GNAVI = {}));</script>
+
+</head>
+
+
+
+    
+
+
+
+<body id="top" class="st4  gx300 p-13 l-2101 m-2105 s-2105 dgm-0061" data-r='{"id":"c9z9ef2r0000","sid":"g064213","gx":"gx300","p":"13","l":2101,"m":2105,"s":2105,"dgm":"0061"}'  data-name='SNAPPER＆GROUPER '  data-pageid='top'   >
+
+<div id="page">
+
+<!-- DEVELOP -->
+<!--#include file="debug.txt" -->
+<!-- /DEVELOP -->
+
+<nav role="navigation">
+    <div id="gn_ghdr" class="gn_ghdrR nav">
+        <div id="gn_headerN">
+            <div id="gn_header-unit" class="cx">
+                <div id="gn_header-unit-link">
+                    <ul class="cx">
+                                                <li id="gn_header-unit-genre-sp" class="first"><a href="#" class="gdm"><span>特集</span></a>
+                            <div id="gn_header-unit-sp-inner" class="box-shadow">
+                                <p id="gn_header-unit-sp-tit">銀座・有楽町・築地の特集</p>
+                                <ul>
+                                                                                                            <li class="first cx">
+                                                                                <p class="gn_header-unit-sp-link"><a href="https://r.gnavi.co.jp/sp/search/kansougeiarea/z-AREAL2101/c-5/">銀座・有楽町・築地で歓送迎会におすすめのお店</a></p>
+                                        <p class="gn_header-unit-sp-lead">送別会・歓迎会のお店は、ネット予約がおトクで便利！</p>
+                                    </li>
+                                                                                                            <li>
+                                                                                <p class="gn_header-unit-sp-link"><a href="https://r.gnavi.co.jp/sp/search/lovers/z-PREF13/t-SPG110130802/al-AREAL2101/c-4/">恋するふたりのとっておきディナー</a></p>
+                                        <p class="gn_header-unit-sp-lead">【大人気！】バレンタイン・ホワイトデーデートにおすすめのお店をご紹介♪</p>
+                                    </li>
+                                                                                                            <li>
+                                                                                <p class="gn_header-unit-sp-link"><a href="https://r.gnavi.co.jp/sp/search/theme/z-PREF13/t-SPG110130090/al-AREAL2101/c-2/">合コンにぴったりなお店</a></p>
+                                        <p class="gn_header-unit-sp-lead">合コン・女子会など、各シーンにぴったりのお店をご紹介します。</p>
+                                    </li>
+                                                                                                            <li>
+                                                                                <p class="gn_header-unit-sp-link"><a href="https://r.gnavi.co.jp/sp/search/quick/z-PREF13/al-AREAL2101/c-6/">銀座・有楽町・築地の個室・接待・デートにおすすめのお店</a></p>
+                                        <p class="gn_header-unit-sp-lead">接待やデートなどのシーンに最適な個室のあるお店をご紹介します。</p>
+                                    </li>
+                                                                                                            <li class="last cx">
+                                                                                <p class="gn_header-unit-sp-link"><a href="https://r.gnavi.co.jp/sp/search/quick/z-PREF13/al-AREAL2101/c-12/">銀座・有楽町・築地の大切な日を大切な人と過ごせるお店</a></p>
+                                        <p class="gn_header-unit-sp-lead">誕生日や記念日などのシーンに最適なお店をご紹介します。</p>
+                                    </li>
+                                                                    </ul>
+                            </div>
+                        </li>
+                                                <li id="gn_header-unit-link-list" class="ellipsis">
+                            <ol itemscope itemtype="http://schema.org/BreadcrumbList">
+                                                                                                                                    <li itemprop="itemListElement" itemscope itemtype="http://schema.org/ListItem"><a href="http://r.gnavi.co.jp/area/aream2105/" itemprop="item"><span itemprop="name">銀座</span></a><meta itemprop="position" content="1"></li>
+                                                                                                                                    <li itemprop="itemListElement" itemscope itemtype="http://schema.org/ListItem"><a href="http://r.gnavi.co.jp/area/aream2105/western/rs/" itemprop="item"><span itemprop="name">銀座&times;イタリアン・フレンチ</span></a><meta itemprop="position" content="2"></li>
+                                                                                                    <li itemprop="itemListElement" itemscope itemtype="http://schema.org/ListItem"><a href="http://r.gnavi.co.jp/area/aream2105/italian/rs/" itemprop="item"><span itemprop="name">銀座&times;イタリアン（イタリア料理）</span></a><meta itemprop="position" content="3"></li>
+                                                                
+                                
+                                                                    <li itemprop="itemListElement" itemscope itemtype="http://schema.org/ListItem"><a href="https://r.gnavi.co.jp/g064213/" itemprop="item"><span itemprop="name">SNAPPER＆GROUPER</span></a><meta itemprop="position" content="4"></li>
+                                                                                            </ol>
+                        </li>
+                    </ul>
+                </div>
+                <ul id="gn_header-unit-fl">
+                                                                                                                                            
+                    <li lang="en-us" xml:lang="en-us" class="first">
+                       <a href="https://gurunavi.com/">English</a>
+                    </li>
+                                                                    
+                    <li lang="zh-cn" xml:lang="zh-cn" >
+                       <a href="https://gurunavi.com/zh-hans/">简体中文</a>
+                    </li>
+                                                                    
+                    <li lang="zh-tw" xml:lang="zh-tw" >
+                       <a href="https://gurunavi.com/zh-hant/">繁體中文</a>
+                    </li>
+                                                                    
+                    <li lang="ko" xml:lang="ko" >
+                       <a href="https://gurunavi.com/ko/">한국어</a>
+                    </li>
+                                                                                                                        
+                    <li lang="th-TH" xml:lang="th-TH" class="last">
+                       <a href="https://gurunavi.com/th/">ภาษาไทย</a>
+                    </li>
+                                    </ul>
+            </div>
+            <!-- gn_headerN -->
+        </div>
+                    <div class="model-middle">
+                <div class="model-middle">
+    <div id="gn-un" class="pattern-c-gn-un-view">
+        <div class="gn-un-box">
+            <div class="gn-box">
+                <div class="logo-mini">
+                <a href="https://www.gnavi.co.jp">                <img src="//c-cpnt.gnst.jp/header/img/logo-mini.png" alt="ぐるなび" title="ぐるなび" /></a></div>
+
+                
+                                    <div id="searchFormA" class="search restaurant-available">
+    <div class="search-box">
+        <dl class="gn-restaurant">
+            <dt>
+                <a href="#" class="gn-restaurant-event gn-select-search-type" id="restaurantSearchEvent">お店検索</a>
+            </dt>
+            <dd class="part">
+                <form method="get" action=""><label for="gn-r-fwp"><input type="text" placeholder="エリア、駅名" title="エリア、駅名" class="textbox gn-fwp" id="gn-r-fwp" value="" name="fwp" autocomplete="off"></label><span class="times">&times;</span><label for="gn-r-fw"><input type="text" placeholder="和食、個室、店名" title="和食、個室、店名" class="textbox gn-fw" id="gn-r-fw" value="" name="fw" autocomplete="off"></label><span class="submit"><input type="submit" value="検 索"></span><input type="hidden" value="newheader_search_button" name="sc_lid"></form>
+            </dd>
+        </dl>
+        <dl class="gn-lunch">
+            <dt><a style="display: none;" class="gn-lunch-event gn-select-search-type" id="lunchSearchEvent" href="#">ランチ</a></dt>
+            <dd class="part"><form method="get" action=""><label for="gn-l-fwp"><input type="text" placeholder="エリア、駅名" title="エリア、駅名" class="textbox gn-fwp" id="gn-l-fwp" value="" name="fwp" autocomplete="off"></label><span class="times">&times;</span><label for="gn-l-fw"><input type="text" placeholder="和食、個室、店名" title="和食、個室、店名" class="textbox gn-fw" id="gn-l-fw" value="" name="fw" autocomplete="off"></label><span class="submit"><input type="submit" value="検 索"></span><input type="hidden" value="newheader_search_button" name="sc_lid"></form></dd>
+        </dl>
+        <dl class="gn-party">
+            <dt><a style="display: none;" class="gn-party-event gn-select-search-type" id="partySearchEvent" href="#">宴会コース</a></dt>
+            <dd class="part">
+                <form method="get" action="">
+                    <label for="gn-p-fwp">
+                        <input type="text" placeholder="エリア、駅名" title="エリア、駅名" class="textbox gn-fwp" id="gn-p-fwp" value="" name="fwp" autocomplete="off">
+                    </label>
+                    <span class="times2">&times;</span><span class="select"><select title="予算上限" class="budget" name="pprh"><option value="" selected="selected">予算上限</option><option value="2000">2,000円</option><option value="3000">3,000円</option><option value="4000">4,000円</option><option value="5000">5,000円</option><option value="7000">7,000円</option><option value="10000">10,000円</option><option value="15000">15,000円</option><option value="20000">20,000円</option><option value="30000">30,000円</option></select></span>
+                    <span class="times2">&times;</span>
+                    <span class="select">
+                        <select title="人数" class="member">
+                            <option value="0" selected="selected">人数</option>
+                                <option value="1" selected="">1名</option>
+                                <option value="2" selected="">2名</option>
+                                <option value="3">3名</option>
+                                <option value="4">4名</option>
+                                <option value="5">5名</option>
+                                <option value="6">6名</option>
+                                <option value="7">7名</option>
+                                <option value="8">8名</option>
+                                <option value="9">9名</option>
+                                <option value="10">10名</option>
+                                <option value="11">11名</option>
+                                <option value="12">12名</option>
+                                <option value="13">13名</option>
+                                <option value="14">14名</option>
+                                <option value="15">15名</option>
+                                <option value="16">16名</option>
+                                <option value="17">17名</option>
+                                <option value="18">18名</option>
+                                <option value="19">19名</option>
+                                <option value="20">20名</option>
+                                <option value="21">21名</option>
+                                <option value="22">22名</option>
+                                <option value="23">23名</option>
+                                <option value="24">24名</option>
+                                <option value="25">25名</option>
+                                <option value="26">26名</option>
+                                <option value="27">27名</option>
+                                <option value="28">28名</option>
+                                <option value="29">29名</option>
+                                <option value="30">30名</option>
+                                <option value="31">31名</option>
+                                <option value="32">32名</option>
+                                <option value="33">33名</option>
+                                <option value="34">34名</option>
+                                <option value="35">35名</option>
+                                <option value="36">36名</option>
+                                <option value="37">37名</option>
+                                <option value="38">38名</option>
+                                <option value="39">39名</option>
+                                <option value="40">40名</option>
+                                <option value="41">41名</option>
+                                <option value="42">42名</option>
+                                <option value="43">43名</option>
+                                <option value="44">44名</option>
+                                <option value="45">45名</option>
+                                <option value="46">46名</option>
+                                <option value="47">47名</option>
+                                <option value="48">48名</option>
+                                <option value="49">49名</option>
+                                <option value="50">50名</option>
+                                <option value="51">51名</option>
+                                <option value="52">52名</option>
+                                <option value="53">53名</option>
+                                <option value="54">54名</option>
+                                <option value="55">55名</option>
+                                <option value="56">56名</option>
+                                <option value="57">57名</option>
+                                <option value="58">58名</option>
+                                <option value="59">59名</option>
+                                <option value="60">60名</option>
+                                <option value="61">61名</option>
+                                <option value="62">62名</option>
+                                <option value="63">63名</option>
+                                <option value="64">64名</option>
+                                <option value="65">65名</option>
+                                <option value="66">66名</option>
+                                <option value="67">67名</option>
+                                <option value="68">68名</option>
+                                <option value="69">69名</option>
+                                <option value="70">70名</option>
+                                <option value="71">71名</option>
+                                <option value="72">72名</option>
+                                <option value="73">73名</option>
+                                <option value="74">74名</option>
+                                <option value="75">75名</option>
+                                <option value="76">76名</option>
+                                <option value="77">77名</option>
+                                <option value="78">78名</option>
+                                <option value="79">79名</option>
+                                <option value="80">80名</option>
+                                <option value="81">81名</option>
+                                <option value="82">82名</option>
+                                <option value="83">83名</option>
+                                <option value="84">84名</option>
+                                <option value="85">85名</option>
+                                <option value="86">86名</option>
+                                <option value="87">87名</option>
+                                <option value="88">88名</option>
+                                <option value="89">89名</option>
+                                <option value="90">90名</option>
+                                <option value="91">91名</option>
+                                <option value="92">92名</option>
+                                <option value="93">93名</option>
+                                <option value="94">94名</option>
+                                <option value="95">95名</option>
+                                <option value="96">96名</option>
+                                <option value="97">97名</option>
+                                <option value="98">98名</option>
+                                <option value="99">99名</option>
+                                <option value="100">100名以上</option>
+                        </select>
+                    </span>
+                  <span class="submit"><input type="submit" value="検 索"></span>
+                  <input type="hidden" value="newheader_search_button" name="sc_lid">
+                  <input type="hidden" name="gcnth">
+                  <input type="hidden" class="gn-fw" name="fw">
+              </form>
+          </dd>
+        </dl>
+    </div>
+</div>
+
+                                
+
+                <div id="newsEventWrapper">
+                    <div id="newsEvent-middle" class="news"><a href="" id="upa_gnews"></a></div>
+                    <div class="osusume-navi"><b id="news_badge_count"></b></div>
+                </div>
+                <div id="chottoguEvent" class="chottogu"><a href="http://my.gnavi.co.jp/restaurant/?sc_lid=newheader_bookmark">チョットぐ</a></div>
+
+                
+                <div class="login-wrap" style="display: none;">
+    <div class="login" >
+                	<div class="login__top username">
+	        	<a href="" id="login_mygnavi_link">
+	        		<span class="sprite-login"></span>
+	        		<div class="login-name-wrap" id="user_name"></div>
+	        	</a>
+        	</div>
+        	<div class="login__bottom">
+		        <div class="point"><a href="https://my.gnavi.co.jp/point/history/hst01/"><b id="point"></b><span>P</span></a></div>
+		        <div class="rank"><a href="https://r.gnavi.co.jp/plan/plan-reserve/plan/user/reservation_history/">予約履歴</a></div>
+      		</div>
+      	    </div>
+</div>
+<div class="logout" style="display: none;">
+    <div class="login-button"><a href="" id="subscribe_link">新規会員登録（無料）</a></div>
+    <div class="subscribe"><a href="" id="login_link">ログイン</a></div>
+</div>
+
+                
+
+                
+                                        <div id="g_news-fadeout" class="gurunews gn-un-box-baloon baloon-box" style="display: none;">
+        <p class="fadeout"><a id="g_news_link" href="">あなたへのメッセージが<b id="g_news_count"></b>件届いています</a></p>
+    </div>
+
+<div id="chottoggu" class="chottoggu gn-un-chtg-baloon baloon-box" style="display: none;">
+    <p><a id="chottoggu_link" href=""></a></p>
+    <span class="close-baloon" data-baloon-name="chottoggu_baloon"></span>
+</div>
+
+<div id="harenohi" class="harenohi gn-un-hare-baloon baloon-box" style="display: none;">
+    <p><a id="harenohi_link" href=""></a></p>
+    <span class="close-baloon" data-baloon-name="harenohi_baloon"></span>
+</div>
+
+<div id="premium" class="premium gn-un-premium-baloon baloon-box" style="display: none;">
+<p><a id="premium_link" href=""></a></p>
+<span class="close-baloon" data-baloon-name="premium_baloon"></span>
+</div>
+
+                                
+
+            </div>
+        </div>
+    </div>
+    
+        
+    
+        
+</div>
+
+
+            </div>
+            <!-- model-middle -->
+            </div>
+<!-- /nav --></nav>
+
+<div id="gn_infoN">
+    <div id="gn_info-breadcrumbs">
+        <ol id="gn_info-breadcrumbs-inner" class="cx">
+<li class="gn_info-breadcrumbs-first"><a href="http://www.gnavi.co.jp/">ぐるなび</a></li><li><a href="https://r.gnavi.co.jp/tokyo/">東京</a></li><li><a href="http://r.gnavi.co.jp/area/areal2101/rs/">銀座・有楽町・築地</a></li><li><a href="http://r.gnavi.co.jp/area/aream2105/rs/">銀座</a></li><li><a href="https://r.gnavi.co.jp/g064213/">SNAPPER＆GROUPER</a></li><li><a href="https://r.gnavi.co.jp/g064213/"><strong>店舗トップ</strong></a></li>        </ol>
+        <script src="//c-r.gnst.jp/r/rtos.js?revision=1488760749"></script>
+    </div>
+<!-- /gn_info --></div>
+
+<!--#include file="gn_header.txt" -->
+<!--#include file="gn_info.txt" -->
+
+
+<div id="page-shop-https" class="bg-base">
+
+<header role="banner">
+    <div id="header" class="header">
+        <div id="header-inner">
+            <div id="header-meta" class="ellipsis">
+                <dl>
+                                            <dt id="header-meta-cat-term">業態</dt>
+                        <dd id="header-meta-cat-desc">銀座　個室ダイニング</dd>
+                                                                <dt id="header-meta-sta-term">近隣駅</dt>
+                        <dd id="header-meta-sta-desc">
+                            <ul>
+                                                                                                            <li class="first">
+                                                                        <a href="http://r.gnavi.co.jp/eki/0002477/rs/">銀座駅</a>
+                                    <ul class="child">
+                                                                                    <li class="ellipsis"><a href="http://r.gnavi.co.jp/eki/0002477/italian/rs/">銀座駅&times;イタリアン（イタリア料理）</a></li>
+                                                                                    <li class="ellipsis"><a href="http://r.gnavi.co.jp/eki/0002477/spanish/rs/">銀座駅&times;スペイン料理</a></li>
+                                                                                                                    </ul>
+                                    </li>
+                                                                                                            <li>
+                                                                        <a href="http://r.gnavi.co.jp/eki/0002890/rs/">日比谷駅</a>
+                                    <ul class="child">
+                                                                                    <li class="ellipsis"><a href="http://r.gnavi.co.jp/eki/0002890/italian/rs/">日比谷駅&times;イタリアン（イタリア料理）</a></li>
+                                                                                    <li class="ellipsis"><a href="http://r.gnavi.co.jp/eki/0002890/spanish/rs/">日比谷駅&times;スペイン料理</a></li>
+                                                                                                                    </ul>
+                                    </li>
+                                                                                                            <li class="last">
+                                                                        <a href="http://r.gnavi.co.jp/eki/0002876/rs/">内幸町駅</a>
+                                    <ul class="child">
+                                                                                    <li class="ellipsis"><a href="http://r.gnavi.co.jp/eki/0002876/italian/rs/">内幸町駅&times;イタリアン（イタリア料理）</a></li>
+                                                                                    <li class="ellipsis"><a href="http://r.gnavi.co.jp/eki/0002876/spanish/rs/">内幸町駅&times;スペイン料理</a></li>
+                                                                                                                    </ul>
+                                    </li>
+                                                            </ul>
+                        </dd>
+                    
+                                            <dt id="header-meta-are-term">エリア</dt>
+                        <dd id="header-meta-are-desc">
+                            <ul>
+                                                                                                            <li class="first">
+                                                                            <a href="http://r.gnavi.co.jp/area/tokyo/rs/">東京</a>
+                                                                                    <ul class="child">
+                                                                                                    <li class="ellipsis">
+                                                        <a href="http://r.gnavi.co.jp/area/tokyo/italian/rs/">東京&times;イタリアン（イタリア料理）</a>
+                                                    </li>
+                                                                                                    <li class="ellipsis">
+                                                        <a href="http://r.gnavi.co.jp/area/tokyo/spanish/rs/">東京&times;スペイン料理</a>
+                                                    </li>
+                                                                                            </ul>
+                                                                            </li>
+                                                                                                            <li>
+                                                                            <a href="http://r.gnavi.co.jp/area/areal2101/rs/">銀座・有楽町・築地</a>
+                                                                                    <ul class="child">
+                                                                                                    <li class="ellipsis">
+                                                        <a href="http://r.gnavi.co.jp/area/areal2101/italian/rs/">銀座・有楽町・築地&times;イタリアン（イタリア料理）</a>
+                                                    </li>
+                                                                                                    <li class="ellipsis">
+                                                        <a href="http://r.gnavi.co.jp/area/areal2101/spanish/rs/">銀座・有楽町・築地&times;スペイン料理</a>
+                                                    </li>
+                                                                                            </ul>
+                                                                            </li>
+                                                                                                            <li>
+                                                                            <a href="http://r.gnavi.co.jp/area/aream2105/">銀座</a>
+                                                                                    <ul class="child">
+                                                                                                    <li class="ellipsis">
+                                                        <a href="http://r.gnavi.co.jp/area/aream2105/italian/rs/">銀座&times;イタリアン（イタリア料理）</a>
+                                                    </li>
+                                                                                                    <li class="ellipsis">
+                                                        <a href="http://r.gnavi.co.jp/area/aream2105/spanish/rs/">銀座&times;スペイン料理</a>
+                                                    </li>
+                                                                                            </ul>
+                                                                            </li>
+                                                                                                            <li>
+                                                                            <a href="http://r.gnavi.co.jp/area/aream2106/">有楽町・日比谷</a>
+                                                                                    <ul class="child">
+                                                                                                    <li class="ellipsis">
+                                                        <a href="http://r.gnavi.co.jp/area/aream2106/italian/rs/">有楽町・日比谷&times;イタリアン（イタリア料理）</a>
+                                                    </li>
+                                                                                                    <li class="ellipsis">
+                                                        <a href="http://r.gnavi.co.jp/area/aream2106/spanish/rs/">有楽町・日比谷&times;スペイン料理</a>
+                                                    </li>
+                                                                                            </ul>
+                                                                            </li>
+                                                                                                            <li class="last">
+                                                                            <a href="http://r.gnavi.co.jp/area/aream2109/">築地</a>
+                                                                                    <ul class="child">
+                                                                                                    <li class="ellipsis">
+                                                        <a href="http://r.gnavi.co.jp/area/aream2109/italian/rs/">築地&times;イタリアン（イタリア料理）</a>
+                                                    </li>
+                                                                                                    <li class="ellipsis">
+                                                        <a href="http://r.gnavi.co.jp/area/aream2109/spanish/rs/">築地&times;スペイン料理</a>
+                                                    </li>
+                                                                                            </ul>
+                                                                            </li>
+                                                            </ul>
+                        </dd>
+                                                                <dt id="header-meta-gen-term">ジャンル</dt>
+                        <dd id="header-meta-gen-desc">
+                                                            <ol>
+                                    <li class="first">
+                                        <a href="http://r.gnavi.co.jp/food/western/rs/">イタリアン・フレンチ</a>
+                                                                                            <ul class="child">
+                                                  <li class="ellipsis">
+                                                    <a href="http://r.gnavi.co.jp/area/aream2105/western/kods00066/rs/">銀座&times;イタリアン・フレンチ&times;個室</a>
+                                                  </li>
+                                                </ul>
+                                                                            </li>
+                                </ol>
+                                                            <ol>
+                                    <li class="">
+                                        <a href="http://r.gnavi.co.jp/food/italian/rs/">イタリアン（イタリア料理）</a>
+                                                                                            <ul class="child">
+                                                  <li class="ellipsis">
+                                                    <a href="http://r.gnavi.co.jp/area/aream2105/italian/kods00066/rs/">銀座&times;イタリアン（イタリア料理）&times;個室</a>
+                                                  </li>
+                                                </ul>
+                                                                            </li>
+                                </ol>
+                                                            <ol>
+                                    <li class="">
+                                        <a href="http://r.gnavi.co.jp/food/continental/rs/">洋食・西洋料理</a>
+                                                                                            <ul class="child">
+                                                  <li class="ellipsis">
+                                                    <a href="http://r.gnavi.co.jp/area/aream2105/continental/kods00066/rs/">銀座&times;洋食・西洋料理&times;個室</a>
+                                                  </li>
+                                                </ul>
+                                                                            </li>
+                                </ol>
+                                                            <ol>
+                                    <li class="last">
+                                        <a href="http://r.gnavi.co.jp/food/spanish/rs/">スペイン料理</a>
+                                                                                            <ul class="child">
+                                                  <li class="ellipsis">
+                                                    <a href="http://r.gnavi.co.jp/area/aream2105/spanish/kods00066/rs/">銀座&times;スペイン料理&times;個室</a>
+                                                  </li>
+                                                </ul>
+                                                                            </li>
+                                </ol>
+                                                    </dd>
+                                    </dl>
+            <!-- /header-meta --></div>
+            <div id="header-wrapper" class="cx">
+                <div id="header-main" class="cx">
+                                            <div id="header-main-unit" class="br11">
+                                                                        <span id="header-main-ruby">スナッパーアンドグルーパー</span>
+                                                                            <span id="header-main-before">銀座コリドー通り リゾートダイニング</span>
+                                                <h1 id="header-main-name"><a href="https://r.gnavi.co.jp/g064213/">SNAPPER＆GROUPER&nbsp;</a></h1>
+                        <span id="header-main-after">個室＆ソファ 地中海料理 スパニッシュ&times;メキシカン</span>                                                    <ul id="header-main-service" class="cx">
+                                
+                                                                    <li class="srvc-get ok first">
+                                                                                                                                                                                                            <a href="https://r.gnavi.co.jp/g064213/tamaru?rUrl=https%3A%2F%2Fr.gnavi.co.jp%2Fg064213%2F&hcm=1" class="srvc-a floating cboxElement" title="ネット予約でポイント貯まる">
+                                            <span class="srvc-lbl">ポイント貯まる</span><span class="srvc-jdg">OK</span>
+                                        </a>
+                                    </li>
+                                                                                                    <li class="srvc-use ok last">
+                                        <a href="https://r.gnavi.co.jp/g064213/tsukaeru?rUrl=https%3A%2F%2Fr.gnavi.co.jp%2Fg064213%2F" class="srvc-a floating cboxElement" title="ポイント使える">
+                                        <span class="srvc-lbl">ポイント使える</span><span class="srvc-jdg">OK</span>
+                                        </a>
+                                    </li>
+                                                            </ul>
+                                            <!-- /header-main-unit --></div>
+                    <div id="header-main-sv">
+                                                    <div class="l-callout l-callout--round unit header-main-vacancy-info">
+                                <div class="tooltip__trigger">
+                                    <div class="midst">
+                                        <p class="text--sub text--xx-s">本日の18時~20時</p>
+                                        <div class="header-main-vacancy-info__icon icon-seat-many"></div>
+                                        <p class="text--s">個室空きあり</p>
+                                    </div>
+                                    <div class="tooltip__target tooltip__target--balloon">
+                                        <div class="tooltip__target__inner box-shadow midst">
+                                            <p class="text text--xx-s">※この情報は 2017/03/07 10:09 に更新された情報です。最新の空席情報はご来店前にお店にお問い合わせください。</p>
+                                        </div>
+                                    </div>
+                                </div>
+                            </div>
+                                                <div id="header-main-phone" class="header-main-reserve__wrap">
+                                                            <span class="number">050-3467-2213</span>
+                                                                                                                                                            <span>お問合わせの際はぐるなびを見た<br />というとスムーズです。</span>
+                                                                                                                        <div class="header-main-reserve__btn">
+                                    <div id="header-main-reserve">
+                                                                                                                                                                                                                                                    <a href="https://r.gnavi.co.jp/plan/g064213/plan-reserve/plan/plan_list/?date=20170307#wrapper" class="button-reserve btn-basic btn-w195 btn-h45 btn-f17 btn-bgOrng clickable  js-trk--click js-trk__T_001" title="空席確認・予約する">空席確認・予約する</a>
+                                                                                                                                    <div id="header-main-reserve-bln">提携先のポイントも貯まる！</div>
+                                                                                                                            <!-- /header-main-reserve -->
+                                    </div>
+                                </div>
+                                <!-- /header-main-phone -->
+                                                    </div>
+                    <!-- /header-main-sv --></div>
+                <!-- /header-main --></div>
+                <div id="header-sub">
+                    <aside role="complementary">
+                        <div class="aside">
+                            <ul id="header-sub-tool">
+                                                                    <li id="header-sub-tool-gu"><a href="http://my.gnavi.co.jp/restaurant/" target="_blank" id="header-sub-tool-gu-a" class="btn-basic btn-w153 btn-h27 btn-f11 btn-bgWht btn-disabled" title="行きたいお店をブックマーク" data-chg-content="1401"><span class="btn-icn-chottogu">行きたい</span><var>1709</var></a></li>
+                                                                <li id="header-sub-tool-sd"><a href="https://my.gnavi.co.jp/send_mail/?id=g064213&amp;mode=s" target="_blank" class="btn-basic btn-w153 btn-h27 btn-f11 btn-bgWht clickable floating" title="携帯・PCに送る"><span class="btn-icn-mail-s">携帯・PCに送る</span></a></li>
+                                                                                                                                                                                                                                        <li id="header-sub-tool-sm">
+                                    <span>シェア</span>
+                                    <ul class="cx">
+                                        <li id="header-sub-tool-sm-fb"><a href="//www.facebook.com/" target="_blank" id="header-sub-sm-fb-a" title="Facebook" data-sm="fb">Facebook</a></li>
+                                        <li id="header-sub-tool-sm-tw"><a href="//twitter.com/" target="_blank" id="header-sub-sm-tw-a" title="Twitter" data-sm="tw">Twitter</a></li>
+                                        <li id="header-sub-tool-sm-gl"><a href="//plus.google.com/" target="_blank" title="Google+" data-sm="gl">Google+</a></li>
+                                        <li id="header-sub-tool-sm-mx"><a href="//mixi.jp/" title="mixi" target="_blank" data-sm="mx">mixiチェック</a></li>
+                                        <li id="header-sub-tool-sm-ht"><a href="//b.hatena.ne.jp/" target="_blank" title="はてなブックマーク" data-sm="ht">はてなブックマーク</a></li>
+                                    </ul>
+                                </li>
+                            </ul>
+                        </div>
+                    </aside>
+                <!-- /header-sub --></div>
+                                    <div id="header-sub-link" class="cx">
+                                                
+
+                                                    <div id="header-sub-link-kodawari" class="header-sub-link-block first">
+                                <p><a href="https://r.gnavi.co.jp/g064213/kodawari/" class="gdm">こだわり</a></p>
+                                <div id="header-link-kodawari-det" class="header-sub-link-hide">
+                                    <ul>
+                                                                                                                                    <li class="first">
+                                                                                            <p class="header-link-kodawari-tit txt"><span>こだわり1</span>完全個室：6名様～最大23名様</p>
+                                                <p class="header-link-kodawari-txt txt">6つの異なる完全個室で優雅な時間をお過ごし下さい。</p>
+                                                                                                    <ul class="header-link-kodawari-list">
+                                                                                                                                                                                    <li class="first txt">【6～10名様】VIP-2
+◆モダンとクラシカルの融合◆落ち着いたアンティーク調のプライベートルーム◆ご宴会にどうぞ！</li>
+                                                                                                                                                                                                                                                <li class="last txt">【6～12名様】VIP-6
+◆エッジの効いたスタイリッシュ空間◆気品のある大人の完全個室◆</li>
+                                                                                                                                                                        </ul>
+                                                                                            </li>
+                                                                                                                                    <li>
+                                                                                            <p class="header-link-kodawari-tit txt"><span>こだわり2</span>ビールにこだわる：氷点下ビールもコロナも飲み放題！！</p>
+                                                <p class="header-link-kodawari-txt txt">【種類豊富！！】なんと『コロナ、ジーマ、スミノフアイス』も飲み放題！！エクストラコールド、一番搾りフローズン生、樽詰スパークリング、フリージングハイボール、ソフトドリンク、カクテル各種</p>
+                                                                                                    <ul class="header-link-kodawari-list">
+                                                                                                                                                                                    <li class="first txt">コロナの飲み放題は当店だけ！！</li>
+                                                                                                                                                                                                                                                <li class="last txt">お店でしか飲めないスパークリングワイン【樽詰･ポールスター】も飲み放題です。ビールが苦手な方でも安心！スパークリングワインの飲み放題でいつもとひと味違うちょっぴりリッチな夜に！
+他にも豊富なカクテルメニューもご用意あります。</li>
+                                                                                                                                                                        </ul>
+                                                                                            </li>
+                                                                                                                                    <li>
+                                                                                            <p class="header-link-kodawari-tit txt"><span>こだわり3</span>3時間以上の宴会・パーティ：3時間飲み放題　全8品　￥4,000～</p>
+                                                <p class="header-link-kodawari-txt txt">『モダン・メキシカン』の最高峰！！銀座・大注目！！コロナもスパークリングも3時間飲み放題　<br />
+ボリューム満点・全8品　￥4,000</p>
+                                                                                                    <ul class="header-link-kodawari-list">
+                                                                                                                                                                                    <li class="first txt">当店名物『ファヒータ』テーブルで炎があがる大迫力の演出で見た目も味も大満足です◎</li>
+                                                                                                                                                                                                                                                <li class="last txt">なんとメキシコNo.1ビールのコロナ･エキストラ、ZIMA、スミノフアイスが飲み放題に!!
+もちろん氷点下のスーパードライ･エクストラコールドや樽詰スパークリングワイン･ポールスターも飲み放題です♪
+お酒が苦手な方でも安心のノンアルコールドリンクも充実しています◎</li>
+                                                                                                                                                                        </ul>
+                                                                                            </li>
+                                                                                                                                    <li>
+                                                                                            <p class="header-link-kodawari-tit txt"><span>こだわり4</span>サプライズサービスあり：誕生日・記念日の主役にサプライズを</p>
+                                                <p class="header-link-kodawari-txt txt">誕生日・大切な記念日はもちろん！歓迎会や送別会の主役にコースのデザートを無料でデザートプレートに変更できます♪</p>
+                                                                                                    <ul class="header-link-kodawari-list">
+                                                                                                                                                                                    <li class="first txt">オプションでシーンに合わせたサプライズケーキのご用意も可能です。【別途】1,500円～ご用意可能〈要予約〉</li>
+                                                                                                                                                                                                                                                <li class="last txt">送別会に最適！お世話になった方への花束も用意可能です。色のベースの指定や、好きな花を入れたりも出来ます♪
+【別途料金】〈要予約〉</li>
+                                                                                                                                                                        </ul>
+                                                                                            </li>
+                                                                                                                                    <li class="last">
+                                                                                            <p class="header-link-kodawari-tit txt"><span>こだわり5</span>個室貸切：モニター付ロフト完全個室～23名様</p>
+                                                <p class="header-link-kodawari-txt txt">【13～23名様】VIP-3<br />
+大人数の宴会にピッタリ！充実した設備のロフト貸切ルーム<br />
+店内奥の隠れ家的ロフト個室！</p>
+                                                                                                    <ul class="header-link-kodawari-list">
+                                                                                                                                                                                    <li class="first txt">【6～12名様】VIP-5
+少人数様でもご利用いただけるロフト個室
+ソファやテーブルまでお洒落♪</li>
+                                                                                                                                                                                                                                                <li class="last txt">DVDを使用してのオリジナルスペシャルムービーや主役の方への心のこもったメッセージで大切なひとときをお過ごしください。</li>
+                                                                                                                                                                        </ul>
+                                                                                            </li>
+                                                                            </ul>
+                                </div>
+                            </div>
+                                                <!-- #top info -->
+                        <div id="header-sub-link-info" class="header-sub-link-block last">
+                            <p><a href="#info" class="gdm">基本情報</a></p>
+                            <div id="header-link-info-det" class="header-sub-link-hide">
+                                <ul>
+                                    <li class="first">
+                                        <dl class="cx">
+                                            <dt>電話番号・予約・お問い合わせ</dt>
+                                            <dd>050-3467-2213</dd>
+                                        </dl>
+                                    </li>
+                                    <li>
+                                        <dl class="cx">
+                                            <dt>営業時間</dt>
+                                            <dd>
+                                                                                                    月～土・祝前日<br />
+17:00～翌5:00<br />
+（ラストオーダー4:00）<br />
+<br />
+日・祝日<br />
+17:00～23:00<br />
+（ラストオーダー22:30、ドリンクラストオーダー22:30）
+                                                                                            </dd>
+                                        </dl>
+                                    </li>
+                                    <li>
+                                        <dl class="cx"> 
+                                            <dt>定休日</dt>
+                                            <dd>
+                                                                                                                                                            無<br />
+                                                                                                            年末年始（2017年12月31日～2018年1月3日）<br />
+                                                                                                                                                </dd>
+                                        </dl>
+                                    </li>
+                                                                            <li>
+                                            <dl class="cx">
+                                                <dt>平均予算<br />（または料金）</dt>
+                                                <dd>
+                                                                                                            4,000円（通常平均）<br />
+                                                                                                                                                              4,000円（宴会平均）<br />
+                                                                                                                                                        </dd>
+                                            </dl>
+                                        </li>
+                                                                                                                <li>
+                                            <dl class="cx">
+                                                <dt>エリア</dt>
+                                                <dd>銀座</dd>
+                                            </dl>
+                                        </li>
+                                                                                                                <li>
+                                            <dl class="cx">
+                                                <dt>周辺エリア情報</dt>
+                                                    <dd>
+                                                        SNAPPER＆GROUPER&nbsp;の周辺には
+                                                                                                                                                                        <a href="http://r.gnavi.co.jp/landmark/0029956/rs/">東急プラザ銀座</a>
+                                                                                                                                                                        &nbsp;                                                        <a href="http://r.gnavi.co.jp/landmark/0017325/rs/">泰明小学校</a>
+                                                                                                                        など    があります。
+                                                </dd>
+                                            </dl>
+                                        </li>
+                                                                                                                <li>
+                                            <dl class="cx">
+                                                <dt>アクセス</dt>
+                                                <dd>
+                                                                                                            地下鉄 銀座駅 C1・C2・C3出口 徒歩5分 
+                                                        <br />                                                                                                            ＪＲ 有楽町駅 日比谷口 徒歩5分 
+                                                        <br />                                                                                                            ＪＲ 新橋駅 銀座口 徒歩5分 
+                                                        <br />                                                                                                            地下鉄 新橋駅 5番出口 徒歩5分 
+                                                        <br />                                                                                                            地下鉄 日比谷駅 A13出口 徒歩5分 
+                                                        <br />                                                                                                            ゆりかもめ 新橋駅 A3出口 徒歩5分 
+                                                        <br />                                                                                                            都営三田線 内幸町駅 A5出口 徒歩5分 
+                                                                                                                                                            </dd>
+                                            </dl>
+                                        </li>
+                                                                                                                                                                                        <li>
+                                            <dl class="cx">
+                                                <dt>駐車場</dt>
+                                                <dd>
+                                                                                                            有：共有有料                                                                                                                                                                                                                            （目の前に路上パーキングが御座います。）
+                                                                                                                                                            </dd>
+                                            </dl>
+                                        </li>
+                                                                        <li>
+                                        <dl class="cx">
+                                            <dt>ジャンル</dt>
+                                            <dd>銀座　個室ダイニング</dd>
+                                        </dl>
+                                    </li>
+                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                        <li>
+                                                <dl class="cx">
+                                                    <dt>利用シーン</dt>
+                                                    <dd>
+                                                        <ul class="line cx">
+                                                           <li>女子会</li><li>デート</li><li>記念日</li><li>合コン</li><li>お一人様</li><li>大人数</li>
+                                                        </ul>
+                                                    </dd>
+                                                </dl>
+                                            </li>
+                                                                                                                                                        <li>
+                                            <dl class="cx">
+                                                <dt>お子様連れ</dt>
+                                                <dd>
+                                                    子連れOK
+                                                </dd>
+                                            </dl>
+                                        </li>
+                                                                                                                <li>
+                                            <dl class="cx">
+                                                <dt>メニューの<br />サービス</dt>
+                                                <dd>
+                                                    <ul>
+                                                                                                                    <li>飲み放題メニューあり</li>
+                                                                                                                    <li>誕生日特典あり</li>
+                                                                                                            </ul>
+                                                </dd>
+                                            </dl>
+                                        </li>
+                                                                                                                <li>
+                                            <dl class="cx">
+                                                <dt>設備・サービス</dt>
+                                                <dd>
+                                                    <ul>
+                                                                                                                    <li>カウンター席あり</li>
+                                                                                                                    <li>テラス・屋外席あり</li>
+                                                                                                            </ul>
+                                                </dd>
+                                            </dl>
+                                        </li>
+                                                                                                                <li>
+                                            <dl class="cx">
+                                                <dt>携帯・Wi-Fi</dt>
+                                                <dd>
+                                                    <ul class="line cx">
+                                                                                                                    <li>
+                                                                携帯の電波が入る（
+                                                                                                                                    ソフトバンク
+                                                                                                                                    NTT ドコモ
+                                                                                                                                    au
+                                                                                                                                ）
+                                                            </li>
+                                                                                                                                                                                                                                    <li>電源利用可</li>
+                                                                                                            </ul>
+                                                </dd>
+                                            </dl>
+                                        </li>
+                                                                    </ul>
+                            </div>
+                        </div>
+                    </div>
+                            <!-- /header-wrapper --></div>
+        <!-- /header-inner --></div>
+    </div>
+<!-- /header --></header>
+
+<!--#include file="header.txt" -->
+    <div id="nav-ex">
+	<nav role="navigation">
+	<div id="nav" class="nav">
+<ul id="nav-main" class="cx">
+            <li id="nav-main-top">
+                    <a href="https://r.gnavi.co.jp/g064213/">店舗トップ</a>
+        
+                    </li>
+    
+            <li id="nav-main-menu">
+                    <a href="https://r.gnavi.co.jp/g064213/menu6/">メニュー</a>
+        
+                <ul class="child">
+                                            <li class="first">
+                                    
+                                    <a href="https://r.gnavi.co.jp/g064213/menu6/">★　￥4,000</a>
+                            </li>
+                                            <li>
+                                
+                                    <a href="https://r.gnavi.co.jp/g064213/menu4/">★★　￥4,500</a>
+                            </li>
+                                            <li>
+                                
+                                    <a href="https://r.gnavi.co.jp/g064213/menu10/">★★★　￥5,000</a>
+                            </li>
+                                            <li>
+                                
+                                    <a href="https://r.gnavi.co.jp/g064213/menu8/">記念日プラン</a>
+                            </li>
+                                            <li>
+                                
+                                    <a href="https://r.gnavi.co.jp/g064213/menu1/">店内情報</a>
+                            </li>
+                                            <li>
+                                
+                                    <a href="https://r.gnavi.co.jp/g064213/menu5/">FOOD・DRINK</a>
+                            </li>
+                                            <li class="last">
+                                    
+                                    <a href="https://r.gnavi.co.jp/g064213/ranking/">おすすめ・売れ筋</a>
+                            </li>
+                    </ul>
+                    </li>
+    
+            <li id="nav-main-seat">
+                    <a href="https://r.gnavi.co.jp/g064213/equipment/koshitsu/">席・個室</a>
+        
+                <ul class="child">
+                                            <li class="first">
+                                    
+                                    <a href="https://r.gnavi.co.jp/g064213/equipment/koshitsu/">個室</a>
+                            </li>
+                                            <li>
+                                
+                                    <a href="https://r.gnavi.co.jp/g064213/equipment/seat/">席</a>
+                            </li>
+                                            <li class="last">
+                                    
+                                    <a href="https://r.gnavi.co.jp/g064213/equipment/kashikiri/">貸切</a>
+                            </li>
+                    </ul>
+                        <div class="newTick"><p class="newTick-text">Check!</p><div class="newTick-wrap"><div class="newTick-wrap-left"></div><div class="newTick-wrap-right"></div></div></div>
+            </li>
+    
+            <li id="nav-main-photo">
+                    <a href="https://r.gnavi.co.jp/g064213/photo/">写真</a>
+        
+                <ul class="child">
+                                            <li class="first">
+                                    
+                                    <a href="https://r.gnavi.co.jp/g064213/photo/">すべて</a>
+                            </li>
+                                            <li>
+                                
+                                    <a href="https://r.gnavi.co.jp/g064213/photo/other/">その他</a>
+                            </li>
+                                            <li>
+                                
+                                    <a href="https://r.gnavi.co.jp/g064213/photo/menu/">料理･ドリンク</a>
+                            </li>
+                                            <li>
+                                
+                                    <a href="https://r.gnavi.co.jp/g064213/photo/private/">個室</a>
+                            </li>
+                                            <li class="last">
+                                    
+                                    <a href="https://r.gnavi.co.jp/g064213/photo/interior/">店内</a>
+                            </li>
+                    </ul>
+                    </li>
+    
+            <li id="nav-main-kodawari">
+                    <a href="https://r.gnavi.co.jp/g064213/kodawari/">こだわり</a>
+        
+                <ul class="child">
+                                            <li class="first">
+                                    
+                                    <a href="https://r.gnavi.co.jp/g064213/kodawari/">こだわり</a>
+                            </li>
+                    </ul>
+                    </li>
+    
+            <li id="nav-main-map">
+                    <a href="https://r.gnavi.co.jp/g064213/map/">地図</a>
+        
+                <ul class="child">
+                                            <li class="first">
+                                    
+                                    <a href="https://r.gnavi.co.jp/g064213/map/">地図</a>
+                            </li>
+                    </ul>
+                    </li>
+    
+            <li id="nav-main-coupon">
+                    <a href="https://r.gnavi.co.jp/g064213/coupon/">クーポン</a>
+        
+                    </li>
+    
+        
+            <li id="nav-main-review">
+                                    <a href="https://r.gnavi.co.jp/g064213/review/">口コミ</a>
+                <div class="navBln">写真付のおいしい<br />口コミをご紹介！</div>
+                    
+                    </li>
+    
+    </ul>
+<!--#include file="nav-main.txt" -->
+    </div>
+	<!-- /nav --></nav>
+    </div>
+	<div id="wrapper" class="cx">
+            	                    <div id="main">
+                            
+                
+<div id="motif">
+                    <div id="motif-topics" class="motif-unit text-key cx">
+                <div id="motif-topics-main">
+            <div class="t2">
+                <p class="figure">
+                    <img src="//uds.gnst.jp/rest/img/c9z9ef2r0000/s_027f.jpg?t=1466693238" width="328" height="328" alt="" title="" />
+                </p>
+            </div>
+        </div>
+        <div id="motif-topics-sub">
+            <ul>
+                                                <li class="first">
+                                        <dl>
+                        <dt>
+                        <div class="t6">
+                            <p class="figure">
+                                <img src="//uds.gnst.jp/rest/img/c9z9ef2r0000/t_0n5k.jpg?t=1488458774&amp;g=157" width="100" height="100" alt="" title="" />
+                            </p>
+                        </div>
+                        </dt>
+                        <dd>
+                            <section>
+                                <div class="section">
+                                                                                                                                                                                                                                                                        <h1>
+                                                                                    <a href="http://r.gnavi.co.jp/g064213/equipment/koshitsu/" >【完全個室】各種設備も充実！！</a>
+                                                                            </h1>
+                                    <p class="txt">送別会・歓迎会・宴会・記念日に大好評♪
+6名様～最大23名様</p>
+                                                                            <p class="more"><a href="http://r.gnavi.co.jp/g064213/equipment/koshitsu/" class="go ">詳しく見る</a></p>
+                                                                </section>
+                        </dd>
+                    </dl>
+                </li>
+                                                <li>
+                                        <dl>
+                        <dt>
+                        <div class="t6">
+                            <p class="figure">
+                                <img src="//uds.gnst.jp/rest/img/c9z9ef2r0000/t_0n5l.jpg?t=1487848035&amp;g=157" width="100" height="100" alt="" title="" />
+                            </p>
+                        </div>
+                        </dt>
+                        <dd>
+                            <section>
+                                <div class="section">
+                                                                                                                                                                                                                                                                        <h1>
+                                                                                    <a href="http://r.gnavi.co.jp/g064213/menu6/" >ボリューム満点プラン￥4,000　</a>
+                                                                            </h1>
+                                    <p class="txt">当店自慢の『名物ファフィータ』と種類豊富な飲み放題メニュー</p>
+                                                                            <p class="more"><a href="http://r.gnavi.co.jp/g064213/menu6/" class="go ">詳しく見る</a></p>
+                                                                </section>
+                        </dd>
+                    </dl>
+                </li>
+                                                <li class="last">
+                                        <dl>
+                        <dt>
+                        <div class="t6">
+                            <p class="figure">
+                                <img src="//uds.gnst.jp/rest/img/c9z9ef2r0000/t_027d.jpg?t=1466509724&amp;g=157" width="100" height="100" alt="" title="" />
+                            </p>
+                        </div>
+                        </dt>
+                        <dd>
+                            <section>
+                                <div class="section">
+                                                                                                                                                                                                                                                                        <h1>
+                                                                                    <a href="http://r.gnavi.co.jp/g064213/menu8/" >思い出に残る記念日サプライズを</a>
+                                                                            </h1>
+                                    <p class="txt">コース特典でサプライズメーセージ入りお祝いプレートを無料でご用意致します。</p>
+                                                                            <p class="more"><a href="http://r.gnavi.co.jp/g064213/menu8/" class="go ">詳しく見る</a></p>
+                                                                </section>
+                        </dd>
+                    </dl>
+                </li>
+                            </ul>
+        </div>
+                <!-- motif-topics --></div>
+        <!-- motif --></div>
+
+
+<div id="pr" >
+        <p id="pr50" class="tt text-deep">
+        宴会・記念日・送別会・歓迎会<br />
+銀座・大注目！！コロナもスパークリングも3時間飲み放題　<br />
+ボリューム満点・全8品　￥4,000<br />
+ラテンリゾート空間【完全個室】最大23名様
+        <!-- pr50 --></p>
+            <p id="pr200" class="tt text-accent">
+        ★★★　毎日【HAPPY HOUR】19時まで対象ドリンク￥300　★★★<br />
+朝5:00まで営業<br />
+<br />
+●ボリューム満点!!名物ファフィータコース<br />
+ 　3時間飲み放題　全8品　￥4,000<br />
+<br />
+様々なシーンで最適な6つの完全個室  <br />
+【全室PC,iPad,HDMI等　設備も充実！！】<br />
+【6〜10名様　　完全個室&times;1】　　　　　　<br />
+【6〜12名様　　完全個室&times;4】　　　　　　<br />
+【13〜23名様　 完全個室&times;1】　　　　　 <br />
+<br />
+他店圧倒【150種】最強の飲み放題メニュー<br />
+■氷点下スーパードライ　■コロナ　■ジーマ　■スミノフ<br />
+■フリージングハイボール■ドライプレミアム　■樽詰スパークリング
+        <!-- pr200 --></p>
+    <!-- pr --></div>
+
+
+    <section>
+    <div id="top-kodawariN" class="kodawariN-tmn-x5 section unit">
+        <div id="top-kodawariN-inner">
+            <div id="top-kodawariN-inner-head">
+                <h1>当店のこだわり</h1>
+                <p>食材や調理法、空間から接客まで。お客様をおもてなし。</p>
+            </div>
+            <ul id="kodawariN-x5" class="top-kodawariN-inner-list l3 cx">
+                                                    <li class="first">
+                                    <div class="t3">
+                        <a href="https://r.gnavi.co.jp/g064213/kodawari/#kodawari1">
+                            <div class="figure">
+                                <img src="//uds.gnst.jp/rest/img/c9z9ef2r0000/t_0n5k.jpg?t=1488458774&amp;g=224" width="214" height="214" alt="6名様～最大23名様" title="6名様～最大23名様" />
+                                <div class="kodawariN-meta"><div class="kodawariN-meta-head"><p class="cat">完全個室</p><p class="title">6名様～最大23名様</p></div><div class="kodawariN-meta-hide"><p class="txt">6つの異なる完全個室で優雅な時間をお過ごし下さい。</p></div><p class="lnk"><span class="g">詳細を見る</span></p></div>
+                            </div>
+                        </a>
+                    </div>
+                            </li>
+                                                    <li>
+                                    <div class="t3">
+                        <a href="https://r.gnavi.co.jp/g064213/kodawari/#kodawari2">
+                            <div class="figure">
+                                <img src="//uds.gnst.jp/rest/img/c9z9ef2r0000/t_01au.jpg?t=1487847740&amp;g=224" width="214" height="214" alt="氷点下ビールもコロナも飲み放題！！" title="氷点下ビールもコロナも飲み放題！！" />
+                                <div class="kodawariN-meta"><div class="kodawariN-meta-head"><p class="cat">ビールにこだわる</p><p class="title">氷点下ビールもコロナも飲み放題！！</p></div><div class="kodawariN-meta-hide"><p class="txt">【種類豊富！！】なんと『コロナ、ジーマ、スミノフアイス』も飲み放題！！エクストラコールド、一番搾りフローズン生、樽詰スパークリング、フリージングハ…</p></div><p class="lnk"><span class="g">詳細を見る</span></p></div>
+                            </div>
+                        </a>
+                    </div>
+                            </li>
+                                                    <li>
+                                    <div class="t3">
+                        <a href="https://r.gnavi.co.jp/g064213/kodawari/#kodawari3">
+                            <div class="figure">
+                                <img src="//uds.gnst.jp/rest/img/c9z9ef2r0000/t_027n.jpg?t=1481960353&amp;g=224" width="214" height="214" alt="3時間飲み放題　全8品　￥4,000～" title="3時間飲み放題　全8品　￥4,000～" />
+                                <div class="kodawariN-meta"><div class="kodawariN-meta-head"><p class="cat">3時間以上の宴会・パーティ</p><p class="title">3時間飲み放題　全8品　￥4,000～</p></div><div class="kodawariN-meta-hide"><p class="txt">『モダン・メキシカン』の最高峰！！銀座・大注目！！コロナもスパークリングも3時間飲み放題ボリューム満点・全8品￥4,000</p></div><p class="lnk"><span class="g">詳細を見る</span></p></div>
+                            </div>
+                        </a>
+                    </div>
+                            </li>
+                                                    <li>
+                                    <div class="t3">
+                        <a href="https://r.gnavi.co.jp/g064213/kodawari/#kodawari4">
+                            <div class="figure">
+                                <img src="//uds.gnst.jp/rest/img/c9z9ef2r0000/t_027r.jpg?t=1485430167&amp;g=224" width="214" height="214" alt="誕生日・記念日の主役にサプライズを" title="誕生日・記念日の主役にサプライズを" />
+                                <div class="kodawariN-meta"><div class="kodawariN-meta-head"><p class="cat">サプライズサービスあり</p><p class="title">誕生日・記念日の主役にサプライズを</p></div><div class="kodawariN-meta-hide"><p class="txt">誕生日・大切な記念日はもちろん！歓迎会や送別会の主役にコースのデザートを無料でデザートプレートに変更できます♪</p></div><p class="lnk"><span class="g">詳細を見る</span></p></div>
+                            </div>
+                        </a>
+                    </div>
+                            </li>
+                                                    <li class="last">
+                                    <div class="t3">
+                        <a href="https://r.gnavi.co.jp/g064213/kodawari/#kodawari5">
+                            <div class="figure">
+                                <img src="//uds.gnst.jp/rest/img/c9z9ef2r0000/t_0273.jpg?t=1487847162&amp;g=224" width="214" height="214" alt="モニター付ロフト完全個室～23名様" title="モニター付ロフト完全個室～23名様" />
+                                <div class="kodawariN-meta"><div class="kodawariN-meta-head"><p class="cat">個室貸切</p><p class="title">モニター付ロフト完全個室～23名様</p></div><div class="kodawariN-meta-hide"><p class="txt">【13～23名様】VIP-3大人数の宴会にピッタリ！充実した設備のロフト貸切ルーム店内奥の隠れ家的ロフト個室！</p></div><p class="lnk"><span class="g">詳細を見る</span></p></div>
+                            </div>
+                        </a>
+                    </div>
+                            </li>
+                    </ul>
+        </div>
+    </div>
+<!-- top-kodawariN --></section>
+
+<div id="top-news" class="unit unit-inner">
+        <div id="topics" class="first last">
+    <table id="topics-table">
+        <tbody>
+        <tr>
+            <th class="midst"><dl><dt>トピックス</dt><dd>当店のおいしい情報や<br />オススメ情報をお知らせ</dd></dl></th>
+            <td>
+                <ul class="ls">
+                                                                                                                                    <li>
+                                                                                                                                                <a href="http://r.gnavi.co.jp/g064213/equipment/koshitsu/" class="g ">
+                            【 完全個室 】6つのVIP個室　全室独立モニター付き♪</a>
+                                        </li>
+                                                            <li>
+                                                                                                                                                <a href="http://r.gnavi.co.jp/g064213/menu6/" class="g ">
+                            【 名物ファフィータ・プラン 】3時間飲み放題　全8品　￥4,000</a>
+                                        </li>
+                                                            <li>
+                                                                                                                                                <a href="http://r.gnavi.co.jp/g064213/menu6/" class="g ">
+                            【 雰囲気抜群 】リゾート感満載☆オシャレな店内のご紹介♪</a>
+                                        </li>
+                                                            <li>
+                                                                                                                                                <a href="http://r.gnavi.co.jp/plan/g064213/plan-reserve/plan/plan_list/#wrapper" class="g ">
+                            【 空席情報 】宴会・飲み会・合コンなどのご予約はこちら</a>
+                                        </li>
+                                                            <li>
+                                                                                                                                                <a href="http://r.gnavi.co.jp/g064213/menu8/" class="g ">
+                            【 記念日 】無料サプライズ特典がいっぱい!!</a>
+                                        </li>
+                                                            <li>
+                                                                                                                                                <a href="http://r.gnavi.co.jp/g064218/" class="g ">
+                            【2F☆NEO-SNAPPER CARNAVAL】ゆったり優雅にお食事会♪</a>
+                                        </li>
+                                    </ul>
+            </td>
+        </tr>
+        </tbody>
+    </table>
+    <!-- topics --></div>
+        </div>
+
+<section>
+    <div id="top-menu" class="section unit">
+                <h1 class="bg-assort text-key">おすすめメニュー</h1>
+        <div class="unit-inner">
+            <!-- norank|osusume -->
+            <ul id="top-menu-norank" class="l3 cx">
+                                                    <li class="first">
+                                        <dl class="norank">
+                        <dt class="ranking-term ellipsis">3時間飲み放題　全8品　￥4,000　宴会・送別会・女子会【名物ファフィータ！！】※金・祝前は2時間制</dt>
+                        <dd>
+                            <div class="t3">
+                                                                                            <a href="https://r.gnavi.co.jp/g064213/menu6/course/6/">
+                                                                    <p class="figure">
+                                                                            <img src="//uds.gnst.jp/rest/img/c9z9ef2r0000/t_0n5g.jpg?t=1487847740&amp;g=224" width="214" height="214" alt="3時間飲み放題　全8品　￥4,000　宴会・送別会・女子会【名物ファフィータ！！】※金・祝前は2時間制" title="3時間飲み放題　全8品　￥4,000　宴会・送別会・女子会【名物ファフィータ！！】※金・祝前は2時間制" />
+                                                                        </p>
+                                </a>
+                                                        </div>
+                        </dd>
+                    </dl>
+                </li>
+                                                    <li>
+                                        <dl class="norank">
+                        <dt class="ranking-term ellipsis">★★★種類の豊富さに自信あり★★★</dt>
+                        <dd>
+                            <div class="t3">
+                                                                                            <a href="https://r.gnavi.co.jp/g064213/menu6/">
+                                                                    <p class="figure">
+                                                                            <img src="//uds.gnst.jp/rest/img/c9z9ef2r0000/t_01s7.jpg?t=1468668852&amp;g=224" width="214" height="214" alt="★★★種類の豊富さに自信あり★★★" title="★★★種類の豊富さに自信あり★★★" />
+                                                                        </p>
+                                </a>
+                                                        </div>
+                        </dd>
+                    </dl>
+                </li>
+                                                    <li class="last">
+                                        <dl class="norank">
+                        <dt class="ranking-term ellipsis">記念日無料特典♪</dt>
+                        <dd>
+                            <div class="t3">
+                                                                                            <a href="https://r.gnavi.co.jp/g064213/menu8/">
+                                                                    <p class="figure">
+                                                                            <img src="//uds.gnst.jp/rest/img/c9z9ef2r0000/t_027s.jpg?t=1482823539&amp;g=224" width="214" height="214" alt="記念日無料特典♪" title="記念日無料特典♪" />
+                                                                        </p>
+                                </a>
+                                                        </div>
+                        </dd>
+                    </dl>
+                </li>
+                            </ul>
+            <!-- /norank|osusume -->
+            <p class="more"><a href="https://r.gnavi.co.jp/g064213/menu6/" class="goto">メニューをもっと見る</a></p>
+                    </div>
+            </div>
+<!-- top-ranking --></section>
+
+
+    <section>
+        <div id="top-reserve">
+            <div class="section unit">
+                <h2 class="heading--unit bg-assort text-key">ネット予約できるおすすめコース</h2>
+                                    <div class="unit-inner">
+                        <ul class="mod-reserve">
+                                                                                                                                                                                                                                                                <li class="l-top-reserve-inner-plan">
+                                    <article>
+                                        <div class="l-table">
+                                                                                            <div class="l-table-cell">
+                                                    <div class="l-top-reserve-inner-plan__photo t8 is-center">
+                                                        <a href="https://r.gnavi.co.jp/plan/g064213/plan-reserve/plan/plan_list/:c6#link-search-body" title="3時間飲み放題　全8品　￥4,000　宴会・送別会・女子会【名物ファフィータ！！】※金・祝前は2時間制 ">
+                                                            <div class="figure">
+                                                                <img src="https://uds.gnst.jp/rest/img/c9z9ef2r0000/t_0n5g.jpg?t=1487847740&amp;g=80" />
+                                                            </div>
+                                                        </a>
+                                                    </div>
+                                                </div>
+                                                                                        <div class="l-table-cell">
+                                                <ul class="l-top-reserve-inner-plan__info text--m">
+                                                    <li>
+                                                        <h3 class="plan__name">
+                                                            <a href="https://r.gnavi.co.jp/plan/g064213/plan-reserve/plan/plan_list/:c6#link-search-body" title="3時間飲み放題　全8品　￥4,000　宴会・送別会・女子会【名物ファフィータ！！】※金・祝前は2時間制 ">3時間飲み放題　全8品　￥4,000　宴会・送別会・女子会【名物ファフィータ！！】※金・祝前は2時間制 </a>
+                                                        </h3>
+                                                    </li>
+                                                                                                            <li>
+                                                            <div class="price">
+                                                                料金：                        
+            <span class="plan__price--main">4,000円</span>
+            <span class="plan__price--sub">（税込4,320円）</span>/ 1名様
+            
+                                                            </div>
+                                                        </li>
+                                                                                                                                                                <li>
+                                                            <ul>
+                                                                                                                                    <li class="tag-item tag-item--present">
+                                                                        ネット予約特典
+                                                                        <span class="text--main">&nbsp;無料でお祝いプレートに変更ＯＫ</span>
+                                                                    </li>
+                                                                                                                                                                                                                                                                    <li class="tag-item tag-item--info">飲み放題</li>
+                                                                                                                            </ul>
+                                                        </li>
+                                                                                                    </ul>
+                                                <p class="l-top-reserve-inner-plan__btn">
+                                                    <a href="https://r.gnavi.co.jp/plan/g064213/plan-reserve/plan/plan_list/:c6#link-search-body" title="空席確認・予約" class="button-reserve-seat btn-basic btn-w117 btn-h25 btn-f13 btn-bgOrng clickable">空席確認・予約</a>
+                                                </p>
+                                            </div>
+                                        </div>
+                                    </article>
+                                </li>
+                                                                                                                                                                                                                                    <li class="l-top-reserve-inner-plan">
+                                    <article>
+                                        <div class="l-table">
+                                                                                            <div class="l-table-cell">
+                                                    <div class="l-top-reserve-inner-plan__photo t8 is-center">
+                                                        <a href="https://r.gnavi.co.jp/plan/g064213/plan-reserve/plan/plan_list/:c7#link-search-body" title="VIP個室確約プラン◆3時間飲み放題　全8品　￥4,000【名物ファフィータ！！】※金曜・祝前日は2時間制">
+                                                            <div class="figure">
+                                                                <img src="https://uds.gnst.jp/rest/img/c9z9ef2r0000/t_0n5k.jpg?t=1488458774&amp;g=80" />
+                                                            </div>
+                                                        </a>
+                                                    </div>
+                                                </div>
+                                                                                        <div class="l-table-cell">
+                                                <ul class="l-top-reserve-inner-plan__info text--m">
+                                                    <li>
+                                                        <h3 class="plan__name">
+                                                            <a href="https://r.gnavi.co.jp/plan/g064213/plan-reserve/plan/plan_list/:c7#link-search-body" title="VIP個室確約プラン◆3時間飲み放題　全8品　￥4,000【名物ファフィータ！！】※金曜・祝前日は2時間制">VIP個室確約プラン◆3時間飲み放題　全8品　￥4,000【名物ファフィータ！！】※金曜・祝前日は2時間制</a>
+                                                        </h3>
+                                                    </li>
+                                                                                                            <li>
+                                                            <div class="price">
+                                                                料金：                        
+            <span class="plan__price--main">4,000円</span>
+            <span class="plan__price--sub">（税込4,320円）</span>/ 1名様
+            
+                                                            </div>
+                                                        </li>
+                                                                                                                                                                <li>
+                                                            <ul>
+                                                                                                                                    <li class="tag-item tag-item--present">
+                                                                        ネット予約特典
+                                                                        <span class="text--main">&nbsp;機材貸し出し無料</span>
+                                                                    </li>
+                                                                                                                                                                                                                                                                    <li class="tag-item tag-item--info">飲み放題</li>
+                                                                                                                            </ul>
+                                                        </li>
+                                                                                                    </ul>
+                                                <p class="l-top-reserve-inner-plan__btn">
+                                                    <a href="https://r.gnavi.co.jp/plan/g064213/plan-reserve/plan/plan_list/:c7#link-search-body" title="空席確認・予約" class="button-reserve-seat btn-basic btn-w117 btn-h25 btn-f13 btn-bgOrng clickable">空席確認・予約</a>
+                                                </p>
+                                            </div>
+                                        </div>
+                                    </article>
+                                </li>
+                                                                                                                                                                                                                                    <li class="l-top-reserve-inner-plan">
+                                    <article>
+                                        <div class="l-table">
+                                                                                            <div class="l-table-cell">
+                                                    <div class="l-top-reserve-inner-plan__photo t8 is-center">
+                                                        <a href="https://r.gnavi.co.jp/plan/g064213/plan-reserve/plan/plan_list/:c5#link-search-body" title="【席のみ予約】2名様からＯＫ!!コースを指定せずに席のみ予約♪">
+                                                            <div class="figure">
+                                                                <img src="https://uds.gnst.jp/rest/img/c9z9ef2r0000/t_0n5f.jpg?t=1473247860&amp;g=80" />
+                                                            </div>
+                                                        </a>
+                                                    </div>
+                                                </div>
+                                                                                        <div class="l-table-cell">
+                                                <ul class="l-top-reserve-inner-plan__info text--m">
+                                                    <li>
+                                                        <h3 class="plan__name">
+                                                            <a href="https://r.gnavi.co.jp/plan/g064213/plan-reserve/plan/plan_list/:c5#link-search-body" title="【席のみ予約】2名様からＯＫ!!コースを指定せずに席のみ予約♪">【席のみ予約】2名様からＯＫ!!コースを指定せずに席のみ予約♪</a>
+                                                        </h3>
+                                                    </li>
+                                                                                                            <li>
+                                                            <p class="text text--s">お食事などを当日ご注文頂きご精算ください。</p>
+                                                        </li>
+                                                                                                                                                        </ul>
+                                                <p class="l-top-reserve-inner-plan__btn">
+                                                    <a href="https://r.gnavi.co.jp/plan/g064213/plan-reserve/plan/plan_list/:c5#link-search-body" title="空席確認・予約" class="button-reserve-seat btn-basic btn-w117 btn-h25 btn-f13 btn-bgOrng clickable">空席確認・予約</a>
+                                                </p>
+                                            </div>
+                                        </div>
+                                    </article>
+                                </li>
+                                                    </ul>
+                        <p class="l-top-reserve-inner-plan__more">
+                                                                                    <a href="https://r.gnavi.co.jp/plan/g064213/plan-reserve/plan/plan_list/?date=20170307#wrapper" class="goto  js-trk--click js-trk__T_003">ネット予約できるコースをもっと見る</a>
+                        </p>
+                    </div>
+                
+                                    <div class="unit-inner">
+                        <section>
+                            <div class="section">
+                                <h3 class="heading--unit course-title subtitle border-assort">来店日からコースを探す</h3>
+                                <div class="cx">
+                                    <table class="table--basic table__calendar">
+                                        <thead>
+                                            <tr>
+                                                                                                                                                                                                            <th class="__th ">3/7<span>火</span></th>
+                                                                                                                                                                                                            <th class="__th ">3/8<span>水</span></th>
+                                                                                                                                                                                                            <th class="__th ">3/9<span>木</span></th>
+                                                                                                                                                                                                            <th class="__th ">3/10<span>金</span></th>
+                                                                                                                                                                                                                                                                                                                        <th class="__th __th--sat">3/11<span>土</span></th>
+                                                                                                                                                                                                                                                                                                                        <th class="__th __th--sun">3/12<span>日</span></th>
+                                                                                                                                                                                                            <th class="__th ">3/13<span>月</span></th>
+                                                                                            </tr>
+                                        </thead>
+                                        <tbody>
+                                            <tr>
+                                                                                                    <td>
+                                                                                                                    <a href="https://r.gnavi.co.jp/plan/g064213/plan-reserve/plan/plan_list/?date=20170307#wrapper" class="__td js-trk--click js-trk__T_004"><span class="icon-reserve icon-reserve--ok" title="空席あり"></span></a>
+                                                                                                            </td>
+                                                                                                    <td>
+                                                                                                                    <a href="https://r.gnavi.co.jp/plan/g064213/plan-reserve/plan/plan_list/?date=20170308#wrapper" class="__td js-trk--click js-trk__T_004"><span class="icon-reserve icon-reserve--ok" title="空席あり"></span></a>
+                                                                                                            </td>
+                                                                                                    <td>
+                                                                                                                    <a href="https://r.gnavi.co.jp/plan/g064213/plan-reserve/plan/plan_list/?date=20170309#wrapper" class="__td js-trk--click js-trk__T_004"><span class="icon-reserve icon-reserve--ok" title="空席あり"></span></a>
+                                                                                                            </td>
+                                                                                                    <td>
+                                                                                                                    <a href="https://r.gnavi.co.jp/plan/g064213/plan-reserve/plan/plan_list/?date=20170310#wrapper" class="__td js-trk--click js-trk__T_004"><span class="icon-reserve icon-reserve--ok" title="空席あり"></span></a>
+                                                                                                            </td>
+                                                                                                    <td>
+                                                                                                                    <a href="https://r.gnavi.co.jp/plan/g064213/plan-reserve/plan/plan_list/?date=20170311#wrapper" class="__td js-trk--click js-trk__T_004"><span class="icon-reserve icon-reserve--ok" title="空席あり"></span></a>
+                                                                                                            </td>
+                                                                                                    <td>
+                                                                                                                    <a href="https://r.gnavi.co.jp/plan/g064213/plan-reserve/plan/plan_list/?date=20170312#wrapper" class="__td js-trk--click js-trk__T_004"><span class="icon-reserve icon-reserve--ok" title="空席あり"></span></a>
+                                                                                                            </td>
+                                                                                                    <td>
+                                                                                                                    <a href="https://r.gnavi.co.jp/plan/g064213/plan-reserve/plan/plan_list/?date=20170313#wrapper" class="__td js-trk--click js-trk__T_004"><span class="icon-reserve icon-reserve--ok" title="空席あり"></span></a>
+                                                                                                            </td>
+                                                                                            </tr>
+                                        </tbody>
+                                    </table>
+                                    <p class="text text--x-s text--thin">○：空席あり&emsp;■：お店に要確認&emsp;－：ネット予約受付なし</p>
+                                </div>
+                            </div>
+                        </section>
+                    </div>
+                            </div>
+        </div>
+    </section>
+
+    
+<section>
+    <div id="top-seat" class="section unit">
+        <h1 class="bg-assort text-key">個室情報</h1>
+        <div class="unit-inner">
+            <ul>
+                <li>
+                    <div class="t4">
+                        <a href="https://r.gnavi.co.jp/g064213/equipment/koshitsu/">
+                            <div class="figure"><img src="//uds.gnst.jp/rest/img/c9z9ef2r0000/t_0n5k.jpg?t=1488458774&amp;g=157" width="157" height="157" alt="☆【　VIP個室　6名様～23名様　】☆" title="☆【　VIP個室　6名様～23名様　】☆" /></div>
+                        </a>
+                    </div>
+                    <div class="top-seat-meta">
+                                            <p class="cat"><span class="label-original">その他</span></p>
+                                                                <p class="title">☆【　VIP個室　6名様～23名様　】☆</p>
+                                                                <p class="txt">6つのVIP【 超完全個室 】壁は天井まで立ち上がっていますので周りのグループの話し声は全く気にならない！全部屋に独立モニターとブルーレイの設備を備えた完全プライベート空間となっており至福の時間をお過ごしいただけます♪
+※VIP4～6は同ビル2階カルナヴァルでのご案内となります。</p>
+                                            <p class="more">
+                            <a href="https://r.gnavi.co.jp/g064213/equipment/koshitsu/" class="goto">個室情報をもっと見る</a>
+                        </p>
+                    </div>
+                </li>
+            </ul>
+        </div>
+    </div>
+<!-- top-seat --></section>
+
+<section>
+    <div id="pickup" class="section unit">
+        <h1 class="bg-assort text-key">ピックアップ写真</h1>
+        <div class="unit-inner">
+            <ul class="l4 cx">
+                                                    <li class="first">
+                                        <div class="t4">
+                                                                                <a href="https://r.gnavi.co.jp/g064213/photo/">
+                                                                            <p class="figure">
+                        <img src="//uds.gnst.jp/rest/img/c9z9ef2r0000/t_01tr.jpg?t=1464602362&amp;g=157" width="157" height="157" alt="個室【6～10名様】
+高級感のあるソファ個室　オトナの宴会に◎" title="個室【6～10名様】
+高級感のあるソファ個室　オトナの宴会に◎" />
+                        </p>
+                                                </a>
+                                            </div>
+                                        <p class="txt midst">個室【6～10名様】<br />
+高級感のあるソファ個室　オトナの宴会に◎</p>
+                                    </li>
+                                                    <li>
+                                        <div class="t4">
+                                                                                <a href="https://r.gnavi.co.jp/g064213/photo/">
+                                                                            <p class="figure">
+                        <img src="//uds.gnst.jp/rest/img/c9z9ef2r0000/t_027a.jpg?t=1466507141&amp;g=157" width="157" height="157" alt="個室【13～23名様】
+大人数様ＯＫのモニター付き貸切ルーム" title="個室【13～23名様】
+大人数様ＯＫのモニター付き貸切ルーム" />
+                        </p>
+                                                </a>
+                                            </div>
+                                        <p class="txt midst">個室【13～23名様】<br />
+大人数様ＯＫのモニター付き貸切ルーム</p>
+                                    </li>
+                                                    <li>
+                                        <div class="t4">
+                                                                                <a href="https://r.gnavi.co.jp/g064213/photo/">
+                                                                            <p class="figure">
+                        <img src="//uds.gnst.jp/rest/img/c9z9ef2r0000/t_026y.jpg?t=1466507141&amp;g=157" width="157" height="157" alt="個室【6～12名様】
+やさしい灯りで落ち着きのある特別な個室" title="個室【6～12名様】
+やさしい灯りで落ち着きのある特別な個室" />
+                        </p>
+                                                </a>
+                                            </div>
+                                        <p class="txt midst">個室【6～12名様】<br />
+やさしい灯りで落ち着きのある特別な個室</p>
+                                    </li>
+                                                    <li class="last">
+                                        <div class="t4">
+                                                                                <a href="https://r.gnavi.co.jp/g064213/photo/">
+                                                                            <p class="figure">
+                        <img src="//uds.gnst.jp/rest/img/c9z9ef2r0000/t_027c.jpg?t=1466507141&amp;g=157" width="157" alt="個室【6～12名様】
+艶やかなソファ個室　合コンや女子会に♪" title="個室【6～12名様】
+艶やかなソファ個室　合コンや女子会に♪" />
+                        </p>
+                                                </a>
+                                            </div>
+                                        <p class="txt midst">個室【6～12名様】<br />
+艶やかなソファ個室　合コンや女子会に♪</p>
+                                    </li>
+                            </ul>
+                                            <p class="more"><a href="https://r.gnavi.co.jp/g064213/photo/" class="goto">写真をもっと見る</a></p>
+                                    </div>
+    </div>
+    <!-- pickup --></section>
+
+<div id="fyi" class="box">
+    <ul id="ul_fyi">
+                                <li class="last" id="li_mimiyori">
+            <table id="fyi-mimi" class="fyi-table">
+                <tbody>
+                <tr>
+                    <th class="midst">耳寄り情報</th>
+                    <td>
+                        <ul class="ls">
+                                                                                    <li><a href="https://r.gnavi.co.jp/g064213/custom1" class="g">★【DRINK】銀座でも有数の豊富なドリンクメニュー★</a></li>
+                                                                                                                <li><a href="https://r.gnavi.co.jp/g064213/custom3" class="g">★【EVENT】各種イベント＆お祝い事＆愉快な仲間たち★</a></li>
+                                                                                </ul>
+                    </td>
+                </tr>
+                </tbody>
+            </table>
+        </li>
+            </ul>
+    <!-- cmp --></div>
+
+
+
+
+    
+<section>
+    <div id="info" class="section unit">
+        <h1 class="bg-assort text-key">SNAPPER＆GROUPER &nbsp;基本情報</h1>
+        <div class="unit-inner cx">
+            <div id="info-table" class="full">
+                <table class="basic-table">
+                    <tbody>
+                    <tr>
+                        <th>店名</th>
+                        <td>
+                                                            <p id="info-name" class="fn org summary">SNAPPER＆GROUPER</p>
+                                <p id="info-kana">スナッパーアンドグルーパー</p>
+                                                    </td>
+                    </tr>
+                    <tr id="info-phone">
+                                                <th>電話番号・FAX</th>
+                                                <td>
+                            <ul>
+                                                                                                                                                        <li><span class="number">050-3467-2213</span><span class="note"></span></li>
+                                                                                                                                                                <li><span class="number">03-5568-8859</span><span class="note"></span></li>
+                                                                                                                                                        <li><p class="note">お問合わせの際はぐるなびを見たというとスムーズです。</p></li>
+                                                                                                </ul>
+                                                                                                                    <p><a href="https://r.gnavi.co.jp/plan/g064213/plan-reserve/plan/plan_list/?date=20170307#wrapper" class="go  js-trk--click js-trk__T_005">ネット予約はこちらから</a></p>
+                                                                                        <ul id="info-fax">
+                                                                            <li>
+                                                                                        FAX：<span>03-5568-7011</span>
+                                                                                                                                </li>
+                                                                    </ul>
+                                                    </td>
+                    </tr>
+                    <tr >
+                        <th>住所</th>
+                        <td>
+                                                            <p class="adr slink">
+                                                                            〒104-0061&nbsp;
+                                                                        <span class="region"><a href="http://r.gnavi.co.jp/area/tokyo/italian/rs/">東京</a>都中央区<a href="http://r.gnavi.co.jp/area/aream2105/" >銀座</a>7-2-20</span>&nbsp;<span class="locality">パシフィックギンザビル1F</span>                                </p>
+
+                                                                                    <div id="info-table-map">
+                                <a href="https://r.gnavi.co.jp/g064213/map/" id="info-table-map-img">
+                                    <p class="figure"><img src="//maps.googleapis.com/maps/api/staticmap?markers=icon:http%3A%2F%2Fr.gnst.jp%2Fc%2Fr%2Fmarker_ns.png%7C35.67101033,139.7602075&amp;size=487x129&amp;zoom=16&amp;sensor=false&amp;client=gme-gnavi&amp;signature=4WgHBR7uUu2LDyAjaEEptgVXR_A=" width="487" height="129" alt="地図・アクセス" title="地図・アクセス" /></p>
+                                </a>
+                                <div id="info-table-map-link">
+                                    <a href="https://r.gnavi.co.jp/g064213/map/" class="window">大きな地図で見る</a>
+                                    <a href="https://r.gnavi.co.jp/g064213/print/" target="_blank" class="print">地図印刷</a>
+                                </div>
+                            </div>
+                                                    </td>
+                    </tr>
+                                                                                <tr>
+                        <th>アクセス</th>
+                        <td>
+                                                            <ul>
+                                                                            <li>地下鉄 銀座駅 C1・C2・C3出口 徒歩5分 </li>
+                                                                            <li>ＪＲ 有楽町駅 日比谷口 徒歩5分 </li>
+                                                                            <li>ＪＲ 新橋駅 銀座口 徒歩5分 </li>
+                                                                            <li>地下鉄 新橋駅 5番出口 徒歩5分 </li>
+                                                                            <li>地下鉄 日比谷駅 A13出口 徒歩5分 </li>
+                                                                            <li>ゆりかもめ 新橋駅 A3出口 徒歩5分 </li>
+                                                                            <li>都営三田線 内幸町駅 A5出口 徒歩5分 </li>
+                                                                                                        </ul>
+                                                    </td>
+                    </tr>
+                                                            <tr>
+                        <th>駐車場</th>
+                        <td>
+                            <ul class="inline">
+                                                                    <li>有：共有有料</li>
+                                                                                                                                            <li>（目の前に路上パーキングが御座います。）</li>
+                                                                                                </ul>
+                        </td>
+                    </tr>
+                                                                <tr id="info-open">
+                            <th>営業時間</th>
+                            <td>
+                                <div>
+                                    月～土・祝前日<br />
+17:00～翌5:00<br />
+（L.O.4:00）<br />
+<br />
+日・祝日<br />
+17:00～23:00<br />
+（L.O.22:30、ドリンクL.O.22:30）
+                                </div>
+                            </td>
+                        </tr>
+                                                                <tr id="info-holiday">
+                            <th>定休日</th>
+                            <td>
+                                <ul>
+                                                                        <li>無</li>
+                                                                        <li>年末年始（2017年12月31日～2018年1月3日）</li>
+                                                                    </ul>
+                            </td>
+                        </tr>
+                                                                <tr>
+                            <th>平均予算</th>
+                            <td>
+                                <ul>
+                                                                            <li><span class="pricerange">4,000</span>円（通常平均）</li>
+                                                                                                                <li>4,000円（宴会平均）</li>
+                                                                                                        </ul>
+                            </td>
+                        </tr>
+                                                                                    <tr id="info-paymentaccepted">
+                            <th>クレジットカード</th>
+                            <td>
+                                <ul class="line nowrap cx">
+                                                                        <li>MasterCard</li>
+                                                                        <li>UC</li>
+                                                                        <li>DC</li>
+                                                                        <li>UFJ</li>
+                                                                        <li>ダイナースクラブ</li>
+                                                                        <li>アメリカン・エキスプレス</li>
+                                                                        <li>JCB</li>
+                                                                        <li>NICOS</li>
+                                                                        <li>セゾン</li>
+                                                                        <li>MUFG</li>
+                                                                    </ul>
+                            </td>
+                        </tr>
+                                                                                    <tr>
+                            <th>予約キャンセル規定</th>
+                            <td>
+                                <ul>
+                                                                        <li>20名様以上の場合（予約日の3日前以降）</li>
+                                                                            <li>
+                                            <ul class="line nowrap cx">
+                                                <li class="label">キャンセル料：</li>
+                                                <li>40,000円</li>
+                                            </ul>
+                                        </li>
+                                        <li>30名様を超えるご予約の際、予約申込書をメールにてお送りしております。ご記入の上、返信をお願い致します。また、貸切におきましては、打ち合わせ、前金（保障料金の10%）が必要になります。ご不明な点が御座いましたら03-5568-8859までお問い合わせ下さい！</li>
+                                                                    </ul>
+                            </td>
+                        </tr>
+                                                                <tr>
+                            <th>お店のホームページ</th>
+                            <td>
+                                <ul>
+                                    <li><a href="#" class="url go-off" target="_blank" data-o='{"a":"www.skco.co.jp","b":"http"}'>お店のホームページ</a></li>
+                                </ul>
+                            </td>
+                        </tr>
+                                                                <tr>
+                            <th>開店年月日</th>
+                            <td>
+                                <ul>
+                                    <li>2000年4月26日</li>
+                                </ul>
+                            </td>
+                        </tr>
+                                                                                    <tr>
+                            <th>備考</th>
+                            <td>
+                                <ul>
+                                    <li>【予約受付時間について】<br />
+月～金 午前10時～<br />
+土曜日 午前11時～<br />
+日・祝 午後5時～<br />
+</li>
+                                </ul>
+                            </td>
+                        </tr>
+                                        </tbody>
+                </table>
+                                <section>
+                    <div id="info-table-seat" class="section">
+                        <h1 class="subtitle border-assort">席・設備</h1>
+                        <table class="basic-table">
+                            <tbody>
+                                                        <tr>
+                                <th>総席数</th>
+                                <td>
+                                                                        <ul class="line cx">
+                                        <li>120席</li>
+                                    </ul>
+                                                                                                                <ul class="line cx">
+                                                                                    <li>カウンター席あり</li>
+                                                                                    <li>ソファー席あり</li>
+                                                                                    <li>テラス・屋外席あり</li>
+                                                                                </ul>
+                                                                    </td>
+                            </tr>
+                                                                                        <tr>
+                                    <th>宴会最大人数</th>
+                                    <td>
+                                        <ul class="line cx">
+                                                                                            <li>120名様（着席時）</li>
+                                                                                                                                        <li>150名様（立食時）</li>
+                                                                                    </ul>
+                                    </td>
+                                </tr>
+                                                                                        <tr>
+                                    <th>貸切可能人数</th>
+                                    <td>
+                                        <ul class="line cx">
+                                            <li>
+                                                                                                    40名様
+                                                
+                                                                                                    ～120名様
+                                                                                            </li>
+                                        </ul>
+                                    </td>
+                                </tr>
+                                                                                        <tr>
+                                                                            <th class="slink"><a href="https://r.gnavi.co.jp/g064213/equipment/koshitsu/">個室</a></th>
+                                                                        <td>
+                                        <ul>
+                                                                                            <li>
+                                                    テーブル個室あり（1室/6名～10名様用/扉・壁あり）
+                                                </li>
+                                                                                            <li>
+                                                    テーブル個室あり（4室/6名～12名様用/扉・壁あり）
+                                                </li>
+                                                                                            <li>
+                                                    テーブル個室あり（1室/13名～23名様用/扉・壁あり）
+                                                </li>
+                                                                                        <li><p class="note">※個室の詳細はお店にお問い合わせください</p></li>
+                                                                                            <p><a href="https://r.gnavi.co.jp/g064213/equipment/koshitsu/" class="go">席・個室情報を見る</a></p>
+                                                                                    </ul>
+                                    </td>
+                                </tr>
+                                                                                        <tr>
+                                    <th>禁煙・喫煙</th>
+                                    <td>
+                                        <ul>
+                                                                                            <li>喫煙可（一部禁煙席あり）</li>
+                                                                                    </ul>
+                                    </td>
+                                </tr>
+                                                                                                                    <tr>
+                                    <th>お子様連れ</th>
+                                    <td>
+                                                                                                                                <p class="br">お子様連れOK</p>
+                                                                                                                                                                                                                                                            </td>
+                                </tr>
+                                                                                                                    <tr class="fl">
+                                    <th>外国語対応</th>
+                                    <td>
+                                                                                    <ul class="line nowrap cx">
+                                                <li class="label">外国語メニューあり：</li>
+                                                                                                    <li>英語メニューあり</li>
+                                                                                            </ul>
+                                                                                                                            <ul class="line nowrap cx">
+                                                <li class="label">外国語対応スタッフ：</li>
+                                                                                                    <li>英語を話せるスタッフがいる</li>
+                                                                                                    <li>スペイン語を話せるスタッフがいる</li>
+                                                                                            </ul>
+                                                                            </td>
+                                </tr>
+                                                                                        <tr>
+                                    <th>携帯・Wi-Fi・電源</th>
+                                    <td>
+                                        <ul class="line cx">
+                                                                                            <li>
+                                                    携帯の電波が入る（
+                                                                                                                                                                        ソフトバンク
+                                                                                                                                                                                                                                、NTT ドコモ
+                                                                                                                                                                                                                                、au
+                                                                                                                                                                ）
+                                                </li>
+                                                                                                                                                                                                                                    <li>電源利用可</li>
+                                                                                                                                    </ul>
+                                    </td>
+                                </tr>
+                                                                                                                    <tr>
+                                    <th>その他の設備・サービス</th>
+                                    <td>
+                                        <ul class="line cx">
+                                                                                                                                                <li>23時以降も食事ができる</li>
+                                                                                                    <li>朝までオープン</li>
+                                                                                                    <li>日曜営業あり</li>
+                                                                                                                                                                                                                                            <li>ビールマイスターがいる</li>
+                                                                                                    <li>パティシエがいる</li>
+                                                                                                    <li>シェフがいる</li>
+                                                                                                    <li>BAR併設</li>
+                                                                                                                                                                                                                                            <li>スポーツ観戦ができる</li>
+                                                                                                    <li>ライブやショーが見られる</li>
+                                                                                                    <li>バンド演奏ができる</li>
+                                                                                                                                                                                                                                            <li>マイク利用可</li>
+                                                                                                    <li>プロジェクター・スクリーンあり</li>
+                                                                                                    <li>ビンゴゲームあり</li>
+                                                                                                                                                                                                                                          <li>ハッピーアワー特典あり</li>
+                                                                                                                                    </ul>
+                                    </td>
+                                </tr>
+                                                        </tbody>
+                        </table>
+                    </div>
+                </section>
+                                                <section>
+                    <div id="info-table-service" class="section">
+                        <h1 class="subtitle border-assort">メニューのサービス・関連情報</h1>
+                        <table class="basic-table">
+                            <tbody>
+                                                            <tr>
+                                    <th>メニューのサービス</th>
+                                    <td>
+                                        <ul class="line cx">
+                                                                                            <li>飲み放題メニューあり</li>
+                                                                                            <li>誕生日特典あり</li>
+                                                                                            <li>ドリンクの持込可</li>
+                                                                                    </ul>
+                                                                                    <p class="label">このお店のメニュー：</p>
+                                            <ul class="line cx">
+                                                                                                    <li><a href="https://r.gnavi.co.jp/g064213/menu6/">★　￥4,000</a></li>
+                                                                                                    <li><a href="https://r.gnavi.co.jp/g064213/menu4/">★★　￥4,500</a></li>
+                                                                                                    <li><a href="https://r.gnavi.co.jp/g064213/menu10/">★★★　￥5,000</a></li>
+                                                                                                    <li><a href="https://r.gnavi.co.jp/g064213/menu8/">記念日プラン</a></li>
+                                                                                                    <li><a href="https://r.gnavi.co.jp/g064213/menu1/">店内情報</a></li>
+                                                                                                    <li><a href="https://r.gnavi.co.jp/g064213/menu5/">FOOD・DRINK</a></li>
+                                                                                                    <li><a href="https://r.gnavi.co.jp/g064213/ranking/">おすすめ・売れ筋</a></li>
+                                                                                            </ul>
+                                                                            </td>
+                                </tr>
+                                                                                                                                                                                                        <tr class="slink">
+                                    <th>利用シーン</th>
+                                    <td>
+                                        <ul class="line cx">
+                                                                                                                                                                                            <li><a href="http://r.gnavi.co.jp/area/aream2105/kods00140/rs/">女子会</a></li>
+                                                                                                                                                                                                <li><a href="http://r.gnavi.co.jp/area/aream2105/kods00142/rs/">夜の接待</a></li>
+                                                                                                                                                                                                <li><a href="http://r.gnavi.co.jp/area/aream2105/kods00143/rs/">デート</a></li>
+                                                                                                                                                                                                <li><a href="http://r.gnavi.co.jp/area/aream2105/kods00144/rs/">2次会</a></li>
+                                                                                                                                                                                                <li><a href="http://r.gnavi.co.jp/area/aream2105/kods00145/rs/">記念日</a></li>
+                                                                                                                                                                                                <li><a href="http://r.gnavi.co.jp/area/aream2105/kods00146/rs/">合コン</a></li>
+                                                                                                                                                                                                <li><a href="http://r.gnavi.co.jp/area/aream2105/kods00147/rs/">お一人様</a></li>
+                                                                                                                                                                                                <li><a href="http://r.gnavi.co.jp/area/aream2105/kods00148/rs/">同窓会</a></li>
+                                                                                                                                                                                                <li><a href="http://r.gnavi.co.jp/area/aream2105/kods00149/rs/">歓迎会</a></li>
+                                                                                                                                                                                                <li><a href="http://r.gnavi.co.jp/area/aream2105/kods00150/rs/">送別会</a></li>
+                                                                                                                                                                                                <li><a href="http://r.gnavi.co.jp/area/aream2105/kods00151/rs/">お祝い事</a></li>
+                                                                                                                                                                                                <li><a href="http://r.gnavi.co.jp/area/aream2105/kods00152/rs/">家族</a></li>
+                                                                                                                                                                                                <li><a href="http://r.gnavi.co.jp/area/aream2105/kods00153/rs/">大人数</a></li>
+                                                                                                                                                                                                <li><a href="http://r.gnavi.co.jp/area/aream2105/kods00154/rs/">エンターテイメント</a></li>
+                                                                                                                                                                                                <li><a href="http://r.gnavi.co.jp/area/aream2105/kods00330/rs/">友人・知人</a></li>
+                                                                                                                                                                                                <li><a href="http://r.gnavi.co.jp/area/aream2105/kods00331/rs/">夫婦</a></li>
+                                                                                                                                                                                </ul>
+                                    </td>
+                                </tr>
+                                                                                        <tr>
+                                    <th>お店のウリ</th>
+                                    <td>
+                                        <ul class="line cx">
+                                                                                            <li>ソファ 個室 誕生日</li>
+                                                                                            <li>合コン 女子会 銀座</li>
+                                                                                            <li>飲み放題 メキシコ</li>
+                                                                                    </ul>
+                                    </td>
+                                </tr>
+                                                        </tbody>
+                        </table>
+                    </div>
+                </section>
+                            <!-- info-table --></div>
+        <!-- unit-inner cx --></div>
+                    <div class="unit-inner cx">
+                                    <div id="info-mag">
+                        <aside role="complementary">
+                        <div class="aside">
+                            <h1 class="meek">お得な情報をGET！</h1>
+                            <ul class="unit-set ls">
+                                <li>当店の最新情報やお得な限定特典をメールで受け取ることができます。</li>
+                                <li><a class="go" href="https://r.gnavi.co.jp/restmail/?id=g064213" target="_blank">登録する</a></li>
+                            </ul>
+                        </div>
+                        </aside>
+                    <!-- info-mag --></div>
+                                <div id="info-com">
+                                                                                <!-- info-com --></div>
+                                    <div id="info-ptg">
+                        <aside role="complementary">
+                        <div class="aside">
+                            <h1 class="meek">お店の情報をブログに貼り付け</h1>
+                            <ul class="unit-set ls">
+                                <li class="midst">店名・電話番号・住所などを一括でコピーして、ブログに貼り付けられます。</li>
+                                <li><a href="http://r.gnavi.co.jp/srh_cont/petaguru/" target="_blank" id="info-ptg-a" class="button-petaguru btn-basic btn-w195 btn-h35 btn-f14 btn-bgWht clickable floating cboxElement" title="ブログに貼る" data-sm="pg"><span class="btn-icn-petaguru">ブログに貼る</span></a></li>
+                            </ul>
+                        </div>
+                        </aside>
+                    <!-- info-ptg --></div>
+                            </div>
+            <!-- /#info --></div>
+<!-- info --></section>
+
+
+
+                    <section>
+            <div id="sv" class="section unit">
+                                <h1 class="bg-assort text-key">SNAPPER＆GROUPER&nbsp;のサービス一覧</h1>
+                                <div class="unit-inner">
+                                                                                                                                                                        <ul id="sv-site" class="unit-box line cx">
+                                                                                                                                        <li class="clickable">
+                                                                                                                                                                                                        <a href="http://g064213.blog.gnavi.co.jp/blog/"  class="sv-bl" title="お店のブログ">
+                                        お店のブログ
+                                        </a>
+                                        </li>
+                                                                                                                        <!-- /#sv-site --></ul>
+                                                                                                        <div id="sv-chefday" class="inb unit-box">
+                        <dl class="cx">
+                            <dt>シェフ紹介：</dt>
+                            <dd>
+                                <ul class="inline">
+                                    <li class="first last"><a href="https://r.gnavi.co.jp/g064213/chefpersonal/lj05kd/">シェフのプロフィール</a></li>
+                                </ul>
+                            </dd>
+                        </dl>
+                        <!-- sv-chefday --></div>
+                                                                                                                                                        <section>
+                        <div id="sv-fl" class="section unit-box">
+                            <h1 class="meek">Foreign Language Version</h1>
+                            <ul class="unit-set line cx">
+                                                                                            <li class="first">
+                                                                <a href="https://gurunavi.com/en/g064213/rst/" lang="en">English</a>
+                                </li>
+                                                                                            <li>
+                                                                <a href="https://gurunavi.com/zh-hans/g064213/rst/" lang="zh">简体中文</a>
+                                </li>
+                                                                                            <li>
+                                                                <a href="https://gurunavi.com/zh-hant/g064213/rst/" lang="zh">繁體中文</a>
+                                </li>
+                                                                                            <li class="last">
+                                                                <a href="https://gurunavi.com/ko/g064213/rst/" lang="ko">한국어</a>
+                                </li>
+                                                        <!-- /.unit-set --></ul>
+                        <!-- /#sv-fl --></div>
+                        </section>
+                                                                        <section>
+                        <div id="sv-etc" class="section">
+                            <h1 class="meek">関連情報</h1>
+                                                        
+                                                                                                                                
+                            <!-- relation_list -->
+                            <ul class="sv-etc-ss unit-box unit-set ls">
+                                                                                                                                                                                                <li>
+                                                                                                                                                                                                    <a href="http://www.gnavi.co.jp/skco/" target="_blank" class="g">チェーン店一覧</a>
+                                                                                         <br />                                        </li>
+                                                                                                                    
+                                                            </ul>
+                            <!--/relation_list -->
+                                                                                                                                
+                            <!-- relation_list -->
+                            <ul class="sv-etc-ss unit-box unit-set ls">
+                                                                                                                                                                                                <li class="sv-etc-br first">
+                                                [姉妹店のご案内]
+                                                                                         <br />                                        </li>
+                                                                                                                    
+                                                                                                                                                                <li>
+                                                                                                                                                                                                    <a href="//r.gnavi.co.jp/g064214/" target="_blank" class="g">天空飲茶酒家 
+</a>
+                                                                                         <br />                                        </li>
+                                                                                                                    
+                                                                                                                                                                <li>
+                                                                                                                                                                                                    <a href="//r.gnavi.co.jp/g064200/" target="_blank" class="g">スプラッシュ 
+</a>
+                                                                                         <br />                                        </li>
+                                                                                                                    
+                                                                                                                                                                <li>
+                                                                                                                                                                                                    <a href="//r.gnavi.co.jp/g064204/" target="_blank" class="g">銀座 GANESA
+</a>
+                                                                                         <br />                                        </li>
+                                                                                                                    
+                                                                                                                                                                <li>
+                                                                                                                                                                                                    <a href="//r.gnavi.co.jp/g064221/" target="_blank" class="g">武蔵別邸 巌流島 
+</a>
+                                                                                         <br />                                        </li>
+                                                                                                                    
+                                                                                                                                                                <li>
+                                                                                                                                                                                                    <a href="//r.gnavi.co.jp/g064207/" target="_blank" class="g">武蔵 
+</a>
+                                                                                         <br />                                        </li>
+                                                                                                                    
+                                                                                                                                                                <li>
+                                                                                                                                                                                                    <a href="//r.gnavi.co.jp/g064218/" target="_blank" class="g">NEO‐SNAPPER CARNAVAL 
+</a>
+                                                                                         <br />                                        </li>
+                                                                                                                    
+                                                                                                                                                                <li>
+                                                                                                                                                                                                    <a href="//r.gnavi.co.jp/g064201/" target="_blank" class="g">アンジェロ 
+</a>
+                                                                                         <br />                                        </li>
+                                                                                                                    
+                                                            </ul>
+                            <!--/relation_list -->
+                            
+                                                                                <!-- /#sv-etc --></div>
+                        </section>
+                                                            <!-- /.unit-inner --></div>
+            <!-- /#sv --></div>
+<!-- sv --></section>
+
+        <!--#include file="sv-site.txt" -->
+    
+                                                
+    <div class="contact unit">
+    <dl>
+                <dt class="contact-term">SNAPPER＆GROUPER</dt>
+                <dd class="contact-desc">
+            <ul class="contact-list cx">
+                <li class="contact-phone"><span>TEL</span>050-3467-2213</li>
+                                                                                                                        <li class="contact-reserve"><a href="https://r.gnavi.co.jp/plan/g064213/plan-reserve/plan/plan_list/?date=20170307#wrapper" class="button-reserve_goto  btn-basic btn-w195 btn-h35 btn-f14 btn-bgOrng clickable  js-trk--click js-trk__T_006" title="空席確認・予約する">空席確認・予約する</a></li>
+                            </ul>
+        </dd>
+    </dl>
+</div>
+
+    <aside role="complementary">
+    <div id="etc" class="aside unit pr-unit">
+        <h1>関連リンク</h1>
+        <div class="toggle-unit">
+            <div class="unit-inner">
+                                                        <dl class="unit first">
+                        <dt>よくある検索キーワード</dt>
+                        <dd>
+                            <ul class="cx">
+                                                                                                            <li class="last">
+                                                                            スナッパー＆グルーパー
+                                    </li>
+                                                            </ul>
+                        </dd>
+                    <!-- /unit--></dl>
+                                                        
+                
+                                                                        <dl class="unit">
+                        <dt>人気のエリア</dt>
+                        <dd>
+                            <ul class="cx">
+                                <li class="first"><a href="http://r.gnavi.co.jp/area/aream2137/korean/rs/"   >白金・白金台 韓国料理店</a></li>
+<li><a href="http://r.gnavi.co.jp/area/aream2133/motunabe/rs/"   >赤坂 もつ鍋屋</a></li>
+<li><a href="http://r.gnavi.co.jp/area/aream2934/soba/rs/"   >千駄ヶ谷 そば屋・蕎麦屋</a></li>
+<li><a href="http://r.gnavi.co.jp/area/aream2181/yakiniku/rs/"   >中目黒 焼肉</a></li>
+<li><a href="http://r.gnavi.co.jp/area/aream2941/kushiyaki/rs/"   >東京駅（八重洲） 串焼き屋</a></li>
+<li><a href="http://r.gnavi.co.jp/area/aream2176/kaiseki/rs/"   >五反田 懐石料理店</a></li>
+<li><a href="http://r.gnavi.co.jp/area/aream2964/shabushabu/rs/"   >代官山 しゃぶしゃぶ店</a></li>
+<li><a href="http://r.gnavi.co.jp/area/aream2126/"   >渋谷 食事</a></li>
+<li><a href="http://r.gnavi.co.jp/area/aream2129/indiancurry/rs/"   >原宿 インドカレー屋</a></li>
+<li class="last"><a href="http://r.gnavi.co.jp/area/aream2198/okinawa/rs/"   >上野 沖縄料理店</a></li>
+                            </ul>
+                        </dd>
+                    <!-- /unit--></dl>
+                                                        
+
+                
+
+                
+                
+
+                
+
+                
+
+                
+
+                
+
+                
+                
+                
+
+                                                                                    <dl class="unit">
+                            <dt>周辺のお店</dt>
+                            <dd>
+                                <ul class="cx">
+                                                                                                                        <li class="first">
+                                                                                <a href="https://r.gnavi.co.jp/g398526/">ＭＡＩＭＯＮＧＩＮＺＡ</a></li>
+                                                                                                                        <li>
+                                                                                <a href="https://r.gnavi.co.jp/g064218/">NEO‐SNAPPER CARNAVAL</a></li>
+                                                                                                                        <li>
+                                                                                <a href="https://r.gnavi.co.jp/g064204/">銀座GANESA</a></li>
+                                                                                                                        <li>
+                                                                                <a href="//r.gnavi.co.jp/g900501/">ＢＡＮＧＫＯＫ ＫＩＴＣＨＥＮ銀座コリドー街店</a></li>
+                                                                                                                        <li>
+                                                                                <a href="//r.gnavi.co.jp/830za32p0000/">Bar Espanol LA BODEGA東急プラザ銀座店</a></li>
+                                                                                                                        <li class="last">
+                                                                                <a href="https://r.gnavi.co.jp/gacy101/">ポルトガル料理ヴィラモウラ 銀座本店</a></li>
+                                                                    </ul>
+                            </dd>
+                        <!-- /unit--></dl>
+                                                                                    
+
+                
+                
+                
+
+                
+                
+
+                
+
+                
+                
+
+                
+
+                
+
+                
+
+                
+
+                
+
+                                                    <div class="toggle-hid">                    <dl class="unit">
+                        <dt>おすすめの特集</dt>
+                        <dd>
+                            <ul class="cx">
+                                <li class="first"><a href="https://r.gnavi.co.jp/sp/room/?sc_bid=sp_shopft">個室居酒屋</a>
+                                    <span>極上の空間を楽しむくつろぎ個室</span></li>
+                                <li><a href="https://r.gnavi.co.jp/sp/anniversary/?sc_bid=sp_shopft">誕生日・記念日 ディナー</a>
+                                    <span>大切な日のレストラン探しに必見</span></li>
+                                                                    <li><a href="https://r.gnavi.co.jp/sp/kansougei/">送別会・歓迎会・3月の宴会特集</a>
+                                                                                    <span>希望のエリアや料理・シーンで宴会のお店探し！</span>
+                                                                            </li>
+                                                                                                    <li><a href="https://r.gnavi.co.jp/sp/kansougei/kanto/ginza/">銀座・有楽町・築地 送別会・歓迎会・3月の宴会特集</a>
+                                                                            </li>
+                                                                <li><a href="https://r.gnavi.co.jp/sp/search/quick/z-PREF13/">東京のくつろぎの個室特集</a></li>
+                                <li><a href="https://r.gnavi.co.jp/sp/search/quick/z-PREF13/c-12/">東京の誕生日・記念日特集</a></li>
+                                <li ><a href="http://r.gnavi.co.jp/sp/date/">デート特集</a>&nbsp;<span>夜景のきれいなレストラン紹介やグルメ情報も充実！</span></li>
+                                                                    <li class="last"><a href="https://r.gnavi.co.jp/sp/lovers/?sc_lid=sp_lovers_transition36">恋人たちのレストラン特集2017</a>
+                                                                                    <span>【大人気！】バレンタイン・ホワイトデーデートにおすすめのお店をご紹介♪</span>
+                                                                            </li>
+                                                                                            </ul>
+                        </dd>
+                    <!-- /unit--></dl>
+                                                                                                            <dl class="unit">
+                        <dt>関連情報</dt>
+                        <dd>
+                            <ul class="cx">
+                                <li><a target="_blank" href="http://wedding.gnavi.co.jp/wedding/">結婚式場</a></li>
+                                                                    <li><a target="_blank" href="http://wedding.gnavi.co.jp/wedding/tokyo/">東京の結婚式場</a></li>
+                                                                                                    <li><a target="_blank" href="http://wedding.gnavi.co.jp/wedding/tokyo/WAREAL2101/WAREAM2105/">銀座の結婚式場</a></li>
+                                                                <li><a target="_blank" href="http://wedding.gnavi.co.jp/15wedding/">1.5次会</a></li>
+                                                                    <li><a target="_blank" href="http://wedding.gnavi.co.jp/15wedding/tokyo/WAREAL2101/WAREAM2105/">銀座で1.5次会・お披露目会</a></li>
+                                                                <li><a target="_blank" href="http://wedding.gnavi.co.jp/smallwedding/">家族・親族のみの少人数結婚式</a></li>
+                                                                    <li><a target="_blank" href="http://wedding.gnavi.co.jp/smallwedding/tokyo/WAREAL2101/WAREAM2105/">銀座で家族・親族のみの少人数結婚式</a></li>
+                                                                <li><a target="_blank" href="http://wedding.gnavi.co.jp/restaurant/">レストランウエディング</a></li>
+                                                                    <li><a target="_blank" href="http://wedding.gnavi.co.jp/restaurant/tokyo/WAREAL2101/WAREAM2105/">銀座でレストランウエディング</a></li>
+                                                                <li><a target="_blank" href="http://wedding.gnavi.co.jp/bridal/">ブライダルフェア</a></li>
+                                                                    <li><a target="_blank" href="http://wedding.gnavi.co.jp/bridal/tokyo/WAREAL2101/WAREAM2105/">銀座のブライダルフェア</a></li>
+                                                                <li><a target="_blank" href="http://party-wedding.gnavi.co.jp/">結婚式二次会</a></li>
+                                                                    <li><a target="_blank" href="http://party-wedding.gnavi.co.jp/WAREAXXL2101/WAREAM2105/">銀座で結婚式二次会</a></li>
+                                                                                                                                                                                                                                                                                                                                        <li ><a target="_blank" href="http://wedding.gnavi.co.jp/kaoawase/">結納・顔合わせ</a></li>
+                                                                    <li ><a target="_blank" href="http://wedding.gnavi.co.jp/kaoawase/WAREAXXL2101/WAREAM2105/">銀座で結納・顔合わせ</a></li>
+                                                                                                    <li class="last"><a target="_blank" href="http://gurutabi.gnavi.co.jp/p13">東京の観光情報</a></li>
+                                                            </ul>
+                        </dd>
+                    <!-- /unit--></dl>
+                                
+                
+                
+                
+                
+
+                
+
+                
+                
+                
+                </div>                </div>
+                                   <div class="toggle-show">
+                <a href="#" title="すべて表示する"><span class="gd">すべて表示する</span></a>
+            </div>
+                    </div>
+    </div>
+<!-- /etc --></aside>
+
+
+    <!--#include file="sv-contact.txt" -->
+    <!-- /main --></div>
+
+                        <div id="sub">
+                        <div class="banner mb10">
+                <a href="http://present.gnavi.co.jp/campaign_site/premium/019/?sc_lid=pmp_cp019_pc09" target="_blank">
+                    <img src="//c-r.gnst.jp/r/bnr/777.jpg?t=1488760749" alt="歓送迎会も応援！！ネット予約＆来店でもれなく777ポイントプレゼント" />
+                </a>
+            </div>
+                                                        <div id="sub-info">                        <aside role="complementary">
+                <div id="js-calendar-right-col" data-reserve-calendar-information-url="https://r.gnavi.co.jp/restpage_api/empty_seat/right_col?shop_id=g064213&amp;appKey=34872a21d4505ecb9c84f044567aaec4" data-reserve-max-member="99" data-action-url='{"reservation":"https:\/\/r.gnavi.co.jp\/plan\/g064213\/plan-reserve\/plan\/input\/form\/","planList":"https:\/\/r.gnavi.co.jp\/plan\/g064213\/plan-reserve\/plan\/plan_list\/?date=20170307"}'></div>
+            </aside>
+                                                    <aside role="complementary">
+    <div id="sub-lt" class="sub-unit aside">
+        <h1>お店の最新情報</h1>
+        <div id="sub-lt-inner" class="sub-unit-inner">
+            <div id="sub-lt-inner-wrapper" class="carousel-block">
+                <div id="sub-lt-wrapper-block" class="carousel-block-inner">
+                                                                                <div class="carousel-block-unit latest-today-unit first">
+                        <p class="sub-lt-inner-update">
+                            <time datetime="2017-03-07T13:43">
+                                <span class="latest-today-update time">
+                                    2017/03/07 13:43更新
+                                </span>
+                            </time>
+                        </p>
+                                                <div class="latest-today-img">
+                            <p class="figure">
+                                <img src="//uds.gnst.jp/rest/img/c9z9ef2r0000/t_0n5k.jpg?t=1488458774&amp;g=157" width="147" height="147" alt="" />
+                            </p>
+                        </div>
+                                                <div class="latest-today-txt">
+                                                        <p class="latest-today-desc txt">
+                                【 6つの超完全個室・空席情報】 3/7・8・9・12・13・14・15・16【3月宴会予約受付中】◆3時間飲み放題付コース 〔全8品〕￥4,000（税別）◆宴会・女子会・誕生日会◆大型モニター付き【超完全個室】6～23名様◆
+                            </p>
+                                                                                </div>
+                    </div>
+                                                                                                    <div class="carousel-block-unit latest-today-unit last">
+                        <p class="sub-lt-inner-update">
+                            <time datetime="2017-03-07T13:23">
+                                <span class="latest-today-update time">
+                                    2017/03/07 13:23更新
+                                </span>
+                            </time>
+                        </p>
+                                                <div class="latest-today-img">
+                            <p class="figure">
+                                <img src="//uds.gnst.jp/rest/img/c9z9ef2r0000/t_027n.jpg?t=1481960353&amp;g=157" width="147" height="147" alt="" />
+                            </p>
+                        </div>
+                                                <div class="latest-today-txt">
+                                                        <p class="latest-today-desc txt">
+                                コロナ･ZIMA･スミノフアイスが飲み放題に新登場！もちろん氷点下ビールやスパークリングワインも!!【3月宴会予約受付中】3時間飲み放題付コース〔全8品〕￥4,000（税別）+
+                            </p>
+                                                                                </div>
+                    </div>
+                                                                            </div>
+                                <div id="sub-lt-wrapper-action">
+                    <p id="sub-lt-action-count" class="carousel-block-count">
+                        <span class="carousel-block-now">1</span>/<span class="carousel-block-sum">2</span>
+                    </p>
+                    <span id="sub-lt-wrapper-prev" class="carousel-block-prev disabled">&nbsp;</span>
+                    <span id="sub-lt-wrapper-next" class="carousel-block-next">&nbsp;</span>
+                </div>
+                            </div>
+        </div>
+    </div>
+</aside>
+
+                                                            <aside role="complementary">
+            <div id="sub-se" class="sub-unit last aside">
+                <h1>お得なサービス</h1>
+                <div class="sub-unit-inner">
+                                                            <div id="my-scp" class="se-block first">
+                        <div id="my-scp-inn">
+                                                        <a href="https://my.gnavi.co.jp/login/?gService=float_s_coupon_rest&amp;r=https%3A%2F%2Fr.gnavi.co.jp%2Fg064213%2Fcoupon%2F&amp;sid=g064213" id="my-scp-inn-a" class="floating" title="会員限定シークレットクーポン">
+                                                            <div id="my-scp-inn-blo">
+                                    <p id="my-scp-blo-tit">会員限定シークレットクーポン</p>
+                                    <p id="my-scp-blo-lin" class="g">このお店のクーポンを見る</p>
+                                </div>
+                                <span id="my-scp-lbl"></span>
+                                <span id="my-scp-btm"></span>
+                            </a>
+                        </div>
+                    </div>
+                                                                                                    <section>
+                        <div id="se-other" class="se-block section ">
+                                                        <h1>ポイント・ぐるなびギフトカード</h1>
+                            <ul>
+                                                                <li class="srvc-get ok first">
+                                                                                                                                                                                        <a href="https://r.gnavi.co.jp/g064213/tamaru/?rUrl=https%3A%2F%2Fr.gnavi.co.jp%2Fg064213%2F&hcm=1" class="srvc-a floating" title="ネット予約でポイント貯まる"><span class="srvc-lbl">ネット予約でポイント貯まる</span><span class="srvc-jdg">OK</span></a>
+                                </li>
+                                                                                                <li class="srvc-use ok">
+                                    <a href="https://r.gnavi.co.jp/g064213/tsukaeru/?rUrl=https%3A%2F%2Fr.gnavi.co.jp%2Fg064213%2F" class="srvc-a floating" title="ポイント使える"><span class="srvc-lbl">ポイント使える</span><span class="srvc-jdg">OK</span></a>
+                                </li>
+                                                                                                <li class="srvc-card ok last">
+                                    <a href="https://r.gnavi.co.jp/g064213/card/" class="srvc-a floating2" title="ぐるなびギフトカード使える"><span class="srvc-lbl">ぐるなびギフトカード使える</span><span class="srvc-jdg">OK</span></a>
+                                </li>
+                                                            </ul>
+                                                                                </div>
+                    <!-- /section --></section>
+                                            <p id="sub-se-cau">※サービスをご利用の際は、来店前にお店にお問い合わせください。</p>
+                                                                            </div>
+            </div>
+        <!-- /sub-se --></aside>
+        </div> 
+        <div id="sub-tool">
+        <div class="sub-unit-inner">
+            <aside role="complementary">
+                                                                                    <div id="sub-ch" class="sub-unit first aside">
+                    <div id="sub-ch-inn">
+                        <h1 class="cx"><a href="https://chosei.gnavi.co.jp/" target="_blank"><span>幹事さん向け</span>お店・日程調整ツール</a></h1>
+                        <a href="https://chosei.gnavi.co.jp/?page=fri&amp;cType=restaurant01&amp;eType=date&amp;regCnt=pc_date" target="_blank"><div id="sub-ch-bltxt-wrap"><div id="sub-ch-bltxt"><div id="sub-ch-bltxt-inn">大人数の日程調整が超カンタン</div></div></div></a>
+                        <div id="sub-ch-inn-btm">
+                            <div id="sub-ch-inn-day" class="clickable">
+                                <a href="https://chosei.gnavi.co.jp/?page=fri&amp;cType=restaurant01&amp;eType=date&amp;regCnt=pc_date" target="_blank" id="sub-ch-day-btn" title="日程を調整する"><span>日程を調整する</span></a>
+                            </div>
+                            <div id="sub-ch-inn-top">
+                                <div id="sub-ch-inn-add" class="clickable">
+                                    <a href="https://chosei.gnavi.co.jp/?page=ra&amp;cType=restaurant01&amp;eType=shop&amp;shop_id=g064213&amp;regCnt=pc_shop_add" id="sub-ch-add-btn" class="floating" title="候補店に追加する"><span>候補店に追加する</span></a>
+                                </div>
+                            </div>
+                        </div>
+                        <div id="sub-ch-inn-lst">
+                            <a href="https://chosei.gnavi.co.jp/" target="_blank"><span id="sub-ch-inn-logo">調整丸</span></a>
+                        </div>
+                    </div>
+                </div>
+            </aside>
+                            <section>
+                    <div id="sub-qr" class="sub-unit section last">
+                        <h1>ケータイ・スマホで見る</h1>
+                        <p id="sub-qr-img"><img src="//r.gnst.jp/tool/qr/?id=g064213&amp;q=2&amp;t=1488458703" alt="QRコード" title="QRコード" /></p>
+                        <p id="sub-qr-sid">g064213</p>
+                    </div>
+                </section>
+                    </div>
+    </div>
+                                        <aside role="complementary">
+            <div class="aside sub-banner">
+                <ul>
+                    <li class="sub-banner__list"><a href="http://present.gnavi.co.jp/campaign_site/newmembercp/?sc_lid=newmembercp_pc05" target="_blank"><img src="//c-r.gnst.jp/r/banner_mng/20170131133110.jpg?t=1488760749" width="220" height="130" alt="ぐるなび会員になろう！1,000ポイント当たるチャンス" title="ぐるなび会員になろう！1,000ポイント当たるチャンス" /></a></li>
+                </ul>
+            </div>
+        </aside>
+                    <aside role="complementary">
+            <div class="aside sub-banner">
+                <ul>
+                    <li class="sub-banner__list"><a href="http://my.gnavi.co.jp/premium/?sc_lid=pmp_top_pc15" target="_blank"><img src="//c-r.gnst.jp/r/banner_mng/20161227143746.jpg?t=1488760749" width="220" height="130" alt="プレミアム会員ならいつでもポイント2倍！" title="プレミアム会員ならいつでもポイント2倍！" /></a></li>
+                </ul>
+            </div>
+        </aside>
+        <aside>
+        <div id="sub-ap" class="aside">
+            <div class="sub-unit-inner">
+                <h1>アプリ版ぐるなび</h1>
+                <dl id="sub-ap-det" class="cx">
+                    <dt>ぐるなび</dt>
+                    <dd>GPS、エリア・ジャンルなどからお店を探せる！</dd>
+                </dl>
+                <dl id="sub-ap-link">
+                    <dt>for スマートフォン</dt>
+                    <dd>
+                        <ul class="inline">
+                            <li><a href="https://play.google.com/store/apps/details?id=jp.co.gnavi.activity&amp;feature=search_result" target="_blank" class="g">Android版</a></li>
+                            <li><a href="https://itunes.apple.com/jp/app/id311691979?mt=8" target="_blank" class="g">iPhone版</a></li>
+                        </ul>
+                    </dd>
+                </dl>
+            </div>
+        </div>
+    </aside>
+</div>
+
+            <!--#include file="sub.txt" -->
+        <div id="wrapper-gotop" class="js-toggle-display--gotop__target">
+        <span id="wrapper-gotop-inn"><a href="#" id="wrapper-gotop-inn-a" class="gu">ページ上部へ戻る</a></span>
+    </div>
+	<!-- /wrapper --></div>
+
+<!-- /page-shop --></div>
+
+<!--フッター非表示オプション-->
+<footer>
+<div id="gn_footer" class="footer">
+    <div id="gn_footer-main">
+        <div id="gn_footer-main-inner">
+            <dl class="unit first last">
+                <dt>ぐるなび検索メニュー</dt>
+                <dd>
+                    <ul class="cx">
+                        <li class="first"><a href="http://r.gnavi.co.jp/">レストラン検索</a></li>
+                        <li><a href="http://r.gnavi.co.jp/list/area/">エリア</a></li>
+                        <li><a href="http://r.gnavi.co.jp/list/food/">料理</a></li>
+                        <li><a href="http://r.gnavi.co.jp/list/character/">こだわり</a></li>
+                        <li><a href="http://r.gnavi.co.jp/list/landmark/">スポット</a></li>
+                        <li class="last"><a href="http://r.gnavi.co.jp/list/eki/">駅</a></li>
+                    </ul>
+                </dd>
+            <!-- /unit--></dl>
+        <!-- /gn_footer-main-inner --></div>
+    <!-- /gn_footer-main --></div>
+    <div id="gn_footer-sub">
+        <div id="gn_footer-sub-inner">
+            <aside role="complementary">
+                <div id="gn_footer-sm" class="aside cx">
+                    <dl id="gn_footer-sm-share">
+                        <dt>このお店を共有する</dt>
+                        <dd>
+                            <ul class="cx">
+                                <li id="gn_footer-sm-share-fb" class="first" title="Facebook"><iframe id="gn_footer-sm-fb-if" scrolling="no" frameborder="0" title="Facebook"></iframe></li>
+                                <li id="gn_footer-sm-share-gl" title="Google+"><div class="g-plusone" data-size="medium" data-count="true"></div></li>
+                                <li id="gn_footer-sm-share-tw" title="Twitter"><iframe id="gn_footer-sm-tw-if" scrolling="no" frameborder="0" title="Twitter"></iframe></li>
+                                <li id="gn_footer-sm-share-mx" title="mixi"><a href="//mixi.jp/" target="_blank" data-sm="mx">mixiチェック</a></li>
+                                <li id="gn_footer-sm-share-en" title="EVERNOTE"><a href="//www.evernote.com/" target="_blank" data-sm="en">クリップ</a></li>
+                                <li id="gn_footer-sm-share-gr" class="last" title="GREE"><a href="//gree.jp/" target="_blank" data-sm="gr">いいね！</a></li>
+                            </ul>
+                        </dd>
+                    </dl>
+                    <dl id="gn_footer-sm-pg">
+                        <dt>お店情報をブログに貼り付け</dt>
+                        <dd><a href="http://r.gnavi.co.jp/srh_cont/petaguru/" target="_blank" id="gn_footer-sm-pg-a" class="floating" title="ペタぐる" data-sm="pg">ペタぐるでブログに貼り付け</a></dd>
+                    </dl>
+                    <dl id="gn_footer-sm-bm">
+                        <dt>このページをブックマーク</dt>
+                        <dd>
+                            <ul class="cx">
+                                <li id="gn_footer-sm-bm-ht" class="first" title="はてなブックマーク"><a href="//b.hatena.ne.jp/" target="_blank" data-sm="ht">はてなブックマーク</a></li>
+                                <li id="gn_footer-sm-bm-gg" class="last" title="Googleブックマーク"><a href="//www.google.com/bookmarks/" target="_blank" data-sm="gg">Google</a></li>
+                            </ul>
+                        </dd>
+                    </dl>
+                </div>
+            <!-- /gn_footer-sub-sm --></aside>
+        </div>
+    <!-- /gn_footer-sub --></div>
+    <div id="gn_footer-contentinfo" role="contentinfo">
+        <small><span class="small">Copyright&copy; Gurunavi, Inc. All rights reserved.</span></small>
+    <!-- /gn_footer-contentinfo --></div>
+</div>
+<!-- /gn_footer --></footer>
+
+<!--#include file="gn_footer.txt" -->
+<!-- /page --></div>
+    <script>
+        var sc_plan_data = {
+                    "plan_existence1":"true",
+
+                    "plan_existence2":"true",
+
+                    "plan_existence3":"1"
+
+                };
+    </script>
+<script type="text/javascript">
+    var pageData = {
+        "navigation": {
+            "page_type":"detail",
+            "member":"1",
+            "reservation":"1",
+            "point":"1"        },
+        "items":[{
+            "restaurantID":"g064213"
+        }]
+    };
+</script>
+<script src="//c-r.gnst.jp/r/l.js?revision=1488760749"></script>
+<script src="//x.gnst.jp/mylogin/gp_login.js"></script>
+
+<script src="//uds.gnst.jp/rest/etc/c9z9ef2r0000/p.js?t=1488744828"></script>
+    <script src="//c-r.gnst.jp/r/templates/rightColumnCalendar.js?revision=1488760749"></script>
+<script src="//c-r.gnst.jp/r/x.js?revision=1488760749"></script>
+<script type="text/ecmascript">
+<!--
+	var param = {"all_fukidashi_f":true,"chottogu_fukidashi_f":false,"floating_f":false,"g_news_fukidashi_f":true,"g_news_icon_f":true,"harenohi_fukidashi_f":false,"premium_fukidashi_f":false,"header_type":"middle","logo_img_url":"c-cpnt.gnst.jp\/header\/img\/logo-mini.png","logo_url":"https:\/\/www.gnavi.co.jp","search_box_f":true,"under_link_f":false,"cid":"SHOP"};
+--></script>
+<script src="//c-cpnt.gnst.jp/header/js/header-lib.js?1484109090"></script>
+<script src="//c-cpnt.gnst.jp/header/js/header-0.1.0.js?1473900696"></script>
+
+
+<script>
+    (function () {
+        var tagjs = document.createElement("script");
+        var s = document.getElementsByTagName("script")[0];
+        tagjs.async = true;
+        tagjs.src = "//s.yjtag.jp/tag.js#site=DSk710K,r562iyj";
+        s.parentNode.insertBefore(tagjs, s);
+    }());
+</script>
+<noscript><iframe src="//s.thebrighttag.com/iframe?c=DSk710K,r562iyj" width="1" height="1" frameborder="0" scrolling="no" marginheight="0" marginwidth="0"></iframe></noscript>
+<script>
+    var yahoo_conversion_id = 1000002283;
+    var yahoo_conversion_label = "D2g6COmz-AIQl-W7ygM";
+    var yahoo_conversion_value = 0;
+</script>
+<div style="display:none">
+    <script src="//i.yimg.jp/images/listing/tool/cv/conversion.js"></script>
+</div>
+<noscript><div style="display:inline;"><img height="1" width="1" style="border-style:none;" alt="" src="//b91.yahoo.co.jp/pagead/conversion/1000002283/?label=D2g6COmz-AIQl-W7ygM&amp;guid=ON&amp;script=0&amp;disvt=true" /></div></noscript>
+<script>
+    var account_id="lM.aHmEOLDUuqyl.Afg7";
+    var transaction_id = Math.random();
+    var amount = "";
+    if (location.protocol == "https:") { var protocol = "https:"} else { var protocol = "http:" }
+    document.write("<div style='display:none;'><img width=1 height=1 border=0 src='" + protocol + "//b90.yahoo.co.jp/c?account_id=" + account_id + "&transaction_id=" + transaction_id + "&amount=" + amount + "'></div>");
+</script>
+
+
+
+    
+<script type="application/ld+json">{"@context":"http://schema.org","@type":"Restaurant","@id":"https://r.gnavi.co.jp/g064213/","name":"SNAPPER\uff06GROUPER","telephone":"03-5568-8859","faxNumber":"03-5568-7011","image":"https://uds.gnst.jp/rest/img/c9z9ef2r0000/s_027f.jpg","servesCuisine":"\u30a4\u30bf\u30ea\u30a2\u30f3\uff08\u30a4\u30bf\u30ea\u30a2\u6599\u7406\uff09","address":{"@type":"PostalAddress","streetAddress":"\u9280\u5ea77-2-20\u30d1\u30b7\u30d5\u30a3\u30c3\u30af\u30ae\u30f3\u30b6\u30d3\u30eb1F","addressLocality":"\u4e2d\u592e\u533a","addressRegion":"\u6771\u4eac\u90fd","addressCountry":"JP","postalCode":"104-0061"},"geo":{"@type":"GeoCoordinates","latitude":"35.67101033","longitude":"139.7602075"},"map":"https://r.gnavi.co.jp/g064213/map/","potentialAction":{"@type":"ReserveAction","target":{"@type":"EntryPoint","urlTemplate":"https://r.gnavi.co.jp/plan/g064213/plan-reserve/plan/plan_list/?date=20170307\u0026sc_cid=google_kg_reserve","inLanguage":"ja-JP","actionPlatform":["http://schema.org/DesktopWebPlatform","http://schema.org/MobileWebPlatform"]},"result":{"@type":"FoodEstablishmentReservation","name":"Reserve table"}}}</script>
+</body>
+</html>

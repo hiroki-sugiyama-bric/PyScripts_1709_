@@ -1,0 +1,913 @@
+GET https://bbsec-dev.demo.r-unit.co.jp/projects/index?utf8=%E2%9C%93&q%5Bsearch_words%5D=&q%5Bproject_item_project_sf_project_number_or_project_item_sf_item_id_cont%5D=&q%5Bproject_item_name_in%5D%5B%5D=S.Q.A.T%EF%BD%BB%EF%BD%B0%EF%BE%8B%EF%BE%9E%EF%BD%BD&q%5Bproject_item_name_in%5D%5B%5D=S.Q.A.T%EF%BD%BB%EF%BD%B0%EF%BE%8B%EF%BE%9E%EF%BD%BD%28%EF%BE%81%EF%BD%B9%EF%BD%AF%EF%BE%84%29&q%5Bproject_item_name_in%5D%5B%5D=&project_leader=&project_member=87&q%5Bdiagnosis_expected_start_date_gteq%5D=&q%5Bdiagnosis_expected_end_date_lteq%5D=&amount_from=&amount_to=&q%5Bproject_item_accuracy_in%5D%5B%5D=A&q%5Bproject_item_accuracy_in%5D%5B%5D=B&q%5Bproject_item_accuracy_in%5D%5B%5D=C&q%5Bproject_item_accuracy_in%5D%5B%5D=F%3A%E7%A2%BA%E5%AE%9A&q%5Bproject_item_accuracy_in%5D%5B%5D=G%3A%E5%8F%97%E6%B3%A8&q%5Bproject_item_accuracy_in%5D%5B%5D=&q%5Binspection_order_status%5D=0 HTTP/1.1
+Host: bbsec-dev.demo.r-unit.co.jp
+User-Agent: Mozilla/5.0 (Windows NT 6.1; WOW64; rv:51.0) Gecko/20100101 Firefox/51.0
+Accept: text/html,application/xhtml+xml,application/xml;q=0.9,*/*;q=0.8
+Accept-Language: ja,en-US;q=0.7,en;q=0.3
+Referer: https://bbsec-dev.demo.r-unit.co.jp/
+Cookie: __utma=255587979.1408552780.1485512242.1485512242.1485512242.1; __utmz=255587979.1485512242.1.1.utmcsr=google|utmccn=(organic)|utmcmd=organic|utmctr=(not%20provided); _myapp_session=eHRjUVdaaHVTcTRNbzlXbW9iMmpsa2Z4SjVIMnhId1QxcXlaalZoQ2V1ZFNoT09hQ2ZWUk5JTEpic1VaOWhmQXRHL2xRV0wvcnBUdWlyZk1yVEZhcWNHTzZMMisrUnFHZ0R1dGlkc2F4WUEyL2QzRG5SNzBReW15eHdGaVYxVTlTVDJNMmNTSmx2TiszMkcxRHlURllQSVcvTzdUWE53Nzlmdi9ncm1GOFlKT2M2MExERThlUlhXcTYyUEo2cEprUVE1UEM2bnlENUQ1SW9OMkFzRmsvdlJjQXFsVmV4UnJVMDVjSDJGTFdjZklFWlFFSzVOeXZET1F0MGUvMEJrVkpRL2VTLzZPa2JUbEM2RFFsTkJyT1NQN3lmQ2Z4bDVRQjBGMFJUQm8vc2ZLKzJQS21QcmRtM2hLZ1pac1haUU9mRDd1QUdKZUpiSFkrREFtUE14cDBXaHNZOXZwYmdqWlgyOWVaWEpwSENwYm0vdE1ZYU1aSWpVZUdjeEFXQkkyTWtzaTNaSnFGczdBVjZ5WDlsU2l0T2xJSmc2SzdrLzJjMTFwam5NdHJEbjE2cHl4VWFtTk44Y01GUXhqT2gwNktGZk9mM3o2Z3Nia2owSWZkSGxsVWNxK3pRQ2J0VzJ0cmxueE44dWQ0SG9hSzB4c3dLSDBSY2F6NE1EdlAzenB2VzJwVklDRnBUQ2JjMmFsTjBYRCtVcEtRaUJNVkRjZ2NpM29RTjllUGlPclJrazUrL2JObllnSElXb1JqdGx1RHJTbnh3YkpkOVY3K3lTb1pjUzVrTjVFYXVOeXpNK0lzVFdSVGdCRHJFQT0tLWhmMkdNU2hrT29rWGIvMzNXWk1vVHc9PQ%3D%3D--c7d00415920cb5962d2b40629ef93ec436bfc299
+Connection: close
+Upgrade-Insecure-Requests: 1
+If-None-Match: W/"53733e73d4ad0c0cb670aae3f4ae932d"
+
+
+HTTP/1.1 200 OK
+Server: nginx/1.8.1
+Date: Thu, 09 Mar 2017 09:33:15 GMT
+Content-Type: text/html; charset=utf-8
+Transfer-Encoding: chunked
+Connection: close
+Strict-Transport-Security: max-age=31536000
+X-Frame-Options: SAMEORIGIN
+X-XSS-Protection: 1; mode=block
+X-Content-Type-Options: nosniff
+ETag: W/"802feab79a2aee7832b54450a09c32aa"
+Cache-Control: max-age=0, private, must-revalidate
+Set-Cookie: _myapp_session=eFJQWDNFTTJaMFpJc0owbU1BM1I3cjVxYUJCK25zcTYrREU1L1RwSmZkQktFWktiUnpSbCt4TEk0cTdwR1BId3RFR3NrUG1BMUI0ZVpDei83S1dwVXE0QmE1S1FpenRzdjhYdE05ZzNiclJGTVErUjNtaUQvMDM1SEpyN2dCdU1UL3VIU0dRdFVLYnNCdXl2a21tR2pmOGRNVXNXT2E1WmptOThqN2phOVcyWlVKYVR1NDZwQzV4aUtPdnFDU2p0cUhpL3JtYXVJdTRjSmN2Vk9CUVJjYWlLSHlSNS9ud2lIc0JFdmx1MHJIZHpHS0pick9lSnNud1ZsZ3J2SkFITkVNU2ZYVXpTU0U4WDlKTk9mYmNESE5HWVVIcTFHUHJNUXFQNU1EbXhkcjFYRG5Ba21KYlZFd05BdGw3MUdnU0N4cS9mdFBmUllJRHZzK1lwYUQ2N1N0Y1JvUEpscEVZTHAxSzRwdnd5MGpjTkswWXJvMCtMTmZqdTNBOFppSHNibWVRVXFOSVZxODR6LzdrZU1JekFUYlg4OGhPTEpWZjU1ZmdueVgvWlRPQWtFUEJrcmJpc3c4QlVvZW9wS3o0bldEdFFhYzZ1ZVFBazgrWEhCZjZwM2xTcHZmY2I1MTY0ckVlaUZRWU8zcEtRb1VOVmV3QjcydUJ5ZXhEbTVldlczdVp1NEc0RlhDa2RraHJKVloxZktLOCswbkF1SDVmUmxreW5hOStTcmVNVmtYZmw5OHA3OFhUMC9JcTFDWWVzREpxQ1lDRkl2QmZkNGZpUHlOUmZXQzY0RldJcVppUVEwVUE2YmMrY0pBOD0tLVd4Mm5IWVZsUG9LaUpISFNmWlB4cmc9PQ%3D%3D--d06c393db9189ad331760166a2c2ac3844feeaa9; path=/; expires=Thu, 09 Mar 2017 10:33:15 -0000; secure; HttpOnly
+X-Request-Id: f5dafd39-ea21-48b7-8a0a-0cac477104c4
+X-Runtime: 0.316127
+
+1a6a
+<!DOCTYPE html>
+<html>
+  <head>
+    <meta charset="utf-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <meta name="ROBOTS" content="NOINDEX,NOFOLLOW">
+    <title>Develop/業務ポータル</title>
+
+    <link rel="shortcut icon" type="image/x-icon" href="/assets/favicon-51d0a4b6004bd2bcb350948c93dea219bbe68eeded20ae5c5396e0029d276eb5.ico" />
+
+    <!-- Include style per-controller - vendor plugins -->
+    <link rel="stylesheet" media="screen" href="/assets/projects-b8436c0a92c13e8e89b8fd1f5525eda9dd708970cdac1e582e146724bccec4e8.css" />
+
+    <!-- Main css styles -->
+    <link rel="stylesheet" media="all" href="/assets/application-011f6841717391606f764bd6569154f897cea4e735f53ee26f4ed4ea621bf0d2.css" data-turbolinks-track="true" />
+
+    <!-- Main javascript files -->
+    <script>
+//<![CDATA[
+window.gon={};gon.global={"project_item_accuracy":["A","B","C","F:確定","G:受注"],"project_item_name":["S.Q.A.Tｻｰﾋﾞｽ","S.Q.A.Tｻｰﾋﾞｽ(ﾁｹｯﾄ)"]};gon.get_project_list_path="/commons/project_list";gon.get_project_item_list_path="/commons/project_item_list";
+//]]>
+</script>
+    <script src="/assets/application-5c692180e9f4ad8e056928bb3130b02dde46c04384bd5c8e127522b4b22d5e04.js" data-turbolinks-track="true"></script>
+    
+    <meta name="csrf-param" content="authenticity_token" />
+<meta name="csrf-token" content="rSL3BJqdSbGLR3u3VFRx02UkPQ9dxNfLLE9zfGQsBaPXZV24hdoSux8qQucIyrAyv2fZeGiI3BEibP6NQUQWPA==" />
+
+    
+  </head>
+  <body class="top-navigation">
+
+    <!-- Wrapper-->
+    <div id="wrapper" class="projects.index">
+
+      <!-- Page wraper -->
+      <div id="page-wrapper" class="gray-bg ">
+
+        <!-- Page wrapper -->
+        <div class="row border-bottom white-bg">
+  <nav class="navbar navbar-static-top" role="navigation">
+    <div class="navbar-header">
+      <button aria-controls="navbar" aria-expanded="false" data-target="#navbar" data-toggle="collapse" class="navbar-toggle collapsed" type="button">
+        <i class="fa fa-reorder"></i>
+      </button>
+      <a class="navbar-brand" href="/">BBSec</a>
+    </div>
+    <div class="navbar-collapse collapse" id="navbar">
+      <ul class="nav navbar-nav">
+        <li class="active menu-open">
+  <a aria-expanded="false" role="button" href="#" class="dropdown-toggle" data-toggle="dropdown">案件情報 <span class="caret"></span></a>
+  <ul role="menu" class="dropdown-menu">
+    <li class="active"><a href="/">案件一覧</a></li>
+    <li class=""><a href="/issues/index">依頼一覧</a></li>
+    <li class=""><a href="/internal_requests/index">依頼一覧(社内用)</a></li>
+    <li class=""><a href="/send_approval/index">報告書送付承認</a></li>
+  </ul>
+</li>
+  <li class="">
+    <a aria-expanded="false" role="button" href="#" class="dropdown-toggle" data-toggle="dropdown">進捗情報 <span class="caret"></span></a>
+    <ul role="menu" class="dropdown-menu">
+      <li class=""><a href="/progress/index">進捗管理</a></li>
+      <li class=""><a href="/todays_submission/index">本日納品予定</a></li>
+      <li class=""><a href="/project_gantts">ガントチャート</a></li>
+      <li class=""><a href="/time_schedules/index">作業予定</a></li>
+    </ul>
+  </li>
+
+  <li class="">
+    <a aria-expanded="false" role="button" href="#" class="dropdown-toggle" data-toggle="dropdown">メール情報 <span class="caret"></span></a>
+    <ul role="menu" class="dropdown-menu">
+      <li class=""><a href="/mail_status/index">メール送信状況</a></li>
+      <li class=""><a href="/mail_recipient/index">宛先一覧</a></li>
+    </ul>
+  </li>
+
+  <li class="">
+    <a aria-expanded="false" role="button" href="#" class="dropdown-toggle" data-toggle="dropdown">営業情報 <span class="caret"></span></a>
+    <ul role="menu" class="dropdown-menu">
+      <li class=""><a href="/report">空き状況</a></li>
+      <li class=""><a href="/point_transactions">ポイント管理</a></li>
+    </ul>
+  </li>
+
+      </ul>
+      <ul class="nav navbar-top-links navbar-right">
+          <li>
+            <span class="label label-warning">
+              Develop
+            </span>
+          </li>
+        <li>
+          <span class="m-r-sm text-muted welcome-message" data-i18n="topnav.welcometext">BBSec Portal</span>
+        </li>
+        <li class="dropdown">
+          <a class="dropdown-toggle count-info" data-toggle="dropdown" href="#">
+            <i class="fa fa-bell"></i>  <span class="label label-primary">3</span>
+          </a>
+          <ul class="dropdown-menu dropdown-alerts">
+              <li class="header">3件のお知らせがあります</li>
+              <li class="divider"></li>
+              <li>
+                <a href="/information/articles/1">
+                  <div>
+                    <i class="fa fa-bell-o text-yellow"></i> テスト    
+                </div>
+</a>              </li>
+              <li class="divider"></li>
+              <li>
+                <a href="/information/articles/11">
+                  <div>
+                    <i class="fa fa-bell-o text-yellow"></i> テスト    
+                </div>
+</a>              </li>
+              <li class="divider"></li>
+              <li>
+                <a href="/information/articles/116">
+                  <div>
+                    <i class="fa fa-bell-o text-yellow"></i> ヒアリングシート更新のお知らせ（テスト）    
+                </div>
+</a>              </li>
+            <li class="divider"></li>
+            <li>
+              <div class="text-center link-block">
+                <a href="/information/articles">
+                  <strong>more</strong>
+                  <i class="fa fa-angle-right"></i>
+</a>              </div>
+            </li>
+          </ul>
+        </li>
+
+        <li class=""><a href="/inquiries/new"><span>お問い合わせ</span></a></li>
+        <li>
+          <a class="right-sidebar-toggle">
+            <i class="fa fa-tasks"></i>
+          </a>
+        </li>
+
+      </ul>
+
+    </div>
+  </nav>
+</div>
+
+
+        <!-- Main view  -->
+        <!-- Main content -->
+<div class="wrapper wrapper-content animated fadeInRight">
+    <div class="row">
+        <div class="col-md-12">
+			<div class="col-lg-9 connectedSortable">
+				<div class="ibox float-e-margins">
+  <div class="ibox-title">
+    <h5>検索</h5> 
+    <div class="ibox-tools">
+      <a class="collapse-link">
+        <i class="fa fa-chevron-up"></i>
+      </a>
+    </div> 
+  </div><!-- /.ibox-title --> 
+  <div class="ibox-content"> 
+    <div class="row">
+      <div class="state_search">
+        <div class="col-sm-12">			
+          <form class="form-horizontal" id="project_item_type_search" action="/projects/index" accept-charset="UTF-8" method="get"><input name="utf8" type="hidden" value="
+2000
+&#x2713;" /> 
+            <div class="form-group"> 
+              <label for="search_words" class="col-sm-2 control-label">キーワード</label> 
+              <div class="col-sm-9">
+                <input type="text" name="q[search_words]" id="search_words" value="" class="form-control" />
+              </div>
+            </div>
+            <div class="form-group">
+              <label for="search_words" class="col-sm-2 control-label">案件番号/品目ID</label>
+              <div class="col-sm-9 form-inline">
+                <input class="form-control" autocomplete="off" type="text" name="q[project_item_project_sf_project_number_or_project_item_sf_item_id_cont]" id="q_project_item_project_sf_project_number_or_project_item_sf_item_id_cont" />
+              </div>
+            </div>
+			
+            <div class="form-group"> 
+              <label class="col-sm-2 control-label">品目</label> 
+              <div class="col-sm-9 form-inline">
+                <label class="checkbox-inline i-checks" for="q_project_item_name_in_cpecdcde"><input class="checkbox_project_item_name_in" id="q_project_item_name_in_id" type="checkbox" value="CPE/CD/CDE" name="q[project_item_name_in][]" /> CPE/CD/CDE</label><label class="checkbox-inline i-checks" for="q_project_item_name_in_sqat"><input class="checkbox_project_item_name_in" id="q_project_item_name_in_id" type="checkbox" value="S.Q.A.Tｻｰﾋﾞｽ" checked="checked" name="q[project_item_name_in][]" /> S.Q.A.Tｻｰﾋﾞｽ</label><label class="checkbox-inline i-checks" for="q_project_item_name_in_sqat"><input class="checkbox_project_item_name_in" id="q_project_item_name_in_id" type="checkbox" value="S.Q.A.Tｻｰﾋﾞｽ(ﾁｹｯﾄ)" checked="checked" name="q[project_item_name_in][]" /> S.Q.A.Tｻｰﾋﾞｽ(ﾁｹｯﾄ)</label><label class="checkbox-inline i-checks" for="q_project_item_name_in_"><input class="checkbox_project_item_name_in" id="q_project_item_name_in_id" type="checkbox" value="その他" name="q[project_item_name_in][]" /> その他</label><input type="hidden" name="q[project_item_name_in][]" value="" />
+            </div>
+            </div>
+              <div class="form-group"> 
+                <label class="col-sm-2 control-label">案件リーダー</label> 
+                <div class="col-sm-9 form-inline">
+                  <select name="project_leader" id="project_leader" class="form-control input-sm"><option value=""></option><option value="20">安藤 拓磨</option>
+<option value="21">國枝 悠一郎</option>
+<option value="28">下地 菜月</option>
+<option value="15">高塚 義紀</option>
+<option value="39">森本 直樹 </option>
+<option value="18">渡邊 拓彌</option></select>
+                  <label class="control-label">&nbsp;&nbsp;&nbsp;&nbsp;案件担当者&nbsp;&nbsp;&nbsp;&nbsp;</label>
+                  <select name="project_member" id="project_member" class="form-control input-sm"><option value=""></option><option value="23">浅見 まゆ</option>
+<option value="72">新井 彰子</option>
+<option value="70">荒尾 健司</option>
+<option value="20">安藤 拓磨</option>
+<option value="34">和泉 昌孝</option>
+<option value="25">猪股 勇介</option>
+<option value="71">上田 淳子</option>
+<option value="4">大塚 秀幸</option>
+<option value="26">奥村 彩佳</option>
+<option value="5">折原 義一</option>
+<option value="9">金子 太一</option>
+<option value="78">川上 和也</option>
+<option value="31">川又 朋子</option>
+<option value="24">木津 勝</option>
+<option value="2">木野本 和也</option>
+<option value="48">久我</option>
+<option value="21">國枝 悠一郎</option>
+<option value="38">根 一平</option>
+<option value="32">金 ちひろ</option>
+<option value="35">今野 麻希</option>
+<option value="7">齊藤 義人</option>
+<option value="73">佐藤 竜</option>
+<option value="28">下地 菜月</option>
+<option value="55">診断01ユーザ</option>
+<option value="81">sqat-sfa1@bbsec.co.jp</option>
+<option value="82">杉井 倫子</option>
+<option value="14">鈴木 一世</option>
+<option value="74">須藤 健一</option>
+<option value="15">高塚 義紀</option>
+<option value="54">髙橋 さぎり</option>
+<option value="13">高橋 久司</option>
+<option selected="selected" value="87">高橋 英樹</option>
+<option value="30">武部 英美</option>
+<option value="8">田澤 千絵</option>
+<option value="68">田渕 浩光 </option>
+<option value="85">協力会社_松下</option>
+<option value="27">得永 悠馬</option>
+<option value="16">冨田 淳</option>
+<option value="75">豊満 竜也</option>
+<option value="77">西山 英樹</option>
+<option value="3">楡井 勉</option>
+<option value="69">能登 雄二</option>
+<option value="76">藤井 大介</option>
+<option value="37">松浦 守男</option>
+<option value="50">松下勇</option>
+<option value="39">森本 直樹 </option>
+<option value="79">矢野 基樹</option>
+<option value="11">山崎　義雄 </option>
+<option value="22">渡辺 明人</option>
+<option value="18">渡邊 拓彌</option></select>
+                </div>
+              </div>  
+            <div class="form-group"> 
+              <label class="col-sm-2 control-label">診断予定期間</label> 
+              <div class="col-sm-10 form-inline">
+                <div class="input-group">
+                  <div class="input-group-addon"><i class="fa fa-calendar"></i></div>
+                  <input placeholder="診断開始予定日" class="form-control input-sm datepicker" type="text" name="q[diagnosis_expected_start_date_gteq]" id="q_diagnosis_expected_start_date_gteq" />
+                  <div style="display:table-cell;vertical-align:middle;" class="">&nbsp;－&nbsp;</div>
+                  <div class="input-group-addon"><i class="fa fa-calendar"></i></div>
+                  <input placeholder="診断終了予定日" class="form-control input-sm datepicker" type="text" name="q[diagnosis_expected_end_date_lteq]" id="q_diagnosis_expected_end_date_lteq" />
+                </div>
+              </div>
+            </div> 
+              <div class="form-group" id="search_amount"> 
+                <label class="col-sm-2 control-label">売上期間(月)</label> 
+                <div class="col-sm-10 form-inline">
+                  <div class="input-group">
+                    <div class="input-group-addon"><i class="fa fa-calendar"></i></div>
+                    <input type="text" name="amount_from" id="amount_from" value="" placeholder="売上開始日" class="form-control input-sm datepicker" />
+                    <div style="display:table-cell;vertical-align:middle;" class="">&nbsp;－&nbsp;</div>
+                    <div class="input-group-addon"><i class="fa fa-calendar"></i></div>
+                    <input type="text" name="amount_to" id="amount_to" value="" placeholder="売上終了日" class="form-control input-sm datepicker" />
+                  </div>
+                </div>
+              </div> 
+              <div class="form-group">
+                <label class="col-sm-2 control-label">受注確度</label>  
+                <div class="col-sm-9 form-inline">
+                  <label class="checkbox-inline i-checks" for="q_project_item_accuracy_in_a"><input class="checkbox_project_item_accuracy_in" type="checkbox" value="A" checked="checked" name="q[project_item_accuracy_in][]" id="q_project_item_accuracy_in_a" /> A</label><label class="checkbox-inline i-checks" for="q_project_item_accuracy_in_b"><input class="checkbox_project_item_accuracy_in" type="checkbox" value="B" checked="checked" name="q[project_item_accuracy_in][]" id="q_project_item_accuracy_in_b" /> B</label><label class="checkbox-inline i-checks" for="q_project_item_accuracy_in_c"><input class="checkbox_project_item_accuracy_in" type="checkbox" value="C" checked="checked" name="q[project_item_accuracy_in][]" id="q_project_item_accuracy_in_c" /> C</label><label class="checkbox-inline i-checks" for="q_project_item_accuracy_in_d"><input class="checkbox_project_item_accuracy_in" type="checkbox" value="D" name="q[project_item_accuracy_in][]" id="q_project_item_accuracy_in_d" /> D</label><label class="checkbox-inline i-checks" for="
+2000
+q_project_item_accuracy_in_e"><input class="checkbox_project_item_accuracy_in" type="checkbox" value="E" name="q[project_item_accuracy_in][]" id="q_project_item_accuracy_in_e" /> E</label><label class="checkbox-inline i-checks" for="q_project_item_accuracy_in_f"><input class="checkbox_project_item_accuracy_in" type="checkbox" value="F:確定" checked="checked" name="q[project_item_accuracy_in][]" id="q_project_item_accuracy_in_f" /> F:確定</label><label class="checkbox-inline i-checks" for="q_project_item_accuracy_in_g"><input class="checkbox_project_item_accuracy_in" type="checkbox" value="G:受注" checked="checked" name="q[project_item_accuracy_in][]" id="q_project_item_accuracy_in_g" /> G:受注</label><label class="checkbox-inline i-checks" for="q_project_item_accuracy_in_h"><input class="checkbox_project_item_accuracy_in" type="checkbox" value="H:失注" name="q[project_item_accuracy_in][]" id="q_project_item_accuracy_in_h" /> H:失注</label><label class="checkbox-inline i-checks" for="q_project_item_accuracy_in_o"><input class="checkbox_project_item_accuracy_in" type="checkbox" value="O" name="q[project_item_accuracy_in][]" id="q_project_item_accuracy_in_o" /> O</label><input type="hidden" name="q[project_item_accuracy_in][]" value="" />
+              </div>
+              </div>
+            <div class="form-group"> 
+              <label class="col-sm-2 control-label">検収済案件も表示</label> 
+              <div class="col-sm-10 form-inline">
+                <input name="q[inspection_order_status]" type="hidden" value="0" /><input class="checkbox-inline i-checks" type="checkbox" value="1" name="q[inspection_order_status]" id="q_inspection_order_status" />
+              </div>
+	  </div>
+        </div>
+</form>      </div><!-- /.col --> 
+    </div><!-- /.row --> 
+  </div><!-- /.ibox-conrtent --> 
+  <div class="ibox-footer">
+    <!-- <div class="col-sm-9 col-sm-offset-2"> -->
+    <div class="form-group form-horizontal"> 
+      <label class="col-sm-2 control-label">チェックボックス</label> 
+      <div class="col-sm-9 form-inline">
+        <button name="button" type="button" class="btn btn-success btn-outline" id="all_check">全選択</button>
+        <button name="button" type="button" class="btn btn-success btn-outline" id="clear_check">全解除</button>
+        <button name="button" type="button" class="btn btn-success btn-outline" id="default_check">デフォルト</button>
+        <div class="pull-right"> 
+          <a class="btn btn-primary " id="submit_search" onclick="$(&#39;#project_item_type_search&#39;).submit();return false;" href="#">検索</a>
+          <input type="submit" name="commit" value="案件CSV出力" class="btn btn-primary btn-outline" id="export_csv" />
+            <a class="btn btn-primary btn-outline" data-toggle="modal" data-target="#export_time_entries_csv_modal" href="#">工数CSV出力</a>
+            <div class="modal inmodal fade" id="export_time_entries_csv_modal" tabindex="-1" role="dialog" aria-hidden="true" style="display: none;">
+              <div class="modal-dialog modal-m">
+                <div class="modal-content">
+                  <form action="/projects/export_time_entries.csv" accept-charset="UTF-8" method="post"><input name="utf8" type="hidden" value="&#x2713;" /><input type="hidden" name="authenticity_token" value="CQYNl+17h4UwzkoXKmlIHsIWwjuSh7bIH+E3JdcheudzQacr8jzcj6Sjc0d294n/GFUmTKfLvRIRwrrU8klpeA==" />
+                    <div class="modal-header">
+                      <h4 class="modal-title">工数CSV出力</h4>
+                    </div>
+                    <div class="modal-body">
+                      <div class="form-group"> 
+                        <label class="control-label">出力期間</label> 
+                        <div class="form-inline">
+                          <div class="input-group">
+                            <div class="input-group-addon"><i class="fa fa-calendar"></i></div>
+                            <input placeholder="開始日" id="start_date" class="form-control input-sm datepicker" type="text" name="start_date">
+                            <div style="display:table-cell;vertical-align:middle;" class="">&nbsp;－&nbsp;</div>
+                            <div class="input-group-addon"><i class="fa fa-calendar"></i></div>
+                            <input placeholder="終了日" id="end_date" class="form-control input-sm datepicker" type="text" name="end_date">
+                          </div>
+                        </div>
+                      </div> 
+                      <div class="form-group">
+                        <button name="button" type="submit" class="btn btn-success btn-outline" id="this_month">今月</button>
+                        <button name="button" type="submit" class="btn btn-success btn-outline" id="prev_month">前月</button>
+                      </div>
+                    </div>
+                    <div class="modal-footer">
+                      <input type="submit" name="commit" value="工数CSV出力" class="btn btn-primary" />
+                      <button type="button" class="btn btn-white" data-dismiss="modal">Close</button>
+                    </div>
+</form>                </div>
+              </div>
+            </div>
+        </div> 
+      </div> 
+    </div><!-- /.col --> 
+    <div class="clearfix"></div>
+    </div><!-- /.ibox-footer -->
+  </div>
+  <div id="requested_assigned_id" style="display:none;">0</div>
+ 
+			</div>
+			<div class="col-lg-3 connectedSortable">
+				<div class="ibox float-e-margins">
+					<div class="ibox-title">
+						<h5>ICAT</h5> 
+						<div class="ibox-tools">
+							<a class="collapse-link">
+								<i class="fa fa-chevron-up"></i>
+							</a>
+						</div> 
+					</div><!-- /.ibox-title --> 
+					<div class="ibox-content"> 
+						<a class="twitter-timeline" href="https://twitter.com/ICATalerts" height="460" width="400">Tweet di @gameslookit</a>
+						<script async src="https://platform.twitter.com/widgets.js"></script>
+					</div>
+				</div>
+			</div>
+        </div>
+        <div class="col-md-12">
+            <div id="index_list">
+                <div class="ibox float-e-margins">
+    <div class="ibox-title">
+        <h5>
+            案件一覧
+        </h5>
+        <div class="ibox-tools">
+            <a class="collapse-link">
+                <i class="fa fa-chevron-up"></i>
+            </a>
+        </div> 
+    </div><!-- /.box-title -->
+    <div class="ibox-content">
+        <div class="row">
+            <div class="table-responsive">
+                <div id="DataTables_Table_0_wrapper" class="dataTables_wrapper form-inline dt-bootstrap">
+                    <p class="text-muted">   
+                    <div class="ajax_search">      
+                        全10件&nbsp;&nbsp;&nbsp;  
+                    </div>
+                    </p>  
+                    <table class="table table-striped table-bordered table-hover dataTables-example dataTable">
+  <thead>
+    <tr>
+      <th style="min-width:90px; max-width:200px;"><span class="ajax_search"><a class="sort_link " href="/?amount_from=&amp;amount_to=&amp;project_leader=&amp;project_member=87&amp;q%5Bdiagnosis_expected_end_date_lteq%5D=&amp;q%5Bdiagnosis_expected_start_date_gteq%5D=&amp;q%5Binspection_order_status%5D=0&amp;q%5Bmembers_projects%5D=87&amp;q%5Bproject_item_accuracy_in%5D%5B%5D=A&amp;q%5Bproject_item_accuracy_in%5D%5B%5D=B&amp;q%5Bproject_item_accuracy_in%5D%5B%5D=C&amp;q%5Bproject_item_accuracy_in%5D%5B%5D=F%3A%E7%A2%BA%E5%AE%9A&amp;q%5Bproject_item_accuracy_in%5D%5B%5D=G%3A%E5%8F%97%E6%B3%A8&amp;q%5Bproject_item_accuracy_in%5D%5B%5D=&amp;q%5Bproject_item_name_in%5D%5B%5D=S.Q.A.T%EF%BD%BB%EF%BD%B0%EF%BE%8B%EF%BE%9E%EF%BD%BD&amp;q%5Bproject_item_name_in%5D%5B%5D=S.Q.A.T%EF%BD%BB%EF%BD%B0%EF%BE%8B%EF%BE%9E%EF%BD%BD%28%EF%BE%81%EF%BD%B9%EF%BD%AF%EF%BE%84%29&amp;q%5Bproject_item_name_in%5D%5B%5D=&amp;q%5Bproject_item_project_sf_project_number_or_project_item_sf_item_id_cont%5D=&amp;q%5Bs%5D=project_item_project_client_name+asc&amp;q%5Bsearch_words%5D=&amp;utf8=%E2%9C%93">顧客</a></span></th>
+      <th style="min-width:60px;"><span class="ajax_search"><a class="sort_link " href="/?amount_from=&amp;amount_to=&amp;p
+2000
+roject_leader=&amp;project_member=87&amp;q%5Bdiagnosis_expected_end_date_lteq%5D=&amp;q%5Bdiagnosis_expected_start_date_gteq%5D=&amp;q%5Binspection_order_status%5D=0&amp;q%5Bmembers_projects%5D=87&amp;q%5Bproject_item_accuracy_in%5D%5B%5D=A&amp;q%5Bproject_item_accuracy_in%5D%5B%5D=B&amp;q%5Bproject_item_accuracy_in%5D%5B%5D=C&amp;q%5Bproject_item_accuracy_in%5D%5B%5D=F%3A%E7%A2%BA%E5%AE%9A&amp;q%5Bproject_item_accuracy_in%5D%5B%5D=G%3A%E5%8F%97%E6%B3%A8&amp;q%5Bproject_item_accuracy_in%5D%5B%5D=&amp;q%5Bproject_item_name_in%5D%5B%5D=S.Q.A.T%EF%BD%BB%EF%BD%B0%EF%BE%8B%EF%BE%9E%EF%BD%BD&amp;q%5Bproject_item_name_in%5D%5B%5D=S.Q.A.T%EF%BD%BB%EF%BD%B0%EF%BE%8B%EF%BE%9E%EF%BD%BD%28%EF%BE%81%EF%BD%B9%EF%BD%AF%EF%BE%84%29&amp;q%5Bproject_item_name_in%5D%5B%5D=&amp;q%5Bproject_item_project_sf_project_number_or_project_item_sf_item_id_cont%5D=&amp;q%5Bs%5D=project_item_project_sf_project_number+asc&amp;q%5Bsearch_words%5D=&amp;utf8=%E2%9C%93">案件番号</a></span></th>
+      <th style="min-width:90px; max-width:200px;"><span class="ajax_search"><a class="sort_link " href="/?amount_from=&amp;amount_to=&amp;project_leader=&amp;project_member=87&amp;q%5Bdiagnosis_expected_end_date_lteq%5D=&amp;q%5Bdiagnosis_expected_start_date_gteq%5D=&amp;q%5Binspection_order_status%5D=0&amp;q%5Bmembers_projects%5D=87&amp;q%5Bproject_item_accuracy_in%5D%5B%5D=A&amp;q%5Bproject_item_accuracy_in%5D%5B%5D=B&amp;q%5Bproject_item_accuracy_in%5D%5B%5D=C&amp;q%5Bproject_item_accuracy_in%5D%5B%5D=F%3A%E7%A2%BA%E5%AE%9A&amp;q%5Bproject_item_accuracy_in%5D%5B%5D=G%3A%E5%8F%97%E6%B3%A8&amp;q%5Bproject_item_accuracy_in%5D%5B%5D=&amp;q%5Bproject_item_name_in%5D%5B%5D=S.Q.A.T%EF%BD%BB%EF%BD%B0%EF%BE%8B%EF%BE%9E%EF%BD%BD&amp;q%5Bproject_item_name_in%5D%5B%5D=S.Q.A.T%EF%BD%BB%EF%BD%B0%EF%BE%8B%EF%BE%9E%EF%BD%BD%28%EF%BE%81%EF%BD%B9%EF%BD%AF%EF%BE%84%29&amp;q%5Bproject_item_name_in%5D%5B%5D=&amp;q%5Bproject_item_project_sf_project_number_or_project_item_sf_item_id_cont%5D=&amp;q%5Bs%5D=project_item_project_name+asc&amp;q%5Bsearch_words%5D=&amp;utf8=%E2%9C%93">案件</a></span></th>
+      <th style="min-width:60px;"><span class="ajax_search"><a class="sort_link " href="/?amount_from=&amp;amount_to=&amp;project_leader=&amp;project_member=87&amp;q%5Bdiagnosis_expected_end_date_lteq%5D=&amp;q%5Bdiagnosis_expected_start_date_gteq%5D=&amp;q%5Binspection_order_status%5D=0&amp;q%5Bmembers_projects%5D=87&amp;q%5Bproject_item_accuracy_in%5D%5B%5D=A&amp;q%5Bproject_item_accuracy_in%5D%5B%5D=B&amp;q%5Bproject_item_accuracy_in%5D%5B%5D=C&amp;q%5Bproject_item_accuracy_in%5D%5B%5D=F%3A%E7%A2%BA%E5%AE%9A&amp;q%5Bproject_item_accuracy_in%5D%5B%5D=G%3A%E5%8F%97%E6%B3%A8&amp;q%5Bproject_item_accuracy_in%5D%5B%5D=&amp;q%5Bproject_item_name_in%5D%5B%5D=S.Q.A.T%EF%BD%BB%EF%BD%B0%EF%BE%8B%EF%BE%9E%EF%BD%BD&amp;q%5Bproject_item_name_in%5D%5B%5D=S.Q.A.T%EF%BD%BB%EF%BD%B0%EF%BE%8B%EF%BE%9E%EF%BD%BD%28%EF%BE%81%EF%BD%B9%EF%BD%AF%EF%BE%84%29&amp;q%5Bproject_item_name_in%5D%5B%5D=&amp;q%5Bproject_item_project_sf_project_number_or_project_item_sf_item_id_cont%5D=&amp;q%5Bs%5D=project_item_sf_item_id+asc&amp;q%5Bsearch_words%5D=&amp;utf8=%E2%9C%93">品目ID</a></span></th>
+      <th style="min-width:90px; max-width:200px;"><span class="ajax_search"><a class="sort_link " href="/?amount_from=&amp;amount_to=&amp;project_leader=&amp;project_member=87&amp;q%5Bdiagnosis_expected_end_date_lteq%5D=&amp;q%5Bdiagnosis_expected_start_date_gteq%5D=&amp;q%5Binspection_order_status%5D=0&amp;q%5Bmembers_projects%5D=87&amp;q%5Bproject_item_accuracy_in%5D%5B%5D=A&amp;q%5Bproject_item_accuracy_in%5D%5B%5D=B&amp;q%5Bproject_item_accuracy_in%5D%5B%5D=C&amp;q%5Bproject_item_accuracy_in%5D%5B%5D=F%3A%E7%A2%BA%E5%AE%9A&amp;q%5Bproject_item_accuracy_in%5D%5B%5D=G%3A%E5%8F%97%E6%B3%A8&amp;q%5Bproject_item_accuracy_in%5D%5B%5D=&amp;q%5Bproject_item_name_in%5D%5B%5D=S.Q.A.T%EF%BD%BB%EF%BD%B0%EF%BE%8B%EF%BE%9E%EF%BD%BD&amp;q%5Bproject_item_name_in%5D%5B%5D=S.Q.A.T%EF%BD%BB%EF%BD%B0%EF%BE%8B%EF%BE%9E%EF%BD%BD%28%EF%BE%81%EF%BD%B9%EF%BD%AF%EF%BE%84%29&amp;q%5Bproject_item_name_in%5D%5B%5D=&amp;q%5Bproject_item_project_sf_project_number_or_project_item_sf_item_id_cont%5D=&amp;q%5Bs%5D=project_item_name+asc&amp;q%5Bsearch_words%5D=&amp;utf8=%E2%9C%93">品目</a></span></th>
+      <th style="min-width:90px; max-width:200px;"><span class="ajax_search"><a class="sort_link " href="/?amount_from=&amp;amount_to=&amp;project_leader=&amp;project_member=87&amp;q%5Bdiagnosis_expected_end_date_lteq%5D=&amp;q%5Bdiagnosis_expected_start_date_gteq%5D=&amp;q%5Binspection_order_status%5D=0&amp;q%5Bmembers_projects%5D=87&amp;q%5Bproject_item_accuracy_in%5D%5B%5D=A&amp;q%5Bproject_item_accuracy_in%5D%5B%5D=B&amp;q%5Bproject_item_accuracy_in%5D%5B%5D=C&amp;q%5Bproject_item_accuracy_in%5D%5B%5D=F%3A%E7%A2%BA%E5%AE%9A&amp;q%5Bproject_item_accuracy_in%5D%5B%5D=G%3A%E5%8F%97%E6%B3%A8&amp;q%5Bproject_item_accuracy_in%5D%5B%5D=&amp;q%5Bproject_item_name_in%5D%5B%5D=S.Q.A.T%EF%BD%BB%EF%BD%B0%EF%BE%8B%EF%BE%9E%EF%BD%BD&amp;q%5Bproject_item_name_in%5D%5B%5D=S.Q.A.T%EF%BD%BB%EF%BD%B0%EF%BE%8B%EF%BE%9E%EF%BD%BD%28%EF%BE%81%EF%BD%B9%EF%BD%AF%EF%BE%84%29&amp;q%5Bproject_item_name_in%5D%5B%5D=&amp;q%5Bproject_item_project_sf_project_number_or_project_item_sf_item_id_cont%5D=&amp;q%5Bs%5D=project_item_system_name+asc&amp;q%5Bsearch_words%5D=&amp;utf8=%E2%9C%93">システム</a></span></th>
+      <th style="min-width:90px; max-width:200px;"><span class="ajax_search"><a class="sort_link " href="/?amount_from=&amp;amount_to=&amp;project_leader=&amp;project_member=87&amp;q%5Bdiagnosis_expected_end_date_lteq%5D=&amp;q%5Bdiagnosis_expected_start_date_gteq%5D=&amp;q%5Binspection_order_status%5D=0&amp;q%5Bmembers_projects%5D=87&amp;q%5Bproject_item_accuracy_in%5D%5B%5D=A&amp;q%5Bproject_item_accuracy_in%5D%5B%5D=B&amp;q%5Bproject_item_accuracy_in%5D%5B%5D=C&amp;q%5Bproject_item_accuracy_in%5D%5B%5D=F%3A%E7%A2%BA%E5%AE%9A&amp;q%5Bproject_item_accuracy_in%5D%5B%5D=G%3A%E5%8F%97%E6%B3%A8&amp;q%5Bproject_item_accuracy_in%5D%5B%5D=&amp;q%5Bproject_item_name_in%5D%5B%5D=S.Q.A.T%EF%BD%BB%EF%BD%B0%EF%BE%8B%EF%BE%9E%EF%BD%BD&amp;q%5Bproject_item_name_in%5D%5B%5D=S.Q.A.T%EF%BD%BB%EF%BD%B0%EF%BE%8B%EF%BE%9E%EF%BD%BD%28%EF%BE%81%EF%BD%B9%EF%BD%AF%EF%BE%84%29&amp;q%5Bproject_item_name_in%5D%5B%5D=&amp;q%5Bproject_item_project_sf_project_number_or_project_item_sf_item_id_cont%5D=&amp;q%5Bs%5D=name+asc&amp;q%5Bsearch_words%5D=&amp;utf8=%E2%9C%93">種別</a></span></th>
+      <th style="min-width:90px;"><span class="ajax_search"><a class="sort_link " href="/?amount_from=&amp;amount_to=&amp;project_leader=&amp;project_member=87&amp;q%5Bdiagnosis_expected_end_date_lteq%5D=&amp;q%5Bdiagnosis_expected_start_date_gteq%5D=&amp;q%5Binspection_order_status%5D=0&amp;q%5Bmembers_projects%5D=87&amp;q%5Bproject_item_accuracy_in%5D%5B%5D=A&amp;q%5Bproject_item_accuracy_in%5D%5B%5D=B&amp;q%5Bproject_item_accuracy_in%5D%5B%5D=C&amp;q%5Bproject_item_accuracy_in%5D%5B%5D=F%3A%E7%A2%BA%E5%AE%9A&amp;q%5Bproject_item_accuracy_in%5D%5B%5D=G%3A%E5%8F%97%E6%B3%A8&amp;q%5Bproject_item_accuracy_in%5D%5B%5D=&amp;q%5Bproject_item_name_in%5D%5B%5D=S.Q.A.T%EF%BD%BB%EF%BD%B0%EF%BE%8B%EF%BE%9E%EF%BD%BD&amp;q%5Bproject_item_name_in%5D%5B%5D=S.Q.A.T%EF%BD%BB%EF%BD%B0%EF%BE%8B%EF%BE%9E%EF%BD%BD%28%EF%BE%81%EF%BD%B9%EF%BD%AF%EF%BE%84%29&amp;q%5Bproject_item_name_in%5D%5B%5D=&amp;q%5Bproject_item_project_sf_project_number_or_project_item_sf_item_id_cont%5D=&amp;q%5Bs%5D=project_leaders_user_id+asc&amp;q%5Bsearch_words%5D=&amp;utf8=%E2%9C%93">案件リーダー</a></span></th>
+      <th style="min-width:60px;"><span class="ajax_search"><a class="sort_link " href="/?amount_from=&amp;amount_to=&amp;project_leader=&amp;project_member=87&amp;q%5Bdiagnosis_expected_end_date_lteq%5D=&amp;q%5Bdiagnosis_expected_start_date_gteq%5D=&amp;q%5Binspection_order_status%5D=0&amp;q%5Bmembers_projects%5D=87&amp;q%5Bproject_item_accuracy_in%5D%5B%5D=A&amp;q%5Bproject_item_accuracy_in%5D%5B%5D=B&amp;q%5Bproject_item_accuracy_in%5D%5B%5D=C&amp;q%5Bproject_item_accuracy_in%5D%5B%5D=F%3A%E7%A2%BA%E5%AE%9A&amp;q%5Bproject_item_accuracy_in%5D%5B%5D=G%3A%E5%8F%97%E6%B3%A8&amp;q%5Bproject_item_accuracy_in%5D%5B%5D=&amp;q%5Bproject_item_name_in%5D%5B%5D=S.Q.A
+1000
+.T%EF%BD%BB%EF%BD%B0%EF%BE%8B%EF%BE%9E%EF%BD%BD&amp;q%5Bproject_item_name_in%5D%5B%5D=S.Q.A.T%EF%BD%BB%EF%BD%B0%EF%BE%8B%EF%BE%9E%EF%BD%BD%28%EF%BE%81%EF%BD%B9%EF%BD%AF%EF%BE%84%29&amp;q%5Bproject_item_name_in%5D%5B%5D=&amp;q%5Bproject_item_project_sf_project_number_or_project_item_sf_item_id_cont%5D=&amp;q%5Bs%5D=project_item_accuracy+asc&amp;q%5Bsearch_words%5D=&amp;utf8=%E2%9C%93">受注確度</a></span></th>
+      <th style="min-width:90px;"><span class="ajax_search">診断計画書提出予定日</span></th>
+      <th style="min-width:90px;"><span class="ajax_search">診断開始予定日</span></th>
+      <th style="min-width:90px;"><span class="ajax_search">診断終了予定日</span></th>
+      <th style="min-width:60px;"><span class="ajax_search">見積もり</span></th>
+      <th style="min-width:60px;"><span class="ajax_search">発注書</span></th>
+      <th style="min-width:60px;"><span class="ajax_search"><a class="sort_link " href="/?amount_from=&amp;amount_to=&amp;project_leader=&amp;project_member=87&amp;q%5Bdiagnosis_expected_end_date_lteq%5D=&amp;q%5Bdiagnosis_expected_start_date_gteq%5D=&amp;q%5Binspection_order_status%5D=0&amp;q%5Bmembers_projects%5D=87&amp;q%5Bproject_item_accuracy_in%5D%5B%5D=A&amp;q%5Bproject_item_accuracy_in%5D%5B%5D=B&amp;q%5Bproject_item_accuracy_in%5D%5B%5D=C&amp;q%5Bproject_item_accuracy_in%5D%5B%5D=F%3A%E7%A2%BA%E5%AE%9A&amp;q%5Bproject_item_accuracy_in%5D%5B%5D=G%3A%E5%8F%97%E6%B3%A8&amp;q%5Bproject_item_accuracy_in%5D%5B%5D=&amp;q%5Bproject_item_name_in%5D%5B%5D=S.Q.A.T%EF%BD%BB%EF%BD%B0%EF%BE%8B%EF%BE%9E%EF%BD%BD&amp;q%5Bproject_item_name_in%5D%5B%5D=S.Q.A.T%EF%BD%BB%EF%BD%B0%EF%BE%8B%EF%BE%9E%EF%BD%BD%28%EF%BE%81%EF%BD%B9%EF%BD%AF%EF%BE%84%29&amp;q%5Bproject_item_name_in%5D%5B%5D=&amp;q%5Bproject_item_project_sf_project_number_or_project_item_sf_item_id_cont%5D=&amp;q%5Bs%5D=diagnosis_position+asc&amp;q%5Bsearch_words%5D=&amp;utf8=%E2%9C%93">診断</a></span></th>
+      <th style="min-width:60px;"><span class="ajax_search"><a class="sort_link " href="/?amount_from=&amp;amount_to=&amp;project_leader=&amp;project_member=87&amp;q%5Bdiagnosis_expected_end_date_lteq%5D=&amp;q%5Bdiagnosis_expected_start_date_gteq%5D=&amp;q%5Binspection_order_status%5D=0&amp;q%5Bmembers_projects%5D=87&amp;q%5Bproject_item_accuracy_in%5D%5B%5D=A&amp;q%5Bproject_item_accuracy_in%5D%5B%5D=B&amp;q%5Bproject_item_accuracy_in%5D%5B%5D=C&amp;q%5Bproject_item_accuracy_in%5D%5B%5D=F%3A%E7%A2%BA%E5%AE%9A&amp;q%5Bproject_item_accuracy_in%5D%5B%5D=G%3A%E5%8F%97%E6%B3%A8&amp;q%5Bproject_item_accuracy_in%5D%5B%5D=&amp;q%5Bproject_item_name_in%5D%5B%5D=S.Q.A.T%EF%BD%BB%EF%BD%B0%EF%BE%8B%EF%BE%9E%EF%BD%BD&amp;q%5Bproject_item_name_in%5D%5B%5D=S.Q.A.T%EF%BD%BB%EF%BD%B0%EF%BE%8B%EF%BE%9E%EF%BD%BD%28%EF%BE%81%EF%BD%B9%EF%BD%AF%EF%BE%84%29&amp;q%5Bproject_item_name_in%5D%5B%5D=&amp;q%5Bproject_item_project_sf_project_number_or_project_item_sf_item_id_cont%5D=&amp;q%5Bs%5D=report_position+asc&amp;q%5Bsearch_words%5D=&amp;utf8=%E2%9C%93">報告書</a></span></th>
+      <th style="min-width:60px;"><span class="ajax_search">監査</span></th>
+      <th style="min-width:60px;"><span class="ajax_search">本部長</span></th>
+      <th style="min-width:60px;"><span class="ajax_search">検収書</span></th>
+      
+    </tr>
+  </thead>
+
+  <tbody>
+  <tr class="clickable" data-href="/project/8/dashboards/index">
+    <td>生活協同組合連合会コｰプきんき事業連合</td>
+    <td></td>
+    <td>ポータルテスト案件</td>
+    <td>0000009150</td>
+    <td>S.Q.A.Tｻｰﾋﾞｽ</td>
+    <td>エンドユーザ検索テスト用</td>
+    <td>診断</td>
+    <td>未アサイン</td>
+    <td>G:受注</td>
+    <td title="担当者:楡井 勉">
+      2017/01/06
+    </td>
+    <td title="担当者:楡井 勉">
+      2017/01/07
+    </td>
+    <td title="担当者:楡井 勉">
+      2017/01/08
+    </td>
+      <td title="担当者:楡井 勉">
+        新規
+      </td>
+      <td>
+        受領済
+      </td>
+      <td title="担当者:楡井 勉">
+        診断作業中
+      </td>
+      <td title="担当者:楡井 勉">
+2836
+
+        Ver0.5作成中
+      </td>
+    <td>未着手</td>
+    <td>依頼中</td>
+    <td>未受領</td>
+    
+  </tr>
+  <tr class="clickable" data-href="/project/3521/dashboards/index">
+    <td>テスト株式会社</td>
+    <td>0000003844A</td>
+    <td>テスト案件</td>
+    <td>0000014513</td>
+    <td>S.Q.A.Tｻｰﾋﾞｽ</td>
+    <td>salseforce同期test</td>
+    <td>診断</td>
+    <td>未アサイン</td>
+    <td>A</td>
+    <td title="">
+      未定
+    </td>
+    <td title="">
+      未定
+    </td>
+    <td title="">
+      未定
+    </td>
+      <td title="">
+        未着手
+      </td>
+      <td>
+        未着手
+      </td>
+      <td title="">
+        未着手
+      </td>
+      <td title="">
+        未着手
+      </td>
+    <td>未着手</td>
+    <td>未着手</td>
+    <td>未受領</td>
+    
+  </tr>
+  <tr class="clickable" data-href="/project/3528/dashboards/index">
+    <td>生活協同組合連合会コｰプきんき事業連合</td>
+    <td></td>
+    <td>ポータルテスト案件</td>
+    <td>0000009150</td>
+    <td>S.Q.A.Tｻｰﾋﾞｽ</td>
+    <td>（未登録）</td>
+    <td>診断(簡易報告)</td>
+    <td>未アサイン</td>
+    <td>G:受注</td>
+    <td title="">
+      未定
+    </td>
+    <td title="">
+      未定
+    </td>
+    <td title="">
+      未定
+    </td>
+      <td title="">
+        未着手
+      </td>
+      <td>
+        未着手
+      </td>
+      <td title="">
+        未着手
+      </td>
+      <td title="">
+        未着手
+      </td>
+    <td>未着手</td>
+    <td>未着手</td>
+    <td>未受領</td>
+    
+  </tr>
+  <tr class="clickable" data-href="/project/3557/dashboards/index">
+    <td>テスト株式会社</td>
+    <td>0000003850A</td>
+    <td>#750 【担当者管理】担当者の自動紐付け</td>
+    <td>0000014512</td>
+    <td>S.Q.A.Tｻｰﾋﾞｽ</td>
+    <td>（未登録）</td>
+    <td>診断</td>
+    <td>未アサイン</td>
+    <td>G:受注</td>
+    <td title="">
+      未定
+    </td>
+    <td title="">
+      未定
+    </td>
+    <td title="">
+      未定
+    </td>
+      <td title="">
+        未着手
+      </td>
+      <td>
+        未着手
+      </td>
+      <td title="">
+        未着手
+      </td>
+      <td title="">
+        未着手
+      </td>
+    <td>未着手</td>
+    <td>未着手</td>
+    <td>未受領</td>
+    
+  </tr>
+  <tr class="clickable" data-href="/project/3558/dashboards/index">
+    <td>テスト株式会社</td>
+    <td>0000003850A</td>
+    <td>#750 【担当者管理】担当者の自動紐付け</td>
+    <td>0000014512</td>
+    <td>S.Q.A.Tｻｰﾋﾞｽ</td>
+    <td>（未登録）</td>
+    <td>診断</td>
+    <td>未アサイン</td>
+    <td>G:受注</td>
+    <td title="">
+      未定
+    </td>
+    <td title="">
+      未定
+    </td>
+    <td title="">
+      未定
+    </td>
+      <td title="">
+        未着手
+      </td>
+      <td>
+        未着手
+      </td>
+      <td title="">
+        未着手
+      </td>
+      <td title="">
+        未着手
+      </td>
+    <td>未着手</td>
+    <td>未着手</td>
+    <td>未受領</td>
+    
+  </tr>
+  <tr class="clickable" data-href="/project/3559/dashboards/index">
+    <td>テスト株式会社</td>
+    <td>0000003844A</td>
+    <td>テスト案件</td>
+    <td>0000014513</td>
+    <td>S.Q.A.Tｻｰﾋﾞｽ</td>
+    <td>salseforce同期test</td>
+    <td>診断</td>
+    <td>未アサイン</td>
+    <td>A</td>
+    <td title="">
+      未定
+    </td>
+    <td title="">
+      未定
+    </td>
+    <td title="">
+      未定
+    </td>
+      <td title="">
+        未着手
+      </td>
+      <td>
+        未着手
+      </td>
+      <td title="">
+        未着手
+      </td>
+      <td title="">
+        未着手
+      </td>
+    <td>未着手</td>
+    <td>未着手</td>
+    <td>未受領</td>
+    
+  </tr>
+  <tr class="clickable" data-href="/project/3446/dashboards/index">
+    <td>テスト株式会社</td>
+    <td>0000003844A</td>
+    <td>テスト案件</td>
+    <td>0000014505</td>
+    <td>S.Q.A.Tｻｰﾋﾞｽ(ﾁｹｯﾄ)</td>
+    <td>（未登録）</td>
+    <td>診断</td>
+    <td>未アサイン</td>
+    <td>G:受注</td>
+    <td title="担当者:木野本 和也">
+      未定
+    </td>
+    <td title="担当者:木野本 和也">
+      2016/09/16
+    </td>
+    <td title="担当者:木野本 和也">
+      未定
+    </td>
+      <td title="担当者:下地 菜月">
+        新規
+      </td>
+      <td>
+        受領済
+      </td>
+      <td title="担当者:木野本 和也">
+        診断作業中
+      </td>
+      <td title="">
+        未着手
+      </td>
+    <td>未着手</td>
+    <td>依頼中</td>
+    <td>未受領</td>
+    
+  </tr>
+  <tr class="clickable" data-href="/project/3515/dashboards/index">
+    <td>テスト株式会社</td>
+    <td>0000003844A</td>
+    <td>テスト案件</td>
+    <td>0000014505</td>
+    <td>S.Q.A.Tｻｰﾋﾞｽ(ﾁｹｯﾄ)</td>
+    <td>（未登録）</td>
+    <td>再診断</td>
+    <td>未アサイン</td>
+    <td>G:受注</td>
+    <td title="担当者:松下勇">
+      未定
+    </td>
+    <td title="担当者:松下勇">
+      未定
+    </td>
+    <td title="担当者:松下勇">
+      未定
+    </td>
+      <td title="">
+        未着手
+      </td>
+      <td>
+        受領済
+      </td>
+      <td title="担当者:松下勇">
+        診断作業中
+      </td>
+      <td title="">
+        未着手
+      </td>
+    <td>未着手</td>
+    <td>未着手</td>
+    <td>未受領</td>
+    
+  </tr>
+  <tr class="clickable" data-href="/project/3540/dashboards/index">
+    <td>テスト株式会社</td>
+    <td>0000003844A</td>
+    <td>テスト案件</td>
+    <td></td>
+    <td>S.Q.A.Tｻｰﾋﾞｽ(ﾁｹｯﾄ)</td>
+    <td>ポイント管理テスト用</td>
+    <td>診断</td>
+    <td>未アサイン</td>
+    <td>A</td>
+    <td title="">
+      未定
+    </td>
+    <td title="">
+      未定
+    </td>
+    <td title="">
+      未定
+    </td>
+      <td title="">
+        未着手
+      </td>
+      <td>
+        未着手
+      </td>
+      <td title="">
+        未着手
+      </td>
+      <td title="">
+        未着手
+      </td>
+    <td>未着手</td>
+    <td>未着手</td>
+    <td>未受領</td>
+    
+  </tr>
+  <tr class="clickable" data-href="/project/3542/dashboards/index">
+    <td>テスト株式会社</td>
+    <td>0000003844A</td>
+    <td>テスト案件</td>
+    <td></td>
+    <td>S.Q.A.Tｻｰﾋﾞｽ(ﾁｹｯﾄ)</td>
+    <td>不要データ</td>
+    <td>診断</td>
+    <td>未アサイン</td>
+    <td>G:受注</td>
+    <td title="">
+      未定
+    </td>
+    <td title="">
+      未定
+    </td>
+    <td title="">
+      未定
+    </td>
+      <td title="">
+        未着手
+      </td>
+      <td>
+        受領済
+      </td>
+      <td title="">
+        未着手
+      </td>
+      <td title="">
+        未着手
+      </td>
+    <td>未着手</td>
+    <td>未着手</td>
+    <td>未受領</td>
+    
+  </tr>
+  </tbody>
+</table>
+ 
+                        <div class="text-center">
+                            <div class="ajax_search">       
+                                   
+                            </div>
+                        </div>
+                </div><!-- /.box-body -->
+                <div class="box-footer clearfix">
+                </div> 
+            </div>
+        </div>
+    </div><!-- /.ibox-title -->
+</div><!-- /.ibox float-e-margins -->
+
+            </div>
+        </div>
+    </div>
+</div>
+
+
+        <!-- Footer -->
+        <div class="footer">
+    <div>
+      &copy; 2016 BroadBand Security, Inc. All rights reserved.
+    </div>
+</div>
+
+
+      </div>
+      <!-- End page wrapper-->
+
+      <!-- Right sidebar -->
+      <div id="right-sidebar">
+  <div class="sidebar-container">
+    <ul class="nav nav-tabs navs-3">
+      <li class="active">
+        <a data-toggle="tab" href="#tab-1">
+          Profile
+        </a>
+      </li>
+      <li>
+        <a data-toggle="tab" href="#tab-2">
+          Projects
+        </a>
+      </li>
+      <li>
+          <a href="javascript:void(0)" class="disable-link">　</a>
+      </li>
+    </ul>
+    <div class="tab-content">
+      <div id="tab-1" class="tab-pane active">
+        <div class="sidebar-title">
+          <h3> <i class="fa fa-user"></i> Profile</h3>
+          <!-- <small><i class="fa fa-tim"></i> You have 14 projects. 10 not completed.</small> -->
+        </div>
+        <div class="ibox-content text-center">
+          <h1>高橋 英樹</h1>
+          <div class="m-b-sm">
+            <img class="img-circle" alt="User Image" src="/uploads/user_img/1/thumb/%E6%B8%A9%E6%B3%89%E5%AE%BF%E3%81%AE%E6%9A%96%E7%B0%BE%E3%82%A2%E3%82%A4%E3%82%B3%E3%83%B3.png?1489047358" />
+            
+          </div>
+          <p class="font-bold">開発部</p>
+          <div class="text-center">
+            <a class="btn btn-sm btn-white" href="/admin/my_pages"><i class="fa fa-user"></i> マイページ</a>
+            <a data-confirm="ログアウトしますか？" class="btn btn-sm btn-primary" rel="nofollow" data-method="delete" href="/sessions/87">
+              <i class="fa fa-sign-out"></i> ログアウト
+</a>          </div>
+        </div>
+      </div>
+      <div id="tab-2" class="tab-pane">
+        <div class="sidebar-title">
+          <h3> <i class="fa fa-cube"></i> Latest projects</h3>
+          <!-- <small><i class="fa fa-tim"></i> You have 14 projects. 10 not completed.</small> -->
+        </div>
+        <ul class="sidebar-list">
+              <li>
+                <a href="#">
+                  <a href="/project/3521/dashboards/index">
+                    <h4>テスト案件</h4>
+                    S.Q.A.Tｻｰﾋﾞｽ<br />
+                    診断
+                    <div class="small pull-right m-t-xs">最終ｱｸｾｽ時刻:2017/03/09 17:17</div>
+</a>                </a>
+              </li>
+        </ul>
+      </div>
+    </div>
+  </div>
+</div>
+
+
+
+    </div>
+    <!-- End wrapper-->
+
+    <!-- Include javascript per-controller - vendor plugins -->
+    <script src="/assets/projects-9a8cc452bfd4660ca89717edbf7fd449400a2905ce84a9ef9e8c9762b65a1bad.js"></script>
+
+    <!-- Include javascript per-view -->
+    <!-- For demo purpose we include javascript in view but you can easily start SeedProject and organize it with Rails asset pipeline as you want -->
+    
+
+  </body>
+</html>
+
+0
+

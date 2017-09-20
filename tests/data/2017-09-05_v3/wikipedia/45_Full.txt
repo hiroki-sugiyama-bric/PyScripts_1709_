@@ -1,0 +1,46 @@
+POST https://ja.wikipedia.org/w/index.php?title=%E7%89%B9%E5%88%A5:%E3%82%A2%E3%82%AB%E3%82%A6%E3%83%B3%E3%83%88%E4%BD%9C%E6%88%90&returnto=%E3%83%A1%E3%82%A4%E3%83%B3%E3%83%9A%E3%83%BC%E3%82%B8 HTTP/1.1
+Host: ja.wikipedia.org
+User-Agent: Mozilla/5.0 (Windows NT 6.1; WOW64; rv:51.0) Gecko/20100101 Firefox/51.0
+Accept: text/html,application/xhtml+xml,application/xml;q=0.9,*/*;q=0.8
+Accept-Language: ja,en-US;q=0.7,en;q=0.3
+Referer: https://ja.wikipedia.org/w/index.php?title=%E7%89%B9%E5%88%A5:%E3%82%A2%E3%82%AB%E3%82%A6%E3%83%B3%E3%83%88%E4%BD%9C%E6%88%90&returnto=%E3%83%A1%E3%82%A4%E3%83%B3%E3%83%9A%E3%83%BC%E3%82%B8
+Cookie: StewardVoteEligible=0; WMF-Last-Access=24-Feb-2017; WMF-Last-Access-Global=24-Feb-2017; VEE=visualeditor; jawikiUserName=Testaccount999; GeoIP=JP:::36.00:138.00:v4; jawikimwuser-sessionId=ca2951a625d13d5d; jawikiSession=ncp9lacpmbqsd8vk4r1vqjtnurkeos6i; forceHTTPS=true; jawikiGeoFeaturesUser2=a663828c16df0f3f
+Connection: close
+Upgrade-Insecure-Requests: 1
+Content-Type: application/x-www-form-urlencoded
+Content-Length: 414
+
+wpName=testtesti9994&wpPassword=Password001&retype=Password001&email=&captchaWord=coastblvd&wpCreateaccount=%E3%82%A2%E3%82%AB%E3%82%A6%E3%83%B3%E3%83%88%E3%82%92%E4%BD%9C%E6%88%90&wpEditToken=%2B%5C&title=%E7%89%B9%E5%88%A5%3A%E3%82%A2%E3%82%AB%E3%82%A6%E3%83%B3%E3%83%88%E4%BD%9C%E6%88%90&authAction=create&force=&wpCreateaccountToken=cc49834f50b4642b041417a28459e8ea58afe5a8%2B%5C&captchaId=1793366407&campaign=
+HTTP/1.1 302 Found
+Date: Fri, 24 Feb 2017 07:51:34 GMT
+Content-Type: text/html; charset=utf-8
+Content-Length: 0
+Connection: close
+Server: mw1188.eqiad.wmnet
+X-Powered-By: HHVM/3.12.14
+X-Content-Type-Options: nosniff
+P3P: CP="This is not a P3P policy! See https://ja.wikipedia.org/wiki/%E7%89%B9%E5%88%A5:CentralAutoLogin/P3P for more info."
+Vary: Accept-Encoding,X-Forwarded-Proto,Cookie,Authorization
+Expires: Thu, 01 Jan 1970 00:00:00 GMT
+Set-Cookie: jawikiSession=233rq86k16d394ii0jbp446toq1io37v; path=/; secure; httponly
+Set-Cookie: jawikiUserID=1186985; expires=Sun, 26-Mar-2017 07:51:34 GMT; Max-Age=2592000; path=/; secure; httponly
+Set-Cookie: jawikiUserName=Testtesti9994; expires=Sun, 26-Mar-2017 07:51:34 GMT; Max-Age=2592000; path=/; secure; httponly
+Set-Cookie: forceHTTPS=deleted; expires=Thu, 01-Jan-1970 00:00:01 GMT; Max-Age=0; path=/; httponly
+Set-Cookie: forceHTTPS=true; path=/; domain=.wikipedia.org; httponly
+Set-Cookie: centralauth_User=Testtesti9994; expires=Sun, 26-Mar-2017 07:51:34 GMT; Max-Age=2592000; path=/; domain=.wikipedia.org; secure; httponly
+Set-Cookie: centralauth_Session=025bc60ef3a122aa2058e8f6846209c9; path=/; domain=.wikipedia.org; secure; httponly
+Set-Cookie: cpPosTime=1487922694.8194; expires=Fri, 24-Feb-2017 07:52:34 GMT; Max-Age=60; path=/; secure; httponly
+Set-Cookie: UseDC=master; expires=Fri, 24-Feb-2017 07:51:44 GMT; Max-Age=10; path=/; secure; httponly
+Set-Cookie: UseCDNCache=false; expires=Fri, 24-Feb-2017 07:51:44 GMT; Max-Age=10; path=/; secure; httponly
+Location: https://login.wikimedia.org/wiki/Special:CentralLogin/start?token=351f28b0ac1cf528356b7ed6105d63fe&CentralAuthLatest=1
+Backend-Timing: D=2804961 t=1487922692020301
+X-Varnish: 645186902, 101319063, 979955665, 518840963
+Via: 1.1 varnish-v4, 1.1 varnish-v4, 1.1 varnish-v4, 1.1 varnish-v4
+Age: 0
+X-Cache: cp1066 pass, cp2004 pass, cp4017 pass, cp4016 pass
+X-Cache-Status: pass
+Strict-Transport-Security: max-age=31536000; includeSubDomains; preload
+X-Analytics: WMF-Last-Access=24-Feb-2017;WMF-Last-Access-Global=24-Feb-2017;https=1
+X-Client-IP: 2404:7a00:100:4238:821:d862:4adb:84f8
+Cache-Control: private, s-maxage=0, max-age=0, must-revalidate
+

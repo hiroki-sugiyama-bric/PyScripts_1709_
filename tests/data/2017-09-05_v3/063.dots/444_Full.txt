@@ -1,0 +1,44 @@
+GET https://eventdots.jp/logout HTTP/1.1
+Host: eventdots.jp
+User-Agent: Mozilla/5.0 (Windows NT 6.1; rv:52.0) Gecko/20100101 Firefox/52.0
+Accept: text/html,application/xhtml+xml,application/xml;q=0.9,*/*;q=0.8
+Accept-Language: ja,en-US;q=0.7,en;q=0.3
+Accept-Encoding: gzip, deflate, br
+Referer: https://eventdots.jp/mypage/profile
+Cookie: XSRF-TOKEN=eyJpdiI6IjQzbDhhVnBZcG91aVJDRjFOUmo3Ync9PSIsInZhbHVlIjoieGNCS1wvdzhyelZqczFWXC9RNkJiUEkwNmlkWE5HTk9FMkdqakRudU15dk9ZVzRpelJjM085STMyVzN1bXRTRm5keWpSQzRVN2RBQjVHZlJ3dlNSME5jZz09IiwibWFjIjoiOWM1OWQ0ZjBmMTE4ODA0NTY3YjU1YWU3MzA4MDFmZGU2OTE1ZDM3MDhjMmU5NWViM2JkNDQ1ZmE4MDYxNGI4OCJ9; laravel_session=eyJpdiI6ImdYdXVwc2FWTTNLQThHb2NRaUd4enc9PSIsInZhbHVlIjoiMlZ4SGl0YXdQWjdJVWZHeUorcmpIbHd0ZGQ4R2w3aDQ0UWNjVG11Q20xcmxoQmJqdnRMT3JKYzVZZ2NERENwTHJCKzhsSnFNN2p6NFJuY0t4YmF0QUE9PSIsIm1hYyI6IjY4OTljMTA5NTc2NjhhMjYzMWIwNWRhNTFkMzM3NmM1YTM0NWQ5ZmE3YTM3NDJlNTdhNjRjNTgzYTEyYzM1NDkifQ%3D%3D; d_hash=eyJpdiI6IlQzb094MUcyNlhSTmUrRURRUFlLZEE9PSIsInZhbHVlIjoiY2NwREFSM1wvQkJObzU3M1VuMjd6a3duKzdicUFvNWFLdzVPdU1CY3NjYU09IiwibWFjIjoiZmEyYjRhNjQyYzYxMjE2MjBiMzUwY2I5NzFjM2VmNDY2ODkyMGVlZTAxNzZkNzA2YTZiYjM4YjBiZTA2MGUxYyJ9; satori_id=67734c0e-37b5-453c-975f-fae93f418ba9; st_segs=7pi,7pj,7pk,7pl,7pm,7po; notice=eyJpdiI6ImgzOEd4SHNZc1RMUVJGZ1I0dDBvUXc9PSIsInZhbHVlIjoiVWd5MkZQSWNCNlNldTg3RTB0NXZhQT09IiwibWFjIjoiN2I0NjBiNjNjMjEwMTk4Y2MzZTRhMzgxNWMwZjQzZTU3YmJlNDkzMWZiNjgzNzEwNmM5MDAyNmVmNzkyMDI5NiJ9; remember_user_5ab1837e91245bf513442c708b50254d=eyJpdiI6InMwYldkcjNvZHNXMnZ5d2lCekMrWkE9PSIsInZhbHVlIjoiZWhCTE9vTEsxcmxqblhxWEczRTFXOUNCNjYxSjNVV3Z3c0lEaml1bmxHK0pHRjN6ZVA1Y3BmRTNGMVVQTE5ra2VGbXN1eUdQU2NJc0h6OEZORHd4MGNNck1UTTJIcnFOT1wvbEZZT0FPbFJVPSIsIm1hYyI6IjAzMzc5YmFkMTg2ZTFhY2NmMGYxZWRmYTBmNWZmN2IzYWViM2FlYjJjNTA2NTY3NWExNGMwMzVhMGE4Y2M5MDcifQ%3D%3D; _td=8b627206-3dda-4e6d-c775-6fb4313a3d44
+DNT: 1
+Connection: close
+Upgrade-Insecure-Requests: 1
+
+
+HTTP/1.1 302 Found
+Server: nginx
+Content-Type: text/html; charset=UTF-8
+Transfer-Encoding: chunked
+Connection: close
+Cache-Control: no-cache
+Date: Fri, 07 Apr 2017 12:21:21 GMT
+Location: https://eventdots.jp
+Set-Cookie: XSRF-TOKEN=eyJpdiI6ImtmWXBCN1NjaEIySDF6YnlYMURsTWc9PSIsInZhbHVlIjoiT0lBR2MrY3VnMExoR3ZTZzRzYzArR3pIV0NkWE1cLzZHWmI4aVNXeVRxMXlGaW5DdnU1bjVcL2hyMFM5dnBKRU1ydUNHWEpjRGRMa085WW1rYmx3Zk5SUT09IiwibWFjIjoiYTU2Y2M2MmJmYTkzMDdjMDQ0M2NhZTZlMjk1YmJjYzAxYmZmMzg3OTI5ODQ3NGYxNDMyYjFjZThjZGVkYjdhYiJ9; expires=Fri, 07-Apr-2017 14:21:21 GMT; Max-Age=7200; path=/
+Set-Cookie: laravel_session=eyJpdiI6Im1XYzEyeUY3MFA5V2hSXC9idVg5Z3RRPT0iLCJ2YWx1ZSI6IklNUjFjUVBHd3lJWUlJVGtOVVwvaE9rQVZXaTRGRWVJWlZLS0F0Q3VoWkp6K3BcL3M1M3hGUlM4V29rRkN5Wmo3TzIyaERXSTI0RUZrRjlcL3Rsc0lLSkZnPT0iLCJtYWMiOiI1NDc4N2VlYTY5Njg4YjNiZjRhMmNjY2Y4ZDFhYWMyOGQyMmFkNDZmOTcyYjE3MWU2NmYzM2M4YjhhNmEzNzgxIn0%3D; expires=Fri, 07-Apr-2017 14:21:21 GMT; Max-Age=7200; path=/; httponly
+Set-Cookie: d_hash=eyJpdiI6IlNZdlIxdElvUENVQXlyUW9qQWJsa1E9PSIsInZhbHVlIjoiUlpyR0RPQzZQSzdmWmpCM3JcL2krYlhGNUF5a09pU0FyZUVDTjQyWEZlWHM9IiwibWFjIjoiOGY3MmVmYzE4Y2ExODVhZjJlYmRkNTIyZTY0N2U5ZWJjMDE5ZmI2ZDliZTY5YTU5NzRjYWY2Yjk1NjIzNzkzZiJ9; expires=Wed, 06-Apr-2022 12:21:21 GMT; Max-Age=157680000; path=/; httponly
+Set-Cookie: remember_user_5ab1837e91245bf513442c708b50254d=eyJpdiI6InFCMnQ3c0tDeWN5WWt2Y3NuTUhackE9PSIsInZhbHVlIjoiMms2MGtPa1ZaS2VJTUt5U2FuamNWdz09IiwibWFjIjoiYjFiZmU4YmE1MzY1NGUwZDgxZjJmODkwOTQwYTNkYzYxZWE1NjFjNGM1MzdiOWI1N2ZiOWY0MWIzZDUyMGUyMSJ9; expires=Sun, 08-Apr-2012 12:21:21 GMT; Max-Age=-157680000; path=/; httponly
+Cache-Control: no-store
+Pragma: no-cache
+X-Frame-Options: SAMEORIGIN
+
+144
+<!DOCTYPE html>
+<html>
+    <head>
+        <meta charset="UTF-8" />
+        <meta http-equiv="refresh" content="1;url=https://eventdots.jp" />
+
+        <title>Redirecting to https://eventdots.jp</title>
+    </head>
+    <body>
+        Redirecting to <a href="https://eventdots.jp">https://eventdots.jp</a>.
+    </body>
+</html>
+0
+

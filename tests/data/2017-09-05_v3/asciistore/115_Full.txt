@@ -1,0 +1,124 @@
+GET http://ascii-store.jp/forgot/ HTTP/1.1
+Host: ascii-store.jp
+User-Agent: Mozilla/5.0 (Windows NT 6.1; WOW64; rv:51.0) Gecko/20100101 Firefox/51.0
+Accept: text/html,application/xhtml+xml,application/xml;q=0.9,*/*;q=0.8
+Accept-Language: ja,en-US;q=0.7,en;q=0.3
+Accept-Encoding: gzip, deflate
+Cookie: ECSESSID=ft1ank9sgh0su5g3iare0joii6; ascii-store-lb=HJNCBEAK; __utma=133384606.1117544772.1489393026.1489393026.1489393026.1; __utmb=133384606.18.10.1489393026; __utmc=133384606; __utmz=133384606.1489393026.1.1.utmcsr=kadokawa.co.jp|utmccn=(referral)|utmcmd=referral|utmcct=/similarsites/; hikiageru_uuid=1cc4161ecbc807f48657ab32c8e4ca8b; __utmt=1
+Connection: keep-alive
+Upgrade-Insecure-Requests: 1
+
+
+HTTP/1.1 200 OK
+Date: Mon, 13 Mar 2017 08:28:36 GMT
+Server: Apache/2.2.15 (CentOS)
+X-Powered-By: PHP/5.3.3
+Pragma: no-cache
+Expires: Thu, 19 Nov 1981 08:52:00 GMT
+Cache-Control: no-store, no-cache, must-revalidate, post-check=0, pre-check=0
+Content-Length: 5235
+Connection: close
+Content-Type: text/html; charset=UTF-8
+Set-Cookie: ascii-store-lb=HJNCBEAK; Domain=ascii-store.jp; Expires=Tue, 14-Mar-2017 08:28:35 GMT; Path=/
+
+
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+
+<html xmlns="http://www.w3.org/1999/xhtml" lang="ja" xml:lang="ja">
+<head>
+<meta http-equiv="Content-Type" content="text/html; charset=UTF-8" />
+<meta http-equiv="Content-Script-Type" content="text/javascript" />
+<meta http-equiv="Content-Style-Type" content="text/css" />
+<link rel="stylesheet" href="/user_data/packages/default/css/import.css" type="text/css" media="all" />
+<script type="text/javascript" src="/js/css.js"></script>
+<script type="text/javascript" src="/js/navi.js"></script>
+<script type="text/javascript" src="/js/win_op.js"></script>
+<script type="text/javascript" src="/js/site.js"></script>
+<script type="text/javascript" src="/js/jquery-1.4.2.min.js"></script>
+<title>アスキーストア/パスワードを忘れた方(入力ページ)</title>
+<link rel="shortcut icon" href="/user_data/packages/default/img/common/favicon.ico" />
+<link rel="icon" type="image/vnd.microsoft.icon" href="/user_data/packages/default/img/common/favicon.ico" />
+<script type="text/javascript">//<![CDATA[
+    
+    $(function(){
+        
+    });
+//]]></script>
+</head>
+
+<body>
+<noscript>
+    <p><em>JavaScriptを有効にしてご利用下さい.</em></p>
+</noscript>
+
+
+
+<a name="top" id="top"></a>
+
+<div id="windowcolumn">
+
+<div id="window_area">
+            <h2 class="title">パスワード再発行</h2>
+            <div class="caution_box">
+                <p>ご登録メールアドレスにパスワードの再発行用URLをお送りします。<br />
+                ご登録時のメールアドレスと会員ご登録時に入力した下記質問の答えを入力して「次へ」ボタンをクリックしてください。</p>
+                <p class="mini mt10 indent">※なお、ご登録メールアドレス、秘密の質問に関するお問い合わせにはお答えできませんのでご了承ください。<br />下記秘密の答えをお忘れになられた場合は、会員退会後の再登録となります。<a href="/contact/" target="_blank">お問い合わせ窓口</a>までご連絡ください。</p>
+            </div>
+		    <form action="?" method="post" name="form1">
+			    <input type="hidden" name="transactionid" value="8c6199bf270264635a75cb8c385764a1e3cfe7cc" />
+			    <input type="hidden" name="mode" value="complete" />
+            
+                <table border="0" cellpadding="0" cellspacing="1" summary="">
+                    <colgroup width="40%"></colgroup>
+                    <colgroup width="60%"></colgroup>
+                    <tr>
+                        <th colspan="2" class="black">メールアドレスの入力</th>
+                    </tr>
+                    <tr>
+                        <th>ご登録のメールアドレス</th>
+                        <td>
+                                                                                    <input type="text" name="email" value="" maxlength="50" style="; ime-mode: disabled;" class="box300">
+                        </td>
+                    </tr>
+                    <tr>
+                        <th>秘密の質問：登録した質問</th>
+                        <td>
+                                                        <select name="reminder" style="">
+                                <option value="" selected="selected">選択してください　　　　　　　　　　　</option>
+                                <option label="母親の旧姓は？" value="1">母親の旧姓は？</option>
+<option label="お気に入りのマンガは？" value="2">お気に入りのマンガは？</option>
+<option label="大好きなペットの名前は？" value="3">大好きなペットの名前は？</option>
+<option label="初恋の人の名前は？" value="4">初恋の人の名前は？</option>
+<option label="面白かった映画は？" value="5">面白かった映画は？</option>
+<option label="尊敬していた先生の名前は？" value="6">尊敬していた先生の名前は？</option>
+<option label="好きな食べ物は？" value="7">好きな食べ物は？</option>
+<option label="アスキー365の会員IDは？" value="8">アスキー365の会員IDは？</option>
+
+                            </select>
+                        </td>
+                    </tr>
+                    <tr>
+	                    <th>秘密の質問：登録した回答</th>
+	                    <td>
+								                       <input type="text" name="reminder_answer" value="" maxlength="50" style="; ime-mode: active;" class="box300">
+	                    </td>
+                    </tr>
+                </table>
+                <div class="btn_area clearfix">
+                    <input type="submit" value="次へ" name="confirm" id="confirm" class="left_btn">
+                </div>
+            </form>
+</div>
+
+</div>
+<script type="text/javascript">
+ (function(w,d,s,c){
+ w["_itm_cid_"] = c;
+ var f=d.getElementsByTagName(s)[0],j=d.createElement(s);
+ j.async=true;j.src = '//dmp.im-apps.net/itm8/js/itm.js';
+ f.parentNode.insertBefore(j, f);
+ })(window,document,'script',6189);
+</script>
+</body>
+</html>

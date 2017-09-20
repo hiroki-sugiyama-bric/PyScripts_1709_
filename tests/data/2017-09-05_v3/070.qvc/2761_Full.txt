@@ -1,0 +1,24 @@
+GET http://jp-pl.vizury.com/analyze/analyze.php?account_id=VIZVRM3140&URL=http%3A%2F%2Fqvc.jp%2Fcont%2Fcommon%2FSearchResult%3Fflex%3Dtrue%26fssort%3DMatchLvDesc%253AHinbanDesc%26mid%3Dflx%26keyword%3D18K%2581%2540%2583%258A%2583%2593%2583%254F&referrer=&fp34=&param=e100&section=1&level=2&Nprd=&Nty=&cb=viz_58e766f82b98d HTTP/1.1
+Host: jp-pl.vizury.com
+User-Agent: Mozilla/5.0 (Windows NT 6.1; rv:52.0) Gecko/20100101 Firefox/52.0
+Accept: text/html,application/xhtml+xml,application/xml;q=0.9,*/*;q=0.8
+Accept-Language: ja,en-US;q=0.7,en;q=0.3
+Referer: http://qvc.jp/cont/common/SearchResult?flex=true&fssort=MatchLvDesc%3AHinbanDesc&mid=flx&keyword=18K%81%40%83%8A%83%93%83%4F
+Cookie: vizid=viz_58e766f82b98d; OAID=viz_58e766f82b98d
+Connection: close
+Upgrade-Insecure-Requests: 1
+
+
+HTTP/1.1 200 OK
+Cache-Control: max-age=0, no-store, must-revalidate, no-cache
+Content-Type: text/html; charset=UTF-8
+Expires: Thu, 01 Jan 1970 00:00:00 GMT
+P3P: CP="NON DSP LAW CURa ADMa DEVa OUR BUS IND COM NAV INT"
+Set-Cookie: vizid=viz_58e766f82b98d;Path=/;Domain=.vizury.com;Expires=Sun, 07-Apr-2019 10:49:27 GMT
+Set-Cookie: OAID=viz_58e766f82b98d;Path=/;Domain=.vizury.com;Expires=Sun, 07-Apr-2019 10:49:27 GMT
+Vary: Accept-Encoding, User-Agent
+transfer-encoding: chunked
+Connection: Close
+
+0
+

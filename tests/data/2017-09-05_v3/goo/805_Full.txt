@@ -1,0 +1,163 @@
+POST https://login.mail.goo.ne.jp/id/authn/Login HTTP/1.1
+Host: login.mail.goo.ne.jp
+User-Agent: Mozilla/5.0 (Windows NT 6.1; WOW64; rv:51.0) Gecko/20100101 Firefox/51.0
+Accept: text/html,application/xhtml+xml,application/xml;q=0.9,*/*;q=0.8
+Accept-Language: ja,en-US;q=0.7,en;q=0.3
+Referer: https://login.mail.goo.ne.jp/id/authn/Login
+Cookie: JSESSIONID=7041743AB692CB391EEE78348E616DE9; GUID=00089932777D088100E28ECC61626364; _ga=GA1.3.1941210614.1484879743; DCDC=B1L3D0C0P13G00; NGUserID=ac142b37-16825-1484879746-1; CSST=CA_20170301|SMN_20170301; ATA=ABF7_20170301|ACP8_20170301|ADJ1_20170301|ADK2_20170301|ADS9_20170301|AGE5_20170301|AGH1_20170301|AFA8_20170301|ACN2_20170208|ADK8_20170208; ATA_SR=ACT6_20170207; LE2=+58APjbZnUG+3G4+3; gooproperty=TR%3Dkantou%26TV%3D008%26WE%3D4410%26HO%3D1%26MP%3Dkantou%26AR%3D%26TH%3DM13%26ST%3D%26TP%3D%26NL%3D13; TS01f84bb1=0122c0d756148bb2f495658922dcdc3609586870c9d745dbe93eca38ca5a2d555a4649efd1491ff48be49632e2940c77f7151754e1; LE3=+565jjrZkU+4G4+3; searchstate=DC%3D10%26DIS%3D1%26OCR%3D0%26IME%3D1%26SGT%3D1%26HIS%3D1%26HISW%3D0%26OWI%3D0%26TSZ%3D%26%26OCRS%3D%26IMR%3D%26GPS%3D1%26; goo_crta=; _ga=GA1.4.1941210614.1484879743; LE4=+59IDjrZkUG+3W8+3; _ga=GA1.5.1941210614.1484879743; TDRBA=be18afd7581559eb1fc7fe5c9deff5b0078dc3de923c522f9fce4310335b4dde; NGPID2=109n3K%2BRIWbQppVRX7IG2E2lcGLaCnQLn7BVu2B%2F9T11lN4BvOYUTCguDgf180FFrFsk4MpLCmVmcobX09eEZCxKXjAaqhwqHQEEH40qErLxD4YdEIozc8Qz%2Blk8GUVimuWxe%2FcpPrDZcTlJl7TRuU9gvpkmG4ybtzUlpMosECRZO4n8WS3vHCLxLG1AnNiNZH0g%3D%3D; _gat_UA-44407116-28=1; _dc_gtm_UA-44407116-5=1
+Connection: close
+Upgrade-Insecure-Requests: 1
+Content-Type: application/x-www-form-urlencoded
+Content-Length: 110
+
+uname=testtest&pass=password&Site=profile.mail.goo.ne.jp&Success=https%3A%2F%2Flogin.mail.goo.ne.jp%2Fid%2FTop
+HTTP/1.1 200 OK
+Date: Thu, 02 Mar 2017 04:26:11 GMT
+Server: Apache
+Set-Cookie: JSESSIONID=407C1DAE17165051CF4A5DA1F95701E0; Path=/id/; Secure; HttpOnly
+Last-Modified: Thu, 02 Mar 2017 04:26:12 GMT
+Expires: Wed, 31 Dec 1969 15:00:00 GMT
+Pragma: no-cache
+Cache-Control: no-cache, no-store, must-revalidate, private
+X-FRAME-OPTIONS: DENY
+Content-Type: text/html;charset=UTF-8
+P3P: policyref="/w3c/p3p.xml",CP="CAO DSP COR CURa ADMa DEVa TAIa PSAa PSDa IVAi IVDi CONo OUR SAMo OTRo IND PHY ONL UNI PUR FIN COM NAV INT DEM CNT STA HEA PRE LOC"
+Connection: close
+Transfer-Encoding: chunked
+
+2ec
+<!DOCTYPE HTML>
+<html lang="ja">
+<head>
+<meta charset="utf-8">
+<!--[if !IE]><meta http-equiv="X-UA-Compatible" content="IE=edge"><![endif]-->
+<title>gooIDログイン - gooID</title>
+<meta name="viewport" content="width=device-width,initial-scale=1,minimum-scale=1,maximum-scale=1,user-scalable=0">
+<meta name="format-detection" content="telephone=no">
+<link rel="canonical" href="https://login.mail.goo.ne.jp/id/authn/LoginStart"><link rel="stylesheet" href="//u.xgoo.jp/css/1.2.css">
+<link rel="stylesheet" href="//u.xgoo.jp/fa/x.css">
+<link rel="stylesheet" href="/css/login.css">
+<link rel="subresource" href="//u.xgoo.jp/jquery/1.8.js">
+<link rel="subresource" href="//u.xgoo.jp/js/1.0.js">
+</head>
+<body id="id" class="NR-col1 NR-rwd login">
+
+1b40
+<!-- Google Tag Manager -->
+<script>dataLayer = [{'template': 'pc'}];</script>
+<noscript><iframe src="//www.googletagmanager.com/ns.html?id=GTM-WBC9VF" height="0" width="0" style="display:none;visibility:hidden"></iframe></noscript>
+<script>(function(w,d,s,l,i){w[l]=w[l]||[];w[l].push({'gtm.start':new Date().getTime(),event:'gtm.js'});var f=d.getElementsByTagName(s)[0],j=d.createElement(s),dl=l!='dataLayer'?'&l='+l:'';j.async=true;j.src='//www.googletagmanager.com/gtm.js?id='+i+dl;f.parentNode.insertBefore(j,f);})(window,document,'script','dataLayer','GTM-WBC9VF');</script>
+<!-- End Google Tag Manager -->
+<div id="NR-page">
+  <header role="banner"><div id="NR-header">
+    <div id="NR-header-in">
+      <h1 id="NR-header-logo"><a href="http://www.goo.ne.jp/" id="NR-header-logo-goo"><img src="//u.xgoo.jp/img/goo.png" alt="goo" title="goo"></a><a href="https://login.mail.goo.ne.jp/id/Top" id="NR-header-logo-sv">ID<img src="//u.xgoo.jp/img/sv/id.png"></a></h1>
+      <div id="NR-header-util">
+        <ul id="NR-header-tool" class="cx">
+          <li><a href="http://www.goo.ne.jp/" class="NR-go">gooトップ</a></li>
+          <li><a href="https://login.mail.goo.ne.jp/id/portal/RegUserStart">gooIDを新規登録</a></li>
+        </ul>
+      </div>
+    <!-- header-in --></div>
+  <!-- header --></div></header>
+<div id="NR-wrapper">
+<div id="NR-wrapper-in" class="cx">
+<div id="NR-main">
+<div id="NR-main-in">
+<section><div class="section">
+  <div class="id-frame">
+    <h2>ログイン</h2>
+    <div class="unit">
+      <form action="https://login.mail.goo.ne.jp/id/authn/Login" id="loginform" method="post" class="box">
+<dl>
+          <dt class="error">エラー</dt>
+          <dd class="error">
+            <ul class="notice">
+              <li><span id="message">gooIDまたはログインパスワードが誤っています。ご確認のうえ、再度ご入力ください。</span></li>
+            </ul>
+          </dd>
+        </dl>
+<dl>
+          <dt><label for="uname">gooID</label></dt>
+          <dd><input type="text" required id="uname" name="uname" value="testtest" pattern="^[A-Za-z0-9-_]{1,30}$" title="30文字以内、半角英数小文字、記号（”-”、”_”のみ）" autocapitalize="off"></dd>
+          <dt><label for="pass">パスワード</label></dt>
+          <dd><input type="password" required autofocus id="pass" name="pass"></dd>
+        </dl>
+<div class="ctrl">
+          <input type="checkbox" id="save" class="lock" name="LoginIDSaveFlg" value="1"><label for="save" class="checkbox">ログイン状態を保持する</label>
+        </div>
+<div>
+          <input type="submit" class="login-btn" id="gooid_login" value="ログイン">
+        </div>
+        <div class="cx">
+          <a id="pw-reminder" href="https://login.mail.goo.ne.jp/id/portal/ForgotPwVerificationStart">パスワードを忘れた方</a>
+          <a id="newid" href="https://login.mail.goo.ne.jp/id/portal/RegIDAndSvcStart?Site=profile.mail.goo.ne.jp&amp;Success=https%3A%2F%2Flogin.mail.goo.ne.jp%2Fid%2FTop">新規登録</a>
+        </div>
+        <input type="hidden" name="Site" value="profile.mail.goo.ne.jp">
+        <input type="hidden" name="Success" value="https://login.mail.goo.ne.jp/id/Top">
+      </form>
+<div class="box">
+        <div class="label"><div class="label-in"><span>外部IDでログイン</span></div></div>
+        <ul class="social-button">
+          <li><a href="https://login.mail.goo.ne.jp/id/rp/request?Site=profile.mail.goo.ne.jp&amp;Success=https%3A%2F%2Flogin.mail.goo.ne.jp%2Fid%2FTop&amp;Provider=twitter" rel="nofollow" title="Twitterでログイン"><img id="twitter_login" src="/img/ext_icon/twitter.png" alt="Twitterでログイン"></a></li>
+          <li><a href="https://login.mail.goo.ne.jp/id/rp/request?Site=profile.mail.goo.ne.jp&amp;Success=https%3A%2F%2Flogin.mail.goo.ne.jp%2Fid%2FTop&amp;Provider=facebook" rel="nofollow" title="Facebookでログイン"><img id="facebook_login" src="/img/ext_icon/facebook.png" alt="Facebookでログイン"></a></li>
+          <li><a href="https://login.mail.goo.ne.jp/id/rp/request?Site=profile.mail.goo.ne.jp&amp;Success=https%3A%2F%2Flogin.mail.goo.ne.jp%2Fid%2FTop&amp;Provider=google" rel="nofollow" title="Google+でログイン"><img id="google_login" src="/img/ext_icon/google.png" alt="Google+でログイン"></a></li>
+          <li><a href="https://login.mail.goo.ne.jp/id/rp/request?Site=profile.mail.goo.ne.jp&amp;Success=https%3A%2F%2Flogin.mail.goo.ne.jp%2Fid%2FTop&amp;Provider=yahoo" rel="nofollow" title="Yahoo! Japanでログイン"><img id="yahoo_login" src="/img/ext_icon/yahoo.png" alt="Yahoo! Japanでログイン"></a></li>
+          <li><a href="https://login.mail.goo.ne.jp/id/rp/request?Site=profile.mail.goo.ne.jp&amp;Success=https%3A%2F%2Flogin.mail.goo.ne.jp%2Fid%2FTop&amp;Provider=mixi" rel="nofollow" title="mixiでログイン"><img id="mixi_login" src="/img/ext_icon/mixi.png" alt="mixiでログイン"></a></li>
+    <li><a href="https://login.mail.goo.ne.jp/id/rp/request?Site=profile.mail.goo.ne.jp&amp;Success=https%3A%2F%2Flogin.mail.goo.ne.jp%2Fid%2FTop&amp;Provider=ocnid" rel="nofollow" title="OCNでログイン"><img id="ocn_login" src="/img/ext_icon/ocn.png" alt="OCNでログイン"></a></li>
+    <li style="margin-right:0"><a href="https://login.mail.goo.ne.jp/id/rp/request?Site=profile.mail.goo.ne.jp&amp;Success=https%3A%2F%2Flogin.mail.goo.ne.jp%2Fid%2FTop&amp;Provider=docomo" rel="nofollow" title="docomoでログイン" class="docomo"><img id="docomo_login" src="/img/ext_icon/docomo.png" alt="docomoでログイン" class="docomo"></a></li>
+        </ul>
+      </div>
+</div>
+  </div>
+</div></section>
+<section><div class="section">
+  <div class="id-frame">
+    <h2>お知らせ</h2>
+    <ul>
+      <li><a href="http://help.goo.ne.jp/help/article/2192/">gooサービスを装うサイトにご注意ください</a></li>
+      <li><a href="https://login.mail.goo.ne.jp/id/common/Terms1603">「gooID利用規約」改定のお知らせ</a></li>
+      <li><a href="https://login.mail.goo.ne.jp/id/common/AboutCloseMobile">【重要】携帯電話(フィーチャーフォン)向けgooID機能の提供終了について</a></li>
+    </ul>
+  </div>
+</div></section>
+<section><div class="section">
+  <div class="id-info">
+    <ul class="id-info-list">
+      <li><a id="info-phishing" href="http://mail.goo.ne.jp/howto_s/phishing.html?link_id=phishing_idc" target="_blank">フィッシング詐欺対策「定期的なログインパスワードの変更を行ってください！」</a></li>
+      <li><a id="info-setpw" href="https://login.mail.goo.ne.jp/id/portal/SetPassword">外部IDでログインされている方のgooIDログインパスワードの設定はこちら</a></li>
+      <li><a id="info-loginhold" href="https://login.mail.goo.ne.jp/id/common/AboutLoginHold" target="_blank">ログイン状態の保持について</a></li>
+    </ul>
+  </div>
+</div></section>
+</div></div></div></div>
+599
+<footer role="contentinfo"><div id="NR-footer">
+    <div id="NR-footer-in">
+      <div id="NR-footer-link">
+        <ul>
+          <li><a href="http://www.goo.ne.jp/">gooトップ</a></li>
+          <li><a href="http://www.goo.ne.jp/sitemap/">サイトマップ</a></li>
+          <li><a href="http://www.goo.ne.jp/set/">スタートページに設定</a></li>
+          <li><a href="http://www.goo.ne.jp/rss/">RSS</a></li>
+          <li><a href="http://advertising.nttr.co.jp/adinfo/">広告掲載</a></li>
+          <li><a href="http://help.goo.ne.jp/office/agreement.html">免責事項</a></li>
+          <li><a href="http://help.goo.ne.jp/help/article/709/">プライバシーポリシー</a></li>
+          <li><a href="http://help.goo.ne.jp/">ヘルプ</a></li>
+          <li><a href="http://www.nttr.co.jp/">企業情報</a></li>
+        </ul>
+      </div>
+      <p class="NR-copyright"><small><span class="small">&copy;NTT Resonant Inc.</span></small></p>
+    <!-- footer-in --></div>
+  <!-- footer --></div></footer>
+<!-- page --></div>
+<script src="//u.xgoo.jp/jquery/1.8.js"></script>
+<script src="//u.xgoo.jp/js/1.0.js"></script>
+<script type="text/javascript">VLTrace_custom_getparam='c=139';</script>
+<script type="text/javascript" src="//log000.goo.ne.jp/js/VLTraceDMD.js"></script>
+<noscript><img src="//log000.goo.ne.jp/VL/Trace?c=139&tp=1&noscript=1&e=1" width="0" height="0" border="0"></noscript>
+</body>
+</html>
+
+0
+

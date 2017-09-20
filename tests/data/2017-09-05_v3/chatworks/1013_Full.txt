@@ -1,0 +1,30 @@
+GET https://www.chatwork.com/?act=logout HTTP/1.1
+Host: www.chatwork.com
+User-Agent: Mozilla/5.0 (Windows NT 6.1; WOW64; rv:51.0) Gecko/20100101 Firefox/51.0
+Accept: text/html,application/xhtml+xml,application/xml;q=0.9,*/*;q=0.8
+Accept-Language: ja,en-US;q=0.7,en;q=0.3
+Referer: https://www.chatwork.com/
+Cookie: _ga=GA1.2.1539605159.1487674512; __ar_v4=X2H6JCWTNFAR7MG7YUTIUH%3A20170223%3A7%7CMQEQVUZX2NHIJEIO37XZP6%3A20170223%3A13%7CZVQ5OCC7BNG23ATGFQ2NK5%3A20170223%3A20%7C5AOSTZ6LYVFTBEZUM2DH7X%3A20170223%3A20; cwssid=cnfgu7cv8kdtd5n0c6gqt5qip0u9m1v2; _gat_UA-24113839-2=1; _mkto_trk=id:058-YET-463&token:_mch-chatwork.com-1487675114093-61209; _gat=1; _td=5ddabe32-fdce-48cc-9866-26c0a3a0c757
+Connection: close
+Upgrade-Insecure-Requests: 1
+
+
+HTTP/1.1 302 Found
+Cache-Control: no-store, no-cache, must-revalidate, post-check=0, pre-check=0
+Content-Type: text/html; charset=UTF-8
+Date: Tue, 21 Feb 2017 11:12:39 GMT
+Expires: Thu, 19 Nov 1981 08:52:00 GMT
+Last-Modified: Tue, 21 Feb 2017 11:12:39 GMT
+Location: https://www.chatwork.com/login.php?lang=ja&args=
+Pragma: no-cache
+Server: nginx
+Set-Cookie: cwssid=cnfgu7cv8kdtd5n0c6gqt5qip0u9m1v2; path=/; secure; HttpOnly
+Set-Cookie: cwssid=cnfgu7cv8kdtd5n0c6gqt5qip0u9m1v2; path=/; secure; HttpOnly
+Set-Cookie: cwssid=0tdd7i9npj1cvpjs2hfeq4m3360rmopf; path=/; secure; HttpOnly
+Set-Cookie: cwssid=deleted; expires=Thu, 01-Jan-1970 00:00:01 GMT; Max-Age=0
+Vary: User-Agent
+X-Content-Type-Options: nosniff
+X-Frame-Options: SAMEORIGIN
+Content-Length: 0
+Connection: Close
+

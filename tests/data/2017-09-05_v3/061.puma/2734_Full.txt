@@ -1,0 +1,31 @@
+POST https://jp.puma.com/on/demandware.store/Sites-JP-Site/ja_JP/Account-EditProfile/C1897867083 HTTP/1.1
+Host: jp.puma.com
+User-Agent: Mozilla/5.0 (Windows NT 6.1; WOW64; rv:52.0) Gecko/20100101 Firefox/52.0
+Accept: text/html,application/xhtml+xml,application/xml;q=0.9,*/*;q=0.8
+Accept-Language: ja,en-US;q=0.7,en;q=0.3
+Referer: https://jp.puma.com/on/demandware.store/Sites-JP-Site/ja_JP/Account-EditProfile
+Cookie: dw=1; __cfduid=d1f3048467d01eb17cdb4be756f3161501491542463; dwac_bclxQiaagJ9qAaaadokkVQseIX=7DyU5MVZdwiNCzhLu_vluLUi8rupvZ66tGc%3D|dw-only|00600879||JPY|false|Asia%2FTokyo|true; cqcid=cddQEo2iLUsLOHt5Qu4abem5JX; dwanonymous_f3cf7850d51118b6aca36868d498cd1e=cddQEo2iLUsLOHt5Qu4abem5JX; sid=7DyU5MVZdwiNCzhLu_vluLUi8rupvZ66tGc; dwsecuretoken_f3cf7850d51118b6aca36868d498cd1e=VEIwFj5f3E5kwPE2EjAr4X1Y6j5u20pASg==; dwsid=Ju23h8auI1zVZmWfx2Xq83_z0diqSsru7AohaVC1p9iladZqZ6-rsU7OqnFtRK0LtbhdIFzaFmoIVE05JxTwZw==; s_sess=%20s_cc%3Dtrue%3B%20s_sq%3Dpumastore-jp%252Cpumaglobal%253D%252526pid%25253DJP%25252520Puma%25252520Shop%25252520%2525253A%25252520Account%25252520%2525253A%25252520Edit%25252520Profile%252526pidt%25253D1%252526oid%25253D%252525E5%25252585%252525A5%252525E5%2525258A%2525259B%252526oidt%25253D3%252526ot%25253DSUBMIT%3B; s_pers=%20s_nr%3D1491544230715-New%7C1494136230715%3B%20gpv_p5%3DJP%2520Puma%2520Shop%2520%253A%2520Account%2520%253A%2520Edit%2520Profile%7C1491546030728%3B; __cq_uuid=024712d0-1b52-11e7-9381-2fa5b3785a5f; __cq_seg=0~0.00!1~0.00!2~0.00!3~0.00!4~0.00!5~0.00!6~0.00!7~0.00!8~0.00!9~0.00; _ga=GA1.2.1843492680.1491542470; dw=1; cquid=bM2LTHL3XoPqRJxrDwpsFYD68iBZwEAQcM9zAplcfCs=
+Connection: close
+Upgrade-Insecure-Requests: 1
+Content-Type: application/x-www-form-urlencoded
+Content-Length: 660
+
+dwfrm_profile_customer_lastname=%E8%A8%BA%E6%96%AD&dwfrm_profile_customer_firstname=%E6%AC%A1%E9%83%8E&dwfrm_profile_customer_lastNamePronunciation=%E3%82%B7%E3%83%B3%E3%83%80%E3%83%B3&dwfrm_profile_customer_firstNamePronunciation=%E3%82%B8%E3%83%AD%E3%82%A6&dwfrm_profile_customer_gender=1&dwfrm_profile_customer_birthday_year=2000&dwfrm_profile_customer_birthday_month=01&dwfrm_profile_customer_birthday_day=01&dwfrm_profile_customer_email=crawlingtest1000%40gmail.com&dwfrm_profile_customer_emailconfirm=crawlingtest1000%40gmail.com&dwfrm_profile_login_passwordconfirm=testtest12345&dwfrm_profile_confirm=%E5%85%A5%E5%8A%9B&dwfrm_profile_securekey=786007755
+HTTP/1.1 302 Found
+Date: Fri, 07 Apr 2017 05:50:46 GMT
+Content-Type: text/html;charset=UTF-8
+Content-Length: 4
+Connection: close
+Cache-Control: no-cache,no-store,must-revalidate
+Pragma: no-cache
+Expires: Thu, 01 Dec 1994 16:00:00 GMT
+x-dw-request-base-id: CQ7hx1jnKLagAgAK
+Location: https://jp.puma.com/jp/ja/account
+Accept-Ranges: bytes
+Server: cloudflare-nginx
+CF-RAY: 34bab61389092078-KIX
+
+
+
+
+

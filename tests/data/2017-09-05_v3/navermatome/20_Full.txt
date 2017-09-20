@@ -1,0 +1,258 @@
+GET https://matome.naver.jp/favorites HTTP/1.1
+Host: matome.naver.jp
+User-Agent: Mozilla/5.0 (Windows NT 6.1; WOW64; rv:43.0) Gecko/20100101 Firefox/43.0
+Accept: text/html,application/xhtml+xml,application/xml;q=0.9,*/*;q=0.8
+Accept-Language: ja,en-US;q=0.7,en;q=0.3
+Accept-Encoding: gzip, deflate
+Referer: https://matome.naver.jp/favorites
+Cookie: naver_usersession=I3GLFZIymVgAACFIa2U; JSESSIONID=4AC70064A344390619B2D8C0FFE8DD3E; _ga=GA1.2.424435795.1487670020; _gat=1; NaverSuggestUse=use; NNB=N2DM6D4JBKWFQ; njid_inf=O7tbP5fc1vKXtb3XQDXUTYsGcvy28Ye9vufSeFFznJXPI8JScDHLD7y_mHNEqU41mTumsvgovCwHDv8mZMUx3Xe7CfdjSL0Ke13qFU6WVU6qhdkLk8jLKl_nqPiYas-i1Wgv7Ax1b2OVgoxAUpsfKp5WFxxWJ2viLiB2fbYKyMA=; NJID_AUT=B/ZC/OW2bwpIgvsYzwvNvaoMHNhIYZAl4siiBK8b7DqrjlswgNBaLaBwTQXuNPI5kWwUHRIBkqEPLNUkVZ2iefAFmbNBuupmy1lPrRZUFAGhj9bM6RdyK298E1sBE/mlPR9danH/GbP8B0GRxTvx/8zW3mFmSTbR+ghgqw0+biXvou3+HYtYh+eHCwE2qpt96Z95pBEBU6VXWBBlvnYuJNuE3VsyDtpwsv8iSXsHKEFltv/Sh39rxeXW1nZrSeYrjyhYrPFP+RktIjU3mcqeVyO3ZSDPDJmoxDlMiZFDhuV4brZkEBVbcFZ9s9vBvDYKTu6EQA3wd/9fxJC1umRJuUnSV+SHj+wfeI7fL8w/CHMTr8GV/cEMFpy+h1oU52JDI1L8SklT2/mlWJFV3RztBy6VmoNQeCNZI5TMEoVrbbg=; nj.matome.favorite.guide.TagBalloonView.close=1; nj.matome.favorite.guide.ListBalloonView.close=1; nj.matome.favorite.guide.FeedBalloonView.close=1
+Connection: close
+Proxy-Authorization: Basic b25ldHVzZXI6RDJMR1ZV
+
+
+HTTP/1.1 200 OK
+Date: Tue, 21 Feb 2017 09:46:19 GMT
+Server: Apache
+Set-Cookie: page_uid=T6wKj8WomWGsscsz3gdssssss7B-099481; path=/; domain=.naver.com
+Set-Cookie: naver_usersession=I3GLFZIymVgAACFIa2U; path=/; max-age=300; domain=.naver.jp
+Cache-Control: private, no-cache, no-store, must-revalidate, post-check=0, pre-check=0
+Expires: -1
+Vary: Accept-Encoding,User-Agent
+P3P: CP="ALL CURa ADMa DEVa TAIa OUR BUS IND PHY ONL UNI PUR FIN COM NAV INT DEM CNT STA POL HEA PRE LOC OTC"
+Pragma: no-cache
+Connection: close
+Content-Type: text/html; charset=utf-8
+Content-Length: 10283
+
+<!doctype html>
+<html xmlns:og="http://ogp.me/ns#" xmlns:fb="http://www.facebook.com/2008/fbml" dir="ltr">
+<head>
+<meta charset="UTF-8">
+<meta name="referrer" content="unsafe-url">
+
+<link rel="search" type="application/opensearchdescription+xml" title="NAVER まとめ" href="/opensearch.xml">
+
+<META NAME="ROBOTS" CONTENT="NOYDIR">
+<META NAME="ROBOTS" CONTENT="NOODP">
+<meta http-equiv="X-UA-Compatible" content="IE=edge">
+
+<title>NAVER まとめ</title>
+
+
+
+
+
+
+
+
+
+
+<link rel="stylesheet" href="https://cdn-matome.line-apps.com/n/matome/css/MTM_common_1484290753.css">
+<link rel="stylesheet" href="https://cdn-matome.line-apps.com/n/matome/css/MTM_mypage_newsfeed_1484290753.css">
+
+<script src="https://cdn-matome.line-apps.com/n/matome/js/jquery_1484290753.js"></script>
+<script src="https://cdn-matome.line-apps.com/n/matome/js/nj.common_1484290753.js"></script>
+<script>
+    nj.Bootloader({
+        server: "https://cdn-matome.line-apps.com/n",
+        project: "matome",
+        tagno: "1484290753"
+    })
+    $(function() {
+        nj.Bootloader.exec("nj.matome.favorite");
+    });
+</script>
+
+
+<script>
+  (function(i,s,o,g,r,a,m){i['GoogleAnalyticsObject']=r;i[r]=i[r]||function(){
+  (i[r].q=i[r].q||[]).push(arguments)},i[r].l=1*new Date();a=s.createElement(o),
+  m=s.getElementsByTagName(o)[0];a.async=1;a.src=g;m.parentNode.insertBefore(a,m)
+  })(window,document,'script','//www.google-analytics.com/analytics.js','ga');
+  ga('create', 'UA-21743622-1', 'naver.jp');
+  ga('send', 'pageview');
+  ga('require', 'displayfeatures');
+</script>
+<script>
+$(function(){
+  window.gcl = new GCL2();
+  window.gcl.watchStart();
+});
+</script>
+</head>
+
+<body class="CTypeMyMTM CTypeMyMTMFV ExOsWin">
+
+<div class="LyWrap">
+<div class="lyWrapInner">
+<script language='javascript'>
+function goLogout() {
+	location.href="https://ssl.naver.jp/logout?fromUrl="+encodeURIComponent(location.href);
+}
+function goLogin() {
+	location.href="https://ssl.naver.jp/login?fromUrl="+encodeURIComponent(location.href);
+}
+</script>
+
+<header><div class="LyHead">
+<div class="lyHeadWrap">
+<div class="lyHeadInner">
+
+<div class="MdHeadTtlGroup01" role="banner" >
+<h1 class="MdHeadTtl01"><a href="/" title="NAVER まとめ" class="mdHeadTtl01Img" >NAVER まとめ</a></h1>
+<!--/MdHeadTtlGroup01--></div>
+
+<div class="lyHeadNav" role="navigation">
+<nav>
+<h2 class="MdHide">マイページ</h2>
+<ul class="MdHeadNav01">
+<li class="mdHeadNav01Li ExSelected"><a href="https://matome.naver.jp/favorites" >お気に入り</a></li>
+<li class="mdHeadNav01Li"><a href="https://matome.naver.jp/works" >まとめ管理</a></li>
+<li class="mdHeadNav01Li"><a href="https://matome.naver.jp/connections" >外部連携</a></li>
+<!--/MdHeadNav01--></ul>
+</nav>
+<nav>
+<ul class="MdHeadUtil01 mdHeadUtil01Login" ><!--
+--><li class="mdHeadUtil01Li"><a href="/favorites" ><img id=""  width="20" height="20" src="/img/Gone" onerror="errorImage(this,'user20x20');" class="mdHeadUtil01Thumb">test9999999</a><span class="MdHeadSeparator01">|</span></li><!--
+--><li class="mdHeadUtil01Li"><a href="/notifications" >お知らせ</a><span class="mdHeadUtil01Count" style="display:none;"><span class="mdHeadUtil01CountInner">0</span></span><span class="MdHeadSeparator01">|</span></li><!--
+--><li class="mdHeadUtil01Li"><a href="/odai/new" >まとめ作成</a><span class="MdHeadSeparator01">|</span></li><!--
+--><li class="mdHeadUtil01Li"><button class="mdHeadUtil01Open" >開く</button><!--
+--><ul class="mdHeadUtil01Sub" style="display:none;"><!--
+--><li class="mdHeadUtil01SubLi"><a href="https://matome.naver.jp/settings" >設定</a></li><!--
+--><li class="mdHeadUtil01SubLi"><a href="http://help.naver.jp/faq?serviceNo=4" >ヘルプ</a></li><!--
+--><li class="mdHeadUtil01SubLi mdHeadUtil01SubLiLast"><a href="javascript:goLogout()" >ログアウト</a><span class="mdHeadUtil01SubPointer"></span></li><!--
+--></ul><!--
+--></li><!--
+--><!--/MdHeadUtil01--></ul>
+</nav><!--/lyHeadNav--></div>
+<!--/lyHeadInner--></div>
+<!--/lyHeadWrap--></div>
+<!--/LyHead--></div></header>
+<!--/HEADER-AREA-->
+	
+
+<!--CONTENTS-AREA-->
+<div class="LyContents" role="main" >
+
+<!--CONTENTS-WRAP-AREA-->
+<div class="lyContentsWrap">
+
+<div class="ArCol01 FnSideContent">
+<div class="MdFVAdd01"><a class="mdFVAdd01Btn FnRegister" title="新規アイテム追加">新規アイテム追加</a></div>
+<div class="MdTagList02">
+<h1 class="mdTagList02Ttl"><span class="mdTagList02AddTxt">タグ</span><span class="MdBtn01Add05"><input type="button" value="タグを追加" title="タグを追加" class="mdBtn01Add05Btn"></span></h1>
+
+<div class="MdScrollBox01 FnScrollBox">
+<div class="mdScrollBox01Panel">
+<ul class="mdTagList02Ul ExScroll">
+</ul>
+<!--/mdScrollBox01Panel--></div>
+<div class="MdScroll01">
+<span class="mdScroll01Bar" style="height:60px;"></span>
+<!--/MdScroll01--></div>
+<!--/MdScrollBox01--></div>
+<!--/MdTagList02--></div>
+<!--/ArCol01--></div>
+
+<div class="ArCol02 FnListContent">
+<div class="MdFVHead01">
+<h1 class="MdHide">お気に入りアイテム一覧</h1>
+<div class="MdFVNav01">
+<ul class="mdFVNav01List01 FnNavigateTabs">
+<li class="mdFVNav01Item01All" title="すべて" data-type="all">すべて</li>
+<li class="mdFVNav01Item01Matome" title="まとめ" data-type="matome_list" style="display:none;">まとめ</li>
+<li class="mdFVNav01Item01Topic" title="トピック" data-type="matome_topic" style="display:none;">トピック</li>
+<li class="mdFVNav01Item01Curator" title="キュレーター" data-type="matome_curator" style="display:none;">キュレーター</li>
+<li class="mdFVNav01Item01Link" title="リンク" data-type="link" style="display:none;">リンク</li>
+<li class="mdFVNav01Item01Img" title="画像" data-type="photo" style="display:none;">画像</li>
+<li class="mdFVNav01Item01Video" title="動画" data-type="video" style="display:none;">動画</li>
+<li class="mdFVNav01Item01Quote" title="引用" data-type="quote" style="display:none;">引用</li>
+<li class="mdFVNav01Item01Tweet" title="ツイート" data-type="tweet" style="display:none;">ツイート</li>
+<li class="mdFVNav01Item01Txt" title="テキスト" data-type="text" style="display:none;">テキスト</li>
+</ul>
+<!--/MdFVNav01--></div>
+
+<div class="mdFVHead01Option01">
+<ul class="mdFVHead01Option01List">
+<li class="mdFVHead01Option01Item"><span class="MdCheckBox01 FnCheckBoxOption" title="すべて選択"><input type="checkbox" class="mdCheckBox01Input"><!--/MdCheckBox01--></span><span class="MdSeparator01P12">|</span></li>
+<li class="mdFVHead01Option01Item"><a class="mdFVHead01Btn01Tag01 ExDisabled FnTagOption" title="タグ"><span class="mdFVHead01Btn01Ico"></span><span class="mdFVHead01Btn01Txt">タグ</span></a><span class="MdSeparator01P12">|</span></li>
+<li class="mdFVHead01Option01Item"><a class="mdFVHead01Btn01Del01 FnRemoveOption" title="削除"><span class="mdFVHead01Btn01Ico"></span><span class="mdFVHead01Btn01Txt">削除</span></a></li>
+<li class="mdFVHead01Option01Item">
+<div class="MdInputSearch05 FnInputArea">
+<div class="mdInputSearch05Inner">
+<span class="mdInputSearch05Ico"></span>
+<input type="text" class="mdInputSearch05Input FnInputOption" maxlength="255">
+<span class="MdBtn01Del10" style="display:none;"><a class="mdBtn01Del10Btn" title="削除">削除</a></span>
+</div>
+<!--/MdInputSearch05--></div>
+</li>
+</ul>
+</div>
+<!--/MdFVHead01--></div>
+<div class="MdFVList01 ExScroll">
+<div class="MdScrollBox01 FnScrollBox">
+<div class="mdScrollBox01Panel FnList">
+
+<!--/mdScrollBox01Panel--></div>
+<div class="MdScroll01">
+<span class="mdScroll01Bar" style="height:60px;"></span>
+<!--/MdScroll01--></div>
+<!--/MdScrollBox01--></div>
+<!--/MdFVList01--></div>
+
+<div class="MdFVFoot01 FnListFooter">
+
+<div class="MdPagination05 FnListPager">
+<ul>
+<li class="mdPagination05First"><a class="mdPagination05FirstBtn ExDisabled FnDecrementPage" title="最初へ" data-increment="first">最初へ</a></li>
+<li class="mdPagination05Prev"><a class="mdPagination05PrevBtn ExDisabled FnDecrementPage" title="前へ" data-increment="-1">前へ</a></li>
+<li class="mdPagination05Current01"><span class="mdPagination05Current01Input"><input type="text" class="mdPagination05Current01InputBox FnPageInput" value="1" style="width:8px;" maxlength="10"></span>&nbsp;/&nbsp;<span class="mdPagination05Current01Max FnPageMax"></span></li>
+<li class="mdPagination05Next"><a class="mdPagination05NextBtn FnIncrementPage" title="次へ" data-increment="1">次へ</a></li>
+<li class="mdPagination05Last"><a class="mdPagination05LastBtn FnIncrementPage" title="最後へ" data-increment="last">最後へ</a></li>
+</ul>
+<!--/MdPagination05--></div>
+
+<!--/MdFVFoot01--></div>
+<!--/ArCol02--></div>
+
+<div class="ArCol03 FnEndContent">
+<!--/ArCol03--></div>
+
+<!--/lyContentsWrap--></div>
+<!--/CONTENTS-WRAP-AREA-->
+
+<!--/LyContents--></div>
+<!--/CONTENTS-AREA-->
+
+
+
+<!--FOOTER-AREA-->
+<footer role="contentinfo"><div class="LyFoot FnFooter"  >
+
+<div class="lyFootInner">
+<h2 class="MdHide">NAVER リンク</h2>
+<div class="MdNaverLink01">
+<ul class="mdNaverLink01Ul">
+<li class="mdNaverLink01Li"><a href="https://linecorp.com/" >会社概要</a><span class="MdFootSeparator01">|</span></li>
+<li class="mdNaverLink01Li"><a href="http://help.naver.jp/rules/" >利用規約</a><span class="MdFootSeparator01">|</span></li>
+<li class="mdNaverLink01Li"><a href="http://help.naver.jp/privacy/" >プライバシー</a><span class="MdFootSeparator01">|</span></li>
+<li class="mdNaverLink01Li"><a href="http://help.naver.jp/faq?serviceNo=4" >ヘルプ</a><span class="MdFootSeparator01">|</span></li>
+<li class="mdNaverLink01Li"><a href="http://navermatome-official.blog.jp/" >NAVERまとめ公式ブログ</a></li>
+</ul>
+<p class="MdCopyright01"><small>&copy; <b>LINE Corporation</b></small></p>
+<!--/MdNaverLink01--></div>
+<!--/lyFootInner--></div>
+
+
+<!--/LyFoot--></div></footer>
+<!--/FOOTER-AREA-->
+
+<script type="text/javascript" charset="utf-8" src="https://cdn-matome.line-apps.com/n/matome/js/nj.matome.navigate.gnb_1484290753.js"></script>
+<script type="text/javascript">try{$(document).ready(function(){nj.matome.navigate.gnb.init();});}catch(e){}</script>
+<!-- /#lyWrapInner --></div>
+<!-- /#LyWrap --></div>
+
+<script type="text/javascript">
+lcs_do();
+</script></body>
+</html>

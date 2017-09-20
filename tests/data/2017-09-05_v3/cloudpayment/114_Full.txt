@@ -1,0 +1,594 @@
+GET https://credit2.j-payment.co.jp/cp/TransList.aspx HTTP/1.1
+Host: credit2.j-payment.co.jp
+Connection: close
+Upgrade-Insecure-Requests: 1
+User-Agent: Mozilla/5.0 (Windows NT 10.0; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/56.0.2924.87 Safari/537.36
+Accept: text/html,application/xhtml+xml,application/xml;q=0.9,image/webp,*/*;q=0.8
+Referer: https://credit2.j-payment.co.jp/cp/Main.aspx
+Accept-Language: ja,en-US;q=0.8,en;q=0.6
+Cookie: ASP.NET_SessionId=rsbjrjk23ezxkarsstylm4st; _ga=GA1.3.1344043544.1489034493; ASP.NET_SessionId=mg5c524l4rkyinspqf2f0oj3; NSC_JO2eas5de2ou4ufdnxqiuaei5njj0bf=ffffffffc3a0d67645525d5f4f58455e445a4a423660
+
+
+HTTP/1.1 200 OK
+Cache-Control: private
+Content-Type: text/html; charset=utf-8
+Server: Microsoft-IIS/7.0
+X-AspNet-Version: 4.0.30319
+X-Powered-By: ASP.NET
+Date: Fri, 10 Mar 2017 01:12:58 GMT
+Connection: close
+Content-Length: 46606
+Set-Cookie: NSC_JO2eas5de2ou4ufdnxqiuaei5njj0bf=ffffffffc3a0d67645525d5f4f58455e445a4a423660;expires=Fri, 10-Mar-2017 01:29:03 GMT;path=/;secure;httponly
+
+
+<!DOCTYPE HTML PUBLIC "-//W3C//DTD HTML 4.0 Transitional//EN" >
+<HTML>
+	<HEAD>
+		<title>決済システムコントロールパネル</title>
+		<meta name="GENERATOR" content="Microsoft Visual Studio 7.0">
+		<meta name="CODE_LANGUAGE" content="C#">
+		<meta name="vs_defaultClientScript" content="JavaScript">
+		<meta name="vs_targetSchema" content="http://schemas.microsoft.com/intellisense/ie5">
+		<LINK rel="stylesheet" type="text/css" href="style.css">
+		<script type="text/javascript" src="jkl-calendar.js"></script>
+		<script type="text/javascript">
+        <!--
+		    function ChkConfirm(type) {
+		        var cnt = 0;
+		        for (i = 0; i < 20; i++) {
+		            if (document.getElementById("DataGrid1_myCheckbox_" + i)) {
+		                if (document.getElementById("DataGrid1_myCheckbox_" + i).checked) {
+		                    cnt++;
+		                }
+		            }
+		        }
+		        if (type == 1) {
+		            return confirm(cnt + "件の実売上を実行しますか？");
+		        }
+		        else if (type == 2) {
+		            return confirm(cnt + "件の取消を実行しますか？");
+		        }
+		    }
+        -->
+        </script>
+	</HEAD>
+	<body leftMargin="3" topMargin="2" bgColor="#ffffff" text="#000000" MS_POSITIONING="GridLayout">
+		<PRE></PRE>
+		<FONT face="MS UI Gothic"></FONT><FONT face="MS UI Gothic"></FONT><FONT face="MS UI Gothic">
+		</FONT>
+		
+<!------ header begin ---------->
+<table cellSpacing="0" cellPadding="0" width="100%" border="0">
+	<tbody>
+		<tr>
+			<td width="100%">
+				<table cellSpacing="0" cellPadding="0" width="100%" border="0">
+					<tr>
+						<td>
+							<img id="MyHeader_TopLogo" src="images/logo_jpayment.gif" style="border-style:None;" />
+						</td>
+						<td align="right">
+							<a href="SignOut.aspx"><img height="40" src="Images/button_Logout_on.gif" width="52" border="0" name="logout_button"></a>
+						</td>
+					</tr>
+				</table>
+			</td>
+		</tr>
+	</tbody>
+</table>
+<!------ header end ---------->
+
+		<form method="post" action="./TransList.aspx" id="TransList" style="MARGIN-TOP: 0px; PADDING-TOP: 0px">
+<div class="aspNetHidden">
+<input type="hidden" name="__EVENTTARGET" id="__EVENTTARGET" value="" />
+<input type="hidden" name="__EVENTARGUMENT" id="__EVENTARGUMENT" value="" />
+<input type="hidden" name="__LASTFOCUS" id="__LASTFOCUS" value="" />
+<input type="hidden" name="__VIEWSTATE" id="__VIEWSTATE" value="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MDMvMDZnEAUKMjAxNy8wMy8wNQUKMjAxNy8wMy8wNWcQBQoyMDE3LzAzLzA0BQoyMDE3LzAzLzA0ZxAFCjIwMTcvMDMvMDMFCjIwMTcvMDMvMDNnEAUKMjAxNy8wMy8wMgUKMjAxNy8wMy8wMmcQBQoyMDE3LzAzLzAxBQoyMDE3LzAzLzAxZxAFCjIwMTcvMDIvMjgFCjIwMTcvMDIvMjhnEAUKMjAxNy8wMi8yNwUKMjAxNy8wMi8yN2cQBQoyMDE3LzAyLzI2BQoyMDE3LzAyLzI2ZxAFCjIwMTcvMDIvMjUFCjIwMTcvMDIvMjVnEAUKMjAxNy8wMi8yNAUKMjAxNy8wMi8yNGcQBQoyMDE3LzAyLzIzBQoyMDE3LzAyLzIzZxAFCjIwMTcvMDIvMjIFCjIwMTcvMDIvMjJnEAUKMjAxNy8wMi8yMQUKMjAxNy8wMi8yMWcQBQoyMDE3LzAyLzIwBQoyMDE3LzAyLzIwZxAFCjIwMTcvMDIvMTkFCjIwMTcvMDIvMTlnEAUKMjAxNy8wMi8xOAUKMjAxNy8wMi8xOGcQBQoyMDE3LzAyLzE3BQoyMDE3LzAyLzE3ZxAFCjIwMTcvMDIvMTYFCjIwMTcvMDIvMTZnEAUKMjAxNy8wMi8xNQUKMjAxNy8wMi8xNWcQBQoyMDE3LzAyLzE0BQoyMDE3LzAyLzE0ZxAFCjIwMTcvMDIvMTMFCjIwMTcvMDIvMTNnEAUKMjAxNy8wMi8xMgUKMjAxNy8wMi8xMmcQBQoyMDE3LzAyLzExBQoyMDE3LzAyLzExZxAFCjIwMTcvMDIvMTAFCjIwMTcvMDIvMTBnEAUKMjAxNy8wMi8wOQUKMjAxNy8wMi8wOWcQBQoyMDE3LzAyLzA4BQoyMDE3LzAyLzA4ZxAFCjIwMTcvMDIvMDcFCjIwMTcvMDIvMDdnEAUKMjAxNy8wMi8wNgUKMjAxNy8wMi8wNmcQBQoyMDE3LzAyLzA1BQoyMDE3LzAyLzA1ZxAFCjIwMTcvMDIvMDQFCjIwMTcvMDIvMDRnEAUKMjAxNy8wMi8wMwUKMjAxNy8wMi8wM2cQBQoyMDE3LzAyLzAyBQoyMDE3LzAyLzAyZxAFCjIwMTcvMDIvMDEFCjIwMTcvMDIvMDFnEAUKMjAxNy8wMS8zMQUKMjAxNy8wMS8zMWcQBQoyMDE3LzAxLzMwBQoyMDE3LzAxLzMwZxAFCjIwMTcvMDEvMjkFCjIwMTcvMDEvMjlnEAUKMjAxNy8wMS8yOAUKMjAxNy8wMS8yOGcQBQoyMDE3LzAxLzI3BQoyMDE3LzAxLzI3ZxAFCjIwMTcvMDEvMjYFCjIwMTcvMDEvMjZnEAUKMjAxNy8wMS8yNQUKMjAxNy8wMS8yNWcQBQoyMDE3LzAxLzI0BQoyMDE3LzAxLzI0ZxAFCjIwMTcvMDEvMjMFCjIwMTcvMDEvMjNnEAUKMjAxNy8wMS8yMgUKMjAxNy8wMS8yMmcQBQoyMDE3LzAxLzIxBQoyMDE3LzAxLzIxZxAFCjIwMTcvMDEvMjAFCjIwMTcvMDEvMjBnEAUKMjAxNy8wMS8xOQUKMjAxNy8wMS8xOWcQBQoyMDE3LzAxLzE4BQoyMDE3LzAxLzE4ZxAFCjIwMTcvMDEvMTcFCjIwMTcvMDEvMTdnEAUKMjAxNy8wMS8xNgUKMjAxNy8wMS8xNmcQBQoyMDE3LzAxLzE1BQoyMDE3LzAxLzE1ZxAFCjIwMTcvMDEvMTQFCjIwMTcvMDEvMTRnEAUKMjAxNy8wMS8xMwUKMjAxNy8wMS8xM2cQBQoyMDE3LzAxLzEyBQoyMDE3LzAxLzEyZxAFCjIwMTcvMDEvMTEFCjIwMTcvMDEvMTFnEAUKMjAxNy8wMS8xMAUKMjAxNy8wMS8xMGcQBQoyMDE3LzAxLzA5BQoyMDE3LzAxLzA5ZxAFCjIwMTcvMDEvMDgFCjIwMTcvMDEvMDhnEAUKMjAxNy8wMS8wNwUKMjAxNy8wMS8wN2cQBQoyMDE3LzAxLzA2BQoyMDE3LzAxLzA2ZxAFCjIwMTcvMDEvMDUFCjIwMTcvMDEvMDVnEAUKMjAxNy8wMS8wNAUKMjAxNy8wMS8wNGcQBQoyMDE3LzAxLzAzBQoyMDE3LzAxLzAzZxAFCjIwMTcvMDEvMDIFCjIwMTcvMDEvMDJnEAUKMjAxNy8wMS8wMQUKMjAxNy8wMS8wMWcQBQoyMDE2LzEyLzMxBQoyMDE2LzEyLzMxZxAFCjIwMTYvMTIvMzAFCjIwMTYvMTIvMzBnEAUKMjAxNi8xMi8yOQUKMjAxNi8xMi8yOWcQBQoyMDE2LzEyLzI4BQoyMDE2LzEyLzI4ZxAFCjIwMTYvMTIvMjcFCjIwMTYvMTIvMjdn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" />
+</div>
+
+<script type="text/javascript">
+//<![CDATA[
+var theForm = document.forms['TransList'];
+if (!theForm) {
+    theForm = document.TransList;
+}
+function __doPostBack(eventTarget, eventArgument) {
+    if (!theForm.onsubmit || (theForm.onsubmit() != false)) {
+        theForm.__EVENTTARGET.value = eventTarget;
+        theForm.__EVENTARGUMENT.value = eventArgument;
+        theForm.submit();
+    }
+}
+//]]>
+</script>
+
+
+
+				<script language='javascript'><!--
+					function clk(){	
+						cal1.write();
+					}
+					function chg(){
+						cal.getFormValue(); 
+						cal1.hide();
+					}
+					function clk_ddl3(){
+						var dd = document.getElementById("ddl3");
+						var ddval = dd.options[dd.selectedIndex].value;
+						if(ddval==2){
+  					      cal2.write();
+						}
+					}
+					function chg_ddl3(){
+						cal.getFormValue(); 
+						cal2.hide();
+						__doPostBack('ddl3_cal','')
+					}
+				//--></script>
+			
+<div class="aspNetHidden">
+
+	<input type="hidden" name="__VIEWSTATEGENERATOR" id="__VIEWSTATEGENERATOR" value="917F91AA" />
+	<input type="hidden" name="__EVENTVALIDATION" id="__EVENTVALIDATION" value="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" />
+</div>
+			<script language="javascript"><!--
+						var cal1 = new JKL.Calendar("calid","TransList","ddl2_cal");
+						var cal2 = new JKL.Calendar("calid2","TransList","ddl3_cal");						
+			//--></script>
+			<table border="0" cellSpacing="0" cellPadding="0" width="100%">
+				<tbody>
+					<tr class="bg1">
+						<td width="100%">
+							<table border="0" cellSpacing="0" cellPadding="2" width="800">
+								<tr>
+									<td class="bg1" width="100" align="center"><A href="Main.aspx"><font class="text_topmenu">トップメニュー</font></A></td>
+									<td class="bg1_on" width="100" align="center"><A href="TransList.aspx"><font class="text_topmenu_on">決済情報</font></A></td>
+									<td class="bg1" width="100" align="center"><A href="ItemList.aspx"><font class="text_topmenu">商品情報</font></A></td>
+									<td class="bg1" width="100" align="center"><A href="ConfigSys.aspx"><font class="text_topmenu">設定</font></A></td>
+									
+                                    
+									<td class="bg1" width="100" align="center"><A href="VirtualTerm.aspx"><font class="text_topmenu">バーチャル端末</font></A></td>
+									<td class="bg1" width="100" align="center"><A href="SummaryDaily.aspx"><font class="text_topmenu">売上集計</font></A></td>
+									<td class="bg1" width="100" align="center"><A href="HelpManual.aspx"><font class="text_topmenu">ヘルプ</font></A></td>
+									<td class="bg1" width="100" align="center"><A href="SignOut.aspx"><font class="text_topmenu">ログアウト</font></A></td>
+									<td class="bg1" width="100" align="center"><A href="ChangePassword.aspx"><font class="text_topmenu">パスワード変更</font></A></td>
+								</tr>
+							</table>
+						</td>
+					</tr>
+					<tr>
+						<td><IMG src="Images/space.gif" width="1" height="1"></td>
+					</tr>
+				</tbody>
+			</table>
+			<!-- tab bar begin -->
+			<table border="0" cellSpacing="0" cellPadding="0" width="100%">
+				<tbody>
+					<tr>
+						<td class="bg2" vAlign="top" width="100%" align="center"><br>
+							<table border="0" cellSpacing="0" cellPadding="0" width="100%">
+								<tbody>
+									<tr class="bg1" align="center">
+										<td class="bg2" rowSpan="2" width="5"><IMG src="Images/space.gif" width="5" height="16"></td>
+										<td rowSpan="3" width="1"><IMG src="Images/space.gif" width="1" height="17"></td>
+										<td height="1" noWrap><IMG src="Images/space.gif" width="1" height="1"></td>
+										<td rowSpan="2" width="1"><IMG src="Images/space.gif" width="1" height="16"></td>
+										<td class="bg2" rowSpan="2" width="5"><IMG src="Images/space.gif" width="5" height="16"></td>
+										<td rowSpan="2" width="1"><IMG src="Images/space.gif" width="1" height="16"></td>
+										<td height="1" noWrap><IMG src="Images/space.gif" width="1" height="1"></td>
+										<td rowSpan="2" width="1"><IMG src="Images/space.gif" width="1" height="16"></td>
+										<td class="bg2" rowSpan="2" width="5"><IMG src="Images/space.gif" width="5" height="16"></td>
+										<td rowSpan="2" width="1"><IMG src="Images/space.gif" width="1" height="16"></td>
+										<td height="1" noWrap><IMG src="Images/space.gif" width="1" height="1"></td>
+										<td rowSpan="2" width="1"><IMG src="Images/space.gif" width="1" height="16"></td>
+										<td class="bg2" rowSpan="2" width="5"><IMG src="Images/space.gif" width="5" height="16"></td>
+										<td rowSpan="2" width="1"><IMG src="Images/space.gif" width="1" height="16"></td>
+										<td height="1" noWrap><IMG src="Images/space.gif" width="1" height="1"></td>
+										<td rowSpan="2" width="1"><IMG src="Images/space.gif" width="1" height="16"></td>
+										<td class="bg2" rowSpan="2" width="5"><IMG src="Images/space.gif" width="5" height="16"></td>
+										<td rowSpan="2" width="1"><IMG src="Images/space.gif" width="1" height="16"></td>
+										<td height="1" noWrap><IMG src="Images/space.gif" width="1" height="1"></td>
+										<td rowSpan="2" width="1"><IMG src="Images/space.gif" width="1" height="16"></td>
+										<td class="bg2" rowSpan="2" width="5"><IMG src="Images/space.gif" width="5" height="16"></td>
+										<td rowSpan="2" width="1"><IMG src="Images/space.gif" width="1" height="16"></td>
+										<td height="1" noWrap><IMG src="Images/space.gif" width="1" height="1"></td>
+										<td rowSpan="2" width="1"><IMG src="Images/space.gif" width="1" height="16"></td>
+										<td class="bg2" rowSpan="2" width="5"><IMG src="Images/space.gif" width="5" height="16"></td>
+										<td rowSpan="2" width="1"><IMG src="Images/space.gif" width="1" height="16"></td>
+										<td height="1" noWrap><IMG src="Images/space.gif" width="1" height="1"></td>
+										<td rowSpan="2" width="1"><IMG src="Images/space.gif" width="1" height="16"></td>
+										<td class="bg2" rowSpan="2" width="5"><IMG src="Images/space.gif" width="5" height="16"></td>
+										<td rowSpan="2" width="1"><IMG src="Images/space.gif" width="1" height="16"></td>
+										<td height="1" noWrap><IMG src="Images/space.gif" width="1" height="1"></td>
+										<td rowSpan="2" width="1"><IMG src="Images/space.gif" width="1" height="16"></td>
+										<td class="bg2" rowSpan="2" width="100%" noWrap>&nbsp;</td>
+									</tr>
+									<tr class="bg1" align="center">
+										<td bgColor="#ffffff" height="15" noWrap>&nbsp;&nbsp;<font class="text_menutab_on">一覧</font>&nbsp;&nbsp;</td>
+										<td height="15" noWrap>&nbsp;&nbsp;<A href="TransDetail.aspx"><font class="text_menutab">詳細</font></A>&nbsp;&nbsp;</td>
+										<td height="15" noWrap>&nbsp;&nbsp;<A href="TransSearch.aspx"><font class="text_menutab">検索</font></A>&nbsp;&nbsp;</td>
+										<td height="15" noWrap>&nbsp;&nbsp;<A href="TransSales.aspx"><font class="text_menutab">実売上処理</font></A>&nbsp;&nbsp;</td>
+										<td height="15" noWrap>&nbsp;&nbsp;<A href="TransCancel.aspx"><font class="text_menutab">取消処理</font></A>&nbsp;&nbsp;</td>
+										<td height="15" noWrap>&nbsp;&nbsp;<A href="TransCSV.aspx"><font class="text_menutab">CSV出力</font></A>&nbsp;&nbsp;</td>
+										<td height="15" noWrap>&nbsp;&nbsp;<A href="CtiaSearch.aspx"><font class="text_menutab">CTI本人認証</font></A>&nbsp;&nbsp;</td>
+										<td height="15" noWrap>&nbsp;&nbsp;<A href="TransIMP.aspx"><font class="text_menutab">CSVインポート</font></A>&nbsp;&nbsp;</td>
+									</tr>
+									<tr class="bg1" align="center">
+										<td height="1" width="5" noWrap><IMG src="Images/space.gif" width="1" height="1"></td>
+										<td bgColor="#ffffff" height="1" noWrap><IMG src="Images/space.gif" width="1" height="1"></td>
+										<td width="7" colSpan="3"><IMG src="Images/space.gif" width="7" height="1"></td>
+										<td height="1" noWrap><IMG src="Images/space.gif" width="1" height="1"></td>
+										<td width="7" colSpan="3"><IMG src="Images/space.gif" width="7" height="1"></td>
+										<td height="1" noWrap><IMG src="Images/space.gif" width="1" height="1"></td>
+										<td width="7" colSpan="3"><IMG src="Images/space.gif" width="7" height="1"></td>
+										<td height="1" noWrap><IMG src="Images/space.gif" width="1" height="1"></td>
+										<td width="7" colSpan="3"><IMG src="Images/space.gif" width="7" height="1"></td>
+										<td height="1" noWrap><IMG src="Images/space.gif" width="1" height="1"></td>
+										<td width="7" colSpan="3"><IMG src="Images/space.gif" width="7" height="1"></td>
+										<td height="1" noWrap><IMG src="Images/space.gif" width="1" height="1"></td>
+										<td width="7" colSpan="3"><IMG src="Images/space.gif" width="7" height="1"></td>
+										<td height="1" noWrap><IMG src="Images/space.gif" width="1" height="1"></td>
+										<td width="7" colSpan="3"><IMG src="Images/space.gif" width="7" height="1"></td>
+										<td height="1" colSpan="2" noWrap><IMG src="Images/space.gif" width="1" height="1"></td>
+										<td height="1" width="100%" noWrap><IMG src="Images/space.gif" width="1" height="1"></td>
+									</tr>
+									<tr class="bg1">
+										<td height="1"><IMG src="Images/space.gif" height="1"></td>
+									</tr>
+								</tbody>
+							</table>
+						</td>
+					</tr>
+				</tbody>
+			</table>
+			<!-- tab bar end -->
+			<!-----------main contents start-------------------------------------------->
+			<table border="0" cellSpacing="0" cellPadding="2" width="100%" bgColor="#ffffff">
+				<tbody>
+					<tr>
+						<td colSpan="3">
+							<table border="0" cellSpacing="0" cellPadding="2" width="100%">
+								<tbody>
+									<tr>
+										<td width="20%"><span id="L_runMode" class="errtext9b">テストモード</span></td>
+										<td width="70%" align="right">
+											<!-- Shop Information -->
+											<div align="right">&nbsp;&nbsp;
+												<span class="text_shopinfo">店舗ID：</span>&nbsp;
+												<span id="L_sId" class="text9b">107038</span>&nbsp;&nbsp;
+												<span class="text_shopinfo">店舗名：</span>&nbsp;
+												<span id="L_sName" class="text9b">PCI店舗201702</span>&nbsp;&nbsp;
+												<span class="text_shopinfo">店舗URL：</span>&nbsp;
+												<span id="L_sUrl" class="text9b">http://a.a</span>&nbsp;&nbsp;
+											</div>
+											<!-- End of Shop Information --></td>
+									</tr>
+								</tbody>
+							</table>
+						</td>
+					</tr>
+					<tr>
+						<td align="center">
+							<table border="0" cellSpacing="0" cellPadding="0" width="80%">
+								<tbody>
+									<tr>
+										<td class="text9">
+											<p><b>決済情報一覧</b>
+											<p>店舗での決済情報の一覧を最新のものから順に表示します。決済情報は下のドロップダウンボックスから抽出項目を選択することにより 
+												特定の決済情報のみを表示させることができます。特定の決済に対する実売上、返品、取り消し処理を行うには、処理をしたい決済の決済 
+												ＩＤを選択して詳細情報を表示させ、それぞれの処理をしてください。
+											</p>
+										</td>
+									</tr>
+									<tr>
+										<td><br>
+										</td>
+									</tr>
+								</tbody>
+							</table>
+						</td>
+					</tr>
+					<tr>
+						<td align="center">
+							<table class="bg1" width="80%">
+								<tbody>
+									<tr>
+										<td class="text9" bgColor="#ffffff" align="center">
+											<table class="bg2" width="100%">
+												<tbody>
+													<tr>
+														<td class="text9">&nbsp;一覧の範囲</td>
+													</tr>
+												</tbody>
+											</table>
+											<br>
+											<table>
+												<tr>
+													<td class="text9">決済条件 ：
+													</td>
+													<td><select name="ddl1" id="ddl1" class="textbox1">
+	<option selected="selected" value="">すべての決済情報</option>
+	<option value="1">クレジット決済情報</option>
+	<option value="2">コンビニ決済情報</option>
+	<option value="3">WebMoney決済情報</option>
+	<option value="8">BitCash決済情報</option>
+	<option value="6">銀行振込決済情報</option>
+	<option value="7">代金引換決済情報</option>
+	<option value="9">PayPal決済情報</option>
+	<option value="11">口座振替決済情報</option>
+	<option value="12">auキャリア決済情報</option>
+	<option value="13">docomoキャリア決済情報</option>
+	<option value="CHECK">有効性</option>
+	<option value="CAPTURE">仮/実同時</option>
+	<option value="AUTH">仮売上</option>
+	<option value="SALES">実売上</option>
+	<option value="CANCEL">取消</option>
+	<option value="CVS">コンビニペーパーレス</option>
+	<option value="WebMoney">WebMoney</option>
+	<option value="WEB_CAN">WebMoney取消</option>
+	<option value="BitCash">BitCash</option>
+	<option value="BIT_CAN">BitCash取消</option>
+	<option value="BANK">銀行振込受付</option>
+	<option value="BAN_SAL">銀行振込完了</option>
+	<option value="BAN_CAN">銀行振込取消</option>
+	<option value="POR">代金引換受付</option>
+	<option value="POR_AUT">代金引換配送中</option>
+	<option value="POR_SAL">代金引換配送完了</option>
+	<option value="POR_CAN">代金引換取消</option>
+	<option value="PayPal">PayPal</option>
+	<option value="PAY_CAN">PayPal取消</option>
+	<option value="ACC">口座振替</option>
+	<option value="ACC_CAN">口座振替取消</option>
+	<option value="AU_AUT">au仮売上</option>
+	<option value="AU_CAP">au仮/実同時</option>
+	<option value="AU_SAL">au実売上</option>
+	<option value="AU_CAN">au取消</option>
+	<option value="DCM_AUT">docomo仮売上</option>
+	<option value="DCM_CAP">docomo仮/実同時</option>
+	<option value="DCM_SAL">docomo実売上</option>
+	<option value="DCM_CAN">docomo取消</option>
+	<option value="JPREMO">JCBプレモ</option>
+	<option value="JPREMO_CAN">JCBプレモ取消</option>
+
+</select>&nbsp;&nbsp;&nbsp;<br>
+													</td>
+												</tr>
+												<tr>
+													<td class="text9">日付条件 ：
+													</td>
+													<td class="text9"><select name="ddl4" onchange="javascript:setTimeout(&#39;__doPostBack(\&#39;ddl4\&#39;,\&#39;\&#39;)&#39;, 0)" id="ddl4" class="textbox1">
+	<option selected="selected" value="Date_LastUp">更新日</option>
+	<option value="Date_AddNew">決済日</option>
+	<option value="Date_RealSale">実売上日</option>
+	<option value="Date_Void">取消日</option>
+
+</select>&nbsp;&nbsp;&nbsp;<asp:Label class="text9">を基準に</asp:Label>
+														<!--<select name="ddl2" id="ddl2" class="textbox1">
+	<option value="2017/03/10">2017/03/10</option>
+	<option value="2017/03/09">2017/03/09</option>
+	<option value="2017/03/08">2017/03/08</option>
+	<option value="2017/03/07">2017/03/07</option>
+	<option value="2017/03/06">2017/03/06</option>
+	<option value="2017/03/05">2017/03/05</option>
+	<option value="2017/03/04">2017/03/04</option>
+	<option value="2017/03/03">2017/03/03</option>
+	<option value="2017/03/02">2017/03/02</option>
+	<option value="2017/03/01">2017/03/01</option>
+	<option value="2017/02/28">2017/02/28</option>
+	<option value="2017/02/27">2017/02/27</option>
+	<option value="2017/02/26">2017/02/26</option>
+	<option value="2017/02/25">2017/02/25</option>
+	<option value="2017/02/24">2017/02/24</option>
+	<option value="2017/02/23">2017/02/23</option>
+	<option value="2017/02/22">2017/02/22</option>
+	<option value="2017/02/21">2017/02/21</option>
+	<option value="2017/02/20">2017/02/20</option>
+	<option value="2017/02/19">2017/02/19</option>
+	<option value="2017/02/18">2017/02/18</option>
+	<option value="2017/02/17">2017/02/17</option>
+	<option value="2017/02/16">2017/02/16</option>
+	<option value="2017/02/15">2017/02/15</option>
+	<option value="2017/02/14">2017/02/14</option>
+	<option value="2017/02/13">2017/02/13</option>
+	<option value="2017/02/12">2017/02/12</option>
+	<option value="2017/02/11">2017/02/11</option>
+	<option value="2017/02/10">2017/02/10</option>
+	<option value="2017/02/09">2017/02/09</option>
+	<option value="2017/02/08">2017/02/08</option>
+	<option value="2017/02/07">2017/02/07</option>
+	<option value="2017/02/06">2017/02/06</option>
+	<option value="2017/02/05">2017/02/05</option>
+	<option value="2017/02/04">2017/02/04</option>
+	<option value="2017/02/03">2017/02/03</option>
+	<option value="2017/02/02">2017/02/02</option>
+	<option value="2017/02/01">2017/02/01</option>
+	<option value="2017/01/31">2017/01/31</option>
+	<option value="2017/01/30">2017/01/30</option>
+	<option value="2017/01/29">2017/01/29</option>
+	<option value="2017/01/28">2017/01/28</option>
+	<option value="2017/01/27">2017/01/27</option>
+	<option value="2017/01/26">2017/01/26</option>
+	<option value="2017/01/25">2017/01/25</option>
+	<option value="2017/01/24">2017/01/24</option>
+	<option value="2017/01/23">2017/01/23</option>
+	<option value="2017/01/22">2017/01/22</option>
+	<option value="2017/01/21">2017/01/21</option>
+	<option value="2017/01/20">2017/01/20</option>
+	<option value="2017/01/19">2017/01/19</option>
+	<option value="2017/01/18">2017/01/18</option>
+	<option value="2017/01/17">2017/01/17</option>
+	<option value="2017/01/16">2017/01/16</option>
+	<option value="2017/01/15">2017/01/15</option>
+	<option value="2017/01/14">2017/01/14</option>
+	<option value="2017/01/13">2017/01/13</option>
+	<option value="2017/01/12">2017/01/12</option>
+	<option value="2017/01/11">2017/01/11</option>
+	<option value="2017/01/10">2017/01/10</option>
+	<option value="2017/01/09">2017/01/09</option>
+	<option value="2017/01/08">2017/01/08</option>
+	<option value="2017/01/07">2017/01/07</option>
+	<option value="2017/01/06">2017/01/06</option>
+	<option value="2017/01/05">2017/01/05</option>
+	<option value="2017/01/04">2017/01/04</option>
+	<option value="2017/01/03">2017/01/03</option>
+	<option value="2017/01/02">2017/01/02</option>
+	<option value="2017/01/01">2017/01/01</option>
+	<option value="2016/12/31">2016/12/31</option>
+	<option value="2016/12/30">2016/12/30</option>
+	<option value="2016/12/29">2016/12/29</option>
+	<option value="2016/12/28">2016/12/28</option>
+	<option value="2016/12/27">2016/12/27</option>
+	<option value="2016/12/26">2016/12/26</option>
+	<option value="2016/12/25">2016/12/25</option>
+	<option value="2016/12/24">2016/12/24</option>
+	<option value="2016/12/23">2016/12/23</option>
+	<option value="2016/12/22">2016/12/22</option>
+	<option value="2016/12/21">2016/12/21</option>
+	<option value="2016/12/20">2016/12/20</option>
+	<option value="2016/12/19">2016/12/19</option>
+	<option value="2016/12/18">2016/12/18</option>
+	<option value="2016/12/17">2016/12/17</option>
+	<option value="2016/12/16">2016/12/16</option>
+	<option value="2016/12/15">2016/12/15</option>
+	<option value="2016/12/14">2016/12/14</option>
+	<option value="2016/12/13">2016/12/13</option>
+	<option value="2016/12/12">2016/12/12</option>
+	<option value="2016/12/11">2016/12/11</option>
+	<option value="2016/12/10">2016/12/10</option>
+	<option value="2016/12/09">2016/12/09</option>
+	<option value="2016/12/08">2016/12/08</option>
+	<option value="2016/12/07">2016/12/07</option>
+	<option value="2016/12/06">2016/12/06</option>
+	<option value="2016/12/05">2016/12/05</option>
+	<option value="2016/12/04">2016/12/04</option>
+	<option value="2016/12/03">2016/12/03</option>
+	<option value="2016/12/02">2016/12/02</option>
+	<option value="2016/12/01">2016/12/01</option>
+	<option value="2016/11/30">2016/11/30</option>
+	<option value="2016/11/29">2016/11/29</option>
+	<option value="2016/11/28">2016/11/28</option>
+	<option value="2016/11/27">2016/11/27</option>
+	<option value="2016/11/26">2016/11/26</option>
+	<option value="2016/11/25">2016/11/25</option>
+	<option value="2016/11/24">2016/11/24</option>
+	<option value="2016/11/23">2016/11/23</option>
+	<option value="2016/11/22">2016/11/22</option>
+	<option value="2016/11/21">2016/11/21</option>
+	<option value="2016/11/20">2016/11/20</option>
+	<option value="2016/11/19">2016/11/19</option>
+	<option value="2016/11/18">2016/11/18</option>
+	<option value="2016/11/17">2016/11/17</option>
+	<option value="2016/11/16">2016/11/16</option>
+	<option value="2016/11/15">2016/11/15</option>
+	<option value="2016/11/14">2016/11/14</option>
+	<option value="2016/11/13">2016/11/13</option>
+	<option value="2016/11/12">2016/11/12</option>
+	<option value="2016/11/11">2016/11/11</option>
+
+</select>&nbsp;の&nbsp;-->
+														
+														
+														<input name="ddl2_cal" type="text" value="2017/03/10" id="ddl2_cal" class="textbox1" style="width:80px;" />
+														<select name="ddl3" id="ddl3" class="textbox1" OnChange="__doPostBack(&#39;ddl3&#39;,&#39;&#39;)">
+	<option selected="selected" value="0">当日</option>
+	<option value="2">期間指定</option>
+	<option value="3">過去３日</option>
+	<option value="7">過去１週間</option>
+	<option value="14">過去２週間</option>
+	<option value="21">過去３週間</option>
+	<option value="30">過去１ヶ月</option>
+	<option value="60">過去２ヶ月</option>
+	<option value="180">過去６ヶ月</option>
+	<option value="999">前後すべて</option>
+
+</select>&nbsp;&nbsp;&nbsp;
+														<div id="calid"></div>
+														<div id="calid2"></div>
+													</td>
+												</tr>
+												<tr>
+													<td class="text9" colspan="2" align="center"><br>
+														<input type="submit" name="Button1" value=" 検索 " id="Button1" class="button1" /><br>
+													</td>
+												</tr>
+											</table>
+											<br>
+										</td>
+									</tr>
+								</tbody>
+							</table>
+						</td>
+					</tr>
+					<tr>
+						<td align="center"><br>
+							<input type="submit" name="Button2" value=" オールクリア " id="Button2" class="button1" /><input type="submit" name="Button3" value=" 実売チェック " id="Button3" class="button1" /><input type="submit" name="Button4" value=" 取消チェック " id="Button4" class="button1" /><input type="submit" name="Button8" value="一括督促チェック" id="Button8" class="button1" /><input type="submit" name="Button5" value=" 実売実行 " onclick="return ChkConfirm(1);" id="Button5" class="button1" /><input type="submit" name="Button6" value=" 取消実行 " onclick="return ChkConfirm(2);" id="Button6" class="button1" /><input type="submit" name="Button7" value="一括督促メール" id="Button7" class="button1" /><span id="L_msg" class="text9b"></span></td>
+					</tr>
+					<tr>
+						<td align="center"><br>
+							<table cellspacing="2" cellpadding="2" rules="all" id="DataGrid1" style="border-width:0px;">
+	<tr class="bg1" align="center" style="color:White;font-size:10pt;font-weight:bold;">
+		<td>選択</td><td style="width:60px;">決済番号</td><td style="width:60px;">タイプ</td><td style="width:70px;">結果</td><td style="width:70px;">通知</td><td style="width:50px;">カード</td><td style="width:80px;">カード名義</td><td style="width:90px;">決済金額</td><td style="width:70px;">決済日</td><td style="width:70px;">実売上日</td><td style="width:70px;">取消日</td><td style="width:60px;">取消</td><td style="width:60px;">更新日</td><td style="width:50px;">モード</td><td style="width:90px;">店舗オーダー</td>
+	</tr><tr style="background-color:#EFEFEF;font-size:9pt;">
+		<td>
+											
+										</td><td align="center"><a href="TransDetail.aspx?gid=1194467">1194467</a></td><td align="center">ペーパーレス</td><td align="center">決済成功</td><td align="center">通知成功</td><td align="center"><img src="Images/seven.gif" alt="セブンイレブン"></td><td align="center">TEST</td><td align="center">¥1,000<br>(¥0,¥0)</td><td align="center">2017/03/10<br>10:12:28</td><td align="center">&nbsp;</td><td align="center">&nbsp;</td><td align="center">&nbsp;</td><td align="center">2017/03/10<br>10:12:29</td><td align="center">テスト</td><td align="center">&nbsp;</td>
+	</tr><tr style="background-color:#E5E5E5;font-size:9pt;">
+		<td>
+											
+										</td><td align="center"><a href="TransDetail.aspx?gid=1194466">1194466</a></td><td align="center">ペーパーレス</td><td align="center">決済成功</td><td align="center">通知成功</td><td align="center"><img src="Images/seven.gif" alt="セブンイレブン"></td><td align="center">TEST</td><td align="center">¥1,000<br>(¥0,¥0)</td><td align="center">2017/03/10<br>10:12:25</td><td align="center">&nbsp;</td><td align="center">&nbsp;</td><td align="center">&nbsp;</td><td align="center">2017/03/10<br>10:12:26</td><td align="center">テスト</td><td align="center">&nbsp;</td>
+	</tr><tr style="background-color:#EFEFEF;font-size:9pt;">
+		<td>
+											
+										</td><td align="center"><a href="TransDetail.aspx?gid=1194465">1194465</a></td><td align="center">ペーパーレス</td><td align="center">決済成功</td><td align="center">通知成功</td><td align="center"><img src="Images/seven.gif" alt="セブンイレブン"></td><td align="center">TEST</td><td align="center">¥1,000<br>(¥0,¥0)</td><td align="center">2017/03/10<br>10:12:22</td><td align="center">&nbsp;</td><td align="center">&nbsp;</td><td align="center">&nbsp;</td><td align="center">2017/03/10<br>10:12:23</td><td align="center">テスト</td><td align="center">&nbsp;</td>
+	</tr><tr style="background-color:#E5E5E5;font-size:9pt;">
+		<td>
+											
+										</td><td align="center"><a href="TransDetail.aspx?gid=1194464">1194464</a></td><td align="center">ペーパーレス</td><td align="center">決済成功</td><td align="center">通知成功</td><td align="center"><img src="Images/seven.gif" alt="セブンイレブン"></td><td align="center">TEST</td><td align="center">¥1,000<br>(¥0,¥0)</td><td align="center">2017/03/10<br>10:12:19</td><td align="center">&nbsp;</td><td align="center">&nbsp;</td><td align="center">&nbsp;</td><td align="center">2017/03/10<br>10:12:20</td><td align="center">テスト</td><td align="center">&nbsp;</td>
+	</tr><tr style="background-color:#EFEFEF;font-size:9pt;">
+		<td>
+											
+										</td><td align="center"><a href="TransDetail.aspx?gid=1194463">1194463</a></td><td align="center">ペーパーレス</td><td align="center">決済成功</td><td align="center">通知成功</td><td align="center"><img src="Images/seven.gif" alt="セブンイレブン"></td><td align="center">TEST</td><td align="center">¥1,000<br>(¥0,¥0)</td><td align="center">2017/03/10<br>10:12:17</td><td align="center">&nbsp;</td><td align="center">&nbsp;</td><td align="center">&nbsp;</td><td align="center">2017/03/10<br>10:12:17</td><td align="center">テスト</td><td align="center">&nbsp;</td>
+	</tr><tr style="background-color:#E5E5E5;font-size:9pt;">
+		<td>
+											
+										</td><td align="center"><a href="TransDetail.aspx?gid=1194462">1194462</a></td><td align="center">ペーパーレス</td><td align="center">決済成功</td><td align="center">通知成功</td><td align="center"><img src="Images/seven.gif" alt="セブンイレブン"></td><td align="center">TEST</td><td align="center">¥1,000<br>(¥0,¥0)</td><td align="center">2017/03/10<br>10:12:14</td><td align="center">&nbsp;</td><td align="center">&nbsp;</td><td align="center">&nbsp;</td><td align="center">2017/03/10<br>10:12:15</td><td align="center">テスト</td><td align="center">&nbsp;</td>
+	</tr><tr style="background-color:#EFEFEF;font-size:9pt;">
+		<td>
+											
+										</td><td align="center"><a href="TransDetail.aspx?gid=1194461">1194461</a></td><td align="center">ペーパーレス</td><td align="center">決済成功</td><td align="center">通知成功</td><td align="center"><img src="Images/seven.gif" alt="セブンイレブン"></td><td align="center">TEST</td><td align="center">¥1,000<br>(¥0,¥0)</td><td align="center">2017/03/10<br>10:12:11</td><td align="center">&nbsp;</td><td align="center">&nbsp;</td><td align="center">&nbsp;</td><td align="center">2017/03/10<br>10:12:12</td><td align="center">テスト</td><td align="center">&nbsp;</td>
+	</tr><tr class="page1" align="right">
+		<td colspan="15"><span>1</span></td>
+	</tr>
+</table></td>
+					</tr>
+				</tbody>
+			</table>
+			<br>
+			<br>
+			<br>
+			<!-----------main contents end---------------------------------------------->
+<!------ footer begin ---------->
+<table cellspacing="0" cellpadding="0" height="17" width="100%" border="0">
+	<tbody>
+		<tr>
+			<td><img src="Images/space.gif" height="1"></td>
+		</tr>
+		<tr>
+			<td class="bg1"><img src="Images/space.gif" height="1"></td>
+		</tr>
+		<tr class="text9">
+			<td class="bg2" align="middle">
+				<span id="myfooter_CopyRight" class="text9">Copyright (C)2017 Cloud Payment Inc. All Rights Reserved.</span>
+			</td>
+		</tr>
+		<tr class="text9">
+			<td align="right">
+				<span id="myfooter_Version" class="text9"></span>
+			</td>
+		</tr>
+	</tbody>
+</table>
+<!------ footer end ---------->
+</form>
+	</body>
+</HTML>

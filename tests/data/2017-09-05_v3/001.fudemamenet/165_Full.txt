@@ -1,0 +1,34 @@
+POST https://ssl.fudemame.net/auth/myid/registration_commit HTTP/1.1
+Host: ssl.fudemame.net
+User-Agent: Mozilla/5.0 (Windows NT 6.1; WOW64; rv:52.0) Gecko/20100101 Firefox/52.0
+Accept: text/html,application/xhtml+xml,application/xml;q=0.9,*/*;q=0.8
+Accept-Language: ja,en-US;q=0.7,en;q=0.3
+Accept-Encoding: gzip, deflate, br
+Referer: https://ssl.fudemame.net/auth/myid/registration_confirm
+Cookie: _ga=GA1.2.91021461.1490941344; _ga=GA1.3.91021461.1490941344; _session_id=7357e16661984e5e6c92bca035649516; _dc_gtm_UA-13063075-23=1; _dc_gtm_UA-13063075-10=1
+Connection: keep-alive
+Upgrade-Insecure-Requests: 1
+Content-Type: application/x-www-form-urlencoded
+Content-Length: 123
+
+authenticity_token=g14cyHrEs8n%2FB81XOQUn1heehp%2F%2BkB%2BRFRdsO93%2B0mk%3D&submit_u_mycreoid2.x=62&submit_u_mycreoid2.y=21
+HTTP/1.1 302 Found
+Cache-Control: no-cache
+Content-Type: text/html; charset=utf-8
+Date: Mon, 03 Apr 2017 08:13:38 GMT
+Location: https://ssl.fudemame.net/auth/myid/registration_completed
+Server: Apache
+Set-Cookie: _session_id=7357e16661984e5e6c92bca035649516; path=/; expires=Mon, 03-Apr-2017 08:43:38 GMT; secure; HttpOnly
+Status: 302 Found
+X-Powered-By: Phusion Passenger 4.0.59
+X-Rack-Cache: invalidate, pass
+X-Request-Id: 467dd0d8d04be441467f4ea269ef8aaf
+X-Runtime: 0.295258
+X-UA-Compatible: IE=Edge,chrome=1
+transfer-encoding: chunked
+Connection: keep-alive
+
+7b
+<html><body>You are being <a href="https://ssl.fudemame.net/auth/myid/registration_completed">redirected</a>.</body></html>
+0
+

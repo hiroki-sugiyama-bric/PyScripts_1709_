@@ -1,0 +1,28 @@
+POST https://point.recruit.co.jp/member/remind/doConfirm HTTP/1.1
+Host: point.recruit.co.jp
+User-Agent: Mozilla/5.0 (Windows NT 6.1; WOW64; rv:51.0) Gecko/20100101 Firefox/51.0
+Accept: text/html,application/xhtml+xml,application/xml;q=0.9,*/*;q=0.8
+Accept-Language: ja,en-US;q=0.7,en;q=0.3
+Referer: https://point.recruit.co.jp/member/remind/?response_type=code&redirect_uri=https%3A%2F%2Fwww.hotpepper.jp%2FCSP%2FcapMemberForward%2F&state=e626d9abdb7b73e4e5e9488507fecba907244057a9cf452c&re_auth=1&insertion_flg=&client_id=d37b0ba0d2f2d914e6214a3130668745619a5ae452be1b41555da255f2714e54
+Cookie: r2abtest_cid=73df171a52a8e23dcb5043eaa4715e158908ea67; r2abtest="201703101404:I9MR040_HPG_01_001,898,HPG_01_001:I9MR010_S03_a,896,other"; rm_tk=6V5HYX6dxDb9yTYKQ4xndttBokMbAa1j; site_cd=HPG; s_fid=4493AB07D01B65E8-1F03BA2E2FEE4E44; s_nr=1489129284641-Repeat; s_nr2=1489129284671-Repeat; JSESSIONID=54381BC858A58FDC5719E3EC20915096.0401; s_cc=true; s_fr=2017%3A03%3A10; s_cm=1; s_fbsr=1; s_sq=rcrtpointrecruitcojpprd%3D%2526c.%2526a.%2526activitymap.%2526page%253Dcap%25253Amember%25253Aremind%25253Aindex.html%2526link%253D%2525E6%2525AC%2525A1%2525E3%252581%2525B8%2526region%253DcenteringContents%2526pageIDType%253D1%2526.activitymap%2526.a%2526.c%26rcrthotpepperjpprod%3D%2526pid%253Drikupon%25253Aforgetpw%25253Aidentify%25253AI1PR010%2526pidt%253D1%2526oid%253Dfunction%252528%252529%25257BreturnsubmitCtr.submit%252528function%252528%252529%25257Bdocument.forms%25255B%252527member_remindActionForm%252527%25255D.submit%252528%252529%25253Bretu%2526oidt%253D2%2526ot%253DSUBMIT; R2SESSIONID=05ADDDE73894978D297AF283B20056D6; PermissionByReferer=1; s_cap_id=f6f5d0235c11d3bb; s_cap_id=f6f5d0235c11d3bb; ssk_token=249353347dac73011e9c31864aa3c95d27af132803140fe5972bbae69e821fa9
+Connection: close
+Upgrade-Insecure-Requests: 1
+Content-Type: application/x-www-form-urlencoded
+Content-Length: 483
+
+org.apache.struts.taglib.html.TOKEN=a02046bbb4cb319b46cae54324df4c34&path=&client_id=d37b0ba0d2f2d914e6214a3130668745619a5ae452be1b41555da255f2714e54&redirect_uri=https%3A%2F%2Fwww.hotpepper.jp%2FCSP%2FcapMemberForward%2F&response_type=code&re_auth=1&insertion_flg=&state=e626d9abdb7b73e4e5e9488507fecba907244057a9cf452c&closeFlg=&sc_vid=&sc_ap=&expressionflg=&connect_flg=&pwbFlg=&reDisplayFlg=&mainEmail=hitakahashi9999%40gmail.com&nmSei=%E9%AB%98%E6%A9%8B&nmMei=%E7%A7%80%E8%A8%98
+HTTP/1.1 302 Found
+Date: Fri, 10 Mar 2017 07:01:23 GMT
+Server: Apache
+X-RUN_ID: R-14136_82_14519
+Set-Cookie: R2SESSIONID=05ADDDE73894978D297AF283B20056D6; Path=/; Secure; HttpOnly
+Set-Cookie: JSESSIONID=29F1EEC3D06C152D3652856B9CF86457.0101; Path=/; Secure; HttpOnly
+Set-Cookie: R2SESSIONID=487DFA1109C95EEF3A737C3E977D4496; Path=/; Secure; HttpOnly
+Location: https://point.recruit.co.jp/member/remind/change/?response_type=code&redirect_uri=https%3A%2F%2Fwww.hotpepper.jp%2FCSP%2FcapMemberForward%2F&state=e626d9abdb7b73e4e5e9488507fecba907244057a9cf452c&re_auth=1&insertion_flg=&client_id=d37b0ba0d2f2d914e6214a3130668745619a5ae452be1b41555da255f2714e54
+Content-Type: text/html;charset=ISO-8859-1
+Content-Length: 0
+Vary: Accept-Encoding,User-Agent
+P3P: CP="NON DSP COR CURa ADMa DEVa CUSo TAIa PSDo OUR BUS UNI COM NAV STA"
+Strict-Transport-Security: max-age=315360000
+Connection: close
+

@@ -1,0 +1,25 @@
+GET https://accounts.jins.com/passwordreset/setting?activation_code=e48accac8cd693d6333fb406d6cfb6a565ec9dbb&service_id=jos HTTP/1.1
+Host: accounts.jins.com
+User-Agent: Mozilla/5.0 (Windows NT 6.1; WOW64; rv:52.0) Gecko/20100101 Firefox/52.0
+Accept: text/html,application/xhtml+xml,application/xml;q=0.9,*/*;q=0.8
+Accept-Language: ja,en-US;q=0.7,en;q=0.3
+Accept-Encoding: gzip, deflate, br
+Cookie: _ga=GA1.2.653643970.1490947721; __ulfpc=201703311708412655; AWSELB=2BCD219D0CF757078D61254C37D904455B5489E2366033149057DCB1FA8D987F94DFBFBBE03CFAE323F402847D93A003897DBF321F970143FE53E0DB247D83570949C35D14; _jins_accounts_session=N1BOeEdZVlBHRFZaVUZjWGdzTkt3Uk9EbS9CN3U5L2ZZNmdQR0ZHSmZXZnBrajQ1bFR0ekNSNHp3dVpZYittRmhIbG1kZ3p2c1ZCNHNjNEp3QnErRFB0dmYxZnJEY05meWVTYkZ3VHo2aFB5dTRudlFtWjVkM1R5MG9hRnNDTjlwNkJqOS9abC8rbWxrZHdVS2FCajdUSWh4WS9tdDZSUWt1M2EwcnZvQ3JWMERWeUtlemdwK0NuWVdLeVFpSFc1K2ltVzI1NndaY2wrSE1uaVBRZXBDNkFFUmNZSnZpQmt4Y1dBZzZEdTNPY2wvWmIvS1JVaGFXMTR0ckx0NmZuM01nQlc1dlF6Qzc3ZCtORk1OWG5pK0FrVlRkYnNkWkpTeDNxOUFUeHpKMzVsQXFReWhPeVJUMlczcjJzNGVSZzFEM00wTlZhbWVvY2czc1hoSmFjcUk0cG1ad0tiTFlVcVdNT1BYbFgzbzk2VGxsTU85K1oySFM1cnZkN2dTM0M3d3QzU0U1ZmFqTHhSOGVSRUQ4Zndvc1Zjdi80WTA2cytmMW9zZEkrWUNGL2R6cXJGTnVUTFpzdlBBQmRsVS9MVzM1ZWVjZ0VWYVZmcVE5YnY3ZFpnVUl4MGJkWGE2TjkyZ0JKMDBGMDk3Rk43RHlyL3d3Qjd2a1d4MUZPVlByRGw0bS9pRW82UlhUa2hZQWNhR0FhYXJaRVRja2lIcmY2R1dKSlh4SmxBNHdoYkVmeGREY1hHZk5WaUFZWmR6d0dGUWFjV1dGRGliOTRpQ2hwTDUvaTk2eFJVVXRjOW04QnBkc3o0em54REczNUcyVG9RdXpzVDZ3Z3dNaXlZWUlDbi0tK2xyekZTay9XOEEvTU9mcFd6Qjh0Zz09--ec14076980a9aec0fceb1aece728b84d8382b809; _dc_gtm_UA-2309743-2=1
+Connection: keep-alive
+Upgrade-Insecure-Requests: 1
+
+
+HTTP/1.1 301 Moved Permanently
+Content-Type: text/html
+Date: Wed, 05 Apr 2017 08:23:33 GMT
+Location: https://accounts.jins.com/jp/ja/passwordreset/setting?activation_code=e48accac8cd693d6333fb406d6cfb6a565ec9dbb&service_id=jos
+Content-Length: 178
+Connection: keep-alive
+
+<html>
+<head><title>301 Moved Permanently</title></head>
+<body bgcolor="white">
+<center><h1>301 Moved Permanently</h1></center>
+<hr><center>nginx</center>
+</body>
+</html>

@@ -1,0 +1,27 @@
+POST https://www.kokuchpro.com/signup/ HTTP/1.1
+Host: www.kokuchpro.com
+User-Agent: Mozilla/5.0 (Windows NT 6.1; Win64; x64; rv:49.0) Gecko/20100101 Firefox/49.0
+Accept: text/html,application/xhtml+xml,application/xml;q=0.9,*/*;q=0.8
+Accept-Language: ja,en-US;q=0.7,en;q=0.3
+Accept-Encoding: gzip, deflate, br
+Referer: https://www.kokuchpro.com/signup/
+Cookie: KOKUCHPRO=htc3bmho2ho2m5jeruhq04n1d1; Cookie[c]=071620175b69d70b5b650d5fbef55020cbb787d26cd695a9231404; _ga=GA1.2.707383013.1491542196; _gali=UserIndexForm
+Connection: close
+Upgrade-Insecure-Requests: 1
+Content-Type: application/x-www-form-urlencoded
+Content-Length: 433
+
+_method=POST&data%5BUser%5D%5Bname%5D=%E5%B1%B1%E7%94%B0%E6%B7%B3&data%5BUser%5D%5Bemail%5D=crawlingtest1000%40gmail.com&data%5BSignupForm%5D%5Binput_password%5D=testtest12345&data%5BSignupForm%5D%5Bpassword_check%5D=testtest12345&data%5BSignupForm%5D%5Bauto_login%5D=0&data%5BSignupForm%5D%5Bauto_login%5D=1&data%5BSignupForm%5D%5Bcaptcha%5D=%EF%BC%99%EF%BC%96%EF%BC%94%EF%BC%91%EF%BC%91%EF%BC%92&data%5BSignupForm%5D%5Bcontinue%5D=
+HTTP/1.1 302 Found
+Server: nginx
+Date: Fri, 07 Apr 2017 05:32:32 GMT
+Content-Type: text/html; charset=UTF-8
+Connection: close
+P3P: CP="NOI ADM DEV PSAi COM NAV OUR OTRo STP IND DEM"
+Set-Cookie: Cookie[a]=49ae5b14ebf26fbfbc8baae71cac581f; expires=Mon, 05-Apr-2027 05:32:30 GMT; path=/; domain=.kokuchpro.com
+Set-Cookie: Cookie[b]=6eeaff82444d138e9de8ff29d7ecc4eed7ca9ccf; expires=Mon, 05-Apr-2027 05:32:30 GMT; path=/; domain=.kokuchpro.com
+Location: https://www.kokuchpro.com/mypage/index/
+Content-Length: 0
+X-Frame-Options: SAMEORIGIN
+X-Content-Type-Options: nosniff
+

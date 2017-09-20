@@ -1,0 +1,31 @@
+POST https://credit2.j-payment.co.jp/cs/SignIn.aspx HTTP/1.1
+Host: credit2.j-payment.co.jp
+Connection: close
+Content-Length: 641
+Cache-Control: max-age=0
+Origin: https://credit2.j-payment.co.jp
+Upgrade-Insecure-Requests: 1
+User-Agent: Mozilla/5.0 (Windows NT 10.0; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/56.0.2924.87 Safari/537.36
+Content-Type: application/x-www-form-urlencoded
+Accept: text/html,application/xhtml+xml,application/xml;q=0.9,image/webp,*/*;q=0.8
+Referer: https://credit2.j-payment.co.jp/cs/SignIn.aspx
+Accept-Language: ja,en-US;q=0.8,en;q=0.6
+Cookie: cspage=ShopSEdit.aspx?sid=107037&from=S; ASP.NET_SessionId=; _ga=GA1.3.1344043544.1489034493; NSC_JO2eas5de2ou4ufdnxqiuaei5njj0bf=ffffffffc3a0d67645525d5f4f58455e445a4a423660
+
+__EVENTTARGET=&__EVENTARGUMENT=&__VIEWSTATE=%2FwEPDwUJMTU0MjM5Njc0D2QWAgIBD2QWCGYPFQEPaW1hZ2VzL251bGwuZ2lmZAIBDw8WAh4ISW1hZ2VVcmwFGGltYWdlcy9sb2dvX2pwYXltZW50LmdpZmRkAg0PDxYCHgRUZXh0BTxDb3B5cmlnaHQgKEMpQFRPWUVBUiBDbG91ZCBQYXltZW50IEluYy4gQWxsIFJpZ2h0cyBSZXNlcnZlZC5kZAIPDw8WAh8BBRdWZXIuMS4xMC4wMigyMDA1LzA0LzE5KWRkZA4Qtft3HYf1fdIqst4cwJ2QDEgY5TYGW%2Fmpe3kbmlAM&__VIEWSTATEGENERATOR=F8254E71&__EVENTVALIDATION=%2FwEdAARJB2M1DJb1pltMwOZeX7v0D4j20NVX6cOW3TAh5Fy1e%2B4sciJO3Hoc68xTFtZGQEjN%2BDvxnwFeFeJ9MIBWR693UCg%2Be%2FxydpHjEiHBi0PQA4eIDL%2FYsKrVBkorkipueCY%3D&adminId=pci201701&password=Pci201701&Button1=%E3%83%AD%E3%82%B0%E3%82%A4%E3%83%B3
+HTTP/1.1 302 Found
+Cache-Control: private
+Content-Type: text/html; charset=utf-8
+Location: /cs/ShopSEdit.aspx?sid=107037&from=S
+Server: Microsoft-IIS/7.0
+X-AspNet-Version: 4.0.30319
+Set-Cookie: ASP.NET_SessionId=1glhxt500xtw25mdq4v4ttww; path=/cs/; secure; HttpOnly
+X-Powered-By: ASP.NET
+Date: Fri, 10 Mar 2017 00:52:56 GMT
+Connection: close
+Content-Length: 157
+Set-Cookie: NSC_JO2eas5de2ou4ufdnxqiuaei5njj0bf=ffffffffc3a0d67645525d5f4f58455e445a4a423660;expires=Fri, 10-Mar-2017 01:09:02 GMT;path=/;secure;httponly
+
+<html><head><title>Object moved</title></head><body>
+<h2>Object moved to <a href="/cs/ShopSEdit.aspx?sid=107037&amp;from=S">here</a>.</h2>
+</body></html>

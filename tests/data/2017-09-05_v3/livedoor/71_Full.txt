@@ -1,0 +1,168 @@
+GET https://member.livedoor.com/register/done HTTP/1.1
+Host: member.livedoor.com
+User-Agent: Mozilla/5.0 (Windows NT 6.1; WOW64; rv:51.0) Gecko/20100101 Firefox/51.0
+Accept: text/html,application/xhtml+xml,application/xml;q=0.9,*/*;q=0.8
+Accept-Language: ja,en-US;q=0.7,en;q=0.3
+Referer: https://member.livedoor.com/register/input
+Cookie: _ga=GA1.2.782945163.1484635068; ucd=ZpmlGMuZD2bgplA1PzMORjYrG4EGnmYC; ucd_sig=rEgLOFXwiKWGsTI2bltrck4GRZ8%3A1487584567; ldsuid=218.223.2.203.1487726870424425; member_sid=bea28f62411beecb8e9f8ed901a4ed14
+Connection: close
+Upgrade-Insecure-Requests: 1
+
+
+HTTP/1.1 200 OK
+Date: Wed, 22 Feb 2017 02:50:51 GMT
+Server: Plack::Handler::Starlet
+Content-Type: text/html; charset=utf-8
+Set-Cookie: member_sid=58e6cbc841a2a2cd1a69f2afbe815c27; domain=.member.livedoor.com; path=/; secure
+Set-Cookie: .LRC=1a114e22f00b43e94cea58c9571b2f7267abb089; domain=livedoor.com; path=/
+Set-Cookie: .LH=eac5e97cb9508bcb1180b1ac1a19f3e3%3A1487731851%3A; domain=livedoor.com; path=/
+Set-Cookie: .LL=52616e646f6d4956bff9f11f5a090a1b8114297a3e5e03d532cd04a1adbfdd79; domain=livedoor.com; path=/
+Set-Cookie: .LRCS=7c12faaf6a62cf5f0956f1f129d7ba6b; domain=livedoor.com; path=/; secure; HttpOnly
+Vary: Accept-Encoding,User-Agent
+Connection: close
+Content-Length: 5338
+
+<?xml version="1.0" encoding="utf-8"?>
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+<html xmlns="http://www.w3.org/1999/xhtml" xml:lang="ja" lang="ja">
+<head>
+	<meta http-equiv="Content-Type" content="text/html; charset=UTF-8" />
+	<title>livedoor - ユーザー登録</title>
+	<meta name="keywords" content="livedoor" />
+	<meta name="description" content="livedoorへようこそ" />
+	<meta http-equiv="Content-Style-Type" content="text/css" />
+	<meta http-equiv="Content-Script-Type" content="text/javascript" />
+	<meta name="verify-v1" content="1bivxaxGrLBSoWSu7qAOa0M36HWHyewW+8YqCFDlBZQ=" />
+	<link rel="stylesheet" type="text/css" href="/common/css/login/login.css" />
+	<link rel="stylesheet" type="text/css" href="/common/css/register/register.css" />
+	<script type="text/javascript" src="/common/js/homepage.js"></script>
+	<script type="text/javascript" src="/common/js/jquery-1.6.2.min.js"></script>
+    
+</head>
+
+<body>
+<div id="headerWrapper" class="header wrapper">
+<div id="contentHeader" class="header wrapper">
+	<ul id="logo">
+	<li><a href="http://www.livedoor.com/" title="livedoor トップページ"><img src="/common/img/login/01/livedoor.gif" width="95" height="31" alt="livedoor" /></a></li>
+	</ul>
+	<ul>
+	<li><a href="/info/" title="登録情報">登録情報</a></li>
+	<li><a href="http://help.livedoor.com/ldid/" title="ヘルプページ">ヘルプ</a></li>
+	<li><a href="http://www.livedoor.com/" title="livedoor トップページ">livedoor</a></li>
+	</ul>
+</div>
+
+</div>
+
+
+<style>
+.btn{
+	display: inline-block;
+	font-weight: bold;
+	margin-bottom: 20px;
+	border:1px solid #aaa;
+	padding:6px 18px;
+	line-height: 26px;
+	text-shadow: 0 1px 0 #fff;
+	border-radius: 3px;
+	background-color: #fafafa;
+	background-image: -webkit-linear-gradient(#fefefe, #fefefe 25%, #e7e7e7);
+	background-image:    -moz-linear-gradient(top, #fefefe, #fefefe 25%, #e7e7e7);
+	background-image:     -ms-linear-gradient(#fefefe, #fefefe 25%, #e7e7e7);
+	background-image:      -o-linear-gradient(#fefefe, #fefefe 25%, #e7e7e7);
+	background-image:         linear-gradient(#fefefe, #fefefe 25%, #e7e7e7);
+	background-repeat: repeat-x;
+	filter: progid:DXImageTransform.Microsoft.gradient(startColorstr='#fefefe', endColorstr='#e7e7e7', GradientType=0)\9;
+}
+.btn:hover{
+	background-color: #e7e7e7;
+	background-position: 0 -10px;
+	-webkit-transition: background-position 0.1s linear;
+	   -moz-transition: background-position 0.1s linear;
+	    -ms-transition: background-position 0.1s linear;
+	     -o-transition: background-position 0.1s linear;
+	        transition: background-position 0.1s linear;
+	filter: progid:DXImageTransform.Microsoft.gradient(startColorstr='#f3f3f3', endColorstr='#e0e0e0', GradientType=0)\9;
+}
+</style>
+<div id="mainContent" class="clearfix">
+
+<div class="registerbox clearfix">
+	<div class="registerbox_head"></div>
+	<div class="registerbox_body">
+	<p class="read">livedoor ユーザー登録(無料)</p>
+	</div>
+	<div class="registerbox_foot"></div>
+</div>
+
+<!-- <div id="step" class="clearfix"><img src="/common/img/register/step_03.gif" width="700" height="90" alt="登録完了" /></div> -->
+
+<div class="registerbox clearfix">
+	<div class="registerbox_head"></div>
+	<div class="registerbox_body clearfix">
+	<div class="guidebox">
+	<!-- <img src="/common/img/register/title_03.gif" width="730" height="35" alt="登録完了" /> -->
+	<p class="done"><b>ご登録ありがとうございます</b></p>
+<p>登録されたメールアドレスにメールを送信しました。<br />
+<b>メールの文面にあるURLをクリックして、メールアドレスの登録を完了させてください。 </b></p>
+	</div>
+
+	<div class="done_ad">
+
+	<p class="portaltop">
+	    
+	    <a href="http://news.livedoor.com/topics/detail/12704117/" class="btn">次のページへ</a><br />
+	    7秒後に自動的に次のページへ移動します
+	     
+	</p>
+
+	</div>
+
+	</div>
+	<div class="registerbox_foot"></div>
+</div>
+
+</div>
+
+<div id="redirect" data-url="http://news.livedoor.com/topics/detail/12704117/"></div>
+<script>
+var url = $('#redirect').data('url');
+if (url) {
+    setTimeout(function(){
+        location.href = url;
+    }, 7000);
+}
+</script>
+
+<div id="footer" class="clearfix">
+<ul>
+<li><a href="http://www.livedoor.com/">livedoorトップ</a></li>
+<li><a href="javaScript:setStartPage()">livedoorをホームに設定</a></li>
+<li><a href="http://recruit.livedoor.com/">採用情報</a></li>
+<li><a href="http://docs.livedoor.com/ad/">広告掲載</a></li>
+<li><a href="http://docs.livedoor.com/info/kiyaku.html">利用規約</a></li>
+<li><a href="http://docs.livedoor.com/info/privacy.html">プライバシーポリシー</a></li>
+</ul>
+
+<p>&copy; LINE Corporation</p>
+</div>
+
+<script type="text/javascript">
+
+  var _gaq = _gaq || [];
+  _gaq.push(['_setAccount', 'UA-1638469-25']);
+  _gaq.push(['_setDomainName', 'member.livedoor.com']);
+  _gaq.push(['_trackPageview']);
+
+  (function() {
+    var ga = document.createElement('script'); ga.type = 'text/javascript'; ga.async = true;
+    ga.src = ('https:' == document.location.protocol ? 'https://ssl' : 'http://www') + '.google-analytics.com/ga.js';
+    var s = document.getElementsByTagName('script')[0]; s.parentNode.insertBefore(ga, s);
+  })();
+
+</script>
+
+</body>
+</html>
+

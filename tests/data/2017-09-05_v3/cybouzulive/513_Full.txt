@@ -1,0 +1,604 @@
+GET https://cybozulive.com/mpSchedule/daily?listDate=2017-02-24 HTTP/1.1
+Host: cybozulive.com
+User-Agent: Mozilla/5.0 (Windows NT 6.1; WOW64; rv:51.0) Gecko/20100101 Firefox/51.0
+Accept: text/html,application/xhtml+xml,application/xml;q=0.9,*/*;q=0.8
+Accept-Language: ja,en-US;q=0.7,en;q=0.3
+Referer: https://cybozulive.com/mpSchedule/latest?listDate=2017-02-24&displayFromFirstDay=
+Cookie: __ctc=0oDq2liqccNNXhKjCeuYAg==; __utma=224468744.859744565.1487565255.1487912475.1487916414.6; __utmz=224468744.1487909616.4.4.utmcsr=google|utmccn=(organic)|utmcmd=organic|utmctr=(not%20provided); _ga=GA1.2.859744565.1487565255; __utma=1.859744565.1487565255.1487565260.1487909691.2; __utmz=1.1487565260.1.1.utmcsr=(direct)|utmccn=(direct)|utmcmd=(none); JSESSIONID=8202C00492EBDFDA5BDC1BE1604744FD; __utmc=224468744; __utmc=1; __utmb=224468744.1.10.1487916414; __utmt=1
+Connection: close
+Upgrade-Insecure-Requests: 1
+
+
+HTTP/1.1 200 OK
+Server: nginx
+Date: Fri, 24 Feb 2017 06:08:01 GMT
+Content-Type: text/html;charset=UTF-8
+Transfer-Encoding: chunked
+Connection: close
+Vary: Accept-Encoding
+Cache-Control: private
+X-Cybozu-Status-Code: 200
+X-Frame-Options: SAMEORIGIN
+Strict-Transport-Security: max-age=315360000; includeSubDomains; preload;
+X-UA-Compatible: IE=Edge
+X-Content-Type-Options: nosniff
+X-XSS-Protection: 1; mode=block
+
+1b5c
+
+
+
+
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+<html xmlns="http://www.w3.org/1999/xhtml">
+<head>
+<meta http-equiv="content-type" content="text/html; charset=utf-8" />
+<meta http-equiv="content-style-type"  content="text/css" />
+<meta http-equiv="content-script-type" content="text/javascript" />
+<meta http-equiv="X-UA-Compatible" content="IE=edge" />
+<meta name="keywords" content="無料,グループウェア,プロジェクト,クラウド,PTA,イベント運営" />
+<meta name="description" content="サイボウズLiveは、グループチャットや掲示板、ファイル共有など、チーム運営に必要な機能がそろった「チームのためのグループウェア」です。すべて無料で利用できます。PTA、自治会、おやじの会、NPO、イベント運営、企業間プロジェクトなど、様々なシーンで利用できます。" />
+<meta http-equiv="Imagetoolbar" content="no" />
+
+<meta property="og:site_name" content="サイボウズLive" />
+<meta property="og:type" content="article" />
+<meta property="og:title" content="プロジェクトは情報共有で成功する : 無料コラボレーションツール サイボウズLive" />
+<meta property="og:image" content="https://cybozulive.com/static/11417123b1/images/og_image.png" />
+<meta property="og:description" content="サイボウズLiveは、グループチャットや掲示板、ファイル共有など、チーム運営に必要な機能がそろった「チームのためのグループウェア」です。すべて無料で利用できます。PTA、自治会、おやじの会、NPO、イベント運営、企業間プロジェクトなど、様々なシーンで利用できます。" />
+<meta property="og:url" content="https://cybozulive.com" />
+
+<link rel="stylesheet" type="text/css" href="https://cybozulive.com/static/11417123b1/css/common/base.css" media="screen" />
+<link rel="stylesheet" type="text/css" href="https://cybozulive.com/static/11417123b1/css/common/common.css" media="screen" />
+<link rel="stylesheet" type="text/css" href="https://cybozulive.com/static/11417123b1/css/common/lightbox.css" media="screen" />
+<link rel="stylesheet" type="text/css" href="https://cybozulive.com/static/11417123b1/css/common/colorbox.css" media="screen" />
+<link rel="stylesheet" type="text/css" href="https://cybozulive.com/static/11417123b1/css/error.css" media="screen" />
+<link rel="stylesheet" type="text/css" href="https://cybozulive.com/static/11417123b1/css/syntaxHighlighter/shCore.css" media="screen" />
+<link rel="stylesheet" type="text/css" href="https://cybozulive.com/static/11417123b1/css/syntaxHighlighter/shThemeDefault.css" media="screen" />
+<link rel="stylesheet" type="text/css" href="https://cybozulive.com/static/11417123b1/css/common/print.css" media="print" />
+<link rel="stylesheet" type="text/css" href="https://cybozulive.com/static/11417123b1/css/newCss/design/standard.css" media="screen" />
+
+            <link rel="stylesheet" type="text/css" href="https://cybozulive.com/static/11417123b1/css/ui.datepicker.css" media="screen,print" />
+            <link rel="stylesheet" type="text/css" href="https://cybozulive.com/static/11417123b1/css/application/schedule.css" media="screen,print" />
+    <link rel="stylesheet" type="text/css" href="https://cybozulive.com/static/11417123b1/css/smoothness/jquery-ui.css" media="screen" />
+<link rel="stylesheet" type="text/css" href="https://cybozulive.com/static/11417123b1/css/jquery.qtip.css" media="screen" />
+<link rel="stylesheet" type="text/css" href="https://cybozulive.com/static/11417123b1/css/error.css" media="screen" />
+
+<link rel="start" href="/" title="home" />
+<link rel="apple-touch-icon" href="https://cybozulive.com/static/11417123b1/images/iphone/apple-touch-icon.png" />
+
+                <title>マイカレンダー(日表示) - サイボウズLive</title>
+<link rel="shortcut icon" href="https://cybozulive.com/static/11417123b1/images/favicon.ico" /> 
+
+<script type="text/javascript">
+<!--
+var CbAries = window.CbAries || new Object();
+if( ! CbAries.Global )
+{
+    CbAries.Global = new Object;
+}
+
+CbAries.Global.cybozuStatus = 200;
+CbAries.Global.lastAccessDate = '';
+
+CbAries.Global.setStatic = function( path, param ) {
+    var result = 'https://cybozulive.com/static/11417123b1' + path + '';
+
+    if( typeof param !== "undefined" ) {
+        var match= new RegExp( "\\?" );
+        if( ''.match( match ) ) {
+            result += '&' + param;
+        } else {
+            result += '?' + param;
+        }
+    }
+
+    return result;
+};
+CbAries.Global.setRelative = function( path, param ) {
+    var result = '' + path + '';
+
+    if( typeof param !== "undefined" ) {
+        var match= new RegExp( "\\?" );
+        if( ''.match( match ) ) {
+            result += '&' + param;
+        } else {
+            result += '?' + param;
+        }
+    }
+
+    var match= new RegExp( "\\?" );
+    if( result.match( match ) ) {
+        result += '&dummy=' + new Date().getTime();
+    }
+    else {
+        result += '?dummy=' + new Date().getTime();
+    }
+
+    return result;
+};
+CbAries.Global.setAbsolute = function( path, param ) {
+    var result = 'https://cybozulive.com' + path + '';
+
+    if( typeof param !== "undefined" ) {
+        var match= new RegExp( "\\?" );
+        if( ''.match( match ) ) {
+            result += '&' + param;
+        } else {
+            result += '?' + param;
+        }
+    }
+
+    result = CbAries.Global.addDummyParam( result );
+
+    return result;
+};
+CbAries.Global.setPortalRelative = function( path, param ) {
+    var result = '' + path + '';
+
+    if( typeof param !== "undefined" ) {
+        var match= new RegExp( "\\?" );
+        if( ''.match( match ) ) {
+            result += '&' + param;
+        } else {
+            result += '?' + param;
+        }
+    }
+
+    result = CbAries.Global.addDummyParam( result );
+
+    return result;
+};
+CbAries.Global.addDummyParam = function( url )
+{
+    if( !url )
+    {
+        return url;
+    }
+    var match= new RegExp( "\\?" );
+    if( url.match( match ) ) {
+        url += '&dummy=' + new Date().getTime();
+    }
+    else {
+        url += '?dummy=' + new Date().getTime();
+    }
+    return url;
+};
+CbAries.Global.isGw = false;
+CbAries.Global.inline = true;
+  CbAries.Global.newCss = false;
+-->
+</script>
+
+
+<script type="text/javascript">
+<!--
+window.holidays = [ 1265814000000,1348239600000,1470841200000,1261494000000,1468767600000,1461855600000,1272466800000,1367161200000,1269183600000,1399302000000,1221404400000,1310914800000,1478098800000,1482418800000,1373814000000,1379257200000,1272985200000,1493910000000,1383404400000,1332169200000,1229958000000,1410706800000,1209826800000,1450796400000,1420038000000,1356966000000,1290438000000,1430838000000,1304348400000,1202655600000,1223823600000,1513954800000,1398697200000,1258902000000,1383490800000,1253631600000,1328886000000,1399042800000,1222095600000,1483282800000,1285167600000
+6d8
+,1442761200000,1505660400000,1279465200000,1483196400000,1351868400000,1452438000000,1225638000000,1430578800000,1419260400000,1392044400000,1286722800000,1318172400000,1230735600000,1209999600000,1458486000000,1342364400000,1353596400000,1462201200000,1205938800000,1395327600000,1367679600000,1442847600000,1387724400000,1234278000000,1240930800000,1227452400000,1489935600000,1479826800000,1284908400000,1502377200000,1414940400000,1509634800000,1455116400000,1325343600000,1349622000000,1500217200000,1458399600000,1253458800000,1200236400000,1367766000000,1262271600000,1255273200000,1426863600000,1241449200000,1335625200000,1451574000000,1389538800000,1446476400000,1420988400000,1399129200000,1320246000000,1506092400000,1336143600000,1237474800000,1321974000000,1272898800000,1336057200000,1379862000000,1248015600000,1367593200000,1269097200000,1300633200000,1462374000000,1381676400000,1474470000000,1462287600000,1360508400000,1293807600000,1358089200000,1304434800000,1326034800000,1444575600000,1448204400000,1356274800000,1411398000000,1199113200000,1483887600000,1241276400000,1272812400000,1241535600000,1304521200000,1209394800000,1288710000000,1367506800000,1316358000000,1399215600000,1430751600000,1507474800000,1293030000000,1324566000000,1227366000000,1304002800000,1325430000000,1297350000000,1486738800000,1437318000000,1241362800000,1294585200000,1385132400000,1335970800000,1253545200000,1430233200000,1257174000000,1430665200000,1416668400000,1442934000000,1209740400000,1388502000000,1511362800000,1356188400000,1413126000000,1231686000000,1316703600000,1474210800000,1493391600000,1209913200000,1263135600000,1493737200000,1476025200000,1335711600000,1347807600000,1423580400000,1416754800000,1405868400000,1363705200000,1
+2320
+493823600000,1216566000000];
+-->
+</script>
+</head>
+<body class="mypage mpSchedule FIREFOX FIREFOX_51 ja "><div class="globalNavi" data-interval="60">
+
+<table class="globalNavi__table">
+<tr>
+<th class="globalNavi__logo">
+    <a href="/">
+        <img src="https://cybozulive.com/static/11417123b1/images/newCss/globalNavi/brand-logo.png" alt="" />
+    </a>
+</th>
+<td class="globalNavi__menu globalNavi__menu--group">
+    <a href="javascript:void(0);" class="globalNavi__link globalNavi__link--menu globalNavi__link--groupware iconLink globalNavi__link--unselected" data-url="https://cybozulive.com/common/globalNavi/groupMenuAjax" data-type="group">
+        <img src="https://cybozulive.com/static/11417123b1/images/newCss/globalNavi/icon-group.png" alt="" class="globalNavi__icon" />
+        <span class="globalNavi__label">グループ</span>
+        <span>
+            <img src="https://cybozulive.com/static/11417123b1/images/newCss/globalNavi/sort-down.png" alt="メニューを開く" class="globalNavi__arrow" />
+        </span>
+    </a>
+</td>
+<td class="globalNavi__menu">
+    <a href="/mpSchedule/calendarSwitch?ref=header" class="globalNavi__link globalNavi__link--menu globalNavi__link--mpSchedule iconLink globalNavi__link--selected">
+        <img src="https://cybozulive.com/static/11417123b1/images/newCss/globalNavi/icon-calendar.png" alt="" class="globalNavi__icon" />
+        <span class="globalNavi__label">マイカレンダー</span>
+    </a>
+</td>
+<td class="globalNavi__menu">
+    <a href="/mpChat/list?ref=header" class="globalNavi__link globalNavi__link--menu globalNavi__link--mpChat iconLink globalNavi__link--unselected">
+        <img src="https://cybozulive.com/static/11417123b1/images/newCss/globalNavi/icon-chat.png" alt="" class="globalNavi__icon" />
+        <span class="globalNavi__label">チャット</span>
+    </a>
+</td>
+<td class="globalNavi__menu">
+    <a href="javascript:void(0);" class="globalNavi__link globalNavi__link--account globalNavi__link--menu iconLink globalNavi__link--unselected" data-url="https://cybozulive.com/common/globalNavi/accountMenuAjax" data-type="account">
+        <img src="https://cybozulive.com/static/11417123b1/images/newCss/globalNavi/icon-user.png" alt="" class="globalNavi__icon" />
+        <span class="globalNavi__label">アカウント</span>
+        <span>
+            <img src="https://cybozulive.com/static/11417123b1/images/newCss/globalNavi/sort-down.png" alt="メニューを開く" class="globalNavi__arrow" />
+        </span>
+    </a>
+</td>
+<td class="globalNavi__menu--blank"></td>
+<td class="globalNavi__menu--notification">
+    <a href="javascript:void(0);" class="globalNavi__link globalNavi__link--list globalNavi__link--update" title="新着情報" data-url="https://cybozulive.com/common/globalNavi/updateListAjax" data-type="update">
+        <span class="unreadMark unreadMark--confirmed" style="display: none;">0</span>
+        <img src="https://cybozulive.com/static/11417123b1/images/newCss/globalNavi/icon-bell.png" alt="新着情報" />
+    </a>
+</td>
+<td class="globalNavi__menu--notification">
+    <a href="javascript:void(0);" class="globalNavi__link globalNavi__link--list globalNavi__link--good" title="いいね！" data-url="https://cybozulive.com/common/globalNavi/goodListAjax" data-type="good">
+        <span class="unreadMark" style="display: none;">0</span>
+        <img src="https://cybozulive.com/static/11417123b1/images/newCss/globalNavi/icon-good.png" alt="いいね！" />
+    </a>
+</td>
+<td class="globalNavi__menu--notification">
+    <a href="javascript:void(0);" class="globalNavi__link globalNavi__link--list globalNavi__link--star" title="お気に入り" data-url="https://cybozulive.com/common/globalNavi/starListAjax" data-type="star">
+        <span class="unreadMark unreadMark--confirmed" style="display: none;">0</span>
+        <img src="https://cybozulive.com/static/11417123b1/images/newCss/globalNavi/icon-star.png" alt="お気に入り" />
+    </a>
+</td>
+</tr>
+</table>
+</div>
+<div id="body">
+
+<div class="breadcrumb">
+<ul>
+<li><a href="/"><span>ホーム</span></a></li><li class='active'>マイカレンダー（日表示）</li>
+</ul>
+</div>
+
+
+<div class="bodyArea full">
+<div class="bodyAreaWrapper">
+
+<div class="funcMenuBlock">
+    <div class="funcMenuFrame">
+        <div class="menu last">
+            <a href="/mpSchedule/add?listType=daily&amp;listDate=2017-02-24&amp;entryDate=2017-02-24" class="iconLink" title="予定を登録する"><img src="https://cybozulive.com/static/11417123b1/images/write20.gif" alt="作成する" class="icon" /><span>予定を登録する</span></a>
+        </div>
+    </div>
+</div>
+
+
+<div id="scheduleCalendar" class="scheduleDaily">
+    
+<ul class="tab">
+<li  class="active" ><p><a href="/mpSchedule/daily?listDate=2017-02-24" title="日表示">日表示</a></p></li>
+<li ><p><a href="/mpSchedule/weekly?listDate=2017-02-24" title="週表示">週表示</a></p></li>
+<li ><p><a href="/mpSchedule/monthly?listDate=2017-02-24" title="月表示">月表示</a></p></li>
+<li ><p><a href="/mpSchedule/agenda?listDate=2017-02-24" title="一覧表示">一覧表示</a></p></li>
+<li ><p><a href="/mpSchedule/latest?listDate=2017-02-24" title="新着情報">新着情報</a></p></li>
+</ul>    <div class="contentsFrame tabContents">
+                
+
+<input type="hidden" id="scheduleListDate" value="2017-02-24" />
+<input type="hidden" id="calendarStartHour" value="8" />
+<input type="hidden" id="calendarEndHour" value="19" />
+
+<div class="calendarMenu selfclear">
+<div class="sub selfclear">
+<p class="displayDate" id="cba_scheduleDisplayDateText">2017年2月24日(金)</p>
+</div>
+
+
+<div class="scheduleNavi daily button--navi" data-url="/mpSchedule/daily?displayFromFirstDay=false">
+<div class="navi">
+<a href="javascript:void(0);" class="button--navi__operation" data-target-date="2017-02-17"><img src="https://cybozulive.com/static/11417123b1/images/arrow/left2.gif" alt="" /><span>先週</span></a>
+<a href="javascript:void(0);" class="button--navi__operation" data-target-date="2017-02-23"><img src="https://cybozulive.com/static/11417123b1/images/arrow/left.gif" alt="" /><span>前日</span></a>
+<a href="javascript:void(0);" class="button--navi__operation" data-target-date="2017-02-24"><span>今日</span></a>
+<a href="javascript:void(0);" class="button--navi__operation" data-target-date="2017-02-25"><span>翌日</span><img src="https://cybozulive.com/static/11417123b1/images/arrow/right.gif" alt="" /></a>
+<a href="javascript:void(0);" class="button--navi__operation" data-target-date="2017-03-03"><span>翌週</span><img src="https://cybozulive.com/static/11417123b1/images/arrow/right2.gif" alt="" /></a>
+</div>
+<div class="datepicker">
+<input type="hidden" id="dateinput" value="" disabled="disabled" />
+</div>
+</div>
+</div>
+
+
+<div class="calendarFrame">
+<div class="calendar">
+<table class="calendar selectable">
+<tbody class="dailyCalendar">
+<tr class="hour">
+    <td class="borderL"></td>
+            <th colspan="6" class="borderL   morning
+ ">8</th>
+            <th colspan="6" class="borderL   morning
+ ">9</th>
+            <th colspan="6" class="borderL   morning
+ ">10</th>
+            <th colspan="6" class="borderL   morning
+ ">11</th>
+            <th colspan="6" class="borderL   afternoon
+ ">12</th>
+            <th colspan="6" class="borderL   afternoon
+ ">13</th>
+            <th colspan="6" class="borderL   afternoon
+ ">14</th>
+            <th colspan="6" class="borderL   afternoon
+ ">15</th>
+            <th colspan="6" class="borderL   afternoon
+ ">16</th>
+            <th colspan="6" class="borderL   afternoon
+ ">17</th>
+            <th colspan="6" class="borderL   evening
+ ">18</th>
+            <th colspan="6" class="borderL   evening
+  last ">19</th>
+    </tr>
+<tr class="scale">
+    <td class="borderL"></td>
+                        <td class="  morning
+ borderL timeSelectable"><span class="hour 8"></span><span class="minute 00"></span></td>
+                    <td class="  morning
+  timeSelectable"><span class="hour 8"></span><span class="minute 10"></span></td>
+                    <td class="  morning
+  timeSelectable"><span class="hour 8"></span><span class="minute 20"></span></td>
+                    <td class="  morning
+  timeSelectable"><span class="hour 8"></span><span class="minute 30"></span></td>
+                    <td class="  morning
+  timeSelectable"><span class="hour 8"></span><span class="minute 40"></span></td>
+                    <td class="  morning
+  timeSelectable"><span class="hour 8"></span><span class="minute 50"></span></td>
+                                <td class="  morning
+ borderL timeSelectable"><span class="hour 9"></span><span class="minute 00"></span></td>
+                    <td class="  morning
+  timeSelectable"><span class="hour 9"></span><span class="minute 10"></span></td>
+                    <td class="  morning
+  timeSelectable"><span class="hour 9"></span><span class="minute 20"></span></td>
+                    <td class="
+2320
+  morning
+  timeSelectable"><span class="hour 9"></span><span class="minute 30"></span></td>
+                    <td class="  morning
+  timeSelectable"><span class="hour 9"></span><span class="minute 40"></span></td>
+                    <td class="  morning
+  timeSelectable"><span class="hour 9"></span><span class="minute 50"></span></td>
+                                <td class="  morning
+ borderL timeSelectable"><span class="hour 10"></span><span class="minute 00"></span></td>
+                    <td class="  morning
+  timeSelectable"><span class="hour 10"></span><span class="minute 10"></span></td>
+                    <td class="  morning
+  timeSelectable"><span class="hour 10"></span><span class="minute 20"></span></td>
+                    <td class="  morning
+  timeSelectable"><span class="hour 10"></span><span class="minute 30"></span></td>
+                    <td class="  morning
+  timeSelectable"><span class="hour 10"></span><span class="minute 40"></span></td>
+                    <td class="  morning
+  timeSelectable"><span class="hour 10"></span><span class="minute 50"></span></td>
+                                <td class="  morning
+ borderL timeSelectable"><span class="hour 11"></span><span class="minute 00"></span></td>
+                    <td class="  morning
+  timeSelectable"><span class="hour 11"></span><span class="minute 10"></span></td>
+                    <td class="  morning
+  timeSelectable"><span class="hour 11"></span><span class="minute 20"></span></td>
+                    <td class="  morning
+  timeSelectable"><span class="hour 11"></span><span class="minute 30"></span></td>
+                    <td class="  morning
+  timeSelectable"><span class="hour 11"></span><span class="minute 40"></span></td>
+                    <td class="  morning
+  timeSelectable"><span class="hour 11"></span><span class="minute 50"></span></td>
+                                <td class="  afternoon
+ borderL timeSelectable"><span class="hour 12"></span><span class="minute 00"></span></td>
+                    <td class="  afternoon
+  timeSelectable"><span class="hour 12"></span><span class="minute 10"></span></td>
+                    <td class="  afternoon
+  timeSelectable"><span class="hour 12"></span><span class="minute 20"></span></td>
+                    <td class="  afternoon
+  timeSelectable"><span class="hour 12"></span><span class="minute 30"></span></td>
+                    <td class="  afternoon
+  timeSelectable"><span class="hour 12"></span><span class="minute 40"></span></td>
+                    <td class="  afternoon
+  timeSelectable"><span class="hour 12"></span><span class="minute 50"></span></td>
+                                <td class="  afternoon
+ borderL timeSelectable"><span class="hour 13"></span><span class="minute 00"></span></td>
+                    <td class="  afternoon
+  timeSelectable"><span class="hour 13"></span><span class="minute 10"></span></td>
+                    <td class="  afternoon
+  timeSelectable"><span class="hour 13"></span><span class="minute 20"></span></td>
+                    <td class="  afternoon
+  timeSelectable"><span class="hour 13"></span><span class="minute 30"></span></td>
+                    <td class="  afternoon
+  timeSelectable"><span class="hour 13"></span><span class="minute 40"></span></td>
+                    <td class="  afternoon
+  timeSelectable"><span class="hour 13"></span><span class="minute 50"></span></td>
+                                <td class="  afternoon
+ borderL timeSelectable"><span class="hour 14"></span><span class="minute 00"></span></td>
+                    <td class="  afternoon
+  timeSelectable"><span class="hour 14"></span><span class="minute 10"></span></td>
+                    <td class="  afternoon
+  timeSelectable"><span class="hour 14"></span><span class="minute 20"></span></td>
+                    <td class="  afternoon
+  timeSelectable"><span class="hour 14"></span><span class="minute 30"></span></td>
+                    <td class="  afternoon
+  timeSelectable"><span class="hour 14"></span><span class="minute 40"></span></td>
+                    <td class="  afternoon
+  timeSelectable"><span class="hour 14"></span><span class="minute 50"></span></td>
+                                <td class="  afternoon
+ borderL timeSelectable"><span class="hour 15"></span><span class="minute 00"></span></td>
+                    <td class="  afternoon
+  timeSelectable"><span class="hour 15"></span><span class="minute 10"></span></td>
+                    <td class="  afternoon
+  timeSelectable"><span class="hour 15"></span><span class="minute 20"></span></td>
+                    <td class="  afternoon
+  timeSelectable"><span class="hour 15"></span><span class="minute 30"></span></td>
+                    <td class="  afternoon
+  timeSelectable"><span class="hour 15"></span><span class="minute 40"></span></td>
+                    <td class="  afternoon
+  timeSelectable"><span class="hour 15"></span><span class="minute 50"></span></td>
+                                <td class="  afternoon
+ borderL timeSelectable"><span class="hour 16"></span><span class="minute 00"></span></td>
+                    <td class="  afternoon
+  timeSelectable"><span class="hour 16"></span><span class="minute 10"></span></td>
+                    <td class="  afternoon
+  timeSelectable"><span class="hour 16"></span><span class="minute 20"></span></td>
+                    <td class="  afternoon
+  timeSelectable"><span class="hour 16"></span><span class="minute 30"></span></td>
+                    <td class="  afternoon
+  timeSelectable"><span class="hour 16"></span><span class="minute 40"></span></td>
+                    <td class="  afternoon
+  timeSelectable"><span class="hour 16"></span><span class="minute 50"></span></td>
+                                <td class="  afternoon
+ borderL timeSelectable"><span class="hour 17"></span><span class="minute 00"></span></td>
+                    <td class="  afternoon
+  timeSelectable"><span class="hour 17"></span><span class="minute 10"></span></td>
+                    <td class="  afternoon
+  timeSelectable"><span class="hour 17"></span><span class="minute 20"></span></td>
+                    <td class="  afternoon
+  timeSelectable"><span class="hour 17"></span><span class="minute 30"></span></td>
+                    <td class="  afternoon
+  timeSelectable"><span class="hour 17"></span><span class="minute 40"></span></td>
+                    <td class="  afternoon
+  timeSelectable"><span class="hour 17"></span><span class="minute 50"></span></td>
+                                <td class="  evening
+ borderL timeSelectable"><span class="hour 18"></span><span class="minute 00"></span></td>
+                    <td class="  evening
+  timeSelectable"><span class="hour 18"></span><span class="minute 10"></span></td>
+                    <td class="  evening
+  timeSelectable"><span class="hour 18"></span><span class="minute 20"></span></td>
+                    <td class="  evening
+  timeSelectable"><span class="hour 18"></span><span class="minute 30"></span></td>
+                    <td class="  evening
+  timeSelectable"><span class="hour 18"></span><span class="minute 40"></span></td>
+                    <td class="  evening
+  timeSelectable"><span class="hour 18"></span><span class="minute 50"></span></td>
+                                <td class="  evening
+ borderL timeSelectable"><span class="hour 19"></span><span class="minute 00"></span></td>
+                    <td class="  evening
+  timeSelectable"><span class="hour 19"></span><span class="minute 10"></span></td>
+                    <td class="  evening
+  timeSelectable"><span class="hour 19"></span><span class="minute 20"></span></td>
+                    <td class="  evening
+  timeSelectable"><span class="hour 19"></span><span class="minute 30"></span></td>
+                    <td class="  evening
+  timeSelectable"><span class="hour 19"></span><span class="minute 40"></span></td>
+                    <td class="  evening
+  timeSelectable"><span class="hour 19"></span><span class="minute 50"></span></td>
+            </tr>
+</tbody>
+<tbody class="dailyCalendar selectingAdd">
+<tr class="daily dailyNormal dailyHeadLine">
+                <td class="person borderL memberUnit"  rowspan="2">                                                                                    <a href="/mpConfiguration/profile/view" class="profileLb iconLink" id="profile_1:962829" title="高橋 英紀">
+                                            <img src="/11417123b1/icon/member/1:962829_1:971721_1487911335000.jpg" width="20" height="15" style="padding:2px 0px 2px 0px;" alt="" class="icon" />
+                <span class="name">高橋 英紀</span>    </a>                        <p class="tool">
+        <a href="/mpSchedule/monthly?listDate=2017-02-01" class="iconLink scheduleLink" title="月予定へ"><img src="https://cybozulive.com/static/11417123b1/images/cal_pmon20.gif" alt="" class="icon" /><span>�
+2340
+�予定</span></a>
+    </p>
+</td>
+                            <td class="hourScale nobooked borderL" id="scheduleDaily_0_MEMBER_1:962829_2017-02-24T8:0"></td>
+                    <td class=" nobooked " id="scheduleDaily_0_MEMBER_1:962829_2017-02-24T8:10"></td>
+                    <td class=" nobooked " id="scheduleDaily_0_MEMBER_1:962829_2017-02-24T8:20"></td>
+                    <td class="halfHourScale nobooked " id="scheduleDaily_0_MEMBER_1:962829_2017-02-24T8:30"></td>
+                    <td class=" nobooked " id="scheduleDaily_0_MEMBER_1:962829_2017-02-24T8:40"></td>
+                    <td class=" nobooked " id="scheduleDaily_0_MEMBER_1:962829_2017-02-24T8:50"></td>
+                    <td class="hourScale nobooked " id="scheduleDaily_0_MEMBER_1:962829_2017-02-24T9:0"></td>
+                    <td class=" nobooked " id="scheduleDaily_0_MEMBER_1:962829_2017-02-24T9:10"></td>
+                    <td class=" nobooked " id="scheduleDaily_0_MEMBER_1:962829_2017-02-24T9:20"></td>
+                    <td class="halfHourScale nobooked " id="scheduleDaily_0_MEMBER_1:962829_2017-02-24T9:30"></td>
+                    <td class=" nobooked " id="scheduleDaily_0_MEMBER_1:962829_2017-02-24T9:40"></td>
+                    <td class=" nobooked " id="scheduleDaily_0_MEMBER_1:962829_2017-02-24T9:50"></td>
+                    <td class="hourScale nobooked " id="scheduleDaily_0_MEMBER_1:962829_2017-02-24T10:0"></td>
+                    <td class=" nobooked " id="scheduleDaily_0_MEMBER_1:962829_2017-02-24T10:10"></td>
+                    <td class=" nobooked " id="scheduleDaily_0_MEMBER_1:962829_2017-02-24T10:20"></td>
+                    <td class="halfHourScale nobooked " id="scheduleDaily_0_MEMBER_1:962829_2017-02-24T10:30"></td>
+                    <td class=" nobooked " id="scheduleDaily_0_MEMBER_1:962829_2017-02-24T10:40"></td>
+                    <td class=" nobooked " id="scheduleDaily_0_MEMBER_1:962829_2017-02-24T10:50"></td>
+                    <td class="hourScale nobooked " id="scheduleDaily_0_MEMBER_1:962829_2017-02-24T11:0"></td>
+                    <td class=" nobooked " id="scheduleDaily_0_MEMBER_1:962829_2017-02-24T11:10"></td>
+                    <td class=" nobooked " id="scheduleDaily_0_MEMBER_1:962829_2017-02-24T11:20"></td>
+                    <td class="halfHourScale nobooked " id="scheduleDaily_0_MEMBER_1:962829_2017-02-24T11:30"></td>
+                    <td class=" nobooked " id="scheduleDaily_0_MEMBER_1:962829_2017-02-24T11:40"></td>
+                    <td class=" nobooked " id="scheduleDaily_0_MEMBER_1:962829_2017-02-24T11:50"></td>
+                    <td class="hourScale nobooked " id="scheduleDaily_0_MEMBER_1:962829_2017-02-24T12:0"></td>
+                    <td class=" nobooked " id="scheduleDaily_0_MEMBER_1:962829_2017-02-24T12:10"></td>
+                    <td class=" nobooked " id="scheduleDaily_0_MEMBER_1:962829_2017-02-24T12:20"></td>
+                    <td class="halfHourScale nobooked " id="scheduleDaily_0_MEMBER_1:962829_2017-02-24T12:30"></td>
+                    <td class=" nobooked " id="scheduleDaily_0_MEMBER_1:962829_2017-02-24T12:40"></td>
+                    <td class=" nobooked " id="scheduleDaily_0_MEMBER_1:962829_2017-02-24T12:50"></td>
+                    <td class="hourScale nobooked " id="scheduleDaily_0_MEMBER_1:962829_2017-02-24T13:0"></td>
+                    <td class=" nobooked " id="scheduleDaily_0_MEMBER_1:962829_2017-02-24T13:10"></td>
+                    <td class=" nobooked " id="scheduleDaily_0_MEMBER_1:962829_2017-02-24T13:20"></td>
+                    <td class="halfHourScale nobooked " id="scheduleDaily_0_MEMBER_1:962829_2017-02-24T13:30"></td>
+                    <td class=" nobooked " id="scheduleDaily_0_MEMBER_1:962829_2017-02-24T13:40"></td>
+                    <td class=" nobooked " id="scheduleDaily_0_MEMBER_1:962829_2017-02-24T13:50"></td>
+                    <td class="hourScale nobooked " id="scheduleDaily_0_MEMBER_1:962829_2017-02-24T14:0"></td>
+                    <td class=" nobooked " id="scheduleDaily_0_MEMBER_1:962829_2017-02-24T14:10"></td>
+                    <td class=" nobooked " id="scheduleDaily_0_MEMBER_1:962829_2017-02-24T14:20"></td>
+                    <td class="halfHourScale nobooked " id="scheduleDaily_0_MEMBER_1:962829_2017-02-24T14:30"></td>
+                    <td class=" nobooked " id="scheduleDaily_0_MEMBER_1:962829_2017-02-24T14:40"></td>
+                    <td class=" nobooked " id="scheduleDaily_0_MEMBER_1:962829_2017-02-24T14:50"></td>
+                    <td class="hourScale nobooked " id="scheduleDaily_0_MEMBER_1:962829_2017-02-24T15:0"></td>
+                    <td class=" nobooked " id="scheduleDaily_0_MEMBER_1:962829_2017-02-24T15:10"></td>
+                    <td class=" nobooked " id="scheduleDaily_0_MEMBER_1:962829_2017-02-24T15:20"></td>
+                    <td class="halfHourScale nobooked " id="scheduleDaily_0_MEMBER_1:962829_2017-02-24T15:30"></td>
+                    <td class=" nobooked " id="scheduleDaily_0_MEMBER_1:962829_2017-02-24T15:40"></td>
+                    <td class=" nobooked " id="scheduleDaily_0_MEMBER_1:962829_2017-02-24T15:50"></td>
+                    <td class="hourScale nobooked " id="scheduleDaily_0_MEMBER_1:962829_2017-02-24T16:0"></td>
+                    <td class=" nobooked " id="scheduleDaily_0_MEMBER_1:962829_2017-02-24T16:10"></td>
+                    <td class=" nobooked " id="scheduleDaily_0_MEMBER_1:962829_2017-02-24T16:20"></td>
+                    <td class="halfHourScale nobooked " id="scheduleDaily_0_MEMBER_1:962829_2017-02-24T16:30"></td>
+                    <td class=" nobooked " id="scheduleDaily_0_MEMBER_1:962829_2017-02-24T16:40"></td>
+                    <td class=" nobooked " id="scheduleDaily_0_MEMBER_1:962829_2017-02-24T16:50"></td>
+                    <td class="hourScale nobooked " id="scheduleDaily_0_MEMBER_1:962829_2017-02-24T17:0"></td>
+                    <td class=" nobooked " id="scheduleDaily_0_MEMBER_1:962829_2017-02-24T17:10"></td>
+                    <td class=" nobooked " id="scheduleDaily_0_MEMBER_1:962829_2017-02-24T17:20"></td>
+                    <td class="halfHourScale nobooked " id="scheduleDaily_0_MEMBER_1:962829_2017-02-24T17:30"></td>
+                    <td class=" nobooked " id="scheduleDaily_0_MEMBER_1:962829_2017-02-24T17:40"></td>
+                    <td class=" nobooked " id="scheduleDaily_0_MEMBER_1:962829_2017-02-24T17:50"></td>
+                    <td class="hourScale nobooked " id="scheduleDaily_0_MEMBER_1:962829_2017-02-24T18:0"></td>
+                    <td class=" nobooked " id="scheduleDaily_0_MEMBER_1:962829_2017-02-24T18:10"></td>
+                    <td class=" nobooked " id="scheduleDaily_0_MEMBER_1:962829_2017-02-24T18:20"></td>
+                    <td class="halfHourScale nobooked " id="scheduleDaily_0_MEMBER_1:962829_2017-02-24T18:30"></td>
+                    <td class=" nobooked " id="scheduleDaily_0_MEMBER_1:962829_2017-02-24T18:40"></td>
+                    <td class=" nobooked " id="scheduleDaily_0_MEMBER_1:962829_2017-02-24T18:50"></td>
+                    <td class="hourScale nobooked " id="scheduleDaily_0_MEMBER_1:962829_2017-02-24T19:0"></td>
+                    <td class=" nobooked " id="scheduleDaily_0_MEMBER_1:962829_2017-02-24T19:10"></td>
+                    <td class=" nobooked " id="scheduleDaily_0_MEMBER_1:962829_2017-02-24T19:20"></td>
+                    <td class="halfHourScale nobooked " id="scheduleDaily_0_MEMBER_1:962829_2017-02-24T19:30"></td>
+                    <td class=" nobooked " id="scheduleDaily_0_MEMBER_1:962829_2017-02-24T19:40"></td>
+                    <td class=" nobooked " id="scheduleDaily_0_MEMBER_1:962829_2017-02-24T19:50"></td>
+            </tr>
+
+
+    <tr class="daily dailyAllday " >
+        <td colspan="72" class="booked borderL">
+                <div class="event eventId_1:64510821 selfclear  all " style="border-left: none">
+                                            <span class="eventTitle">
+            <a href="/mpSchedule/view?eid=1%3A64510821&amp;viewDate=2017-02-24&amp;listType=daily&amp;listDate=2017-02-24&amp;displayFromFirstDay=false" class="scheduleViewTip iconLink" data-url="/mpSchedule/viewTip?eid=1%3A64510821&amp;viewDate=2017-02-24&amp;listType=daily&amp;listDate=2017-02-24&amp;displayFromFirstDay=false">
+            <span class="">てすと</span>            </a>
+        </span>
+</div>
+        </td>
+    </tr>
+        
+
+
+
+</tbody>
+</table>
+</div>
+</div>
+    </div>
+</div>
+
+<div class="btnBackHome">
+    <span class="backLink"><a href="/"><img src='https://cybozulive.com/static/11417123b1/images/backlink20.gif' alt='戻る' class='icon' /><span>ホームへ</span></a></span>
+</div>
+
+</div>
+</div>
+
+</div>    <script>
+        var require = {
+            baseUrl: "https://cybozulive.com/static/11417123b1/js/src"
+        };
+    </script>
+            <script src="https://cybozulive.com/static/11417123b1/js/require-jquery.js" data-main="../built/schedule/mp/listMain" type="text/javascript"></script>
+</body>
+</html>
+0
+

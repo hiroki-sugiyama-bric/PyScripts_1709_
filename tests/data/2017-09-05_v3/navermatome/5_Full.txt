@@ -1,0 +1,34 @@
+POST https://ssl.naver.jp/registerAccount HTTP/1.1
+Host: ssl.naver.jp
+User-Agent: Mozilla/5.0 (Windows NT 6.1; WOW64; rv:43.0) Gecko/20100101 Firefox/43.0
+Accept: text/html,application/xhtml+xml,application/xml;q=0.9,*/*;q=0.8
+Accept-Language: ja,en-US;q=0.7,en;q=0.3
+Accept-Encoding: gzip, deflate
+Referer: https://ssl.naver.jp/join?fromUrl=https%3A%2F%2Fmatome.naver.jp%2F
+Cookie: naver_usersession=I3GLFZIymVgAACFIa2U; _ga=GA1.2.424435795.1487670020; _gat=1; NNB=N2DM6D4JBKWFQ; NJ-App-Accept-Language=ja_JP; JSESSIONID=E164C232CE6B954804A4B978922135FB
+Connection: close
+Content-Type: application/x-www-form-urlencoded
+Content-Length: 197
+Proxy-Authorization: Basic b25ldHVzZXI6RDJMR1ZV
+
+fromUrl=https%3A%2F%2Fmatome.naver.jp%2F&certKey=&captchaKey=&kodamaUser.nickname=test9999999&kodamaUser.email=hitakahashi9999%40gmail.com&kodamaUser.password=Password001&kodamaUser.newsletterflg=N
+HTTP/1.1 302 Moved Temporarily
+Date: Tue, 21 Feb 2017 09:42:45 GMT
+Server: Apache
+X-XRDS-Location: https://ssl.naver.jp/xrds
+Set-Cookie: page_uid=T6w7DNWombZsstoRCoNsssssstK-434141; path=/; domain=.naver.com
+Set-Cookie: naver_usersession=I3GLFZIymVgAACFIa2U; path=/; expires=Thu, 10-Nov-60 07:48:52 GMT; domain=.naver.jp
+Set-Cookie: NJ-App-Accept-Language=ja_JP; Path=/
+Set-Cookie: njid_inf=veDJns3BrfeGg9CYeHeTGKaUr8jje7chmvNgJ9caHESRGHr8Dz2H7cIKw6y47EyeIbpfM63rX07cJcwgS_hygkuE-1Jt0sYpNCj9VNvokW4GB6VbEf9lnESSQEqwY9Ca1Wgv7Ax1b2OVgoxAUpsfKp5WFxxWJ2viLiB2fbYKyMA=; Domain=naver.jp; Path=/
+Set-Cookie: NJID_AUT=D/rgtnBiCxy5KBq2hCLe3rH6+olPrhgiHDa71zFG7GyJjuhoE1MMRW+9SgjZ68+nLb8DZgO6/0/eFW8ZDOF5iad5/nd7bl6MUIC7qj2wTBik1u4proTJZwN5k2mEdVuC1QaHsKXXHw2ya8d26/Du+rEgF5WRNZVAV0SOy4FMsxfP85xjmNhgDtPholq2pU0EbmvGyVSB1oQMI1PXk/nCWsA3xtbDMS0tzAYEGk7gR9R/hhAFQ7ufDVm5/EtTv/3avurPk5iDfFvHkhskwAIOv0O9NO0QKvk8lI87LL27d8UZyrVKgIu1Y6k27IHyJeCExWY/vuMJHScMqtUM6kAvR7kPqXW4izQE0n+aokJ/3KdOFI7FdwWGD8Fd6RhVJXSYTSjF4+LRaaiwvQAeA6oSFE6E8549v58CcyI6z3dUbZI=; Domain=.naver.jp; Path=/
+Location: https://ssl.naver.jp/complete?fromUrl=https%3A%2F%2Fmatome.naver.jp%2F&from=&userEmail=hitakahashi9999%40gmail.com
+Vary: Accept-Encoding,User-Agent
+P3P: CP="ALL CURa ADMa DEVa TAIa OUR BUS IND PHY ONL UNI PUR FIN COM NAV INT DEM CNT STA POL HEA PRE LOC OTC"
+Cache-Control: no-store, no-cache, must-revalidate, post-check=0, pre-check=0
+Cache-Control: no-store, no-cache, must-revalidate, post-check=0, pre-check=0
+Pragma: no-cache
+Expires: -1
+Connection: close
+Content-Type: text/plain; charset=UTF-8
+Content-Length: 0
+

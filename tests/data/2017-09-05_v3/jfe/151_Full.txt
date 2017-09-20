@@ -1,0 +1,151 @@
+GET https://wingaia-spider.jp/app/Account/Login?ReturnUrl=%2Fapp%2F HTTP/1.1
+Host: wingaia-spider.jp
+Connection: close
+Upgrade-Insecure-Requests: 1
+User-Agent: Mozilla/5.0 (Windows NT 10.0; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/55.0.2883.87 Safari/537.36
+Accept: text/html,application/xhtml+xml,application/xml;q=0.9,image/webp,*/*;q=0.8
+Accept-Encoding: gzip, deflate, sdch, br
+Accept-Language: ja,en-US;q=0.8,en;q=0.6
+
+
+HTTP/1.1 200 OK
+Cache-Control: private
+Content-Type: text/html; charset=utf-8
+Server: Microsoft-IIS/7.5
+X-AspNetMvc-Version: 5.2
+X-Frame-Options: SAMEORIGIN
+X-AspNet-Version: 4.0.30319
+Set-Cookie: __RequestVerificationToken_L2FwcA2=aecpplWqtcoZIwVfTA8d59zF4bfWUwVpwrtIGenB3gaLB1Z16Z9vurZy2R13W2B2DZXTji_q3Ad-XPJM7uUU4sUWFOsCREHeZc9Ekwaq_i01; path=/; HttpOnly
+X-Powered-By: ASP.NET
+Date: Wed, 01 Feb 2017 07:51:56 GMT
+Connection: close
+Content-Length: 6569
+
+<!DOCTYPE html>
+<html lang="ja">
+<head>
+<meta http-equiv="Content-Type" content="text/html; charset=utf-8"/>
+    <meta charset="utf-8" />
+    <meta name="robots" content="noindex">
+    <title>ログイン - Win GAIA&reg; クラウドサービス</title>
+    <link href="/app/favicon.ico" rel="shortcut icon" type="image/x-icon" />
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <script>g_approot = "/app/";</script>
+    <link href="/app/Content/css?v=Z1mR2S1v7fB9yCSzS04KJ__vBaRg0gC4DGukH18ZTm41" rel="stylesheet"/>
+
+    <link href="/app/Content/jqueryui?v=B9u02Nr5_AZvPWpAA-ftrLOS_TI-XCsZIunD7YRgagQ1" rel="stylesheet"/>
+
+    <link href="/app/Content/zoom?v=E5fLEdnxsNVDYwlGGGdYcbWv2tlIiyiLqo5NHcYYmE81" rel="stylesheet"/>
+
+    <script src="/app/bundles/modernizr?v=wBEWDufH_8Md-Pbioxomt90vm6tJN2Pyy9u9zHtWsPo1"></script>
+
+<script>
+  (function(i,s,o,g,r,a,m){i['GoogleAnalyticsObject']=r;i[r]=i[r]||function(){
+  (i[r].q=i[r].q||[]).push(arguments)},i[r].l=1*new Date();a=s.createElement(o),
+  m=s.getElementsByTagName(o)[0];a.async=1;a.src=g;m.parentNode.insertBefore(a,m)
+  })(window,document,'script','https://www.google-analytics.com/analytics.js','ga');
+
+  ga('create', 'UA-82185226-2', 'auto');
+  ga('send', 'pageview');
+
+</script></head>
+<body>
+    <div class="navbar navbar-inverse navbar-fixed-top">
+        <div class="container">
+            <div class="navbar-header">
+                <button type="button" class="navbar-toggle" data-toggle="collapse" data-target=".navbar-collapse">
+                    <span class="icon-bar"></span>
+                    <span class="icon-bar"></span>
+                    <span class="icon-bar"></span>
+                </button>
+
+                <a href="/app/" class="navbar-brand">Win GAIA<span class="r-mark">&reg;</span> クラウドサービス</a>
+            </div>
+            <div class="navbar-collapse collapse">
+                    <ul class="nav navbar-nav navbar-right">
+        <li><a href="https://winmuse.jp/inquiry/form/" target="new">お問い合わせ</a></li>
+        <li><a href="/app/Account/Login" id="loginLink">ログイン</a></li>
+    </ul>
+
+            </div>
+        </div>
+    </div>
+    <div class="container body-content">
+        
+
+
+<h2>ログイン</h2>
+<div class="row">
+    <div class="col-md-8">
+        <section id="loginForm">
+<form action="/app/Account/Login?ReturnUrl=%2Fapp%2F" class="form-horizontal" method="post" role="form"><input name="__RequestVerificationToken" type="hidden" value="z9vigsB8aEiD0yZ-5hrWORt845wRGuDKOFChjYOfZAZ2Gohi3RYyUUB_HFfFY46X8nv5VdbVXUgvuQByYjmoVPWYD58yaZW8q4i6i9nInX01" />                <h5>Win GAIA<span class="r-mark">&reg;</span> Spider ご契約者様、または Win GAIA<span class="r-mark">&reg;</span> Lite ご契約者様は、こちらからログインしてください。</h5>
+                <h6><a href="/app/Account/RegisterDemo">Win GAIA&#174; Spider のトライアル登録はこちら</a></h6>
+                <h6><a href="/app/ModelTemplates/CatalogIndex" target="_blank">Win GAIA&#174; Spider で利用できるモデルテンプレートのカタログはこちら</a></h6>
+                <hr />
+                <div class="form-group">
+                    <label class="col-md-2 control-label" for="Email">電子メール</label>
+                    <div class="col-md-10">
+                        <input class="form-control" data-val="true" data-val-email="The 電子メール field is not a valid e-mail address." data-val-required="The 電子メール field is required." id="Email" name="Email" type="text" value="" />
+                        <span class="field-validation-valid text-danger" data-valmsg-for="Email" data-valmsg-replace="true"></span>
+                    </div>
+                </div>
+                <div class="form-group">
+                    <label class="col-md-2 control-label" for="Password">パスワード</label>
+                    <div class="col-md-10">
+                        <input class="form-control" data-val="true" data-val-required="The パスワード field is required." id="Password" name="Password" type="password" />
+                        <span class="field-validation-valid text-danger" data-valmsg-for="Password" data-valmsg-replace="true"></span>
+                    </div>
+                </div>
+                <div class="form-group">
+                    <div class="col-md-offset-2 col-md-10">
+                        <div class="checkbox">
+                            <input data-val="true" data-val-required="The ログイン状態を保持する field is required." id="RememberMe" name="RememberMe" type="checkbox" value="true" /><input name="RememberMe" type="hidden" value="false" />
+                            <label for="RememberMe">ログイン状態を保持する</label>
+                        </div>
+                    </div>
+                </div>
+                <div class="form-group">
+                    <div class="col-md-offset-2 col-md-10">
+                        <input type="submit" value="ログイン" class="btn btn-default" />
+                    </div>
+                </div>
+                <div class="col-md-offset-0 col-md-10">
+                    <a href="/app/Account/ForgotPassword">パスワードを忘れた場合はこちら</a>
+                </div>
+</form>        </section>
+    </div>
+    
+</div>
+
+
+        
+        <hr />
+        <footer> 
+            <ul class="list-unstyled">
+                <li>
+                    <ul class="list-inline">
+                        <li><a href="https://winmuse.jp/agreement/">利用規約</a></li>
+                        <li><a href="/app/Information/Copyright">著作権について</a></li>
+                    </ul>
+                </li>
+                <li>&copy; 2017 JFE ENGINEERING Corporation.</li>
+            </ul>
+        </footer>
+    </div>
+
+    <script src="/app/bundles/jquery?v=FVs3ACwOLIVInrAl5sdzR2jrCDmVOWFbZMY6g6Q0ulE1"></script>
+
+    <script src="/app/bundles/bootstrap?v=2Fz3B0iizV2NnnamQFrx-NbYJNTFeBJ2GM05SilbtQU1"></script>
+
+    <script src="/app/bundles/jquerycookie?v=YgwDn-BKSfG1IrVUmATxldAWky-Jj0n9paAi67mGeRQ1"></script>
+
+    <script src="/app/bundles/jqueryui?v=xCnEY0O6x8M-50wiiLL9HAVj4x7TVwYqoX1J__rOZHM1"></script>
+
+    <script src="/app/bundles/zoom?v=oetO-NuMkyMyU1XOd6C-0Qt3H2u8UjLbNKV1oF4wOYY1"></script>
+
+    
+    <script src="/app/bundles/jqueryval?v="></script>
+
+
+</body>
+</html>

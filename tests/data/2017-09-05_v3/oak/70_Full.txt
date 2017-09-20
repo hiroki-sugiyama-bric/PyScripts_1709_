@@ -1,0 +1,107 @@
+GET https://133.162.234.101/Account/Logout HTTP/1.1
+Host: 133.162.234.101
+Connection: close
+Upgrade-Insecure-Requests: 1
+User-Agent: Mozilla/5.0 (Windows NT 10.0; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/55.0.2883.87 Safari/537.36
+Accept: text/html,application/xhtml+xml,application/xml;q=0.9,image/webp,*/*;q=0.8
+Referer: https://133.162.234.101/Contract/ContractIndex
+Accept-Language: ja,en-US;q=0.8,en;q=0.6
+Cookie: __RequestVerificationToken=O3NgugyowlLvBuVdtx8NTWpj4ipIpv8A5MJZP6d6n4NWuIDUhNbbE59w3CHaplokv8yOGM49QEdN2EPlEhaTr5c88ouzQcpbpW8Sut9dTEg1; ASP.NET_SessionId=byqce4kd5j4pjtfh4k3vxvrg; .ASPXAUTH=D139F30FE150554821A3CA7B084163FD7D535B3372B1218663FF126B4B1B1AAC9099FEC2D55773FBB6D54A74C5608C9BB8F1BB8C178A7B10968BBA16C07487F3C18EE8870CB2D03EC64DCDDF10E899038FD55AB9A5AE229E3BD57A7455C4588B; LastGroupMstId=1; LastCompanyCd=Company1; LastUserId=machida; LastText=machida; IsRemember=True
+
+
+HTTP/1.1 200 OK
+Date: Mon, 30 Jan 2017 05:08:34 GMT
+Server: Microsoft-IIS/8.5
+Cache-Control: private
+Content-Type: text/html; charset=utf-8
+X-AspNetMvc-Version: 5.0
+X-AspNet-Version: 4.0.30319
+X-Powered-By: ASP.NET
+Content-Length: 3131
+Set-Cookie: .ASPXAUTH=; expires=Mon, 11-Oct-1999 15:00:00 GMT; path=/; HttpOnly
+Connection: close
+
+
+<!DOCTYPE html>
+<html>
+<head>
+<meta http-equiv="Content-Type" content="text/html; charset=utf-8"/>
+    <meta charset="utf-8" />
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>ログアウト画面 - CCMS</title>
+    <link href="/Content/css?v=l-Ph521pg0QCnur1cnG1IfR_JucXoaV3MlGY4k-KhxE1" rel="stylesheet"/>
+
+    <script src="/bundles/modernizr?v=wBEWDufH_8Md-Pbioxomt90vm6tJN2Pyy9u9zHtWsPo1"></script>
+
+    
+</head>
+<body>
+    <nav id="NbarTop" class="navbar navbar-inverse navbar-fixed-top">
+        <div class="navbar-header">
+            <button type="button" class="navbar-toggle" data-toggle="collapse" data-target=".navbar-collapse">
+                <span class="icon-bar"></span>
+                <span class="icon-bar"></span>
+                <span class="icon-bar"></span>
+            </button>
+            <img src="/Content/LOGO.png" draggable="false" style="width:120px; height:60px; padding:5px" />
+        </div>
+        <div class="navbar-collapse collapse NbarButton">
+            <ul class="nav navbar-nav">
+            </ul>
+            
+
+    <ul class="nav navbar-nav navbar-right">
+        <li><a href="/" id="loginLink">ログイン　</a></li>
+    </ul>
+
+
+        </div>
+    </nav>
+    <div class="container body-content">
+        
+
+<script src="/Scripts/jquery-1.11.1.min.js"></script>
+<script src="/Scripts/jquery-ui-1.11.4.min.js"></script>
+<script src="/Scripts/Account/logout.js"></script>
+
+<div class="row">
+        <h2 id="dispHeader">ログアウトしました。</h2>
+        <div class="row">
+            <div class="col-md-8">
+                <section id="logoutForm">
+<form action="/Account/DummyClose" class="form-horizontal" method="post" role="form">                        <div class="form-group">
+                                <div class="col-md-offset-1 col-md-10">終了する場合は、このままブラウザを閉じてください。</div>
+                            <div class="col-md-offset-1 col-md-10">操作を続行する場合は、再ログインしてください。</div>
+                        </div>
+                        <div class="col-md-offset-1 col-md-10">
+                            <a class="btn btn-primary" href="/">ログイン</a>
+                            &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+                        </div>
+</form>                </section>
+            </div>
+        </div>
+</div>
+
+
+
+        <div class="row">
+            <hr />
+            <footer>
+                <div id="NbarBottom">
+                    <p>CCMS System Version 0.7.0.8 201701231649 &copy; 2017 - CCMS</p>
+                </div>
+            </footer>
+        </div>
+    </div>
+
+    <script src="/bundles/jquery?v=EEZBCVzQe1TpkEUeLfjEm53wpuqSSXGjiXFWAVaewp81"></script>
+
+    <script src="/bundles/bootstrap?v=QNGKtD_svtkr2srjVyLGfVUimO436va_1Pq08Q20zaA1"></script>
+
+    <script src="/bundles/cryptojs?v=J9JMZQmwTOLfrOoC57rS1Ytrr5FqRqA4hACqlh20WBs1"></script>
+
+    <script src='/Scripts/Common/commonFunc.js'></script>
+    
+</body>
+
+</html>

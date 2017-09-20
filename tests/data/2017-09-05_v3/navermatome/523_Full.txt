@@ -1,0 +1,198 @@
+GET https://ssl.naver.jp/account?auth=qgiVJ8YcDLb-2KSG9IeOVXQz&fromUrl=http%3A%2F%2Fwww.naver.jp HTTP/1.1
+Host: ssl.naver.jp
+User-Agent: Mozilla/5.0 (Windows NT 6.1; WOW64; rv:43.0) Gecko/20100101 Firefox/43.0
+Accept: text/html,application/xhtml+xml,application/xml;q=0.9,*/*;q=0.8
+Accept-Language: ja,en-US;q=0.7,en;q=0.3
+Accept-Encoding: gzip, deflate
+Referer: https://ssl.naver.jp/accountVerify?fromUrl=http%3A%2F%2Fwww.naver.jp
+Cookie: _ga=GA1.2.424435795.1487670020; NNB=N2DM6D4JBKWFQ; NJ-App-Accept-Language=ja_JP; JSESSIONID=E164C232CE6B954804A4B978922135FB; njid_inf=O7tbP5fc1vKXtb3XQDXUTYsGcvy28Ye9vufSeFFznJXPI8JScDHLD7y_mHNEqU41mTumsvgovCwHDv8mZMUx3Xe7CfdjSL0Ke13qFU6WVU6qhdkLk8jLKl_nqPiYas-i1Wgv7Ax1b2OVgoxAUpsfKp5WFxxWJ2viLiB2fbYKyMA=; NJID_AUT=Phy2JVEhiBRFSWVKMf6Wc5ULO0aXWCU6+U7667EHjuEw1QrFIRfXh2EgYhNF7nXemAemTuTrdLQdBgJR18N1A8fdr3pUyxYnpTbvrWArU3fU06Z0zmkyMZ2l6Ds7+SZwff3eVV8GbAA/OM7fcO++I+jxXHKgvGPf9ZnePEerpZeI2ifrgAR8SqT41Zv6Tm92qaJLPTF5/iVthuYv7hzs+HAybvF/xxmIO8WhXgxq2Zxg35UMQmdl4hgGYFzZPcE2yRbyQW/KV3fEv1FzWb/rx4d17AaVESadbtyZuktByiHsB42AnSxPU/XejUQyDqFZ3zIgN0v+bRn+UgYnUYQ3KMFZ+H0iaFiHuSDbZHDzKdeZyuCJKU+V1nlb082VQS6mkbKUyvZOgql9faEErA6fOXBEGnVq9pZsDnPgINP2sj0=
+Connection: close
+Proxy-Authorization: Basic b25ldHVzZXI6RDJMR1ZV
+
+
+HTTP/1.1 200 OK
+Date: Tue, 21 Feb 2017 09:48:26 GMT
+Server: Apache
+Set-Cookie: NJID_AUT=/lj10n7JWGPfoBsmRFXd0iX9Q1ZJ9iO6pRWJE4Z1/3VcwjhUco4JE10pXvLMUcSCC9JsyGit0HXScMygxBJwN7If7tx6ztOOJQuwT6kW/fbFL1QORIWqe4ZObZbjSP/voGeNJOSZt+IJYwTwedH7T+vC7u0782CUfVOfX4yTNiYMPsONAmaAK0cngAwfvJ9TfgYQpaIeSjyLf4Oq6KRMTa31/meGNaaGdiVlu8SfgMmjPMNxZgV1D0d2QMeCp3M0j1M1ED+6rPHQg7XOKhpNqEXS53YJQDYcl8EiT5kyQnZ1o4vs9rU8o3qjuUwV+UyydiZUS1NL9Yj+C0Z6AbVFBmL3NulWvV9QKEbeWh6J0efpwcbEqz4jf1st5iXSQKQOcEvzN63GG5X6bTmY3Bthj0khCDxGxX7ItZMaRTGXPmA=; path=/; domain=.naver.jp
+X-XRDS-Location: https://ssl.naver.jp/xrds
+Set-Cookie: page_uid=T6wKIVWombZsseeB9tNsssssssl-081699; path=/; domain=.naver.com
+Set-Cookie: naver_usersession=SBADAO6ccFcAARRj89g; path=/; expires=Sat, 28-Aug-71 02:59:56 GMT; domain=.naver.jp
+Set-Cookie: NJ-App-Accept-Language=ja_JP; Path=/
+Vary: Accept-Encoding,User-Agent
+P3P: CP="ALL CURa ADMa DEVa TAIa OUR BUS IND PHY ONL UNI PUR FIN COM NAV INT DEM CNT STA POL HEA PRE LOC OTC"
+Cache-Control: no-store, no-cache, must-revalidate, post-check=0, pre-check=0
+Cache-Control: no-store, no-cache, must-revalidate, post-check=0, pre-check=0
+Pragma: no-cache
+Expires: -1
+Connection: close
+Content-Type: text/html;charset=UTF-8
+Content-Length: 7381
+
+<!DOCTYPE html>
+<html dir="ltr" lang="ja_JP">
+<head>
+	<meta http-equiv="content-type" content="text/html; charset=UTF-8" />
+	<meta http-equiv="X-UA-Compatible" content="IE=8">
+	<meta http-equiv="content-style-type" content="text/css" />
+	<meta http-equiv="content-script-type" content="text/javascript" />
+	<meta http-equiv="pragma" content="no-cache" />
+	<meta http-equiv="cache-control" content="no-cache" />
+	<meta http-equiv="expires" content="-1" />
+	
+	<title>アカウント情報の変更 - NAVERアカウント</title>
+	<link rel="stylesheet" href="/account_ver2/css/account_common_13807733041113.css" />
+	<link rel="search" type="application/opensearchdescription+xml" href="http://static.naver.jp/naver_top/files/xml/naverjp-opensearch.xml" title="NAVER" />
+	<script type="text/javascript" src="/account_ver2/js/nj.account.common_13807733041113.js"></script>
+	<script type="text/javascript" src="/account_ver2/js/nj.account.crypt_13807733041113.js"></script>
+	<script type="text/javascript" src="/account_ver2/js/nj.account.selectmenu_13807733041113.js"></script>
+	</head>
+
+<body  class="LyPage02">
+<div class="LyWrap">
+	<!--[[HEADER-AREA]]-->
+	<header><div class="LyHead02">
+	<div class="lyHead02Inner MdCF">
+	 
+	 <hgroup role="banner">  
+	 	<h1 class="MdGnbTtl01"><a href="http://www.naver.jp">NAVER</a></h1>  
+	 	<h2 class="MdGnbTtl02"><span><a href=/account>アカウント</a></span></h2>  
+	 </hgroup>  
+		 
+	<nav role="navigation"><ul class="MdGnbUtil02">
+	
+	<li class="mdGnbUtil02Li"><a href='http://matome.naver.jp/works'>マイページ</a></li><li class='mdGnbUtil02Li'><span class='MdGnbSeparator02'>|</span><a href='/logout'>ログアウト</a></li><li class='mdGnbUtil02Li'><span class='MdGnbSeparator02'>|</span><a href="http://www.naver.jp">NAVER</a></li>
+	<!--/MdGnbUtil02--></ul></nav>
+	 
+	<!--/lyHead02Inner--></div>
+	<!--/LyHead02--></div></header>
+	<!--[[/HEADER-AREA]]-->
+
+	<!--contents-->
+	
+<!--[[CONTENTS-AREA]]-->
+<div class="LyContents02">
+<div class="MdTab01">
+	<ul>
+		<li class="mdTab01Active"><a href="/account?auth=qgiVJ8YcDLb-2KSG9IeOVXQz&fromUrl=http%3A%2F%2Fwww.naver.jp" class="mdTab01Link01">テキスト</a></li>
+		<li><a href="/accountEtc?auth=qgiVJ8YcDLb-2KSG9IeOVXQz&fromUrl=http%3A%2F%2Fwww.naver.jp" class="mdTab01Link02">テキスト</a></li>
+		</ul>
+	
+<!--/MdTabLink01--></div>
+<div class="ArMain01">
+<form method="post" action="/account" id="_registForm" name="_registForm">
+
+<div class="MdSting01">
+		<table>
+			<tbody>
+			<input type="hidden" name="auth" value="qgiVJ8YcDLb-2KSG9IeOVXQz" />
+			<input type="hidden" name="m" value="modifyAccountInfoAction" />
+			<input type="hidden" name="menuid" id="menuid" value="CHANGE_EMAIL" />
+			<input type="hidden" value="hitakahashi9999@gmail.com" id="ipt_mail_pre" name="preEmail" />
+			<input type="hidden" value="null@" name="preDeviceEmail" />
+			<input type="hidden" name="fromUrl" value="http://www.naver.jp" />
+				<tr>
+					<th>ユーザー名</th>
+					<td class="mdSting01Td01"><span class="MdText01">test9999999</span></td>
+				</tr>
+				<tr>
+					<th>PCメールアドレス</th>
+					<td><span class="MdInput01"><input class="mdInput01Input" type="text" value="hitakahashi9999@gmail.com" id="_email" name="email"><span class="mdInput01Corner01"></span><span class="mdInput01Corner02"></span><span class="mdInput01Corner03"></span><span class="mdInput01Corner04"></span>
+					</span><span class="mdSting01Err01"></span>
+					</td>
+				</tr>
+				<tr>
+					<th>携帯メールアドレス</th>
+					<td><span class="MdInput01 mdInput01InputShort01">
+							<input class="mdInput01Input" type="text" value="" id="_mobile" name="deviceEmail.localPart">
+							<span class="mdInput01Corner01"></span>
+							<span class="mdInput01Corner02"></span>
+							<span class="mdInput01Corner03"></span>
+							<span class="mdInput01Corner04"></span></span> @
+						<span class="MdSelect01" style="position:relative"><select name="deviceEmail.domainByString" id="_careerSelect">
+							<option value="">選択してください</option>
+								<option value="docomo.ne.jp">docomo.ne.jp</option>
+										<option value="ezweb.ne.jp">ezweb.ne.jp</option>
+										<option value="softbank.ne.jp">softbank.ne.jp</option>
+										<option value="disney.ne.jp">disney.ne.jp</option>
+										</select>
+							<span class="mdSelect01Corner01"></span>
+							<span class="mdSelect01Corner02"></span>
+							<span class="mdSelect01Corner03"></span>
+							<span class="mdSelect01Corner04"></span></span>
+						<span class="mdSting01Err03"></span>
+					</td>
+				</tr>
+				<tr>
+					<th class="mdSting01Th02">新しいパスワード</th>
+					<td class="mdSting01Td02"><span class="MdInput01"><input class="mdInput01Input" type="password" value="" id="_passwd" name="newPassword" maxlength="20"><span class="mdInput01Corner01"></span><span class="mdInput01Corner02"></span><span class="mdInput01Corner03"></span><span class="mdInput01Corner04"></span></span>
+					<span class="mdSting01Err02"></span>
+					</td>
+				</tr>
+				<tr>
+					<th class="mdSting01Th03">新しいパスワード(再入力)</th>
+					<td class="mdSting01Td03"><span class="MdInput01"><input class="mdInput01Input" type="password" value="" id="_passwd_confirm" name="newPasswordConfirm" maxlength="20"><span class="mdInput01Corner01"></span><span class="mdInput01Corner02"></span><span class="mdInput01Corner03"></span><span class="mdInput01Corner04"></span></span>
+					<span class="mdSting01Err02"></span>
+					</td>
+				</tr>
+				<tr>
+					<th>ニュースレター</th>
+					<td>
+						<ul>
+							
+							<li><label for="ipt_newsletter01"><input type="checkbox" value="Y" class="ipt_cb" name="newsletterflg" id="ipt_newsletter01"  /> PCメールアドレスで受信する</label></li>
+								</ul>
+					</td>
+				</tr>
+			</tbody>
+		</table>
+	<!--/MdSting01--></div>
+<p class="MdSubmit01"><input class="mdSubmit01Input01" type="submit" value="変更"> <input class="mdSubmit01Input02" type="button" value="戻る" onclick="goFromUrl()"></p>
+</form>
+ 
+<span class="arMain01Corner01"></span>
+<span class="arMain01Corner02"></span>
+<span class="arMain01Corner03"></span>
+<span class="arMain01Corner04"></span>
+<!--/ArMain01--></div>
+<!--/LyContents02--></div>
+<!--[[/CONTENTS-AREA]]-->
+
+<script> 
+function goFromUrl() {
+	document.location.href="http://www.naver.jp";
+}
+
+$().ready(function() {
+    new nj.account.initAccountInfoChangeForm();
+});
+</script>
+<!--[[/SCRIPT]]-->
+<!--//contents-->
+	
+	<!--[[FOOTER-AREA]]-->
+	<footer role="contentinfo">
+	<!--[[FOOTER-AREA]]-->
+<footer role="contentinfo">
+
+<div id="Footer" class="Type01v3">
+<h2>NAVER リンク</h2>
+<ul class="NaverLink">
+<li class="firstChild"><a href="http://linecorp.com/">会社概要</a></li>
+<li><a href="http://www.naver.jp/rules/">利用規約</a></li>
+<li><a href="http://www.naver.jp/privacy/">プライバシー</a></li>
+<li><a href="http://help.naver.jp/faq?serviceNo=1">ヘルプ</a></li>
+<li><a href="http://naverland.naver.jp/">公式ブログ</a></li>
+</ul>
+<p>&copy; <b>LINE Corporation</b></p>
+</div>
+
+</footer>
+<!--[[/FOOTER-AREA]]--><script type="text/javascript">
+	lcs_do();
+	</script>
+	</footer>
+	<!--[[/FOOTER-AREA]]-->
+	
+<!--/LyWrap--></div>
+</body>
+</html>

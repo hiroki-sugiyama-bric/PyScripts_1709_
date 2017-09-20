@@ -1,0 +1,194 @@
+GET https://my.gnavi.co.jp/forgot/?key=9b5nnvqt51oossjg3cvoai5ak2 HTTP/1.1
+Host: my.gnavi.co.jp
+User-Agent: Mozilla/5.0 (Windows NT 6.1; WOW64; rv:51.0) Gecko/20100101 Firefox/51.0
+Accept: text/html,application/xhtml+xml,application/xml;q=0.9,*/*;q=0.8
+Accept-Language: ja,en-US;q=0.7,en;q=0.3
+Cookie: gt=GT0ccdf8f0d000ac1e4ac705Fp-AhqR8J71AUizv6M3JQg; gUser=000ce291129001ac1e4ac20d6utdGhz4Bj4amnkFn1IY8Q; gcom=%7B%22login_type%22%3A1%2C%22guser_type%22%3A0%7D; GHistory=g048925%3A110%3A1486705396%2Cgdup021%3A110%3A1486701006%2Cgc9e603%3A110%3A1486695530%2Ca742608%3A110%3A1486695248%2Cb205003%3A110%3A1486695028%2Cgdzh702%3A110%3A1486694588%2Cgap7018%3A110%3A1486694535; optimizelyEndUserId=oeu1486694537825r0.6543023241441651; _ga=GA1.3.339950692.1486694539; _vz=viz_588176f232e06; GU=25ecea892fbe30479f97236d2c2c4532; optimizelySegments=%7B%221891520419%22%3A%22search%22%2C%221892920925%22%3A%22search%22%2C%221906460323%22%3A%22false%22%2C%221906820382%22%3A%22none%22%2C%221908320418%22%3A%22ff%22%2C%221911230413%22%3A%22false%22%2C%221914160317%22%3A%22ff%22%2C%221914170296%22%3A%22none%22%7D; optimizelyBuckets=%7B%7D; ds=3ad47a7440d5719a97e30f68ab48862db7949d24cb1cc7f3469ff0d210b00669; s_sess=%20sc_prop1%3Dmy%3B; PHPSESSID=u5qdpoqt6bbj51dmlkkpcitj07; _dc_gtm_UA-43329175-1=1
+Connection: close
+Upgrade-Insecure-Requests: 1
+
+
+HTTP/1.1 200 OK
+Date: Tue, 07 Mar 2017 02:35:17 GMT
+Server: Apache
+Set-Cookie: GU=25ecea892fbe30479f97236d2c2c4532; path=/; domain=.gnavi.co.jp; expires=Mon, 05 Jun 2017 02:35:17 GMT
+Expires: Thu, 19 Nov 1981 08:52:00 GMT
+Cache-Control: no-store, no-cache, must-revalidate, post-check=0, pre-check=0
+Pragma: no-cache
+Set-Cookie: forgot_token=3dc0294db1; path=/forgot/
+Content-Length: 5788
+Connection: close
+Content-Type: text/html; charset=UTF-8
+
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+<html xmlns="http://www.w3.org/1999/xhtml" xml:lang="ja" lang="ja">
+<head>
+<meta http-equiv="Content-Type" content="text/html; charset=utf-8" />
+<meta http-equiv="content-language" content="ja" />
+<meta http-equiv="content-style-type" content="text/css" />
+<meta http-equiv="content-script-type" content="text/ecmascript" />
+<title>【ｍｙぐるなび】ぐるなびID確認・パスワード再設定</title>
+<link rel="SHORTCUT ICON" href="https://my.gnavi.co.jp/lib/favicon.ico" />
+<meta name="Description" content="グルメ情報サイト【ぐるなび】のぐるなびグループサイトをもっと便利に、もっとお得にご利用いただけるサービスです。" />
+<meta name="Keywords" content="グルメ,レストラン,飲食店,会員登録" />
+<link type="text/css" rel="stylesheet" href="css/pc/gnavi.css" />
+<link rel="stylesheet" type="text/css" href="css/pc/style_pass_reminder.css" />
+</head>
+<body>
+<!--AllLayout-->
+
+<div id="AllLayout">
+<!--Header-->
+<div id="Header" class="clfix">
+<!--logoarea-->
+<div class="logoarea">
+<div class="tagline"><img src="https://my.gnavi.co.jp/forgot/img/pc/logo_gnavi.gif" alt="ｍｙぐるなび" title="ｍｙぐるなび" width="161" height="32" /></div>
+</div>
+<!--/logoarea-->
+</div>
+
+
+<!--/Header-->
+<hr />
+<!-- BreadcrumbList -->
+<div id="BreadcrumbList">
+<ol class="clfix">
+<li class="first"><a href="http://www.gnavi.co.jp/">ぐるなび</a></li>
+
+<li class="now"><strong>ID確認・パスワード再設定</strong></li>
+</ol>
+</div>
+
+
+<!-- /BreadcrumbList -->
+<!-- title -->
+<h1 class="title">ID確認・パスワード再設定</h1>
+<!-- /title -->
+<hr />
+<!--Container-->
+<div id="Container">
+<form id="memaddForm" name="memaddForm" method="post" action="?page=pf" autocomplete="off"><input type="hidden" name="key" value="9b5nnvqt51oossjg3cvoai5ak2" />
+<input type="hidden" name="loginId" value="hitakahashi9999@gmail.com" />
+<input type="hidden" name="rType" value="1" />
+<input type="hidden" name="rUrl" value="" />
+
+<!--ステップ-->
+<div id="step-area"><p class="step-03">ステップ3.パスワードの再設定</p></div>
+
+<!--/ステップ-->
+
+<!-- mainform -->
+<div id="main-form">
+
+<div id="space">ID確認・パスワード再設定</div>
+<div id="flowtext-area">
+    <p class="flowtext-area-title xl">IDをお確かめのうえ、パスワードの再設定を行ってください。</p>
+<!-- Error -->
+<div id="flowtext-area-err-profile">
+</div>
+<!-- /Error -->
+<!-- form -->
+<div class="basicInfo">
+<table width="670" cellpadding="0" cellspacing="0" class="basetable">
+<!-- ID -->
+<tr>
+<th width="170">
+<div class="wrap">ID</div>
+</th>
+<td width="500">
+<div class="wrap">
+<dl class="clfix">
+<dd class="regist-id px14">hitakahashi9999@gmail.com</dd>
+</dl>
+
+</div>
+</td>
+</tr>
+<!-- /ID -->
+<!-- 新しいパスワード -->
+<tr>
+<th><div class="wrap">新しいパスワード</div></th>
+<td class="pass_check">
+<div class="wrap">
+<dl class="clfix">
+<dd class="pass_check">
+<p class="password-txt xs">パスワードは個人情報と無関係のものでご登録ください。</p>
+「000000」や「abcdef」等の連続した文字列ではご登録いただけません。</p> 
+<label><input type="password" name="passwd" id="id_gPassword_main_1" class="bgRequired imeOff txt224on efo:A_F6-16" maxlength="16" /></label><span class="xs">※【半角英数字】6～16文字まで</span></dd>
+<dd class="pass_check">
+<p class="password-txt xs">▼確認のため、もう一度入力してください。</p>
+<label><input type="password" name="passwdConfirm" id="id_gPassword_main_1" class="bgRequired imeOff txt224on efo:A_F6-16" maxlength="16" /></label><span class="xs">※【半角英数字】6～16文字まで</span></dd>
+</dl>
+</div>
+</td>
+</tr>
+<!-- /新しいパスワード -->
+
+
+</table>
+
+<div class="number">
+<div class="title">登録する前に入力してください。</div>
+
+<div class="block_left">
+<div><img src="https://my.gnavi.co.jp/forgot/captcha/pc/9b5nnvqt51oossjg3cvoai5ak29.jpg" width="200" height="50" alt="number" /></div>
+</div>
+
+<div class="block_center">矢印</div>
+
+<div class="block_right">
+<div class="text-left">左の画像に表示されている<br />
+数字を入力してください</div>
+<input type="text" name="string" id="id_gPassword_main_0" class="bgRequired imeOff txt160on" maxlength="16"/>
+</div>
+</div>
+
+</div>
+
+<!-- BtnArea -->
+<hr />
+
+<div class="submit">
+<ul class="submit-area-m clfix"><li class="submit-btm-setting end"><a href="javascript:void(0);" onclick="memaddForm.submit(); return false;">パスワードを再設定する</a></li></ul>
+</div>
+<!-- /BtnArea -->
+</div>
+</div>
+<!-- /mainform -->
+<hr />
+</form>
+
+
+<!--/Container-->
+<hr />
+<!--Footer-->
+<div id="Footer">
+<p class="copy xs">Copyright&copy; Gurunavi, Inc. All rights reserved.</p>
+</div>
+
+
+<!--/Footer-->
+
+</div>
+
+<script src="//x.gnst.jp/jquery-1.7.1.js"></script>
+<script src="js/pc/pass_check.js"></script>
+
+<!-- SiteCatalyst XHTML -->
+<div style="display:none;height:0;position:relative;visibility:hidden;width:0;">
+<script type="text/javascript">//<![CDATA[
+scprotocol = (location.protocol=='https:') ? 'https:' : 'http:';
+document.write('<scr'+'ipt type="text/javascript" src="'+scprotocol+'//site.gnavi.co.jp/analysis/s_code.js" charset="Shift_JIS"><\/scr'+'ipt>');
+//]]></script>
+<script type="text/javascript">//<![CDATA[
+scSubdom=getScSubdom();
+//]]></script>
+<script type="text/javascript">//<![CDATA[
+document.write('<scr'+'ipt type="text/javascript" src="'+scprotocol+'//site.gnavi.co.jp/analysis/sc_'+scSubdom+'.js" charset="Shift_JIS"><\/scr'+'ipt>');
+//]]>0</script>
+</div>
+
+
+<!-- SiteCatalyst XHTML -->
+</body>
+</html>

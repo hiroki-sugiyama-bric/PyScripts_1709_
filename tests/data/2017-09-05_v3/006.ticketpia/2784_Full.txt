@@ -1,0 +1,242 @@
+GET https://ticket-auth.pia.jp/pia/authenticate?request_token=1GgzQSWMjCDQ2BxwHXQWlfEH0lhsI-l1_ttcTrcbpWw HTTP/1.1
+Host: ticket-auth.pia.jp
+User-Agent: Mozilla/5.0 (Windows NT 6.1; rv:52.0) Gecko/20100101 Firefox/52.0
+Accept: text/html,application/xhtml+xml,application/xml;q=0.9,*/*;q=0.8
+Accept-Language: ja,en-US;q=0.7,en;q=0.3
+Accept-Encoding: gzip, deflate, br
+Referer: http://t.pia.jp/
+Cookie: pa_lrid=1491297466143-UdYoPZzTfBes9MdHdJmaWeYo3XiH7ff; pa_mrid=1491297466143-jjX3rCjpMaJsxN0no02i7cNB3dYecMO; pa_srid=1491297466143-6Qn5RmLL2WuyrxhvvjtQnB8d3l1uYm3; pa_rptime_AETPIA=1491300036503; cX_S=j13c0b6iuf23xy1e; cX_P=j13c0b6jhcz5dmpr; cstp=1; _ga=GA1.2.1821994594.1491298260; _gat_UA-41230966-5=1; _dc_gtm_UA-41230966-2=1; __utma=136095278.1821994594.1491298260.1491300036.1491300036.1; __utmb=136095278.1.10.1491300036; __utmc=136095278; __utmz=136095278.1491300036.1.1.utmcsr=(direct)|utmccn=(direct)|utmcmd=(none); __utmt_ga_asp=1; BetySessionId_AETPIA=43687a77aaa364ab8f51daeca4cd7b36; LastAccessServerId_AETPIA=19b3f14df8920f75ce3027a801a1f4cf; PIA_SID=g1iojlvlf72et642ffid3g0tt7
+Connection: keep-alive
+Upgrade-Insecure-Requests: 1
+
+
+HTTP/1.1 200 OK
+Cache-Control: private, no-store, no-cache, must-revalidate
+Content-Type: text/html
+Date: Tue, 04 Apr 2017 10:00:47 GMT
+Expires: Sat, 26 Jul 1997 05:00:00 GMT
+Server: nginx
+X-Content-Type-Options: nosniff
+X-FRAME-OPTIONS: SAMEORIGIN
+transfer-encoding: chunked
+Connection: keep-alive
+
+1ec7
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+<html xmlns="http://www.w3.org/1999/xhtml" xml:lang="ja" lang="ja">
+<head>
+  <meta http-equiv="Content-Type" content="text/html; charset=utf-8" />
+  <meta name="author" content="PIA" />
+  <meta name="copyright" content="Copyright PIA Corporation. All Rights Reserved. " />
+  <meta http-equiv="content-style-type" content="text/css" />
+  <meta http-equiv="content-script-type" content="text/javascript" />
+  <meta name="format-detection" content="telephone=no">
+  <title>ログイン：チケットぴあ</title>
+  <link rel="stylesheet" type="text/css" media="screen, print" href="https://image.pia.jp/openid/default/common/css/base.css"/>
+  <link rel="stylesheet" type="text/css" media="screen, print" href="https://image.pia.jp/openid/default/common/css/apply.css"/>
+  <link rel="stylesheet" type="text/css" media="screen, print" href="https://image.pia.jp/openid/default/common/css/mypage.css"/>
+  <link rel="stylesheet" type="text/css" media="screen, print" href="https://image.pia.jp/openid/default/common/css/mypage_area2.css"/>
+  <link rel="stylesheet" type="text/css" media="screen, print" href="https://image.pia.jp/openid/default/common/css/openID.css"/>
+  <script type="text/javascript" src="https://image.pia.jp/openid/default/common/js/jquery-1.11.0.min.js"></script>
+  <script type="text/javascript" src="https://image.pia.jp/openid/default/common/js/FixFooter.js"></script>
+  <script type="text/javascript" src="https://image.pia.jp/openid/default/common/js/FixLogin.js"></script>
+</head>
+<body>
+<script id="Google_process">var dataLayer = dataLayer || [];
+ dataLayer.push({
+ 'ga-goal-process' : 'authorize'});
+ </script><!-- Google Tag Manager -->
+<script id="Google_Tag_Manager">(function(w,d,s,l,i){w[l]=w[l]||[];w[l].push({'gtm.start':
+new Date().getTime(),event:'gtm.js'});var f=d.getElementsByTagName(s)[0],
+j=d.createElement(s),dl=l!='dataLayer'?'&l='+l:'';j.async=true;j.src=
+'//www.googletagmanager.com/gtm.js?id='+i+dl;f.parentNode.insertBefore(j,f);
+})(window,document,'script','dataLayer','GTM-JN9B');</script>
+<!-- End Google Tag Manager -->
+
+<!-- PiaAnalytics -->
+<div class="_pia_ub">
+<script type="text/javascript">
+var _gpt = _gpt || {};
+_gpt.responseDateTime = new Date().getTime();
+_gpt.serviceId = "AETPIA";
+_gpt.cookieDomainName = ".pia.jp";
+_gpt.remoteServerName ="ub.pia.jp/images/pt.gif";
+_gpt.ptJsPath ="https://image.pia.jp/common2//js/pt.js";
+
+(function(pJsPath) {
+    var pt = document.createElement('script');
+    pt.type = 'text/javascript';
+    pt.async = true;
+    pt.src = pJsPath;
+    (document.getElementsByTagName('head')[0] || document.getElementsByTagName('body')[0]).appendChild(pt);
+})(_gpt.ptJsPath);
+</script>
+</div>
+<!-- End PiaAnalytics -->  <!--h_navi-->
+  <div id="h_navi" class="clearfix">
+    <!-- wrap -->
+    <div id="wrap">
+      <p id="home">チケットのことならチケットぴあ<a href="http://t.pia.jp/"><img src="https://image.pia.jp/openid/default/common/images/logo.gif" alt="チケットぴあ"></a></p>
+<div id="mypage_area">
+  <div id="sub_menu">
+    <ul>
+      <li id="h01"><a href="http://t.pia.jp/piacard/piacard.jsp">プレミアム会員ページ</a></li>
+      <li id="h02"><a href="http://t.pia.jp/guide/entry.html">初めての方はこちら</a></li>
+      <li id="h03"><a href="http://t.pia.jp/help/index.html">ヘルプ</a></li>
+      <li id="h04"><a href="http://t.pia.jp/">トップページ</a></li>
+    </ul>
+  </div>
+</div>
+      <!-- contents -->
+      <form action="https://ticket-auth.pia.jp/pia/login" method="post" accept-charset="utf-8" name="form_login"><div style="display:none">
+<input type="hidden" name="ep_parameters" value="WyJQaWEiLCJodHRwczpcL1wvdGlja2V0LWFjY291bnQucGlhLmpwXC9waWFcL0F1dGhSZXNwb25zZS5kbz9hdXRoUmVzQWN0aW9uPTEmQkNBc3NpZ249IiwiYWI2ZGJmNzNlNjQ5NGM3YzRmZjY1YzhhOGU5NzM1NzMiLCJxdWVyeSJd" />
+<input type="hidden" name="request_token" value="1GgzQSWMjCDQ2BxwHXQWlfEH0lhsI-l1_ttcTrcbpWw" />
+</div>  <!-- pagetitle -->
+  <div class="category8" id="page_title">
+    <h1>チケットぴあ&nbsp;ログイン</h1>
+  </div>
+  <!--/pagetitle -->
+    <!-- main_contents -->
+  <div class="login main_m_master">
+    <p class="message main_m_master_m">
+                </p>
+    <!-- col_container -->
+    <div class="col_container">
+      <!-- block_login -->
+      <div class="block_login col col_left opneid_login"><!-- login_contents -->
+        <h2>ぴあ会員ID・パスワードでログイン</h2>
+        <p class="message">
+          <div style="margin:10px;padding:5px;color:red;font-size:95%;">【ご注意】<br />お手続きは必ず１つの端末(ブラウザ、タブ)でご操作ください。複数の端末(ブラウザ、タブ)で操作をされますと正しくお手続きできない場合がございます。</div>
+        </p>
+        <!-- ipass -->
+        <div class="ipass input_section">
+          <dl>
+            <dt>ID</dt>
+            <dd class="above"  style="margin-bottom: 12px ! important;"><input type="text" name="login_id" value="" maxlength="128" style="ime-mode:disabled;"  /></dd>
+            <dt>パスワード</dt>
+            <dd class="below"><input type="password" name="password" value="" maxlength="16" style="ime-mode:disabled;"  /></dd>
+          </dl>
+          <p>
+                        <span class="link">
+              <a href="https://ticket-auth.pia.jp/pia/login?ep_parameters=WyJQaWEiLCJodHRwczpcL1wvdGlja2V0LWFjY291bnQucGlhLmpwXC9waWFcL0F1dGhSZXNwb25zZS5kbz9hdXRoUmVzQWN0aW9uPTEmQkNBc3NpZ249IiwiYWI2ZGJmNzNlNjQ5NGM3YzRmZjY1YzhhOGU5NzM1NzMiLCJxdWVyeSJd&request_token=1GgzQSWMjCDQ2BxwHXQWlfEH0lhsI-l1_ttcTrcbpWw&cancel=forgot_password">
+                パスワードをお忘れの方はこちら              </a>
+            </span>
+                      </p>
+        </div>
+                <div class="inputBox4">
+          <table border="0" cellpadding="0" cellspacing="0" summary="次回からログインを省略">
+            <tr>
+              <th scope="col" abbr="次回からログインを省略">
+                <input type="checkbox" name="auto_login" value="true" id="checked_auto_login" checked="checked">
+              </th>
+              <td>
+                <p><label for="checked_auto_login">次回からログインを省略</label></p>
+              </td>
+            </tr>
+            <tr>
+              <th>&nbsp;</th>
+              <td>
+                  <p>※他の方も使用されるパソコンでは選択しないでください。</p>
+              </td>
+            </tr>
+          </table>
+        </div>
+                <!-- /ipass -->
+        <p class="button">
+          <input type="image" name="login_button" src="https://image.pia.jp/openid/default/common/images/button/login.jpg" alt="ログイン" title="ログイン" />
+        </p>
+              </div>
+      <!-- /block_login -->
+      <!-- 紐づけ時のログイン画面の場合は、ボタンを表示しない -->
+            <!-- block_openid_login -->
+      <div class="block_login col openid_login_log"><!-- openid_login_contents -->
+        <h2>他サービスのIDを利用してログイン</h2>
+                <div class="inputBox4">
+          <table border="0" cellpadding="0" cellspacing="0" summary="次回からログインを省略">
+            <tr>
+              <th scope="col" abbr="次回からログインを省略">
+                <input type="checkbox" name="auto_login_openid" value="true" id="checked_auto_login_openid" checked="checked">
+              </th>
+              <td>
+                <p><label for="checked_auto_login_openid">次回からログインを省略</label></p>
+              </td>
+            </tr>
+            <tr>
+              <th>&nbsp;</th>
+              <td>
+                <p>※他の方も使用されるパソコ
+121c
+ンでは選択しないでください。</p>
+              </td>
+            </tr>
+          </table>
+        </div>
+                <div class= "openid_button">
+                    <li><input type="image" name="provider_google" src="https://image.pia.jp/openid/default/common/images/openid/google.gif" alt="Googleでログイン" title="Googleでログイン" /></li>
+                    <li><input type="image" name="provider_facebook" src="https://image.pia.jp/openid/default/common/images/openid/facebook.gif" alt="Facebookでログイン" title="Facebookでログイン" /></li>
+                    <li><input type="image" name="provider_twitter" src="https://image.pia.jp/openid/default/common/images/openid/twitter.gif" alt="Twitterでログイン" title="Twitterでログイン" /></li>
+                  </div>
+      </div>
+      <!-- /block_openid_login -->
+                  <!-- block_register -->
+      <div class="block_register col col_right openid_registrer"><!-- register_contents -->
+                <h2>会員登録</h2>
+        <strong>本サービスをご利用になるには、会員登録が必要です。</strong>
+                <p class="button">
+                    <input type="image" name="register_button" src="https://image.pia.jp/openid/default/common/images/button/register.jpg" title="会員登録はこちら" alt="会員登録">
+                  </p>
+      </div>
+      <!-- /block_register -->
+          </div>
+    <!-- /col_container -->
+        <div class="return">
+      <input type="image" name="cancel_button" src="https://image.pia.jp/openid/default/common/images/back.gif" height="22" width="69" alt="戻る">
+    </div>
+      </div>
+  <!-- /main_contents -->
+</form>
+      <!-- /contents -->
+      <div id="p_top">
+        <a href="#h_navi">このページ「ログイン」上部へ</a>
+        <!-- テーマワード文を表示 -->
+      </div>
+    </div>
+    <!-- /wrap -->
+  </div>
+  <!--/h_navi-->
+  <!--ftr-->
+  <div id="ftr" class="clearfix">
+    <div id="ft_base">
+  <div id="ft_l">
+    <div class="foot_menu">
+      <ul>
+        <li>
+          <dl>
+            <dt><a href="http://t2.pia.jp/genre_list.html">ジャンル</a></dt>
+            <dd><a href="http://t2.pia.jp/music/">音楽</a><a href="http://t2.pia.jp/sports/">スポーツ</a><a href="http://t2.pia.jp/stage/">演劇</a><a href="http://t2.pia.jp/classic/">クラシック</a><a href="http://t2.pia.jp/event/">イベント・アート</a><a href="http://t2.pia.jp/cinema/">映画</a>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<a href="http://t2.pia.jp/artist_list/artistlist_a_1.html">アーティスト一覧</a></dd>
+          </dl>
+        </li>
+        <li>
+          <dl>
+            <dt>エリア</dt>
+            <dd><a href="http://t2.pia.jp/hokkaido/">北海道</a><a href="http://t2.pia.jp/tohoku/">東 北</a><a href="http://t2.pia.jp/kanto/">関東甲信越</a><a href="http://t2.pia.jp/chubu/">中部・北陸</a><a href="http://t2.pia.jp/kansai/">関 西</a><a href="http://t2.pia.jp/chushikoku/">中国・四国</a><a href="http://t2.pia.jp/kyushu/">九州・沖縄</a></dd>
+          </dl>
+        </li>
+      </ul>
+    </div>
+  </div>
+  <div class="foot_menu2">
+    <div>
+      <a href="http://t.pia.jp/info/privacy.html">プライバシーポリシー</a>｜<a href="http://t.pia.jp/info/terms.html">ぴあ会員規約</a>｜<a href="http://t.pia.jp/info/mailorderlaw.html">特定商取引法に基づく表示</a>｜<a href="http://t.pia.jp/info/yakkan.html">旅行業登録票・約款等</a>｜<a href="http://t.pia.jp/info/security.html">動作環境・セキュリティ</a>｜<a href="http://www.pia.co.jp/t_pia_info/real/">公演中止・延期・発売方法変更などのお知らせ</a>｜<a href="http://t.pia.jp/info/api.html">チケットぴあ WEB APIのご案内</a>｜<a href="http://t2.pia.jp/info/web/index.html">チケットを委託するには</a>｜<br /><a href="http://t.pia.jp/info/affiliates.html">アフィリエイト募集</a>｜<a href="http://www.pia-ad.net/">広告のお問い合わせ</a>｜<a href="http://www.pia.co.jp/pia/index.html">ぴあ会社案内</a>｜<a href="http://t.pia.jp/help/index.html">お問い合わせ</a>｜<a href="http://t.pia.jp/sitemap/sitemap.html">サイトマップ</a>
+    </div>
+    <p>チケットぴあに掲載されているすべてのコンテンツ（記事、画像、音声データ等）はぴあ株式会社の承諾なしに無断転載することはできません。</p>
+    <span class="copyright">Copyright © PIA Corporation. All Rights Reserved.</span>
+  </div>
+</div>
+  </div>
+  <!--/ftr-->
+</body>
+</html>
+
+0
+

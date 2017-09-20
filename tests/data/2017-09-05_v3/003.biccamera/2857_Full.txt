@@ -1,0 +1,27 @@
+POST https://www.biccamera.com/bc/member/CMmReminderEntry.jsp HTTP/1.1
+Host: www.biccamera.com
+User-Agent: Mozilla/5.0 (Windows NT 6.1; rv:52.0) Gecko/20100101 Firefox/52.0
+Accept: text/html,application/xhtml+xml,application/xml;q=0.9,*/*;q=0.8
+Accept-Language: ja,en-US;q=0.7,en;q=0.3
+Accept-Encoding: gzip, deflate, br
+Referer: https://www.biccamera.com/bc/member/CMmReminderEntry.jsp
+Cookie: _kyp={'.biccamera.com':{'uid':'146c94bf-bce7-e8c2-f422-81c433aa1449'%2C'_ex':1493898075969%2C'i':{'lt':1491306388925%2C'_ex':1493898388928%2C'sid':'869467239f71'%2C'sc':1%2C'lc':49}}}; JSESSIONID=27BDD6CAC4A559C8F498028F94ADF3CB; sn=01; _ga=GA1.2.1383842804.1491306078; unyttsontDD=1; gtm_FirstAccessTime=1491306079006; V1_COMM_013=f414cd06051c020724b089c023666153d570534dfa2b629a975b667f05a93ba87259beed605f631a21e781eb169222425ec3ce15fff9ffeb88dad92be61abcc2; V1_MEM_ID=C3F4272E0EAF93CAD769FB42936ABE5F6FF2628FC88D33FB6572F7C49292318F; LOGIN_FLG=1; V1_COMM_005=8EBE9604D5C7F500169F9AFCE5A9178ED8D45267239349F0; V1_ZIP_CD=1700013; JSESSIONID=27BDD6CAC4A559C8F498028F94ADF3CB; V1_PSH=8EBE9604D5C7F500940B6E939D11D37370A4F3B90600819F; _td=3c9c1247-33fd-4fe1-a720-93904d0ad8ab; pt_s_45341cfb=vt=1491306286813&cad=; pt_45341cfb=uid=x6Y3Ms0sN0B6oufvilNk2w&nid=&vid=U4tbhztLUMYJ440BSk9ALw&vn=2&pvn=6&sact=1491306386256&to_flag=0&pl=6sapMH2hw37SmXXSIjJIag*pt*1491306286813; _gali=TMP-BTN-X-BTN
+Connection: keep-alive
+Upgrade-Insecure-Requests: 1
+Content-Type: application/x-www-form-urlencoded
+Content-Length: 68
+
+REMINDER_MEM_ID=crawlingtest1000%40gmail.com&REMINDER_TEL=0311112233
+HTTP/1.1 302 Moved Temporarily
+X-Frame-Options: SAMEORIGIN
+Last-Modified: Tue, 04 Apr 2017 11:46:25 GMT
+Expires: Wed, 31 Dec 1969 15:00:00 GMT
+Pragma: no-cache
+Cache-Control: no-cache, no-store
+Location: https://www.biccamera.com/bc/member/CMmReminderReceipt.jsp
+Content-Type: text/html;charset=Windows-31J
+Content-Language: ja
+Content-Length: 0
+Date: Tue, 04 Apr 2017 11:46:25 GMT
+Connection: keep-alive
+

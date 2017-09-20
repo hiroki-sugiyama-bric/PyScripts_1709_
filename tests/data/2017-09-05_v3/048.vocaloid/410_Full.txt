@@ -1,0 +1,27 @@
+POST https://www.vocaloid.com/accounts/reset_update HTTP/1.1
+Host: www.vocaloid.com
+User-Agent: Mozilla/5.0 (Windows NT 6.1; WOW64; rv:52.0) Gecko/20100101 Firefox/52.0
+Accept: text/html,application/xhtml+xml,application/xml;q=0.9,*/*;q=0.8
+Accept-Language: ja,en-US;q=0.7,en;q=0.3
+Accept-Encoding: gzip, deflate, br
+Referer: https://www.vocaloid.com/accounts/reset_input?token=bLqbZe5WfXUF4ObUkIY4
+Cookie: _ga=GA1.2.1743150807.1491383665; _ceg.s=onyovy; _ceg.u=onyovy; _ec_session=497a23e5f1b19f04047485b3c48f1062
+Connection: close
+Upgrade-Insecure-Requests: 1
+Content-Type: application/x-www-form-urlencoded
+Content-Length: 241
+
+session_token=7acdd4062d133c0d98739c72bc4b698f&authenticity_token=FH2ei8l1L2e0zi6amyHxoTUKOBH%2Fn9v%2BBHuuimK3hGg%3D&customer%5Braw_password%5D=1765731abc&customer%5Bpassword_confirm%5D=1765731abc&customer%5Btoken_raw%5D=bLqbZe5WfXUF4ObUkIY4
+HTTP/1.1 302 Found
+Cache-Control: no-store
+Content-Type: text/html; charset=utf-8
+Date: Thu, 06 Apr 2017 02:02:09 GMT
+Location: https://www.vocaloid.com/accounts/reset_complete
+Pragma: no-cache
+Server: Apache
+Status: 302 Found
+X-Runtime: 46
+Content-Length: 114
+Connection: Close
+
+<html><body>You are being <a href="https://www.vocaloid.com/accounts/reset_complete">redirected</a>.</body></html>

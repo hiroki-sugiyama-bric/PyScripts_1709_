@@ -1,0 +1,352 @@
+POST https://myp.golfdigest.co.jp/community/myprofile/ HTTP/1.1
+Host: myp.golfdigest.co.jp
+User-Agent: Mozilla/5.0 (Windows NT 6.1; WOW64; rv:52.0) Gecko/20100101 Firefox/52.0
+Accept: text/html,application/xhtml+xml,application/xml;q=0.9,*/*;q=0.8
+Accept-Language: ja,en-US;q=0.7,en;q=0.3
+Accept-Encoding: gzip, deflate, br
+Referer: https://myp.golfdigest.co.jp/community/myprofile/
+Cookie: MkiTracUUID=3314e628bf6f461cae4f76ce0932e85a; _rt.uid=233E91E7569581D8999481F04E14BC1A95E92AEF36A498DFFD8A40C124B6DA52; _rt.xd=3bf3fadd; _rt.cs=2; __utma=110123411.13208537.1491360535.1491360535.1491363927.2; __utmc=110123411; __utmz=110123411.1491360535.1.1.utmcsr=(direct)|utmccn=(direct)|utmcmd=(none); MkiTracMBID=233E91E7569581D8999481F04E14BC1A95E92AEF36A498DFFD8A40C124B6DA52; TS0133a40f=01250487715d9f7cf70318261fb491f2a91b25655b413aa2cae0934319af0e70627e1fba17c2936930c1c59425bda0ba4095b56771; ASP.NET_SessionId=4g0xuldo0sfwik1kglvmzw0k; TS016d09f0=012504877185ae58f8f4712f2a4a4211bccfb20016c951ec9c3b6ed9d9a529bee44d60d53cfc76623d516d3dd127a2609bb1beb752; _ga=GA1.4.13208537.1491360535; NavicastApi=20170405.115550.34378200.87809; __ulfpc=201704051155505241; __gads=ID=fac33f16dfb9dace:T=1491361138:S=ALNI_MZ76KC_SXVHwzkwz8Nt2tw7Ps44ig; __utmb=110123411.285.10.1491363927; krt.vis=1217107314_1491363931323_662509558; _ga=GA1.3.13208537.1491360535; NavicastApi.su=20170405.132542.00568400.85250; optimizelyEndUserId=oeu1491368449236r0.4412442998135777; optimizelySegments=%7B%223194110549%22%3A%22false%22%2C%223212510208%22%3A%22direct%22%2C%223231260170%22%3A%22ff%22%2C%223859553265%22%3A%22true%22%7D; optimizelyBuckets=%7B%7D; mmsn=a97217d75a0e694e07ce067d2dbe193d; mmsns=59672172662fe0ca06c241a04f1733a8; ak_bmsc=17B595AA502854D071377AF5E281342C769BE68A7E320000838AE458D6FEAD7B~plnaXMT65LV0dA/uQW79t0BByy1Ij7o2AV1nSAjTC7gCxKef1zukCiGvS9Swi1uxZGOrtniP8n3HD8FNwvqRvvsc1RnNv8mylWUsIVAmKqSsz0Q/fVN679ULX5KE89cPG3m6s3bMxIfcvOv62ZEAPil+YEWD2G940XLRM66mtV50Jm8lamm6CnX6XhlBrgwzQKRj/hgnVXY1fk6WTTWrgjSQ==; _td=8cf99a8f-7dbf-4d1b-a9e7-a31cf84eb3b4
+Connection: keep-alive
+Upgrade-Insecure-Requests: 1
+Content-Type: application/x-www-form-urlencoded
+Content-Length: 267
+
+handlename=%E5%BE%AE%E5%BE%AE%E5%A4%AA%E9%83%8E&profile=&blood=1&frompref=01&golfertype=1&roundtimes=2&score=1&balltype=1&driverrange=1&headspeed=2&trajectory=1&gearexpense=1&golfcareer=&height=&weight=&submit=%E7%A2%BA%E8%AA%8D%E3%81%99%E3%82%8B&mode=confirm&returl=
+HTTP/1.1 200 OK
+Cache-Control: private
+Content-Type: text/html; charset=utf-8
+X-AspNet-Version: 4.0.30319
+X-Powered-By: ASP.NET
+Date: Wed, 05 Apr 2017 07:09:01 GMT
+Content-Length: 11274
+Set-Cookie: TS016d09f0=012504877167840803c0a6b41ecd713118be22bf2ba2ba93b7742e48071d5e52086858604f04860c5c6ef02429361360f244d333f2; Path=/
+
+
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+<!--sns pc site mark//-->
+<html xmlns="http://www.w3.org/1999/xhtml">
+<head>
+<meta http-equiv="X-UA-Compatible" content="IE=EmulateIE8" />
+<meta http-equiv="Content-Type" content="text/html; charset=utf-8" />
+<meta http-equiv="content-style-type" content="text/css" />
+<meta http-equiv="content-script-type" content="text/javascript" />
+
+
+<title>プロフィール変更 | MY GDO | ゴルフダイジェスト･オンライン</title>
+
+
+<meta name="Description" />
+<meta name="Keywords" />
+
+
+<link rel="shortcut icon" href="/favicon.ico" type="image/vnd.microsoft.icon">
+<link rel="icon" href="/favicon.ico" type="image/vnd.microsoft.icon">
+<link rel="stylesheet" type="text/css" href="/community/common/css/style.css" media="all" />
+<link rel="stylesheet" type="text/css" href="/community/common/css/module.css" media="all" />
+<script type="text/javascript" defer="defer" src="/community/common/js/alphafilter.js"></script>
+<script type="text/javascript" src="/community/common/js/jquery.min.js"></script>
+<script>
+jQuery.noConflict();
+var j$ = jQuery;
+</script>
+<link id="myStyle" rel="stylesheet" type="text/css" href="/community/common/css/win.css" />
+<script type="text/javascript">
+<!--
+if(navigator.platform.toUpperCase().indexOf("MAC")!=-1){
+document.getElementById("myStyle").href="/community/common/css/mac.css";
+} else if(navigator.platform.toUpperCase().indexOf("WIN")!=-1){
+document.getElementById("myStyle").href="/community/common/css/win.css";
+}
+//-->
+</script>
+
+<script type="text/javascript" src="//rt.rtoaster.jp/Rtoaster.js"></script>
+<script type="text/javascript">
+Rtoaster.init("RTA-d72d-400f90f91715");
+Rtoaster.track();
+</script>
+
+</head>
+
+<body id="myPage">
+<a name="top" id="top"><!----></a>
+
+ 
+<div id="wholeHeaderPane">
+<div id="res_header">
+<div id="res_globalnavigation">
+<ul id="res_gnavi_new">
+<li class="nav01"><a href="http://www.golfdigest.co.jp/?car=top2_navi">ホーム</a></li>
+<li class="nav02"><a href="http://shop.golfdigest.co.jp/?car=top2_navi">ショップ</a></li>
+<li class="nav03"><a href="http://reserve.golfdigest.co.jp/?car=top2_navi">ゴルフ場予約</a></li>
+<li class="nav04"><a href="http://news.golfdigest.co.jp/?car=top2_navi">ニュース</a></li>
+<li class="nav05"><a href="http://lesson.golfdigest.co.jp/gear/?car=top2_navi">ギア情報</a></li>
+<li class="nav06"><a href="http://www.golfdigest.co.jp/event/?car=top2_navi">競技・イベント</a></li>
+<li class="nav07"><a href="http://lesson.golfdigest.co.jp/lesson/?car=top2_navi">レッスン・練習</a></li>
+<li class="nav08"><a href="http://lesson.golfdigest.co.jp/score/opening/?car=top2_navi">スコア</a></li>
+<li class="nav09"><a href="https://myp.golfdigest.co.jp/?car=top2_navi">MY GDO</a></li>
+<li class="nav10"><a href="http://faq.golfdigest.co.jp/faq_list.html?category=260100&car=top2_navi">ヘルプ</a></li>
+</ul>
+<!-- /#res_globalnavigation --></div>
+<br>
+
+<div id="res_headbody" class="typeA">
+<div id="res_headbodyL">
+<div id="res_ci"><a href="http://www.golfdigest.co.jp/"><img src="/community/resource/images/headfoot/header/ci_small.gif" alt="GOLF DIGEST ONLINE ゴルフダイジェスト・オンライン" width="84" height="31" /></a></div><!-- 
+ --><div id="res_serviceName"><img src="https://myp.golfdigest.co.jp/resource/images/headfoot/header/txt_catename_mygdo.gif" alt="MY GDO" width="94" height="31" /></div><!-- 
+ -->
+</div>
+<div id="res_headbodyR">
+<div id="res_welcome">
+
+<script language="JavaScript" type="text/javascript" charset="utf-8">
+document.write('<scr' + 'ipt language="JavaScript" src="https://myp.golfdigest.co.jp/community/Form/logindisplayfnc.aspx" type="text/javascript" charset="utf-8">');
+document.write('<\/scr' + 'ipt>');
+</script>
+<noscript>
+<div style="margin-top:35px;"></div>
+</noscript>
+
+
+
+<h1 class="vi_header_08">
+</h1>
+</div>
+</div>
+<!-- /#res_headbody --></div>
+
+<!-- /#res_header --></div>
+
+</div>
+
+</div>
+
+<div id="container">
+
+<!-- Navi -->
+
+<div id="gdoNaviArea">
+      <div id="breadcrumb">
+       <p><a href="http://www.golfdigest.co.jp/">ホーム</a><span>&gt;</span><a href="https://myp.golfdigest.co.jp/myp/mygdotop.aspx">MY　GDO</a><span>&gt;</span>プロフィール変更</p>
+      </div>
+</div>
+
+
+<!-- /Navi -->     
+<div id="wrapper" class="cbox">
+<!-- コンテンツ -->
+
+<form name="myprofile" method="post" action="/community/myprofile/">
+<div id="mainArea">
+<div id="mainContents">
+
+
+
+
+<div class="assets reviewBest">
+
+
+
+
+
+<div class="assetsIn">
+<div class="assetsHead">
+<h2>プロフィール確認</h2>
+<p class="subInfoAll"><span class="subText"><span class="must">*</span>は必須項目です</span></p>
+</div>
+<div class="assetsContents">
+
+<div class="section">
+<table class="stripe">
+<tr>
+<th class="taL" scope="row" width="150">ハンドルネーム<span class="must">*</span></th>
+<td class="taL">微微太郎</td>
+</tr>
+<tr>
+<th class="taL" scope="row">自己紹介</th>
+<td class="taL"></td>
+</tr>
+<tr>
+<th class="taL" scope="row">血液型</th>
+<td class="taL">
+A型</td>
+</tr>
+<tr>
+<th class="taL" scope="row">出身地（都道府県）</th>
+<td class="taL">
+北海道</td>
+</tr>
+<tr>
+<th class="taL" scope="row">ゴルファータイプ</th>
+<td class="taL">
+アスリート</td>
+</tr>
+<tr>
+<th class="taL" scope="row">年間ラウンド数</th>
+<td class="taL">
+6～10</td>
+</tr>
+<tr>
+<th class="taL" scope="row">平均スコア</th>
+<td class="taL">
+～72</td>
+</tr>
+<tr>
+<th class="taL" scope="row">持ち球</th>
+<td class="taL">
+ドロー</td>
+</tr>
+<tr>
+<th class="taL" scope="row">ドライバー平均飛距離</th>
+<td class="taL">
+～140</td>
+</tr>
+<tr>
+<th class="taL" scope="row">ヘッドスピード</th>
+<td class="taL">
+31～34</td>
+</tr>
+<tr>
+<th class="taL" scope="row">弾道高さ</th>
+<td class="taL">
+高い</td>
+</tr>
+<tr>
+<th class="taL" scope="row">年間ゴルフ用品購入金額</th>
+<td class="taL">
+～10,000</td>
+</tr>
+<tr>
+<th class="taL" scope="row">ゴルフ歴</th>
+<td class="taL"></td>
+</tr>
+<tr>
+<th class="taL" scope="row">身長</th>
+<td class="taL"></td>
+</tr>
+<tr>
+<th class="taL" scope="row">体重</th>
+<td class="taL"></td>
+</tr>
+<tr>
+<th class="taL" scope="row">生まれた年</th>
+<td class="taL">2000年</td>
+</tr>
+<tr>
+<th class="taL" scope="row">誕生日</th>
+<td class="taL">1月1日</td>
+</tr>
+<tr>
+<th class="taL" scope="row">性別</th>
+<td class="taL">男</td>
+</tr>
+<tr>
+<th class="taL" scope="row">現住所（都道府県）</th>
+<td class="taL">東京都</td>
+</tr>
+</table>
+</div>
+</div>
+<div class="assetsFoot">
+<p class="taC mB10"><input name="btnReturn" type="submit" value="戻る" class="inputBtn" />　
+<input name="btnInput" type="submit" value="登録する" class="inputBtn" /></p>
+<input name="mode" type="hidden" value="regist"/>
+<input name="handlename" type="hidden" value="微微太郎"/>
+<input name="profile" type="hidden" value=""/>
+<input name="blood" type="hidden" value="1"/>
+<input name="frompref" type="hidden" value="01"/>
+<input name="golfertype" type="hidden" value="1"/>
+<input name="roundtimes" type="hidden" value="2"/>
+<input name="score" type="hidden" value="1"/>
+<input name="balltype" type="hidden" value="1"/>
+<input name="driverrange" type="hidden" value="1"/>
+<input name="headspeed" type="hidden" value="2"/>
+<input name="trajectory" type="hidden" value="1"/>
+<input name="gearexpense" type="hidden" value="1"/>
+<input name="golfcareer" type="hidden" value="">
+<input name="height" type="hidden" value="">
+<input name="weight" type="hidden" value="">
+<input name="page" type="hidden" value="0fa7271d-b5c5-4c48-bc6c-3c058af920c0"/>
+<input name="returl" type="hidden" value=""/>
+</div>
+</div>
+
+
+</div>
+</div>
+</div>
+</form>
+
+<!-- /コンテンツ -->
+
+<script type="text/javascript" src="//www.golfdigest.co.jp/rtsrc/uuid.js"></script>
+<script type="text/javascript" src="//www.golfdigest.co.jp/rtsrc/set_cookie.js">
+</script>
+
+</div>
+</div>
+
+<div id="res_combgfooter">
+
+<div id="res_footer">
+<div id="res_footer_utilitylinks">
+<ul>
+<li><a href="http://www.golfdigest.co.jp/company/kiyaku.html">総合利用規約</a></li>
+<li><a href="http://www.golfdigest.co.jp/company/privacy.html">個人情報保護ポリシー</a></li>
+<li><a href="http://www.golfdigest.co.jp/company/kiyaku/envi.html">推奨環境について</a></li>
+<li><a href="http://faq.golfdigest.co.jp/index.html">お問い合わせ・ヘルプ</a></li>
+<li><a href="https://usr.golfdigest.co.jp/enq/enq_form.php?qIds=WtK5xbvCavNW" target="_blank">ご意見・ご要望</a></li>
+</ul>
+</div>
+<div id="res_footer_addressmarks">
+<address>Copyright &copy; 2000-<script type="text/javascript">document.write(new Date().getFullYear());</script> Golf Digest Online Inc. All rights reserved.</address>
+</div>
+<!-- /#res_footer --></div>
+<!-- /#res_backfooter --></div>
+<!-- postload javascript -->
+<script type="text/javascript" src="/community/resource/scripts/headfoot.js"></script>
+
+
+
+<!-- フッター -->
+<script type="text/javascript" src="/community/common/js/jquery.min.js"></script>
+<script type="text/javascript" src="/community/common/js/jquery.hoverIntent.minified.js"></script>
+<script type="text/javascript" src="/community/common/js/script.js"></script>
+<script type="text/javascript" src="/community/common/js/dropdown.js"></script>
+<script type="text/javascript" src="/community/common/js/idtabs.js"></script>
+<script type="text/javascript"> 
+  $("ul.tabs").idTabs(); 
+</script>
+<script language="JavaScript" type="text/javascript">
+<!--
+j$("#adsYahoo").css("overflow", "hidden");
+//j$("#adsYahoo object param:last").after('<param name="wmode" value="transparent">');
+j$("#adsYahoo object embed").attr("wmode","transparent");
+
+//-->
+</script> 
+
+<script type="text/javascript">
+Rtoaster.recommendNow('rt_com');
+</script>
+
+<!-- /フッター -->
+<!-- OneTagManager 20120218-->
+<noscript><iframe src="//www.googletagmanager.com/ns.html?id=GTM-4XSC"
+height="0" width="0" style="display:none;visibility:hidden"></iframe></noscript>
+<script>(function(w,d,s,l,i){w[l]=w[l]||[];w[l].push({'gtm.start':
+new Date().getTime(),event:'gtm.js'});var f=d.getElementsByTagName(s)[0],
+j=d.createElement(s),dl=l!='dataLayer'?'&l='+l:'';j.async=true;j.src=
+'//www.googletagmanager.com/gtm.js?id='+i+dl;f.parentNode.insertBefore(j,f);
+})(window,document,'script','dataLayerGDOall','GTM-4XSC');</script>
+<script language='JavaScript' type='text/javascript' src='https://track.mk.impact-ad.jp/ad/js/cjs.js'></script>
+<script language='JavaScript' type='text/javascript'><!--
+admage_onetag('https://track.mk.impact-ad.jp/ad/p/ot', '_aid=22&_oid=140',false);
+ --></script>
+<noscript>
+<iframe src='https://track.mk.impact-ad.jp/ad/p/ot?_aid=22&_oid=140' width='0' height='0' marginwidth='0' marginheight='0' hspace='0' vspace='0' frameborder='0' scrolling='no' bordercolor='#000000'></iframe>
+</noscript>
+<!-- //OneTagManager 20120218-->
+
+</body>
+</html>

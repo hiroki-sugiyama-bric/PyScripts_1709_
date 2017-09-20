@@ -1,0 +1,41 @@
+POST https://cookpad.com/user/create HTTP/1.1
+Host: cookpad.com
+User-Agent: Mozilla/5.0 (Windows NT 6.1; WOW64; rv:52.0) Gecko/20100101 Firefox/52.0
+Accept: text/html,application/xhtml+xml,application/xml;q=0.9,*/*;q=0.8
+Accept-Language: ja,en-US;q=0.7,en;q=0.3
+Accept-Encoding: gzip, deflate, br
+Referer: https://cookpad.com/user/confirm
+Cookie: cpb=00t96ono0def1ef8f2c21304842f58795aa10e4c30acb6f3fr; bid=00t96ono0def1ef8f2c21304842f58795aa10e4c30acb6f3fr; v=328-1696515-1185977; FVD=%7Bts+%272017-03-31+17%3A01%3A05%27%7D; f_unique_id=5bec2093-155f-4456-a804-4bef57e9486c; user_type=0; has_kitchen=0; trial_type=0; LVD=1491300461; _ga=GA1.2.1537604137.1490947267; __utma=74628096.1537604137.1490947267.1490947267.1491300292.2; __utmz=74628096.1490947267.1.1.utmcsr=google|utmccn=(organic)|utmcmd=organic|utmctr=(not%20provided); _myapp_session=S2JocUhwWDJPeGg5YWs0d3Q5ZnBnYTJ4SnhvVnREbkhaK2YxYTBEbjloQ2E1RGJQM2N6aDBsZWJScW5MSTJJNVR3d3BYbXJQendyK3A4UjczZWlYUHRHQXRnYUZOMTVkQWMzZTg1YkNWR01NUVA4N3pkOW5vbG8vUitqckROeUQyTnYvYUk2emJoR1ByaVBIRExYVGV2ZzdHVE90OWtnUXprMEdEUEJnZlk3eXJYUE9YTnh5T2hXb2VORncreEhYLS1ad3ByZ3hSajdqYXhhQkdiQVpNM2lRPT0%3D--ec071c457c92d8350f8d51c3202b1f281858d44e; payload_D=130588; balancer=760; __utmb=74628096.3.10.1491300292; __utmc=74628096; __utmt=1; payload_E=1491300464067; _gat_crossdomain=1; __utmli=submit
+Connection: keep-alive
+Upgrade-Insecure-Requests: 1
+Content-Type: application/x-www-form-urlencoded
+Content-Length: 739
+
+utf8=%E2%9C%93&authenticity_token=9eSj6WM0uYvs6nNXyXIBVitSA4QYH6vq%2B3CPBNnD0i1LzX79lQlnHPDJyV%2FIHMgi98a7IEVgORoyzOnfv2q1uA%3D%3D&user%5Bsecure_user_attributes%5D%5Bemail%5D=crawlingtest1000%40gmail.com&user%5Bsecure_user_attributes%5D%5Bpassword%5D=Password001&user%5Bsecure_user_attributes%5D%5Bpassword_confirmation%5D=Password001&user%5Bzip%5D=1650023&user%5Bcountry_id%5D=&user%5Babroad_flag%5D=0&user%5Bbirthday%281i%29%5D=1980&user%5Bbirthday%282i%29%5D=1&user%5Bbirthday%283i%29%5D=1&user%5Bgender%5D=1&user%5Bmail_notification%5D=0&user%5Brepimaga_flag%5D=0&user%5Bmonimaga_flag%5D=0&commit=%E6%9C%AC%E7%99%BB%E9%8C%B2%E7%94%A8URL%E3%82%92%E3%83%A1%E3%83%BC%E3%83%AB%E3%81%A7%E9%80%81%E4%BF%A1&atu=1&ate=1491300461&att=1491300464
+HTTP/1.1 302 Found
+Cache-Control: no-store
+Content-Type: text/html; charset=utf-8
+Date: Tue, 04 Apr 2017 10:07:44 GMT
+Location: https://cookpad.com/user/finish?user_id=16857297
+Server: nginx
+Set-Cookie: FVD=%7Bts+%272017-03-31+17%3A01%3A05%27%7D; path=/; expires=Thu, 04 May 2017 10:07:44 -0000; secure
+Set-Cookie: user_type=0; path=/; expires=Thu, 04 May 2017 10:07:44 -0000; secure
+Set-Cookie: has_kitchen=0; path=/; expires=Thu, 04 May 2017 10:07:44 -0000; secure
+Set-Cookie: trial_type=0; path=/; expires=Thu, 04 May 2017 10:07:44 -0000; secure
+Set-Cookie: _myapp_session=TXh5am1zczdXNmZaTU9HKzM0U0FxbWpNL1l0dHV5NGtsMWtsaGJ4aDAya3l6SmJyTDZwK3FvSjJiMGhHYjI3Y1FGVEJ2dW9oNDZsbm9XNDNNYjEwMzZQa3ZFclBwZ3ZXd0Y4UXczMWg5RWxpdjBPUDZ3VXRDNVhCbWFhKzBodE1LbURDYTJoVmp0RlpOQXBkM1Q3VVFUKzBadnhWOHNtNEJTZEpXTlRvYlJ2S2tBaXhaZlFQTENJOWlSQWpkZWlSLS1LSVB3Y0duZmlCVlhiQmZtWlllVmZRPT0%3D--6fa99cbd01f7c30dafa23df351dc42419d7bebe6; path=/; HttpOnly; secure
+Set-Cookie: payload_D=149814; path=/
+Status: 302 Found
+Strict-Transport-Security: max-age=31536000
+Vary: User-Agent
+X-ASC: 4537
+X-ASN: 186
+X-Chst: 39719729b141e96c954d93bc6d0bc969b82455c6ceaabec01bf35bfb233bda25
+X-Content-Type-Options: nosniff
+X-Frame-Options: SAMEORIGIN
+X-Request-Id: fb0fb3df-e86a-4ca3-98a1-48d54201fc92
+X-Runtime: 0.145745
+X-XSS-Protection: 1; mode=block
+Content-Length: 114
+Connection: keep-alive
+
+<html><body>You are being <a href="https://cookpad.com/user/finish?user_id=16857297">redirected</a>.</body></html>

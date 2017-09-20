@@ -1,0 +1,348 @@
+POST https://bpnavi.jp/s/support/profiles/update_confirm HTTP/1.1
+Host: bpnavi.jp
+User-Agent: Mozilla/5.0 (Windows NT 6.1; WOW64; rv:52.0) Gecko/20100101 Firefox/52.0
+Accept: text/html,application/xhtml+xml,application/xml;q=0.9,*/*;q=0.8
+Accept-Language: ja,en-US;q=0.7,en;q=0.3
+Accept-Encoding: gzip, deflate, br
+Referer: https://bpnavi.jp/s/support/profiles/edit
+Cookie: _ga=GA1.2.1212862488.1490947295; auth_token=b8efb5f131187a59c0849c20fe8244bd5b7b872d; general_user_credentials=47c262e1a975811c0af0c340839b7cf5fba4f077801b11ff35ef99b9331ec1e53317f612afc33cf719032bc6dab3a314120409277ae1c354ffdd5bc85be5f2cf%3A%3A6806219; _bpnavi_session=f2c4a801ec8f8ff17340f8dd8afeca1a; _gat=1
+Connection: keep-alive
+Upgrade-Insecure-Requests: 1
+Content-Type: application/x-www-form-urlencoded
+Content-Length: 494
+
+utf8=&authenticity_token=7CEvxFHHMa5o5e1ViYQSArsUZhBe8GzIUzQX1kJxDsg%3D&profile%5Bname%5D=%E3%81%8F%E3%82%8D%E3%83%BC%E3%82%89%E3%83%BC&token=0f184655960de363392cfb0b850adaa5&profile%5Bsex%5D=1&profile%5Bsex_public_level%5D=5&profile%5Barea%5D=9&profile%5Barea_public_level%5D=5&profile%5Bcivil_status%5D=0&profile%5Bcivil_status_public_level%5D=5&profile%5Bbirthday%281i%29%5D=1990&profile%5Bbirthday%282i%29%5D=1&profile%5Bbirthday%283i%29%5D=1&profile%5Bbirthday_public_level%5D=5&x=111&y=29
+HTTP/1.1 200 OK
+Date: Wed, 05 Apr 2017 05:57:08 GMT
+Server: Apache
+X-UA-Compatible: IE=Edge,chrome=1
+ETag: "921fec6a36dd76cd5478a86869a8d708"
+Cache-Control: max-age=0, private, must-revalidate
+X-Request-Id: 6b48329cc9e9ea897c129545613abf1b
+Status: 200 OK
+Vary: Accept-Encoding,User-Agent
+Content-Length: 11374
+Content-Type: text/html; charset=utf-8
+Set-Cookie: auth_token=b8efb5f131187a59c0849c20fe8244bd5b7b872d; path=/; expires=Fri, 05-May-2017 05:55:49 GMT
+Keep-Alive: timeout=15, max=97
+Connection: Keep-Alive
+
+<!DOCTYPE html>
+<!--[if lt IE 9]> ><html lang='ja' class='ie ie8'> <![endif]-->
+<!--[if IE 9]> ><html lang='ja' class='ie ie9'> <![endif]-->
+<!--[if (gt IE 9)|!(IE)]><!--><html class='modern' lang='ja'><!--<![endif]-->
+<head>
+<meta content='text/html; charset=utf-8' http-equiv='Content-Type' />
+<meta content='text/css' http-equiv='Content-Style-Type' />
+<meta content='text/javascript' http-equiv='Content-Script-Type' />
+<meta content='バンプレストのプライズ景品や一番くじ商品、その他さまざまなサービス、イベント、キャンペーンをご紹介する総合情報サイトです。' name='description' />
+<meta content='バンプレスト,一番くじ,とるナビ,プライズ,マイページ' name='keyword' />
+<!-- Google Tag Manager -->
+<script>(function(w,d,s,l,i){w[l]=w[l]||[];w[l].push({'gtm.start':
+new Date().getTime(),event:'gtm.js'});var f=d.getElementsByTagName(s)[0],
+j=d.createElement(s),dl=l!='dataLayer'?'&l='+l:'';j.async=true;j.src=
+'https://www.googletagmanager.com/gtm.js?id='+i+dl;f.parentNode.insertBefore(j,f);
+})(window,document,'script','dataLayer','GTM-PHPJ7DB');</script>
+<!-- End Google Tag Manager --><title>バンプレナビ｜プロフィール設定確認</title>
+<link href="/s/assets/bpnavi/bpnavi_favicon_16.ico" rel="shortcut icon" type="image/vnd.microsoft.icon" /><link href="/s/assets/mypage/pc/cmn_reset.css?1491361022" media="screen" rel="stylesheet" type="text/css"><link href="/s/assets/mypage/pc/common_style.css?1491361022" media="screen" rel="stylesheet" type="text/css"><link href="/s/assets/mypage/pc/second_style.css?1491361022" media="screen" rel="stylesheet" type="text/css"><script src="/s/assets/mypage/pc/jquery-1.10.2.min.js?1491361022" type="text/javascript"></script><script src="/s/assets/mypage/pc/jquery.biggerlink.js?1491361022" type="text/javascript"></script><script src="/s/assets/mypage/pc/jquery.heightLine.js?1491361022" type="text/javascript"></script><script src="/s/assets/mypage/pc/common.js?1491361022" type="text/javascript"></script><script type='text/javascript'>
+  //<![CDATA[
+    (function(i,s,o,g,r,a,m){i['GoogleAnalyticsObject']=r;i[r]=i[r]||function(){
+    (i[r].q=i[r].q||[]).push(arguments)},i[r].l=1*new Date();a=s.createElement(o),
+    m=s.getElementsByTagName(o)[0];a.async=1;a.src=g;m.parentNode.insertBefore(a,m)
+    })(window,document,'script','//www.google-analytics.com/analytics.js','ga');
+    
+    ga('create', 'UA-20716800-18', 'auto');  // Replace with your property ID.
+    ga('send', 'pageview');
+  //]]>
+</script></head>
+<body id='myContents'>
+<!-- Google Tag Manager (noscript) -->
+<noscript><iframe src="https://www.googletagmanager.com/ns.html?id=GTM-PHPJ7DB"
+height="0" width="0" style="display:none;visibility:hidden"></iframe></noscript>
+<!-- End Google Tag Manager (noscript) --><div id='headNav'>
+<div class='wrapArea900'>
+<ul>
+<li><a href="http://www.bpnavi.jp/sitemap">サイトマップ</a></li>
+<li><a href="/s/support/homes/qa">お問い合わせ／Q＆A</a></li>
+<li><a href="/s/mypage/tops#settingmenu">各種設定</a></li>
+</ul>
+<div class='Search'>
+<form accept-charset="UTF-8" action="http://www.bpnavi.jp/goods_search/keyword" method="get"><input name="utf8" type="hidden" value="" />
+<label>
+<input class="SearchBox" id="search" name="s" placeholder="商品名など" type="search" value="" />
+</label>
+<input alt="送信する" class="send" src="/s/assets/mypage/pc/btn_search_mini.jpg" type="image" />
+</form>
+
+</div>
+<div class='mobileBnr'>
+<a href="http://www.bpnavi.jp/mobile"><img alt="バンプレID入力ができる！モバイルサイト詳細はこちら！" src="/s/assets/mypage/pc/g-header-mb.png" /></a>
+</div>
+</div>
+</div>
+<div id='gNav'>
+<div class='wrapArea900'>
+<h1>
+<a href="http://www.bpnavi.jp/"><img alt="Logo" height="43" src="/s/assets/mypage/pc/logo.png" width="160" /></a>
+</h1>
+<div id='gNavinnner'>
+<ul>
+<li class='gNav01 gNavov'>
+<a href="http://www.bpnavi.jp/kuji/" class="gn">一番くじ倶楽部</a>
+</li>
+<li class='gNav02 gNavov'>
+<a href="http://www.bpnavi.jp/toru/" class="gn">とるナビ</a>
+</li>
+<li class='gNav03 gNavov'>
+<a href="/s/cafe/pc" class="gn">一番カフェ</a>
+</li>
+<li class='gNav04 gNavov'>
+<a href="/s/print/pc" class="gn">プリント一番くじ</a>
+</li>
+<li class='gNav05 gNavov'>
+<a href="http://www.bpnavi.jp/goods_search" class="gn">商品検索</a>
+<ul class='gNav05s'>
+<li><a href="http://www.bpnavi.jp/goods_search/chara"><img alt="キャラクターからさがす" src="/s/assets/mypage/pc/navi_search_chara.png" /></a></li>
+<li><a href="http://www.bpnavi.jp/schedule"><img alt="発売日からさがす" src="/s/assets/mypage/pc/navi_search_release.png" /></a></li>
+</ul>
+</li>
+<li class='gNav06 gNavov'>
+<a href="/s/mypage/tops" class="gn">マイページメニュー</a>
+<ul class='gNav06s'>
+<li><a href="/s/mypage/tops"><img alt="マイページ" height="18" src="/s/assets/mypage/pc/navi_mypage_mypage.gif" width="81" /></a></li>
+<li><a href="/s/mypage/tops#settingmenu"><img alt="各種設定" height="19" src="/s/assets/mypage/pc/navi_mypage_setting.gif" width="73" /></a></li>
+<li><a href="/s/support/homes"><img alt="サポートメニュー" height="19" src="/s/assets/mypage/pc/navi_mypage_suport.gif" width="117" /></a></li>
+</ul>
+</li>
+</ul>
+<span></span>
+</div>
+</div>
+</div><div class='wrapArea900' id='mainContents'>
+<!--パンくずナビ-->
+<ul class='clearfix' id='pankuzu'>
+<li class='home'>
+<a href="http://www.bpnavi.jp/"><img alt="" height="12" src="/s/assets/mypage/pc/pankuzu_home.png" width="12" />HOME
+</a></li>
+<li>
+<a href="/s/mypage/tops" class="">マイページ</a></li><li>プロフィール設定</li>
+<li class='logout'>
+<a href="/s/logout"><img alt="ログアウト" height="31" src="/s/assets/mypage/pc/pankuzu_logout.png" width="100" /></a></li>
+</ul>
+<!--/パンくずナビ-->
+<h2 class='black'>
+<div class='top'>
+<img alt="" height="4" src="/s/assets/mypage/pc/bg_title_top.png" width="900" /></div>
+<div class='title'>
+プロフィール設定確認</div>
+<div class='bottom'>
+<img alt="" height="4" src="/s/assets/mypage/pc/bg_title_bottom.png" width="900" /></div>
+</h2>
+<div id='mypage'>
+<div class='block875 block'>
+<div class='top'>
+<img alt="" height="4" src="/s/assets/mypage/pc/bg_875_top.png" width="875" />
+</div>
+<div class='ContentsArea875'>
+<div class='blockInner'>
+<form accept-charset="UTF-8" action="/s/support/profiles" method="post"><input name="utf8" type="hidden" value="" /><input name="_method" type="hidden" value="put" /><input name="authenticity_token" type="hidden" value="7CEvxFHHMa5o5e1ViYQSArsUZhBe8GzIUzQX1kJxDsg=" />
+<dl class='w500' id='editProfile'>
+<dt>
+<span>ニックネーム</span>
+</dt>
+<dd>
+くろーらー
+<input id="profile_name" name="profile[name]" type="hidden" value="くろーらー" />
+<input id="profile_name_public_level" name="profile[name_public_level]" type="hidden" value="1" />
+<input id="token" name="token" type="hidden" value="0f184655960de363392cfb0b850adaa5" />
+</dd>
+<dt>
+<span>性別</span>
+</dt>
+<dd>
+女性
+<span class='publish'>非公開</span>
+<input id="profile_sex" name="profile[sex]" type="hidden" value="1" />
+<input id="profile_sex_public_level" name="profile[sex_public_level]" type="hidden" value="5" />
+</dd>
+<dt>
+<span>
+都道府県
+</span>
+</dt>
+<dd>
+栃木県
+<span class='publish'>非公開</span>
+<input id="profile_area" name="profile[area]" type="hidden" value="9" />
+<input id="profile_area_public_level" name="profile[area_public_level]" type="hidden" value="5" />
+</dd>
+<dt>
+<span>
+未婚・既婚
+</span>
+</dt>
+<dd>
+未婚
+<span class='publish'>非公開</span>
+<input id="profile_civil_status" name="profile[civil_status]" type="hidden" value="0" />
+<input id="profile_civil_status_public_level" name="profile[civil_status_public_level]" type="hidden" value="5" />
+</dd>
+<dt>
+<span>誕生日</span>
+</dt>
+<dd>
+1990/01/01
+<span class='publish'>非公開</span>
+<input id="profile_birthday" name="profile[birthday]" type="hidden" value="1990-01-01" />
+<input id="profile_birthday_public_level" name="profile[birthday_public_level]" type="hidden" value="5" />
+</dd>
+</dl>
+<div class='mt50 inlineC'>
+<input alt="戻る" height="42" name="back" src="/s/assets/mypage/pc/btn_back.png" type="image" width="125" />
+<input alt="確定" class="ml25" src="/s/assets/mypage/pc/btn_confirm.png" type="image" />
+</div>
+</form>
+
+</div>
+</div>
+<div class='bottom'>
+<img alt="Bg_875_bottom" height="4" src="/s/assets/mypage/pc/bg_875_bottom.png" width="875" />
+</div>
+</div></div>
+</div>
+<div id='footerArea'>
+<div class='linkArea'></div>
+<div class='menuArea'>
+<div class='menuAreaWrap'>
+<ul class='clearfix heightLineParent'>
+<li class='contents'>
+<dl>
+<dt>
+コンテンツ
+</dt>
+<dd>
+<a href="http://www.bpnavi.jp/kuji/">一番くじ倶楽部</a>
+</dd>
+<dd>
+<a href="http://www.bpnavi.jp/toru/">とるナビ</a>
+</dd>
+<dd>
+<a href="/s/cafe/pc">一番カフェ</a>
+</dd>
+<dd>
+<a href="/s/print/pc">プリント一番くじ</a>
+</dd>
+<dd>
+<a href="http://www.bpnavi.jp/schedule">発売スケジュール</a>
+</dd>
+<dd>
+<a href="http://www.bpnavi.jp/goods_search">商品検索</a>
+</dd>
+<dd>
+<a href="/s/mypage/tops">マイページ</a>
+</dd>
+</dl>
+</li>
+<li class='support'>
+<dl>
+<dt>
+サポート
+</dt>
+<dd>
+<a href="/s/support/homes/guide#about">バンプレナビとは</a>
+</dd>
+<dd>
+<a href="/s/support/homes/qa">お問い合わせ／Q&amp;A</a>
+</dd>
+<dd>
+<a href="http://www.bpnavi.jp/sitemap">サイトマップ</a>
+</dd>
+<dd>
+<a href="http://www.bpnavi.jp/agreement">会員規約</a>
+</dd>
+<dd>
+<a href="http://www.bpnavi.jp/privacy">プライバシーポリシー</a>
+</dd>
+<dd>
+<a href="/s/support/homes">サポートメニュー</a>
+</dd>
+</dl>
+</li>
+<li>
+<dl>
+<dt>
+企業情報
+</dt>
+<dd>
+<a href="http://www.banpresto.co.jp/company/">企業情報</a>
+</dd>
+<dd>
+<a href="http://www.banpresto.co.jp/info/terms/">利用規約</a>
+</dd>
+<dd>
+<a href="http://www.banpresto.co.jp/info/privacy/">個人情報保護方針</a>
+</dd>
+</dl>
+</li>
+<li class='link'>
+<dl>
+<dt>
+リンク
+</dt>
+<dd>
+<a href="http://www.bpnavi.jp/kuji/">一番くじ倶楽部</a>
+</dd>
+<dd>
+<a href="http://www.bpnavi.jp/toru/">とるナビ</a>
+</dd>
+<dd>
+<a href="/s/cafe/pc">一番カフェ</a>
+</dd>
+<dd>
+<a href="/s/print/pc">プリント一番くじ</a>
+</dd>
+</dl>
+</li>
+<li class='mobile'>
+<dl>
+<dt>
+モバイルサイト
+</dt>
+<dd class='qr'>
+<img alt="#" src="/s/assets/mypage/pc/img_top_qr.gif" width="90" />
+</dd>
+<dd>
+スマートフォンから<br />アクセスしよう!!<br />
+<span>http://bpnavi.jp/</span>
+</dd>
+</dl>
+</li>
+<li class='footerLogo'>
+<a href="http://www.banpresto.co.jp/"><img alt="#" src="/s/assets/mypage/pc/banpresto_logo.jpg" width="100" /></a>
+</li>
+</ul>
+<div class='footerAttention'>
+写真と実際の商品とは異なる場合がございますのでご了承ください。このホームページに掲載されているすべての画像、文章、データ等の無断転用、転載はお断りします。
+<br />
+&copy; 2017 BANPRESTO CO., LTD. ALL RIGHTS RESERVED.
+</div>
+<div class='pagetop'>
+<a href="#headNav"><img alt="#" src="/s/assets/mypage/pc/btn_pagetop.jpg" width="81" /></a>
+</div>
+</div>
+</div>
+<div class='copyright'>
+<div class='Open'>
+<span>
+▼
+</span>
+<a href="#">権利表記一覧を開く</a>
+<span>
+▼
+</span>
+</div>
+<div class='txt'>
+
+</div>
+</div>
+</div></body></html>

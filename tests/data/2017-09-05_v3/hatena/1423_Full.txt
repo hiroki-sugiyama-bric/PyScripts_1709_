@@ -1,0 +1,349 @@
+GET https://www.hatena.ne.jp/login/history HTTP/1.1
+Host: www.hatena.ne.jp
+User-Agent: Mozilla/5.0 (Windows NT 6.1; WOW64; rv:51.0) Gecko/20100101 Firefox/51.0
+Accept: text/html,application/xhtml+xml,application/xml;q=0.9,*/*;q=0.8
+Accept-Language: ja,en-US;q=0.7,en;q=0.3
+Referer: https://www.hatena.ne.jp/tester99994/config
+Cookie: b=$1$My7gZnO8$0.FGsPl4n1llPMV82C5TE1; _fout_segment=83206%2C83207%2C83208%2C83209%2C83215%2C83217%2C83218%2C83219%2C83220; _nttcom_segment=36000; _vsn_segment=37000; __gads=ID=53893da3f15ba603:T=1484115036:S=ALNI_MZ-5OuVluzYAAbSOjQmOTW8TyUzpg; _fout_segment_sync=1; _td=be863d7e-ee4e-4869-b43a-0cc9d49c24e5; OX_sd=2; OX_plg=sl|pdf|wmp|pm; _ga=GA1.3.1991463582.1487329486; __utma=90496003.1991463582.1487329486.1487329486.1487329486.1; __utmb=90496003.0.10.1487329486; __utmc=90496003; __utmz=90496003.1487329486.1.1.utmcsr=blog.kaerucloud.com|utmccn=(referral)|utmcmd=referral|utmcct=/entry/website-ranking; hatenausr=SRs24BSmHge_1487329490338; _tdim=2df9c595-0f3f-4149-c09f-56fd48950602; rk=f9cf05b364a04e27cd445e0f545c7ac69a358672; _dc_gtm_UA-47034238-1=1; edit_profile_result=%E3%83%97%E3%83%AD%E3%83%95%E3%82%A3%E3%83%BC%E3%83%AB%E3%81%AE%E5%A4%89%E6%9B%B4%E3%82%92%E4%BF%9D%E5%AD%98%E3%81%97%E3%81%BE%E3%81%97%E3%81%9F%E3%80%82
+Connection: close
+Upgrade-Insecure-Requests: 1
+
+
+HTTP/1.1 200 OK
+Server: nginx
+Date: Fri, 17 Feb 2017 11:19:47 GMT
+Content-Type: text/html; charset=utf-8
+Content-Length: 12445
+Connection: close
+Vary: Accept-Encoding
+Vary: Accept-Language,Accept-Encoding,User-Agent
+X-Framework: Ridge/0.11 Plack/0.9959
+X-Ridge-Dispatch: Hatena::WWW::Engine::Login::History#default
+X-Runtime: 42ms
+X-View-Runtime: 17ms
+
+<!DOCTYPE html>
+<html lang="ja" data-device="pc" data-theme=""
+    data-hatena-cookie-domain=".hatena.ne.jp">
+  <head>
+    <title>tester99994さんのログイン履歴 - はてな</title><meta name=viewport content="width=device-width">
+    <link rel=stylesheet href="/css/wwwridge/myconfig.css?20130826">
+
+
+    <style type="text/css">
+      table.config {
+      border-collapse: collapse;
+      }
+      table.config th,
+      table.config td {
+        border: 1px solid #C0CBDE;
+        white-space: normal;
+      }
+      table.config td {
+        vertical-align: middle;
+        background: #FFF;
+        padding: 5px;
+        text-align: center;
+        -moz-box-sizing: content-box;
+        -webkit-box-sizing: content-box;
+        -o-box-sizing: content-box;
+        -ms-box-sizing: content-box;
+      }
+      table.config td.current {
+        background: #ebfaeb;
+      }
+      div.invalidate {
+        margin: 10px 0 30px;
+        float: right;
+      }
+      .history-datetime {
+        min-width: 10em;
+      }
+      .history-country {
+        min-width: 4em;
+      }
+      table.config td.history-network {
+        text-align: left;
+      }
+      .history-platform {
+        min-width: 8em
+      }
+      td.history-platform {
+        padding: 0;
+      }
+      td.history-platform div.history-environment-container {
+        padding: 5px;
+        position: relative;
+      }
+      .history-environment {
+        display: none;
+        font-size: 80%;
+        line-height: 1.4;
+        text-align: left;
+        padding: 5px;
+        position: absolute;
+        right: 10px;
+        background: #fff;
+        border: 1px solid #C0CBDE;
+        white-space: nowrap;
+        z-index: 10;
+      }
+      .history-platform:hover .history-environment {
+        display: block;
+      }
+      .history-status {
+        min-width: 6em;
+      }
+
+@media only screen and (max-width:640px) {
+  .intro {
+    padding: 8px;
+  }
+    table.config {
+      border: none;
+    }
+    table.config tr {
+      display: block;
+      border: 1px solid #C0CBDE;
+      border-bottom: none;
+      margin: 0 8px 2em 8px;
+    }
+    table.config th,
+    table.config td {
+      display: block;
+      border: none;
+      text-align: left;
+      border-bottom: 1px solid #C0CBDE;
+    }
+    table.config th {
+      text-align:left;
+    }
+    table.config tr:first-child {
+      display:none;
+    }
+    table.config.current-status tr {
+      display: block;
+      margin-bottom: 0;
+    }
+    td.history-platform div.history-environment-container {
+      display: inline-block;
+    }
+    .history-platform:hover .history-environment {
+      display: none;
+    }
+    table.config.current-status tr:first-child th:nth-child(2),
+    table.config.current-status tr:first-child th:nth-child(3),
+    table.config.current-status tr:first-child th:nth-child(4) {
+      display: none;
+    }
+    table.config.current-status tr:nth-child(2) td:first-child {
+      background: #ebfaeb;
+    }
+    table.config td:first-child {
+      background: #e0e9fa;
+    }
+    table.config.current-status td:nth-child(1):before {
+      font-size: 80% ;
+      color: #999;
+      margin-right:1em;
+      content: "国・地域";
+    }
+    table.config.current-status td:nth-child(2):before {
+      font-size: 80% ;
+      color: #999;
+      margin-right:1em;
+      content: "アクセス元";
+    }
+    table.config.current-status td:nth-child(3):before {
+      font-size: 80% ;
+      color: #999;
+      margin-right:1em;
+      content: "利用環境";
+    }
+    table.config td:nth-child(1):before {
+      font-size: 80% ;
+      color: #999;
+      margin-right:1em;
+      content: "ログイン日時";
+    }
+    table.config td:nth-child(2):before {
+      font-size: 80% ;
+      color: #999;
+      margin-right:1em;
+      content: "国・地域";
+    }
+    table.config td:nth-child(3):before {
+      font-size: 80% ;
+      color: #999;
+      margin-right:1em;
+      content: "アクセス元";
+    }
+    table.config td:nth-child(4):before {
+      font-size: 80% ;
+      color: #999;
+      margin-right:1em;
+      content: "利用環境";
+    }
+    table.config td:nth-child(5):before {
+      font-size: 80% ;
+      color: #999;
+      margin-right:1em;
+      content: "ログイン状態";
+    }
+}
+
+    </style>
+
+  </head>
+  <body id="hatena-www-login-history"
+      class="">
+
+    <div id="header">
+      <img src="/images/touch/header_logo_hatena.png" width="88" heihgt="44" alt="はてな" class=touch-logo>
+
+      <div id="header-body">
+        <a href="/" class="service-logo-container"><img class="service-logo" src="/images/logo_portal_hatena.gif" alt="はてな"></a>
+        <ul class="service-menu">
+          <li><a href="//profile.hatena.ne.jp/my/"><img src="http://n.hatena.ne.jp/my/profile/image?type=icon&amp;size=16" class="header-profile-icon" alt="" width="16" height="16">プロフィール</a>
+          <li><a href="/my">Myはてな</a>
+          <li><a href="/my/config">設定</a>
+          <li><a href="/help/">ヘルプ</a><li id="langselector-button" tabindex=0><span><a href="//n.hatena.ne.jp/setting/locale?location=https://www.hatena.ne.jp/my/config">日本語</a></span>
+            <div id="langselector">
+              <div id="langselector-title">表示言語を選択</div>
+              <div id="langselector-body">
+                <ul>
+                    <li  class="selected">
+                      <a id="ja" href="?locale.lang=ja" rel="alternate" hreflang="ja">日本語</a>
+                    <li >
+                      <a id="en" href="?locale.lang=en" rel="alternate" hreflang="en">English</a>
+                    <li >
+                      <a id="en-gb" href="?locale.lang=en-gb" rel="alternate" hreflang="en-gb">English (UK)</a>
+                    <li >
+                      <a id="fr" href="?locale.lang=fr" rel="alternate" hreflang="fr">Français</a>
+                    <li >
+                      <a id="it" href="?locale.lang=it" rel="alternate" hreflang="it">Italiano</a>
+                    <li >
+                      <a id="es" href="?locale.lang=es" rel="alternate" hreflang="es">Español</a>
+                    <li >
+                      <a id="de" href="?locale.lang=de" rel="alternate" hreflang="de">Deutsch</a>
+                </ul>
+              </div>
+            </div><li class="header-username" id="header-username" title="利用中のサービス" data-name="tester99994">
+            <span class="header-dropdown" tabindex="0"><img src="/images/header/usermenu.png" alt="利用中のサービス" ></span>
+            <dl class="header-window" id="username-window"></dl>
+          <li class="header-notify" id="header-notify" title="あなたへのお知らせ">
+            <span class="header-dropdown" tabindex="0"><img src="/images/header/notify.png" alt="あなたへのお知らせ"><span class="notify-count"></span></span>
+            <div id="notify-window" class="header-window header-notify"></div>
+        </ul>
+      </div>
+    </div>
+
+    <div id="container">
+      <h1 class=page-title><img src="http://n.hatena.ne.jp/my/profile/image?type=icon&amp;size=64" class="profile-image" alt="">tester99994さんのログイン履歴</h1>
+
+      <div id="body"><p class="intro">ログインに成功した、最近50件分の履歴を表示しています。心当たりのないログイン履歴がある場合、第三者が不正にあなたのアカウントにログインしている可能性があります。<br />
+その場合は「他の環境のログイン状態を無効にする」ボタンをクリックして、現在お使いの環境以外を一度ログアウト状態にしてください。また、<a href="https://www.hatena.ne.jp/my/config">ユーザー設定画面</a>から登録メールアドレスが正しいアドレスであることを確認の上、パスワードの変更を行ってください。</p>
+
+  <table class="config current-status">
+    <tr>
+      <th rowspan="2">現在の状態</th>
+      <th class="history-country">国・地域</th>
+      <th class="history-network">アクセス元</th>
+      <th class="history-platform">利用環境</th>
+    </tr>
+    <tr>
+      <td class="current history-country">日本</td>
+      <td class="current history-network">218.223.2.212 (office212.sjk.bbsec.co.jp)      </td>
+      <td class="current history-platform">
+        <div class="history-environment-container">
+          パソコン
+          <div class="history-environment">Mozilla/5.0 (Windows NT 6.1; WOW64; rv:51.0)<br> Gecko/20100101 Firefox/51.0</div>
+        </div>
+      </td>
+    </tr>
+  </table>
+
+  <div class="invalidate">
+    <form action="/login/history/invalidate" method="post">
+      <input type="hidden" name="rkm" value="dqOLEvr4+Niua2lViBuDOA" />
+      <input type="submit" value="他の環境のログイン状態を無効にする" />
+    </form>
+  </div>
+
+  <table class="config">
+    <tr>
+      <th class="history-datetime">ログイン日時</th>
+      <th class="history-country">国・地域</th>
+      <th class="history-network">アクセス元</th>
+      <th class="history-platform">利用環境</th>
+      <th class="history-status">ログイン状態</th>
+    </tr>
+    
+    <tr>
+      <td class="history-datetime">2017/02/17 20:14:34</td>
+      <td class="history-country current">日本</td>
+      <td class="history-network current">218.223.2.212 (office212.sjk.bbsec.co.jp)      </td>
+      <td class="history-platform current">
+        <div class="history-environment-container">
+          パソコン
+          <div class="history-environment">Mozilla/5.0 (Windows NT 6.1; WOW64; rv:51.0)<br> Gecko/20100101 Firefox/51.0</div>
+        </div>
+      </td>
+      <td class="history-status current">有効</td>
+    </tr>
+    
+  </table></div>
+    </div>
+
+    <script src="/js/wwwridge/myconfig.js"></script><nav class=common-menu><h2 class=title>メニュー</h2>
+        <menu class="list block-link"><li><a href="/">トップ</a><li><a href="/my">Myはてな</a><li><a href="/help/">ヘルプ</a></menu><div class="pagetop">
+        <a href="#body">上へ</a>
+      </div>
+      <div id="footer-menu">
+        <a href="/my/">
+          <img src="http://n.hatena.ne.jp/my/profile/image?type=icon&amp;size=16" width=16 height=16 alt>tester99994</a>
+
+        <form class=menu action="/logout" method=post
+              onsubmit="return confirm(this.getAttribute('data-confirm-text'))"
+              data-confirm-text="ログアウトしますか?">
+            <button type=submit>ログアウト</button>
+          </form>
+
+          <span id=langselector-button-touch><a href="http://n.hatena.ne.jp/setting/locale?location=https://www.hatena.ne.jp/my/" id=touch-langselector-link>日本語          </a></span>
+          <div id="langselector-touch">
+            <div id="langselector-title-touch">表示言語を選択</div>
+            <div id="langselector-body-touch">
+              <ul>
+                  <li  class="selected">
+                    <a id="ja" href="?locale.lang=ja" rel="alternate" hreflang="ja">日本語</a>
+                  <li >
+                    <a id="en" href="?locale.lang=en" rel="alternate" hreflang="en">English</a>
+                  <li >
+                    <a id="en-gb" href="?locale.lang=en-gb" rel="alternate" hreflang="en-gb">English (UK)</a>
+                  <li >
+                    <a id="fr" href="?locale.lang=fr" rel="alternate" hreflang="fr">Français</a>
+                  <li >
+                    <a id="it" href="?locale.lang=it" rel="alternate" hreflang="it">Italiano</a>
+                  <li >
+                    <a id="es" href="?locale.lang=es" rel="alternate" hreflang="es">Español</a>
+                  <li >
+                    <a id="de" href="?locale.lang=de" rel="alternate" hreflang="de">Deutsch</a>
+              </ul>
+            </div>
+            <script>
+              LocalePanel.setupPanelTouch();
+            </script>
+          </div></div>
+    </nav>
+
+    <div id="footer">
+      <div class="menu">
+        <a href="/">ホーム</a>
+        - <a href="/rule/rule">利用規約</a>
+        - <a href="/rule/privacypolicy">プライバシーポリシー</a>
+        - <a href="/faq/">お問い合わせ</a>
+        - <a href="/company/tokutei">特定商取引法に基づく表示</a>
+        - <a href="/company/shikin">資金決済法に基づく表示</a>
+      </div>
+    </div>
+    <div id="copyright">Copyright &copy; Hatena. All Rights Reserved.</div>

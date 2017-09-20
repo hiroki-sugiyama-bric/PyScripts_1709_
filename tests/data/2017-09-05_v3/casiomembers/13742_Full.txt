@@ -1,0 +1,212 @@
+POST https://shindan-tmp00-members.casio.jp/jp/register/g007_check.php HTTP/1.1
+Host: shindan-tmp00-members.casio.jp
+Connection: close
+Content-Length: 2443
+Cache-Control: max-age=0
+Origin: https://shindan-tmp00-members.casio.jp
+Upgrade-Insecure-Requests: 1
+User-Agent: Mozilla/5.0 (Windows NT 10.0; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/55.0.2883.87 Safari/537.36
+Content-Type: application/x-www-form-urlencoded
+Accept: text/html,application/xhtml+xml,application/xml;q=0.9,image/webp,*/*;q=0.8
+Referer: https://shindan-tmp00-members.casio.jp/jp/register/g006_check.php
+Accept-Language: ja,en-US;q=0.8,en;q=0.6
+Cookie: _gat_UA-15439440-40=1; _ga=GA1.3.327710499.1484707611
+
+INTERESTS_arr%5B%5D=%E3%82%B3%E3%83%B3%E3%83%94%E3%83%A5%E3%83%BC%E3%82%BF%E3%83%BB%E3%82%A4%E3%83%B3%E3%82%BF%E3%83%BC%E3%83%8D%E3%83%83%E3%83%88&INTERESTS_arr%5B%5D=%E3%82%BD%E3%83%BC%E3%82%B7%E3%83%A3%E3%83%AB%E3%83%8D%E3%83%83%E3%83%88%E3%83%AF%E3%83%BC%E3%82%AF&INTERESTS_arr%5B%5D=%E3%82%B2%E3%83%BC%E3%83%A0%E3%83%BB%E3%82%A2%E3%83%8B%E3%83%A1&INTERESTS_arr%5B%5D=%E9%9F%B3%E6%A5%BD%E9%91%91%E8%B3%9E&INTERESTS_arr%5B%5D=%E5%AE%B6%E9%9B%BB%E3%83%BB%E3%82%A8%E3%83%AC%E3%82%AF%E3%83%88%E3%83%AD%E3%83%8B%E3%82%AF%E3%82%B9&INTERESTS_arr%5B%5D=%E8%8A%B8%E8%A1%93%E3%83%BB%E7%BE%8E%E8%A1%93%E3%83%BB%E6%BC%94%E5%8A%87&INTERESTS_arr%5B%5D=%E7%92%B0%E5%A2%83%E3%83%BB%E3%82%A8%E3%82%B3%E3%83%AD%E3%82%B8%E3%83%BC&INTERESTS_arr%5B%5D=%E6%97%85%E8%A1%8C&INTERESTS_arr%5B%5D=%E6%96%87%E5%AD%A6%E3%83%BB%E8%AA%AD%E6%9B%B8&INTERESTS_arr%5B%5D=%E8%AA%9E%E5%AD%A6%E3%83%BB%E7%95%99%E5%AD%A6&INTERESTS_arr%5B%5D=%E3%82%B9%E3%83%9D%E3%83%BC%E3%83%84%E8%A6%B3%E6%88%A6&INTERESTS_arr%5B%5D=%E3%82%B9%E3%83%9D%E3%83%BC%E3%83%84%E5%8F%82%E5%8A%A0&INTERESTS_arr%5B%5D=%E5%A4%96%E9%A3%9F%E3%83%BB%E3%82%B0%E3%83%AB%E3%83%A1&INTERESTS_arr%5B%5D=%E3%82%B7%E3%83%A7%E3%83%83%E3%83%94%E3%83%B3%E3%82%B0&INTERESTS_arr%5B%5D=%E3%83%89%E3%83%A9%E3%82%A4%E3%83%96&INTERESTS_arr%5B%5D=%E3%83%93%E3%83%87%E3%82%AA%E3%83%BB%E5%86%99%E7%9C%9F%E6%92%AE%E5%BD%B1&INTERESTS_arr%5B%5D=%E6%96%99%E7%90%86&INTERESTS_arr%5B%5D=%E5%9C%92%E8%8A%B8%E3%83%BB%E3%82%AC%E3%83%BC%E3%83%87%E3%83%8B%E3%83%B3%E3%82%B0&INTERESTS_arr%5B%5D=DIY%E3%83%BB%E6%89%8B%E8%8A%B8&INTERESTS_arr%5B%5D=%E3%83%9A%E3%83%83%E3%83%88&INTERESTS_arr%5B%5D=%E6%A5%BD%E5%99%A8%E6%BC%94%E5%A5%8F&INTERESTS_arr%5B%5D=%E3%82%A2%E3%82%A6%E3%83%88%E3%83%89%E3%82%A2&INTERESTS_arr%5B%5D=%E3%83%9C%E3%83%A9%E3%83%B3%E3%83%86%E3%82%A3%E3%82%A2%E6%B4%BB%E5%8B%95&INTERESTS_arr%5B%5D=%E5%81%A5%E5%BA%B7%E3%83%BB%E7%BE%8E%E5%AE%B9&INTERESTS_arr%5B%5D=%E3%83%95%E3%82%A1%E3%83%83%E3%82%B7%E3%83%A7%E3%83%B3&INTERESTS_arr%5B%5D=%E5%AD%90%E8%82%B2%E3%81%A6%E3%83%BB%E6%95%99%E8%82%B2&CODE=792830&submit_button=%E7%99%BB%E9%8C%B2%E3%81%99%E3%82%8B&QPWOOI=AmxlBQZj&ALSKDJ=ZGD4AQpjBQN2ZN%253D%253D&MAXREC=26&VSEIDJ=ZmZlZJSyZwL0BGqzMQR0BJH1ZGWwMQIwAJWzZQAvMwAuAJIvLzDkZt%253D%253D&AOBTNF=ZD%3D%3D&MAILSNSGET=1&sns_flg=0&DATE=&EMAIL=sns_crg_01%40casio.co.jp&EMAIL2=sns_crg_01%40casio.co.jp&PASSWORD=WwksGSN2U9Pp&YEAR=1999&MONTH=9&DAY=9&GENDAR=1&CHECK01=1&CHECK02=1&CHECK03=1&CHECK04=1&CHECK05=1&CHECK06=1&CHECK07=1&CHECKETC=1
+HTTP/1.1 200 OK
+Content-Type: text/html
+Date: Wed, 18 Jan 2017 02:55:05 GMT
+Server: Apache
+Connection: Close
+Content-Length: 9208
+
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+<html>
+<head>
+<meta http-equiv="Content-Type" content="text/html; charset=utf-8" />
+<meta http-equiv="X-UA-Compatible" content="IE=EmulateIE8,Edge">
+<meta name="author" content="" />
+<meta name="description" content=" " />
+<meta name="keywords" content="" />
+<title>カシオメンバーズ - CASIO</title>
+
+<link rel="stylesheet" type="text/css" href="/jp/common/css/style9.css" />
+<link rel="stylesheet" type="text/css" href="/jp/common/css/style10.css" />
+<link rel="stylesheet" type="text/css" href="/jp/common/css/style15480.css" />
+<meta http-equiv="Content-Style-Type" content="text/css" />
+<meta http-equiv="Content-Script-Type" content="text/javascript" />
+<meta name="format-detection" content="telephone=no">
+<script type="text/javascript" src="/jp/common/js/modernizr-2.8.3.js"></script>
+<script type="text/javascript" src="/jp/common/js/font.js"></script>
+<script type="text/javascript" src="/jp/common/js/jquery-latest.min.js"></script>
+<script type="text/javascript" src="/jp/common/js/default.js" charset="utf-8"></script>
+<script type="text/javascript" src="/jp/common/js/heightline.js"></script>
+<script type="text/javascript" src="/jp/common/js/jquery.heightLine.js"></script>
+<script type="text/javascript" src="/jp/common/js/page_2016.js"></script>
+<script type="text/javascript" src="/jp/common/js/heightpage.js"></script>
+
+<!-- ** ピンチイン・ピンチアウト ** -->
+<script type="text/javascript">if( /Android|webOS|iPhone|iPod|BlackBerry|IEMobile|Opera Mini/i.test(navigator.userAgent)){ document.write("<meta name=\"viewport\" content=\"width=device-width,minimum-scale=0,maximum-scale=10,user-scalable=yes\">");}else{}</script>
+<!-- ** ピンチイン・ピンチアウト ** -->
+
+<script type="text/javascript"> setTextSize(); </script>
+<link rel="stylesheet" type="text/css" href="/jp/common/css/pages.css" />
+<link rel="stylesheet" type="text/css" href="/jp/common/css/mobile.css" media="only screen and (max-width: 767px)">
+
+<link rel="stylesheet" href="/jp/common/css/official/slick.css">
+<link rel="stylesheet" href="/jp/common/css/official/base.css">
+<link rel="stylesheet" href="/jp/common/css/official/grid.css">
+<link rel="stylesheet" href="/jp/common/css/official/typography.css">
+<link rel="stylesheet" href="/jp/common/css/official/colors.css">
+<link rel="stylesheet" href="/jp/common/css/official/icons.css">
+<link rel="stylesheet" href="/jp/common/css/official/layout.css">
+<link rel="stylesheet" href="/jp/common/css/official/header.css">
+<link rel="stylesheet" href="/jp/common/css/official/footer.css">
+<link rel="stylesheet" href="/jp/common/css/official/idangerous.swiper.css">
+
+<link href="/jp/common/css/sprite.css" rel="stylesheet" type="text/css" />
+<link href="/jp/common/css/style_common_2016.css" rel="stylesheet" type="text/css" />
+<link href="/jp/common/css/style_asset_2016.css" rel="stylesheet" type="text/css" />
+<link rel="index" href="/" />
+<script language="JavaScript">
+	// Netscape ブラウザーを使用する場合にのみ必要です。
+	function flashGetHref() { return location.href; }
+	function flashPutHref(href) { location.href = href; }
+	function flashGetTitle() { return document.title; }
+	function flashPutTitle(title) { document.title = title; }
+	
+	function fl_window_open(param) {
+		wo = window.open(param.url, param.url, 'width='+param.width+', height='+param.height+', resizable=no, toolbar=no, scrollbars=no');
+		wo.focus();
+	}
+</script>
+
+<script type="text/javascript" charset="utf-8" src="https://api.socialplus.jp/casio_sns_members/login_cm/form_assist/done.js"></script>
+
+
+</head>
+<body onload="" style="margin: 0px;">
+<script src="/jp/common/js/header.js"></script>
+<div id="wrapper" class="nocolmunContents"> 
+	<!-- パンくず -->
+	<div id="topicsPath" class="pc">
+		<div class="topicsPath_content">
+			<a href="http://casio.jp/">カシオホーム</a>   &gt;   <a href="/jp/">カシオメンバーズ</a>   &gt;   新規登録
+		</div>
+	</div>
+	<!-- /パンくず --> 
+	
+	<!-- コンテンツ -->
+	<div id="contents" class="clearfix"> 
+		
+		<!-- メインカラム -->
+		<div id="main"> 
+			<!-- H1タイトル -->
+			<div class="h1_pagetitle201">
+				<h1>メンバー登録ページ</h1>
+				<!-- /h1_pagetitle --> 
+			</div>
+			<!-- /H1タイトル -->
+						<div id="main_in" class="clearfix">
+			<h2 class="mb20 h2Title01">新規登録</h2>
+				<div class="complete02">
+					<div class="marginAuto W787 mb30">
+						<p class="f15  center"><strong> カシオメンバーズの会員登録が完了しました。<br />
+							ご登録いただきありがとうございます。<br />
+							ご登録メールアドレスに、お手続き完了通知メールを送信いたしました。</strong></p>
+					</div>
+					</p>
+				</div>
+			<div class="col2Contents clearfix">
+          <div class="col2ContentsLeft">
+						<h3 class="text_b18 center">製品登録</h3>
+						<form action="g009.php" method="post">
+							<div class="marginAuto mb60">
+								<p class="f15 center"><strong> カシオ製品をお持ちの方はこちらよりご登録ください。 </strong><br />
+								<small>※製品登録にはシリアルナンバーが必要な場合があります。</small></p>
+							</div>
+							<div class="center center-sp mb10">
+								<input type="submit" class="btn01" value="製品登録へ進む">
+							</div>
+							
+							<div class="sectionLv1 link_next101_C">
+								<input type="button" value="お客様専用ページへ" class="btn01" onclick="location.href='/jp/mypage/'">
+								<input type="hidden" name="EMAIL"      value="sns_crg_01@casio.co.jp" />
+							</div>
+						</form>
+					</div>
+                    <div class="col2ContentsRight">
+            <div class="bannerContentsActive">
+              <h3 class="text_b18 center">開催中のキャンペーン</h3>
+              <div class="banner">
+                <a href="http://oceanus.casio.jp/cp/" target="_blank"><img class="img-100" src="/jp/images/oceanus_16aw_w380.jpg" alt="キャンペーン" /></a>
+                <p>OCEANUS BLUE MOTIONS キャンペーン<br>青いオトナの逸品を抽選でプレゼント！</p>
+              </div>
+              <div class="banner">
+                <a href="http://g-shock.jp/cp/" target="_blank"><img class="img-100" src="/jp/images/g-shock_16aw_w380.jpg" alt="キャンペーン" /></a>
+                <p>G-SHOCK/BABY-G ウインターキャンペーン<br>特別グッズ、人気ブランドのウインターアイテムが抽選で当たる！</p>
+              </div>
+              <div class="banner">
+                <a href="http://web.casio.jp/det/cp/rise2016aw/" target="_blank"><img class="img-100" src="/jp/images/exword_rise2016_w380.jpg" alt="キャンペーン" /></a>
+                <p>EX-word RISE で英会話力UP!キャンペーン </p>
+              </div>
+            </div>
+
+            <!-- <div class="bannerContentsNone">
+                <h3 class="text_b18 center">開催中のキャンペーン</h3>
+                <div class="text">
+                    <p>現在開催中のキャンペーンはありません。</p>
+                </div>
+            </div> -->
+          </div>
+			</div>
+
+            
+			<div class="secIn">
+			<h2 class="mb20 h2Title01">会員制サイト</h2>
+			<p class="center">
+				<a href="/jp/oceanus/club/" target="_blank">
+					<img src="/jp/oceanus/assets/img/club_oceanus_380x120.jpg" alt="ClubOCEANUS" /><br />
+					Club OCEANUS
+				</a>
+			</p>
+
+
+			
+
+			</div>
+		</div>
+	<!-- コンテンツ -->
+	</div>
+
+
+		
+				
+		<!-- ページトップ -->
+		<p class="pageTop pc"><a href="#header">このページの先頭へ<span class="ico-l icon-top_ico_gototop il_block"></span></a></p>
+		<!-- /ページトップ --> 
+		
+		<!-- /contents --></div>
+	
+	
+	<!-- /wrapper --></div>
+
+<!-- フッター -->
+<script src="/jp/common/js/footer.js"></script>
+<!-- /フッター -->
+<script type="text/javascript" src="/jp/common/js/official/mainnavigation.js"></script>
+<script type="text/javascript" src="/jp/common/js/official/common.js"></script>
+<script type="text/javascript" src="/jp/common/js/official/idangerous.swiper.min.js"></script>
+<script type="text/javascript" src="/jp/common/js/official/slick.min.js"></script>
+<script type="text/javascript" src="/jp/common/js/official/init-home.js"></script><!-- Google Tag Manager -->
+<noscript><iframe src="//www.googletagmanager.com/ns.html?id=GTM-K3MRRP"
+height="0" width="0" style="display:none;visibility:hidden"></iframe></noscript>
+<script>(function(w,d,s,l,i){w[l]=w[l]||[];w[l].push({'gtm.start':
+new Date().getTime(),event:'gtm.js'});var f=d.getElementsByTagName(s)[0],
+j=d.createElement(s),dl=l!='dataLayer'?'&l='+l:'';j.async=true;j.src=
+'//www.googletagmanager.com/gtm.js?id='+i+dl;f.parentNode.insertBefore(j,f);
+})(window,document,'script','dataLayer','GTM-K3MRRP');</script>
+<!-- End Google Tag Manager -->
+
+</body>
+</html>

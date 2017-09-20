@@ -1,0 +1,1704 @@
+GET https://nttxstore.jp/memberRegist/memberRegist_1.asp?Noise=KA7KC5Do HTTP/1.1
+Host: nttxstore.jp
+User-Agent: Mozilla/5.0 (Windows NT 6.1; WOW64; rv:52.0) Gecko/20100101 Firefox/52.0
+Accept: text/html,application/xhtml+xml,application/xml;q=0.9,*/*;q=0.8
+Accept-Language: ja,en-US;q=0.7,en;q=0.3
+Accept-Encoding: gzip, deflate, br
+Referer: https://nttxstore.jp/regist.asp
+Cookie: XSFM=71703311645053582; _ga=GA1.2.378216150.1490946309; xstoreSID=4dc379416b1257e2cab818fe94373753f%5Bn%3A2pOITBXN%5D; TIG=%5FG=3F8DA3E7A48C25C4C44DAC38B44E1B9103EFC141347F0DD17E3BF70B5B494FCD547222C49FB24F87483B633AC6C80C8544830086F9E4EB406E&%5FF=37B4CD5752072E69E50DC53B2C02DD6795DA131DCAB7E28A992279C1962787B4A27DED1DE55BF5ACA8E602FE4445480AD14235010C311F5F91; AFID=XStore; ASPSESSIONIDQEDSCBSS=MJAGFOBBHOBJDOIDOGECKAOE; ASPSESSIONIDAEDAQDTD=NNOPMCPAABGFKMJGOJDCPNFI; optimizelyEndUserId=oeu1491287915502r0.3788197259221632; optimizelySegments=%7B%222704710077%22%3A%22none%22%2C%222705790073%22%3A%22false%22%2C%222706410097%22%3A%22ff%22%2C%222708300072%22%3A%22direct%22%7D; optimizelyBuckets=%7B%7D; gr_reco=15b37afc666-6e4167370ef7a515; gr_rt=15b37afc666-6e4167370ef7a515; _gat_UA-44407116-22=1; _gat=1; __ara=eNpVjttugkAURf_lPPBEFKgXmIQYK5RW5CLWljcz4minFRhnRsUY_72jadr6tLNzVtY-Z9jTFSCoZ30yNsn4zUv8sJmbTRTku3VYTlg-PZb2EnQQRIgbm02tZ8-0OzXeHWXeTMuv-OQ8pJOANum7eHQUu8aAzI5jWnbfMbo6bH-7bRiGDmzPt8rULkm5JDwjGyrkXVmYLSzYIK6pIG447IejrlcrMS4qCainw2FV7UtA1vWvDSDH1KFgnBYEkPIXdXUgXNC6EoDOFx1oRSXF28XPLr-NXCfg78Ywx6XiYZAOA9-1tFEyT5PYjZMs0gI_znxXYxGtXEMFblTMQrenvb6eGHH_eThZE84JV6YPKZlA7XYlZSNkzUnrk92PLwr1IDxFL57C89mVgcvlG6nBga0
+Connection: keep-alive
+Upgrade-Insecure-Requests: 1
+Cache-Control: max-age=0
+
+
+HTTP/1.1 200 OK
+Cache-Control: private
+Content-Type: text/html
+Vary: Accept-Encoding
+X-Frame-Options: DENY
+P3P: policyref="/w3c/p3p.xml",CP="CAO DSP COR CURa ADMa DEVa TAIa PSAa PSDa IVAi IVDi CONo OUR SAMo OTRo IND PHY ONL UNI PUR FIN COM NAV INT DEM CNT STA HEA PRE LOC"
+Set-Cookie: ASPSESSIONIDCWDBSDRC=NBKPFGPADJFNHNHGFJHCKCLC; secure; path=/
+X-Powered-By: ASP.NET
+Date: Tue, 04 Apr 2017 06:40:41 GMT
+Content-Length: 111879
+
+<!DOCTYPE HTML PUBLIC "-//W3C//DTD HTML 4.01 Transitional//EN" "http://www.w3.org/TR/html4/loose.dtd">
+<html lang="ja" xmlns:og="http://ogp.me/ns#">
+<!--[if IE 8]>
+<html lang="ja"  xmlns:og="http://ogp.me/ns#" class="ie8">
+<![endif]-->
+
+<!-- head tag start -->
+<head>
+<meta http-equiv="Content-Type" content="text/html; charset=Shift_JIS">
+<title lang="ja">新規会員のご登録 - NTT-X Store</title>
+<meta http-equiv="Pragma" content="no-cache">
+<meta http-equiv="Cache-Control" content="no-cache">
+<meta name="Copyright" content="Copyright &copy; (C)NTT Resonant Inc. All Rights Reserved.">
+<meta http-equiv="Content-Style-Type" content="text/css">
+<meta http-equiv="Content-Script-Type" content="text/javascript">
+<meta name="verify-v1" content="3JdL+Fyg3a7ioDTftg+qzaFPV9TzigdIeGSEnkItOXI=">
+<meta name="description" content="NTTグループが運営する安心・安全の通販ショップNTT-X Store。パソコン、液晶ディスプレイ、デジカメ、デジタル機器、ネットワークカメラ、家電などを激安価格と即納で通信販売！送料無料やクーポンなどお得な商品を多数掲載中です。">
+<meta name="keywords" content="通販,通信販売,パソコン,ノート,液晶,家電,DVD,特価,モニタ,ネットワークカメラ,デジカメ,クーポン,即納,新製品,スマートフォンサイト">
+<meta name="mixi-check-robots" CONTENT="noimage">
+<meta property="og:image" content="http://nttxstore.jp/images/common/hdft/logo_store_square.gif">
+<link rel="shortcut icon" href="/images/common/global/favicon.ico">
+<link rel="stylesheet" href="https://u.xgoo.jp/cmm001/css/import1.css" media="all">
+<link rel="stylesheet" href="/common/css/member-cart.css?20160413" type="text/css" media="all"><link rel="stylesheet" href="/common/css/base.css" media="all">
+<link rel="stylesheet" href="//u.xgoo.jp/fa/x.css"  media="all">
+
+<script language="javascript" src="https://u.xgoo.jp/cmm001/js/cmm.js" type="text/javascript"></script>
+<script type="text/javascript" language="JavaScript" src="/common/js/prototype.js"></script>
+<script type="text/javascript" language="JavaScript" src="/common/js/jkl-parsexml.js"></script>
+<script type="text/javascript" language="JavaScript" src="/common/js/makerCodeFinder.js"></script>
+<script type="text/javascript" language="JavaScript" src="/common/js/mailinglist.js"></script>
+<script type="text/javascript" language="JavaScript" src="/common/js/memberRegist/memberRegistFunction.js"></script>
+<script type="text/javascript" language="JavaScript" src="/cart/js/cartInputCheck.js"></script>
+<script type="text/javascript" language="JavaScript" src="/common/js/memberRegist/memberInputForm.js?2012121402"></script>
+
+</head>
+<!-- head tag end -->
+
+<body onload	=	"MEMBER_INPUT_ONLOAD('REGIST');">
+
+<!--WinIE&MacIE-minwidth-->
+<div class="container"><div class="minwidth"><div class="box">
+
+<!-- header start -->
+<div id="header">
+<a href="#" class="skip">メニューへスキップ</a><a href="#incontents" class="skip">本文へスキップ</a>
+<ul id="logo"><li><a href="http://nttxstore.jp"><img src="/images/common/hdft/logo_store.gif" width="177" height="52" alt="NTTグループの安心オンラインストア NTT-X Store"></a></li><li><a href="http://www.goo.ne.jp/"><img src="//u.xgoo.jp/img/pgoo.png" width="100px"  alt="powered by goo" ></a></li></ul> 
+<div id="headnavi">
+	<div class="credit">
+		<a href="http://www.nttr.co.jp/"><img src="/images/common/hdft/logo_resonant.gif" width="145" height="27" alt="NTTレゾナント"></a>
+	</div>
+	<ul>
+	<li><a href="/help/flow.asp">ご利用案内</a></li>
+	<li><a href="/sitemap.asp">サイトマップ</a></li>
+	<li class="last"><a href="/help/index.asp">ヘルプ</a></li>
+	</ul
+></div>
+
+<!-- hdbanner --> 
+<div class="hdbanner">
+<a href="/_RH_2178?FMID=xstore"><img src="/images/common/hdft/hdbanner.gif" alt="全品送料￥0キャンペーン実施中！使って納得!! NTT-X Storeをお選びいただく理由　※一部大型商品などを除きます"></a>
+</div>
+
+<!-- store tabmenu start --> 
+<a name="tabmenu"></a> 
+<div id="storemenu">
+<ul id="tn-top">
+<li class="menu1"><a href="http://nttxstore.jp/display.asp">ディスプレイ</a></li>
+<li class="menu2"><a href="http://nttxstore.jp/pc.asp">PC・スマホ</a></li>
+<li class="menu3"><a href="http://nttxstore.jp/parts.asp">PC周辺機器</a></li>
+<li class="menu4"><a href="http://nttxstore.jp/printer.asp">プリンタ</a></li>
+<li class="menu5"><a href="http://nttxstore.jp/camera.asp">カメラ</a></li>
+<li class="menu10"><a href="http://nttxstore.jp/av.asp">AV機器</a></li>
+<li class="menu6"><a href="http://nttxstore.jp/kaden.asp">生活家電</a></li>
+<li class="menu7"><a href="http://nttxstore.jp/soft.asp">ソフト</a></li>
+<li class="menu9"><a href="http://nttxstore.jp/corp.asp">法人</a></li>
+</ul> 
+<div class='submenu-wrapper'>
+<!-- ディスプレイ -->
+<div class="submenu-body">
+	<div class="submenu-item">
+		<p class="submenu-item-lebel">ジャンル</p>
+		<ul class="submenu-item-list">
+			<li class="submenu-item-list-item"><a class="cc_top_menue" href="/_NGXMZ_01_04_02_1">液晶ディスプレイ(ワイド液晶)</a></li>
+			<li class="submenu-item-list-item"><a class="cc_top_menue" href="/_NGXM_01_04_14">液晶ディスプレイ(スクエア)</a></li>
+			<li class="submenu-item-list-item"><a class="cc_top_menue" href="/_NGXM_01_04_08">タッチパネル液晶ディスプレイ</a></li>
+			<li class="submenu-item-list-item"><a class="cc_top_menue" href="/_NGXM_01_04_05">プロジェクター</a></li>
+			<li class="submenu-item-list-item"><a class="cc_top_menue" href="/_NGXM_01_04_06">プロジェクターオプション</a></li>
+			<li class="submenu-item-list-item"><a class="cc_top_menue" href="/_NGXMZ_01_04_10_1?FREE_WORD=&MKRCD=&SIZE=20&SPID=&SPN=">スクリーン（壁掛け・吊下式）</a></li>
+			<li class="submenu-item-list-item"><a class="cc_top_menue" href="/_NGXMZ_01_04_11_1?FREE_WORD=&MKRCD=&SIZE=20&SPID=&SPN=">スクリーン（自立・スタンド式）</a></li>
+			<li class="submenu-item-list-item"><a class="cc_top_menue" href="/_NGXM_01_04">全ての液晶ディスプレイ関連商品</a></li>
+		</ul>
+	</div>
+	<div class="submenu-item">
+		<p class="submenu-item-lebel">ディスプレイメーカー</p>
+		<ul class="submenu-item-list">
+			<li class="submenu-item-list-item"><a class="cc_top_menue" href="/_NGXMZ_01_04_02_1?FREE_WORD=&MKRCD=%83A%83C%81E%83I%81%5B%81E%83f%81%5B%83%5E%8B%40%8A%ED&PAGE=1&SIZE=20">アイ・オー・データ機器</a></li>
+			<li class="submenu-item-list-item"><a class="cc_top_menue" href="/_NGXMZ_01_04_02_1?FREE_WORD=&MKRID=19&PAGE=1&SIZE=20">エイサー</a></li>
+			<li class="submenu-item-list-item"><a class="cc_top_menue" href="/_NGXMZ_01_04_02_1?FREE_WORD=&MKRCD=%83x%83%93%83L%83%85%81%5B&SIZE=20&SPID=&SPN=">BenQ</a></li>
+			<li class="submenu-item-list-item"><a class="cc_top_menue" href="/_NGXMZ_01_04_02_1?FREE_WORD=&MKRCD=NEC&SIZE=20&SPID=&SPN=">NEC</a></li>
+			<li class="submenu-item-list-item"><a class="cc_top_menue" href="/_NGXMZ_01_04_02_1?FREE_WORD=&MKRCD=LG+Electronics+Japan&PAGE=1&SIZE=20">LG</a></li>
+			<li class="submenu-item-list-item"><a class="cc_top_menue" href="/_NGXMZ_01_04_02_1?FREE_WORD=&MKRCD=iiyama&SIZE=20&SPID=&SPN=">iiyama</a></li>
+			<li class="submenu-item-list-item"><a class="cc_top_menue" href="/_NGXM_01_04_02?FREE_WORD=EIZO">EIZO(ナナオ)</a></li>
+		</ul>
+	</div>
+	<div class="submenu-item">
+		<p class="submenu-item-lebel">プロジェクターメーカー</p>
+		<ul class="submenu-item-list">
+			<li class="submenu-item-list-item"><a class="cc_top_menue" href="/_NGXMZ_01_04_05_1?FREE_WORD=&MKRCD=%83G%83v%83%5C%83%93&SIZE=20&SPID=&SPN=">エプソン</a></li>
+			<li class="submenu-item-list-item"><a class="cc_top_menue" href="/_NGXMZ_01_04_05_1?FREE_WORD=&MKRCD=SONY&SIZE=20&SPID=&SPN=">ソニー</a></li>
+			<li class="submenu-item-list-item"><a class="cc_top_menue" href="/_NGXMZ_01_04_05_1?FREE_WORD=&MKRCD=Acer&SIZE=20&SPID=&SPN=">Acer</a></li>
+			<li class="submenu-item-list-item"><a class="cc_top_menue" href="/_NGXMZ_01_04_05_1?FREE_WORD=&MKRCD=TAXAN&SIZE=20&SPID=&SPN=">TAXAN</a></li>
+			<li class="submenu-item-list-item"><a class="cc_top_menue" href="/_NGXMZ_01_04_05_1?FREE_WORD=&MKRCD=%83J%83V%83I%8Cv%8EZ%8B%40&SIZE=20&SPID=&SPN=">カシオ計算機</a></li>
+			<li class="submenu-item-list-item"><a class="cc_top_menue" href="/_NGXMZ_01_04_05_1?FREE_WORD=&MKRCD=%83x%83%93%83L%83%85%81%5B&SIZE=20&SPID=&SPN=">BenQ</a></li>
+			<li class="submenu-item-list-item"><a class="cc_top_menue" href="/_NGXMZ_01_04_05_1?FREE_WORD=&MKRCD=NEC&PAGE=1&SIZE=20">NEC</a></li>
+		</ul>
+	</div>
+</div>
+
+<!-- PCスマホ -->
+<div class="submenu-body">
+	<div class="submenu-item">
+		<p class="submenu-item-lebel">ジャンル</p>
+		<ul class="submenu-item-list">
+			<li class="submenu-item-list-item"><a class="cc_top_menue" href="/_NGXM_01_01_06_00">ノートPC</a></li>
+			<li class="submenu-item-list-item"><a class="cc_top_menue" href="/_NGXM_01_01_18_00">スマートフォン</a></li>
+			<li class="submenu-item-list-item"><a class="cc_top_menue" href="/_NGXM_01_01_15_00">タブレット</a></li>
+			<li class="submenu-item-list-item"><a class="cc_top_menue" href="/_NGXM_01_01_02_00">デスクトップ・液晶一体型</a></li>
+			<li class="submenu-item-list-item"><a class="cc_top_menue" href="/_NGXM_01_01_04_00">デスクトップ・タワー型PC</a></li>
+			<li class="submenu-item-list-item"><a class="cc_top_menue" href="/_NGXM_01_01_03_00">デスクトップ・省スペースPC</a></li>
+			<li class="submenu-item-list-item"><a class="cc_top_menue" href="/_NGXYM_01_01">すべてのパソコン</a></li>
+			<li class="submenu-item-list-item"><a class="cc_top_menue" href="/_NGXM_01_03_01">タワー型サーバー</a></li>
+			<li class="submenu-item-list-item"><a class="cc_top_menue" href="/_NGXMZ_01_03_02_1?FREE_WORD=&MKRCD=&SIZE=20&SPID=&SPN=">ラックマウント型サーバー</a></li>
+			<li class="submenu-item-list-item"><a class="cc_top_menue" href="/_NGX_01_03">すべてのサーバー</a></li>
+		</ul>
+	</div>
+	<div class="submenu-item">
+		<p class="submenu-item-lebel">PC・スマホ・タブレットメーカー</p>
+		<ul class="submenu-item-list">
+			<li class="submenu-item-list-item"><a class="cc_top_menue" href="/freeSearch/SearchName.asp?GENRE=01&amp;JCD1=01&amp;JCD2=&amp;JCD3=&amp;JCD4=&amp;JCD5=&amp;PAGE=1&amp;SIZE=20&amp;ZM=0&amp;SPN=&amp;SPID=&amp;FREE_WORD=&amp;MKRCD=ASUS TeK">ASUS TeK</a></li>
+			<li class="submenu-item-list-item"><a class="cc_top_menue" href="/freeSearch/SearchName.asp?GENRE=01&amp;JCD1=01&amp;JCD2=&amp;JCD3=&amp;JCD4=&amp;JCD5=&amp;PAGE=1&amp;SIZE=20&amp;ZM=0&amp;SPN=&amp;SPID=&amp;FREE_WORD=&amp;MKRCD=NEC"> NEC   </a></li>
+			<li class="submenu-item-list-item"><a class="cc_top_menue" href="/freeSearch/SearchName.asp?GENRE=01&amp;JCD1=01&amp;JCD2=&amp;JCD3=&amp;JCD4=&amp;JCD5=&amp;PAGE=1&amp;SIZE=20&amp;ZM=0&amp;SPN=&amp;SPID=&amp;FREE_WORD=&amp;MKRCD=%83t%83%40%81%5b%83E%83F%83C%83W%83%83%83p%83%93"> ファーウェイジャパン   </a></li>
+			<li class="submenu-item-list-item"><a class="cc_top_menue" href="/freeSearch/SearchName.asp?GENRE=01&amp;JCD1=01&amp;JCD2=&amp;JCD3=&amp;JCD4=&amp;JCD5=&amp;PAGE=1&amp;SIZE=20&amp;ZM=0&amp;SPN=&amp;SPID=&amp;FREE_WORD=&amp;MKRCD=%83%8c%83m%83%7b%81E%83W%83%83%83p%83%93"> レノボ・ジャパン   </a></li>
+			<li class="submenu-item-list-item"><a class="cc_top_menue" href="/freeSearch/SearchName.asp?GENRE=01&amp;JCD1=01&amp;JCD2=&amp;JCD3=&amp;JCD4=&amp;JCD5=&amp;PAGE=1&amp;SIZE=20&amp;ZM=0&amp;SPN=&amp;SPID=&amp;FREE_WORD=&amp;MKRCD=MSI"> MSI   </a></li>
+			<li class="submenu-item-list-item"><a class="cc_top_menue" href="/freeSearch/SearchName.asp?GENRE=01&amp;JCD1=01&amp;JCD2=&amp;JCD3=&amp;JCD4=&amp;JCD5=&amp;PAGE=1&amp;SIZE=20&amp;ZM=0&amp;SPN=&amp;SPID=&amp;FREE_WORD=&amp;MKRCD=FUJITSU"> FUJITSU   </a></li>
+			<li class="submenu-item-list-item"><a class="cc_top_menue" href="/freeSearch/SearchName.asp?GENRE=01&amp;JCD1=01&amp;JCD2=&amp;JCD3=&amp;JCD4=&amp;JCD5=&amp;PAGE=1&amp;SIZE=20&amp;ZM=0&amp;SPN=&amp;SPID=&amp;FREE_WORD=&amp;MKRCD=%83p%83i%83%5c%83j%83b%83N%0d%0a"> パナソニック   </a></li>
+			<li class="submenu-item-list-item"><a class="cc_top_menue" href="/freeSearch/SearchName.asp?GENRE=01&amp;JCD1=01&amp;JCD2=&amp;JCD3=&amp;JCD4=&amp;JCD5=&amp;PAGE=1&amp;SIZE=20&amp;ZM=0&amp;SPN=&amp;SPID=&amp;FREE_WORD=&amp;MKRCD=FREETEL"> FREETEL   </a></li>
+			<li class="submenu-item-list-item"><a class="cc_top_menue" href="/freeSearch/SearchName.asp?GENRE=01&amp;JCD1=01&amp;JCD2=&amp;JCD3=&amp;JCD4=&amp;JCD5=&amp;PAGE=1&amp;SIZE=20&amp;ZM=0&amp;SPN=&amp;SPID=&amp;FREE_WORD=&amp;MKRCD=SONY"> SONY   </a></li>
+			<li class="submenu-item-list-item"><a class="cc_top_menue" href="/freeSearch/SearchName.asp?GENRE=01&amp;JCD1=01&amp;JCD2=&amp;JCD3=&amp;JCD4=&amp;JCD5=&amp;PAGE=1&amp;SIZE=20&amp;ZM=0&amp;SPN=&amp;SPID=&amp;FREE_WORD=&amp;MKRCD=HP"> HP(Inc.)   </a></li>
+		</ul>
+	</div>
+	<div class="submenu-item">
+		<p class="submenu-item-lebel">サーバーメーカー</p>
+		<ul class="submenu-item-list">
+			<li class="submenu-item-list-item"><a class="cc_top_menue" href="/freeSearch/SearchName.asp?GENRE=01&JCD1=03&JCD2=&JCD3=&JCD4=&JCD5=&PAGE=1&SIZE=20&ZM=0&SPN=&SPID=&FREE_WORD=&MKRCD=NEC">NEC</a></li>
+			<li class="submenu-item-list-item"><a class="cc_top_menue" href="/freeSearch/SearchName.asp?GENRE=01&JCD1=03&JCD2=&JCD3=&JCD4=&JCD5=&PAGE=1&SIZE=20&ZM=0&SPN=&SPID=&FREE_WORD=&MKRCD=IBM">IBM</a></li>
+			<li class="submenu-item-list-item"><a class="cc_top_menue" href="/_NGXZ_01_03_1?FREE_WORD=&MKRCD=FUJITSU&SIZE=20&SPID=&SPN=">富士通</a></li>
+		</ul>
+	</div>
+</div>
+
+<!-- PC周辺機器 -->
+<div class="submenu-body">
+	<div class="submenu-item">
+		<p class="submenu-item-lebel">ジャンル</p>
+		<ul class="submenu-item-list">
+			<li class="submenu-item-list-item"><a class="cc_top_menue" href="/_NGX_01_08">ストレージ</a></li>
+			<li class="submenu-item-list-item"><a class="cc_top_menue" href="/_NGX_01_09">メモリ</a></li>
+			<li class="submenu-item-list-item"><a class="cc_top_menue" href="/_NGX_01_10">ネットワーク機器</a></li>
+			<li class="submenu-item-list-item"><a class="cc_top_menue" href="/_NGX_01_12">サプライ</a></li>
+			<li class="submenu-item-list-item"><a class="cc_top_menue" href="/_NGX_01_13">電源関連機器</a></li>
+			<li class="submenu-item-list-item"><a class="cc_top_menue" href="/_NGX_01_14">消耗品・メディア</a></li>
+			<li class="submenu-item-list-item"><a class="cc_top_menue" href="/_NGX_01_16">CPU･ボード関連(ビデオカード)</a></li>
+			<li class="submenu-item-list-item"><a class="cc_top_menue" href="/_NGX_01_17">マウス・キーボード</a></li>
+			<li class="submenu-item-list-item"><a class="cc_top_menue" href="/_NGXM_01_17_08">ペンタブレット</a></li>
+			<li class="submenu-item-list-item"><a class="cc_top_menue" href="/_NGX_01_18">ケーブル・切替器</a></li>
+		</ul>
+	</div>
+	<div class="submenu-item">
+		<p class="submenu-item-lebel">PC周辺機器メーカー</p>
+		<ul class="submenu-item-list">
+			<li class="submenu-item-list-item"><a class="cc_top_menue" href="/_NG_01?FREE_WORD=%83A%83C%81E%83I%81%5B%81E%83f%81%5B%83%5E%8B%40%8A%ED">アイ・オー・データ機器</a></li>
+			<li class="submenu-item-list-item"><a class="cc_top_menue" href="/_NG_01?FREE_WORD=%83o%83b%83t%83%40%83%8D%81%5B">バッファロー</a></li>
+			<li class="submenu-item-list-item"><a class="cc_top_menue" href="/_NG_01?FREE_WORD=%83%8D%83W%83e%83b%83N">ロジテック</a></li>
+			<li class="submenu-item-list-item"><a class="cc_top_menue" href="/_NG_01?FREE_WORD=%83l%83b%83g%83M%83A">ネットギア</a></li>
+			<li class="submenu-item-list-item"><a class="cc_top_menue" href="/_NG_01?FREE_WORD=%83G%83%8C%83R%83%80">エレコム</a></li>
+			<li class="submenu-item-list-item"><a class="cc_top_menue" href="/_NG_01?FREE_WORD=%83T%83%93%83%8F%83T%83v%83%89%83C">サンワサプライ</a></li>
+			<li class="submenu-item-list-item"><a class="cc_top_menue" href="/_NG_01?FREE_WORD=%83O%83%8A%81%5B%83%93%83n%83E%83X">グリーンハウス</a></li>
+			<li class="submenu-item-list-item"><a class="cc_top_menue" href="/_NG_01?FREE_WORD=%83R%83%8C%83K">コレガ</a></li>
+			<li class="submenu-item-list-item"><a class="cc_top_menue" href="/freeSearch/SearchName.asp?GENRE=01&JCD1=&JCD2=&JCD3=&JCD4=&JCD5=&PAGE=1&SIZE=20&ZM=0&SPN=&SPID=&FREE_WORD=%83}%83C%83N%83%8D%83\%83t%83g&MKRCD=%83%7D%83C%83N%83%8D%83%5C%83t%83g">マイクロソフト</a></li>
+			<li class="submenu-item-list-item"><a class="cc_top_menue" href="/_NG_01?FREE_WORD=%83v%83%89%83l%83b%83N%83X">プラネックス</a></li>
+		</ul>
+	</div>
+	<div class="submenu-item">
+		<p class="submenu-item-lebel">PC周辺機器メーカー</p>
+		<ul class="submenu-item-list">
+			<li class="submenu-item-list-item"><a class="cc_top_menue" href="/_NGZ_01_1?FREE_WORD=%83A%83h%83e%83b%83N&MKRCD=&SIZE=20&SPID=&SPN=">アドテック</a></li>
+			<li class="submenu-item-list-item"><a class="cc_top_menue" href="/_NG_01?FREE_WORD=%83C%83%81%81%5B%83V%83%87%83%93">イメーション</a></li>		
+			<li class="submenu-item-list-item"><a class="cc_top_menue" href="/_NGZ_01_1?FREE_WORD=CISCO&MKRCD=Cisco+Systems&SIZE=20&SPID=&SPN=">シスコシステムズ</a></li>
+			<li class="submenu-item-list-item"><a class="cc_top_menue" href="/_NG_01?FREE_WORD=%83A%83%89%83C%83h%83e%83%8C%83V%83X">アライドテレシス</a></li>
+			<li class="submenu-item-list-item"><a class="cc_top_menue" href="/_NGZ_01_1?FREE_WORD=%83%84%83%7D%83n&MKRCD=%83%84%83%7D%83n&SIZE=20&SPID=&SPN=">ヤマハ</a></li>
+			<li class="submenu-item-list-item"><a class="cc_top_menue" href="/freeSearch/SearchName.asp?GENRE=01&JCD1=&JCD2=&JCD3=&JCD4=&JCD5=&PAGE=1&SIZE=20&ZM=0&SPN=&SPID=&FREE_WORD=%83%89%83g%83b%83N%83V%83X%83e%83%80&MKRCD=%83%89%83g%83b%83N%83V%83X%83e%83%80">ラトックシステム</a></li>
+			<li class="submenu-item-list-item"><a class="cc_top_menue" href="/_NG_01?FREE_WORD=APC">APC</a></li>
+			<li class="submenu-item-list-item"><a class="cc_top_menue" href="/_NGZ_01_1?FREE_WORD=Creative&MKRCD=&SIZE=20&SPID=&SPN=">クリエイティブ</a></li>
+			<li class="submenu-item-list-item"><a class="cc_top_menue" href="/_NG_01?FREE_WORD=%83%8D%83W%83N%81%5B%83%8B">ロジクール</a></li>
+			<li class="submenu-item-list-item"><a class="cc_top_menue" href="/_NGZ_01_1?FREE_WORD=%83%8F%83R%83%80&MKRCD=&SIZE=20&SPID=&SPN=">ワコム</a></li>
+		</ul>
+	</div>
+</div>
+
+<!-- プリンタ -->
+<div class="submenu-body">
+	<div class="submenu-item">
+		<p class="submenu-item-lebel">ジャンル</p>
+		<ul class="submenu-item-list">
+			<li class="submenu-item-list-item"><a class="cc_top_menue" href="/_NGXM_01_05_30">インクジェット複合機</a></li>
+			<li class="submenu-item-list-item"><a class="cc_top_menue" href="/_NGXM_01_05_03">インクジェットプリンタ</a></li>
+			<li class="submenu-item-list-item"><a class="cc_top_menue" href="/_NGXMZ_01_05_05_1?FREE_WORD=&MKRCD=&SIZE=20&SPID=&SPN=">デジタルフォトプリンタ</a></li>
+			<li class="submenu-item-list-item"><a class="cc_top_menue" href="/_NGXM_01_05_40">レーザー複合機</a></li>
+			<li class="submenu-item-list-item"><a class="cc_top_menue" href="/_NGXM_01_05_02">レーザープリンタ</a></li>
+			<li class="submenu-item-list-item"><a class="cc_top_menue" href="/_NGXM_01_05_01">ドットインパクトプリンタ</a></li>
+			<li class="submenu-item-list-item"><a class="cc_top_menue" href="/_NGXM_01_06_01">スキャナ</a></li>
+			<li class="submenu-item-list-item"><a class="cc_top_menue" href="/_NGXM_01_05_11">プロッタ</a></li>
+		</ul>
+	</div>
+	<div class="submenu-item">
+		<p class="submenu-item-lebel">プリンタのブランド</p>
+		<ul class="submenu-item-list">
+			<li class="submenu-item-list-item"><a class="cc_top_menue" href="/_NGZ_01_0?FREE_WORD=%83J%83%89%83%8A%83I&MKRCD=&PAGE=1&SIZE=20&">colorio(カラリオ)</a></li>
+			<li class="submenu-item-list-item"><a class="cc_top_menue" href="/_NGZ_01_0?FREE_WORD=PIXUS&MKRCD=%83L%83%84%83m%83%93&PAGE=1&SIZE=20&">PIXUS(ピクサス)</a></li>
+			<li class="submenu-item-list-item"><a class="cc_top_menue" href="/_NGXMZ_01_05_03_1?FREE_WORD=PIXUS+pro&MKRCD=&SIZE=20&SPID=&SPN=">PIXUS Pro(ピクサス プロ)</a></li>
+			<li class="submenu-item-list-item"><a class="cc_top_menue" href="/_NGXMZ_01_05_30_0?FREE_WORD=MYMIO&MKRCD=&PAGE=1&SIZE=20&">MyMIO(マイミーオ)</a></li>
+			<li class="submenu-item-list-item"><a class="cc_top_menue" href="/_NGXMZ_01_05_05_1?FREE_WORD=SELPHY&MKRCD=&SIZE=20&SPID=&SPN=">SELPHY(セルフィー)</a></li>
+			<li class="submenu-item-list-item"><a class="cc_top_menue" href="/_NGZ_01_0?FREE_WORD=MAXART&MKRCD=&PAGE=1&SIZE=20">MAXART(マックスアート)</a></li>
+			<li class="submenu-item-list-item"><a class="cc_top_menue" href="/_NGXM_01_05_02?ViewMode=1&FREE_WORD=%83I%83t%83B%83%8A%83I">Offirio(オフィリオ)</a></li>
+		</ul>
+	</div>
+	<div class="submenu-item">
+		<p class="submenu-item-lebel">プリンタのブランド</p>
+		<ul class="submenu-item-list">
+			<li class="submenu-item-list-item"><a class="cc_top_menue" href="/_NGZ_01_0?FREE_WORD=satera&MKRCD=&PAGE=1&SIZE=20">Satere(サテラ)</a></li>
+			<li class="submenu-item-list-item"><a class="cc_top_menue" href="/_NG_01?FREE_WORD=JUSTIO">JUSTIO(ジャスティオ)</a></li>
+			<li class="submenu-item-list-item"><a class="cc_top_menue" href="/_NGZ_01_0?FREE_WORD=MICROLINE&MKRCD=&PAGE=1&SIZE=20">MICROLINE(マイクロライン)</a></li>
+			<li class="submenu-item-list-item"><a class="cc_top_menue" href="/_NGZ_01_0?FREE_WORD=officejet&MKRCD=&PAGE=1&SIZE=20">Officejet(オフィスジェット)</a></li>
+			<li class="submenu-item-list-item"><a class="cc_top_menue" href="/_NGXMZ_01_05_02_1?FREE_WORD=docuprint&MKRCD=&SIZE=20&SPID=&SPN=">DocuPrint</a></li>
+			<li class="submenu-item-list-item"><a class="cc_top_menue" href="/_NGZ_01_0?FREE_WORD=IPSIO&MKRCD=&PAGE=1&SIZE=20">IPSiO(イプシオ)</a></li>
+			<li class="submenu-item-list-item"><a class="cc_top_menue" href="/_NG_01?SK=2&ZM=1&FREE_WORD=COREFIDO&MKRCD=&PAGE=1&SIZE=27&SPID=&PATTERN=1&MKRCNT=0">COREFIDO(コアフィード)</a></li>
+		</ul>
+	</div>
+	<div class="submenu-item">
+		<p class="submenu-item-lebel">スキャナのブランド</p>
+		<ul class="submenu-item-list">
+			<li class="submenu-item-list-item"><a class="cc_top_menue" href="/_NGXMZ_01_06_01_1?FREE_WORD=scansnap&MKRCD=&PAGE=1&SIZE=20">ScanSnap</a></li>
+			<li class="submenu-item-list-item"><a class="cc_top_menue" href="/freeSearch/SearchName.asp?GENRE=01&JCD1=06&JCD2=99&JCD3=01&JCD4=&JCD5=&PAGE=1&SIZE=20&ZM=0&SPN=&SPID=&FREE_WORD=&MKRCD=%83G%83v%83%5C%83%93">カラリオスキャナー</a></li>
+			<li class="submenu-item-list-item"><a class="cc_top_menue" href="/freeSearch/SearchName.asp?GENRE=01&JCD1=06&JCD2=99&JCD3=01&JCD4=&JCD5=&PAGE=1&SIZE=20&ZM=0&SPN=&SPID=&FREE_WORD=&MKRCD=%83L%83%84%83m%83%93">CanoScan</a></li>
+			<li class="submenu-item-list-item"><a class="cc_top_menue" href="/_NGXMZ_01_06_01_1?FREE_WORD=&MKRCD=%83R%83N%83%88S%26T&SIZE=20&SPID=&SPN=">Caminacs</a></li>
+		</ul>
+	</div>
+</div>
+
+<!-- カメラ -->
+<div class="submenu-body">
+	<div class="submenu-item">
+		<p class="submenu-item-lebel">ジャンル</p>
+		<ul class="submenu-item-list">
+			<li class="submenu-item-list-item"><a class="cc_top_menue" href="/_NGXM_01_07_01">デジタルカメラ</a></li>
+			<li class="submenu-item-list-item"><a class="cc_top_menue" href="/_NGXYMN_01_07_99_01_31">デジタル一眼レフカメラ</a></li>
+			<li class="submenu-item-list-item"><a class="cc_top_menue" href="/_NGXM_01_07_03">デジタルビデオカメラ</a></li>
+			<li class="submenu-item-list-item"><a class="cc_top_menue" href="/_NGXM_01_07_05">ネットワークカメラ</a></li>
+			<li class="submenu-item-list-item"><a class="cc_top_menue" href="/_NGXM_01_07_02">PCカメラ・WEBカメラ</a></li>
+			<li class="submenu-item-list-item"><a class="cc_top_menue" href="/_NGXMZ_01_07_04_1?FREE_WORD=&MKRCD=&PAGE=1&SIZE=20">アナログカメラ</a></li>
+		</ul>
+	</div>
+	<div class="submenu-item">
+		<p class="submenu-item-lebel">カメラのメーカー</p>
+		<ul class="submenu-item-list">
+			<li class="submenu-item-list-item"><a class="cc_top_menue" href="/freeSearch/SearchName.asp?GENRE=01&JCD1=07&JCD2=&JCD3=&JCD4=&JCD5=&PAGE=1&SIZE=20&ZM=0&SPN=&SPID=&FREE_WORD=&MKRCD=%83L%83%84%83m%83%93">キヤノン</a></li>
+			<li class="submenu-item-list-item"><a class="cc_top_menue" href="/freeSearch/SearchName.asp?GENRE=01&JCD1=07&JCD2=&JCD3=&JCD4=&JCD5=&PAGE=1&SIZE=20&ZM=0&SPN=&SPID=&FREE_WORD=&MKRCD=%83p%83i%83%5C%83j%83b%83N">パナソニック</a></li>
+			<li class="submenu-item-list-item"><a class="cc_top_menue" href="/freeSearch/SearchName.asp?GENRE=01&JCD1=07&JCD2=&JCD3=&JCD4=&JCD5=&PAGE=1&SIZE=20&ZM=0&SPN=&SPID=&FREE_WORD=&MKRCD=%95x%8Em%83t%83C%83%8B%83%80">富士フイルム</a></li>
+			<li class="submenu-item-list-item"><a class="cc_top_menue" href="/freeSearch/SearchName.asp?GENRE=01&JCD1=07&JCD2=&JCD3=&JCD4=&JCD5=&PAGE=1&SIZE=20&ZM=0&SPN=&SPID=&FREE_WORD=&MKRCD=%83I%83%8A%83%93%83p%83X">オリンパス</a></li>
+			<li class="submenu-item-list-item"><a class="cc_top_menue" href="/freeSearch/SearchName.asp?GENRE=01&JCD1=07&JCD2=99&JCD3=01&JCD4=&JCD5=&PAGE=1&SIZE=20&ZM=0&SPN=&SPID=&FREE_WORD=&MKRCD=%83j%83R%83%93">ニコン</a></li>
+			<li class="submenu-item-list-item"><a class="cc_top_menue" href="/freeSearch/SearchName.asp?GENRE=01&JCD1=07&JCD2=&JCD3=&JCD4=&JCD5=&PAGE=1&SIZE=20&ZM=0&SPN=&SPID=&FREE_WORD=&MKRCD=%83J%83V%83I%8Cv%8EZ%8B%40">カシオ</a></li>
+			<li class="submenu-item-list-item"><a class="cc_top_menue" href="/freeSearch/SearchName.asp?GENRE=01&JCD1=07&JCD2=&JCD3=&JCD4=&JCD5=&PAGE=1&SIZE=20&ZM=0&SPN=&SPID=&FREE_WORD=&MKRCD=SONY">ソニー</a></li>
+			<li class="submenu-item-list-item"><a class="cc_top_menue" href="/freeSearch/SearchName.asp?GENRE=01&JCD1=07&JCD2=&JCD3=&JCD4=&JCD5=&PAGE=1&SIZE=20&ZM=0&SPN=&SPID=&FREE_WORD=&MKRCD=%83y%83%93%83%5E%83b%83N%83X">ペンタックス</a></li>
+			<li class="submenu-item-list-item"><a class="cc_top_menue" href="/freeSearch/SearchName.asp?GENRE=01&JCD1=07&JCD2=&JCD3=&JCD4=&JCD5=&PAGE=1&SIZE=20&ZM=0&SPN=&SPID=&FREE_WORD=&MKRCD=%83%8A%83R%81%5B">リコー</a></li>
+			<li class="submenu-item-list-item"><a class="cc_top_menue" href="/freeSearch/SearchName.asp?GENRE=01&JCD1=07&JCD2=&JCD3=&JCD4=&JCD5=&PAGE=1&SIZE=20&ZM=0&SPN=&SPID=&FREE_WORD=&MKRCD=%83r%83N%83%5E%81%5B">ビクター</a></li>
+			<li class="submenu-item-list-item"><a class="cc_top_menue" href="/_NGXZ_01_07_1?FREE_WORD=&MKRCD=%83R%83%8C%83K&SIZE=20&SPID=&SPN=">コレガ</a></li>
+			<li class="submenu-item-list-item"><a class="cc_top_menue" href="/freeSearch/SearchName.asp?GENRE=01&JCD1=07&JCD2=&JCD3=&JCD4=&JCD5=&PAGE=1&SIZE=20&ZM=0&SPN=&SPID=&FREE_WORD=&MKRCD=%83%8D%83W%83N%81%5B%83%8B">ロジクール</a></li>
+			<li class="submenu-item-list-item"><a class="cc_top_menue" href="/_NGXZ_01_07_1?FREE_WORD=&MKRCD=%83%7D%83C%83N%83%8D%83%5C%83t%83g&SIZE=20&SPID=&SPN=">マイクロソフト</a></li>
+		</ul>
+	</div>
+	<div class="submenu-item">
+		<p class="submenu-item-lebel">カメラのブランド</p>
+		<ul class="submenu-item-list">
+			<li class="submenu-item-list-item"><a class="cc_top_menue" href="/_NGXM_01_07_01?FREE_WORD=IXY+">IXY DIGITAL</a></li>
+			<li class="submenu-item-list-item"><a class="cc_top_menue" href="/_NGXMZ_01_07_01_1?FREE_WORD=PowerShot&MKRCD=&SIZE=20&SPID=&SPN=">PowerShot</a></li>
+			<li class="submenu-item-list-item"><a class="cc_top_menue" href="/_NGXMZ_01_07_01_1?FREE_WORD=eos+kiss&MKRCD=&SIZE=20&SPID=&SPN=">EOS Kiss DIGITAL</a></li>
+			<li class="submenu-item-list-item"><a class="cc_top_menue" href="/_NGXMZ_01_07_01_1?FREE_WORD=LUMIX&MKRCD=&SIZE=20&SPID=&SPN=">LUMIX</a></li>
+			<li class="submenu-item-list-item"><a class="cc_top_menue" href="/_NGXMZ_01_07_01_1?FREE_WORD=FinePix&MKRCD=&SIZE=20&SPID=&SPN=">FinePix</a></li>
+			<li class="submenu-item-list-item"><a class="cc_top_menue" href="/_NGXMZ_01_07_01_1?FREE_WORD=COOLPIX&MKRCD=&SIZE=20&SPID=&SPN=">COOLPIX</a></li>
+			<li class="submenu-item-list-item"><a class="cc_top_menue" href="/_NGXMZ_01_07_01_1?FREE_WORD=EXILIM&MKRCD=&SIZE=20&SPID=&SPN=">EXILIM</a></li>
+			<li class="submenu-item-list-item"><a class="cc_top_menue" href="/_NGXMZ_01_07_03_1?FREE_WORD=%83n%83%93%83f%83B%83J%83%80&MKRCD=&SIZE=20&SPID=&SPN=">ハンディカム</a></li>
+			<li class="submenu-item-list-item"><a class="cc_top_menue" href="/_NGXMZ_01_07_01_1?FREE_WORD=OPTIO&MKRCD=&SIZE=20&SPID=&SPN=">OPTIO</a></li>
+			<li class="submenu-item-list-item"><a class="cc_top_menue" href="/_NGXMZ_01_07_03_1?FREE_WORD=Everio&MKRCD=&SIZE=20&SPID=&SPN=">Everio</a></li>
+			<li class="submenu-item-list-item"><a class="cc_top_menue" href="/_NGXMZ_01_07_02_1?FREE_WORD=&MKRCD=%83%8D%83W%83N%81%5B%83%8B&SIZE=20&SPID=&SPN=">WebCam</a></li>
+			<li class="submenu-item-list-item"><a class="cc_top_menue" href="/_NGXMZ_01_07_02_1?FREE_WORD=LifeCam&MKRCD=&SIZE=20&SPID=&SPN=">LifeCam</a></li>
+			<li class="submenu-item-list-item"><a class="cc_top_menue" href="/_NGXMZ_01_07_05_1?FREE_WORD=BB-HCM&MKRCD=&PAGE=1&SIZE=20">カメラBB</a></li>
+		</ul>
+	</div>
+</div>
+
+<!-- テレビ -->
+<div class="submenu-body">
+	<div class="submenu-item">
+		<p class="submenu-item-lebel">ジャンル</p>
+		<ul class="submenu-item-list">
+			<li class="submenu-item-list-item"><a class="cc_top_menue" href="/_NGXMNZ_01_32_01_02_1?FREE_WORD=&MKRCD=&SIZE=20&SPID=&SPN=">液晶テレビ</a></li>
+			<li class="submenu-item-list-item"><a class="cc_top_menue" href="/_NGXMNZ_01_32_01_02_1?FREE_WORD=&MKRCD=&SIZE=20&SPID=&SPN=">3Dテレビ</a></li>
+			<li class="submenu-item-list-item"><a class="cc_top_menue" href="/_NGXM_01_32_03?PATTERN=1">テレビチューナー・アンテナ</a></li>
+			<li class="submenu-item-list-item"><a class="cc_top_menue" href="/_NGXMNZ_01_04_05_04_1?FREE_WORD=&MKRCD=&SIZE=20&SPID=&SPN=">ホームシアタープロジェクター</a></li>
+			<li class="submenu-item-list-item"><a class="cc_top_menue" href="/_NGXYM_01_32_99_02?PATTERN=1">Blu-ray・DVD・HDD録画再生機器</a></li>
+			<li class="submenu-item-list-item"><a class="cc_top_menue" href="/_NGXM_01_32_11">カーナビ・カー用品</a></li>
+			<li class="submenu-item-list-item"><a class="cc_top_menue" href="/_NGX_01_32">すべてのデジタル家電</a></li>
+		</ul>
+	</div>
+	<div class="submenu-item">
+		<p class="submenu-item-lebel">オーディオ機器ジャンル</p>
+		<ul class="submenu-item-list">
+			<li class="submenu-item-list-item"><a class="cc_top_menue" href="/_NGXMNZ_01_32_07_01_1?FREE_WORD=&MKRCD=&SIZE=20&SPID=&SPN=">コンポ</a></li>
+			<li class="submenu-item-list-item"><a class="cc_top_menue" href="/_NGXMNZ_01_32_07_03_1?FREE_WORD=&MKRCD=&SIZE=20&SPID=&SPN=">AVアンプ</a></li>
+			<li class="submenu-item-list-item"><a class="cc_top_menue" href="/_NGXMNZ_01_32_07_04_1?FREE_WORD=%83X%83s%81%5B%83J%81%5B&MKRCD=&PAGE=1&SIZE=20">スピーカー</a></li>
+			<li class="submenu-item-list-item"><a class="cc_top_menue" href="/_NGXMZ_01_32_07_1?FREE_WORD=%83w%83b%83h%83z%83%93&MKRCD=&SIZE=20&SPID=&SPN=">ヘッドホン</a></li>
+			<li class="submenu-item-list-item"><a class="cc_top_menue" href="/_NGXMZ_01_32_07_1?FREE_WORD=%83C%83%84%83z%83%93&MKRCD=&SIZE=20&SPID=&SPN=">イヤホン</a></li>
+			<li class="submenu-item-list-item"><a class="cc_top_menue" href="/_NGXM_01_32_08">デジタルオーディオプレーヤー</a></li>
+			<li class="submenu-item-list-item"><a class="cc_top_menue" href="/_NGXYMN_01_32_99_15_03">電子楽器・電子ピアノ</a></li>
+			<li class="submenu-item-list-item"><a class="cc_top_menue" href="/_NGXM_01_32_07">すべてのオーディオ機器</a></li>
+		</ul>
+	</div>
+	<div class="submenu-item">
+		<p class="submenu-item-lebel">家電メーカー</p>
+		<ul class="submenu-item-list">
+			<li class="submenu-item-list-item"><a class="cc_top_menue" href="/freeSearch/searchName.asp?FM=99&FW=ON&FREE_WORD=%83p%83i%83%5C%83j%83b%83N&x=0&y=0">パナソニック</a></li>
+			<li class="submenu-item-list-item"><a class="cc_top_menue" href="/freeSearch/searchName.asp?FM=99&FW=ON&FREE_WORD=%93%8C%8E%C5&x=0&y=0">東芝</a></li>
+			<li class="submenu-item-list-item"><a class="cc_top_menue" href="/freeSearch/searchName.asp?FM=99&FW=ON&FREE_WORD=%83V%83%83%81%5B%83v&x=0&y=0">シャープ</a></li>
+			<li class="submenu-item-list-item"><a class="cc_top_menue" href="/freeSearch/searchName.asp?FM=99&FW=ON&FREE_WORD=%93%FA%97%A7&x=0&y=0">日立</a></li>
+			<li class="submenu-item-list-item"><a class="cc_top_menue" href="/freeSearch/searchName.asp?FM=99&FW=ON&FREE_WORD=%8EO%95H%93d%8B%40&x=0&y=0">三菱電機</a></li>
+			<li class="submenu-item-list-item"><a class="cc_top_menue" href="/_NGZ_01_1?FREE_WORD=%83I%83%93%83L%83%88%81%5B&MKRCD=%83I%83%93%83L%83%88%81%5B&SIZE=20&SPID=&SPN=">オンキヨー</a></li>
+			<li class="submenu-item-list-item"><a class="cc_top_menue" href="/_NGZ_01_1?FREE_WORD=%83%84%83%7D%83n&MKRCD=&SIZE=20&SPID=&SPN=">ヤマハ</a></li>
+			<li class="submenu-item-list-item"><a class="cc_top_menue" href="/_NG_01?FREE_WORD=%83r%83N%83%5E%81%5B">ビクター</a></li>
+			<li class="submenu-item-list-item"><a class="cc_top_menue" href="/freeSearch/searchName.asp?FM=99&FW=ON&FREE_WORD=%83%5C%83j%81%5B&x=0&y=0">ソニー</a></li>
+			<li class="submenu-item-list-item"><a class="cc_top_menue" href="/freeSearch/searchName.asp?FM=99&FW=ON&FREE_WORD=%83I%81%5B%83f%83B%83I%83e%83N%83j%83J&x=0&y=0">オーディオテクニカ</a></li>
+			<li class="submenu-item-list-item"><a class="cc_top_menue" href="/_NGXMZ_01_32_08_1?FREE_WORD=Voice-Trek&MKRCD=&SIZE=20&SPID=&SPN=">Voice-Trek(ボイストレック)</a></li>
+		</ul>
+	</div>
+</div>
+
+<!-- 生活家電 -->
+<div class="submenu-body">
+	<div class="submenu-item">
+		<p class="submenu-item-lebel">ジャンル</p>
+		<ul class="submenu-item-list">
+			<li class="submenu-item-list-item"><a class="cc_top_menue" href="/_NGXM_01_33_03">空気清浄機・加湿器</a></li>
+			<li class="submenu-item-list-item"><a class="cc_top_menue" href="/_NGXMZ_01_33_01_1?FREE_WORD=&MKRCD=&SIZE=20&SPID=&SPN=">季節家電</a></li>
+			<li class="submenu-item-list-item"><a class="cc_top_menue" href="/_NGXMZ_01_33_06_1?FREE_WORD=&MKRCD=&SIZE=20&SPID=&SPN=">掃除機</a></li>
+			<li class="submenu-item-list-item"><a class="cc_top_menue" href="/_NGXM_01_33_09">キッチン家電</a></li>
+			<li class="submenu-item-list-item"><a class="cc_top_menue" href="/_NGXM_01_33_25">理美容家電</a></li>
+			<li class="submenu-item-list-item"><a class="cc_top_menue" href="/_NGZ_01_1?FREE_WORD=LED%93d%8B%85&MKRCD=&SIZE=20&SPID=&SPN=">LED電球</a></li>
+			<li class="submenu-item-list-item"><a class="cc_top_menue" href="/_NGXMZ_01_32_02_1?FREE_WORD=%83f%83W%83%5E%83%8B%83t%83H%83g%83t%83%8C%81%5B%83%80&MKRCD=&SIZE=20&SPID=&SPN=">デジタルフォトフレーム</a></li>
+			<li class="submenu-item-list-item"><a class="cc_top_menue" href="/_NGXMZ_01_32_51_1?FREE_WORD=&MKRCD=&PAGE=1&SIZE=20">FAX</a></li>
+			<li class="submenu-item-list-item"><a class="cc_top_menue" href="/_NGXM_01_32_09?FREE_WORD=%93d%98b&PATTERN=1">電話機</a></li>
+			<li class="submenu-item-list-item"><a class="cc_top_menue" href="/_NGXMZ_01_32_53_1?FREE_WORD=&MKRCD=&PAGE=1&SIZE=20">シュレッダー</a></li>
+			<li class="submenu-item-list-item"><a class="cc_top_menue" href="/_NGXYMN_01_32_99_54_06">電子辞書</a></li>
+			<li class="submenu-item-list-item"><a class="cc_top_menue" href="/_NGXM_01_35_03?FREE_WORD=%89%CE%8D%D0%8Cx%95%F1%8A%ED">火災警報器</a></li>
+			<li class="submenu-item-list-item"><a class="cc_top_menue" href="/_NGXM_01_33_60">時計</a></li>
+			<li class="submenu-item-list-item"><a class="cc_top_menue" href="/_NGXYMN_01_33_99_25_13?JCD4=99">自転車</a></li>
+			<li class="submenu-item-list-item"><a class="cc_top_menue" href="/_NGXM_01_12_30?SK=3&ZM=1&FREE_WORD=&MKRCD=&PAGE=1&SIZE=20&SPID=&SPCID=0&SPCC=&PATTERN=&MKRCNT=0&spc1=&spc2=&spc3=&spc4=&spc5=">おもちゃ・ゲーム</a></li>
+			<li class="submenu-item-list-item"><a class="cc_top_menue" href="/_NGX_01_33">すべてのリビング家電</a></li>
+		</ul>
+	</div>
+	<div class="submenu-item">
+		<p class="submenu-item-lebel">生活家電メーカー</p>
+		<ul class="submenu-item-list">
+			<li class="submenu-item-list-item"><a class="cc_top_menue" href="/freeSearch/searchName.asp?FM=99&FW=ON&FREE_WORD=%83p%83i%83%5C%83j%83b%83N&x=0&y=0">パナソニック</a></li>
+			<li class="submenu-item-list-item"><a class="cc_top_menue" href="/freeSearch/searchName.asp?FM=99&FW=ON&FREE_WORD=%93%8C%8E%C5&x=0&y=0">東芝</a></li>
+			<li class="submenu-item-list-item"><a class="cc_top_menue" href="/freeSearch/searchName.asp?FM=99&FW=ON&FREE_WORD=%83V%83%83%81%5B%83v&x=0&y=0">シャープ</a></li>
+			<li class="submenu-item-list-item"><a class="cc_top_menue" href="/freeSearch/searchName.asp?FM=99&FW=ON&FREE_WORD=%93%FA%97%A7&x=0&y=0">日立</a></li>
+			<li class="submenu-item-list-item"><a class="cc_top_menue" href="/freeSearch/searchName.asp?FM=99&FW=ON&FREE_WORD=%8EO%95H%93d%8B%40&x=0&y=0">三菱電機</a></li>
+			<li class="submenu-item-list-item"><a class="cc_top_menue" href="/_NGZ_01_1?FREE_WORD=%83I%83%93%83L%83%88%81%5B&MKRCD=%83I%83%93%83L%83%88%81%5B&SIZE=20&SPID=&SPN=">オンキヨー</a></li>
+			<li class="submenu-item-list-item"><a class="cc_top_menue" href="/_NGZ_01_1?FREE_WORD=%83%84%83%7D%83n&MKRCD=&SIZE=20&SPID=&SPN=">ヤマハ</a></li>
+			<li class="submenu-item-list-item"><a class="cc_top_menue" href="/_NG_01?FREE_WORD=%83r%83N%83%5E%81%5B">ビクター</a></li>
+			<li class="submenu-item-list-item"><a class="cc_top_menue" href="/freeSearch/searchName.asp?FM=99&FW=ON&FREE_WORD=%83%5C%83j%81%5B&x=0&y=0">ソニー</a></li>
+			<li class="submenu-item-list-item"><a class="cc_top_menue" href="/_NGZ_01_1?FREE_WORD=%83f%83%8D%83%93%83M&MKRCD=&PAGE=1&SIZE=20">デロンギ</a></li>
+		</ul>
+	</div>			
+	<div class="submenu-item">
+		<p class="submenu-item-lebel">生活家電メーカー</p>
+		<ul class="submenu-item-list">
+			<li class="submenu-item-list-item"><a class="cc_top_menue" href="/freeSearch/searchName.asp?FM=99&FW=ON&FREE_WORD=%83J%83V%83I%8Cv%8EZ%8B%40&x=0&y=0">カシオ</a></li>
+			<li class="submenu-item-list-item"><a class="cc_top_menue" href="/_NGZ_01_1?FREE_WORD=%83u%83%89%83E%83%93&MKRCD=%83u%83%89%83E%83%93&PAGE=1&SIZE=20">ブラウン</a></li>
+			<li class="submenu-item-list-item"><a class="cc_top_menue" href="/_NGXMZ_01_33_25_1?FREE_WORD=%83t%83B%83%8A%83b%83v%83X&MKRCD=&SIZE=20&SPID=&SPN=">フィリップス</a></li>
+			<li class="submenu-item-list-item"><a class="cc_top_menue" href="/_NGXM_01_33_03?FREE_WORD=%83%5F%83C%83L%83%93">ダイキン</a></li>
+			<li class="submenu-item-list-item"><a class="cc_top_menue" href="/_NGZ_01_1?FREE_WORD=%83c%83C%83%93%83o%81%5B%83h&MKRCD=&PAGE=1&SIZE=20">ツインバード</a></li>
+			<li class="submenu-item-list-item"><a class="cc_top_menue" href="/_NGZ_01_1?FREE_WORD=%83%5E%83C%83K%81%5B%96%82%96%40%95r&MKRCD=&PAGE=1&SIZE=20">タイガー魔法瓶</a></li>
+			<li class="submenu-item-list-item"><a class="cc_top_menue" href="/_NGZ_01_1?FREE_WORD=%8F%DB%88%F3%83%7D%83z%81%5B%83r%83%93&MKRCD=&PAGE=1&SIZE=20">象印マホービン</a></li>
+			<li class="submenu-item-list-item"><a class="cc_top_menue" href="/_NGXMZ_01_33_25_1?FREE_WORD=%83I%83%80%83%8D%83%93&MKRCD=&PAGE=1&SIZE=20">オムロン</a></li>
+			<li class="submenu-item-list-item"><a class="cc_top_menue" href="/_NGZ_01_1?FREE_WORD=%83%5E%83j%83%5E&MKRCD=&PAGE=1&SIZE=20">タニタ</a></li>
+			<li class="submenu-item-list-item"><a class="cc_top_menue" href="/_NGXMZ_01_33_25_1?FREE_WORD=%83%94%83B%83%5F%83%8B%83T%83X%81%5B%83%93&MKRCD=&SIZE=20&SPID=&SPN=">ヴィダルサスーン</a></li>
+			<li class="submenu-item-list-item"><a class="cc_top_menue" href="/_N_?GENRE=01&PATTERN=1&FREE_WORD=%83%5F%83C%83%5C%83%93&MKRCD=%83%5F%83C%83%5C%83%93&MKRCNT=1">ダイソン</a></li>
+		</ul>
+	</div>
+	<div class="submenu-item">
+		<p class="submenu-item-lebel">生活家電ブランド</p>
+		<ul class="submenu-item-list">
+			<li class="submenu-item-list-item"><a class="cc_top_menue" href="/_NGXMZ_01_32_51_1?FREE_WORD=%82%A8%82%BD%82%C1%82%AD%82%B7&MKRCD=&SIZE=20&SPID=&SPN=">おたっくす</a></li>
+			<li class="submenu-item-list-item"><a class="cc_top_menue" href="/_NGXMZ_01_32_53_1?FREE_WORD=s-tray&MKRCD=&SIZE=20&SPID=&SPN=">s-tray</a></li>
+			<li class="submenu-item-list-item"><a class="cc_top_menue" href="/_NGXMZ_01_32_53_1?FREE_WORD=RELISH&MKRCD=&SIZE=20&SPID=&SPN=">RELISH</a></li>
+			<li class="submenu-item-list-item"><a class="cc_top_menue" href="/_NG_01?FREE_WORD=%83G%83l%83%8B%81%5B%83v">eneloop(エネループ)</a></li>
+			<li class="submenu-item-list-item"><a class="cc_top_menue" href="/_NGXM_01_33_25?FREE_WORD=lamdash">LAMDASH(ラムダッシュ)</a></li>
+			<li class="submenu-item-list-item"><a class="cc_top_menue" href="/_NGXMZ_01_33_25_1?FREE_WORD=%83h%83%8B%83c&MKRCD=&SIZE=20&SPID=&SPN=">ドルツ</a></li>
+			<li class="submenu-item-list-item"><a class="cc_top_menue" href="/_NGZ_01_1?FREE_WORD=T-FAL&MKRCD=&SIZE=20&SPID=&SPN=">T-FAL(ティファール)</a></li>
+			<li class="submenu-item-list-item"><a class="cc_top_menue" href="/_NGXMZ_01_33_25_1?FREE_WORD=%83i%83m%83P%83A&MKRCD=&SIZE=20&SPID=&SPN=">ナノケア</a></li>
+		</ul>
+	</div>
+</div>
+
+<!-- ソフト -->
+<div class="submenu-body">
+	<div class="submenu-item">
+		<p class="submenu-item-lebel">ジャンル</p>
+		<ul class="submenu-item-list">
+			<li class="submenu-item-list-item"><a class="cc_top_menue" href="/_NGXM_02_21_01">OS</a></li>
+			<li class="submenu-item-list-item"><a class="cc_top_menue" href="/_NGXM_02_21_02">開発ソフト</a></li>
+			<li class="submenu-item-list-item"><a class="cc_top_menue" href="/_NGXM_02_21_03">データベースソフト</a></li>
+			<li class="submenu-item-list-item"><a class="cc_top_menue" href="/_NGXYMN_02_21_99_05_01">セキュリティ・ウィルス対策</a></li>
+			<li class="submenu-item-list-item"><a class="cc_top_menue" href="/_NGXM_02_21_05">システム・ネットワーク・セキュリティ全般</a></li>
+			<li class="submenu-item-list-item"><a class="cc_top_menue" href="/_NGXYMN_02_21_99_06_01">オフィスソフト</a></li>
+			<li class="submenu-item-list-item"><a class="cc_top_menue" href="/_NGXYMN_02_21_99_06_02">ワープロソフト</a></li>
+			<li class="submenu-item-list-item"><a class="cc_top_menue" href="/_NGXYMN_02_21_99_06_03">表計算ソフト</a></li>
+			<li class="submenu-item-list-item"><a class="cc_top_menue" href="/_NGXYMN_02_21_99_06_04">プレゼンテーションソフト</a></li>
+			<li class="submenu-item-list-item"><a class="cc_top_menue" href="/_NGXYMN_02_21_99_06_09">ホームページ作成ソフト</a></li>
+			<li class="submenu-item-list-item"><a class="cc_top_menue" href="/_NGXYMN_02_21_99_06_10">電子文書(PDF)作成ソフト</a></li>
+		</ul>
+	</div>
+	<div class="submenu-item">
+		<p class="submenu-item-lebel">ジャンル</p>
+		<ul class="submenu-item-list">
+			<li class="submenu-item-list-item"><a class="cc_top_menue" href="/_NGXYMN_02_21_99_07_01">グラフィック・フォトレタッチソフト</a></li>
+			<li class="submenu-item-list-item"><a class="cc_top_menue" href="/_NGXYMN_02_21_99_07_02">3Dグラフィックソフト</a></li>
+			<li class="submenu-item-list-item"><a class="cc_top_menue" href="/_NGXYMN_02_21_99_07_03">マルチメディア編集ソフト</a></li>
+			<li class="submenu-item-list-item"><a class="cc_top_menue" href="/_NGXM_02_21_08">ユーティリティ・グループウェア</a></li>
+			<li class="submenu-item-list-item"><a class="cc_top_menue" href="/_NGXYMN_02_21_99_08_04">バックアップソフト</a></li>
+			<li class="submenu-item-list-item"><a class="cc_top_menue" href="/_NGXYMN_02_21_99_08_16">データ復旧/消去ソフト</a></li>
+			<li class="submenu-item-list-item"><a class="cc_top_menue" href="/_NGXM_02_21_09">ERP・会計・業務関連ソフト</a></li>
+			<li class="submenu-item-list-item"><a class="cc_top_menue" href="/_NGXM_02_21_13">CADソフト</a></li>
+			<li class="submenu-item-list-item"><a class="cc_top_menue" href="/_NGXM_02_21_15">教育ソフト</a></li>
+			<li class="submenu-item-list-item"><a class="cc_top_menue" href="/_NGXM_02_21_16">ゲーム・趣味・娯楽ソフト</a></li>
+			<li class="submenu-item-list-item"><a class="cc_top_menue" href="/_NGXM_02_21_17">インターネット通信ソフト</a></li>
+		</ul>
+	</div>
+	<div class="submenu-item">
+		<p class="submenu-item-lebel">ソフトのメーカー</p>
+		<ul class="submenu-item-list">
+			<li class="submenu-item-list-item"><a class="cc_top_menue" href="/freeSearch/SearchName.asp?GENRE=02&JCD1=21&JCD2=&JCD3=&JCD4=&JCD5=&PAGE=1&SIZE=20&ZM=0&SPN=&SPID=&FREE_WORD=&MKRCD=%83%7D%83C%83N%83%8D%83%5C%83t%83g">マイクロソフト</a></li>
+			<li class="submenu-item-list-item"><a class="cc_top_menue" href="/_NGXZ_02_21_0?FREE_WORD=&MKRCD=Adobe+Systems&PAGE=1&SIZE=20">アドビ</a></li>
+			<li class="submenu-item-list-item"><a class="cc_top_menue" href="/_NGXZ_02_21_0?FREE_WORD=&MKRCD=%83W%83%83%83X%83g%83V%83X%83e%83%80&PAGE=1&SIZE=20">ジャストシステム</a></li>
+			<li class="submenu-item-list-item"><a class="cc_top_menue" href="/freeSearch/SearchName.asp?GENRE=02&JCD1=21&JCD2=99&JCD3=05&JCD4=99&JCD5=01&PAGE=1&SIZE=20&ZM=0&SPN=&SPID=&FREE_WORD=&MKRCD=%83V%83%7D%83%93%83e%83b%83N">シマンテック</a></li>
+			<li class="submenu-item-list-item"><a class="cc_top_menue" href="/freeSearch/SearchName.asp?GENRE=02&JCD1=21&JCD2=&JCD3=&JCD4=&JCD5=&PAGE=1&SIZE=20&ZM=0&SPN=&SPID=&FREE_WORD=&MKRCD=%83%5C%81%5B%83X%83l%83N%83X%83g">ソースネクスト</a></li>
+			<li class="submenu-item-list-item"><a class="cc_top_menue" href="/freeSearch/SearchName.asp?GENRE=02&JCD1=21&JCD2=&JCD3=&JCD4=&JCD5=&PAGE=1&SIZE=20&ZM=0&SPN=&SPID=&FREE_WORD=&MKRCD=%83L%83%84%83m%83%93IT%83%5C%83%8A%83%85%81%5B%83V%83%87%83%93%83Y">キヤノンITソリューションズ</a></li>
+			<li class="submenu-item-list-item"><a class="cc_top_menue" href="/freeSearch/SearchName.asp?GENRE=02&JCD1=21&JCD2=&JCD3=&JCD4=&JCD5=&PAGE=1&SIZE=20&ZM=0&SPN=&SPID=&FREE_WORD=&MKRCD=%83s%81%5B%83V%81%5B%83G%81%5B">PCA</a></li>
+			<li class="submenu-item-list-item"><a class="cc_top_menue" href="/_NGXZ_02_21_1?FREE_WORD=&MKRCD=%83%82%83%8A%83T%83%8F&SIZE=20&SPID=&SPN=">モリサワ</a></li>
+			<li class="submenu-item-list-item"><a class="cc_top_menue" href="/freeSearch/SearchName.asp?GENRE=02&JCD1=21&JCD2=&JCD3=&JCD4=&JCD5=&PAGE=1&SIZE=20&ZM=0&SPN=&SPID=&FREE_WORD=&MKRCD=%96%ED%90%B6">弥生</a></li>
+		</ul>
+	</div>
+</div>
+
+<!-- 法人 -->
+<div class="submenu-body">
+	<div class="submenu-item">
+		<p class="submenu-item-lebel">ジャンル</p>
+		<ul class="submenu-item-list">
+			<li class="submenu-item-list-item"><a class="cc_top_menue" href="/_NGX_01_03">サーバー</a></li>
+			<li class="submenu-item-list-item"><a class="cc_top_menue" href="/_NGXY_01_01_01">デスクトップPC</a></li>
+			<li class="submenu-item-list-item"><a class="cc_top_menue" href="/_NGXY_01_01_02">ノートPC</a></li>
+			<li class="submenu-item-list-item"><a class="cc_top_menue" href="/_NGX_01_10">ネットワーク機器</a></li>
+			<li class="submenu-item-list-item"><a class="cc_top_menue" href="/_NGX_01_13">電源関連装置</a></li>
+			<li class="submenu-item-list-item"><a class="cc_top_menue" href="/_NGX_01_14">消耗品・メディア</a></li>
+			<li class="submenu-item-list-item"><a class="cc_top_menue" href="/_NGX_01_08">ストレージ</a></li>
+			<li class="submenu-item-list-item"><a class="cc_top_menue" href="/_NGXM_01_05_40">レーザー複合機</a></li>
+			<li class="submenu-item-list-item"><a class="cc_top_menue" href="/_NGXM_01_05_02">レーザープリンタ</a></li>
+			<li class="submenu-item-list-item"><a class="cc_top_menue" href="/_NGXM_01_05_01">ドットインパクトプリンタ</a></li>
+		</ul>
+	</div>	
+	<div class="submenu-item">
+		<p class="submenu-item-lebel">ジャンル</p>
+		<ul class="submenu-item-list">		
+			<li class="submenu-item-list-item"><a class="cc_top_menue" href="/_NGXM_01_05_11">プロッタ</a></li>
+			<li class="submenu-item-list-item"><a class="cc_top_menue" href="/_NGXM_01_07_05">ネットワークカメラ</a></li>
+			<li class="submenu-item-list-item"><a class="cc_top_menue" href="/_NGXM_02_21_01">OS</a></li>
+			<li class="submenu-item-list-item"><a class="cc_top_menue" href="/_NGXYMN_02_21_99_06_01">オフィスソフト</a></li>
+			<li class="submenu-item-list-item"><a class="cc_top_menue" href="/_NGXM_02_21_02">開発ソフト</a></li>
+			<li class="submenu-item-list-item"><a class="cc_top_menue" href="/_NGXM_02_21_03">データベースソフト</a></li>
+			<li class="submenu-item-list-item"><a class="cc_top_menue" href="/_NGXM_02_21_05">システム・ネットワーク・セキュリティ全般</a></li>
+			<li class="submenu-item-list-item"><a class="cc_top_menue" href="/_NGXM_02_21_09">ERP・会計・業務関連ソフト</a></li>
+			<li class="submenu-item-list-item"><a class="cc_top_menue" href="/_NGXM_02_21_13">CADソフト</a></li>
+		</ul>
+	</div>
+	<div class="submenu-item">
+		<p class="submenu-item-lebel">法人のメーカー</p>
+		<ul class="submenu-item-list">
+			<li class="submenu-item-list-item"><a class="cc_top_menue" href="/freeSearch/SearchName.asp?GENRE=01&JCD1=&JCD2=&JCD3=&JCD4=&JCD5=&PAGE=1&SIZE=20&ZM=1&SPN=&SPID=&FREE_WORD=CISCO&MKRCD=Cisco+Systems">シスコ</a></li>
+			<li class="submenu-item-list-item"><a class="cc_top_menue" href="/_NG_01?FREE_WORD=%83l%83b%83g%83M%83A">ネットギア</a></li>
+			<li class="submenu-item-list-item"><a class="cc_top_menue" href="/_NG_01?FREE_WORD=hp">HP</a></li>
+			<li class="submenu-item-list-item"><a class="cc_top_menue" href="/_NG_01?FREE_WORD=NEC">NEC</a></li>
+			<li class="submenu-item-list-item"><a class="cc_top_menue" href="/_NG_01?FREE_WORD=FUJITSU">富士通</a></li>
+			<li class="submenu-item-list-item"><a class="cc_top_menue" href="/_NG_01?FREE_WORD=%83%7D%83C%83N%83%8D%83%5C%83t%83g">マイクロソフト</a></li>
+			<li class="submenu-item-list-item"><a class="cc_top_menue" href="/_NGZ_02_0?FREE_WORD=%83A%83h%83r&MKRCD=&PAGE=1&SIZE=20">アドビシステムズ</a></li>
+			<li class="submenu-item-list-item"><a class="cc_top_menue" href="/_NG_01?FREE_WORD=APC">APC</a></li>
+			<li class="submenu-item-list-item"><a class="cc_top_menue" href="/_NGZ_01_0?FREE_WORD=%83%8A%83R%81%5B&MKRCD=&PAGE=1&SIZE=20">リコー</a></li>
+			<li class="submenu-item-list-item"><a class="cc_top_menue" href="/_NGZ_01_0?FREE_WORD=imation&MKRCD=&PAGE=1&SIZE=20">イメーション</a></li>
+		</ul>
+	</div>
+</div>
+
+</div>
+</div>
+<!-- store tabmenu end -->
+<p class="appeal"><a href="/_II_EI15690824">intel 第7世代 Core i5-7200Uを搭載！15.6インチノートPC『Aspire E』！</a>
+
+<!-- a href="/_II_AM15690725">AMD Ryzen 7 在庫僅少ございます！</a -->
+<!-- a href="/x-day.asp?LID=TOP_text&FMID=TOP_text" >【月に一度の超特価セール】X-DAY開催中！Samsung NVMe SSD SM961 256GB！</a -->
+<!-- a href="/_II_NG15029222?LID=TOP_text&FMID=TOP_text">ネットギア LTE対応 SIMフリー WiFiルーター 大特価！</a -->
+<!-- a href="/_RH_3162?LID=TOP_text&FMID=TOP_text" >【タイムセール】お買得商品を不定期更新！</a -->
+</p>
+<!-- freeword search start -->
+<div class="searcharea">
+<div class="leftcorner">
+<div class="rightcorner">
+<form name="freewordform" method="get" action="/freeSearch/searchName.asp">
+<input type="hidden" name="FM" value="99">
+<input type="hidden" name="FW" value="ON">
+<input type="hidden" name="FMID" value="SearchEl">
+<div class="searchicon">
+<!--<label for="JCD0">カテゴリ：</label>	-->
+<select name="JCD0" id="JCD0"  style="height:25px;">
+	<option value="" selected>すべて</option>
+	<option value="01" >ディスプレイ</option>
+	<option value="02" >PC・スマホ</option>
+	<option value="03" >PC周辺機器</option>
+	<option value="04" >プリンタ</option>
+	<option value="05" >カメラ</option>
+	<option value="06" >AV機器</option>
+	<option value="07" >生活家電</option>
+	<option value="08" >ソフト</option>
+</select>
+<input type="text" id="search" name="FREE_WORD" value="" size="45" autocomplete="on" maxlength="45">
+<input name="" type="image" src="/images/common/hdft/search_btn_xstore.gif" value="検索" alt="検索">
+</div>
+</form>
+</div>
+</div>
+</div>
+<!-- freeword search end -->
+<style type="text/css">
+<!--
+.tpFullBn a{display:block; width:100%; height:35px; text-align:center;}
+.tpFullBn img{max-width:100%;}
+.tpFullBn a:hover{opacity: 0.8; filter: alpha(opacity=80);-ms-filter: "alpha(opacity=80)";-moz-filter: "alpha(opacity=80)"; transition: ease 1.0s; -webkit-transition: all ease 1.0s;}
+-->
+</style>
+
+<!-- timesale-->
+<div style="background:#fee300;" class="tpFullBn">
+<a href="/tokka"><img alt="スタッフ特選！数量限定、割引クーポン付き商品など掘り出し商品がいっぱい！特価コーナー" src="/images/common/hdft/spPrice_tpBn_940x35.jpg">
+</a></div>
+<!--<a href="/tokka?TType=timesale">-->
+
+<!-- waribiki
+<div style="background:#db433e;" class="tpFullBn">
+<a href="/cc/couponCode_1.asp?CC_SHISAKU_ID=36"><img alt="第11弾!d=(^O^)=b♪3/31(金)15時〆! 800円OFF割引コード配布中♪ 詳しくはこちら" src="/images/common/hdft/spCoupon_tpBn_940x35.jpg">
+</a></div>
+-->
+
+
+<!--
+<div class="tpFullBn" style="background:#e83820;">
+<a href="/16th_sale"><img src="/images/common/hdft/cp16th_940x35.jpg?2016122217" alt="NTT-X Store 16周年記念セール　日頃の感謝をこめまして、NTT-X Storeでは会員のお客様に3つのキャンペーンをご用意いたしました！"></a>
+</div>
+-->
+
+<!--div class="fullBn01">
+<a class="cc_header_banner"  href="/_RH_3162"><img alt="期間中、割引クーポン付き商品を不定期更新！65時間限定&#12288;不定期開催！タイムセール&#12288;8/29(月)10：00まで" src="/images/common/hdft/160826_timesale_940x35.jpg"></a>
+</div-->
+
+<!--h07-->
+<ul id="crumb"><li><a href="http://nttxstore.jp/">TOP</a>&nbsp;&gt;&nbsp;会員登録情報の新規登録（お客様情報）&nbsp;</li></ul>
+<!--/h07-->
+
+</div>
+<!--/head--> 
+
+<!--middle-->
+<div id="middle">
+
+<!--main-->
+<div id="main">
+
+<!--inmain-->
+<div id="inmain">
+
+<!--contents-->
+<div id="contents">
+
+<a name="incontents"></a>
+
+<!--incontents-->
+<div id="incontents">
+
+<!--cartbody--> 
+<div class="cartbody"> 
+
+<!--inbody--> 
+<div class="inbody"> 
+
+<form method="POST" action="" ID="xform2" name="xform2" onSubmit="return false;">
+<input type="hidden" name="PAYMENT" value="">
+<input type="hidden" name="HAISOU_HOUHOU" value="">
+<input type="hidden" name="CART1_HAISOU" value="">
+<input type="hidden" name="USER_CAR2UPDATE" value="">
+<input type="hidden" name="USER_CAR2FORM" value="MEMBER">
+<input type="hidden" name="NOISE" value="loTSMyKB">
+<input type="hidden" name="USER_DEV2UPDATE" value="">
+<input type="hidden" name="DELV_BELONG"   value="">
+<input type="hidden" name="DELV_COMPANY"  value="">
+<input type="hidden" name="DELV_BUSYO"    value="">
+<input type="hidden" name="DELV_NAME"     value="">
+<input type="hidden" name="DELV_KANA"     value="">
+<input type="hidden" name="DELV_ZIP1"     value="">
+<input type="hidden" name="DELV_ZIP2"     value="">
+<input type="hidden" name="DELV_ADDRESS1" value="">
+<input type="hidden" name="DELV_ADDRESS2" value="">
+<input type="hidden" name="DELV_TEL1"     value="">
+<input type="hidden" name="DELV_TEL2"     value="">
+<input type="hidden" name="DELV_TEL3"     value="">
+<input type="hidden"name="DELV_FAX1"     value="">
+<input type="hidden"name="DELV_FAX2"     value="">
+<input type="hidden"name="DELV_FAX3"     value="">
+<input type="hidden" name="DELV_SAME" value="1">
+
+<h1 class="seach">新規会員のご登録</h1>
+
+<div class="registtopbox">
+<!--registtopbox-->
+<div class="innbox">
+<!--innbox-->
+<div class="messageorange">当店の会員にご登録（無料）頂いたお客様には、ID・パスワードを発行させて頂き、<br>ご注文時の入力軽減の他、様々な特典をご用意させて頂きます。</div>
+<div class="listbox_long">
+<!--listbox-->
+<ul>
+<li>・その場でディスカウントする「会員限定割引クーポン」がご利用頂けるようになります。<br>
+※割引クーポン対象商品は、商品購入ページに記載がございます。記載がない商品は対象外です。
+</li>
+<li>・カート内でアンケートにお答え頂くとその場でディスカウントする「会員限定アンケート割引クーポン」がご利用頂けます。<br>　『会員限定アンケート割引クーポン』について詳しくは<a href="/_RH_2232" class="linkb">こちら</a><br>
+※アンケートクーポン対象商品は、商品購入ページに記載がございます。記載がない商品は対象外です。
+</li>
+<li>・ご注文の履歴（過去約1年分）や、ご注文頂いてから配送完了までの状態（ステータス）をご確認頂けます。</li>
+<li>・過去にご購入頂いた商品のアップグレード品、関連する消耗品などを会員画面でお知らせいたします。 </li>
+<li>・お得な情報や新商品の情報をお知らせするメールマガジンをお届けします。（ご希望者様のみ） </li>
+<li>・月に1度の激安タイムセール「 X-DAY 」へご参加頂けます。</li>
+</ul>
+<!--/listbox-->
+</div>
+<!--/innbox-->
+</div>
+<!--/registtopbox-->
+</div>
+
+<div ID="ID_NEXTCART_MSG"></div>
+<div class="cartwrapper">
+<!--cartwrapper-->
+<span style="color: #696969;font-size:10pt" ><span style="color: #ff0000;font-size:12pt;font-weight: bold;" >【ご登録にあたって】</span><br>既にお客様の「メールアドレス」が当店の会員として登録されている場合、<span style="color: #dc143c;font-size:11pt" >こちらのフォームから再登録もしくは会員情報の変更などを行うことはできません。</span>既にご登録がある場合には、大変お手数ですが「<a href="https://nttxstore.jp/cart/Cart_ReEntry.asp">パスワード設定</a>」ページより既存のアカウントにパスワードを再設定いただき、継続してご利用いただきますようお願い申し上げます。</span>
+<br>
+<br>
+
+<table class="t01" cellpadding="0" cellspacing="0">
+<tr>
+<th><div class="field"><span id="ID_MAIL_TAG">ID(メールアドレス)</span></div><div class="img"><img src="/images/memberRegist/icon_mast.gif" width="30" height="15" alt="必須"></div></th>
+<td class="input">
+<span ID="ID_MAIL_RESULT"></span>
+
+<table cellpadding="0" cellspacing="0">
+<tr>
+<td style="border:2px solid #c30;">
+<span style="color: #C00;font-size:10pt" >※Yahoo!メールのメールアドレスをご入力のお客様より、メールが届かないというご連絡を頂く場合がございます。<a href="/help/faq.asp?#026" target="_blank" class="linkb">FAQ</a>のご確認をお願い申し上げます。</span>
+</td>
+</tr>
+</table>
+<br>
+
+<input type="text" ID="ID_MAIL" size="" name="USER_EMAIL1" value="">
+<br><br>
+</td>
+<td class="notes"><p>
+※半角英数字50文字以内
+</p></td>
+</tr>
+<tr>
+<th><div class="field"><span id="ID_MAIL2_TAG">セカンドメールアドレス<br>（上記アドレス以外への配送案内メール通知をご希望の方）</span></div></th>
+<td class="input"><span ID="ID_MAIL2_RESULT"></span><input type="text" ID="ID_MAIL2" size="" name="USER_EMAIL2" value=""></td>
+<td class="notes"><span class="highlight">商品出荷時のメール通知を、既にご登録いただいておりますメールアドレス以外（モバイル端末等 ）にも通知を希望される方はこちらにご登録ください。</span><p>※半角英数字50文字以内</p></td>
+</tr>
+<tr>
+<th><div class="field"><span id="ID_SYOZOKU_TAG">お申込</span></div>
+<div class="img"><img src="/images/memberRegist/icon_mast.gif" width="30" height="15" alt="必須"></div></th>
+<td class="input" style="width:315px; padding:5px 10px 10px 5px; *width:312px; *padding:8px 10px 10px 8px;">
+<ul>
+
+<li><div class="radio"><input class="radio" type="radio" name="USER_BELONG" id="ID_SYOZOKU_KOJIN" value="1"checked></div><label for="ID_SYOZOKU_KOJIN">個人</label></li>
+<li><div class="radio"><input class="radio" type="radio" name="USER_BELONG" id="ID_SYOZOKU_HOJIN" value="0"></div><label for="ID_SYOZOKU_HOJIN">法人</label></li>
+
+</ul>
+<ul class="indent">
+<li><span id="ID_COMPANY_RESULT"></span>（会社名）&nbsp;<input type="text" size="" ID="ID_COMPANY" name="USER_COMPANY" value=""></li>
+<li><span id="ID_BUSYO_RESULT"></span>（部署名）&nbsp;<input type="text" size="" ID="ID_BUSYO" name="USER_BUSYO" value=""></li>
+</ul>
+</td>
+<td class="notes"><p>※<span class="bold">法人の方は、「会社名」「部署名」についてもご記入下さい : </span>全角20文字以内</p></td>
+</tr>
+
+<tr>
+<th><div class="field"><span id="ID_NAME_TAG">ご購入者お名前</span></div><div class="img"><img src="/images/memberRegist/icon_mast.gif" width="30" height="15" alt="必須"></div></th>
+<td><span id="ID_NAME_RESULT"></span><input type="text" ID="ID_NAME" name="USER_NAME" size="" value=""></td>
+<td class="notes"><p>※<span class="bold">個人の方 : </span>全角20文字以内<br>※<span class="bold">法人の方 : </span>全角10文字以内</p></td>
+</tr>
+
+<tr>
+<th><span id="ID_KANA_TAG">フリガナ</span></th>
+<td><span id="ID_KANA_RESULT"></span><input type="text" ID="ID_KANA" name="USER_KANA" size="" value=""></td>
+<td class="notes"><p>※全角カナ32文字以内</p></td>
+</tr>
+
+<tr>
+<th><div class="field"><span id="ID_ZIP_TAG">郵便番号</span></div><div class="img"><img src="/images/memberRegist/icon_mast.gif" width="30" height="15" alt="必須"></div></th>
+<td class="inputshort"><span id="ID_ZIP_RESULT"></span><input type="text" ID="ID_ZIP1" name="USER_ZIP1" size="" value=""> - <input type="text" ID="ID_ZIP2" name="USER_ZIP2" size="" value="">
+		<input type="button" name="USER_ZIP2PREF"  value="郵便番号から住所をセット" style="width:170px;" onclick="getZip2Pref();">
+</td>
+<td class="notes"><p>※半角数字</p></td>
+</tr>
+
+<tr>
+<th><div class="field"><span id="ID_ADR1_TAG">都道府県/市町村</span></div><div class="img"><img src="/images/memberRegist/icon_mast.gif" width="30" height="15" alt="必須"></div></th>
+<td><span id="ID_ADR1_RESULT"></span><input type="text"  ID="ID_ADR1" name="USER_ADDRESS1" size="" value=""></td>
+<td class="notes"><p>※全角20文字以内　(例)東京都港区芝浦<br>※文字数オーバーの際には、数字・アルファベットは半角でご入力下さい</p></td>
+</tr>
+
+<tr>
+<th><div class="field"><span id="ID_ADR2_TAG">番地/ビル名</span></div><div class="img"><img src="/images/memberRegist/icon_mast.gif" width="30" height="15" alt="必須"></div></th>
+<td><span id="ID_ADR2_RESULT"></span><input type="text" ID="ID_ADR2" name="USER_ADDRESS2" size="" value=""></td>
+<td class="notes"><p>※全角20文字以内　(例)３－４－１<br>※文字数オーバーの際には、数字・アルファベットは半角でご入力下さい</p></td>
+</tr>
+
+<tr>
+<th><div class="field"><span id="ID_TEL_TAG">電話番号</span></div><div class="img"><img src="/images/memberRegist/icon_mast.gif" width="30" height="15" alt="必須"></div></th>
+<td class="inputshort">
+<span ID="ID_TEL_RESULT"></span>
+<input type="text" ID="ID_TEL1" name="USER_TEL1" maxlength="5"  value=""> - 
+<input type="text" ID="ID_TEL2" name="USER_TEL2" maxlength="5"  value=""> - 
+<input type="text" ID="ID_TEL3" name="USER_TEL3" size="5" maxlength="5" value="">
+</td>
+<td class="notes"><p>※半角数字</p></td>
+</tr>
+
+<tr>
+<th><div class="field"><span id="ID_FAX_TAG">携帯/FAX番号</span></div></th>
+<td class="inputshort">
+<span ID="ID_FAX_RESULT"></span>
+<input type="text" ID="ID_FAX1" name="USER_FAX1" maxlength="5"  value=""> - 
+<input type="text" ID="ID_FAX2" name="USER_FAX2" maxlength="5"  value=""> - 
+<input type="text" ID="ID_FAX3" name="USER_FAX3" size="5" maxlength="5" value="">
+</td>
+<td class="notes"><p>※半角数字</p></td>
+</tr>
+
+<tr>
+<th><div class="field">メルマガ登録</div><div class="img"><img src="/images/memberRegist/icon_mast.gif" width="30" height="15" alt="必須"></div></th>
+<td><div style="margin:3px 0 0;"><input class="checkbox" id="maga" style="margin:0 3px 0 0;" type="checkbox" name="CART_ML_RG" value="1" checked><span class="bold"><label for="maga">特価情報メルマガ会員を登録する（無料）</label></span></div></td>
+<td class="notes"><p><span class="highlight">特価商品のご案内などお得な情報をお送りします!!</span><br>バックナンバーは<a href="/mailingList/MailMagazineList.asp?MMID=0" class="linkb" target="_brank">こちら</a>（別のウィンドウが開きます）</p></td>
+</tr>
+
+<tr>
+<td colspan="3">以下の情報は当店のマーケティング情報として分析・活用させて頂きます。<br>
+それらの情報は、お客様の個人情報と紐付けて社内で活用・第三者へ提供することは一切ございません。</th>
+</tr>
+
+<input type="hidden" name="ANQ_ID" value="1">
+<input type="hidden" id="ID_QLIST" name="ID_QLIST" value="1,2,3,4,6,7">
+<tr><th>性別<div class="img"><img style="vertical-align:top;" src="/images/memberRegist/icon_mast.gif" width="30" height="15" alt="必須"></div>
+</th>
+<td colspan="2">
+<input type="radio" class="radio2" id="ID_Q1_S1" name="ID_Q1" value="1" ><label for="ID_Q1_S1">男性</label>&nbsp;
+<input type="radio" class="radio2" id="ID_Q1_S3" name="ID_Q1" value="3" ><label for="ID_Q1_S3">女性</label>&nbsp;
+</td>
+</tr>
+<tr><th>年齢<div class="img"><img style="vertical-align:top;" src="/images/memberRegist/icon_mast.gif" width="30" height="15" alt="必須"></div>
+</th>
+<td colspan="2">
+<input type="radio" class="radio2" id="ID_Q2_S4" name="ID_Q2" value="4" ><label for="ID_Q2_S4">20歳未満</label>&nbsp;
+<input type="radio" class="radio2" id="ID_Q2_S9" name="ID_Q2" value="9" ><label for="ID_Q2_S9">20代</label>&nbsp;
+<input type="radio" class="radio2" id="ID_Q2_S10" name="ID_Q2" value="10" ><label for="ID_Q2_S10">30代</label>&nbsp;
+<input type="radio" class="radio2" id="ID_Q2_S11" name="ID_Q2" value="11" ><label for="ID_Q2_S11">40代</label>&nbsp;
+<input type="radio" class="radio2" id="ID_Q2_S12" name="ID_Q2" value="12" ><label for="ID_Q2_S12">50代</label>&nbsp;
+<input type="radio" class="radio2" id="ID_Q2_S26" name="ID_Q2" value="26" ><label for="ID_Q2_S26">60代</label>&nbsp;
+<input type="radio" class="radio2" id="ID_Q2_S27" name="ID_Q2" value="27" ><label for="ID_Q2_S27">70代以上</label>&nbsp;
+</td>
+</tr>
+<tr><th>ご職業<div class="img"><img style="vertical-align:top;" src="/images/memberRegist/icon_mast.gif" width="30" height="15" alt="必須"></div>
+</th>
+<td colspan="2">
+<input type="radio" class="radio2" id="ID_Q3_S46" name="ID_Q3" value="46" ><label for="ID_Q3_S46">学生</label>&nbsp;
+<input type="radio" class="radio2" id="ID_Q3_S64" name="ID_Q3" value="64" ><label for="ID_Q3_S64">会社員</label>&nbsp;
+<input type="radio" class="radio2" id="ID_Q3_S65" name="ID_Q3" value="65" ><label for="ID_Q3_S65">自営業</label>&nbsp;
+<input type="radio" class="radio2" id="ID_Q3_S66" name="ID_Q3" value="66" ><label for="ID_Q3_S66">主婦</label>&nbsp;
+<input type="radio" class="radio2" id="ID_Q3_S67" name="ID_Q3" value="67" ><label for="ID_Q3_S67">その他</label>&nbsp;
+</td>
+</tr>
+<tr><th>商品情報の取得・比較（複数選択可）</th>
+<td colspan="2">
+<label for="ID_Q4_S30">
+<input type="checkbox" style="width:auto;" id="ID_Q4_S30" name="ID_Q4" value="30" >店頭でチェックする</label>&nbsp;
+<label for="ID_Q4_S31">
+<input type="checkbox" style="width:auto;" id="ID_Q4_S31" name="ID_Q4" value="31" >価格比較サイトでチェックする</label>&nbsp;
+<label for="ID_Q4_S32">
+<input type="checkbox" style="width:auto;" id="ID_Q4_S32" name="ID_Q4" value="32" >友人・知人に聞く</label>&nbsp;
+<label for="ID_Q4_S33">
+<input type="checkbox" style="width:auto;" id="ID_Q4_S33" name="ID_Q4" value="33" >メーカーのサイトでチェックする</label>&nbsp;
+</td>
+</tr>
+<tr><th>活用しているソーシャルメディアは？（複数選択可）</th>
+<td colspan="2">
+<label for="ID_Q6_S17">
+<input type="checkbox" style="width:auto;" id="ID_Q6_S17" name="ID_Q6" value="17" >twitter</label>&nbsp;
+<label for="ID_Q6_S21">
+<input type="checkbox" style="width:auto;" id="ID_Q6_S21" name="ID_Q6" value="21" >facebook</label>&nbsp;
+<label for="ID_Q6_S22">
+<input type="checkbox" style="width:auto;" id="ID_Q6_S22" name="ID_Q6" value="22" >mixi</label>&nbsp;
+<label for="ID_Q6_S91">
+<input type="checkbox" style="width:auto;" id="ID_Q6_S91" name="ID_Q6" value="91" >その他</label>&nbsp;
+<label for="ID_Q6_S92">
+<input type="checkbox" style="width:auto;" id="ID_Q6_S92" name="ID_Q6" value="92" >使ってない</label>&nbsp;
+</td>
+</tr>
+<tr><th>ネット通販でお買い物をする際、よくアクセスする端末は？（複数選択可）</th>
+<td colspan="2">
+<label for="ID_Q7_S25">
+<input type="checkbox" style="width:auto;" id="ID_Q7_S25" name="ID_Q7" value="25" >パソコン</label>&nbsp;
+<label for="ID_Q7_S68">
+<input type="checkbox" style="width:auto;" id="ID_Q7_S68" name="ID_Q7" value="68" >携帯電話</label>&nbsp;
+<label for="ID_Q7_S69">
+<input type="checkbox" style="width:auto;" id="ID_Q7_S69" name="ID_Q7" value="69" >スマートフォン</label>&nbsp;
+<label for="ID_Q7_S70">
+<input type="checkbox" style="width:auto;" id="ID_Q7_S70" name="ID_Q7" value="70" >タブレット・スレートＰＣ</label>&nbsp;
+</td>
+</tr>
+
+
+</table>
+
+<p class="registmessage">
+入力が完了しましたら、「利用規約/プライバシーポリシー」に同意いただいた上で「同意する」ボタンをクリックしてください。<br>
+最終確認画面（次画面）で「新規会員を登録する」ボタンをクリックしますと、しばらくして「パスワード設定メール」が届きます。メール文面に記載されたURLにアクセスしてください。画面内でパスワードの設定が完了しますと、当店の会員登録が正式に完了となります。セキュリティ保護の観点からメール送信後約48時間以内にパスワード設定を完了していただくようお願いいたします。 </p>
+
+<dl class="attention">
+<dt>【ご注意】</dt>
+<dd>
+<ul>
+<li>既にお客様の「メールアドレス」が当店の会員として登録されている場合、こちらのフォームから新規に登録することはできません。<br>大変お手数ですが「<a href="https://nttxstore.jp/cart/Cart_ReEntry.asp">パスワード設定</a>」ページより既存のアカウントにパスワードを再設定いただき、継続してご利用いただきますようお願い申し上げます。</li>
+<li>迷惑メール対策などでメールの受信拒否設定がされている場合には､当店からの重要なメールを受信できない場合がありますので、必ず当店からのメールが受信できるように設定をしてください｡
+<li>「お名前」には<img src="/images/memberRegist/cart_letter_kou.gif" width="15" height="13" alt="">、<img src="/images/memberRegist/cart_letter_saki.gif" width="15" height="13" alt="">、<img src="/images/memberRegist/cart_letter_nagi.gif" width="15" height="13" alt="">などの機種依存文字は使用しないようご注意ください。<a href="/help/faq.asp?#023" class="linkb">詳しくはこちら</a></li>
+<li>メールマガジンご登録の際は、<a href="/help/policy.asp" class="linkb">利用規約</a>をご確認下さい。</li>
+</ul>
+</dd>
+</dl>
+
+<div class="policy">
+<!--policy-->
+<dl>
+<dt>利用規約（プライバシーポリシー）</dt>
+<dd><textarea name="policy" cols="" rows="10" cols="80" readonly>
+ 
+
+利用規約
+
+記載事項（ご注文時の注意点について）
+
+本利用規約は、エヌ・ティ・ティ レゾナント株式会社（以下「弊社」といいます）が運営する「NTT-X　Store」において、お客様が商品をご購入される場合に適用される諸条件を規定しています。商品のご購入にあたっては、本利用規約が適用されますので、内容をよくお読みいただいた上で、ご注文下さい。
+
+1.契約成立について
+
+2.配送について
+
+3.発送日確定及びお支払方法について
+
+4.コールセンター（サポート窓口）について
+
+5.保証等について
+
+6.返品について
+
+7.予約について
+
+8.クレジットカードのご利用について
+
+9.納品書・領収書について
+
+10.個人情報の取り扱いについて
+
+11.準拠法・合意管轄裁判所について
+
+12.消費税について
+
+1.契約成立について
+
+お客様は、本サイトを通じたオンラインでの注文と電話による注文のいずれかをお選びいただけます。
+
+なお、下記に定める商品の売買契約成立後の、注文取消又は注文内容の変更は、弊社が特に認める場合を除き、一切お受けできませんので、予めご了承下さい。
+
+(1)本サイト上での注文
+
+お客様は、本サイトの画面上の申込フォームに必要事項を記載していただき、購入ボタンを押していただくことにより、商品の注文を行うことができます。弊社は、お客様の注文を受付けた場合、注文受付を確認する電子メールをお客様指定の電子メールアドレス宛にご通知申し上げます。
+
+弊社による注文受付確認メールの到達をもって、お客様及び弊社間において商品の売買に関する契約が有効に成立するものとします。なお、架空名義、偽名・匿名等、お客様本人以外の名義での注文はできません。
+
+(2)電話による注文
+
+お客様は、弊社が設けるフリーダイヤル（0120-003104）にお電話していただくことにより、商品の注文を行うことができます。弊社のコールセンターオペレータがお客様の注文内容を確認した時点にて、お客様及び弊社間においての商品の売買に関する契約が有効に成立するものとします。尚、本サイト上で送料無料・代引手数料無料など、その他各種割引サービスを実施している場合でも、お電話による注文の際は割引特典が受けられません。 またクレジットカード決済はお電話で承ることはできません。なお、架空名義、偽名・匿名等、お客様本人以外の名義での注文はできません。
+
+（ご留意事項）
+
+上記(1)又は(2)にかかわらず、弊社の意思表示に表示上の錯誤、内容の錯誤又は動機の錯誤がある場合、お客様と弊社間の売買契約は、無効となります。但し、弊社側に重大な過失がある場合には、弊社は、当該売買契約の無効を主張することはできないものとします。なお、意思表示の錯誤には、商品価額、商品名称又は商品仕様に関する表示上の誤りが含まれますが、これらに限られません。
+
+本サイトまたは弊社からお客様宛に送信している電子メールに記載されている在庫表記・納期表記は、売買に関する契約の範囲外とします。特にメーカーの供給状況や、予約品に関するメーカーが定める予約締日、お客様のお振込のタイミングなどによっては、納期遅延が発生する場合があります。 
+
+電子メール又はお電話での注文が殺到した場合、在庫切れになる場合があります。その場合には、電子メール等にてご案内させていただきます。
+
+転売・再販・その他仕入れ目的とした商品の購入はお断りさせて頂く場合がございます。
+
+2.配送について
+
+（1）配送料について
+
+ご注文、配送単位毎に以下の通り配送料が掛かります。
+
+　-ハードウェア、ソフトウェア：400円(税込)　-DVDソフト：200円(税込)
+
+・複数商品をご注文された場合(配送が複数回となる場合)は個別に配送料が掛かります。
+
+・分納/一括配送を任意に選択できません。
+
+・一部大型梱包商品で設置費・組立費、または取り寄せ時に別途配送料が掛かる商品がございます。
+
+・一部大型梱包商品で配送先ロケーションを事前に確認しないと配送できない商品がございます。該当商品につきましてはお電話にてお問い合わせ下さい。
+
+（2）配送日指定
+
+注文時に配送日を選択することができます。但し、お客様が弊社のモバイルサイトからご注文される場合は、配送日をご指定できませんので、予めご了承下さい。また、ご注文のタイミング、支払方法、在庫状況、交通事情・天候・繁忙期などにより、ご指定いただけない場合がございますので、予めご了承下さい。なお、配送日が確定いたしましたら、弊社よりお客様宛に電子メール等によりご連絡申し上げます。
+
+（3）配送時間指定
+
+注文時に配送時間帯を以下の時間帯から選択することができます。但し、お客様が弊社のモバイルサイトからご注文される場合は、配送日及び配送時間帯をご指定できませんので、予めご了承下さい。また、ご注文のタイミング、支払方法、在庫状況、交通事情・天候・繁忙期などにより、ご指定の時間帯に配送することができないことがございますので、予めご了承下さい。なお、配送の手配ができましたら運送便の送り状番号を電子メールにてご連絡いたします。
+
+（一部のメーカー直送商品・ソフトウェアライセンス等に関しては「商品発送のお知らせ」のサービスはございません。）
+
+尚、以下の場合、「時間指定サービス」は、ご利用いただけませんのでご注意下さい。
+
+・お届け先が「法人様」の場合
+
+・一部の離島・山岳地帯にお届けの場合
+
+　　　　※時間指定はできませんが、その日に到着の「着日指定」は可能です。
+
+指定可能時間
+
+AM指定
+
+12:00～14:00
+
+14:00～16:00
+
+16:00～18:00
+
+18:00～21:00
+
+（4）配送確認サービス
+
+出荷された商品の配送状況を24時間ご確認いただけます。弊社出荷日の翌日以降、「商品発送のお知らせ」に記載されている「送り状番号」から配達状況・お問い合わせ先をお調べいただけます。
+
+佐川急便 お荷物問い合わせ２４時間サービス
+
+※一部のメーカー直送商品・ソフトウェアライセンス等に関しては「商品発送のお知らせ」のサービスはございません。
+
+（5）「即納」について
+
+平日15時まで（土日祝日、年末年始は365日出荷対象商品に限り12時まで）にご注文いただいた商品は、原則「当日」に発送する「即納」サービスを実施しております。
+
+※ただし、商品ページで「在庫あり」の表記のある商品についても、短時間で注文が殺到した場合、発送が遅れる場合がございます。また、「即納」の表記のある商品についても、地域･支払方法によっては「即納」扱いできない場合がございます。
+
+弊社に在庫がない場合につきましては、お支払方法に関わらず商品入荷後の発送となることから、通常注文確定後2週間以内の発送となります。（ただし、商品の入荷状況によっては2週間を超える場合もございます。）
+
+「即納」対象商品であっても複数商品を同時にご注文いただいた場合は、弊社の物流センター都合でご注文に係る商品が全て揃った後に発送いたします。そのため、お支払方法に関わらずご注文いただいた当日に発送できない場合がございますので予めご了承下さい。
+
+[1] 代引、クレジットカード決済の場合
+
+・平日15時まで（土日祝日、年末年始は365日出荷対象商品に限り12時まで）にご注文確定後、在庫がある商品は当日に発送いたします。
+
+・在庫切れの場合、商品が入荷次第の発送とさせていただきます。 その際に商品の発送日について電子メール等によりご連絡差し上げます。 
+
+[2] 銀行振込の場合
+
+・ご注文いただいた後、平日15時までに弊社がご入金を確認できたご注文で在庫がある商品は、当日に発送いたします。
+
+・お客様が平日15時までにご入金された場合でも、弊社でのご入金確認が平日15時までにできない場合は、当日に商品を発送することができませんので、ご了承下さい。
+
+・ご注文いただいた後、弊社でご入金を確認する間に在庫がなくなる場合がございますので予めご了承下さい。
+
+・ご入金確認後、在庫切れの場合、商品が入荷次第の発送とさせていただきます。その際に商品の発送日について電子メール等によりご連絡差し上げます。
+
+（6）配送地域
+
+配送地域は、日本国内とさせて頂きます。
+
+尚、当サイトは物流センターを全国9拠点に配備しているため、商品の配送先の最寄りの物流センターに在庫が無い場合、在庫表記が◎、○であっても、商品の発送が遅れる場合がございます。予めご了承下さい。
+
+（7）即納対象外商品
+
+在庫の無い商品や搬入時に別途人手が必要になる大型商品などは、即納の対象外商品とさせていただきます。納期についてご不明な点は弊社コールセンターまでお問い合わせ下さい。
+
+3.発送日確定及びお支払方法について
+
+お支払方法は、「銀行振込」、「商品引渡時に代金引換（代引）」、「クレジットカード決済」のいずれかを商品ごとにご用意しております。
+
+　＊商品によりお支払い方法の変更をご依頼する場合がございます。あらかじめご了承下さい。
+
+　＊DVDソフトのお支払い方法は「代引」または「クレジットカード決済」に限定させていただきます。銀行振込はご利用いただけません。
+
+(1) 納期の確定
+
+ご指定いただく支払方法により、ご注文をいただいた後の商品手配及び商品発送日確定の時期が以下のように異なります。
+
+[1] 銀行振込の場合
+
+お客様からのご注文後、弊社がお客様からの商品代金のご入金を確認した後に商品を手配し、商品の発送日を確定いたします。お申し込みをいただいた時点での在庫表示とは別に、ご入金されてから再度在庫確認をさせていただきます。弊社がご入金確認後に在庫がなくなる場合もございますので、お早めにご入金いただくことをおすすめします。
+
+[2] 代引の場合
+
+お客様からの注文確定後に、弊社がご注文いただいた商品を手配し、商品の発送日を確定させていただきます。
+
+[3] クレジットカード決済の場合
+
+お客様からの注文確定後に、弊社がご注文いただいた商品を手配し、商品の発送日を確定させていただきます。
+
+(2) お支払い方法
+
+[1] 銀行振込
+
+弊社指定の銀行口座へ商品の代金をお支払い下さい。尚、口座番号はご注文毎に変わります。口座番号はご注文完了時に弊社からお送りする電子メールの「ご注文承り確認書」に記載しております。
+
+※弊社によるご入金確認後に商品手配となりますのでご注意下さい。
+
+なお、契約成立後7日以内に弊社がお客様による商品代金のご入金の確認ができない場合、お客様のご注文をキャンセルとさせていただく場合がありますので予めご了承下さい。
+
+振込先　：　三井住友銀行（金融機関コード：0009） 首都圏支店（店番：926）
+
+普通　：　*******(ご注文毎に口座番号は変わります)
+
+口座名　：　エヌ．テイ．テイレゾナント（カ
+
+（ご留意事項）
+
+振込手数料は、お客様のご負担でお願いいたします。
+
+[2] 代引
+
+商品が到着した時に商品の代金及び送料・代引手数料を、現金、J-Debit対応キャッシュカード又はクレジットカードにてお支払いいただきます。但し、商品お届け先によっては、現金払いのみとなります。
+
+（ご留意事項）
+
+一度のお買い上げ総額が50万円（消費税及び手数料を含みます）以上のご利用の場合、代引は、ご利用いただけません。 また、商品お届け先によっては代引をご利用いただけないエリアがございます。
+
+[3] クレジットカード決済
+
+カート画面上で「カード番号」及び「有効期限」、「セキュリティコード」をご入力いただくことにより、決済を実施します。支払回数及び方法は1回払い（一括払い）のみとさせていただきます。カードブランドはVISA・MASTER・JCBの3種類がご利用いただけます。
+
+（ご留意事項）
+
+未成年の方のご利用はお控え下さい。
+
+本人以外の名義のクレジットカードでのご注文はお断りします。弊社は、お客様の本人性確認ができない場合又はお客様が直接契約されているクレジットカード会社（以下「カード会社」といいます）もしくはカード会社と提携しているクレジットカード会社（以下「提携カード会社」といいます）によりクレジットカードの利用が拒絶された場合、お客様のご注文をお断りする又は取り消させていただきますので、予めご了承下さい。
+
+商品のご注文者情報及び配送先情報と、カード会社へのカード登録情報に相違がある場合、ご注文をお断りする場合がございます。
+
+配送先が郵便局内私書箱・私設私書箱宛や運送会社留め等、商品の受領確認が不明確となる恐れのある住所が指定されている場合は、当該ご注文を取り消し又は当該商品の発送を中止させて頂きます。
+
+弊社ではクレジットカードの不正利用やなりすまし防止について積極的に取り組んでおります。上記の項目にかかわらず、ご注文内容に応じて「身分証明書」のFAXでの提示をご依頼する場合ございますが、予めご了承下さい。
+
+＜本人認証サービスについて＞
+
+弊社では、VISA、MASTER、JCBの各社が提供する本人認証サービスを導入しております。認証サービスとは、各社に事前ご登録いただいているインターネット専用パスワードを使用し、お客様がカード所有者本人であることを確認・認証し、第三者のカード不正使用を防止するサービスです。
+
+弊社は、本人認証サービスに基づき、お客様の本人性が確認できない場合、ご注文をお断りする又はお客様のご注文を取り消させていただきますので、予めご了承下さい。
+
+お客様は、本人認証サービスが中断、中止又は終了される場合があることに予め同意するものとします。
+
+弊社は、お客様の本人認証サービスを利用したこと又は利用できなかったことに基づき発生する損害について、何ら責任を負わないものとします。
+
+＜「クレジットカード情報」のお取り扱いに関して＞
+
+弊社のクレジットカード決済は、すべて「ベリトランス株式会社」（以下「ベリトランス」といいます）のオンラインオーソリシステムを経由してカード会社又は提携カード会社に情報を転送するシステムとなっております。従いまして弊社のコールセンターオペレータや社員、システム担当者がクレジットカード番号を保持・閲覧することはございません。
+
+4.コールセンター（サポート窓口）について
+
+フリーダイヤル　0120-003104　または　03-5746-6307
+
+問い合わせフォーム（https://nttxstore.jp/inquiry/inquiry.asp） 
+
+弊社のサポート窓口の営業時間は、10：00～19：00（土日祝日、年末年始は、10：00～18：00）です。初期不良、修理、周辺機器の接続に関して等、お気軽にお問い合せ下さい。技術的なご質問等につきましては、わかる範囲でお答えさせていただきます。
+
+5.保証等について
+
+一度お買い上げいただきました商品に関しましては、お客様都合による返品、交換には応じかねます。また、特定の機器との間で生ずる不都合（一般に相性と呼ばれるもの）につきましても、返品、交換には応じられません。 ただし、以下の （３）保証内容 [1]「商品に初期不良がある場合」の定めに従い、商品の交換又は返品をお受けできる場合がございます。
+
+なお、法律上の請求の原因の種類を問わずいかなる場合においても、お買い上げ商品の使用または使用不能から生ずる損害（機会損失の発生、事業の中断、データの損失又はその他の金銭的損害を含む）に関して、弊社は、一切の責任を負わないものとします。但し、弊社の故意又は重大な過失に起因する損害に関する弊社の責任は、法令の定めるところによります。
+
+(1) 保証対象
+
+弊社は、弊社が販売する商品に関して、保証書に記載されるところに従い、メーカー保証の範囲で保証いたします。メーカー保証のついていない商品については、弊社保証対象外とさせていただきます。なお、保証書は、商品配送時に商品と共に発送いたします。配達の都合上、保証書の販売店欄が空欄の場合がありますので、その場合には、弊社が商品に同梱する「納品書」を、お買上げ日及び販売店の証明としてご利用ください。
+
+(2) 保証期間
+
+保証期間は、商品がお客様のお手元に届いた日からとなり、商品毎にメーカーが規定した期間が当該期間となります。ただし、商品の初期不良については、以下の （３）保証内容 [1]「商品に初期不良がある場合」の定めに従い、対応させていただきます。
+
+(3) 保証内容
+
+[1] 商品に初期不良がある場合
+
+商品(当該商品の製造事業者（メーカー）が保証対象としている商品に限ります)にキズや破損等の初期不良がある場合は、商品の到着日から起算して1週間以内に弊社へご連絡をいただきますようお願いいたします。ご連絡をいただいた後、当該商品の交換について、メーカーの承認が得られた場合に限り、弊社より代替品を配送いたします。商品の完売・生産終了により、代替品の配送ができない場合には、返品及び返金を承ります。上記の場合、弊社が交換又は返品の際の送料を負担しますので、着払いにて初期不良のある商品をご返送下さい。なお、代替品との無償交換は、商品の箱及び、販売時に貼付されていた全ての付属品が揃っていることを前提とします。
+
+ただし、初期不良の承認及び交換方法はメーカーによって異なります。大きく以下の２つの流れとなります。
+
+ [1]お客様とメーカーの間で販売店（弊社）が仲介し、初期不良認定及び交換手続きを行います。 
+
+ [2]お客様からメーカーへ直接ご連絡していただき、初期不良の承認後、物々交換手続きとなります。
+
+※［2］の場合は弊社が商品不良の承認を得ることができず、また、代替品を発送する事ができません。
+
+なお、サポートの流れはメーカー毎に異なり、同一メーカーでもサポートの流れが変更される場合がございます。まずは弊社にご一報下さい。
+
+また、以下の場合の交換及び返品は、お受けいたしません。
+
+　-お客様の責任により、キズや破損等の不良箇所が生じた商品
+
+　-商品到着日から起算して1週間を経過した商品
+
+　-開封済みのソフトウエアプログラム商品
+
+　-上記のほか、メーカーが規定する保証対象外の故障の商品
+
+商品に初期不良があり弊社が返品及び返金を認めた場合において、返品に係る送料は弊社の負担とします。また、弊社が返品及び返金を認めた場合においては、お客様が指定する銀行口座への振込による返金とさせていただきます。但し、クレジットカードでお買い上げいただいた場合に限り、カード会社への「売上取消し」処理により調整を行い、銀行口座への振込みによる返金はいたしません。
+
+[2] 無償対応
+
+上記、(2)保証期間に定める保証期間内は、商品に発生する不具合をメーカーが認定した場合に限り無償で修理させていただきます。保証は、日本国内においてのみ有効です。
+
+[3] 有償対応
+
+上記、(2)保証期間に定める保証期間終了後の不具合の修理などは、すべて有償となります。また、保証期間内でも、以下の場合については、有償対応となります
+
+・通常の磨耗又は損耗
+
+・取扱説明書に定める使用方法又は通常の使用方法に沿わない使用から発生する不具合
+
+・保証書を紛失された場合
+
+・火災、地震、落雷、その他天災地変及び公害又は異常電圧による故障又は損傷
+
+・お買い上げ後の輸送又は移動時の落下などお取扱が不適当なため生じた故障又は損傷
+
+・改造、調整又は部品交換による不具合
+
+・上記のほか、メーカーが規定する保証対象外の故障
+
+[4] 免責事由
+
+弊社は、以下の事項について、一切責任を負いかねます。
+
+・設定、接続、インストール又は交換作業等に発生するデータ又はプログラムの滅失又は毀損
+
+[5] 送料
+
+保証期間内外を問わず、(3) 保証内容 [1]「商品に初期不良がある場合」を除き、修理をご依頼される場合の送料は、お客様でご負担いただきます。弊社からお客様あてに返送する場合の送料は、弊社が負担いたします。
+
+[6] ハードディスクなどのデータバックアップ
+
+弊社は、PC及びストレージ製品の修理・交換などのいかなる場合においても、内部データの保護はいたしません。ご依頼前にお客様ご自身でバックアップをおとり下さい。故障時にはバックアップがとれない場合もございますので日頃からバックアップをおとりいただくことを推奨いたします。
+
+6.返品について
+
+一度お買い上げいただきました商品に関しましては、お客様都合による返品には応じかねます。また、特定の機器との間で生ずる不都合（一般に相性と呼ばれるもの）につきましても、返品には応じられません。ただし、5．保証等について （3）保証内容 [1]「商品に初期不良がある場合」の定めに従い、商品の交換又は返品をお受けできる場合がございます。
+
+7.予約について
+
+NTT-X Storeでは、発表と同時に発売前の商品の先行予約を受け付けております。
+
+予約のお申し込みをいただければ、店頭に並ばなくても原則、発売日にお手元に届くシステムです。
+
+予約受付商品例
+
+　・ハードウェア（ノートパソコン、PDA、デジカメなど）関連
+
+　・PCソフトウェア（特典付、初回限定特典付）等
+
+　・DVDソフト（予約限定、特典付）等
+
+お届けは原則発売日になります。
+
+但し、メーカー都合で初回出荷数が減少した場合は、発売日後のお届けとなりますので予めご了承下さい。
+
+発売日が変更となる場合は、事前に弊社から電子メールなどでご連絡申し上げます。
+
+メーカー都合で発売日が延期となった場合は、予約締切日後もご予約をお受けいたします。
+
+メーカー都合で発売が中止された場合は、予約を取り消させていただきますので、予めご了承下さい。
+
+お支払い方法、ご予約の手続きについては通常の商品と同じです。特別な手続きは必要ございませんのでご安心下さい。
+
+初回限定特典は、商品とは別送でお送りさせていただくことがございます。
+
+8.クレジットカードのご利用について
+
+1.お客様は、クレジットカード決済を選択する場合、弊社に対して次の各号の行為を行う権限を付与するものとします。
+
+(1)クレジットカード決済を行うために、お客様の購入情報（クレジットカード番号、有効期限及び購入金額とします）をベリトランス、カード会社及び提携カード会社（以下、総称して「決済事業者」といいます）に対して伝送又は磁気記憶媒体等により引き渡すこと。なお、弊社からベリトランス又は決済事業者間の当該購入情報の伝送にあたっては、第三者の提供するサービスを利用することができるものとします。
+
+(2)過誤、詐欺又は不正な取引の結果、決済事業者に伝送又は磁気記憶媒体等により引き渡された、お客様の購入情報を消去又はそれに基づくクレジットカード決済処理をキャンセルすること。
+
+(3)弊社は、決済事業者から弊社に対して、クレジットカード決済を選択したお客様の購入情報についての照会があった場合で、お客様の個人情報を要求された場合には当該決済事業者に対して、お客様の個人情報を提供すること。
+
+2.クレジットカード決済に必要なシステム等（弊社又は決済事業者が保有するシステムをいい、以下「決済システム」といいます）の運用、点検、補修、保守もしくは障害、不可抗力又はその他弊社が必要と認めた場合に、クレジットカード決済の提供を停止、中断もしくは中止又は当該購入契約を解約する場合があります。この場合、弊社は、クレジットカード決済の停止、中断もしくは中止又は当該購入契約の解約によりお客様に発生した損害について責任を負わないものとします。
+
+3.弊社は、クレジットカード決済において伝送に用いる第三者の回線または機器等に起因する通信不良、遅延、誤送等、クレジットカード決済の運営に係る障害について一切の責任を負わないものとします。
+
+4.お客様は、弊社の都合により、クレジットカード決済の提供が変更され又は終了する場合があることについて予め同意するものとし、当該事由によりクレジットカード決済の提供が不可能となった場合であっても、その理由の如何を問わず、弊社はそれによる責任を負わないものとします。
+
+5.弊社は、弊社の責に帰すべき事由により、クレジットカード決済の提供に関して、お客様に損害を与えた場合、別途本規約に定める場合を除き、その損害を賠償するものとします。但し、かかる損害賠償責任の範囲は、お客様が被った直接且つ現実の損害に限られ、決済システムのエラーによる損害、機会損失等の間接損害は含まれないものとします。
+
+6.前項に基づく弊社のお客様に対する損害賠償金の額は、弊社の故意又は重過失による場合を除き、当該損害賠償を行う時点で、弊社がベリトランスから受領した賠償金額を、当該損害を受けたお客様の数で按分した金額を上限とします。
+
+7.お客様は、クレジットカード決済についてのお問い合せについては、弊社サポート窓口に対して行うものとし、弊社が認める場合を除き、決済事業者に対して直接行わないものとします。
+
+9.納品書・領収書について
+
+納品書は、金額が記載されていないものが商品に同梱されております。金額が記載された納品書及び領収書の発行をご希望される場合は、ご注文時の入力フォーム（領収書」の発行をご希望の方）欄に必要事項をご記入の上、ご依頼下さい。その際の納品書・領収書は商品には同梱されません。後日郵送となります。
+
+10.個人情報の取り扱いについて
+
+弊社では個人情報を、別途本サイト上に掲示する「個人情報の取り扱いについて」に従い、適切に取り扱うものとします。
+
+11.準拠法・合意管轄裁判所について
+
+本サイトに関する準拠法は、日本法とします。また、本サイトにおける商品の販売、サービスの提供その他本サイトの運営に関する紛争について訴訟の必要が発生した場合、東京簡易裁判所又は東京地方裁判所を第1審の専属的合意管轄裁判所とします。
+
+12.消費税について
+
+関連法令の改正により消費税の税率に変更が生じた場合には、消費税等相当額は変更後の税率により計算するものとする。
+
+（以上）
+
+【付則】 本利用規約は、平成12年12月7日から適用します。
+
+【改定】 本利用規約は、平成14年4月1日から適用します。
+
+【改定】 本利用規約は、平成14年10月21日から適用します。
+
+【改定】 本利用規約は、平成15年8月28日から適用します。
+
+【改定】 本利用規約は、平成16年4月1日から適用します。
+
+【改定】 本利用規約は、平成16年10月1日から適用します。
+
+【改定】 本利用規約は、平成17年4月1日から適用します。
+
+【改定】 本利用規約は、平成17年10月26日から適用します。
+
+【改定】 本利用規約は、平成18年2月1日から適用します。
+
+【改定】 本利用規約は、平成18年7月1日から適用します。
+
+【改定】 本利用規約は、平成18年10月30日から適用します。
+
+【改定】 本利用規約は、平成20年9月18日から適用します。
+
+【改定】 本利用規約は、平成21年1月28日から適用します。 
+
+【改定】 本利用規約は、平成22年4月5日から適用します。 
+
+【改定】 本利用規約は、平成24年11月29日から適用します。 
+
+【改定】 本利用規約は、平成24年12月6日から適用します。 
+
+【改定】 本利用規約は、平成25年2月1日から適用します。 
+
+【改定】 本利用規約は、平成26年4月1日から適用します。
+
+【改定】 本利用規約は、平成26年7月17日から適用します。
+
+【改定】 本利用規約は、平成27年3月31日から適用します。
+
+エヌ・ティ・ティ レゾナント株式会社
+
+NTT-X Store
+
+ 
+
+個人情報の取り扱いについて
+
+記載事項
+
+個人情報とは
+
+個人情報の利用目的について
+
+個人情報管理責任者について
+
+個人情報の共同利用について
+
+ダイレクトメールの取り扱いについて
+
+クッキーについて
+
+個人情報の開示、訂正、利用停止等の請求に必要な手続について
+
+ユーザーによる登録情報の最新化について
+
+当社は、NTT-X Storeにおけるユーザーの個人情報の取り扱いを以下のとおり定めます。
+
+個人情報とは
+
+NTT-X Store(以下「NTT-X Store」といいます) における個人情報とは、ユーザーがNTT-X Storeを利用する際に登録する情報（以下「登録情報」といいます）及びユーザーがNTT-X Storeを利用する過程で当社が取得する情報に含まれる氏名、生年月日その他の記述又は個人別に付与された番号、記号その他の符号、画像若しくは音声によりその個人を識別できるもの (この情報のみでは識別できないが、他の情報と容易に照合することができ、それにより個人を識別できるものを含みます) を言います。
+
+個人情報の利用目的について
+
+当社は、ユーザーの個人情報を、別途“goo”上に掲示する プライバシーポリシーに基づき、適切に取り扱うものとし、以下の各号に定める目的に利用することができるものとします。
+
+当社ウェブサイト（NTT-X Storeを含みますが、これに限られません）上における、当社及び当社の提携先や取引先等のサービス、商品等の販売、発送及びアフターサービスのご提供、ならびに新サービスの開発、実験及び検証
+
+ユーザーがご本人であることの確認及び与信管理（決済手段を提供する事業者に対して、個人情報を提供する場合を含みます）
+
+ポータルサービスその他情報提供サービスのご提供
+
+電気通信サービスのご提供
+
+情報提供サービス及び電気通信サービス等の提供に係る設備の管理及び改善
+
+サービス、商品等に係る売買等の取引の仲介・取次サービスのご提供
+
+当社又は当社の提携先や取引先等の第三者の提供するサービス及び当社又は当社の提携先や取引先等の第三者の販売する商品その他の料金請求及び課金・決済（決済手段を提供する事業者に対して、個人情報を提供する場合を含みます）
+
+当社からユーザーに対する、当社のサービスの利用等に関するご案内等のご連絡
+
+ユーザーからのお問い合わせや苦情等への対応
+
+当社及び当社の提携先や取引先等第三者のサービスや商品、キャンペーン等の、電話やダイレクトメールの送付、電子メールの送信等による、広告、宣伝、ご提案及びコンサルティング
+
+キャンペーン、懸賞等の抽選及び賞品等の発送並びにこれに関連した応募者への連絡
+
+電子メールサービスのご提供
+
+アンケート調査、分析及びそれに伴う素材又は謝礼の送付
+
+カスタマーサービスの向上
+
+インターネットを通じた情報のご提供等、ユーザーのサポート
+
+当社が第三者から委託された業務の実施
+
+その他、弊社の業務に付随する業務
+
+個人情報管理責任者について
+
+当社における個人情報の管理責任者は、以下のものとします。
+
+エヌ・ティ・ティ レゾナント株式会社管理責任者：ビジネスリスクマネジメント推進担当役員
+
+個人情報の共同管理について
+
+NTT-X Storeの提供にあたり、ユーザーの個人情報のうち以下に定める項目を、NTT-X Storeの共同運営者であるダイワボウ情報システム株式会社（以下「共同利用者」といいます)と共同利用いたします。ユーザーは、当社がユーザーの個人情報を共同利用者に開示、提供することにあらかじめ同意しているものとします。なお、共同利用者が共同利用する個人情報の項目、共同利用者の利用目的及び個人情報の管理責任者名称は、以下のとおりとします。
+
+共同利用する個人情報の項目：メールアドレス、氏名、住所、電話番号
+
+共同利用者の利用目的：NTT-X Storeに対するお問い合せに対する対応、注文の受付、商品等の販売、発送及びアフターサービスのご提供、アンケート調査及び分析、インターネットを通じた情報のご提供等、ユーザーのサポート、その他NTT-X Storeの運営業務に付随する業務
+
+共同利用者の個人情報の管理責任者名称：ダイワボウ情報システム株式会社広域営業本部コンシューマ営業部コンシューマ第2支店支店長
+
+取得方法：共同利用する個人情報は、本サイトを通じ、問い合わせフォームやメール、電話などにより取得します。また、受け渡しに際しては、適切な安全管理策を講じております。
+
+ダイレクトメールの取り扱いについて
+
+NTT-X Storeが提供する商品やサービス又はキャンペーンに関して、ユーザーに対しユーザー本人の同意の下、ダイレクトメールを送る場合があります。
+
+このダイレクトメールは、NTT-X Storeとユーザーの取引に関連する情報又は当社が現在、あるいは将来において提供するさまざまな商品やサービスに関連する情報を電子メールで知らせするものです。これらのダイレクトメールを送信するのは、当社又は共同利用者に限られ、当該ダイレクトメールを送信する場合は、提供元を明記いたします。
+
+また、ダイレクトメールの配信について途中で停止・変更したい場合は、キャンセルできる仕組みを用意し、簡単に停止することができるようにします。
+
+クッキーについて
+
+(1)当社は、NTT-X Storeサービスを提供するためにクッキーを使用します。
+
+ユーザーがNTT-X Store サービスを利用する際に、お使いのパソコン等の通信端末内にクッキーが記録されます。
+
+但し当社では、クッキーをユーザーの個人情報を特定することには利用しておりません。
+
+(2)ユーザーは、NTT-X Storeサービスを利用するパソコン等の通信端末上で、クッキーを利用可能な状態に設定しておく必要性があります。
+
+またユーザーは、保存されたクッキーを書き換え、コピーし、解析する行為などを行ってはならないこととします。
+
+個人情報の開示、訂正、利用停止等の請求に必要な手続について
+
+ユーザーは、当社に登録した個人情報の開示、訂正、利用停止等を希望する場合には、別途 “goo”上に掲示するプライバシーポリシーの定めに従い手続を行うものとします。
+
+ユーザーによる登録情報の最新化について
+
+ユーザーは、登録情報に変更があった場合には、速やかに所定の変更の届出を、当社に対して行うものとし、登録した情報を常に最新、完全、正確に保つものとします。
+
+（以上）
+
+【制定】本利用規約は、平成20年9月18日から適用します。
+
+【改定】本利用規約は、平成21年1月28日から適用します。
+
+【改定】本利用規約は、平成26年7月17日から適用します。
+
+NTT-X Store
+
+
+</textarea></dd>
+<dd class="check"><span><input type="checkbox" name="ID_POLICY" value="on" id="ID_POLICY" /></span><label for="ID_POLICY"> 上記に同意します。</label></dd>
+<dd class="agreement">
+<input type="image" src="/images/memberRegist/btn_agreement.gif" ID="ID_NEXT_CART"  name="next" alt="同意する">
+</dd>
+</dl>
+<!--/policy-->
+</div>
+
+<!--/cartwrapper-->
+</div>
+</form>
+<script type="text/javascript" language="JavaScript" >
+function getZip2Pref() { 
+
+	var	sZip1	=	$("ID_ZIP1").value;
+	var	sZip2	=	$("ID_ZIP2").value;
+
+	var a = new Ajax.Request( 
+			"/memberRegist/getPref.asp", 
+			{ 
+					"method": "get", 
+					"parameters": "USER_ZIP1="	+	sZip1	+	"&USER_ZIP2="	+	sZip2	, 
+					onSuccess: function(request) { 
+					}, 
+					onComplete: function(request) { 
+						var	sAddress	=	request.responseText;
+						var	iDelimter	=	sAddress.indexOf(",");
+
+						if	(	""	!=	sAddress	)	{
+							if	(	-1	===	iDelimter	)	{
+								$("ID_ADR1").value = sAddress; 
+								$("ID_ADR2").value = ""; 
+
+							}	else if	(	-1	!==	iDelimter	)	{
+								$("ID_ADR1").value = sAddress.substr	(	0	,	iDelimter	); 
+								$("ID_ADR2").value = sAddress.substr	(	iDelimter	+	1	); 
+							}
+						}
+					}
+			} 
+	); 
+} 
+</script>
+
+
+</div>
+<!--/inbody-->
+</div>
+<!--/cartbody-->
+
+<!--bugfixForWinIE5-->
+<br class="clearboth">
+<!--/bugfixForWinIE5-->
+
+</div>
+<!--/incontents-->
+
+</div>
+<!--/contents-->
+
+</div>
+<!--/inmain-->
+
+</div>
+<!--/main-->
+
+</div>
+<!--/middle-->
+
+<!-- footer start -->
+<div id="footer">
+
+<div id="fatfooter"><div class="footerrow"><ul class="ftsitemap-list">
+	<li class="ftsitemap-list-item-genre"><i class="fa fa-desktop"></i><a href="/display.asp">ディスプレイ</a></li>
+	<li class="ftsitemap-list-item"><a href="/_NGXM_01_04_02">液晶ディスプレイ</a></li>
+	<li class="ftsitemap-list-item"><a href="/_NGXM_01_04_08">タッチパネル液晶ディスプレイ</a></li>
+	<li class="ftsitemap-list-item"><a href="/_NGXM_01_04_05">プロジェクター</a></li>
+	<li class="ftsitemap-list-item"><a href="/_NGXM_01_04_06">プロジェクターオプション</a></li>
+	<li class="ftsitemap-list-item"><a href="/_NGXMZ_01_04_10_1?FREE_WORD=&amp;MKRCD=&amp;SIZE=20&amp;SPID=&amp;SPN=">スクリーン(壁掛け・吊下式)</a></li>
+	<li class="ftsitemap-list-item"><a href="/_NGXMZ_01_04_11_1?FREE_WORD=&amp;MKRCD=&amp;SIZE=20&amp;SPID=&amp;SPN=">スクリーン(自立・スタンド式)</a></li>
+	<li class="ftsitemap-list-item-genre"><i class="fa fa-laptop"></i><a href="/pc.asp">PC・スマホ・タブレット</a></li>
+	<li class="ftsitemap-list-item"><a href="/_NGXM_01_01_06_00">ノートPC</a></li>
+	<li class="ftsitemap-list-item"><a href="/_NGXYM_01_01_99_18">スマートフォン</a></li>
+	<li class="ftsitemap-list-item"><a href="/_NGXYM_01_01_99_15">タブレット</a></li>	
+	<li class="ftsitemap-list-item"><a href="/_NGXM_01_01_02_00">デスクトップ・液晶一体型</a></li>
+	<li class="ftsitemap-list-item"><a href="/_NGXM_01_01_04_00">デスクトップ・タワー型</a></li>
+	<li class="ftsitemap-list-item"><a href="/_NGXM_01_01_03_00">デスクトップ・省スペースPC</a></li>
+	<li class="ftsitemap-list-item"><a href="/_NGXM_01_03_01">タワー型サーバー</a></li>
+	<li class="ftsitemap-list-item"><a href="/_NGXMZ_01_03_02_1?FREE_WORD=&amp;MKRCD=&amp;SIZE=20&amp;SPID=&amp;SPN=">ラックマウント型サーバー</a></li>
+	<li class="ftsitemap-list-item-genre"><i class="fa fa-hdd-o"></i><a href="/parts.asp">PC周辺機器</a></li>
+	<li class="ftsitemap-list-item"><a href="/_NGX_01_08">ストレージ</a></li>
+	<li class="ftsitemap-list-item"><a href="/_NGX_01_09">メモリ</a></li>
+	<li class="ftsitemap-list-item"><a href="/_NGX_01_10">ネットワーク機器</a></li>
+	<li class="ftsitemap-list-item"><a href="/_NGX_01_12">サプライ</a></li>
+	<li class="ftsitemap-list-item"><a href="/_NGX_01_13">電源関連機器</a></li>
+	<li class="ftsitemap-list-item"><a href="/_NGX_01_14">消耗品・メディア</a></li>
+	<li class="ftsitemap-list-item"><a href="/_NGX_01_16">CPU・ボード関連</a></li>
+	<li class="ftsitemap-list-item"><a href="/_NGX_01_17">マウス・キーボード</a></li>
+</ul>
+<ul class="ftsitemap-list">
+	<li class="ftsitemap-list-item"><a href="/_NGXM_01_17_08">ペンタブレット</a></li>
+	<li class="ftsitemap-list-item"><a href="/_NGX_01_18">ケーブル・切替器</a></li>
+	<li class="ftsitemap-list-item-genre"><i class="fa fa-print"></i><a href="/printer.asp">プリンタ</a></li>
+	<li class="ftsitemap-list-item"><a href="/_NGXM_01_05_30">インクジェット複合機</a></li>
+	<li class="ftsitemap-list-item"><a href="/_NGXM_01_05_03">インクジェットプリンタ</a></li>
+	<li class="ftsitemap-list-item"><a href="/_NGXMZ_01_05_05_1?FREE_WORD=&amp;MKRCD=&amp;SIZE=20&amp;SPID=&amp;SPN=">デジタルフォトプリンタ</a></li>
+	<li class="ftsitemap-list-item"><a href="/_NGXM_01_05_40">レーザー複合機</a></li>
+	<li class="ftsitemap-list-item"><a href="/_NGXM_01_05_02">レーザープリンタ</a></li>
+	<li class="ftsitemap-list-item"><a href="/_NGXM_01_05_01">ドットインパクトプリンタ</a></li>
+	<li class="ftsitemap-list-item"><a href="/_NGXM_01_06_01">スキャナ</a></li>
+	<li class="ftsitemap-list-item"><a href="/_NGXM_01_05_11">プロッタ</a></li>
+	<li class="ftsitemap-list-item-genre"><i class="fa fa-camera"></i><a href="/camera.asp">カメラ</a></li>
+	<li class="ftsitemap-list-item"><a href="/_NGXM_01_07_01">デジタルカメラ</a></li>
+	<li class="ftsitemap-list-item"><a href="/_NGXYMN_01_07_99_01_31">デジタル一眼レフカメラ</a></li>
+	<li class="ftsitemap-list-item"><a href="/_NGXM_01_07_05">ネットワークカメラ</a></li>
+	<li class="ftsitemap-list-item"><a href="/_NGXM_01_07_02">PCカメラ・WEBカメラ</a></li>
+	<li class="ftsitemap-list-item"><a href="/_NGXMZ_01_07_04_1?FREE_WORD=&amp;MKRCD=&amp;PAGE=1&amp;SIZE=20">アナログカメラ</a></li>
+	<li class="ftsitemap-list-item-genre"><i class="fa fa-television"></i><a href="/av.asp">テレビ・オーディオ</a></li>
+	<li class="ftsitemap-list-item"><a href="/_NGXMNZ_01_32_01_02_1?FREE_WORD=&amp;MKRCD=&amp;SIZE=20&amp;SPID=&amp;SPN=">液晶テレビ</a></li>
+	<li class="ftsitemap-list-item"><a href="/_NGXYMN_01_32_99_01_11?JCD4=99&amp;PATTERN=1">3Dテレビ</a></li>
+	<li class="ftsitemap-list-item"><a href="/_NGXM_01_32_03?PATTERN=1">テレビチューナー・アンテナ</a></li>
+	<li class="ftsitemap-list-item"><a href="/_NGXMNZ_01_04_05_04_1?FREE_WORD=&amp;MKRCD=&amp;SIZE=20&amp;SPID=&amp;SPN=">ホームシアタープロジェクター</a></li>
+	<li class="ftsitemap-list-item"><a href="/_NGXYM_01_32_99_02?PATTERN=1">Blu-ray・DVD・HDD録画再生機器</a></li>
+</ul>
+<ul class="ftsitemap-list">
+	<li class="ftsitemap-list-item"><a href="/_NGXM_01_32_11">カーナビ・カー用品</a></li>
+	<li class="ftsitemap-list-item-genre"><i class="fa fa-home"></i><a href="/kaden.asp">生活家電</a></li>
+	<li class="ftsitemap-list-item"><a href="/_NGXM_01_33_03">空気清浄機・加湿器</a></li>
+	<li class="ftsitemap-list-item"><a href="/_NGXMZ_01_33_01_1?FREE_WORD=&amp;MKRCD=&amp;SIZE=20&amp;SPID=&amp;SPN=">季節家電</a></li>
+	<li class="ftsitemap-list-item"><a href="/_NGXMZ_01_33_06_1?FREE_WORD=&amp;MKRCD=&amp;SIZE=20&amp;SPID=&amp;SPN=">掃除機</a></li>
+	<li class="ftsitemap-list-item"><a href="/_NGXM_01_33_09">キッチン家電</a></li>
+	<li class="ftsitemap-list-item"><a href="/_NGXM_01_33_25">理美容家電</a></li>
+	<li class="ftsitemap-list-item"><a href="/_NGZ_01_1?FREE_WORD=LED%93d%8B%85&amp;MKRCD=&amp;SIZE=20&amp;SPID=&amp;SPN=">LED電球</a></li>
+	<li class="ftsitemap-list-item"><a href="/_NGXMZ_01_32_02_1?FREE_WORD=%83f%83W%83%5E%83%8B%83t%83H%83g%83t%83%8C%81%5B%83%80&amp;MKRCD=&amp;SIZE=20&amp;SPID=&amp;SPN=">デジタルフォトフレーム</a></li>
+	<li class="ftsitemap-list-item"><a href="/_NGXMZ_01_32_51_1?FREE_WORD=&amp;MKRCD=&amp;PAGE=1&amp;SIZE=20">FAX</a></li>
+	<li class="ftsitemap-list-item"><a href="/_NGXM_01_32_09?FREE_WORD=%93d%98b&amp;PATTERN=1">電話機</a></li>
+	<li class="ftsitemap-list-item"><a href="/_NGXMZ_01_32_53_1?FREE_WORD=&amp;MKRCD=&amp;PAGE=1&amp;SIZE=20">シュレッダー</a></li>
+	<li class="ftsitemap-list-item"><a href="/_NGXYMN_01_32_99_54_06">電子辞書</a></li>
+	<li class="ftsitemap-list-item"><a href="/_NGXM_01_35_03?FREE_WORD=%89%CE%8D%D0%8Cx%95%F1%8A%ED">火災警報器</a></li>
+	<li class="ftsitemap-list-item"><a href="/_NGXM_01_33_60">時計</a></li>
+	<li class="ftsitemap-list-item"><a href="/_NGXYMN_01_33_99_25_13?JCD4=99">自転車</a></li>
+	<li class="ftsitemap-list-item"><a href="/_NGXM_01_12_30?SK=3&amp;ZM=1&amp;FREE_WORD=&amp;MKRCD=&amp;PAGE=1&amp;SIZE=20&amp;SPID=&amp;SPCID=0&amp;SPCC=&amp;PATTERN=&amp;MKRCNT=0&amp;spc1=&amp;spc2=&amp;spc3=&amp;spc4=&amp;spc5=">おもちゃ・ゲーム</a></li>
+	<li class="ftsitemap-list-item-genre"><i class="fa fa-windows"></i><a href="/soft.asp">ソフト</a></li>
+	<li class="ftsitemap-list-item"><a href="/_NGXM_02_21_01">OS</a></li>
+	<li class="ftsitemap-list-item"><a href="/_NGXM_02_21_02">開発ソフト</a></li>
+	<li class="ftsitemap-list-item"><a href="/_NGXM_02_21_03">データベースソフト</a></li>
+	<li class="ftsitemap-list-item"><a href="/_NGXYMN_02_21_99_05_01">セキュリティ・ウイルス対策</a></li>
+	<li class="ftsitemap-list-item"><a href="/_NGXM_02_21_05">システム・ネットワーク・セキュリティ全般</a></li>
+</ul>
+<ul class="ftsitemap-list">
+	<li class="ftsitemap-list-item"><a href="/_NGXYMN_02_21_99_06_01">オフィスソフト</a></li>
+	<li class="ftsitemap-list-item"><a href="/_NGXYMN_02_21_99_06_02">ワープロソフト</a></li>
+	<li class="ftsitemap-list-item-genre"><i class="fa fa-suitcase"></i><a href="/corp.asp">法人</a></li>
+	<li class="ftsitemap-list-item"><a href="/_NGX_01_03">サーバー</a></li>
+	<li class="ftsitemap-list-item"><a href="/_NGXY_01_01_01">デスクトップPC</a></li>
+	<li class="ftsitemap-list-item"><a href="/_NGXY_01_01_02">ノートPC</a></li>
+	<li class="ftsitemap-list-item"><a href="/_NGX_01_10">ネットワーク機器</a></li>
+	<li class="ftsitemap-list-item"><a href="/_NGX_01_13">電源関連装置</a></li>
+	<li class="ftsitemap-list-item"><a href="/_NGX_01_14">消耗品・メディア</a></li>
+	<li class="ftsitemap-list-item"><a href="/_NGX_01_08">ストレージ</a></li>
+	<li class="ftsitemap-list-item-genre">ブランドショップ</li>
+	<li class="ftsitemap-list-item"><a href="/hp.asp">HP(ヒューレット・パッカード)</a></li>
+	<li class="ftsitemap-list-item"><a href="/_RH_3059">Synology</a></li>
+	<li class="ftsitemap-list-item"><a href="/lenovo.asp">レノボ</a></li>
+	<li class="ftsitemap-list-item"><a href="/_RH_2672">DELL</a></li>
+	<li class="ftsitemap-list-item"><a href="/panasonic.asp">パナソニック</a></li>
+	<li class="ftsitemap-list-item"><a href="/epson.asp">エプソン</a></li>
+	<li class="ftsitemap-list-item"><a href="/canon.asp">キヤノン</a></li>
+	<li class="ftsitemap-list-item"><a href="/oki.asp">沖データ</a></li>
+	<li class="ftsitemap-list-item"><a href="/sony.asp">ソニー</a></li>
+	<li class="ftsitemap-list-item"><a href="/iodata.asp">アイ・オー・データ機器</a></li>
+	<li class="ftsitemap-list-item"><a href="/audio-technica.asp">オーディオテクニカ</a></li>
+	<li class="ftsitemap-list-item"><a href="/onkyo.asp">オンキヨー</a></li>
+</ul>
+<ul class="ftsitemap-list">
+
+	<li class="ftsitemap-list-item"><a href="/netgear.asp">ネットギア</a></li>
+	<li class="ftsitemap-list-item"><a href="/elecom.asp">エレコム</a></li>
+	<li class="ftsitemap-list-item"><a href="/sanwa.asp">サンワサプライ</a></li>
+	<li class="ftsitemap-list-item"><a href="/pci.asp">プラネックス</a></li>
+	<li class="ftsitemap-list-item"><a href="/_RH_2834">OCNモバイルONE</a></li>
+</ul>
+<ul class="storenav"><li class="2store">NTT-X Store ：</li><li><a href="/help/policy.asp">利用規約</a></li><li><a href="/help/menseki.asp">免責事項</a></li><li><a href="/help/privacy.asp">個人情報の取り扱いについて</a></li><li><a href="/sitemap.asp">サイトマップ</a></li><li><a href="/help/notation.asp">特商法に基づく表示</a></li><li class="last"><a href="https://nttxstore.jp/inquiry/inquiry.asp">お問い合わせフォーム</a></li></ul></div></div>
+<!--f06-->
+<div id="footerinfo">
+<div id="fpmark"><a href="http://privacymark.jp/" target="_blank"><img src="/images/common/hdft/fpmark2016.gif" width="75" height="75" alt="Privacy Mark"></a></div>
+<div id="fpinfo"><p>NTT-X Storeは「プライバシーマーク」使用特許事業者として認定されています。</p><ul class="storecontact"><li class="tel"><img src="/images/common/hdft/icon_freedial.gif" width="22" height="15" alt="フリーダイアル">0120-003104</li><li>【平日】10:00～19:00</li><li>【土日祝】10:00～18:00</li></ul></div>
+<ul class="storenav">
+<!-- delete:20160/04/12
+<li class="store">NTT-X Store ：</li>
+<li><a href="/help/policy.asp">利用規約</a></li>
+<li><a href="/help/menseki.asp">免責事項</a></li>
+<li><a href="/help/privacy.asp">個人情報の取り扱いについて</a></li>
+<li><a href="/sitemap.asp">サイトマップ</a></li>
+<li><a href="/help/notation.asp">特商法に基づく表示</a></li>
+<li class="last"><a href="https://nttxstore.jp/inquiry/inquiry.asp">お問い合わせフォーム</a></li>
+</ul>
+<ul class="storecontact">
+<li class="tel"><img src="/images/common/hdft/icon_freedial.gif" width="22" height="15" alt="フリーダイアル">0120-003104</li>
+<li>【平日】10:00～19:00</li>
+<li>【土日祝】10:00～18:00</li>
+</ul>
+
+-->
+<!--f06--> 
+<div id="footnavi"> 
+<ul><li><a href="http://www.goo.ne.jp/">gooトップ</a></li>
+<li><a href="http://www.goo.ne.jp/sitemap/">サイトマップ</a></li>
+<li class="sethome"><a href="http://www.goo.ne.jp/set/" id="set2">スタートページに設定</a></li>
+<li><a href="http://www.goo.ne.jp/rss/">RSS</a></li>
+<li><a href="http://advertising.nttr.co.jp/adinfo/">広告掲載</a></li>
+<li><a href="http://help.goo.ne.jp/help/article/711/">免責事項</a></li>
+<li><a href="http://help.goo.ne.jp/help/article/709/">プライバシーポリシー</a></li>
+<li><a href="http://help.goo.ne.jp/">ヘルプ</a></li></ul>
+<address>Copyright:(C) 2017 <a href="http://www.nttr.co.jp/">NTT Resonant Inc.</a> All Rights Reserved.</address>
+</div> 
+<!--/f06--> 
+</div>
+<!-- footer end -->
+</div></div></div>
+<!--/WinIE&MacIE-minwidth-->
+<script>var dataLayer = dataLayer || [];dataLayer.push({'template': 'pc'});</script><!-- Google Tag Manager --><noscript><iframe src="//www.googletagmanager.com/ns.html?id=GTM-5DLPZX" height="0" width="0" style="display:none;visibility:hidden"></iframe></noscript><script>(function(w,d,s,l,i){w[l]=w[l]||[];w[l].push({'gtm.start':new Date().getTime(),event:'gtm.js'});var f=d.getElementsByTagName(s)[0],j=d.createElement(s),dl=l!='dataLayer'?'&l='+l:'';j.async=true;j.src='//www.googletagmanager.com/gtm.js?id='+i+dl;f.parentNode.insertBefore(j,f);})(window,document,'script','dataLayer','GTM-5DLPZX');</script><!-- End Google Tag Manager -->
+<!--ecConcier-->
+<script>
+(function(w,d,url,a,s,e){
+    w[a]= (w[a]||[]);
+    s = d.getElementsByTagName("script")[0];e = d.createElement("script");e.src=url;e.async=1;s.parentNode.insertBefore(e,s);
+})(window,document,'//ec-concier.com/1152fb694c762fe6/analytics.js','ara');
+ara.push(['init', '1152fb694c762fe6']);
+ara.push(['custom_set', 'FMID', 'XStore']);
+</script>
+
+<script src="//log000.goo.ne.jp/js/VLTraceDMD.js"></script>
+
+<script src="/common/js/waribiki_ecconcier.js" type="text/javascript"></script>
+<script src="//adcdn.goo.ne.jp/images/pix/p4da1231aq.js" type="text/javascript"></script>
+</body>
+</html>

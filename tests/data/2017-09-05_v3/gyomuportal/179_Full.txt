@@ -1,0 +1,34 @@
+POST https://bbsec-dev.demo.r-unit.co.jp/sessions/87 HTTP/1.1
+Host: bbsec-dev.demo.r-unit.co.jp
+User-Agent: Mozilla/5.0 (Windows NT 6.1; WOW64; rv:51.0) Gecko/20100101 Firefox/51.0
+Accept: text/html,application/xhtml+xml,application/xml;q=0.9,*/*;q=0.8
+Accept-Language: ja,en-US;q=0.7,en;q=0.3
+Referer: https://bbsec-dev.demo.r-unit.co.jp/project/3521/dashboards/index
+Cookie: __utma=255587979.1408552780.1485512242.1485512242.1485512242.1; __utmz=255587979.1485512242.1.1.utmcsr=google|utmccn=(organic)|utmcmd=organic|utmctr=(not%20provided); _myapp_session=NzRGaTQ3aUhNcGtZVnpyVkFFeFNYUlVvSWIzdlBrUmxUaEJ0V1J3V29waDBiczZCa29RRXFLYjV2V2grWm93TEZFSHlPczJ6N2Z0Y1kzdjhtRm1ReGkwcDFIUHgrYzNWRHlNS1l1VGJFWkwxaG5NcnR4dUtVUGQ0RXRaUXhzTExucVp6bFh5eUNvdVZZL2lqOTZaUDJ2bEE4aGMzMktBOEVPZDFOQ05nWDJKbGh4QXRjZTZLb3p6RkNjbExPTFZ1Z0cyanN4TUJSQWNCUWdHd05jbC9JeDMxNkNTWEpQL0dSMUsweUl5ZlhEdHdQdEhhbW5zdG96K3pQY0prTkk4ZENqbmJnZkI0NmFTS3NSZ1lRSW01dElnVGxWd254WTFNcFoyUVBDeHY5OW1sWkdnYWt3WWJZVVRPc1NxdDllS1gxdlJqNmRRckRZRjlnNGhyRVpiZklMM2VtRUV6c0k2emJRKzNmRi9PU3lXNVBSNHJJbGs5NzNCd1c0NGx4cTFRMXJBMjg5OTBvNWh4VnQ0MWFvVEVwU2RRTkExc0E4NHQ3eS8vckNnYVQ3ekRKNEFwempWeXc3c0ZaTVlnK2s5c2ZOcXJCZENKTEhiK010R2lPa215TWloYU1xbXN1Yk00eVNRcWZYMSs4bnNBTlNQKzJWR3hVaFZrWENpT25iSkhZTzhqL2daNmhLV05ScFRLaTdXemMrd2dZK3M0c1NyZ2ZaOXVvdVcraFZhSXB5Sk1OazlZZlM0SU5KN1lmMmszb0Fub2ZUM0diamRKTDJXMFF0bGFhZTBXOTZVeDRONTlvMmZmNTVXaUhkQT0tLW5lcXN1ZFowNHBZY3hVMmdQK2dsTlE9PQ%3D%3D--e22552786e880be7df1e7bd4fb7f6e1d72742714
+Connection: close
+Upgrade-Insecure-Requests: 1
+Content-Type: application/x-www-form-urlencoded
+Content-Length: 134
+
+_method=delete&authenticity_token=NNl5DFKGdPETrsZDM9hv2Dl%2FHyWsGDCQcGHoPuNCUe9OntOwTcEv%2B4fD%2FxNvRq454zz7UplUO0p%2BQmXPxipCcA%3D%3D
+HTTP/1.1 302 Found
+Server: nginx/1.8.1
+Date: Thu, 09 Mar 2017 09:36:11 GMT
+Content-Type: text/html; charset=utf-8
+Transfer-Encoding: chunked
+Connection: close
+Strict-Transport-Security: max-age=31536000
+X-Frame-Options: SAMEORIGIN
+X-XSS-Protection: 1; mode=block
+X-Content-Type-Options: nosniff
+Location: https://bbsec-dev.demo.r-unit.co.jp/
+Cache-Control: no-cache
+Set-Cookie: request_method=DELETE; path=/; secure
+Set-Cookie: _myapp_session=UWkrVVd6S0F0OHpyNFR6amgyMUlSMTdUTk5KNkJxSWhXdWkyWjJ5SjJEV1diL1BQZnk5N3htZmp0aUU3Q3VYNnBxVnVKUHBCcDNrL2hlUUlYcGxQenc9PS0tMXhlUi9RdWE5K2VuMTVONGsrT2NyZz09--669575166a08e047a078194db049cadb9ccabee1; path=/; expires=Thu, 09 Mar 2017 10:36:11 -0000; secure; HttpOnly
+X-Request-Id: 495cc45d-2f28-4187-926a-555231ed3c9d
+X-Runtime: 0.009696
+
+66
+<html><body>You are being <a href="https://bbsec-dev.demo.r-unit.co.jp/">redirected</a>.</body></html>
+0
+

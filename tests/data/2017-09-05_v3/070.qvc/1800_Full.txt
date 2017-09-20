@@ -1,0 +1,321 @@
+GET https://qvc.jp/cont/recom/Rs?merch=qvc&spec=10&num=5&cat=&pcat=&maxprice=&prod1=635338&prod2=635016&prod3=635831&prod4=636320&prod5=635020&prod6=&prod7=&prod8=&prod9=&prod10=&prod11=&prod12=&prod13=&prod14=&prod15=&prod16=&prod17=&prod18=&prod19=&prod20=&cref=1456041884&serverId=1 HTTP/1.1
+Host: qvc.jp
+User-Agent: Mozilla/5.0 (Windows NT 6.1; rv:52.0) Gecko/20100101 Firefox/52.0
+Accept: text/html,application/xhtml+xml,application/xml;q=0.9,*/*;q=0.8
+Accept-Language: ja,en-US;q=0.7,en;q=0.3
+Referer: https://qvc.jp/cont/recom/GetDt?merch=qvc&spec=10&num=5&reqdom=aigent2.silveregg.net&reqtype=1&serverId=1
+Cookie: JSESSIONID=9111EDC20EBF176EE3638B44F87CFDD2; uniqueid=f0b95f09-58f0-46bf-9c12-7724c360520c; CK_SERVERID=1; _libra=oOH0I4i73Ar4kEILo3866BObiqBsc6XmkfHBLP32B4rYKdBDLIjBbZnIcepdv57iVaUudWBX5cZM; s_cc=true; s_fid=6EDF1492B909393E-3DC5C71134357C5E; sc_visit=1; sc_segmsest=1491558701749; sc_segmhis=1491558701749; sc_segm=1; s_cvp_1=%5B%5B%27DIR%27%2C%271491558701751%27%5D%5D; s_cvp_2=%5B%5B%27DIR%27%2C%271491558701751%27%5D%5D; s_product=%5BPC%5D%3AOther; sc_prevFlag=F; sc_prevpage=%5BPC%5D%3Aqvc.jp%2FCustomerMenu.do; s_sq=%5B%5BB%5D%5D; custid=73790398; s_vi=[CS]v1|2C73B37E0548B07F-40000105E00007B0[CE]; YTM_PV=2; __ar_v4=; _vz=viz_58e766f82b98d; curntChnl=QVC; saasData="https://aigent.silveregg.net/pycre5/click?merch=qvc|891165621|73790398"
+Connection: close
+Upgrade-Insecure-Requests: 1
+
+
+HTTP/1.1 200 OK
+Content-Type: text/html;charset=windows-31j
+Content-Length: 6874
+Cache-Control: private,no-store,no-cache,must-revalidate
+Pragma: no-cache
+Date: Fri, 07 Apr 2017 10:39:30 GMT
+Connection: close
+Set-Cookie: CK_SERVERID=1; path=/
+Set-Cookie: CK_SERVERID=1; path=/
+
+
+
+
+
+
+
+
+
+
+
+
+<!DOCTYPE HTML PUBLIC "-//W3C//DTD HTML 4.01 Transitional//EN">
+<HTML LANG="ja">
+<HEAD>
+	<META http-equiv="Content-Type" content="text/html; charset=Shift_JIS">
+	<link rel="stylesheet" type="text/css" href="/css/kuchikomi.css">
+	
+	
+
+	
+	
+
+	
+	
+
+	<SCRIPT type="text/javascript" language="JavaScript">
+	<!--
+		var baseDir = '/';
+	//-->
+	</SCRIPT>
+	
+	<SCRIPT type="text/javascript" language="JavaScript" src="/script/common.js?serverId=1"></SCRIPT>
+	
+	
+	<SCRIPT type="text/javascript" language="JavaScript">
+	<!--
+		
+		function fncResize( prmHeight, prmWidth, prmCnt ){
+			try{
+				if(prmCnt>0){
+					frm = parent.document.getElementById('ifr_rcm');
+					frm.width = prmWidth;
+					frm.height = prmHeight;
+					return true;
+				}
+				else{return false;}
+			}
+			catch(e){return false;}
+		}
+	//-->
+	</SCRIPT>
+
+	
+	
+
+
+
+
+
+
+
+</HEAD>
+
+
+
+
+
+
+
+
+
+		
+
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+		
+		
+	
+	
+	
+	
+	
+	
+	
+	
+	
+
+
+<body bgcolor="#FFFFFF" topmargin="0" leftmargin="0" marginheight="0" marginwidth="0" onLoad="javascript:fncResize('190','585',5);">
+
+
+
+
+
+<table width="534" border="0" cellpadding="0" cellspacing="0" bgcolor="#FFF9EA" class="p10">
+	<tr>
+		<td colspan="5" valign="top"><img src="/img/reco/yoko_title534a.gif" width="534" height="20" border="0"></td>
+	</tr>
+	<tr>
+		
+		<td width="107"><img src="/img/spacer.gif" width="107" height="1"></td>
+		
+		<td width="107"><img src="/img/spacer.gif" width="107" height="1"></td>
+		
+		<td width="106"><img src="/img/spacer.gif" width="106" height="1"></td>
+		
+		<td width="107"><img src="/img/spacer.gif" width="107" height="1"></td>
+		
+		<td width="107"><img src="/img/spacer.gif" width="107" height="1"></td>
+		
+	</tr>
+	<tr>
+		
+		<td width="107" align="center">
+			
+			<div style="margin:5px 12px; background-image:url('/_c_7/635338.jpg'); background-repeat:no-repeat"><a href="http://qvc.jp/ShohinDtl?recomkind=ag&amp;cref=1456041884&amp;recomspec=10&hinban=635338&sc_recom=repc_10&serverId=1" target="_parent"><img src="/images/list/few_img_s.gif" width="80" height="80" border="0" class="pic"></a></div>
+			
+		</td>
+		
+		<td width="107" align="center">
+			
+			<div style="margin:5px 12px; background-image:url('/_c_7/635016.jpg'); background-repeat:no-repeat"><a href="http://qvc.jp/ShohinDtl?recomkind=ag&amp;cref=1456041884&amp;recomspec=10&hinban=635016&sc_recom=repc_10&serverId=1" target="_parent"><img src="/images/list/few_img_s.gif" width="80" height="80" border="0" class="pic"></a></div>
+			
+		</td>
+		
+		<td width="106" align="center">
+			
+			<div style="margin:5px 12px; background-image:url('/_c_7/635831.jpg'); background-repeat:no-repeat"><a href="http://qvc.jp/ShohinDtl?recomkind=ag&amp;cref=1456041884&amp;recomspec=10&hinban=635831&sc_recom=repc_10&serverId=1" target="_parent"><img src="/img/spacer.gif" width="80" height="80" border="0" class="pic"></a></div>
+			
+		</td>
+		
+		<td width="107" align="center">
+			
+			<div style="margin:5px 12px; background-image:url('/_c_7/636320.jpg'); background-repeat:no-repeat"><a href="http://qvc.jp/ShohinDtl?recomkind=ag&amp;cref=1456041884&amp;recomspec=10&hinban=636320&sc_recom=repc_10&serverId=1" target="_parent"><img src="/img/spacer.gif" width="80" height="80" border="0" class="pic"></a></div>
+			
+		</td>
+		
+		<td width="107" align="center">
+			
+			<div style="margin:5px 12px; background-image:url('/_c_7/635020.jpg'); background-repeat:no-repeat"><a href="http://qvc.jp/ShohinDtl?recomkind=ag&amp;cref=1456041884&amp;recomspec=10&hinban=635020&sc_recom=repc_10&serverId=1" target="_parent"><img src="/img/spacer.gif" width="80" height="80" border="0" class="pic"></a></div>
+			
+		</td>
+		
+	</tr>
+	<tr>
+		
+		<td>
+			
+			<div style="width:80px; margin:0px 12px 2px 12px;" class="texts"><a href="http://qvc.jp/ShohinDtl?recomkind=ag&amp;cref=1456041884&amp;recomspec=10&hinban=635338&sc_recom=repc_10&serverId=1" target="_parent" class="ul">&amp;LOVE ハンサムフェミニンなイー...</a></div>
+			
+		</td>
+		
+		<td>
+			
+			<div style="width:80px; margin:0px 12px 2px 12px;" class="texts"><a href="http://qvc.jp/ShohinDtl?recomkind=ag&amp;cref=1456041884&amp;recomspec=10&hinban=635016&sc_recom=repc_10&serverId=1" target="_parent" class="ul">&amp;LOVE LOVEオーラ満載のフェミニ...</a></div>
+			
+		</td>
+		
+		<td>
+			
+			<div style="width:80px; margin:0px 12px 2px 12px;" class="texts"><a href="http://qvc.jp/ShohinDtl?recomkind=ag&amp;cref=1456041884&amp;recomspec=10&hinban=635831&sc_recom=repc_10&serverId=1" target="_parent" class="ul">&amp;LOVE ハートスパンコールのこな...</a></div>
+			
+		</td>
+		
+		<td>
+			
+			<div style="width:80px; margin:0px 12px 2px 12px;" class="texts"><a href="http://qvc.jp/ShohinDtl?recomkind=ag&amp;cref=1456041884&amp;recomspec=10&hinban=636320&sc_recom=repc_10&serverId=1" target="_parent" class="ul">ドクターシーラボ マチュアリフ ...</a></div>
+			
+		</td>
+		
+		<td>
+			
+			<div style="width:80px; margin:0px 12px 2px 12px;" class="texts"><a href="http://qvc.jp/ShohinDtl?recomkind=ag&amp;cref=1456041884&amp;recomspec=10&hinban=635020&sc_recom=repc_10&serverId=1" target="_parent" class="ul">&amp;LOVE LOVEメッセージプリントの...</a></div>
+			
+		</td>
+		
+	</tr>
+	<tr>
+		
+		<td align="center" valign="top">
+			
+			<div class="texts">
+				&nbsp;<strong>&yen;8,090</strong>&nbsp;<SPAN class="f10">(税込)</SPAN>
+			</div>
+			
+		</td>
+		
+		<td align="center" valign="top">
+			
+			<div class="texts">
+				&nbsp;<strong>&yen;9,990</strong>&nbsp;<SPAN class="f10">(税込)</SPAN>
+			</div>
+			
+		</td>
+		
+		<td align="center" valign="top">
+			
+			<div class="texts">
+				&nbsp;<strong>&yen;5,990</strong>&nbsp;<SPAN class="f10">(税込)</SPAN>
+			</div>
+			
+		</td>
+		
+		<td align="center" valign="top">
+			
+			<div class="texts">
+				<img src="/cont/reco/img/toku_s.gif" width="13" height="15" hspace="2" align="absmiddle">&nbsp;<strong>&yen;4,999</strong>&nbsp;<SPAN class="f10">(税込)</SPAN>
+			</div>
+			
+		</td>
+		
+		<td align="center" valign="top">
+			
+			<div class="texts">
+				&nbsp;<strong>&yen;3,990</strong>&nbsp;<SPAN class="f10">(税込)</SPAN>
+			</div>
+			
+		</td>
+		
+	</tr>
+    	<tr><td colspan="5"><div style="margin:10px 12px 0px 12px; text-align:right;" class="texts"><img src="/img/reco/yoko_arrow534a.gif" width="10" height="11" hspace="3" border="0" align="absmiddle"><a href="http://qvc.jp/cont/recom/List?spec=11&cat=&sc_recom=repc_10&serverId=1" target="_parent">オススメ商品をもっと見る</a></div></td></tr>
+        
+	<tr><td colspan="5"><img src="/img/reco/yoko_shita534.gif" width="534" height="6"></td></tr>
+</table>
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+<!--AA code-->
+
+
+<!--/AA code-->
+
+</body>
+</html>
+

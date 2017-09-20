@@ -1,0 +1,196 @@
+GET https://133.162.234.101/User/UserIndex HTTP/1.1
+Host: 133.162.234.101
+Connection: close
+Upgrade-Insecure-Requests: 1
+User-Agent: Mozilla/5.0 (Windows NT 10.0; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/56.0.2924.76 Safari/537.36
+Accept: text/html,application/xhtml+xml,application/xml;q=0.9,image/webp,*/*;q=0.8
+Referer: https://133.162.234.101/Company/CompanyEdit
+Accept-Language: ja,en-US;q=0.8,en;q=0.6
+Cookie: __RequestVerificationToken=xrvhP-fuoJruxCjsimk2zaTrZ5K2jkHR2Cy2tQ2t6SD2Vs-B9Iq784_IWsHXG0gxynwmCGYViyLaa2RaAuaK1uTwwgrbfJZytNvOfQ0dkSc1; ASP.NET_SessionId=y3x1wrvmb52xx2n5vecdvj4s; .ASPXAUTH=EB311B926251B00952D1F000C0917B01CEE397312B7BE6BFBA06017E3CD6E0E9C3938A131B1F837EB009DFFA51055C465B29CB6147053E83824290D378579C9758D7FFD3CB5A6BC0EC67BA026B639022BF54197468101913AAA40E78E0CB925B; LastGroupMstId=1; LastCompanyCd=Company1; LastUserId=machida; LastText=machida; IsRemember=True
+
+
+HTTP/1.1 200 OK
+Date: Mon, 30 Jan 2017 06:08:11 GMT
+Server: Microsoft-IIS/8.5
+Cache-Control: private, s-maxage=0
+Content-Type: text/html; charset=utf-8
+X-AspNetMvc-Version: 5.0
+X-Frame-Options: SAMEORIGIN
+X-Frame-Options: SAMEORIGIN
+X-AspNet-Version: 4.0.30319
+X-Powered-By: ASP.NET
+Content-Length: 9274
+Connection: close
+
+
+<!DOCTYPE html>
+<html>
+<head>
+<meta http-equiv="Content-Type" content="text/html; charset=utf-8"/>
+    <meta charset="utf-8" />
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>利用者一覧画面 - CCMS</title>
+    <link href="/Content/css?v=l-Ph521pg0QCnur1cnG1IfR_JucXoaV3MlGY4k-KhxE1" rel="stylesheet"/>
+
+    <script src="/bundles/modernizr?v=wBEWDufH_8Md-Pbioxomt90vm6tJN2Pyy9u9zHtWsPo1"></script>
+
+    
+    <link href="/Content/DataTables/css/jquery.dataTables.css" rel="stylesheet" />
+
+</head>
+<body>
+    <nav id="NbarTop" class="navbar navbar-inverse navbar-fixed-top">
+        <div class="navbar-header">
+            <button type="button" class="navbar-toggle" data-toggle="collapse" data-target=".navbar-collapse">
+                <span class="icon-bar"></span>
+                <span class="icon-bar"></span>
+                <span class="icon-bar"></span>
+            </button>
+            <img src="/Content/LOGO.png" draggable="false" style="width:120px; height:60px; padding:5px" />
+        </div>
+        <div class="navbar-collapse collapse NbarButton">
+            <ul class="nav navbar-nav">
+                    <li><a href="/Contract/ContractIndex">契約明細一覧</a></li>
+                        <li><a href="/Company/CompanyIndex">企業一覧</a></li>
+                        <li><a href="/Contractor/ContractorIndex">契約先企業一覧</a></li>
+                        <li><a href="/User/UserIndex">利用者一覧</a></li>
+                        <li><a href="/Project/ProjectIndex">プロジェクト一覧</a></li>
+            </ul>
+            
+
+        <ul class="nav navbar-nav navbar-right">
+            <li><a href="/" title="管理">町田大林でログイン中</a></li>
+            <li><a href="/Account/Logout" title="Logout">ログアウト</a></li>
+        </ul>
+<input name="__RequestVerificationToken" type="hidden" value="Qd3V9UfQ7DO209aQkm61TXRLq_wkNQcZgIQnGJhHIHOQAxHdPVItOp2KVSpNVvxH1cce5BMGXylvhErFQx7PKXx3o65uCUj1t35B9cemfYC_Vtc0Jdqteaigwrzk9sHn0" />
+
+        </div>
+    </nav>
+    <div class="container body-content">
+        
+
+
+<div id="UserIndex">
+    <div class="row">
+<form action="/User/UserSearch" method="post" name="UserSearch"><input name="__RequestVerificationToken" type="hidden" value="790Ci1auExd8KTJyMtV_OA9EBK1Jb4po7rQBNoem-ZhC8yIB0BNUDb_2aqC-ufqsysaP7j_YD_BcB4UPsAw5HgSpQjTX0izQM8RweKOGL6BjMDyc_iuAoJAUhi4Si_W90" />            <h2>利用者一覧</h2>
+            <table class="edit-table">
+                <tr>
+                    <th>企業コード</th>
+                    <td>
+                        <input class="form-control" data-val="true" data-val-length="企業コードは10文字以内で入力してください。" data-val-length-max="10" data-val-regex="企業コードは半角文字で入力してください。" data-val-regex-pattern="[a-zA-Z0-9 _]+" id="CompanyCd" maxLength="10" name="CompanyCd" type="text" value="" />
+                        <span class="field-validation-valid" data-valmsg-for="CompanyCd" data-valmsg-replace="true"></span>
+                    </td>
+
+                    <th>法人番号</th>
+                    <td>
+                        <input class="form-control ac" data-val="true" data-val-length="法人番号は13文字以内で入力してください。" data-val-length-max="13" data-val-regex="法人番号は数字で入力してください。" data-val-regex-pattern="[0-9 _]+" id="EnterpriseIdNumber" maxLength="13" name="EnterpriseIdNumber" type="text" value="" />
+                        <span class="field-validation-valid" data-valmsg-for="EnterpriseIdNumber" data-valmsg-replace="true"></span>
+                    </td>
+                </tr>
+
+                <tr>
+                    <th>企業名</th>
+                    <td colspan="3">
+                        <input class="form-control" data-val="true" data-val-length="企業名は256文字以内で入力してください。" data-val-length-max="256" data-val-regex="企業名は全角文字で入力してください。" data-val-regex-pattern="[^\x01-\x7E]+" id="CompanyName" maxLength="256" name="CompanyName" type="text" value="" />
+                        <span class="field-validation-valid" data-valmsg-for="CompanyName" data-valmsg-replace="true"></span>
+                    </td>
+                </tr>
+
+                <tr>
+                    <th>利用者ID</th>
+                    <td>
+                        <input class="form-control" data-val="true" data-val-length="利用者IDは100文字以内で入力してください。" data-val-length-max="100" data-val-regex="利用者IDは半角文字で入力してください。" data-val-regex-pattern="[a-zA-Z0-9 _]+" id="UserId" maxLength="20" name="UserId" type="text" value="" />
+                        <span class="field-validation-valid" data-valmsg-for="UserId" data-valmsg-replace="true"></span>
+                    </td>
+
+                    <th>利用者名</th>
+                    <td>
+                        <input class="form-control" data-val="true" data-val-length="利用者名は256文字以内で入力してください。" data-val-length-max="256" data-val-regex="利用者名は全角文字で入力してください。" data-val-regex-pattern="[^\x01-\x7E]+" id="UserName" maxLength="256" name="UserName" type="text" value="" />
+                        <span class="field-validation-valid" data-valmsg-for="UserName" data-valmsg-replace="true"></span>
+                    </td>
+                </tr>
+
+                <tr>
+                    <th>メールアドレス</th>
+                    <td>
+                        <input class="form-control" data-val="true" data-val-length="メールアドレスは256文字以内で入力してください。" data-val-length-max="256" data-val-regex="メールアドレスは半角文字で入力してください。" data-val-regex-pattern="[a-zA-Z0-9 - _ . * ! # $ % &amp; ’ * + / = ? ^ ` { | } ~@]+" id="MailAddress" maxLength="256" name="MailAddress" type="text" value="" />
+                        <span class="field-validation-valid" data-valmsg-for="MailAddress" data-valmsg-replace="true"></span>
+                    </td>
+
+                    <th>検索対象</th>
+                    <td>
+                        <select class="form-control" id="SearchTarget" name="SearchTarget"><option value="ALL">全て</option>
+<option value="MYCOMPANY">自社</option>
+<option value="OTHER">グループ外</option>
+</select>
+                    </td>
+                </tr>
+            </table>
+            <div class="btn-group">
+                <span>
+                    <button id="UserSearchButton" type="button" class="btn btn-primary btn-large">&nbsp;&nbsp;&nbsp;検索&nbsp;&nbsp;&nbsp;</button>
+                </span>
+                &nbsp;
+                <span>
+                    <button id="UserEditButton" type="button" class="btn btn-primary btn-large" onclick="OnButtonClickEdit();" > 新規登録</button>
+                </span>
+            </div>
+</form>
+        <div id="resultContainer" class="hidden" data-reload="">
+            <hr />
+            <h3>検索結果</h3>
+            <table class="list-table c-head">
+                <colgroup>
+                    <col style="width: 140px"/>
+                    <col style="width: 140px" />
+                    <col style="width: auto" />
+                    <col style="width: 100px" />
+                    <col style="width: 100px" />
+                    <col style="width: 200px" />
+                    <col style="width: 140px" />
+                </colgroup>
+                <thead>
+                    <tr>
+                        <th>企業コード</th>
+                        <th>法人番号</th>
+                        <th>企業名</th>
+                        <th>利用者ID</th>
+                        <th>利用者名</th>
+                        <th>メールアドレス</th>
+                        <th>利用者編集</th>
+                    </tr>
+                </thead>
+                <tbody></tbody>
+            </table>
+        </div>
+        <div id="screenErr"></div>
+    </div>
+</div>
+
+        <div class="row">
+            <hr />
+            <footer>
+                <div id="NbarBottom">
+                    <p>CCMS System Version 0.7.0.8 201701231649 &copy; 2017 - CCMS</p>
+                </div>
+            </footer>
+        </div>
+    </div>
+
+    <script src="/bundles/jquery?v=EEZBCVzQe1TpkEUeLfjEm53wpuqSSXGjiXFWAVaewp81"></script>
+
+    <script src="/bundles/bootstrap?v=QNGKtD_svtkr2srjVyLGfVUimO436va_1Pq08Q20zaA1"></script>
+
+    <script src="/bundles/cryptojs?v=J9JMZQmwTOLfrOoC57rS1Ytrr5FqRqA4hACqlh20WBs1"></script>
+
+    <script src='/Scripts/Common/commonFunc.js'></script>
+    
+    <script src="/scripts/jquery.validate.min.js"></script>
+    <script src="/scripts/jquery.validate.unobtrusive.min.js"></script>
+    <script src="/Scripts/DataTables/jquery.dataTables.min.js"></script>
+    <script src="/Scripts/User/index.js"></script>
+    <script src="/Scripts/User/buttons.js"></script>
+
+</body>
+
+</html>

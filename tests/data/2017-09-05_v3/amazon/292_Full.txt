@@ -1,0 +1,21 @@
+GET https://www.amazon.co.jp/ap/uedata?ld&v=0.417.186&id=C5JSQVA96CQV62NH3XQ2&sw=1536&sh=960&vw=1536&vh=826&m=1&sc=C5JSQVA96CQV62NH3XQ2&ue=4&bb=178&be=184&pc=277&tc=-2552&na_=-2552&ul_=-8&_ul=-5&rd_=-2533&_rd=-1146&fe_=-1138&lk_=-1138&_lk=-1138&co_=-1138&_co=-1138&rq_=-1084&rs_=-1085&_rs=-10&dl_=-8&di_=198&de_=207&_de=208&_dc=289&ld_=289&_ld=-1487845078906&ntd=13&ty=0&rc=1&hob=2&hoe=4&ld=278&t=1487845079184&ctb=1&rt=__ld:5-3-2-0-1-3-0&csmtags=aui|aui:aui_build_date:3.16.7.7-2016-07-27|fls-fe&viz=visible:4&pty=AuthenticationPortal&spty=ForgotPasswordOptionsApplication&pti=undefined&tid=3SSJ56C3N9YRBV1JB6FM&aftb=1 HTTP/1.1
+Host: www.amazon.co.jp
+User-Agent: Mozilla/5.0 (Windows NT 6.1; WOW64; rv:51.0) Gecko/20100101 Firefox/51.0
+Accept: */*
+Accept-Language: ja,en-US;q=0.7,en;q=0.3
+Referer: https://www.amazon.co.jp/ap/forgotpassword/options?ie=UTF8&openid.pape.max_auth_age=0&openid.return_to=https%3A%2F%2Fwww.amazon.co.jp%2Fgp%2Fyourstore%2Fhome%3Fie%3DUTF8%26action%3Dsign-out%26path%3D%252Fgp%252Fyourstore%252Fhome%26ref_%3Dnav_youraccount_signout%26signIn%3D1%26useRedirectOnSuccess%3D1&prevRID=7Y711VYXQ7X03VQFK1Z1&openid.identity=http%3A%2F%2Fspecs.openid.net%2Fauth%2F2.0%2Fidentifier_select&openid.assoc_handle=jpflex&openid.mode=checkid_setup&openid.ns.pape=http%3A%2F%2Fspecs.openid.net%2Fextensions%2Fpape%2F1.0&paramJwt=eyJ6aXAiOiJERUYiLCJlbmMiOiJBMjU2R0NNIiwiYWxnIjoiQTI1NktXIn0.1DrpGPeIB0xqBsPvFIirzxCAsE6wogOYxQZFvYA7f_7juBshgcIH4w.K_g7pFon-xL0o1f9.E7G6qaaNGR020m7CYhhRPxofGcCtD9JrLzA1WwU35mkpnBqm65-4q8hVMQxCXCq2dBpj57q3fPEF8ZQ_f6xx-d20OKaSCKzW86AYki5sC2zXJ5jP1L78qbvXW-_OtRvhOjXH25mJOQ3NZ1tihO3Coa-Wq1qxpIpT6HuO44NMH3PcJbGd8MY529rTx7HmF3OpyFrygl3aU2DP-ghPwdpdKdwG7mgidCev8w3LwEPJR6QCBUfw-RBnfLNw1uCzDod4JeSM_ppJXLCAejaQya7ZeJ6F2RJoaGyg9edIpG0FhEuq.7D_ad1KftVDW9eMk5q1xGw&pageId=jpflex&openid.claimed_id=http%3A%2F%2Fspecs.openid.net%2Fauth%2F2.0%2Fidentifier_select&openid.ns=http%3A%2F%2Fspecs.openid.net%2Fauth%2F2.0
+Cookie: x-wl-uid=1GDvy2waSUzmWJfcmx4VPZYqHPpW6Z5KS6V7C66AdJ5N1JZEuIVBSBdsua4gZQEu8kIVoGsLSCYV9nEzxVn9/1M32ROlYTYQaLZCOY6YX0tR5xzFm8/79TgNH+CyiK5xtxuZSnVUlLh1VV2pJ1XpTgQ==; session-id-time=2082726001l; session-id=353-3201000-0660657; ubid-acbjp=353-0969293-9600038; session-token=05v593vxQ8Jxlp0Swn+0fnDf9d7bd9z0Sk77Q8yK+yX0eBDnr24f9MyIy3IkuPkjX8NLQ8JgsEFTooh4ivMgTmJOt0+ZNHdheQo6iwwaDygmFFvDIUPO9ExdcN3Bnw0FlDBe97bAY3pfggUB1vk5a3y1ulwk2utA8QL2R4Tjr94fM5MMSSO46EoArGDDN32L8QTbjI9HGVbFWSD/DfkIqzh9+rXUKH7FSs1l8tAmNR204VPWdz4U6v82HyxHegiw; csm-hit=3SSJ56C3N9YRBV1JB6FM+s-7Y711VYXQ7X03VQFK1Z1|1487845021960; skin=noskin; JSESSIONID=0A2CD27DB693AD2191D5F92E39CBA919
+Connection: close
+
+
+HTTP/1.1 204 No Content
+Server: Server
+Date: Thu, 23 Feb 2017 10:18:00 GMT
+Content-Type: image/gif;charset=UTF-8
+Content-Length: 0
+Connection: close
+Strict-Transport-Security: max-age=47474747; includeSubDomains; preload
+x-ua-compatible: IE=edge
+Vary: Accept-Encoding,User-Agent
+X-Frame-Options: SAMEORIGIN
+

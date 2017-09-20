@@ -1,0 +1,54 @@
+POST https://133.162.234.101/Company/SearchCompany HTTP/1.1
+Host: 133.162.234.101
+Connection: close
+Content-Length: 237
+Accept: text/html, */*; q=0.01
+Origin: https://133.162.234.101
+X-Requested-With: XMLHttpRequest
+User-Agent: Mozilla/5.0 (Windows NT 10.0; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/56.0.2924.76 Safari/537.36
+Content-Type: application/x-www-form-urlencoded; charset=UTF-8
+Referer: https://133.162.234.101/Company/CompanyIndex
+Accept-Language: ja,en-US;q=0.8,en;q=0.6
+Cookie: __RequestVerificationToken=xrvhP-fuoJruxCjsimk2zaTrZ5K2jkHR2Cy2tQ2t6SD2Vs-B9Iq784_IWsHXG0gxynwmCGYViyLaa2RaAuaK1uTwwgrbfJZytNvOfQ0dkSc1; ASP.NET_SessionId=y3x1wrvmb52xx2n5vecdvj4s; .ASPXAUTH=EB311B926251B00952D1F000C0917B01CEE397312B7BE6BFBA06017E3CD6E0E9C3938A131B1F837EB009DFFA51055C465B29CB6147053E83824290D378579C9758D7FFD3CB5A6BC0EC67BA026B639022BF54197468101913AAA40E78E0CB925B; LastGroupMstId=1; LastCompanyCd=Company1; LastUserId=machida; LastText=machida; IsRemember=True
+
+__RequestVerificationToken=znoGXEGI1laE0F834O3pG4w8bnpE4Ef27H3qaCZ0q0aXd-HqJKMP5HdOyNi4_Sd_RYBCwBCIKBmjB2bJo5vp1Dg_DpmiGAnUteFq-GrhK88QitKnqyrpatj7lAgVJwsN0&NewSearch=true&CompanyCd=&EnterpriseNumber=&CompanyNm=&RepresentativeNm=&Prefix=
+HTTP/1.1 200 OK
+Date: Mon, 30 Jan 2017 05:44:03 GMT
+Server: Microsoft-IIS/8.5
+Cache-Control: private, s-maxage=0
+Content-Type: text/html; charset=utf-8
+X-AspNetMvc-Version: 5.0
+X-AspNet-Version: 4.0.30319
+X-Powered-By: ASP.NET
+Content-Length: 1270
+Connection: close
+
+
+    <tr data-id="1">
+        <td>
+            <a href="javascript:void(0)" class="company-action" data-action='edit'>Company1  </a>
+        </td>
+        <td class="ac">1-1111-1111-111 </td>
+        <td>企業１</td>
+        <td></td>
+        <td class="ac">AAA</td>
+        <td class="ac">
+                <a href="javascript:void(0)" class="company-action" data-action="edit">編集</a>
+｜                <a href="javascript:void(0)" class="company-action" data-action="detail">照会</a>
+｜                <a href="javascript:void(0)" class="company-action" data-action="delete">削除</a>
+        </td>
+    </tr>
+    <tr data-id="2">
+        <td>
+            <a href="javascript:void(0)" class="company-action" data-action='edit'>Company3  </a>
+        </td>
+        <td class="ac">1-1111-1111-113 </td>
+        <td>企業３</td>
+        <td></td>
+        <td class="ac">CCC</td>
+        <td class="ac">
+                <a href="javascript:void(0)" class="company-action" data-action="edit">編集</a>
+｜                <a href="javascript:void(0)" class="company-action" data-action="detail">照会</a>
+｜                <a href="javascript:void(0)" class="company-action" data-action="delete">削除</a>
+        </td>
+    </tr>

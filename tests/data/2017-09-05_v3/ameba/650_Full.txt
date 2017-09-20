@@ -1,0 +1,408 @@
+GET http://ucsprofile.ameba.jp/ucs/index.do?frm_id=v.mypage-header--navigation-account------profile HTTP/1.1
+Host: ucsprofile.ameba.jp
+User-Agent: Mozilla/5.0 (Windows NT 6.1; WOW64; rv:51.0) Gecko/20100101 Firefox/51.0
+Accept: text/html,application/xhtml+xml,application/xml;q=0.9,*/*;q=0.8
+Accept-Language: ja,en-US;q=0.7,en;q=0.3
+Referer: http://mypage.ameba.jp/
+Cookie: P=e3791729-5bdb-4aa5-9883-88bf131013c6; _ga=GA1.2.1145132502.1487829810; __utma=257183131.1145132502.1487829810.1487831318.1487831318.1; __utmb=257183131.13.10.1487831318; __utmz=257183131.1487831318.1.1.utmcsr=google|utmccn=(organic)|utmcmd=organic|utmctr=(not%20provided); __gads=ID=df80c22e0b5f7ed3:T=1487831318:S=ALNI_Mak9xY_urv-jSBMPVjsXsX28FLN9w; __utmc=257183131; __utmt=1; _gat=1; regFrmId=2001; N=2c89e21b184519a76dc38e9621972badd6e9654cae8b120e54f20ad420bdd0ecd5b97cb1abc87954ca181430e71cecdac911582263d98b8031939169328b45171aff6346a527cc8d3d2f3b675313deb1; I=104tJtK9swzo9eSyg9thfIroJgNeycKf; tutorial_term=true; aid=0ca44655611da677d4c8ebf68d1ad944c92af4b8
+Connection: close
+Upgrade-Insecure-Requests: 1
+
+
+HTTP/1.1 200 OK
+Date: Thu, 23 Feb 2017 07:27:03 GMT
+X-Frame-Options: DENY
+X-Content-Type-Options: nosniff
+X-XSS-Protection: 1; mode-block
+Set-Cookie: JSESSIONID=02490718B7A8FF3E1AF18C5D6E9D9ADF; Path=/
+Cache-Control: no-store
+Expires: Thu, 23 Feb 2017 07:27:03 GMT
+Set-Cookie: N=2c89e21b184519a76dc38e9621972badd6e9654cae8b120e54f20ad420bdd0ecd5b97cb1abc87954ca181430e71cecdac911582263d98b8031939169328b45171aff6346a527cc8d3d2f3b675313deb1; Domain=.ameba.jp; Expires=Wed, 24-May-2017 07:26:01 GMT; Path=/
+P3P: CP='UNI CUR OUR'
+Content-Type: text/html;charset=UTF-8
+Connection: close
+Transfer-Encoding: chunked
+Set-Cookie: BIGipServer~ca.amb.prd~P_prof-wap=450306058.20480.0000; path=/
+
+33d
+
+<!DOCTYPE html>
+<html lang="ja">
+<head>
+<meta charset="UTF-8">
+<meta http-equiv="X-UA-Compatible" content="IE=edge">
+<meta name="google-site-verification" content="k3RFuKu3LVZe6SUSjGKYCBoUG03kIXniIjXE_eNdW1A">
+<meta name="keywords" content="ブログ,無料,作成,簡単,blog,ランキング,アフィリエイト">
+<meta name="description" content="アメーバブログ（アメブロ）は無料で簡単にブログが作成できます。好みに合わせて選べるデザイン、読者登録、賞金ランキング、アフィリエイト、携帯対応など嬉しい機能満載。">
+<title>プロフィール編集トップ｜Ameba (アメーバ)</title>
+<script type="text/javascript" src="http://stat100.ameba.jp/common_style/js/ameba/mypage/cache.clear.js"></script>
+<script>amb.getHeadScript();</script>
+<link 
+5b4
+type="text/css" rel="stylesheet" title="skin" href="http://stat100.ameba.jp/mypg/css/skins/skin.css" media="screen,print">
+
+<link href="http://stat100.ameba.jp/common_style/img/favicon.ico" rel="shortcut icon">
+<link media="screen,print" href="http://stat100.ameba.jp/room/css/ucs/ucs_common.0.003.css" rel="stylesheet" type="text/css">
+<link rel="stylesheet" href="http://stat100.ameba.jp/room/css/ameba/common/basic.css?120515" type="text/css" media="screen,print">
+<link rel="stylesheet" href="http://stat100.ameba.jp/room/css/ameba/room_ucs/edit_contents.css?120515" type="text/css" media="screen,print">
+<link rel="stylesheet" href="http://stat100.ameba.jp/room/css/ameba/common/side_area.css?120515" type="text/css" media="screen,print">
+<link rel="stylesheet" href="http://stat100.ameba.jp/room/css/ucs/idx_ucs.0.003.css" type="text/css" media="screen,print">
+<!--[if IE 6]>
+<link href="http://stat100.ameba.jp/home/css/ucs/ie6.css?100420" rel="stylesheet" type="text/css" media="screen,print">
+<![endif]-->
+<script type="text/javascript" src="http://stat.ameba.jp/room/js/swfInfo.js"></script>
+<script type="text/javascript" src="http://stat.ameba.jp/room/js/lib/swfobject.js"></script>
+<script type="text/javascript" src="http://stat100.ameba.jp/room/js/room_common.2.000.js"></script>
+<script language="javascript">
+var AMEBA_ID="tester9994";
+var ADD_MUSIC="http://ucsprofile.ameba.jp/ucs/music/authFavoriteMusic.do;jsessionid=02490718B7A8FF3E1AF18C5
+b68
+D6E9D9ADF";
+
+var picture_path_array = new Array() ;
+
+var Popup = null;
+var load = null;
+var FRAUD_REPORT_FORM_URL="/general/fraudReport/showForm.do;jsessionid=02490718B7A8FF3E1AF18C5D6E9D9ADF";
+var FRAUD_REPORT_SEND_URL="/general/fraudReport/sendForm.do;jsessionid=02490718B7A8FF3E1AF18C5D6E9D9ADF";
+
+function initialize(){
+
+
+                new Api( "/ucs/blog/latestEntryShow.do;jsessionid=02490718B7A8FF3E1AF18C5D6E9D9ADF", AMEBA_ID, "blog_div");
+                                    new Api( "/general/amember/getAmemberList.do;jsessionid=02490718B7A8FF3E1AF18C5D6E9D9ADF", AMEBA_ID, "amember_div");
+                            new Present("http://api.present.ameba.jp","http://stat.present.ameba.jp",AMEBA_ID,"digitalItem_div","true");
+                    new Api( "/general/guruppo/getUcsGuruppoList.do;jsessionid=02490718B7A8FF3E1AF18C5D6E9D9ADF", AMEBA_ID, "guruppoArea");
+        
+imgChange.initialize("imgTarget",picture_path_array);
+}
+
+if(window.addEventListener) window.addEventListener("load", initialize, false);
+else if(window.attachEvent) window.attachEvent("onload", initialize);
+</script>
+
+<script type="text/javascript" src="http://stat.ameba.jp/common_style/js/library/jquery-1.7.1.min.js"></script>
+<script type="text/javascript">var $j = jQuery.noConflict();</script>
+<script type="text/javascript" src="http://stat.ameba.jp/common_style/js/library/jquery.cookie.js"></script>
+<script type="text/javascript">
+var _gaq = _gaq || [];
+    _gaq.push(['amb._setAccount', 'UA-7203563-15']);
+    _gaq.push(['amb._setDomainName', '.ameba.jp']);
+    _gaq.push(['amb._setAllowLinker', true]);
+    _gaq.push(['amb._setAllowHash', false]);
+    _gaq.push(['amb._trackPageview']);
+
+   _gaq.push(['_setAccount', 'UA-7203563-23']);
+   _gaq.push(['_setDomainName', '.ameba.jp']);
+   _gaq.push(['_setAllowHash', false]);
+   _gaq.push(['_trackPageview']);
+   (function() {
+     var ga = document.createElement('script'); ga.type =
+'text/javascript'; ga.async = true;
+     ga.src = ('https:' == document.location.protocol ? 'https://ssl'
+: 'http://www') + '.google-analytics.com/ga.js';
+     var s = document.getElementsByTagName('script')[0];
+s.parentNode.insertBefore(ga, s);
+   })();
+</script>
+<script type='text/javascript'>
+var googletag = googletag || {};
+googletag.cmd = googletag.cmd || [];
+(function() {
+var gads = document.createElement('script');
+gads.async = true;
+gads.type = 'text/javascript';
+var useSSL = 'https:' == document.location.protocol;
+gads.src = (useSSL ? 'https:' : 'http:') +
+'//www.googletagservices.com/tag/js/gpt.js';
+var node = document.getElementsByTagName('script')[0];
+node.parentNode.insertBefore(gads, node);
+})();
+</script>
+
+<script type='text/javascript'>
+googletag.cmd.push(function() {
+googletag.defineSlot('/7765/pc_mypage_footer', [728, 90], 'div-gpt-ad-1409825244233-0').addService(googletag.pubads());
+googletag.defineSlot('/7765/PremiumPanel_Action', [300, 250], 'div-gpt-a
+b9f
+d-1410145646599-0').addService(googletag.pubads());
+googletag.enableServices();
+});
+</script>
+</head>
+
+
+<body>
+<noscript><iframe src="//www.googletagmanager.com/ns.html?id=GTM-WHNR29"
+height="0" width="0" style="display:none;visibility:hidden"></iframe></noscript>
+<script>(function(w,d,s,l,i){w[l]=w[l]||[];w[l].push({'gtm.start':
+new Date().getTime(),event:'gtm.js'});var f=d.getElementsByTagName(s)[0],
+j=d.createElement(s),dl=l!='dataLayer'?'&l='+l:'';j.async=true;j.src=
+'//www.googletagmanager.com/gtm.js?id='+i+dl;f.parentNode.insertBefore(j,f);
+})(window,document,'script','dataLayer','GTM-WHNR29');</script>
+<!--[if IE 6]>
+<div id="ie6update">
+<div id="ie6updateClose">
+<a href="#" onClick="this.parentNode.parentNode.style.display='none';"><img src="http://stat100.ameba.jp/common_style/img/common/icon/close.gif" /></a>
+</div>
+<p>
+<span>
+お使いのブラウザはサポートされていません。<a href="http://helps.ameba.jp/faq/others/5510/top_08.html" target="_blank">推奨環境</a>をご確認の上、ブラウザをアップグレードしてください。
+</span>
+</p>
+</div>
+<![endif]-->
+
+
+
+<div id="globalHeader" class="noActive"><div id="globalHeaderTop"></div></div><!--//#globalHeader-->
+
+<div id="ucsContent" class="content">
+<div id="ucsHeader">
+<p id="ucsHeaderTitle">プロフィール</p>
+<ul id="ucsSubMenu">
+<li id="myUcsPage">自分の公開ページ</li>
+<li><a href="http://profile.ameba.jp/tester9994/" target="_blank">プロフィール</a></li> 
+<li><a href="http://ameblo.jp/tester9994/" target="_blank">ブログ</a></li>
+</ul>
+</div><!--//ucsHeader-->
+
+<div id="ucsMenu" class="ucsBlogMenu">
+<ul>
+
+<li><span class="lev1">プロフィール編集</span>
+<ul>
+<li><a href="/ucs/index.do;jsessionid=02490718B7A8FF3E1AF18C5D6E9D9ADF" class="lev2 active">編集トップ</a></li>
+<li><a href="/ucs/profile/editBasicInfoInput.do;jsessionid=02490718B7A8FF3E1AF18C5D6E9D9ADF" class="lev2">基本情報</a></li>
+<li><a href="/ucs/editMyProfile.do;jsessionid=02490718B7A8FF3E1AF18C5D6E9D9ADF?categoryId=1" class="lev2">マイプロフィール</a></li>
+<li><a href="/ucs/freespace1/show.do;jsessionid=02490718B7A8FF3E1AF18C5D6E9D9ADF" class="lev2">自己紹介</a></li>
+<li><a href="/ucs/editPictureInput.do;jsessionid=02490718B7A8FF3E1AF18C5D6E9D9ADF" class="lev2">プロフィール画像</a></li>
+<li><a href="/ucs/freespace2/show.do;jsessionid=02490718B7A8FF3E1AF18C5D6E9D9ADF" class="lev2">フリースペース</a></li>
+<li><a href="/ucs/design/edit.do;jsessionid=02490718B7A8FF3E1AF18C5D6E9D9ADF" class="lev2">色・背景の変更</a></li>
+<li><a href="/ucs/layout/showLayout.do;jsessionid=02490718B7A8FF3E1AF18C5D6E9D9ADF" class="lev2 last">配置の変更</a></li>
+
+</ul>
+</li>
+
+
+
+</ul></div><!--//ucsMenu-->
+
+
+
+<div id="ucsMainContent" class="clearFix">
+
+<div id="centercaution">
+<h1>編集トップ</h1>
+<p id="aboutThisPage">画像を設定したり自己紹介を書いたりして、プロ
+5ae
+フィールをつくろう！</p>
+<!--<p class="caution"><span>この画面は簡易プレビューです。「色・背景の変更」は</span><a href="http://profile.ameba.jp/tester9994" target="_blank"　style="font-weight:bold;">公開ページ</a>でご確認ください。</p>-->
+<p class="iconAttention caution"><span>この画面は簡易プレビューです。「色・背景の変更」は</span><a href="http://profile.ameba.jp/tester9994" target="_blank" style="font-weight:bold;">公開ページ</a>でご確認ください。</p>
+
+
+<div id="helpRight">
+<p class="help"><a href="http://helps.ameba.jp/qguide/room/">プロフィールとは</a></p>
+</div><!--//helpRight-->
+
+</div><!--//centercaution-->
+
+<div id="publicContent" class="clearFix">
+<div id="contentsAreaInn" class="clearFix">
+<div id="roomNaviArea">
+<h2>tester9994</h2>
+<p id="miniNavi">
+<a href="/ucs/design/edit.do;jsessionid=02490718B7A8FF3E1AF18C5D6E9D9ADF">[色・背景の変更]</a>
+<a href="/ucs/layout/showLayout.do;jsessionid=02490718B7A8FF3E1AF18C5D6E9D9ADF">[配置の変更]</a>
+</p>
+</div><!-- //roomNaviArea -->
+
+
+
+<div id="leftArea">
+
+<div id="profileDetail" class="clearFix">
+
+<div class="ImgTitle">
+<h3 class="ttlImage"><a href="/ucs/editPictureInput.do"><img src="http://stat.ameba.jp/room/img/ameba/room_profile/ttl_h2_image.gif" alt="プロフィール画像を設定する" /></a></h3><p class="linkEstablish"><a href="/ucs/editPictureInput.do">[&nbsp
+9a3
+;編集&nbsp;]</a></p>
+</div>
+
+<div id="userfDetl" class="clearFix">
+<div id="userImg">
+<a href="/ucs/editPictureInput.do"><span id="imgTarget"><img src="http://stat.profile.ameba.jp/profile_images/common/noimage_m.gif" width="145" height="145" alt="no image" onload="imageResize(this,'145');" /></span></a>
+</div><!--//userImg-->
+<div id="userLink">
+<ul>
+<li id="readerLink">読者になる</li>
+<li id="msgLink">メッセージを送る</li>
+<li id="amemberLink">アメンバーになる</li>
+<li id="piggtomoLink">ピグともになる</li>
+<li id="petaLink">ペタをつける</li>
+
+
+</ul>
+</div><!--//userLink-->
+</div><!--//userfDetl-->
+
+<div id="nowModule">
+</div><!--//nowModule-->
+
+<div id="profData">
+<h2>プロフィール</h2>
+<div class="ImgTitle">
+<h3 class="ttlImage"><a href="/ucs/profile/editBasicInfoInput.do"><img src="http://stat.ameba.jp/room/img/ameba/room_profile/ttl_h2_profile.gif" alt="基本情報を入れる" /></a></h3><p class="linkEstablish"><a href="/ucs/profile/editBasicInfoInput.do">[&nbsp;編集&nbsp;]</a></p>
+</div><!-- //ImgTitle -->
+<p class="clearFix"></p>
+<dl class="clearFix">
+<dt>ニックネーム</dt>
+<dd>tester9994</dd>
+                            <dt>性別</dt>
+<dd>男性</dd>
+                                                    
+
+            
+
+            
+
+</dl>
+</div><!--//profData-->
+
+</div><!--//profileDetail-->
+                        <div id="myMessage">
+<h2>自己紹介</h2>
+<div class="ImgTitle">
+<h3 class="ttlshokai"><a href="/ucs/freespace1/show.do"><img src="http://stat.ameba.jp/room/img/ameba/room_profile/ttl_h2_syokai.gif" alt="自己紹介を書く" /></a></h3><p class="linkEstablish"><a href="/ucs/freespace1/show.do">[&nbsp;編集&nbsp;]</a></p>
+</div>
+</div><!--//myMessage-->
+                                    <div id="profileList" class="clearFix">
+<h2>マイプロフィール</h2>
+<div class="ImgTitle">
+<h3 class="ttlDitail"><a href="http://ucsprofile.ameba.jp/ucs/editMyProfile.do?categoryId=1"><img src="http://stat.ameba.jp/room/img/ameba/room_profile/ttl_h2_ditail.gif" alt="マイプロフィールを編集する" /></a></h3><p class="linkEstablish"><a href="http://ucsprofile.ameba.jp/ucs/editMyProfile.do?categoryId=1">[&nbsp;編集&nbsp;]</a></p>
+</div>
+<div id="myProfileArea" class="clearFix">
+
+<div id="myProfileStandard">
+
+<div class="myProfileTtl clearFix">
+<h3>定番</h3>
+<a class="edit" href="/ucs/editMyProfile.do?categoryId=1" title="マイプロ�
+1c5
+��ィール：定番を編集する">[&nbsp;編集&nbsp;]</a>
+</div>
+</div><!--//myProfileStandard-->
+
+
+<div id="myProfileTaste">
+<div class="myProfileTtl clearFix">
+<h3>好き嫌い</h3>
+<a class="edit" href="/ucs/editMyProfile.do?categoryId=2" title="マイプロフィール：好き嫌いを編集する">[&nbsp;編集&nbsp;]</a>
+</div>
+</div><!--//myProfileTaste-->
+
+
+<div id="myProfileOther">
+<div class="myProfileTtl clearFix">
+<h3
+5b4
+>その他</h3>
+<a class="edit" href="/ucs/editMyProfile.do?categoryId=3" title="マイプロフィール：その他を編集する">[&nbsp;編集&nbsp;]</a>
+</div>
+<dl class="clearFix">
+
+</dl>
+</div><!--//myProfileOther-->
+
+
+</div><!--//myProfileArea-->
+</div><!--//profileList-->
+
+            </div><!--//leftArea-->
+
+<div id="rightArea">
+            <div id="blog_div"></div>
+                                    <div id="freeSpace" class="clearFix">
+		<div class="subTitle">
+	<h2>
+					フリースペース
+			</h2>
+
+
+	</div>
+	
+	<div class="ImgTitle">
+<h3 class="ttlFreespace"><a href="/ucs/freespace2/show.do;jsessionid=02490718B7A8FF3E1AF18C5D6E9D9ADF"><img src="http://stat.ameba.jp/room/img/ameba/room_profile/ttl_h2_freespace.gif" alt="自分の好きなことを書いてみる" /></a></h3><p class="linkEstablish"><a href="/ucs/freespace2/show.do;jsessionid=02490718B7A8FF3E1AF18C5D6E9D9ADF">[&nbsp;編集&nbsp;]</a></p>
+</div>
+
+		
+</div><!--//freeSpace-->
+                                    
+<div id="amemberList">
+<div class="subTitle">
+<h2>アメンバー </h2>
+</div><!--//subTitle-->
+<div class="ImgTitle">
+<h3 class="ttlAmember"><a href="http://ucsamember.ameba.jp/amemberList.do"><img src="http://stat.ameba.jp/room/img/ameba/room_profile/ttl_h2_amember.gif" alt="アメンバーを修正する" /></a></h3><p class="linkEstablish"><a href="http://ucsamember.ameba.jp/amemberList.do">[&nbsp;編集&nbsp;]</a></p>
+
+5b4
+</div>
+
+<div id="amember_div"></div>
+            <div id="amembeFooter">
+<p class="amemberMailLink"><a href="javascript:;" onclick="myWin = window.open('http://ucsamember.ameba.jp/sendMail.do' , 'pop','scrollbars=yes,resizable=yes,width=490,height=600')">もっと友人を招待しよう</a></p>
+</div><!--//amemberFooter-->
+
+</div>
+
+                        <div id="presentSpace">
+<div class="subTitle">
+<h2>プレゼント</h2>
+</div>
+<div class="ImgTitle">
+<h3 class="ttlAmember"><a href="http://present.ameba.jp/ucs/select/sort" class="edit"><img src="http://stat.ameba.jp/room/img/ameba/room_profile/ttl_h2_present.gif" alt="もらったプレゼントを編集する" /></a></h3>
+<p class="linkEstablish"><a href="http://present.ameba.jp/ucs/select/sort">[&nbsp;編集&nbsp;]</a></p>
+</div>
+<div id="digitalItem_div"></div>
+</div>
+
+                        <div id="guruppoArea"></div>
+
+            
+
+
+</div><!--//rightArea-->
+</div><!--//contentsAreaInn-->
+</div><!--//publicContent -->
+</div><!--//ucsMainContent -->
+</div><!--//ucsContent-->
+
+
+<div id="footerAd">
+<!-- pc_mypage_footer -->
+<div id='div-gpt-ad-1409825244233-0' style='width:728px; height:90px;'>
+<script type='text/javascript'>
+googletag.cmd.push(function() { googletag.display('div-gpt-ad-1409825244233-0'); });
+</script>
+</div>
+</div><!--//footerAd-->
+
+
+<script type="text/javascript">var $j = jQuery.noConflict();</script>
+
+
+<script>
+var amebaId = "tester9994";
+amb.
+111
+getFooterScript();
+</script>
+<script type="text/javascript" src="http://stat100.ameba.jp/mypg/js/libs/outerClick.js"></script>
+<!-- //footerArea -->
+
+<script type="text/javascript" src="http://stat100.ameba.jp/room/js/general/general.3.000.js"></script>
+</body>
+</html>
+
+0
+

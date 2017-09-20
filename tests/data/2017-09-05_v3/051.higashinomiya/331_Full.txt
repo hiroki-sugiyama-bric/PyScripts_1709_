@@ -1,0 +1,25 @@
+POST https://www3.golfyoyaku.jp/rsv_sys/higashinomiya/user/edit_profile_result/ HTTP/1.1
+Host: www3.golfyoyaku.jp
+User-Agent: Mozilla/5.0 (Windows NT 6.1; WOW64; rv:52.0) Gecko/20100101 Firefox/52.0
+Accept: text/html,application/xhtml+xml,application/xml;q=0.9,*/*;q=0.8
+Accept-Language: ja,en-US;q=0.7,en;q=0.3
+Accept-Encoding: gzip, deflate, br
+Referer: https://www3.golfyoyaku.jp/rsv_sys/higashinomiya/user/edit_profile_confirmation/
+Cookie: CAKEPHP=bfnm90vsdrte3r5jfer4lsb1l4; OPEN3ID=7bcbbf5b72efe0a05697fc19d9b1606fd178bbc3; OPEN3AUTH=7f27d25b7ace35f13821b1a7a9c170b8e257316d
+Connection: close
+Upgrade-Insecure-Requests: 1
+Content-Type: application/x-www-form-urlencoded
+Content-Length: 1150
+
+_method=POST&ok.x=57&ok.y=22&data%5BSerialized%5D%5Buser%5D=a%3A6%3A%7Bs%3A10%3A%22first_name%22%3Bs%3A6%3A%22%E5%A4%AA%E9%83%8E%22%3Bs%3A11%3A%22family_name%22%3Bs%3A9%3A%22%E6%89%8B%E5%B7%A3%E5%B0%BE%22%3Bs%3A15%3A%22first_name_kana%22%3Bs%3A9%3A%22%E3%82%BF%E3%83%AD%E3%82%A6%22%3Bs%3A16%3A%22family_name_kana%22%3Bs%3A9%3A%22%E3%83%86%E3%82%B9%E3%82%AA%22%3Bs%3A12%3A%22gender_class%22%3Bi%3A0%3Bs%3A8%3A%22birthday%22%3Bs%3A10%3A%222000-01-01%22%3B%7D&data%5BSerialized%5D%5BuserHash%5D=2dbf597a7a40c98aa0780a3c060dd5c2d894d66f&data%5BSerialized%5D%5Bdata%5D=a%3A3%3A%7Bs%3A4%3A%22Name%22%3Ba%3A4%3A%7Bs%3A11%3A%22family_name%22%3Bs%3A9%3A%22%E6%89%8B%E5%B7%A3%E5%B0%BE%22%3Bs%3A10%3A%22first_name%22%3Bs%3A6%3A%22%E5%A4%AA%E9%83%8E%22%3Bs%3A16%3A%22family_name_kana%22%3Bs%3A9%3A%22%E3%83%86%E3%82%B9%E3%82%AA%22%3Bs%3A15%3A%22first_name_kana%22%3Bs%3A9%3A%22%E3%82%BF%E3%83%AD%E3%82%A6%22%3B%7Ds%3A4%3A%22Date%22%3Ba%3A3%3A%7Bs%3A4%3A%22year%22%3Bs%3A4%3A%222000%22%3Bs%3A5%3A%22month%22%3Bs%3A1%3A%221%22%3Bs%3A3%3A%22day%22%3Bs%3A1%3A%221%22%3B%7Ds%3A11%3A%22EditingUser%22%3Ba%3A1%3A%7Bs%3A12%3A%22gender_class%22%3Bs%3A1%3A%220%22%3B%7D%7D
+HTTP/1.1 302 Found
+Content-Type: text/html
+Date: Thu, 06 Apr 2017 06:12:23 GMT
+Location: https://www3.golfyoyaku.jp/rsv_sys/higashinomiya/user/edit_profile_completed/
+P3P: CP="NOI ADM DEV PSAi COM NAV OUR OTRo STP IND DEM"
+Set-Cookie: OPEN3ID=c7f858a3e5291da6a5a1aa47f6f69404f7009d64; expires=Thu, 13-Apr-2017 06:12:23 GMT; path=/; domain=.golfyoyaku.jp
+Set-Cookie: OPEN3ID=6281c563ed2c8015ca79e1e4d2f67bafc12d9215; expires=Thu, 13-Apr-2017 06:12:24 GMT; path=/; domain=.golfyoyaku.jp
+Content-Length: 0
+Connection: Close
+Server: Scutum
+

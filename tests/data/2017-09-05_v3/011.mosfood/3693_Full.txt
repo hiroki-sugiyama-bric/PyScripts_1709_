@@ -1,0 +1,376 @@
+GET http://mos.jp/logout/ HTTP/1.1
+Host: mos.jp
+User-Agent: Mozilla/5.0 (Windows NT 6.1; rv:52.0) Gecko/20100101 Firefox/52.0
+Accept: text/html,application/xhtml+xml,application/xml;q=0.9,*/*;q=0.8
+Accept-Language: ja,en-US;q=0.7,en;q=0.3
+Referer: http://mos.jp/
+Cookie: __mosid__=m58e4b87ea14934.72785550; _ga=GA1.2.91264095.1491384453; sp_key=2MQcj6yeRo
+Connection: close
+Upgrade-Insecure-Requests: 1
+
+
+HTTP/1.1 200 OK
+Date: Wed, 05 Apr 2017 09:42:53 GMT
+Server: Apache
+Set-Cookie: PHPSESSID=96fs5peq3gr7ts4otg34eskg14; expires=Tue, 04-Jul-2017 09:42:53 GMT; path=/; domain=.mos.jp
+Expires: Thu, 19 Nov 1981 08:52:00 GMT
+Cache-Control: no-store, no-cache, must-revalidate, post-check=0, pre-check=0
+Pragma: no-cache
+Vary: Accept-Encoding
+Connection: close
+Transfer-Encoding: chunked
+Content-Type: text/html; charset=UTF-8
+
+f66
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+<html xmlns="http://www.w3.org/1999/xhtml">
+  <head>
+    <meta http-equiv="Content-Type" content="text/html; charset=utf-8"/>
+    <title>ログアウト | モスバーガー公式サイト</title>
+    <meta name="description" content="モス WEB会員のログアウトのページ。モスバーガーの公式サイトです。"/>
+    <meta name="keywords" content="モス,モスバーガー,MOS,MOS BURGER,ログアウト,ログイン,マイ店舗,こども会員"/>
+    <meta property="og:title" content="ログアウト | モスバーガー公式サイト"/>
+    <meta property="og:description" content="モス WEB会員のログアウトのページ。モスバーガーの公式サイトです。"/>
+    <meta property="og:image" content="http://img.mos.jp/apple-touch-icon-precomposed.png"/>
+    <meta property="fb:app_id" content="333980463434050" />
+    <meta property="og:site_name" content="モスバーガー" />
+    <meta property="og:type" content="company"/>
+    <meta property="og:local" content="ja_JP"/>
+    <meta name="viewport" content="width=device-width, initial-scale=1, maximum-scale=1.0, user-scalable=no"/>
+    <meta name="format-detection" content="telephone=no"/>
+    <link rel="shortcut icon" type="image/x-icon" href="http://img.mos.jp/favicon.ico"/>
+    <link rel="apple-touch-icon-precomposed" href="http://img.mos.jp/apple-touch-icon-precomposed.png"/>
+    <link rel="stylesheet" type="text/css" href="http://img.mos.jp/css/re-import.css"/>
+    <link rel="stylesheet" href="http://img.mos.jp/js/lib/Magnific-Popup-0.9.9/magnific-popup.css"/>
+    <!--Google Analytics -->
+
+
+<script>
+  (function(i,s,o,g,r,a,m){i['GoogleAnalyticsObject']=r;i[r]=i[r]||function(){
+  (i[r].q=i[r].q||[]).push(arguments)},i[r].l=1*new Date();a=s.createElement(o),
+  m=s.getElementsByTagName(o)[0];a.async=1;a.src=g;m.parentNode.insertBefore(a,m)
+  })(window,document,'script','//www.google-analytics.com/analytics.js','ga');
+
+
+ga('create', 'UA-22874959-7', {
+    'allowLinker': true,
+    'cookieDomain': 'mos.jp',
+    'sampleRate': '10'
+});
+ga('require', 'displayfeatures');
+ga('require', 'linker');
+ga('linker:autoLink', ['mos.co.jp','mos.svy.io']);
+ga('set', 'dimension1', 'no');
+ga('set', 'dimension3', 'unknown');
+ga('set', 'dimension4', 'unknown');
+ga('set', 'dimension5', 'unknown');
+ga('set', 'dimension6', 'unknown');
+
+
+ga('send', 'pageview');
+</script>
+
+
+
+
+
+  </head>
+  <body>
+    <div class="container single">
+
+
+<noscript>
+  <div class="frame-red">
+    <div class="heading">ご利用のブラウザはJavaScript機能が無効になっています。</div>
+    <div class="noteText-rs">無効の状態ですと、ページの表示に影響があったり、一部機能がご利用になれない場合がございます。<br/>JavaScript機能を有効に設定してからご利用くださるようお願いします。</div>
+  </div>
+</noscript>
+<div id="top" class="header">
+  <div class="pc">
+    <div class="navGlobalSub">
+      <div class="clearfix">
+        <ul class="btnList">
+          <li><a href="http://www.mos.co.jp/global/" target="_blank" onclick="ga('send', 'event', 'hd', 'click', '/global/');"><span><img src="http://img.mos.jp/img/structure/button_global.png" alt="Global Site"/></span></a></li>
+          <li><a href="http://www.mos.co.jp/company/" target="_blank" onclick="ga('send', 'event', 'hd', 'click', '/company/');"><span><img src="http://img.mos.jp/img/structure/button_company.png" alt="企業サイト"/></span></a></li>
+        </ul>
+
+                <p class="login"><a href="https://ssl.mos.jp/auth/" onclick="ga('send', 'event', 'hd', 'click', '/auth/');"><img src="http://img.mos.jp/img/structure/button_login.png" alt="ログイン"/></a></p>
+                <p class="staff"><a href="http://mos.jp/shop/job/" onclick="ga('send', 'event'
+5b4
+, 'hd', 'click', '/shop/job/');"><img src="http://img.mos.jp/img/structure/button_staff.png" alt="モスバーガーのアルバイト・パート求人情報"/></a></p>
+      </div>
+    </div>
+    <div class="navGlobal">
+      <div class="clearfix">
+        <p class="logo"><a href="http://mos.jp/" onclick="ga('send', 'event', 'hd', 'click', '/');"><img src="http://img.mos.jp/img/structure/logo.png" alt="MOS BURGER"/></a></p>
+        <ul class="clearfix">
+          <li class="hasChild menu"><a href="http://mos.jp/menu/" onclick="ga('send', 'event', 'hd', 'click', '/menu/');"><img src="http://img.mos.jp/img/structure/menu.png" alt="メニュー"/></a>
+                                  <div class="dropmenu"  data-id="1404448324650-00000001-51413090">
+  <div class="frame">
+    <div class="clearfix">
+      <div class="col menus">
+        <div>
+          <ul class="clearfix">
+            <li data-id="1404448379799-00000006-75123453"><a href="http://mos.jp/menu/category/?c_id=26"><img src="http://img.mos.jp/img/structure/menu/limited.png" alt="期間・季節・数量限定メニュー"/></a></li><li data-id="1404448385046-00000010-02243927"><a href="http://mos.jp/menu/category/?c_id=27"><img src="http://img.mos.jp/img/structure/menu/tobikiri.png" alt="とびきりハンバーグサンドシリーズ"/></a></li><li data-id="1404448387201-00000015-23765863"><a href="http://mos.jp/menu/category/?c_id=1"><img src="http://img.mos.jp/img/s
+b68
+tructure/menu/hamburgers.png" alt="ハンバーガー"/></a></li><li data-id="1404448398184-00000055-18533590"><a href="http://mos.jp/menu/category/?c_id=35"><img src="http://img.mos.jp/img/structure/menu/rice-hotdogs.png" alt="モスライスバーガー／ホットドッグ"/></a></li><li data-id="1404448389317-00000021-64884566"><a href="http://mos.jp/menu/category/?c_id=30"><img src="http://img.mos.jp/img/structure/menu/natsumi.png" alt="モスの菜摘（なつみ）"/></a></li><li data-id="1404448391637-00000028-93409641"><a href="http://mos.jp/menu/category/?c_id=33"><img src="http://img.mos.jp/img/structure/menu/soypatty.png" alt="ソイパティ"/></a></li><li data-id="1404448393337-00000036-24226865"><a href="http://mos.jp/menu/category/?c_id=7"><img src="http://img.mos.jp/img/structure/menu/sidemenu.png" alt="サイドメニュー"/></a></li><li data-id="1404448395973-00000045-11752398"><a href="http://mos.jp/menu/category/?c_id=34"><img src="http://img.mos.jp/img/structure/menu/drinks_soup.png" alt="ドリンク／スープ"/></a></li><li data-id="1404449249927-00000011-19796748"><a href="http://mos.jp/menu/category/?c_id=9"><img src="http://img.mos.jp/img/structure/menu/desserts.png" alt="デザート"/></a></li><li data-id="1404449278927-00000023-20169929"><a href="http://mos.jp/menu/category/?c_id=11"><img src="http://img.mos.jp/img/structure/menu/moswaiwai.png" alt="モスワイワイセット（お子さま向け）"/></a></li><li data-id="1408606479942-00000014-19042498"><a href="http://mos.jp/menu/category/?c_id=32"><img src="http://img.mos.jp/img/structure/menu/allergy.png" alt="低アレルゲンセット（お子さま向け）"/></a></li><li data-id="1404449311086-00000036-58786191"><a href="http://mos.jp/menu/category/?c_id=12"><img src="http://img.mos.jp/img/structure/menu/asamos.png" alt="朝モス"/></a></li>
+          </ul>
+        </div>
+      </div>
+      <div class="col recommended">
+        <a href="/menu/detail/011420/" class="night all"   ><img src="/img/structure/menu/recommended_04.png" alt="night"/></a>
+      </div>
+    </div>
+    <div class="link"><a href="http://mos.jp/menu/"><span>メニューTOPヘ</span></a></div>
+  </div>
+</div>
+                    </li>
+          <li class="hasChild shop"><a href="http://mos.jp/shop/" onclick="ga('send', 'event', 'hd', 'click', '/shop/');"><img src="http://img.mos.jp/img/structure/shop.png" alt="店舗案内"/></a>
+            <div class="dropmenu">
+              <div class="frame">
+                <div class="col">
+                  <div>
+                    <ul class="clearfix">
+                      <li><a href="http://mos.jp/shop/"><img src="http://img.mos.jp/img/structure/shop/shop.png" alt="お店を検索"/></a></li>
+                      <li><a href="http://mos.jp/shop/netorder/"><img src="http://img.mos.jp/img/structure/shop/netorder.png" alt="モスのネット注文"/></a>
+b68
+</li>
+                      <li><a href="http://mos.jp/shop/service/"><img src="http://img.mos.jp/img/structure/shop/service.png" alt="モスのサービス紹介"/></a></li>
+                      <li><a href="http://mos.jp/shop/group/"><img src="http://img.mos.jp/img/structure/shop/introduction.png" alt="グループ店舗紹介"/></a></li>
+                      <li><a href="http://mos.jp/shop/job/"><img src="http://img.mos.jp/img/structure/shop/job.png" alt="モスバーガーのアルバイト・パート求人情報"/></a></li>
+                      <li><a href="http://mos.jp/mosca/"><img src="http://img.mos.jp/img/structure/shop/mosca.png" alt="モスカード"/></a></li>
+                      <li><a href="http://mos.jp/shop/foreign/"><img src="http://img.mos.jp/img/structure/shop/foreign.png" alt="海外のモス"/></a></li>
+                    </ul>
+                  </div>
+                </div>
+                <div class="col myshop">
+                  <div>
+                                      <div>
+                      <div class="mediaBox clearfix">
+                        <div class="media"><img src="http://img.mos.jp/img/structure/shop/myshop.png" alt="マイ店舗"/></div>
+                        <div class="text">マイ店舗を登録しよう！（会員限定）<br/><span class="fz-s">よくご利用いただく店舗をマイ店舗にご登録いただくと、店舗限定のクーポンやお得な情報をお届けします！マイ店舗には、最大20件登録可能です!!　</span><br/><span class="noteText-rs">※マイ店舗機能のご利用には会員登録が必要です。</span></div>
+                      </div>
+                      <ul class="clearfix linkList inline">
+                        <li><a href="https://ssl.mos.jp/mm/">新規会員登録</a></li><!--
+                        --><li><a href="https://ssl.mos.jp/auth/">ログイン</a></li><!--
+                        -->
+                      </ul>
+                    </div>
+                                    </div>
+                </div>
+                <div class="link"><a href="http://mos.jp/shop/"><span>店舗案内トップへ</span></a></div>
+              </div>
+            </div>
+          </li>
+          <li class="hasChild omoi"><a href="http://mos.jp/omoi/" onclick="ga('send', 'event', 'hd', 'click', '/omoi/');"><img src="http://img.mos.jp/img/structure/omoi.png" alt="モスの想い"/></a>
+          </li>
+
+
+<!-- ▼ プレゼントキャンペーンなし -->
+
+<!-- 未ログイン -->
+<li class="hasChild enjoy"><a href="http://mos.jp/enjoy/" onclick="ga('send', 'event', 'hd', 'click', '/enjoy/');"><img src="http://img.mos.jp/img/structure/enjoy.png" alt="お楽しみ"/></a>
+  <div class="dropmenu">
+    <div class="frame">
+      <div class="col">
+        <div>
+          <ul class="clearfix">
+            <li class="coupo
+b68
+n">
+              <div>
+                <div>
+                  <div class="couponCampaign">
+                    <div class="boxWrap">
+                      
+                    
+                      
+                      <!-- 未ログイン・クーポンなし -->
+                      <div class="box no-login">
+                        <div class="heading">会員登録で、特典がいっぱい！</div>
+                        <div class="content">
+                          <div class="text">
+                            <p>メールマガジンやプレゼントキャンペーン、クーポンなど<br />
+                              特典いっぱい！</p>
+                            <ul class="linkList mt-m">
+                              <li><a href="http://mos.jp/about/#member"><span>モス WEB会員特典</span></a></li>
+                            </ul>
+                          </div>
+                          <div><a href="https://ssl.mos.jp/mm/" class="button-cv"><span>新規会員登録へ進む</span></a></div>
+                        </div>
+                      </div>
+                      <!-- /未ログイン・クーポンなし -->
+                      
+                      </div>
+                  </div>
+                </div>
+              </div>
+            </li>
+            <li><a href="http://mos.jp/enjoy/movie/"><img src="http://img.mos.jp/img/structure/enjoy/movie.png" alt="モスの動画"/></a></li>
+            <li><a href="http://mos.jp/member/wallpaper/"><img src="http://img.mos.jp/img/structure/enjoy/wallpaper.png" alt="モスの壁紙"/></a></li>
+            <li><a href="http://mos.jp/enjoy/mpg/"><img src="http://img.mos.jp/img/structure/enjoy/gift.png" alt="ポチッとギフト"/></a></li>
+          </ul>
+        </div>
+      </div>
+      <div class="link"><a href="http://mos.jp/enjoy/"><span>お楽しみトップへ</span></a></div>
+    </div>
+  </div>
+</li>
+<!-- /未ログイン -->
+<!-- ▲ プレゼントキャンペーンなし -->
+
+<!-- ▼ プレゼントキャンペーンあり -->
+<!-- 未対応 -->
+<!-- ▲ プレゼントキャンペーンあり -->
+
+
+
+          <li class="hasChild community"><a href="http://mos.jp/community/" onclick="ga('send', 'event', 'hd', 'click', '/community/');"><img src="http://img.mos.jp/img/structure/community.png" alt="コミュニティ"/></a>
+            <div class="dropmenu">
+              <div class="frame">
+                <div class="col">
+                  <div>
+                    <ul class="clearfix">
+                      <li><a href="https://www.facebook.com/mosburger" target="_blank" onclick="ga('send', 'event', 'hd_mnav', 'click', 'https://www.facebook.com/mosburger');"><img src="http://img.mos.jp/img/structure/community/facebook.png" alt="モスバーガー公式Facebookページ"/></a></li>
+                      <li>
+5b4
+<a href="https://twitter.com/mos_burger" target="_blank" onclick="ga('send', 'event', 'hd_mnav', 'click', 'https://twitter.com/mos_burger');"><img src="http://img.mos.jp/img/structure/community/twitter.png" alt="モスバーガー公式Twitterアカウント"/></a></li>
+                      <li><a href="http://mos.jp/moswaiwai/"><img src="http://img.mos.jp/img/structure/community/waiwai.png" alt="モスワイワイコンテンツ"/></a></li>
+                      <li><a href="http://mos.jp/community/mosday/"><img src="http://img.mos.jp/img/structure/community/mosday.png" alt="モスの日"/></a></li>
+                    </ul>
+                  </div>
+                </div>
+                <div class="link"><a href="http://mos.jp/community/"><span>コミュニティトップへ</span></a></div>
+              </div>
+            </div>
+          </li>
+          <li class="hasChild quality"><a href="http://mos.jp/quality/" onclick="ga('send', 'event', 'hd', 'click', '/quality/');"><img src="http://img.mos.jp/img/structure/quality.png" alt="モスの安心・安全"/></a>
+            <div class="dropmenu">
+              <div class="frame">
+                <div class="col">
+                  <div>
+                    <ul class="clearfix">
+                      <li><a href="http://mos.jp/quality/vegetables/"><img src="http://img.mos.jp/img/structure/quality/vegetables.png" alt="モスの生野菜"/></a></li>
+                 
+b68
+     <li><a href="http://mos.jp/quality/product_info/"><img src="http://img.mos.jp/img/structure/quality/product_info.png" alt="栄養成分情報・アレルギー情報・主要原産地情報"/></a></li>
+                      <li><a href="http://mos.jp/quality/trace/"><img src="http://img.mos.jp/img/structure/quality/trace.png" alt="食材がお店に届くまで"/></a></li>
+                      <li><a href="http://mos.jp/quality/system/"><img src="http://img.mos.jp/img/structure/quality/system.png" alt="モスの品質管理基準"/></a></li>
+                      <li><a href="http://mos.jp/quality/hygienic/"><img src="http://img.mos.jp/img/structure/quality/hygienic.png" alt="モスの衛生管理"/></a></li>
+                    </ul>
+                  </div>
+                </div>
+                <div class="link"><a href="http://mos.jp/quality/"><span>モスの安心・安全トップへ</span></a></div>
+              </div>
+            </div>
+          </li>
+        </ul>
+      </div>
+    </div>
+  </div>
+  <div class="mobile">
+    <div>
+      <div>
+        <p class="logo"><a href="http://mos.jp/" onclick="ga('send', 'event', 'hd_sp', 'click', '/');"><img src="http://img.mos.jp/img/structure/mobile/logo.png" alt="MOS BURGER"/></a></p>
+      </div>
+      <div>
+        <p><a href="http://mos.jp/menu/" onclick="ga('send', 'event', 'hd_sp', 'click', '/menu/?def');"><img src="http://img.mos.jp/img/structure/mobile/head-menu.png" alt="メニュー" /></a></p><!--
+        --><p><a href="http://mos.jp/shop/" onclick="ga('send', 'event', 'hd_sp', 'click', '/shop/?def');"><img src="http://img.mos.jp/img/structure/mobile/head-shop.png" alt="店舗案内" /></a></p><!--
+        --><p class="hamburger"><a href="http://mos.jp/#/"><img src="http://img.mos.jp/img/structure/mobile/hamburger.png" alt="" /></a></p><!--
+        -->
+      </div>
+    </div>
+    <div class="nav">
+      <ul class="global">
+              <li class="login"><a href="https://ssl.mos.jp/auth/" onclick="ga('send', 'event', 'hd_sp', 'click', '/auth/');"><strong><span>ログイン</span></strong></a></li>
+              <li class="menu"><a href="http://mos.jp/menu/" onclick="ga('send', 'event', 'hd_sp', 'click', '/menu/?open');"><strong><span>メニュー</span></strong></a></li>
+        <li class="shop"><a href="http://mos.jp/shop/" onclick="ga('send', 'event', 'hd_sp', 'click', '/shop/?open');"><strong><span>店舗案内</span></strong></a></li>
+        <li class="omoi"><a href="http://mos.jp/omoi/" onclick="ga('send', 'event', 'hd_sp', 'click', '/omoi/?open');"><strong><span>モスの想い</span></strong></a></li>
+        <li class="mosca"><a href="http://mos.jp/mosca/" onclick="ga('send', 'event', 'hd_sp', 'click', '/mosca/');"><strong><span>モスカード</span></strong></a></li>
+        <li class="gift"><a href="http://mos.jp/enjoy/" onclick="ga('send', 'event', 'hd_s
+b68
+p', 'click', '/enjoy/');"><strong><span>お楽しみ</span></strong></a></li>
+        <li class="community"><a href="http://mos.jp/community/" onclick="ga('send', 'event', 'hd_sp', 'click', '/community/');"><strong><span>コミュニティ</span></strong></a></li>
+        <li class="quality"><a href="http://mos.jp/quality/" onclick="ga('send', 'event', 'hd_sp', 'click', '/quality/');"><strong><span>モスの安心・安全</span></strong></a></li>
+      </ul>
+      <ul class="sub clearfix">
+        <li class="staff"><a href="http://mos.jp/shop/job/" onclick="ga('send', 'event', 'hd_sp', 'click', '/shop/job/');">モスバーガーのアルバイト・パート求人情報</a></li>
+      </ul>
+      <ul class="subBtn">
+        <li><div class="ta-c"><a href="http://www.mos.co.jp/global/" target="_blank" class="button-l blank" onclick="ga('send', 'event', 'hd_sp', 'click', '/global/');"><span><span><img src="http://img.mos.jp/img/structure/sub_btn01.png" alt="Global Site"></span></span></a></div></li>
+        <li><div class="ta-c"><a href="http://www.mos.co.jp/company/" target="_blank" class="button-l blank" onclick="ga('send', 'event', 'hd_sp', 'click', '/company/');"><span><span><img src="http://img.mos.jp/img/structure/sub_btn02.png" alt="企業サイト"></span></span></a></div></li>
+      </ul>
+    </div>
+    <noscript class="hide-pc">
+      <div class="frame-green">
+        <ul class="textList">
+                  <li><a href="http://mos.jp/auth/" onclick="ga('send', 'event', 'hd_sp', 'click', '/auth/');"><strong><span>ログイン</span></strong></a></li>
+                  <li><a href="http://mos.jp/menu/" onclick="ga('send', 'event', 'hd_sp', 'click', '/menu/');"><strong><span>メニュー</span></strong></a></li>
+          <li><a href="http://mos.jp/shop/" onclick="ga('send', 'event', 'hd_sp', 'click', '/shop/');"><strong><span>店舗案内</span></strong></a></li>
+          <li><a href="http://mos.jp/mosca/" onclick="ga('send', 'event', 'hd_sp', 'click', '/mosca/');"><strong><span>モスカード</span></strong></a></li>
+          <li><a href="http://mos.jp/enjoy/" onclick="ga('send', 'event', 'hd_sp', 'click', '/enjoy/');"><strong><span>お楽しみ</span></strong></a></li>
+          <li><a href="http://mos.jp/community/" onclick="ga('send', 'event', 'hd_sp', 'click', '/community/');"><strong><span>コミュニティ</span></strong></a></li>
+          <li><a href="http://mos.jp/quality/" onclick="ga('send', 'event', 'hd_sp', 'click', '/quality/');"><strong><span>モスの安心・安全</span></strong></a></li>
+          <li><a href="http://mos.jp/company/" onclick="ga('send', 'event', 'hd_sp', 'click', '/company/');"><strong><span>会社・IR情報</span></strong></a></li>
+        </ul>
+        <ul class="textList">
+          <li><a href="http://mos.jp/shop/job/" onclick="ga('send', 'event', 'hd_sp', 'click', '/shop/job/');">モスバ�
+5b4
+�ガーのアルバイト・パート求人情報</a></li>
+          <li><a href="http://www.mos.co.jp/company/fc_development/" onclick="ga('send', 'event', 'hd_sp', 'click', '/company/fc_development/');">加盟・物件募集</a></li>
+          <li><a href="http://www.mos.co.jp/global/" onclick="ga('send', 'event', 'hd_sp', 'click', '/global/');">Global</a></li>
+        </ul>
+      </div>
+    </noscript>
+  </div>
+</div>
+
+
+      <div class="breadcrumb"><a href="http://mos.jp/">ホーム</a><span>&nbsp;&gt;&nbsp;</span>ログアウト</div>
+      <div class="contents clearfix">
+        <div class="main">
+          <h1 class="headingPrimary"><strong>ログアウト</strong></h1>
+          <div>
+            <p class="noteText-r">ログアウトしました。</p>
+            <div class="ta-c"><a href="http://mos.jp/" class="button"><span>ホームに戻る</span></a></div>
+          </div>
+        </div>
+      </div><div class="footer">
+  <p class="pagetop"><a href="#top" onclick="ga('send', 'event', 'ft', 'click', '#top');"><img src="http://img.mos.jp/img/structure/pagetop.png" alt=""/></a></p>
+  <div class="stage">
+
+    <div>
+      <div>
+        <div class="navSub">
+          <ul class="linkList clearfix">
+            <li><a href="http://mos.jp/shop/job/" onclick="ga('send', 'event', 'hd', 'click', '/shop/job/');"><span>スタッフ募集</span></a></li>
+            <li><a href="http://mos.jp/rule/" onclick="ga('send', 'event',
+619
+ 'ft', 'click', '/rule/');"><span>ご利用にあたって</span></a></li>
+            <li><a href="http://mos.jp/privacy/" onclick="ga('send', 'event', 'ft', 'click', '/privacy/');"><span>プライバシーポリシー</span></a></li>
+            <li><a href="http://mos.jp/faq/" onclick="ga('send', 'event', 'ft', 'click', '/faq/');"><span>よくあるご質問</span></a></li>
+            <li><a href="http://mos.jp/contact/" onclick="ga('send', 'event', 'ft', 'click', '/contact/');"><span>お問い合わせ</span></a></li>
+          </ul>
+        </div>
+        <div class="copyright">
+          <p>COPYRIGHT &copy; 2017 MOS FOOD SERVICES, INC. ALL RIGHTS RESERVED.</p>
+          <div class="logo"><img src="http://img.mos.jp/img/structure/logo-sub.png" alt="MOS BURGER"/></div>
+        </div>
+      </div>
+    </div>
+
+  </div>
+</div>
+
+    </div><script type="text/javascript" src="http://img.mos.jp/js/lib/jquery/jquery.js?20140909"></script>
+<script type="text/javascript" src="http://img.mos.jp/js/lib/underscore/underscore.js?20140909"></script>
+<script type="text/javascript" src="http://img.mos.jp/js/lib/Magnific-Popup-0.9.9/jquery.magnific-popup.min.js?20140909"></script>
+<script type="text/javascript" src="http://img.mos.jp/js/mos.js?20170207"></script>
+<script type="text/javascript" src="http://img.mos.jp/js/checked.js?20140909"></script>
+<script type="text/javascript" src="http://img.mos.jp/js/cloneNode.js?20150910"></script>
+<script type="text/javascript" src="http://img.mos.jp/js/swipe.js?20140909"></script>
+
+  </body>
+</html>
+0
+

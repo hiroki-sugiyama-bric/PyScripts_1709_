@@ -1,0 +1,35 @@
+GET https://stg-life.tobu.co.jp/logout HTTP/1.1
+Host: stg-life.tobu.co.jp
+Connection: close
+Upgrade-Insecure-Requests: 1
+User-Agent: Mozilla/5.0 (Windows NT 10.0; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/56.0.2924.87 Safari/537.36
+Accept: text/html,application/xhtml+xml,application/xml;q=0.9,image/webp,*/*;q=0.8
+Referer: https://stg-life.tobu.co.jp/mypage/
+Accept-Encoding: gzip, deflate, sdch, br
+Accept-Language: ja,en-US;q=0.8,en;q=0.6
+Cookie: tsol_frontend=c1e270813837fa2256716240a2c52445
+
+
+HTTP/1.1 302 Found
+Date: Tue, 28 Feb 2017 07:00:16 GMT
+Server: Apache/2.4.6 (Red Hat) PHP/7.0.14 OpenSSL/1.0.0-fips
+X-Powered-By: PHP/7.0.14
+Set-Cookie: tsol_frontend=185513c808ca1df2805bb528d5ff0b58; expires=Tue, 28-Feb-2017 17:00:16 GMT; Max-Age=36000; path=/; secure; HttpOnly
+Cache-Control: no-cache
+Location: https://stg-life.tobu.co.jp/login
+Content-Length: 376
+Connection: close
+Content-Type: text/html; charset=UTF-8
+
+<!DOCTYPE html>
+<html>
+    <head>
+        <meta charset="UTF-8" />
+        <meta http-equiv="refresh" content="1;url=https://stg-life.tobu.co.jp/login" />
+
+        <title>Redirecting to https://stg-life.tobu.co.jp/login</title>
+    </head>
+    <body>
+        Redirecting to <a href="https://stg-life.tobu.co.jp/login">https://stg-life.tobu.co.jp/login</a>.
+    </body>
+</html>

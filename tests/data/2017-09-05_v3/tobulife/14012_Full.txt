@@ -1,0 +1,465 @@
+POST https://stg-life.tobu.co.jp/mypage/setting/remind HTTP/1.1
+Host: stg-life.tobu.co.jp
+Connection: close
+Content-Length: 178
+Cache-Control: max-age=0
+Origin: https://stg-life.tobu.co.jp
+Upgrade-Insecure-Requests: 1
+User-Agent: Mozilla/5.0 (Windows NT 10.0; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/56.0.2924.87 Safari/537.36
+Content-Type: application/x-www-form-urlencoded
+Accept: text/html,application/xhtml+xml,application/xml;q=0.9,image/webp,*/*;q=0.8
+Referer: https://stg-life.tobu.co.jp/mypage/setting/remind
+Accept-Encoding: gzip, deflate, br
+Accept-Language: ja,en-US;q=0.8,en;q=0.6
+Cookie: tsol_frontend=91eeed6f91c04f00bc285989f4c9f28e
+
+remind%5Bis_comment_mail%5D=0&remind%5Bis_application_mail%5D=0&remind%5Bis_kuchikomi_info_mail%5D=0&remind%5B_token%5D=IWcbqEZbiG1SIzm3DEOMy9laPibTF9MIINF9BrBggwY&action=confirm
+HTTP/1.1 200 OK
+Date: Tue, 28 Feb 2017 07:36:44 GMT
+Server: Apache/2.4.6 (Red Hat) PHP/7.0.14 OpenSSL/1.0.0-fips
+X-Powered-By: PHP/7.0.14
+Cache-Control: no-cache
+Connection: close
+Transfer-Encoding: chunked
+Content-Type: text/html; charset=UTF-8
+
+459c
+<!DOCTYPE html>
+<html lang="ja">
+<head>
+<title>ソライエナビ | 東武沿線 暮らしと住まいの情報</title>
+<meta name="description" content="">
+<meta name="keywords" content="">
+<meta charset="utf-8">
+<meta http-equiv="X-UA-Compatible" content="IE=edge">
+<style>
+body {
+  font-family: sans-serif; /*NotoSans読み込みまで使用*/
+}
+</style>
+<meta name="viewport" content="width=1024,maximum-scale=1">
+<link rel="stylesheet" href="/module/lib/drawer/drawer.css" media="all">
+<link rel="stylesheet" href="/module/css/bootstrap/bootstrap.css" media="all">
+<link rel="stylesheet" href="/module/lib/slider-pro/slider-pro.css" media="all">
+<link rel="stylesheet" href="/module/css/style.css" media="all">
+
+<script src="/module/js/jquery-2.2.4.min.js"></script>
+<script src="/module/js/common.js"></script>
+<!--- plugin iscroll --->
+<script src="/module/lib/iscroll.js"></script>
+<!--- plugin drawer --->
+<script src="/module/lib/drawer/drawer.min.js"></script>
+<!--- plugin slick --->
+<script src="/module/lib/slider-pro/slider-pro.js"></script>
+<script src="/module/js/bootstrap.min.js"></script>
+<!--[if lt IE 9]>
+<script src="//cdn.jsdelivr.net/html5shiv/3.7.2/html5shiv.min.js"></script>
+<script src="//cdnjs.cloudflare.com/ajax/libs/respond.js/1.4.2/respond.min.js"></script>
+<![endif]-->
+<script src="/module/js/jsrender.min.js"></script>
+<script src="/module/js/jquery.showProfile.js"></script>
+
+<script id="popupProfileTemplate" type="text/x-jsrender">
+  <div class="user-info">
+    <p class="user-name">{{>name}}<span>さん</span></p>
+    <ul class="user-info-sub">
+      <li>{{>age}}　{{>gender}}</li>
+      {{if job}}
+      <li>職業：{{>job}}</li>
+      {{/if}}
+      {{if hobby}}
+      <li>趣味：{{>hobby}}</li>
+      {{/if}}
+    </ul>
+  </div>
+  <p class="user-comment">{{>comment}}</p>
+  <ul class="user-counter">
+    <li>
+      <span>トピック<br>投稿</span>
+      <span class="counter">{{>count.talk || 0}}</span>
+    </li>
+    <li>
+      <span>口コミ<br>投稿</span>
+      <span class="counter">{{>count.facility_comment || 0}}</span>
+    </li>
+    <li>
+      <span>コメント<br>投稿</span>
+      <span class="counter">{{>count.all_comment || 0}}</span>
+    </li>
+    <li>
+      <span>イイネ！<br>獲得</span>
+      <span class="counter">{{>count.nice || 0}}</span>
+    </li>
+  </ul>
+  <button class="close-profile"></button>
+</script>
+
+
+<script>
+var showProfile = null;
+$(function(){
+  showProfile = $('.js-userInfo .post-user').showProfile({
+    url      : '/member/profile',
+    close    : '.close-profile',
+    template : $('#popupProfileTemplate'),
+  });
+});
+</script>
+<script src="/module/js/googleAnalytics.js"></script>
+</head>
+<body>
+
+    <header class="header__pc">
+    <div class="header-in-top">
+      <div class="inner-wrap clearfix">
+        <h1 class="logo-site float-l"><a href="/"><img src="/module/images/logo_site.png" alt="ソライエナビ"><span>-東武の沿線ライフを応援する情報サイト-</span></a></h1>
+        <div class="header-in-top-right float-r">
+          <div class="box-search-wrap">
+            <div class="box-search">
+              <!-- ===== searchArea ===== -->
+              <form action="/search">
+                <input class="" type="text" name="q" placeholder="サイト内検索">
+                <input class="" type="submit" name="" value="">
+              </form>
+            </div>
+          </div><!-- /.box-search-wrap -->
+                    <div class="js-dropdown-arrow">
+            <a href="/mypage/" class="txt-link-mypage">マイページ</a>
+
+            <div class="btn-mypage-down">
+              <img src="https://tobu-life-stg.ds.jp-east.idcfcloud.com/member/35a4963b27d31aca53050b568b7fb3a051620a49d794bf00ceaee1676dc43f31.png" alt="ユーザーアイコン" class="icon-header-user">
+              <span class="badge new">665</span>            </div>
+            <div class="js-dropdown-arrow-item visible">
+              <ul>
+                <li class="user-info">
+                  ippan_1
+                  <span>女性</span>
+                  <span>東武スカイツリーライン</span>
+                </li>
+                <li><a href="/mypage/talk">投稿一覧</a></li>
+                <li><a href="/mypage/setting/profile">個人設定</a></li>
+                <li><a href="/mypage/setting/remind">新着通知設定</a></li>
+                <li><a href="/mypage/specialoffer">スペシャルオファー</a></li>
+                <li><a href="/logout">ログアウト</a></li>
+              </ul>
+            </div><!-- /.js-dropdown-arrow-item -->
+          </div><!-- /.js-dropdown-arrow -->
+                  </div><!-- /.header-in-top-right -->
+      </div><!-- /.inner-wrap -->
+    </div><!-- /.header-in-top -->
+    <nav class="header-in-under clearfix">
+      <div class="inner-wrap">
+        <ul class="header-nav-info float-r">
+          <li class="icon-q"><a href="/about">Solaie Naviとは？</a></li>
+          <li class="icon-exclamation"><a href="/faq">よくあるご質問</a></li>
+        </ul>
+        <ul class="header-nav-menu float-l">
+          <li><a href="/talk">トーク広場</a></li>
+          <li><a href="/join">あれこれ募集</a></li>
+          <li class="js-toggle-menu">
+            <a>沿線お役立ち情報</a>
+            <ul class="header-nav-menu-sub">
+              <li><a href="/useful/facilities"><img src="/module/images/icon/icon_facilities.png" alt="">おでかけキッズ</a></li>
+              <li><a href="/useful/nursery"><img src="/module/images/icon/icon_nursery.png" alt="">一時保育ナビ</a></li>
+              <li><a href="/useful/subsidy"><img src="/module/images/icon/icon_subsidy.png" alt="">助成金ガイド</a></li>
+              <li class="btn-link-break txt"><a href="/useful/">沿線お役立ち情報トップへ</a></li>
+            </ul>
+          </li>
+          <li><a href="/special">特集</a></li>
+          <li class="js-toggle-menu">
+            <a>住まい</a>
+            <ul class="header-nav-menu-sub">
+              <li><a href="/estate/bunjo/"><img src="/module/images/icon/icon_header_estate_01.png" alt="">分譲マンション</a></li>
+              <li><a href="/estate/ikkodate/"><img src="/module/images/icon/icon_header_estate_02.png" alt="">分譲一戸建て</a></li>
+              <li><a href="/estate/besso/"><img src="/module/images/icon/icon_header_estate_03.png" alt="">別荘</a></li>
+              <li><a href="/estate/tochi/"><img src="/module/images/icon/icon_header_estate_04.png" alt="">土地</a></li>
+              <li><a href="/estate/rent/"><img src="/module/images/icon/icon_header_estate_05.png" alt="">賃貸</a></li>
+              <li><a href="/estate/sumikae/"><img src="/module/images/icon/icon_header_estate_06.png" alt="">住みかえ支援</a></li>
+              <li class="btn-link-break bnr"><a href="/estate/sumikae/mottozutto/"><img src="/module/images/bnr_header_item.jpg" alt="もっとずっとプロジェクトへ"></a></li>
+              <li class="btn-link-break txt"><a href="/estate/">住まいトップへ</a></li>
+            </ul>
+          </li>
+        </ul>
+      </div>
+    </nav>
+  </header><!-- /.header -->
+  <div class="wrapper">
+    <main>
+        <div class="box-crumb detail">
+    <div class="box-crumb-child">
+      <ul class="list-crumb">
+        <li><a href="/">ホームへ</a></li>
+                  <li><a href="/mypage/">マイページ</a></li>
+        
+<li><span>設定</span></li>
+
+<li><span>設定</span></li>
+      </ul>
+    </div>
+  </div>
+      <div class="clearfix inner-wrap">
+                                  <aside class="side-mypage float-l">
+        <nav class="nav-mypage">
+  <ul>
+    <li class="talk new">
+      <a href="/mypage/talk"><span>トピック一覧</span>
+      </a></li>
+
+    <li class="join new">
+      <a href="/mypage/join"><span>募集一覧</span>
+      </a></li>
+
+    <li class="apply">
+      <a href="/mypage/apply"><span>応募一覧</span>
+      </a></li>
+
+    <li class="favorite ">
+      <a href="/mypage/favorite"><span>お気に入り一覧</span>
+      </a></li>
+
+    <li class="config  active">
+      <span>個人設定</span>
+      </li>
+
+    <li class="special">
+      <a href="/mypage/specialoffer"><span>スペシャルオファー</span>
+      </a></li>
+
+      </ul>
+</nav>
+
+    </aside>
+      <section class="main-mypage float-r">
+  <h2 class="ttl-category-icon band"><img src="/module/images/icon/icon_mypage_config_01.png">個人設定</h2>
+  <!-- タブ・メニュー -->
+  <ul class="nav nav-pills nav-tab nav-tab-4col">
+    <li ><a href="/mypage/setting/profile">公開情報<br class="is-sp-only">編集</a></li>
+    <li ><a href="/mypage/setting/user">個人情報<br class="is-sp-only">編集</a></li>
+    <li ><a href="/mypage/setting/account">ログイン情報<br class="is-sp-only">編集</a></li>
+    <li class="active"><a href="/mypage/setting/remind">新着通知<br class="is-sp-only">設定</a></li>
+  </ul>
+  <section class="box-layout-white box-form th-lg">
+          <h2 class="ttl-md box-ttl-line">新着通知設定</h2>
+        
+    <div class="box-layout-inner">
+                  <form action="/mypage/setting/remind" method="post" >
+
+        <div class="box-border-none">
+        <table id="remind" class="table-info table-form"><tr >
+        <th><label class="" for="remind_is_comment_mail">コメント</label></th>
+        <td>          <span data-value="0">受け取らない</span>
+              </td>
+    </tr><tr >
+        <th><label class="" for="remind_is_application_mail">応募</label></th>
+        <td>          <span data-value="0">受け取らない</span>
+              </td>
+    </tr><tr >
+        <th><label class="" for="remind_is_kuchikomi_info_mail">口コミ</label></th>
+        <td>          <span data-value="0">受け取らない</span>
+              </td>
+    </tr><tr style="display: none">
+        <td colspan="2"></td>
+    </tr></table>
+        </div>
+      
+        <div class="btn-wrap-2col btn-input">
+          <button type="submit" name="action" value="complete" class="btn btn-blue">送信</button>
+          <button type="submit" name="action" value="input" class="btn btn-white">再入力</button>
+        </div>
+      </form>
+    </div>
+  </section>
+</section>
+            </div>
+    </main>
+  </div><!-- /.wrapper -->
+  <!-- /ページトップへ ここから -->
+ <a href="#" class="pagetop">
+   <img src="/module/images/icon/icon_arrow_pagetop.png" alt="ページトップへ">
+ </a>
+<!-- /ページトップへ ここまで -->
+
+<!-- /フッター ここから -->
+  <footer class="footer">
+            <div class="footer-nav inner-wrap clearfix">
+      <div class="footer-nav-inner footer-nav-pc-only">
+        <ul class="footer-nav-1st">
+          <li>
+            <a href="/talk/">トーク広場</a>
+              <ul class="footer-nav-2nd">
+                <li>
+                  <a href="/talk/">トーク広場トップ</a>
+                </li>
+                <li>
+                  <a>エリア別</a>
+                  <ul class="footer-nav-3rd">
+                    <li><a href="/talk/all">東武全線</a></li>
+                    <li><a href="/talk/ts">東武スカイツリーライン</a></li>
+                    <li><a href="/talk/td">東武アーバンパークライン</a></li>
+                    <li><a href="/talk/tj">東武東上線</a></li>
+                    <li><a href="/talk/other">その他の沿線</a></li>
+                  </ul>
+                  <!-- /.footer-nav-3rd -->
+                </li>
+                <li>
+                  <a href="/talk/tags">タグ一覧</a>
+                </li>
+                <li>
+                  <a href="/talk/terms">トーク広場 ご利用ガイド</a>
+                </li>
+              </ul>
+              <!-- /.footer-nav-2nd -->
+          </li>
+        </ul>
+        <!-- /.footer-nav-1st -->
+      </div>
+      <!-- /.footer-nav-inner -->
+
+      <div class="footer-nav-inner footer-nav-pc-only">
+        <ul class="footer-nav-1st">
+          <li>
+            <a href="/join/">あれこれ募集</a>
+              <ul class="footer-nav-2nd">
+                <li>
+                  <a href="/join/">あれこれ募集TOP</a>
+                </li>
+                <li>
+                  <a>エリア別</a>
+                  <ul class="footer-nav-3rd">
+                    <li><a href="/join/all">東武全線</a></li>
+                    <li><a href="/join/ts">東武スカイツリーライン</a></li>
+                    <li><a href="/join/td">東武アーバンパークライン</a></li>
+                    <li><a href="/join/tj">東武東上線</a></li>
+                    <li><a href="/join/other">その他の沿線</a></li>
+                  </ul>
+                  <!-- /.footer-nav-3rd -->
+                </li>
+                <li>
+                  <a>カテゴリー別</a>
+                  <ul class="footer-nav-3rd">
+                    <li><a href="/join/all/all">全て</a></li>
+                    <li><a href="/join/all/volunteer">ボランティア</a></li>
+                    <li><a href="/join/all/pet">ペットの里親</a></li>
+                    <li><a href="/join/all/circle">サークル</a></li>
+                    <li><a href="/join/all/event">イベント</a></li>
+                    <li><a href="/join/all/school">教室・スクール</a></li>
+                    <li><a href="/join/all/hobby">趣味</a></li>
+                    <li><a href="/join/all/other">その他</a></li>
+                  </ul>
+                  <!-- /.footer-nav-3rd -->
+                </li>
+                <li>
+                  <a href="/join/terms">あれこれ募集 ご利用ガイド</a>
+                </li>
+              </ul>
+              <!-- /.footer-nav-2nd -->
+          </li>
+        </ul>
+        <!-- /.footer-nav-1st -->
+      </div>
+      <!-- /.footer-nav-inner -->
+
+      <div class="footer-nav-inner footer-nav-pc-only">
+        <ul class="footer-nav-1st">
+          <li>
+            <a href="/useful/">沿線お役立ち情報</a>
+              <ul class="footer-nav-2nd">
+                <li><a href="/useful/facilities/">おでかけキッズ</a></li>
+                <li><a href="/useful/nursery/">一時保育ナビ</a></li>
+                <li><a href="/useful/subsidy/">助成金ガイド</a></li>
+              </ul>
+              <!-- /.footer-nav-2nd" -->
+          </li>
+          <li><a href="/special/">特集</a></li>
+          <li>
+            <a href="/estate/">住まい</a>
+            <ul class="footer-nav-2nd">
+              <li><a href="/estate/bunjo/">分譲マンション</a></li>
+              <li><a href="/estate/ikkodate/">分譲一戸建て</a></li>
+              <li><a href="/estate/besso/">別荘</a></li>
+              <li><a href="/estate/tochi/">土地</a></li>
+              <li><a href="/estate/rent/">賃貸</a></li>
+              <li><a href="/estate/sumikae/">住みかえ支援</a></li>
+            </ul>
+          </li>
+        </ul>
+        <!-- /.footer-nav-1st -->
+      </div>
+      <!-- /.footer-nav-inner -->
+
+      <div class="footer-nav-inner footer-nav-pc-only">
+        <ul class="footer-nav-1st">
+          <li>
+            <a>その他</a>
+              <ul class="footer-nav-2nd">
+                <li><a href="/about/">ソライエナビとは？</a></li>
+                <li><a href="/faq/">よくあるご質問</a></li>
+                <li><a href="/news/">おしらせ</a></li>
+                <li><a href="/membership/">会員登録のメリット</a></li>
+                <li><a href="/tobucard/">東武カードのご紹介</a></li>
+              </ul>
+              <!-- /.footer-nav-2nd" -->
+          </li>
+          <li>
+            <a>法人の方へ</a>
+            <ul class="footer-nav-3rd">
+              <li><a href="/member/address/business">事業者新規登録</a></li>
+            </ul>
+          </li>
+          <li>
+            <a href="/feature/">いいじゃん東武</a>
+            <ul class="footer-nav-2nd">
+              <li><a href="/feature/yutori/">ゆとりがいいじゃん</a></li>
+              <li><a href="/feature/tobuke/">東武家の人々</a></li>
+              <li><a href="/feature/newtobuke/">続・東武家の人々</a></li>
+              <li><a href="/feature/sengen/">いいじゃん東武宣言</a></li>
+            </ul>
+          </li>
+        </ul>
+        <!-- /.footer-nav-1st" -->
+      </div>
+      <!-- /.footer-nav-inner -->
+      <div class="footer-nav-inner footer-nav-sp">
+        <ul class="footer-nav-1st">
+          <li><a href="/contact/">お問い合わせ</a></li>
+          <li><a href="/terms/">ご利用規約</a></li>
+          <li class="footer-nav-pc-only"><a href="/sitemap/">サイトマップ</a></li>
+          <li><a href="/policy/">個人情報保護ポリシー</a></li>
+          <li class="footer-nav-pc-only">
+            <a href="/mypage/">あなたのページ</a>
+            <ul class="footer-nav-3rd">
+              <li><a href="/login">ログイン</a></li>
+              <li><a href="/mypage/">マイページ</a></li>
+            </ul>
+          </li>
+        </ul>
+      </div>
+    </div>
+            <div class="copy">
+      <div class="inner-wrap clearfix">
+        <small>Copyright &copy; TOBU RAILWAY CO., LTD. All Rights Reserved.</small>
+      <a href="//www.tobu.co.jp/" target="_blank"><img src="/module/images/logo_tobu.png" alt="TOBU Groupロゴ" class="float-r logo-tobu"></a>
+      </div>
+    </div>
+  </footer><!-- /.footer -->
+<!-- /フッター　ここまで -->
+<script>
+$(function(){
+  $('.tgl_self').each(function(){
+    var id = $(this).attr('target-id');
+    if ($('#'+id).val() == 1)
+    {
+      $(this).show();
+    }
+    else
+    {
+      $(this).hide();
+    }
+  });
+});
+</script>
+</body>
+</html>
+
+0
+

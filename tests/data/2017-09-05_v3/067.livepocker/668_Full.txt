@@ -1,0 +1,2150 @@
+GET https://t.livepocket.jp/mypage/profile HTTP/1.1
+Host: t.livepocket.jp
+User-Agent: Mozilla/5.0 (Windows NT 6.1; Win64; x64; rv:49.0) Gecko/20100101 Firefox/49.0
+Accept: text/html,application/xhtml+xml,application/xml;q=0.9,*/*;q=0.8
+Accept-Language: ja,en-US;q=0.7,en;q=0.3
+Accept-Encoding: gzip, deflate, br
+Referer: https://t.livepocket.jp/mypage/account
+Cookie: ci_session=pAV3Elo7%2Bpm0JKoxbUuPNpoU3VSz0acFVtGrB9qh8vETVt5Hc780XDj%2BIEUZhIrf3GrnpnYX%2BMer%2FY49CmPpBXqlA6V5fFiGgWAuFcE6Zc3b%2FWmnEh5fxrIuAVq%2Bj6oybL6o3BHWk9%2BpAXnifS6m7YTXwSVa%2BBpmMt%2BHN3ZX2VDE1U%2BkpXO%2FuJSiw1%2FS6nZQSDUmVFiqTSwQ9dYMm8Hv%2BPiEEMlCNiaa%2F1mXSTVRjqjhKWzKQibe5Ug%2BEERGfNPaP%2BsVj9Fqnk%2FoxC6A88bFm0akeuC%2BudysG%2BBCPB277xA1qHGuzKVd5xAsgsWRF8%2F6c37V0gJ%2FGKSvdEINdxymtOmUsYM59RM2aOMJEx3p4b3vVwwbSOKn59rVIQIQencjL9CbFjQZ%2FWUxt9agWinoCte%2BVaCnV26pSd4h%2BcXSd4o%3D; _ga=GA1.2.1863377671.1491548935; wovn_selected_lang=ja; pt_s_6ebe3683=vt=1491558760032&cad=; pt_6ebe3683=uid=qLyrG4vTOWzA8xsFnTv4PQ&nid=0&vid=6u-cnRU/dqa02n/sK0n0qQ&vn=2&pvn=1&sact=1491559235270&to_flag=0&pl=VbRfGBHx1ouCtCdYiHvi/Q*pt*1491558760032; PHPSESSID=pve5su24vh56r09usmd1k25l42
+Connection: close
+Upgrade-Insecure-Requests: 1
+
+
+HTTP/1.1 200 OK
+Content-Type: text/html; charset=UTF-8
+Date: Fri, 07 Apr 2017 10:23:30 GMT
+Server: Apache
+transfer-encoding: chunked
+Connection: Close
+
+1a2b1
+<!DOCTYPE html>
+<html xmlns="http://www.w3.org/1999/xhtml" lang="ja" xml:lang="ja" dir="ltr" xmlns:og="http://ogp.me/ns#" xmlns:mixi="http://mixi-platform.com/ns#" xmlns:fb="http://www.facebook.com/2008/fbml">
+<head>
+<meta charset="UTF-8">
+<meta name="copyright" content="Copyright © 2014 avex live creative All Rights Reserved." />
+<meta name="description" content="LivePocket-Ticket-（ライブポケットチケット）は、エンターテインメントイベントに特化したチケットの販売とイベントの管理が簡単にできるソーシャルチケット販売プラットフォームです" />
+<meta name="keywords" content="LivePocket-Ticket-,ライブポケット,チケット販売,ソーシャル,イベント" />
+<meta name="site_name" content="LivePocket-Ticket-" />
+    
+
+    <title>LivePocket-Ticket- ソーシャルチケットサービス</title>
+
+
+
+<link type="text/css" href="https://t.livepocket.jp/pc_css/import.css" media="all" rel="stylesheet" />
+<link type="text/css" href="https://t.livepocket.jp/pc_css/add_class.css" media="all" rel="stylesheet" />
+<link type="text/css" href="https://t.livepocket.jp/pc_css/print.css" media="print" rel="stylesheet" />
+<link type="text/css" href="https://t.livepocket.jp/pc_css/jquery-ui.css" rel="stylesheet" />
+<link type="text/css" href="https://t.livepocket.jp/pc_js/fancybox/jquery.fancybox-1.3.4.css" rel="stylesheet"/>
+<link type="text/css" href="https://t.livepocket.jp/pc_css/alertify.core.css" rel="stylesheet"/>
+<link type="text/css" href="https://t.livepocket.jp/pc_css/alertify.default.css" rel="stylesheet"/>
+<link type="text/css" href="https://t.livepocket.jp/pc_css/footer.css" media="all" rel="stylesheet" />
+<link type="text/css" href="https://t.livepocket.jp/pc_css_v3/pc/global_top.css" media="all" rel="stylesheet" />
+
+<script src="//j.wovn.io/1" data-wovnio="key=P4kwS" async></script>
+<script type="text/javascript" src="https://t.livepocket.jp/pc_js/jquery.js"></script>
+<script type="text/javascript" src="https://t.livepocket.jp/pc_js/jquery-ui.min.js"></script>
+<script type="text/javascript" src="https://t.livepocket.jp/pc_js/jquery.ui.datepicker-ja.min.js"></script>
+<script type="text/javascript" src="https://t.livepocket.jp/pc_js/fancybox/jquery.fancybox-1.3.4.js"></script>
+<script type="text/javascript" src="https://t.livepocket.jp/pc_js/jquery.vEllipsis.js"></script>
+<script type="text/javascript" src="https://t.livepocket.jp/pc_js/jquery.cj-object-scaler.min.js"></script>
+<script type="text/javascript" src="https://t.livepocket.jp/pc_js/alertify.min.js"></script>
+<script type="text/javascript" src="https://t.livepocket.jp/pc_js/jquery.skOuterClick.js"></script>
+<script type="text/javascript" src="https://t.livepocket.jp/pc_js/common.js"></script>
+<script type="text/javascript" src="https://t.livepocket.jp//pc_js/jquery.imgLiquid-min.js"></script>
+<!--[if lt IE 10]>
+<script src="https://t.livepocket.jp/pc_js/ah-placeholder plugin.js"></script>
+<script src="https://t.livepocket.jp/pc_js/ie.js"></script>
+<![endif]-->
+
+<!--[if lt IE 9]>
+<script src="https://t.livepocket.jp/pc_js/html5shiv.js"></script>
+<![endif]-->
+
+<!--[if IE]>
+<script>
+  $.ajaxSetup({cache: false});
+</script>
+<![endif]-->
+<script type="text/javascript">
+    var Lpt = {"isLogin":true,"currentUser":{"id":"285790"},"siteUrl":"https:\/\/t.livepocket.jp\/"}
+    Lpt.getUrl = function(route, ssl) {
+        if (typeof ssl === 'undefined' || ssl === null) {
+            ssl = location.procotol === 'https:';
+        }
+
+        var url = Lpt.siteUrl + route;
+
+        if (ssl) {
+            url = url.replace(/https?:\/\//, "https://");
+        } else {
+            url = url.replace(/https?:\/\//, "http://");
+        }
+
+        return url;
+    };
+
+    var base_url = 'https://t.livepocket.jp/';
+    var base_ssl_url = 'https://t.livepocket.jp/';
+    var load_count = 0;
+</script>
+
+<!-- tour, eventTOP画面のみ読み込む -->
+
+<script type="text/javascript" src="https://t.livepocket.jp/pc_js/jquery.tmpl.js"></script>
+<script type="text/javascript" src="https://t.livepocket.jp/pc_js/jquery.blockUI.js"></script>
+<script type="text/javascript" src="https://t.livepocket.jp/pc_js/sp-common.js"></script>
+<script type="text/javascript" src="https://t.livepocket.jp/pc_js/api.js"></script>
+<script type="text/javascript" src="https://t.livepocket.jp/pc_js/exdate.js"></script>
+<script type="text/javascript" src="https://t.livepocket.jp/pc_js/util.js"></script>
+
+<!-- 移行用のため追加 -->
+<script type="text/javascript" src="https://t.livepocket.jp/shared_js/util.js"></script>
+
+<script type="text/javascript">
+function logout() {
+    if (window.confirm('ログアウトします\nよろしいですか？\n\nYou are logging out. Is this alright?')) {
+        showProgress('ログアウトしています...');
+        API.post('sessions/destroy', function(data) {
+            hideProgress();
+            document.location.href = '/';
+        });
+    }
+}
+</script>
+
+<!-- PickUp event template -->
+
+<!-- 検索結果リスト template -->
+<script id="searchEventListTemplate" type="text/x-jquery-tmpl">
+<ul class="event-list clearfix">
+    {{each $item.data}}
+    <li>
+        <a href="${url}">
+        <figure class="border-gray">
+            <img style="border:none;" src="${event_pic_url}?mode=fix&height=228&width=228" width="228" height="228" alt="" />
+
+            <div class='title_box'>
+                {{if title}}
+                <h2 class="title" style="height: 50px;">${mbellipsis(title, 28)}</h2>
+                {{else}}
+                <h2 class="title" style="height: 50px;">${mbellipsis(name, 28)}</h2>
+                {{/if}}
+                <div class='dot_border' style='margin: 3px auto;height: 2px;width: 95%;'>&nbsp;</div>
+            </div>
+
+            <div class="status_box">
+                {{if loc_name}}
+                    <p class="place event_place icon-min pin">${loc_name}</p>
+                {{else}}
+                    {{if type == 'tour'}}
+                        <p class="place event_place icon-min pin">-</p>
+                    {{/if}}
+                {{/if}}
+
+                {{if type == 'tour'}}
+                <p class="date event_date icon-min clock">${date_info.starttime}&#xFF5E;</p>
+                {{else}}
+                <p class="date event_date icon-min clock">${date_info.starttime}&#xFF5E;</p>
+                {{/if}}
+
+                {{if artistname}}
+                    <p class="artist event_artist icon-min human">${artistname}</p>
+                {{/if}}
+            </div>
+        </figure>
+        </a>
+    </li>
+    {{/each}}
+</ul>
+</script>
+
+
+<script id="pickupEventListTemplate" type="text/x-jquery-tmpl">
+ {{each $item.data}}
+    <ul class="pickup-event-list clearfix slide">
+    {{each events}}
+        {{if checknew($value)}}
+            <li class="item new">
+        {{else}}
+            <li class="item">
+        {{/if}}
+            <a href="${base_url}{{if type == 'tour' || type === 1}}t{{else}}e{{/if}}/${cname}">
+            <figure>
+                <img src="${event_pic_url}?mode=fix&height=290&width=290" width="290" height="290" alt="画像の説明" />
+                <figcaption>
+                    <h2 class="title">${mbellipsis(title, 28)}</h2>
+                    <ul>
+                        {{if artistname}}
+                        <li><span class="icon-min human"></span>${mbellipsis(artistname, 37)}</li>
+                        {{/if}}
+                        <li><span class="icon-min clock"></span>${date_info.starttime}&#xFF5E;</li>
+                        {{if loc_name}}
+                            <li><span class="icon-min pin"></span>${mbellipsis(loc_name, 37)}</li>
+                        {{else}}
+                            {{if type == 'event'}}
+                                <li><span class="icon-min pin"></span>-</li>
+                            {{/if}}
+                        {{/if}}
+                    </ul>
+                </figcaption>
+            </figure>
+            <p class="more">詳しく</p>
+            </a>
+        </li>
+    {{/each}}
+    </ul>
+{{/each}}
+</script>
+
+<!-- global top PickUp event template -->
+<script id="pickupTopEventListTemplate" type="text/x-jquery-tmpl">
+ {{each $item.data}}
+    <ul class="pickup-event-list clearfix slide">
+    {{each events}}
+        {{if checknew($value)}}
+            <li class="item new">
+        {{else}}
+            <li class="item">
+        {{/if}}
+            <a href="${base_url}event?id=${id}">
+            <figure>
+                <img src="${event_pic_url}?mode=fix&height=290&width=290" width="290" height="290" alt="画像の説明" />
+                <figcaption>
+                    <h2 class="title">${mbellipsis(title, 28)}</h2>
+                    <ul>
+                        <li><span class="icon-min human"></span>${mbellipsis(artistname, 37)}</li>
+                        <li><span class="icon-min clock"></span>${date_info.starttime}&#xFF5E;</li>
+                        <li><span class="icon-min pin"></span>
+                        {{if loc_name}}
+                            ${mbellipsis(loc_name, 37)}
+                        {{else}}
+                            -
+                        {{/if}}
+                        </li>
+                    </ul>
+                </figcaption>
+            </figure>
+            <p class="more">詳しく</p>
+            </a>
+        </li>
+    {{/each}}
+    </ul>
+{{/each}}
+</script>
+
+<!-- 検索結果リスト template -->
+<script id="pickupPromoterEventListTemplate" type="text/x-jquery-tmpl">
+<ul class="event-list clearfix">
+    {{each $item.data}}
+    <li>
+        <a href="${base_url}event?id=${id}">
+        {{if checknew($value)}}
+        <img src="${base_url}pc_images/icon_new.png" width="63" height="30" alt="NEW" class="new"/>
+        {{/if}}
+        <figure>
+            <img src="${event_pic_url}?mode=fix&height=235&width=235" width="235" height="235" alt="画像の説明" />
+            <figcaption>
+                <div>
+                    {{if title}}
+                    <h2 class="title">${mbellipsis(title, 46)}</h2>
+                    {{else}}
+                    <h2 class="title">${mbellipsis(name, 46)}</h2>
+                    {{/if}}
+                    <strong class="artist">${mbellipsis(artistname, 37)}</strong>
+                    <p class="date">
+                            ${date_info.starttime}&#xFF5E;
+                    </p>
+                    {{if loc_name}}
+                    <p class="place">${mbellipsis(loc_name, 37)}</p>
+                    {{else}}
+                    <p class="place">-</p>
+                    {{/if}}
+                </div>
+            </figcaption>
+        </figure>
+        </a>
+    </li>
+    {{/each}}
+</ul>
+</script>
+
+
+
+
+<!-- purchased event list template -->
+<script id="purchasedEventListTemplate" type="text/x-jquery-tmpl">
+<li class="list-item list-arrow green-right">
+    <a href="${base_url}purchased_history/detail?id=${id}" class="arrowGreen">
+        <section class="title clearfix">
+            {{if subscription_status}}
+                {{if subscription_status}}
+                <span class="status label-status {{if subscription_status == 'waiting'}}waiting{{else subscription_status == 'canceled'}}canceled{{else}}lost{{/if}}">
+                    {{if subscription_status == 'waiting'}}
+                    抽選待ち
+                    {{else subscription_status == 'canceled'}}
+                    キャンセル
+                    {{else}}
+                    落選
+                    {{/if}}
+                    </span>
+                {{/if}}
+            {{else}}
+                {{if order_status}}
+                <span class="status label-status {{if order_status == 'committed'}}committed{{else order_status == 'canceled'}}canceled{{else order_status == 'unpaid'}}unpaid{{else order_status == 'credited'}}credited{{else order_status == 'free'}}free{{/if}}">
+                    {{if order_status == 'committed'}}
+                    入金済み
+                    {{else order_status == 'canceled'}}
+                    キャンセル
+                    {{else order_status == 'unpaid'}}
+                    入金待ち
+                    {{else order_status == 'credited'}}
+                    入金済み
+                    {{else order_status == 'free'}}
+                    無料
+                    {{/if}}
+                </span>
+                {{/if}}
+            {{/if}}
+            <h3 class="name pull-left text-break">${name}</h3>
+        </section>
+        <p class="reception-name">${event_group_name}</p>
+        <ul class="list-row">
+            {{if payment_method == 'lottery' || (payment_type == 'docomo' || payment_type == 'auone' || payment_type == 'mysoftbank' || payment_type == 'cvs') }}
+            <li class="date"><span>申込日：</span>${formatDateOnly(create_time, 1)}<span>${formatDateDay(create_time)}</span>&nbsp;</li>
+            {{else}}
+            <li class="date"><span>申込日：</span>${formatDateOnly(order_date, 1)}<span>${formatDateDay(order_date)}</span>&nbsp;&nbsp;</li>
+            {{/if}}
+            <li class="number"><span>申込番号：</span>${id}</li>
+        </ul>
+        {{if event_status === 'canceled'}}
+            <div class="event-canceled-msg">イベントは中止になりました</div>
+        {{/if}}
+    </a>
+</li>
+</script>
+
+
+<!-- 抽選チケットイベント一覧 -->
+<!-- purchased lottery event list template -->
+<script id="purchasedLotteryEventListTemplate" type="text/x-jquery-tmpl">
+    <div class="box">
+    {{if date_info.showtype && date_info.showtype == 'detail'}}
+        <a style ="cursor:default;color:#333">
+    {{else}}
+        <a href="${base_url}myticket/lottery_detail?id=${id}" onclick="location.href='${base_url}myticket/lottery_detail?id=${id}'" style ="color:#333;">
+    {{/if}}
+            <figure class="clearfix">
+                {{if getLotteryStatusLabel(sales_status)}}
+                <div class="myticket-state01">${getLotteryStatusLabel(sales_status)}</div>
+                {{/if}}
+                <img src="${event_pic_url}?mode=fix&height=130&width=130" width="130" height="130" alt="画像の説明" />
+                <figcaption>
+                    <table class="info-table">
+                        <caption>${name}</caption>
+
+                        <thead>
+                            <tr>
+                                <th colspan="2">${artist}</th>
+                            </tr>
+                        </thead>
+
+                        <tbody>
+                            <tr class="row">
+                                <th>【イベント日程】</th>
+                                <td>${formatDateTime(date_info.starttime)}&#xFF5E;</td>
+                            </tr>
+
+                            <tr class="row">
+                                <th>【会場】</th>
+                                <td>${loc_name}</td>
+                            </tr>
+
+                            {{if price}}
+                            <tr class="row">
+                                <th>【購入日】</th>
+                                <td>${formatDateTime(order_date)}</td>
+                            </tr>
+
+                            <tr class="row">
+                                <th>【購入金額】</th>
+                                <td>￥${price}</td>
+                            </tr>
+                            {{/if}}
+                        </tbody>
+                    </table>
+                </figcaption>
+            </figure>
+        </a>
+    </div>
+</script>
+
+
+
+<!-- purchased ticket list template -->
+<script id="purchasedTicketListTemplate" type="text/x-jquery-tmpl">
+<div class="tickets clearfix {{if myCount % 2}} right {{else}} left {{/if}}">
+    <table>
+        <tr>
+            <th>${increment()}</th>
+            <td>
+                <dl class="clearfix">
+                    <dt>チケット名</dt>
+                    <dd>${name}</dd>
+
+                    {{if ticket_number}}
+                    <dt>チケット番号</dt>
+                    <dd>${ticket_number}</dd>
+                    {{/if}}
+
+                    {{if seat}}
+                    <dt>座席番号</dt>
+                    <dd>${seat}</dd>
+                    {{/if}}
+
+                    {{if serial_number}}
+                    <dt>整理番号</dt>
+                    <dd>${serial_number}</dd>
+                    {{/if}}
+                </dl>
+                <ul>
+                    {{if is_past}}
+                        {{if !is_pattern_auth}}
+                            {{if (status == '0' || status == '1' || status == '2' || status == '3' || status == '8' || status == '9' || status == '11' || status == '12')}}
+                                <li><a href="#" onclick="publish_ticket('${purchase_id}');"><img src="/pc_images/btn_show_ticket.png" width="98" height="27" alt="チケットを表示" /></a></li>
+                            {{/if}}
+                        {{/if}}
+                    {{else}}
+                        {{if status == '0'}}
+                            {{if is_pattern_auth}}
+                                <li><a href="/myticket/send_friend?id=${purchase_id}" target="_blank"><img src="/pc_images/myticket_btn_friend.png" width="98" height="27" alt="友達に渡す" /></a></li>
+                            {{else}}
+                                <li><a href="#" onclick="publish_ticket('${purchase_id}');"><img src="/pc_images/btn_show_ticket.png" width="98" height="27" alt="チケットを表示" /></a></li>
+                                <li><a href="/myticket/send_friend?id=${purchase_id}" target="_blank"><img src="/pc_images/myticket_btn_friend.png" width="98" height="27" alt="友達に渡す" /></a></li>
+                            {{/if}}
+                        {{/if}}
+                        {{if status == '1'}}
+                            {{if !is_pattern_auth}}
+                                <li><a href="#" onclick="publish_ticket('${purchase_id}');"><img src="/pc_images/btn_show_ticket.png" width="98" height="27" alt="チケットを表示" /></a></li>
+                            {{/if}}
+                        {{/if}}
+                        {{if status == '2'}}
+                            {{if !is_pattern_auth}}
+                                <li><a href="#" onclick="publish_ticket('${purchase_id}');"><img src="/pc_images/btn_show_ticket.png" width="98" height="27" alt="チケットを表示" /></a></li>
+                            {{/if}}
+                            <li><a href="#" onclick="bring_back_ticket('${purchase_id}', '${send_ticket_user}');"><img src="/pc_images/myticket_btn_bring_back.png" width="98" height="27" alt="購入者に返す" /></a></li>
+                        {{/if}}
+                        {{if status == '3'}}
+                            {{if !is_pattern_auth}}
+                                <li><a href="#" onclick="publish_ticket('${purchase_id}');"><img src="/pc_images/btn_show_ticket.png" width="98" height="27" alt="チケットを表示" /></a></li>
+                            {{/if}}
+                        {{/if}}
+                        {{if status == '4'}}
+                            <li><a href="#" onclick="collect_ticket('${html_escape(receive_ticket_user)}', '${purchase_id}');"><img src="/pc_images/myticket_btn_collect.png" width="98" height="27" alt="チケットを回収" /></a></li>
+                        {{/if}}
+                        {{if status == '8' || status == '9' || status == '11' || status == '12'}}
+                            {{if !is_pattern_auth}}
+                                <li><a href="#" onclick="publish_ticket('${purchase_id}');"><img src="/pc_images/btn_show_ticket.png" width="98" height="27" alt="チケットを表示" /></a></li>
+                            {{/if}}
+                        {{/if}}
+                        {{if status == '10'}}
+                            <li><a href="#" onclick="cancel_ticket_sending('${purchase_id}');"><img src="/pc_images/myticket_btn_cancel_sending.png" width="98" height="27" alt="受渡を中止" /></a></li>
+                            <li><a href="/myticket/send_friend?id=${purchase_id}" target="_blank"><img src="/pc_images/myticket_btn_resend.png" width="98" height="27" alt="再送する" /></a></li>
+                        {{/if}}
+                    {{/if}}
+                </ul>
+                <p class="myticket-state color${status}">
+                {{if status == '0'}}未使用{{/if}}
+                {{if status == '1' || status == '3'}}使用済み{{/if}}
+                {{if status == '2'}}受取り済み From:<span wovn-ignore>${send_ticket_user}</span>{{/if}}
+                {{if status == '4'}}お渡し済み To:<span wovn-ignore>${receive_ticket_user}</span>{{/if}}
+                {{if status == '5'}}${receive_ticket_user}様が使用済み{{/if}}
+                {{if status == '6'}}イベントは終了しました{{/if}}
+                {{if status == '7'}}このチケットはキャンセルされました{{/if}}
+                {{if status == '8'}}未使用（アプリに発券済み）{{/if}}
+                {{if status == '9'}}アプリで使用済み{{/if}}
+                {{if status == '10'}}受渡中{{/if}}
+                {{if status == '11'}}${send_ticket_user}様から受け取り(アプリに発券済み){{/if}}
+                {{if status == '12'}}${send_ticket_user}様から受け取り(アプリで使用済み){{/if}}
+                {{if status == '13'}}${receive_ticket_user}様にお渡し済み(アプリに発券済み){{/if}}
+                {{if status == '14'}}${receive_ticket_user}様が使用済み(アプリで使用済み){{/if}}
+　　            {{if status == '15'}}イベントが中止になりました{{/if}}
+                </p>
+            </td>
+        </tr>
+    </table>
+</div>
+{{if myCount % 2 == 0 && myCount != 0}} <div class="clearfix"></div> {{/if}}
+</script>
+
+
+
+<!-- lotteryticket list template -->
+<script id="lotteryTicketListTemplate" type="text/x-jquery-tmpl">
+<div class="tickets lottery clearfix {{if myCount % 2}} right {{else}} left {{/if}} ticket-info" id="lottery_tickets_${getTicketNo()}">
+    <table>
+        <tr>
+            <th>${increment()}</th>
+
+            <td style="padding-bottom: 5px">
+
+                <span class="lottelyticket-info clearfix" >
+                   <span class="myticket-state01" style="margin-top:10px;">${status}</span>
+                </span>
+
+                <dl class="clearfix" style="padding-top: 10px">
+                    <dt>結果発表予定日</dt>
+                    <dd>{{if lottery_announce}}<span class="font-bold f-red">${lottery_announce}</span>{{else}}--{{/if}}</dd>
+
+                    <dt>申込日</dt>
+                    <dd>${formatDateTime(order_date)}</dd>
+
+                    <dt>申込番号</dt>
+                    <dd>${order_id}</dd>
+
+                    {{if !is_free}}
+                    <dt>支払方法</dt>
+                    <dd>
+                    {{if payment_type == 'credit' }}
+                        クレジット
+                    {{else payment_type == 'cvs' }}
+                        コンビニ入金
+                    {{else payment_type == 'yahoowallet' }}
+                        Yahoo!ウォレット
+                    {{else payment_type == 'auone'}}
+                        auかんたん決済
+                    {{else payment_type == 'mysoftbank'}}
+                        ソフトバンクまとめて支払い
+                    {{else payment_type == 'docomo'}}
+                        ドコモケータイ払い
+                    {{/if}}
+                    </dd>
+                    {{/if}}
+
+                    <dt>受付内容</dt>
+                    <dd></dd>
+                </dl>
+
+                <p class="text-break pricelist-title">${name}</p>
+
+                <table class="pricelist"></table>
+
+
+                {{if cancel_url}}
+                <dl class="cancel-info clearfix">
+                    <dt class="cancel-button clearfix">
+                        <span class="clearfix text-center"><a class='myticket-state02' href='${cancel_url}?id=${id}&event_id=${event_id}' onclick='return confirmCancelLotteryTicket("${name}");'>申込み取消</a></span>
+                    </dt>
+                    <dt class="f-red">
+                        ${cancel_time_limit_message}
+                    </dt>
+                </dl>
+                {{/if}}
+            </td>
+        </tr>
+    </table>
+</div>
+{{if myCount % 2 == 0 && myCount != 0}} <div class="clearfix"></div> {{/if}}
+</script>
+
+
+
+<script id="purchasedEventTemplate" type="text/x-jquery-tmpl">
+<li class="js-item item" id="qrcode_display_area">
+    {{if is_aticket}}
+    <div class="importance" style="margin-top: -10px;font-size: 15px;text-align:center;">
+        <em>本チケットは、スマートフォン及びフィーチャーフォンでのみデジタルチケット（QRコード）を表示いただけます</em>
+    </div>
+    {{/if}}
+    <section class="livedata">
+        <section class="inner table-layout-fix">
+            <figure class="thumb"><img src="${event_pic_url}" width="108" alt="${artist}"></figure>
+            <section class="right-content">
+                {{if order_status}}
+                    <span class="status label-status {{if order_status == 'ordered'}}ordered{{else order_status == 'committed'}}committed{{else order_status == 'canceled'}}canceled{{else order_status == 'unpaid'}}unpaid{{else order_status == 'credited'}}credited{{/if}}">
+                    {{if order_status == 'committed'}}
+                        入金済み
+                    {{else order_status == 'canceled'}}
+                        キャンセル
+                    {{else order_status == 'unpaid'}}
+                        入金待ち
+                    {{else order_status == 'credited'}}
+                        入金済み
+                    {{/if}}
+                </span>
+                {{/if}}
+                <h3 class="title" style="height: auto;">${name}</h3>
+                <ul class="data-list line">
+                    <li class="artist text-ellipsis">${artist}</li>
+                    {{if without_term == '1'}}
+                        {{if formatDate(date_info.starttime, "date_only") != formatDate(date_info.endtime, "date_only")}}
+                            <li class="open">${formatDateOnly(date_info.starttime, 1)}<span>${formatDateDay(date_info.starttime)}</span>&nbsp;${formatTime(date_info.starttime)}&nbsp;<span>〜</span>&nbsp;${formatDateOnly(date_info.endtime, 1)}<span>${formatDateDay(date_info.endtime)}</span>&nbsp;${formatTime(date_info.endtime)}</li>
+                        {{else}}
+                            <li class="open">${formatDateOnly(date_info.starttime, 1)}<span>${formatDateDay(date_info.starttime)}</span>&nbsp;${formatTime(date_info.starttime)}</li>
+                        {{/if}}
+                    {{else}}
+                    <li class="open">${formatDateOnly(date_info.starttime, 1)}<span>${formatDateDay(date_info.starttime)}</span>&nbsp;${formatTime(date_info.starttime)}&nbsp;<span>〜</span></li>
+                    {{/if}}
+                    <li class="map text-ellipsis">${loc_name}</li>
+                    {{if lottery_announce}}
+                    <li class="text-ellipsis">申し込み日 ${formatDateTime(order_date)}</li>
+                    <li class="text-ellipsis">申し込み枚数 ${order_count}</li>
+                    <li class="text-ellipsis">お支払い金額 ￥${total_price}</li>
+                    {{else purchasetime}}
+                    <li class="text-ellipsis">購入日 ${formatDateTime(purchasetime)}</li>
+                    <li class="text-ellipsis">購入ID ${id}</li>
+                    {{/if}}
+                </ul>
+            </section>
+        </section>
+    </section>
+    {{if ticketimg}}
+        {{if is_aticket}}
+            &nbsp;
+        {{else}}
+            <img id="qrcode_img" src="${ticketimg}" style="position:absolute;top:30px;right:20px;">
+        {{/if}}
+    {{/if}}
+</li>
+</script>
+
+
+<script id="printTicketTemplate" type="text/x-jquery-tmpl">
+{{if is_aticket}}
+<div class="importance">
+    <em>本チケットは、スマートフォン及びフィーチャーフォンでのみデジタルチケット（QRコード）を表示いただけます</em>
+</div>
+{{/if}}
+<div class="clearfix" id="qrcode_display_area">
+    <div class="left-content">
+
+        <p class="event-name">${name}</p>
+        <p class="artist-name">${artist}</p>
+
+        <ul class="info-list">
+            {{if date_info.accepttime}}
+            <li>
+                <p><span>開場日時</span><span class="item">：${formatDateTime(date_info.accepttime)}&#xFF5E;</span></p>
+            </li>
+            {{/if}}
+
+            {{if date_info.starttime}}
+            <li>
+                <p><span>開演日時</span><span class="item">：${formatDateTime(date_info.starttime)}&#xFF5E;</span></p>
+            </li>
+            {{/if}}
+
+            {{if date_info.endtime}}
+            <li>
+                <p><span>終演日時</span><span class="item">：${formatDateTime(date_info.endtime)}&#xFF5E;</span></p>
+            </li>
+            {{/if}}
+
+            <li>
+                <p><span>会場名</span><span class="item">：${loc_name}</span></p>
+            </li>
+
+            <li>
+                <p><span>住所</span><span class="item">：${ev_address}</span></p>
+            </li>
+        </ul>
+
+        {{if info_name || info_tel || info_url || info_other}}
+        <div class="contact-info">
+            <p>【問い合わせ先】</p>
+            <ul>
+                {{if info_name}}
+                <li>${info_name}</li>
+                {{/if}}
+
+                {{if info_tel}}
+                <li>${info_tel}</li>
+                {{/if}}
+
+                {{if info_url}}
+                <li>${info_url}</li>
+                {{/if}}
+
+                {{if info_other}}
+                <li>${info_other}</li>
+                {{/if}}
+            </ul>
+
+            <p>イベントページのお問い合わせフォームからも問い合わせができます</p>
+        </div>
+        {{/if}}
+    </div>
+
+
+        {{if ticketimg}}
+            {{if is_aticket}}
+                &nbsp;
+            {{else}}
+                <div class="right-content">
+                    <img class="qrcode" id="qrcode_img" src="${ticketimg}" />
+                </div>
+            {{/if}}
+        {{/if}}
+
+</div>
+</script>
+
+
+
+
+
+
+
+<script id="searchResultListTemplate" type="text/x-jquery-tmpl">
+<a class="_js_event_link" rel="external" href="${base_url}{{if type == 1}}tour?id={{else}}event?id={{/if}}${id}">
+<div class="box">
+    <figure class="clearfix">
+        <img src="${event_pic_url}?mode=fix&height=130&width=130" width="130" height="130" alt="${artist}" />
+        <figcaption>
+        <table>
+            <caption>${name}</caption>
+            <thead>
+                <tr>
+                    <th colspan="2">${artistname}</th>
+                </tr>
+            </thead>
+            <tbody>
+            <tr>
+                <th>【イベント日程】</th>
+                <td>${date_info.starttime}&#xFF5E;</td>
+            </tr>
+            <tr>
+                <th>【会場】</th>
+                <td>${loc_name}</td>
+            </tr>
+            </tbody>
+        </table>
+        </figcaption>
+    </figure>
+</div>
+</a>
+</script>
+
+
+
+<script id="eventHistoriesListTemplate" type="text/x-jquery-tmpl">
+<div class="message">
+	<p>${formatDate(updatetime)}: ${updated_detail}</p>
+</div>
+</script>
+
+
+
+ <!-- my_today_event template -->
+<script id="todayEventTemplate" type="text/x-jquery-tmpl">
+<img src="/pc_images/icon_hige_bl.png" alt="" width="11" height="10" />
+<h2>本日のチケット</h2>
+{{each data_list}}
+<a href="${base_url}myticket/detail?id=${id}">
+<div class="todayticket-list clearfix">
+     <img src="${event_pic_url}?mode=fix&height=80&width=80" width="80" height="80" alt="" />
+     <dl>
+         <dt>${mbellipsis(name, 52)}</dt>
+         <dd class="artist">${artist}</dd>
+         <dd class="date">${getAfterHours(date_info.starttime)}</dd>
+         <dd class="place">${loc_name}</dd>
+     </dl>
+</div>
+</a>
+{{/each}}
+{{if !data_list.length}}
+<div class="todayticket-list clearfix todayticket-none">
+    <p class="empty">本日のチケットはありません</p>
+</div>
+{{/if}}
+<nav>
+    <a href="/myticket/">マイチケット一覧を見る</a>
+</nav>
+</script>
+
+
+
+<!-- my_today_event template -->
+<script id="headerNotifTemplate" type="text/x-jquery-tmpl">
+<img src="/pc_images/icon_hige_wh.png" alt="" width="11" height="10" />
+{{if !data_list.length}}
+<div class="todayticket-list clearfix todayticket-none">
+    <p class="empty">最新のお知らせ・問い合わせはありません</p>
+</div>
+{{else}}
+{{each data_list}}
+    <a href="${base_url}notification/detail?id=${id}">
+    {{if read}}
+    <dl class="state01">
+    {{else}}
+    <dl class="state02">
+    {{/if}}
+        <dt><span class="{{if type == 'service'}}c2{{else}}c1{{/if}}">{{if type == 'service'}}運営サイト{{else type == 'user'}}${mbellipsis(user_name,39)}{{else}}${mbellipsis(promoter_name,39)}{{/if}}</span></dt>
+        <dd>
+            <table style="height:100%;width:100%;"><td style="vertical-align: middle;">
+            {{if inquiry_type == 'inquiry'}}<div class="icon_mail_${reply_type}_sm"></div>{{/if}}
+            <span>{{if number}}[${number}]{{/if}}${mbellipsis(title,98)}</span>
+            </td></table>
+        </dd>
+    </dl>
+    </a>
+{{/each}}
+{{/if}}
+<nav>
+    <a href="/notification/">お知らせ・問い合わせ一覧を見る</a>
+</nav>
+</script>
+
+
+
+<script id="purchaseHistoryDetailTableTemplate" type="text/x-jquery-tmpl">
+<thead>
+    <tr>
+        <th class="fs">チケット名</th>
+        <th class="sc">枚数</th>
+        <th class="price">チケット料金</th>
+    </tr>
+</thead>
+<tbody>
+{{each tickets}}
+<tr>
+    <td class="fs">${name}</td>
+    <td class="sc">${count}枚</td>
+    <td class="price">￥${addFigure(price)}</td>
+</tr>
+{{if this.credit_charge != undefined }}
+<tr class="credit-price">
+    <td class="fs" colspan="2">システム利用料</td>
+    <td class="price">￥${addFigure(credit_charge)}</td>
+</tr>
+<tr class="credit-price subtotal">
+    <td class="fs" colspan="2">小計</td>
+    <td class="price">￥${addFigure(credit_subtotal)}(￥${addFigure(parseInt(price) + parseInt(credit_charge))}×${count}枚)</td>
+</tr>
+{{/if}}
+{{if this.cvs_charge != undefined }}
+<tr class="cvs-price">
+    <td class="fs" colspan="2">システム利用料</td>
+    <td class="price">￥${addFigure(cvs_charge)}</td>
+</tr>
+<tr class="cvs-price subtotal">
+    <td class="fs" colspan="2">小計</td>
+    <td class="price">￥${addFigure(cvs_subtotal)}(￥${addFigure(parseInt(price) + parseInt(cvs_charge))}×${count}枚)</td>
+</tr>
+{{/if}}
+{{if this.yahoowallet_charge != undefined }}
+<tr class="yahoowallet-price">
+    <td class="fs" colspan="2">システム利用料</td>
+    <td class="price">￥${addFigure(yahoowallet_charge)}</td>
+</tr>
+<tr class="yahoowallet-price subtotal">
+    <td class="fs" colspan="2">小計</td>
+    <td class="price">￥${addFigure(yahoowallet_subtotal)}(￥${addFigure(parseInt(price) + parseInt(yahoowallet_charge))}×${count}枚)</td>
+</tr>
+{{/if}}
+{{if this.carrier_charge != undefined }}
+<tr class="carrier-price">
+    <td class="fs" colspan="2">システム利用料</td>
+    <td class="price">￥${addFigure(carrier_charge)}</td>
+</tr>
+<tr class="carrier-price subtotal">
+    <td class="fs" colspan="2">小計</td>
+    <td class="price">￥${addFigure(carrier_subtotal)}(￥${addFigure(parseInt(price) + parseInt(carrier_charge))}×${count}枚)</td>
+</tr>
+{{/if}}
+{{/each}}
+{{if $data.cvs_payment}}
+<tr class="cvs-price">
+    <td class="fs" colspan="2">コンビニ決済手数料</td>
+    <td class="price">￥${addFigure(cvs_payment)}</td>
+</tr>
+{{/if}}
+<tfoot>
+    {{if $data.credit_total_price != undefined }}
+    <tr class="credit-price">
+        <th class="fs" colspan="2">合計金額（税込）</th>
+        <th class="price">￥${addFigure(credit_total_price)}</th>
+    </tr>
+    {{/if}}
+    {{if $data.cvs_total_price != undefined }}
+    <tr class="cvs-price">
+        <th class="fs" colspan="2">合計金額（税込）</th>
+        <th class="price">￥${addFigure(cvs_total_price)}</th>
+    </tr>
+    {{/if}}
+    {{if $data.yahoowallet_total_price != undefined }}
+    <tr class="yahoowallet-price">
+        <th class="fs" colspan="2">合計金額（税込）</th>
+        <th class="price">￥${addFigure(yahoowallet_total_price)}</th>
+    </tr>
+    {{/if}}
+    {{if $data.carrier_total_price != undefined }}
+    <tr class="carrier-price">
+        <th class="fs" colspan="2">合計金額（税込）</th>
+        <th class="price">￥${addFigure(carrier_total_price)}</th>
+    </tr>
+    {{/if}}
+</tfoot>
+</script>
+
+<!-- 申込詳細 購入内容テンプレート -->
+<script id="purchaseHistoryDetailTableVerticalTemplate" type="text/x-jquery-tmpl">
+{{each tickets}}
+    <table class="price-table-vertical">
+        <tr>
+            <th>チケット名</th>
+            <td class="text-break">${name}</td>
+        </tr>
+        <tr>
+            <th>チケット料金</th>
+            <td>¥${addFigure(price)}{{if this.invitation && default_price !== 0 && default_price !== '0'}}{{if price != default_price}}　<s class="real_price">¥${addFigure(default_price)}</s>{{/if}}{{/if}}</td>
+        </tr>
+        {{if this.credit_charge != undefined }}
+        <tr class="credit-price">
+            <th>システム利用料</th>
+            <td>¥${addFigure(credit_charge)}</td>
+        </tr>
+        {{/if}}
+        {{if this.cvs_charge != undefined }}
+        <tr class="cvs-price">
+            <th>システム利用料</th>
+            <td>¥${addFigure(cvs_charge)}</td>
+        </tr>
+        {{/if}}
+        {{if this.yahoowallet_charge != undefined }}
+        <tr class="yahoowallet-price">
+            <th>システム利用料</th>
+            <td>¥${addFigure(yahoowallet_charge)}</td>
+        </tr>
+        {{/if}}
+        {{if this.carrier_charge != undefined }}
+        <tr class="carrier-price">
+            <th>システム利用料</th>
+            <td>¥${addFigure(carrier_charge)}</td>
+        </tr>
+        {{/if}}
+        <tr>
+            <th>枚数</th>
+            <td>${count}枚
+              {{if seat_names}}
+              <br />
+              <div style='margin-top: 3px;'>
+              {{each(i, seat_name) seat_names}}
+              ・${seat_name}<br />
+              {{/each}}
+              </div>
+              {{if !selected_continuous}}
+              <div class="text-color-red" style="margin-top: 3px;">※連席ではありません。購入後の座席の変更はできません。</div>
+              {{/if}}
+              {{/if}}
+            </td>
+        </tr>
+        {{if this.credit_charge != undefined}}
+        <tr class="subtotal credit-price">
+            <th>小計</th>
+            <td>
+                <span>¥${addFigure(credit_subtotal)}{{if this.invitation && default_credit_subtotal !== 0 && default_credit_subtotal !== '0'}}{{if credit_subtotal != default_credit_subtotal}}　<s class="real_price">¥${addFigure(default_credit_subtotal)}</s>{{/if}}{{/if}}</span>
+            </td>
+        </tr>
+        {{/if}}
+        {{if this.cvs_charge != undefined }}
+        <tr class="subtotal cvs-price">
+            <th>小計</th>
+            <td>
+                <span>¥${addFigure(cvs_subtotal)}{{if this.invitation && default_cvs_subtotal !== 0 && default_cvs_subtotal !== '0'}}{{if cvs_subtotal != default_cvs_subtotal}}　<s class="real_price">¥${addFigure(default_cvs_subtotal)}</s>{{/if}}{{/if}}</span>
+            </td>
+        </tr>
+        {{/if}}
+        {{if this.yahoowallet_charge != undefined }}
+        <tr class="subtotal yahoowallet-price">
+            <th>小計</th>
+            <td>
+                <span>¥${addFigure(yahoowallet_subtotal)}{{if this.invitation && default_yahoowallet_subtotal !== 0 && default_yahoowallet_subtotal !== '0'}}{{if yahoowallet_subtotal != default_yahoowallet_subtotal}}　<s class="real_price">¥${addFigure(default_yahoowallet_subtotal)}</s>{{/if}}{{/if}}</span>
+            </td>
+        </tr>
+        {{/if}}
+        {{if this.carrier_charge != undefined }}
+        <tr class="subtotal carrier-price">
+            <th>小計</th>
+            <td>
+                <span>¥${addFigure(carrier_subtotal)}{{if this.invitation && default_carrier_subtotal !== 0 && default_carrier_subtotal !== '0'}}{{if carrier_subtotal != default_carrier_subtotal}}　<s class="real_price">¥${addFigure(default_carrier_subtotal)}</s>{{/if}}{{/if}}</span>
+            </td>
+        </tr>
+        {{/if}}
+    </table>
+{{/each}}
+
+
+{{if $data.credit_total_price != undefined}}
+<table class="price-table-vertical credit-price">
+    <tr class="sum credit-price">
+        <th><nobr>合計金額（税込）</nobr></th>
+        <td>¥${addFigure(credit_total_price)}</td>
+    </tr>
+</table>
+{{/if}}
+{{if $data.cvs_total_price != undefined }}
+<table class="price-table-vertical cvs-price">
+    <tr class="cvs-price">
+        <th>コンビニ決済手数料</th>
+        <td>¥${addFigure(cvs_payment)}</td>
+    </tr>
+</table>
+<table class="price-table-vertical cvs-price">
+    <tr class="sum cvs-price">
+        <th><nobr>合計金額（税込）</nobr></th>
+        <td>¥${addFigure(cvs_total_price)}</td>
+    </tr>
+</table>
+{{/if}}
+{{if $data.yahoowallet_total_price != undefined }}
+<table class="price-table-vertical yahoowallet-price">
+    <tr class="sum yahoowallet-price">
+        <th><nobr>合計金額（税込）</nobr></th>
+        <td>¥${addFigure(yahoowallet_total_price)}</td>
+    </tr>
+</table>
+{{/if}}
+{{if $data.carrier_total_price != undefined }}
+<table class="price-table-vertical carrier-price">
+    <tr class="sum carrier-price">
+        <th><nobr>合計金額（税込）</nobr></th>
+        <td>¥${addFigure(carrier_total_price)}</td>
+    </tr>
+</table>
+{{/if}}
+</script>
+
+<!-- my_today_event template (temporary layout) -->
+<script id="notificationListTemplate" type="text/x-jquery-tmpl">
+    <tr id="notification_${id}" class="notification_row clearfix {{if read}} bg-glay{{/if}}" style="cursor: pointer">
+        <td class='notification_body left'><span class="date">${formatDateOnly(publishtime, 1)}<span>${formatDateDay(publishtime)}</span>&nbsp;${formatTime(publishtime)}</span></td>
+        <td class='notification_body text-break middle'><a href="${base_url}notification/detail?id=${id}">{{if number}}[${number}]{{/if}}${title}</a></td>
+        <td class='notification_body clearfix'>
+        <div style='float: left;' class="tag {{if type == 'service'}}tag-02{{else source_type == 'inquiry' && reply_type == "user" }}tag-04{{else type == 'user'}}tag-03{{else}}tag-01{{/if}}">
+            <em>{{if type == 'service'}}運営{{else source_type == 'inquiry' && reply_type == "user" }}自分{{else type == 'user'}}友達{{else}}主催者{{/if}}</em>
+        </div>
+        <div class="name">{{if type == 'service'}}${application_name}{{else source_type == 'inquiry' && reply_type == "user" }}${user_name + " (To " + promoter_name + ")"}{{else type == 'user'}}${user_name}{{else}}${promoter_name}{{/if}}</span></div>
+        </td>
+    </tr>
+</script>
+
+
+
+<script id="ownerNotificationListTemplate" type="text/x-jquery-tmpl">
+    <div style="border: 1px solid gray; margin:20px; padding : 20px; background-color:white;">
+        <div style="float:right;">
+            <select name="slider" id="${promoter_id}" data-role="slider" data-mini="true" data-theme="a">
+                <option value="off"{{if !notified}} selected="selected"{{/if}}>Off</option>
+                <option value="on"{{if notified}} selected="selected"{{/if}}>On</option>
+            </select>
+        </div>
+        <p>${name}</p>
+    </div>
+</script>
+
+<script id="emptyListTemplate" type="text/x-jquery-tmpl">
+<div class="empty-list">
+    <img src="/images/logo_livepocket_e.png" width="100" height="120" alt="" />
+    <p id="error-message" class="text-center">${message}</p>
+    <nav class="js-empty-link-top">
+        <ul>
+            <li><a href="https://t.livepocket.jp/" class="btn-flat btn-green btn-arrow center-block" >トップへ</a></li>
+        </ul>
+    </nav>
+</div>
+</script>
+
+
+<script id="receiveEventTemplate" type="text/x-jquery-tmpl">
+<li class="item">
+    <section class="livedata">
+        <section class="inner table-layout-fix">
+            <figure class="thumb"><img src="${image}" width="108" alt="${artist}"></figure>
+            <section class="right-content">
+                <h3 class="title text-ellipsis">${title}</h3>
+                <ul class="data-list line">
+                    <li class="artist text-ellipsis">${artist}</li>
+                    <li class="open">
+                    {{if without_term == 1}}
+                        {{if formatDate(starttime) == formatDate(endtime)}}
+                            ${formatDate(starttime)}
+                        {{else}}
+                            ${formatDate(starttime)}〜${formatDate(endtime)}
+                        {{/if}}
+                    {{else}}
+                        ${formatDateTime(starttime)}〜
+                    {{/if}}
+                    </li>
+                    <li class="map text-ellipsis">${locname}</li>
+                    <li class=""><span>申込み番号:</span><span wovn-ignore>${ticket_orderid}</span></li>
+                    <li class="text-ellipsis"><span>チケット番号:</span><span wovn-ignore>${ticket_number}</span></li>
+                </ul>
+            </section>
+        </section>
+    </section>
+</li>
+</script>
+
+<script id="questionEventTemplate" type="text/x-jquery-tmpl">
+<div class="box">
+    <div class="event_title"><strong>${name}</strong></div>
+    <div class="event_date">${formatDateTime(date_info.starttime)}&#xFF5E;</div>
+</div>
+</script>
+
+<script id="questionListTemplate" type="text/x-jquery-tmpl">
+  <div class="content question-list" style="margin-top:10px;">
+
+    <div class="border-gray">
+        <div class="list-bordered padding-wrapper">
+            <p class="question-q">Q${idx}{{if required == 1}}<span class="text-attention">必須</span>{{/if}}
+            </p>
+            <span class="question-str">${title}{{if question_type == 'multi'}}&nbsp;&nbsp;※複数選択可{{/if}}</span>
+        </div>
+
+
+        <div class="list-bordered padding-wrapper">
+          <ul>
+            {{each list}}
+            <li>
+                {{if question_type == 'free'}}
+                    <div class="question-textarea">
+                    <textarea name="${q_id}_${id}" rows=6></textarea>
+                    </div>
+                {{/if}}
+                {{if question_type == 'single'}}
+                    <div class="clearfix">
+                        <div class="right-outer pull-right">
+                            <label class="right-content" for="${q_id}_${id}">${title}</label>
+                        </div>
+                        <input type="radio" id="${q_id}_${id}" class="pull-left left-content" name="${q_id}_" value="${id}" />
+                    </div>
+                {{/if}}
+                {{if question_type == 'multi'}}
+                    <div class="clearfix">
+                        <div class="right-outer pull-right">
+                            <label class="right-content" for="${q_id}_${id}">${title}</label>
+                        </div>
+                        <input type="checkbox" id="${q_id}_${id}" class="pull-left left-content" name="${q_id}_${id}" value="1" />
+                    </div>
+                {{/if}}
+            </li>
+            {{/each}}
+          </ul>
+        </div>
+    </div>
+  </div>
+</script>
+
+<script id="enqueteListTemplate" type="text/x-jquery-tmpl">
+  <div class="content border-gray" style="margin-top:10px;">
+    <div class="list-bordered clearfix question-title text-break">
+        <div class="right-outer pull-right{{if required == 1}} has-required{{/if}}">
+            <div class="right-content">
+                <span class="question-str">${title}{{if question_type == 'multi'}}<span class="text-required">※複数選択可</span>{{/if}}</span>
+            </div>
+        </div>
+        <p class="question-q left-content pull-left{{if required == 1}} has-required{{/if}}">Q${idx}{{if required == 1}}<span class="text-required">必須</span>{{/if}}</p>
+    </div>
+    <div class="box list-bordered" style="word-break: break-all;">
+      <ul>
+        {{each list}}
+        <li>
+            {{if question_type == 'free'}}
+                <div class="enquete-textarea">
+                <textarea name="${q_id}_${id}" rows=6></textarea>
+                </div>
+            {{/if}}
+            {{if question_type == 'single'}}
+                <span>
+                    <input type="radio" id="${q_id}_${id}" name="${q_id}_" value="${id}" />
+                    <label for="${q_id}_${id}">${title}</label>
+                </span>
+            {{/if}}
+            {{if question_type == 'multi'}}
+                <span>
+                    <input type="checkbox" id="${q_id}_${id}" name="${q_id}_${id}" value="1" />
+                    <label for="${q_id}_${id}">${title}</label>
+                </span>
+            {{/if}}
+        </li>
+        {{/each}}
+      </ul>
+    </div>
+  </div>
+</script>
+
+<script id="otherPaymentMethodTemplate" type="text/x-jquery-tmpl">
+    <option value=${value}>${name}</option>
+</script>
+
+<script id="sbpsPostFormTemplate" type="text/x-jquery-tmpl">
+    <form action="${sbps_link_url}" method="POST" id="sbps_payment_form">
+      {{each attributes}}
+          <input type="hidden" name="${name}" value="${value}" />
+      {{/each}}
+
+      <input type="submit" value="" style="display:none;">
+    </form>
+</script>
+
+<script id="cvsPaydatasTemplate" type="text/x-jquery-tmpl">
+    {{if payment_type === "cvs" && !canceled_time}}
+        <p style='text-align:left;'>以下の情報をご確認頂き、支払期限までに必ず支払いを完了してください</p>
+    {{/if}}
+    <table class="account_conf_table" style="margin:13px;">
+        <tr>
+            <td style="width: 130px">支払方法</td>
+            <td id="pay_method">${event.order_type}</td>
+        </tr>
+    {{if payment_type === "cvs"}}
+        <tr>
+            <td>コンビニ名称</td>
+            <td>${cvs_name}</td>
+        </tr>
+        {{each cvs_pay_datas}}
+        <tr>
+            <td>${label}</td>
+            {{if value.match(/^http/)}}
+                <td><a href='${value}'>${value}</a></td>
+            {{else}}
+                <td>${value}</td>
+            {{/if}}
+        </tr>
+    {{/each}}
+    {{/if}}
+    </table>
+    {{if payment_type === "cvs" && !canceled_time}}
+        <p style='text-align:left;'>※ 期日までにお支払いが確認できない場合は、キャンセル扱いになります</p>
+    {{/if}}
+</script>
+
+<script id="historyDetailTemplate" type="text/x-jquery-tmpl">
+ <table class="table-th-vertical-top qr-code-info-area">
+        {{if getOrderStatusLabel(event.order_status)}}
+            <div class="${getOrderStatusStyle(event.order_status)}">${getOrderStatusLabel(event.order_status)}</div>
+        {{/if}}
+        <tr>
+            <td style="width: 130px">申込番号</td>
+            <td>${id}</td>
+        </tr>
+        <tr>
+            <td>申込日</td>
+            <td>${formatDateTime(createtime)}</td>
+        </tr>
+        <tr>
+        {{if time_for_payment}}
+            <td>支払期限</td>
+            <td>${formatDateTime(time_for_payment)}</td>
+        {{else event.order_status == 'canceled'}}
+            <td>キャンセル日</td>
+            <td>${formatDateTime(canceled_time)}</td>
+        {{else}}
+            <td>入金日</td>
+            <td>${formatDateTime(purchasetime)}</td>
+        {{/if}}
+        </tr>
+ </table>
+ {{if reorder && payment_url}}
+     <div style='margin: 10px auto;'>
+         <p>
+             下記より支払を完了してください<br />
+             ※期日までに支払が確認できない場合は、キャンセル扱いになります
+         </p>
+         <a href='${payment_url}'>支払画面へ</a>
+     </div>
+ {{/if}}
+</script>
+
+<script id="qrcodeManualTemplate" type="text/x-jquery-tmpl">
+    <p>{{html description}}</p>
+</script>
+
+<!-- purchased event list template -->
+<script id="publishedEventListTemplate" type="text/x-jquery-tmpl">
+    <ul class="event-list clearfix">
+    {{each $item.data}}
+    <li>
+        <a href="/e/${event_cname}" style ="cursor:pointer;color:#333">
+        <figure class="border-gray">
+            <img style='border:none;' src="${event_pic_url}?mode=fix&height=228&width=228" width="228" height="228" alt="画像の説明" />
+
+            <div class='title_box'>
+                <h2 class="title" style='height: 50px;'>${mbellipsis(name, 28)}</h2>
+                <div class='dot_border' style='margin: 3px auto;height: 2px;width: 95%;'>&nbsp;</div>
+            </div>
+            <div class='status_box'>
+                    <div class='status_image'>
+                    {{if sales_status == 2}}
+                        <span class="label-status before-sale">販売前</span>
+                    {{else sales_status == 1}}
+                        <span class="label-status sale">販売中</span>
+                    {{else sales_status == 3}}
+                        <span class="label-status finished-sale">販売終了</span>
+                    {{/if}}
+                    </div>
+
+                    {{if loc_name}}
+                        <p class="place event_place icon-min pin">${loc_name}</p>
+                    {{else}}
+                        {{if  type == 'event'}}
+                            <p class="place event_place icon-min pin">-</p>
+                        {{/if}}
+                    {{/if}}
+                    <p class="date event_date icon-min clock">${date_info.starttime}&#xFF5E;</p>
+                    {{if artistname}}
+                    <p class="artist event_artist icon-min human">${artistname}</p>
+                    {{/if}}
+            </div>
+        </figure>
+        </a>
+    </li>
+    {{/each}}
+</ul>
+</script>
+
+<!-- purchased event list template -->
+<script id="finishedEventListTemplate" type="text/x-jquery-tmpl">
+    <ul class="event-list-card clearfix">
+    {{each $item.data}}
+    <li class="outer">
+       <a class="list-arrow green-right" href="${base_url}e/${event_cname}">
+       <figure class="border-gray">
+           <img src="${event_pic_url}?mode=fix&height=100&width=100" width="100" height="100" alt="" />
+           <figcaption>
+               <p class="list-title text-ellipsis font-bold">${name}</p>
+           {{if loc_name}}
+               <p class="event_place list-text text-ellipsis icon-min pin">${loc_name}</p>
+           {{else}}
+               <p class="event_place list-text icon-min pin">-</p>
+           {{/if}}
+               <p class="event_date list-text icon-min clock">${date_info.starttime}&#xFF5E;</p>
+           {{if artistname}}
+               <p class="artist event_artist list-text text-ellipsis icon-min human">${artistname}</p>
+           {{/if}}
+           </figcaption>
+        </figure>
+        </a>
+    </li>
+    {{/each}}
+    </ul>
+</script>
+
+
+
+</head>
+
+<!--[if !IE 8]><!-->
+<body>
+<!--<![endif]-->
+<!--[if IE 8 ]>
+<body class="ie8">
+<![endif]-->
+
+    <!-- 購入情報用のGTM eコーマスコード -->
+    
+    <!-- Google Tag Manager -->
+    <noscript><iframe src="//www.googletagmanager.com/ns.html?id=GTM-P9D7D7"
+    height="0" width="0" style="display:none;visibility:hidden"></iframe></noscript>
+    <script>(function(w,d,s,l,i){w[l]=w[l]||[];w[l].push({'gtm.start':
+    new Date().getTime(),event:'gtm.js'});var f=d.getElementsByTagName(s)[0],
+    j=d.createElement(s),dl=l!='dataLayer'?'&l='+l:'';j.async=true;j.src=
+    '//www.googletagmanager.com/gtm.js?id='+i+dl;f.parentNode.insertBefore(j,f);
+    })(window,document,'script','dataLayer','GTM-P9D7D7');</script>
+    <!-- End Google Tag Manager -->
+
+<!-- content  -->
+
+<!-- 共通ヘッダ -->
+<header class="gheader">
+    <section class="clearfix">
+        <h1><a href="https://t.livepocket.jp/" >チケット予約・購入ならライヴポケット</a></h1>
+        
+                <nav>
+            <ul class="clearfix">
+                <!-- <li class="buyTicket">チケットを購入される方</li>
+                <li class="register"><a href="#後">新規登録</a></li>
+                <li class="login"><a href="#後">ログイン</a></li> -->
+                <li class="infromation"><a href="https://t.livepocket.jp/notification">お知らせ<span class="js-notification-count js-pie" style="display:none;"></span></a></li>
+                <li class="menu"><a href="#">メニュー</a></li>
+            </ul>
+        </nav>
+
+        <section id="dropdownMenu">
+            <nav>
+
+                <h2>マイページ</h2>
+                <ul>
+                    <li><a href="https://t.livepocket.jp/myticket">マイチケット<span class="js-myticket-count js-pie"></span></a></li>
+                    <!-- TODO 各項目数の表示-->
+                    <li><a href="https://t.livepocket.jp/bookmark">ブックマーク<span class="js-bookmark-count js-pie"></span></a></li>
+                    <li><a href="https://t.livepocket.jp/purchased_history">申込状況・履歴<span style="display:none;">88</span></a></li>
+                    <li><a href="https://t.livepocket.jp/notification">お知らせ・問い合わせ一覧<span class="js-notification-count js-pie" style="display:none;">88</span></a></li>
+                </ul>
+                <h2>設定</h2>
+                <ul>
+                    <li><a href="https://t.livepocket.jp/mypage/account">アカウント設定</a></li>
+                    <li><a href="https://t.livepocket.jp/ml">メール配信・通知設定</a></li>
+                    <li><a href="#" onclick="logout();">ログアウト</a></li>
+                </ul>
+                <p><span>閉じる</span></p>
+            </nav>
+        </section>
+                
+    </section>
+</header>
+<!-- /共通ヘッダ -->
+<div id="error_messages" class="hidden"></div>
+
+<!-- information_no_popup -->
+<section class="information_no_popup" id="navigation_no_popup" style="display: none;">
+  <div>
+    <p>LivePocket-Ticket-会員登録が完了しました</p>
+  </div>
+</section>
+<!-- /information_no_popup -->
+
+
+    <div class="title-header-text">
+                            <section id="pageTitle">
+            <section>
+                                                            <h1 class="caption">プロフィール変更</h1>
+                                                                                            <a class="btnBack" href="javascript:history.back();"><span class="strBack">戻る</span></a>
+                                                </section>
+        </section>
+                </div>
+    <div class="base-wrapper clearfix">
+        <script type="text/javascript">
+
+var outside_japan_id = 90;
+
+Common.init = function() {
+
+    API.get(
+        'profile/index',
+        {'utoken' : 'u1jrq3xMWctkozKw6PIm4WDahQM4dY7FsMcKIwfo'},
+        bind_user_info
+    );
+
+}
+
+function bind_user_info(data) {
+    if (data['success']) {
+        $("#my_lastname").val(data['result']['lastname']).attr({'style':'color:black;'});
+        $("#my_firstname").val(data['result']['firstname']).attr({'style':'color:black;'});
+
+        /*
+        birthday_arr = data['result']['birthday'].split('-');
+        $("#birth_year").val(Number(birthday_arr[0]));
+        $("#birth_month").val(Number(birthday_arr[1]));
+        $("#birth_day").val(Number(birthday_arr[2]));
+        $("#my_birthday").text(formatDate(data['result']['birthday'],{noday: true}));*/
+        $("#my_birthday").text(formatDateOnly(data['result']['birthday'], 1));
+        $("#my_pref").val(data['result']['pref']);
+
+        if (data['result']['pref'] == outside_japan_id) {
+            $("#country").val(data['result']['country']);
+            monitoringPref();
+        }
+
+        $("#language").val(data['result']['language']);
+        $("#my_phone_number").attr({'style':'color:black;'}).val(data['result']['mobile_phone']);
+
+        if (data['result']['gender'] == 'female') {
+            $('#gender').text('女性');
+        } else if (data['result']['gender'] == 'male') {
+            $('#gender').text('男性');
+        }
+    }
+
+}
+
+function update_profile() {
+    var post_data = {
+        "utoken" : $("#my_token").prop('value'),
+        "lastname" : $("#my_lastname").prop('value'),
+        "firstname" : $("#my_firstname").prop('value'),
+        //"gender" : $("input[name='my_gender']:checked").val(),
+        //"birthday" : $('#birth_year').val() + "/" + $('#birth_month').val() + "/" + $('#birth_day').val(),
+        "pref" : $("#my_pref").prop('value'),
+        'country': ($('#my_pref').prop('value') == outside_japan_id)? $('#country').val() : '',
+        'language': $('#language').val(),
+        "mobile_phone" : $("#my_phone_number").prop('value'),
+        "auth_type": $("#my_auth_type").prop('value')
+    };
+
+    API.post(
+        "profile/update",
+        post_data,
+        function(data) {
+            var result = data['success'];
+            if (result) {
+                location.href='https://t.livepocket.jp/mypage/account';
+            }
+        }
+    );
+}
+
+// 居住地を監視して外国居住地の表示・非表示制御を行なう
+// 日本国外が選択されている場合は表示・それ以外は非表示
+function monitoringPref()
+{
+    // 居住地で選択されている値を取得
+    var select_pref = $('#my_pref').val();
+
+    // TODO: サーバから日本国外を指すIDを渡す
+    // 日本国外では無い場合は外国居住地を非表示にする
+    if (outside_japan_id != select_pref) {
+        $('#country-select').hide();
+        return true;
+    }
+
+    // 日本国外が選択されていた場合は外国居住地を表示させる
+    $('#country-select').show();
+    return true;
+}
+
+</script>
+
+
+<!-- account-register -->
+
+<section class="account-register">
+
+    <!-- account_conf -->
+    <form class="form-flat">
+        <input type="hidden" id="my_token" value="u1jrq3xMWctkozKw6PIm4WDahQM4dY7FsMcKIwfo" />
+        <input type="hidden" id="my_auth_type" value="1" />
+        <!-- profile_conf -->
+        <section class="profile_conf">
+
+            <div class="profile_conf_wrap border-gray">
+                <table class="tbl-01">
+                    <tbody>
+                        <tr>
+                            <th>氏名<em class="text-required">必須</em></th>
+                            <td>
+                                <div class="form-flat">
+                                    <label for="my_lastname" class="label-hide">氏</label>
+                                    <input class="form-flat-inline double last"type="text" id="my_lastname" name="familyname" value="" placeholder="氏（全半角）/Surname ">
+
+                                    <label for="my_firstname" class="label-hide">名</label>
+                                    <input class="form-flat-inline double last"type="text" id="my_firstname" name="firstname" value="" placeholder="名（全半角）/First name">
+                                </div>
+                            </td>
+                        </tr>
+                        <tr>
+                            <th>性別（登録後の変更はできません）<em class="text-required">必須</em></th>
+                            <td>
+                                <p class="text" id="gender"></p>
+                                <!--
+                                <div class="radio-c2">
+                                    <input type="radio" id="male" name="my_gender" value="male">
+                                    <label for="male">男性</label>
+                                </div>
+                                <div class="radio-c2">
+                                    <input type="radio" id="female" name="my_gender" value="female">
+                                    <label for="female">女性</label>
+                                </div>
+                                -->
+                            </td>
+                        </tr>
+                        <tr>
+                            <th>生年月日（登録後の変更はできません）<em class="text-required">必須</em></th>
+                            <td>
+                                <p class="text" id="my_birthday" wovn-ignore></p>
+                                <!--
+                                <div class="select-c3">
+                                    <label for="birth_year" class="label-hide">生</label>
+                                    <select id="birth_year" name="birth_year" style="width: 80px;">
+                                        <option value="">年</option>
+                                                                                                                    <option value="2017">2017</option>
+                                                                                    <option value="2016">2016</option>
+                                                                                    <option value="2015">2015</option>
+                                                                                    <option value="2014">2014</option>
+                                                                                    <option value="2013">2013</option>
+                                                                                    <option value="2012">2012</option>
+                                                                                    <option value="2011">2011</option>
+                                                                                    <option value="2010">2010</option>
+                                                                                    <option value="2009">2009</option>
+                                                                                    <option value="2008">2008</option>
+                                                                                    <option value="2007">2007</option>
+                                                                                    <option value="2006">2006</option>
+                                                                                    <option value="2005">2005</option>
+                                                                                    <option value="2004">2004</option>
+                                                                                    <option value="2003">2003</option>
+                                                                                    <option value="2002">2002</option>
+                                                                                    <option value="2001">2001</option>
+                                                                                    <option value="2000">2000</option>
+                                                                                    <option value="1999">1999</option>
+                                                                                    <option value="1998">1998</option>
+                                                                                    <option value="1997">1997</option>
+                                                                                    <option value="1996">1996</option>
+                                                                                    <option value="1995">1995</option>
+                                                                                    <option value="1994">1994</option>
+                                                                                    <option value="1993">1993</option>
+                                                                                    <option value="1992">1992</option>
+                                                                                    <option value="1991">1991</option>
+                                                                                    <option value="1990">1990</option>
+                                                                                    <option value="1989">1989</option>
+                                                                                    <option value="1988">1988</option>
+                                                                                    <option value="1987">1987</option>
+                                                                                    <option value="1986">1986</option>
+                                                                                    <option value="1985">1985</option>
+                                                                                    <option value="1984">1984</option>
+                                                                                    <option value="1983">1983</option>
+                                                                                    <option value="1982">1982</option>
+                                                                                    <option value="1981">1981</option>
+                                                                                    <option value="1980">1980</option>
+                                                                                    <option value="1979">1979</option>
+                                                                                    <option value="1978">1978</option>
+                                                                                    <option value="1977">1977</option>
+                                                                                    <option value="1976">1976</option>
+                                                                                    <option value="1975">1975</option>
+                                                                                    <option value="1974">1974</option>
+                                                                                    <option value="1973">1973</option>
+                                                                                    <option value="1972">1972</option>
+                                                                                    <option value="1971">1971</option>
+                                                                                    <option value="1970">1970</option>
+                                                                                    <option value="1969">1969</option>
+                                                                                    <option value="1968">1968</option>
+                                                                                    <option value="1967">1967</option>
+                                                                                    <option value="1966">1966</option>
+                                                                                    <option value="1965">1965</option>
+                                                                                    <option value="1964">1964</option>
+                                                                                    <option value="1963">1963</option>
+                                                                                    <option value="1962">1962</option>
+                                                                                    <option value="1961">1961</option>
+                                                                                    <option value="1960">1960</option>
+                                                                                    <option value="1959">1959</option>
+                                                                                    <option value="1958">1958</option>
+                                                                                    <option value="1957">1957</option>
+                                                                                    <option value="1956">1956</option>
+                                                                                    <option value="1955">1955</option>
+                                                                                    <option value="1954">1954</option>
+                                                                                    <option value="1953">1953</option>
+                                                                                    <option value="1952">1952</option>
+                                                                                    <option value="1951">1951</option>
+                                                                                    <option value="1950">1950</option>
+                                                                                    <option value="1949">1949</option>
+                                                                                    <option value="1948">1948</option>
+                                                                                    <option value="1947">1947</option>
+                                                                                    <option value="1946">1946</option>
+                                                                                    <option value="1945">1945</option>
+                                                                                    <option value="1944">1944</option>
+                                                                                    <option value="1943">1943</option>
+                                                                                    <option value="1942">1942</option>
+                                                                                    <option value="1941">1941</option>
+                                                                                    <option value="1940">1940</option>
+                                                                                    <option value="1939">1939</option>
+                                                                                    <option value="1938">1938</option>
+                                                                                    <option value="1937">1937</option>
+                                                                                    <option value="1936">1936</option>
+                                                                                    <option value="1935">1935</option>
+                                                                                    <option value="1934">1934</option>
+                                                                                    <option value="1933">1933</option>
+                                                                                    <option value="1932">1932</option>
+                                                                                    <option value="1931">1931</option>
+                                                                                    <option value="1930">1930</option>
+                                                                                    <option value="1929">1929</option>
+                                                                                    <option value="1928">1928</option>
+                                                                                    <option value="1927">1927</option>
+                                                                                    <option value="1926">1926</option>
+                                                                                    <option value="1925">1925</option>
+                                                                                    <option value="1924">1924</option>
+                                                                                    <option value="1923">1923</option>
+                                                                                    <option value="1922">1922</option>
+                                                                                    <option value="1921">1921</option>
+                                                                                    <option value="1920">1920</option>
+                                                                                    <option value="1919">1919</option>
+                                                                                    <option value="1918">1918</option>
+                                                                                    <option value="1917">1917</option>
+                                                                                    <option value="1916">1916</option>
+                                                                                    <option value="1915">1915</option>
+                                                                                    <option value="1914">1914</option>
+                                                                                    <option value="1913">1913</option>
+                                                                                    <option value="1912">1912</option>
+                                                                                    <option value="1911">1911</option>
+                                                                                    <option value="1910">1910</option>
+                                                                                    <option value="1909">1909</option>
+                                                                                    <option value="1908">1908</option>
+                                                                                    <option value="1907">1907</option>
+                                                                                    <option value="1906">1906</option>
+                                                                                    <option value="1905">1905</option>
+                                                                                    <option value="1904">1904</option>
+                                                                                    <option value="1903">1903</option>
+                                                                                    <option value="1902">1902</option>
+                                                                                    <option value="1901">1901</option>
+                                                                                    <option value="1900">1900</option>
+                                                                    </select>　年
+                                </div>
+                                <div class="select-c3">
+                                    <label for="birth_month" class="label-hide">月</label>
+                                    <select id="birth_month" name="birth_month" style="width: 80px;">
+                                        <option value="">月</option>
+                                                                                    <option value="1">1</option>
+                                                                                    <option value="2">2</option>
+                                                                                    <option value="3">3</option>
+                                                                                    <option value="4">4</option>
+                                                                                    <option value="5">5</option>
+                                                                                    <option value="6">6</option>
+                                                                                    <option value="7">7</option>
+                                                                                    <option value="8">8</option>
+                                                                                    <option value="9">9</option>
+                                                                                    <option value="10">10</option>
+                                                                                    <option value="11">11</option>
+                                                                                    <option value="12">12</option>
+                                                                    </select>　月
+                                </div>
+                                <div class="select-c3">
+                                    <label for="birth_day" class="label-hide">日</label>
+                                    <select name="birth_day" id="birth_day" style="width: 80px;">
+                                        <option value="">日</option>
+                                                                                    <option value="1">1</option>
+                                                                                    <option value="2">2</option>
+                                                                                    <option value="3">3</option>
+                                                                                    <option value="4">4</option>
+                                                                                    <option value="5">5</option>
+                                                                                    <option value="6">6</option>
+                                                                                    <option value="7">7</option>
+                                                                                    <option value="8">8</option>
+                                                                                    <option value="9">9</option>
+                                                                                    <option value="10">10</option>
+                                                                                    <option value="11">11</option>
+                                                                                    <option value="12">12</option>
+                                                                                    <option value="13">13</option>
+                                                                                    <option value="14">14</option>
+                                                                                    <option value="15">15</option>
+                                                                                    <option value="16">16</option>
+                                                                                    <option value="17">17</option>
+                                                                                    <option value="18">18</option>
+                                                                                    <option value="19">19</option>
+                                                                                    <option value="20">20</option>
+                                                                                    <option value="21">21</option>
+                                                                                    <option value="22">22</option>
+                                                                                    <option value="23">23</option>
+                                                                                    <option value="24">24</option>
+                                                                                    <option value="25">25</option>
+                                                                                    <option value="26">26</option>
+                                                                                    <option value="27">27</option>
+                                                                                    <option value="28">28</option>
+                                                                                    <option value="29">29</option>
+                                                                                    <option value="30">30</option>
+                                                                                    <option value="31">31</option>
+                                                                    </select>　日
+                                </div>
+                                -->
+                            </td>
+                        </tr>
+                        <tr>
+                            <th>居住地<em class="text-required">必須</em></th>
+                            <td>
+                                <label for="my_pref" class="label-hide">都道府県</label>
+                                <div class="select-box-flat-outer">
+                                    <select class="select-box-flat" name="pref" id="my_pref" onChange="monitoringPref()">
+                                        <option value="" selected>選択して下さい</option>
+                                                                                    <option value="01">
+                                                北海道                                            </option>
+                                                                                    <option value="02">
+                                                青森県                                            </option>
+                                                                                    <option value="03">
+                                                岩手県                                            </option>
+                                                                                    <option value="04">
+                                                宮城県                                            </option>
+                                                                                    <option value="05">
+                                                秋田県                                            </option>
+                                                                                    <option value="06">
+                                                山形県                                            </option>
+                                                                                    <option value="07">
+                                                福島県                                            </option>
+                                                                                    <option value="08">
+                                                茨城県                                            </option>
+                                                                                    <option value="09">
+                                                栃木県                                            </option>
+                                                                                    <option value="10">
+                                                群馬県                                            </option>
+                                                                                    <option value="11">
+                                                埼玉県                                            </option>
+                                                                                    <option value="12">
+                                                千葉県                                            </option>
+                                                                                    <option value="13">
+                                                東京都                                            </option>
+                                                                                    <option value="14">
+                                                神奈川県                                            </option>
+                                                                                    <option value="15">
+                                                山梨県                                            </option>
+                                                                                    <option value="16">
+                                                新潟県                                            </option>
+                                                                                    <option value="17">
+                                                富山県                                            </option>
+                                                                                    <option value="18">
+                                                石川県                                            </option>
+                                                                                    <option value="19">
+                                                福井県                                            </option>
+                                                                                    <option value="20">
+                                                長野県                                            </option>
+                                                                                    <option value="21">
+                                                岐阜県                                            </option>
+                                                                                    <option value="22">
+                                                静岡県                                            </option>
+                                                                                    <option value="23">
+                                                愛知県                                            </option>
+                                                                                    <option value="24">
+                                                三重県                                            </option>
+                                                                                    <option value="25">
+                                                滋賀県                                            </option>
+                                                                                    <option value="26">
+                                                京都府                                            </option>
+                                                                                    <option value="27">
+                                                大阪府                                            </option>
+                                                                                    <option value="28">
+                                                兵庫県                                            </option>
+                                                                                    <option value="29">
+                                                奈良県                                            </option>
+                                                                                    <option value="30">
+                                                和歌山県                                            </option>
+                                                                                    <option value="31">
+                                                鳥取県                                            </option>
+                                                                                    <option value="32">
+                                                島根県                                            </option>
+                                                                                    <option value="33">
+                                                岡山県                                            </option>
+                                                                                    <option value="34">
+                                                広島県                                            </option>
+                                                                                    <option value="35">
+                                                山口県                                            </option>
+                                                                                    <option value="36">
+                                                徳島県                                            </option>
+                                                                                    <option value="37">
+                                                香川県                                            </option>
+                                                                                    <option value="38">
+                                                愛媛県                                            </option>
+                                                                                    <option value="39">
+                                                高知県                                            </option>
+                                                                                    <option value="40">
+                                                福岡県                                            </option>
+                                                                                    <option value="41">
+                                                佐賀県                                            </option>
+                                                                                    <option value="42">
+                                                長崎県                                            </option>
+                                                                                    <option value="43">
+                                                熊本県                                            </option>
+                                                                                    <option value="44">
+                                                大分県                                            </option>
+                                                                                    <option value="45">
+                                                宮崎県                                            </option>
+                                                                                    <option value="46">
+                                                鹿児島県                                            </option>
+                                                                                    <option value="47">
+                                                沖縄県                                            </option>
+                                                                                    <option value="90">
+                                                日本国外(Outside Japan)                                            </option>
+                                                                            </select>
+                                </div>
+                                <span id="country-select" class="select-box-flat-outer" style="display:none; margin-top:10px;">
+                                    <select class="select-box-flat" name="country" id="country">
+                                        <option value="" selected>選択してください</option>
+                                                                                    <option value="036">
+                                        Australia                                            </option>
+                                                                                    <option value="040">
+                                        Austria                                            </option>
+                                                                                    <option value="056">
+                                        Belgium                                            </option>
+                                                                                    <option value="076">
+                                        Brazil                                            </option>
+                                                                                    <option value="124">
+                                        Canada                                            </option>
+                                                                                    <option value="156">
+                                        China                                            </option>
+                                                                                    <option value="158">
+                                        Taiwan                                            </option>
+                                                                                    <option value="208">
+                                        Denmark                                            </option>
+                                                                                    <option value="246">
+                                        Finland                                            </option>
+                                                                                    <option value="250">
+                                        France                                            </option>
+                                                                                    <option value="276">
+                                        Germany                                            </option>
+                                                                                    <option value="344">
+                                        Hong Kong                                            </option>
+                                                                                    <option value="356">
+                                        India                                            </option>
+                                                                                    <option value="360">
+                                        Indonesia                                            </option>
+                                                                                    <option value="372">
+                                        Ireland                                            </option>
+                                                                                    <option value="376">
+                                        Israel                                            </option>
+                                                                                    <option value="380">
+                                        Italy                                            </option>
+                                                                                    <option value="410">
+                                        South Korea                                            </option>
+                                                                                    <option value="458">
+                                        Malaysia                                            </option>
+                                                                                    <option value="484">
+                                        Mexico                                            </option>
+                                                                                    <option value="528">
+                                        Netherlands                                            </option>
+                                                                                    <option value="554">
+                                        New Zealand                                            </option>
+                                                                                    <option value="578">
+                                        Norway                                            </option>
+                                                                                    <option value="608">
+                                        Philippines                                            </option>
+                                                                                    <option value="616">
+                                        Poland                                            </option>
+                                                                                    <option value="620">
+                                        Portugal                                            </option>
+                                                                                    <option value="643">
+                                        Russia                                            </option>
+                                                                                    <option value="702">
+                                        Singapore                                            </option>
+                                                                                    <option value="704">
+                                        Vietnam                                            </option>
+                                                                                    <option value="724">
+                                        Spain                                            </option>
+                                                                                    <option value="752">
+                                        Sweden                                            </option>
+                                                                                    <option value="756">
+                                        Switzerland                                            </option>
+                                                                                    <option value="764">
+                                        Thailand                                            </option>
+                                                                                    <option value="792">
+                                        Turkey                                            </option>
+                                                                                    <option value="826">
+                                        U.K                                            </option>
+                                                                                    <option value="840">
+                                        U.S.A.                                            </option>
+                                                                                    <option value="9999">
+                                        (Other)                                            </option>
+                                                                            </select>
+                                </span>
+                            </td>
+                        <tr>
+                        <tr>
+                            <th>表示する言語<em class="text-required">必須</em></th>
+                                <td>
+                                    <div class="select-box-flat-outer">
+                                        <select class="select-box-flat" name="language" id="language">
+                                            <option value="" selected>選択してください</option>
+                                                                                            <option value="ja">
+                                            日本語                                                </option>
+                                                                                            <option value="en">
+                                            English                                                </option>
+                                                                                    </select>
+                                    </div>
+                                </td>
+                            </tr>
+                        <tr>
+                            <th>携帯電話番号</th>
+                            <td>
+                                <div class="form-flat">
+                                    <label for="my_phone_number" class="label-hide">携帯電話番号</label>
+                                    <input type="text" id="my_phone_number" name="mobile_phone" value="" placeholder="">
+                                    ※半角英数字ハイフン無し（例：09012345678）
+                                </div>
+                            </td>
+                        </tr>
+                    </tbody>
+                </table>
+            </div>
+        </section>
+
+        <!-- /account_conf -->
+        <nav>
+            <ul class="clearfix bottom-btn-flat-area center-block">
+                <li><a href="https://t.livepocket.jp/mypage/account" class="btn-flat btn-large btn-arrow pull-left">戻る</a></li>
+                <li><a href="#" class="btn-flat btn-arrow btn-large btn-green btn-flat-bottom-second pull-left" onclick="update_profile();">変更</a></li>
+            </ul>
+        </nav>
+</section>
+
+<!-- /account-register -->
+    </div>
+<div id="breadcrumb_footer_wrap">
+    <!-- −−−−−−−−−−−−−−−−−−−−−−−−−−−−−−−−−−−−−
+パンくずリスト
+−−−−−−−−−−−−−−−−−−−−−−−−−−−−−−−−−−−−−− -->
+<section id="breadcrumbList" class="breadcrumb-list">
+    <ul class="clearfix"><li class="item-3"><a href='https://t.livepocket.jp/'>TOP</a></li><li class="item-3"><a href='https://t.livepocket.jp/mypage/account'>アカウント設定</a></li><li class="last_li item-3">プロフィール変更</li></ul></section>
+    <!-- 共通フッタ -->
+<footer class="gfooter" id="gfooter">
+    <div class="footer-pc-categor
+1ea3
+y-area">
+        <div class="footer-pc-category-list">
+                <ul class="clearfix">
+        <li class="cat cat_left">
+    <div class="category-view"><a href="https://t.livepocket.jp/tag/Music">音楽ライブ</a></div> 
+    <div class="detail-view">
+                            <a href="https://t.livepocket.jp/tag/LiveHouse">ライブハウス</a>
+                                        <a href="https://t.livepocket.jp/tag/Fes">フェス・対バン</a>
+                                        <a href="https://t.livepocket.jp/tag/IdolTalent">アイドル・タレント</a>
+                                        <a href="https://t.livepocket.jp/tag/Ikemen">イケメン</a>
+                                        <a href="https://t.livepocket.jp/tag/AnimeGame">アニメ・声優・ゲーム</a>
+                                        <a href="https://t.livepocket.jp/tag/Rock">ロック</a>
+                                        <a href="https://t.livepocket.jp/tag/Classic">クラシックコンサート</a>
+                        </div>
+    </li>
+    </ul>
+            <ul class="clearfix">
+        <li class="cat cat_left">
+    <div class="category-view"><a href="https://t.livepocket.jp/tag/Event">イベント</a></div> 
+    <div class="detail-view">
+                            <a href="https://t.livepocket.jp/tag/Comedy">寄席・お笑い</a>
+                                        <a href="https://t.livepocket.jp/tag/StageMusical">舞台・演劇・ミュージカル</a>
+                                        <a href="https://t.livepocket.jp/tag/Talk">トークショー</a>
+                                        <a href="https://t.livepocket.jp/tag/FanEvent">ファンイベント・握手会</a>
+                                        <a href="https://t.livepocket.jp/tag/Party">パーティー・交流イベント</a>
+                                        <a href="https://t.livepocket.jp/tag/SeasonEvent">季節イベント</a>
+                                                    </div>
+    </li>
+    </ul>
+            </div>
+    </div>
+    <ul class="gfooter_links clearfix">
+        <li><a href="https://t.livepocket.jp/regist_navigation/user">LivePocket-Ticket-とは?</a><span>|</span></li>
+        <li><a href="https://t.livepocket.jp/help/about">LivePocket-Ticket-の使い方</a><span>|</span></li>
+        <li><a href="https://t.livepocket.jp/sell_tickets/">LivePocket-Ticket-でチケットを販売する</a></li><br>
+        <li><a href="https://t.livepocket.jp/sell_commission">LivePocketの価格・利用料</a><span>|</span></li>
+        <li><a href="https://t.livepocket.jp/help/term" target=_blank>利用規約</a><span>|</span></li>
+        <li><a href="https://t.livepocket.jp/help/commercial">特定商取引法に関する記載</a><span>|</span></li>
+        <li><a href="https://t.livepocket.jp/help/faq">FAQ/問い合わせ</a></li>
+    </ul>
+    <ul class="gfooter_sns">
+        <li class="twitter"><a onclick="window.open('https://twitter.com/livepocket', 'share', ['resizable=yes', 'toolbar=yes', 'menubar=yes', 'scrollbars=yes', 'status=yes'].join(','));" href="javascript:void(0);" title="twitter"></a></li>
+        <li class="facebook"><a onclick="window.open('https://www.facebook.com/livepocketofficial', 'facebookofficial', ['resizable=yes', 'toolbar=yes', 'menubar=yes', 'scrollbars=yes', 'status=yes'].join(','));" href="javascript:void(0);" title="facebook"></a></a></li>
+    </ul>
+    <div class="gfooter_terms">
+        <p>掲載されている全てのコンテンツについて管理者の承諾を得ず、無断で複写・複製・転送することは 固く禁じています。</p>
+        <p>「LivePocket」はエイベックス・グループ・ホールディングス株式会社の登録商標です。（登録第5600161号）</p>
+        <p>Copyright<span class="icon-copyright"> &copy; </span>avex live creative All Rights Reserved.</p>
+    </div>
+</footer>
+<!-- /共通フッタ -->
+</div>
+<!-- mypage  -->
+
+<script type="text/javascript">
+function common_count() {
+    // キャッシュ避けのタイムスタンプ
+    var timestamp = new Date().getTime();
+    API.get('common/lists?mytimestamp='+timestamp, callback_common_count);
+}
+function callback_common_count(data) {
+    if (data && data['success']) {
+        result = data['result'];
+        if (data['result']['myticket_count']['count']) {
+            if(parseInt(data['result']['myticket_count']['count']) > 0){
+                $('.js-myticket-count').show();
+                $('.js-myticket-count').text(data['result']['myticket_count']['count']);
+            }else{
+                $('.js-myticket-count').hide();
+            }
+        } else {
+            $('.js-myticket-count').hide();
+        }
+        if (data['result']['bookmark_count']['count']) {
+            if(parseInt(data['result']['bookmark_count']['count']) > 0){
+                $('.js-bookmark-count').show();
+                $('.js-bookmark-count').text(data['result']['bookmark_count']['count']);
+            }else{
+                $('.js-bookmark-count').hide();
+            }
+        } else {
+            $('.js-bookmark-count').hide();
+        }
+        // total = data['result']['today_event']['total_count'];
+        // if (total < 1) {
+        //     $('#todays_ticket_section').hide();
+        // }
+        // data_list = data['result']['today_event'];
+        // $('#todayEventTemplate').tmpl(data_list).appendTo('#todayticket');
+
+        var count = data['result']['unread_count'];
+        if (count > 0) {
+            $('.js-notification-count').show();
+            $('.js-notification-count').text(count);
+        } else {
+            $('.js-notification-count').hide();
+        }
+
+        if(data['result']['notification_list']){
+            $('#my-news-list').empty();
+            //$('#headerNotifTemplate').tmpl(data['result']['notification_list']).appendTo('#my-news-list');
+        }
+
+    }else{
+        $('#todays_ticket_section').hide();
+    }
+}
+
+function update_notice_unread_count() {
+    // キャッシュ避けのタイムスタンプ
+    var timestamp = new Date().getTime();
+    API.get('notifications/unread_count?mytimestamp='+timestamp, callback_unread_notice_count);
+}
+
+function callback_unread_notice_count(data) {
+    var count = data['result']['unread_count'];
+    if (count > 0) {
+        $('.js-notification-count').show();
+        $('.js-notification-count').text(count);
+    } else {
+        $('.js-notification-count').hide();
+    }
+    //API.get('notifications/list', {
+    //    offset: 0,
+    //    limit: 3
+    //}, function(e){
+        //if(e.success){
+            //e.result.data_list = [];
+        //    $('#my-news-list').empty();
+        //    $('#headerNotifTemplate').tmpl(e.result).appendTo('#my-news-list');
+        //}
+    //});
+}
+
+
+common_count();
+//update_myticket_count();
+//update_bookmark_count();
+//get_my_today_event();
+//update_notice_unread_count();
+
+</script>
+<script type="text/javascript">
+        </script>
+<!--[if lt IE 9]><script type="text/javascript" src="https://t.livepocket.jp/pc_css_v2/htc/PIE.js"></script><![endif]-->
+<script>
+$(function() {
+  if (window.PIE) {
+    $('.js-pie').each(function() {
+      PIE.attach(this);
+    });
+  }
+    $('.js-img-liquid').imgLiquid();
+});
+</script>
+
+    <script type="text/javascript">
+        (function () {
+            var tagjs = document.createElement("script");
+            var s = document.getElementsByTagName("script")[0];
+            tagjs.async = true;
+            tagjs.src = "//s.yjtag.jp/tag.js#site=3gYMH3k";
+            s.parentNode.insertBefore(tagjs, s);
+        }());
+    </script>
+    <noscript>
+        <iframe src="//b.yjtag.jp/iframe?c=3gYMH3k" width="1" height="1" frameborder="0" scrolling="no" marginheight="0" marginwidth="0"></iframe>
+    </noscript>
+
+</body>
+</html>
+
+0
+

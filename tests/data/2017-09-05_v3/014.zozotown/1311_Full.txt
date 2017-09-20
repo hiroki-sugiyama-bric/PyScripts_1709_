@@ -1,0 +1,42 @@
+GET https://zozo.jp/_member/login.html?c=logout&autologout=1 HTTP/1.1
+Host: zozo.jp
+User-Agent: Mozilla/5.0 (Windows NT 6.1; rv:52.0) Gecko/20100101 Firefox/52.0
+Accept: text/html,application/xhtml+xml,application/xml;q=0.9,*/*;q=0.8
+Accept-Language: ja,en-US;q=0.7,en;q=0.3
+Referer: https://zozo.jp/_member/modify/confirm.html
+Cookie: GS=919bd0ae8f8c438c9188499b003f2b8d; ZOZO%5FISMEN=0; ZOZO%5FUID=P9100%3A709070058%3A544820071; ASPSESSIONIDCQBTQAQD=NPMHDEKCKPNBMCPNAHEEFBML; BIGipServerIN01_zozo.jp_Pool=1679628298.20480.0000; TS014d8e6a=0182a260476dc77ef9897374ce54521e7db43e0d86175813fabfce91c0213c42ac4ab0df2b5467ebac69f15a7cfea112bffa96be09c2fc816d7b1a7debc71ee7e8bee971c03dc29604c8f69256ce3d7dc57de0be082c928dd4b36218a7ab502d2de456784d; TS014ab708=0182a26047d0db3e3af204bb6ba630649337985bb62e98ae5021e5effa2a55f7246c47eb01b70f1e200b6a87f89bb074cde17f1d5ee61a0ba2879f2ddc02459df56f094e020bebc413aeaccf95bfa74b2eee8b574f78fad2108329238980cc0bf9dc2d5afb3af197d4890de15cb7829dc2d2d6d678a90f239c18b9fabee74390976d7bac92a01d74cd70262882de58d1785f8fb329a90e1c8d161d075e0c987278b5d994451cda43e778fe8d6383e495137226900a68ff76e700e31411b1d3eaf112f754d855e115fe38ddc1905c9b9dcf5a13775f74aee2cacb47562db4516da56ea51ab8a4b2fa75e478d4757ec3ceceefad5ec0; BIGipServerEX01_zozo.jp_Pool=19599532.20480.0000; __utma=205133723.1039877679.1491472484.1491472484.1491472484.1; __utmb=205133723.10.10.1491472484; __utmc=205133723; __utmz=205133723.1491472484.1.1.utmcsr=(direct)|utmccn=(direct)|utmcmd=(none); B=7ebfb105508ca2b2cb1612bb4adc923d; M=13533728; K=1; pst=0; L=1; T=1000; Login%5FToken=kBVHITDgfkbP1Io; S=crawlingtest1000; MEPRF%5FID=13; D=0; __utmv=205133723.|1=member=member=1^2=memberID=13533728=1
+Connection: close
+Upgrade-Insecure-Requests: 1
+
+
+HTTP/1.1 302 Object moved
+Cache-Control: no-cache,no-store
+Content-Length: 200
+Content-Type: text/html
+Location: /_member/login.html?m=logout&pattern=&from=&integrated=
+Set-Cookie: F=; expires=Mon, 06-Mar-2017 15:00:00 GMT; domain=.zozo.jp; path=/
+Set-Cookie: FSNAMES=; expires=Wed, 05-Apr-2017 10:04:56 GMT; domain=.zozo.jp; path=/
+Set-Cookie: ssapc=; expires=Mon, 06-Mar-2017 15:00:00 GMT; domain=.zozo.jp; path=/
+Set-Cookie: nxp=; expires=Mon, 06-Mar-2017 15:00:00 GMT; domain=.zozo.jp; path=/
+Set-Cookie: FSPATHS=; expires=Wed, 05-Apr-2017 10:04:56 GMT; domain=.zozo.jp; path=/
+Set-Cookie: L=1; expires=Mon, 06-Mar-2017 15:00:00 GMT; domain=.zozo.jp; path=/
+Set-Cookie: pst=0; expires=Mon, 06-Mar-2017 15:00:00 GMT; domain=.zozo.jp; path=/
+Set-Cookie: K=; expires=Mon, 06-Mar-2017 15:00:00 GMT; domain=.zozo.jp; path=/
+Set-Cookie: FSIDS=; expires=Wed, 05-Apr-2017 10:04:56 GMT; domain=.zozo.jp; path=/
+Set-Cookie: Login%5FToken=; expires=Wed, 05-Apr-2017 10:04:56 GMT; path=/
+Set-Cookie: T=1000; expires=Mon, 06-Mar-2017 15:00:00 GMT; domain=.zozo.jp; path=/
+Set-Cookie: S=crawlingtest1000; expires=Mon, 06-Mar-2017 15:00:00 GMT; domain=.zozo.jp; path=/
+Set-Cookie: E=; expires=Mon, 06-Mar-2017 15:00:00 GMT; domain=.zozo.jp; path=/
+Set-Cookie: MEPRF%5FID=13; expires=Mon, 06-Mar-2017 15:00:00 GMT; domain=.zozo.jp; path=/
+Set-Cookie: D=0; expires=Mon, 06-Mar-2017 15:00:00 GMT; domain=.zozo.jp; path=/
+Set-Cookie: UCP=; expires=Mon, 06-Mar-2017 15:00:00 GMT; domain=.zozo.jp; path=/
+Set-Cookie: M=; expires=Mon, 06-Mar-2017 15:00:00 GMT; domain=.zozo.jp; path=/
+Set-Cookie: B=7ebfb105508ca2b2cb1612bb4adc923d; expires=Mon, 06-Mar-2017 15:00:00 GMT; domain=.zozo.jp; path=/
+Date: Thu, 06 Apr 2017 10:04:57 GMT
+Connection: close
+Set-Cookie: TS014d8e6a=0182a26047a17921f6727aa03b3ab00d6c0a2afe49b14d8098942123ea83cf4174ff494e27427632fc29cc9ec75e88c361b6b1a33af09c3d142648201154ce642a6718f315143a916870c3cb1c904e3e7d81580981a422e77b47f17eeec111d3941fdd66a6; Path=/
+Set-Cookie: TS014ab708=0182a260477cfb2009235c9381bf110034e80325052e98ae5021e5effa2a55f7246c47eb01b70f1e200b6a87f89bb074cde17f1d5ee61a0ba2879f2ddc02459df56f094e020bebc413aeaccf95bfa74b2eee8b574ff85c16dcd657b16bb36c39f5f0fc32d83e6c17b268b2a1268aff6ad32ca16918839a8373ce297d53a391e592b7f1a306c566e3db5a9d935712aed628048e0590bc8e73d8d66e4ed53fb2567dbbd0edcf144f1385040a5ac5674303c656d3e4d500d052867827e732accfd1d612ba5dc56935ff57e2cc38bb03e397426af0123201d65c1eb3937c5373e148abb22932da102a2e1338942d8aa2daf4160dbdc7358614d01302ed90c177ae4c6badf16bfe2503a6646ddeed9ffbb9c3d1c40050ea83464bc8b39811380b57657ff6a3d28374c23c2a520cd3d5db3e574c41a48e5130c3fbf21f9dc3dd7e530673b4a93a40e4d01709e912b61bb9af7561c9262b18; path=/; domain=.zozo.jp
+Set-Cookie: TS014d8e6a_30=01b5740c9bb88bd9d4238d2dff92bae8c608d2c63450814c385e7038f7aa79d4ac3e1bbfcd99c38b93d4260988a0121b8459747993; Path=/
+
+<head><title>オブジェクト移動</title></head>
+<body><h1>オブジェクトは移動しました</h1>このオブジェクトは <a HREF="/_member/login.html?m=logout&amp;pattern=&amp;from=&amp;integrated=">ここ</a>.</body>

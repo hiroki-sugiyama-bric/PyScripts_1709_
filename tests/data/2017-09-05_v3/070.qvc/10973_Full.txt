@@ -1,0 +1,21 @@
+GET http://qvc.jp/Logoff.do?sc_initcmp=MH_logout HTTP/1.1
+Host: qvc.jp
+User-Agent: Mozilla/5.0 (Windows NT 6.1; rv:52.0) Gecko/20100101 Firefox/52.0
+Accept: text/html,application/xhtml+xml,application/xml;q=0.9,*/*;q=0.8
+Accept-Language: ja,en-US;q=0.7,en;q=0.3
+Referer: http://qvc.jp/cont/common/SearchResult?flex=true&fssort=MatchLvDesc%3AHinbanDesc&mid=flx&keyword=18K%81%40%83%8A%83%93%83%4F
+Cookie: s_fid=4FA40C0F880B68D2-2F2B8FFED3A10EB3; sc_visit=1; sc_segmsest=1491563809399; sc_segmhis=1491563809399; sc_segm=1; s_cvp_1=%5B%5B%27DIR%27%2C%271491563809400%27%5D%5D; s_cvp_2=%5B%5B%27DIR%27%2C%271491563809401%27%5D%5D; sc_prevpage=%5BPC%5D%3A%E3%82%B5%E3%82%A4%E3%83%88%E5%86%85%E6%A4%9C%E7%B4%A2%E7%B5%90%E6%9E%9C; _libra=VYwz89E4Z+pRCB6urDXtFk3s9nggHjANf83cy747RHEVfBFYWPGO1k4vxR44sHHrP0NwKl4JilmDNA==; JSESSIONID=B7DA488F510C00C63CFEE3C354AFB046; uniqueid=d349e494-e612-4184-b050-88d01dc18a1c; CK_SERVERID=b; s_cc=true; s_product=%5BPC%5D%3A%E3%82%B5%E3%82%A4%E3%83%88%E5%86%85%E6%A4%9C%E7%B4%A2%E7%B5%90%E6%9E%9C; sc_prevFlag=F; s_sq=qvcjqvcjpprod%3D%2526pid%253D%25255BPC%25255D%25253A%2525E3%252582%2525B5%2525E3%252582%2525A4%2525E3%252583%252588%2525E5%252586%252585%2525E6%2525A4%25259C%2525E7%2525B4%2525A2%2525E7%2525B5%252590%2525E6%25259E%25259C%2526pidt%253D1%2526oid%253Dhttp%25253A%25252F%25252Fqvc.jp%25252FLogoff.do%25253Fsc_initcmp%25253DMH_logout%2526ot%253DA; uniqueUserHash=29734a174ee175eb828c61e737d8ccd87f66282559917b7d4aa889793aa8860f0155bac93a103c80699cedfba1e09fdac66bdfbbe2abdc53cc4ed2ec5b5edd5b; easilylogin=538920295922967284; custid=73790398; curntChnl=QVC; launch_mid=flx; s_vi=[CS]v1|2C73BA9E854880DC-6000010300001AB8[CE]; YTM_PV=1; __ar_v4=; _vz=viz_58e7753948af7
+Connection: close
+Upgrade-Insecure-Requests: 1
+
+
+HTTP/1.1 302 Moved Temporarily
+Location: http://qvc.jp/cont/Logout
+Content-Type: text/html;charset=windows-31j
+Content-Length: 0
+Date: Fri, 07 Apr 2017 11:17:28 GMT
+Connection: close
+Set-Cookie: kokyakuchk=""; Expires=Thu, 01-Jan-1970 00:00:10 GMT; Secure
+Set-Cookie: kokyakuid=""; Expires=Thu, 01-Jan-1970 00:00:10 GMT; Secure
+Set-Cookie: CK_SERVERID=b; path=/
+

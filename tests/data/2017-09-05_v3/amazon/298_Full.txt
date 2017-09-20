@@ -1,0 +1,190 @@
+GET https://www.amazon.co.jp/ap/cvf/request?arb=008e913a-a137-45e7-899e-ee31ccdb1be8 HTTP/1.1
+Host: www.amazon.co.jp
+User-Agent: Mozilla/5.0 (Windows NT 6.1; WOW64; rv:51.0) Gecko/20100101 Firefox/51.0
+Accept: text/html,application/xhtml+xml,application/xml;q=0.9,*/*;q=0.8
+Accept-Language: ja,en-US;q=0.7,en;q=0.3
+Referer: https://www.amazon.co.jp/ap/forgotpassword/options?ie=UTF8&openid.pape.max_auth_age=0&openid.return_to=https%3A%2F%2Fwww.amazon.co.jp%2Fgp%2Fyourstore%2Fhome%3Fie%3DUTF8%26action%3Dsign-out%26path%3D%252Fgp%252Fyourstore%252Fhome%26ref_%3Dnav_youraccount_signout%26signIn%3D1%26useRedirectOnSuccess%3D1&prevRID=7Y711VYXQ7X03VQFK1Z1&openid.identity=http%3A%2F%2Fspecs.openid.net%2Fauth%2F2.0%2Fidentifier_select&openid.assoc_handle=jpflex&openid.mode=checkid_setup&openid.ns.pape=http%3A%2F%2Fspecs.openid.net%2Fextensions%2Fpape%2F1.0&paramJwt=eyJ6aXAiOiJERUYiLCJlbmMiOiJBMjU2R0NNIiwiYWxnIjoiQTI1NktXIn0.1DrpGPeIB0xqBsPvFIirzxCAsE6wogOYxQZFvYA7f_7juBshgcIH4w.K_g7pFon-xL0o1f9.E7G6qaaNGR020m7CYhhRPxofGcCtD9JrLzA1WwU35mkpnBqm65-4q8hVMQxCXCq2dBpj57q3fPEF8ZQ_f6xx-d20OKaSCKzW86AYki5sC2zXJ5jP1L78qbvXW-_OtRvhOjXH25mJOQ3NZ1tihO3Coa-Wq1qxpIpT6HuO44NMH3PcJbGd8MY529rTx7HmF3OpyFrygl3aU2DP-ghPwdpdKdwG7mgidCev8w3LwEPJR6QCBUfw-RBnfLNw1uCzDod4JeSM_ppJXLCAejaQya7ZeJ6F2RJoaGyg9edIpG0FhEuq.7D_ad1KftVDW9eMk5q1xGw&pageId=jpflex&openid.claimed_id=http%3A%2F%2Fspecs.openid.net%2Fauth%2F2.0%2Fidentifier_select&openid.ns=http%3A%2F%2Fspecs.openid.net%2Fauth%2F2.0
+Cookie: x-wl-uid=1GDvy2waSUzmWJfcmx4VPZYqHPpW6Z5KS6V7C66AdJ5N1JZEuIVBSBdsua4gZQEu8kIVoGsLSCYV9nEzxVn9/1M32ROlYTYQaLZCOY6YX0tR5xzFm8/79TgNH+CyiK5xtxuZSnVUlLh1VV2pJ1XpTgQ==; session-id-time=2082726001l; session-id=353-3201000-0660657; ubid-acbjp=353-0969293-9600038; session-token=05v593vxQ8Jxlp0Swn+0fnDf9d7bd9z0Sk77Q8yK+yX0eBDnr24f9MyIy3IkuPkjX8NLQ8JgsEFTooh4ivMgTmJOt0+ZNHdheQo6iwwaDygmFFvDIUPO9ExdcN3Bnw0FlDBe97bAY3pfggUB1vk5a3y1ulwk2utA8QL2R4Tjr94fM5MMSSO46EoArGDDN32L8QTbjI9HGVbFWSD/DfkIqzh9+rXUKH7FSs1l8tAmNR204VPWdz4U6v82HyxHegiw; csm-hit=3SSJ56C3N9YRBV1JB6FM+s-C5JSQVA96CQV62NH3XQ2|1487845090713; skin=noskin; JSESSIONID=0A2CD27DB693AD2191D5F92E39CBA919
+Connection: close
+Upgrade-Insecure-Requests: 1
+
+
+HTTP/1.1 200 OK
+Server: Server
+Date: Thu, 23 Feb 2017 10:18:14 GMT
+Content-Type: text/html;charset=UTF-8
+Transfer-Encoding: chunked
+Connection: close
+Strict-Transport-Security: max-age=47474747; includeSubDomains; preload
+X-Frame-Options: SAMEORIGIN
+Pragma: no-cache
+Expires: Thu, 01 Jan 1970 00:00:00 GMT
+Cache-Control: no-cache
+Cache-Control: no-store
+Content-Language: ja-JP
+Vary: Accept-Encoding,User-Agent
+Set-Cookie: session-id=353-3201000-0660657; Domain=.amazon.co.jp; Expires=Tue, 01-Jan-2036 08:00:01 GMT; Path=/
+Set-Cookie: session-id-time=2082787201l; Domain=.amazon.co.jp; Expires=Tue, 01-Jan-2036 08:00:01 GMT; Path=/
+Set-Cookie: ubid-acbjp=353-0969293-9600038; Domain=.amazon.co.jp; Expires=Tue, 01-Jan-2036 08:00:01 GMT; Path=/
+
+2029
+<!doctype html><html class="a-no-js" data-19ax5a9jf="dingo"><head><script>var aPageStart = (new Date()).getTime();</script><meta charset="utf-8"><title dir="ltr">ID&#12434;&#30906;&#35469;&#12375;&#12390;&#12367;&#12384;&#12373;&#12356;</title>
+<link rel="stylesheet" href="https://images-na.ssl-images-amazon.com/images/I/61dyCJWgJWL._RC|21ygDjmvMrL.css,31+M687eV8L.css,31GHH1W+y+L.css_.css#AUIClients/AmazonUI.min" />
+<link rel="stylesheet" href="https://images-na.ssl-images-amazon.com/images/G/01/AUIClients/CVFAssets-616d2fede68946dec30d891f2c8550ec861ae40f._V2_.css#AUIClients/CVFAssets.secure.min" />
+<link rel="stylesheet" href="https://images-na.ssl-images-amazon.com/images/G/01/AUIClients/AuthenticationShowPasswordAssets-9a3d183fcd7fbcde8db6e9627d282abd73966d11._V2_.css#AUIClients/AuthenticationShowPasswordAssets.secure.min" />
+
+<script>
+(function(g,h,G,r){function w(a,b){m&&m.count&&m.count("aui:"+a,0===b?0:b||(m.count("aui:"+a)||0)+1)}function t(a){try{return a.test(navigator.userAgent)}catch(b){return!1}}function A(a,b,c){a.addEventListener?a.addEventListener(b,c,!1):a.attachEvent&&a.attachEvent("on"+b,c)}function q(a,b,c,f){b=b&&c?b+a+c:b||c;return f?q(a,b,f):b}function H(a,b,c){try{Object.defineProperty(a,b,{value:c,writable:!1})}catch(f){a[b]=c}return c}function I(){return setTimeout(R,0)}function ga(a,b){var c=a.length,f=c,
+d=function(){f--||(J.push(b),K||(I(),K=!0))};for(d();c--;)S[a[c]]?d():(x[a[c]]=x[a[c]]||[]).push(d)}function ha(a,b,c,f){var d=h.createElement(a?"script":"link");A(d,"error",f);if(a){d.type="text/javascript";d.async=!0;if(a=c)a=-1!==b.indexOf("images/I")||/AUIClients/.test(b);a&&d.setAttribute("crossorigin","anonymous");d.src=b}else d.rel="stylesheet",d.href=b;h.getElementsByTagName("head")[0].appendChild(d)}function T(a,b){return function(c){function f(){ha(b,c,d,function(b){L?w("resource_unload"):
+d?(d=!1,w("resource_retry"),f()):(w("resource_error"),a.log("Asset failed to load: "+c));b&&b.stopPropagation?b.stopPropagation():g.event&&(g.event.cancelBubble=!0)})}if(U[c])return!1;U[c]=!0;w("resource_count");var d=!0;return!f()}}function ia(a,b,c){for(var f={name:a,guard:function(c){return b.guardFatal(a,c)}},d=[],e=0;e<c.length;e++)u.hasOwnProperty(c[e])&&(d[e]=M.hasOwnProperty(c[e])?M[c[e]](u[c[e]],f):u[c[e]]);return d}function y(a,b,c,f,d){return function(e,h){function l(){var a=null;f?a=h:
+"function"===typeof h&&(p.start=v(),a=h.apply(g,ia(e,k,m)),p.end=v());if(b){u[e]=a;a=e;for(S[a]=!0;(x[a]||[]).length;)x[a].shift()();delete x[a]}p.done=!0}var k=d||this;"function"===typeof e&&(h=e,e=void 0);b&&(e=(e||"__NONAME__").replace(/^prv:/,""),u.hasOwnProperty(e)&&k.error(q(" @ ","Component already registered",e),e),u[e]=void 0);for(var m=[],n=0;n<a.length;n++)m[n]=a[n].replace(/^prv:/,"");var p=V[e]={depend:m,registered:v()};c?l():ga(m,k.guardFatal(e,l));return{decorate:function(a){M[e]=a}}}}
+function W(a){return function(){return{execute:y(arguments,!1,a,!1,this),register:y(arguments,!0,a,!1,this)}}}function X(a,b){return function(c,f){f||(f=c,c=void 0);return function(){B.push({attribution:a,name:c,logLevel:b});var d=f.apply(this,arguments);B.pop();return d}}}function C(a,b){this.logError=function(c,b,d,e){return g.ueLogError?(b={message:b,logLevel:d||"ERROR",attribution:q(":",a,e)},g.ueLogError(c||b,c?b:null),!0):!1};this.error=function(c,b,d,e){c=Error(q(":",e,c,d));c.attribution=
+q(":",a,b);throw c;};this.guardError=X(a);this.guardFatal=X(a,"FATAL");this.load={js:T(this,!0),css:T(this)};H(this,"namespace",b)}function Y(){h.body?n.trigger("a-bodyBegin"):setTimeout(Y,20)}function z(a,b){if(b){for(var c=a.className.split(" "),f=c.length;f--;)if(c[f]===b)return;a.className+=" "+b}}function Z(a,b){for(var c=a.className.split(" "),f=[],d;void 0!==(d=c.pop());)d&&d!==b&&f.push(d);a.className=f.join(" ")}function aa(a){try{return a()}catch(b){return!1}}function D(){if(E){var a=g.innerWidth?
+{w:g.innerWidth,h:g.innerHeight}:{w:k.clientWidth,h:k.clientHeight},b=!1;5<Math.abs(a.w-N.w)||50<a.h-N.h?(N=a,O=4,(b=l.mobile||l.tablet?a.w>a.h:1250<=a.w)?z(k,"a-ws"):Z(k,"a-ws")):O--&&(ba=setTimeout(D,16))}}function ja(a){(E=void 0===a?!E:!!a)&&D()}function ka(){return E}"use strict";r=g.AmazonUIPageJS||g.P;var m=g.ue;m&&m.tag&&(m.tag("aui"),m.tag("aui:aui_build_date:3.16.9.5-2016-10-12"));var v=G.now=G.now||function(){return+new G},J=[],K=!1,R;R=function(){for(var a=I(),b=v();J.length;)if(J.shift()(),
+50<v()-b)return;clearTimeout(a);K=!1};t(/OS 6_[0-9]+ like Mac OS X/i)&&A(g,"scroll",I);var S={},x={},U={},L=!1;A(g,"beforeunload",function(){L=!0;setTimeout(function(){L=!1},1E4)});var u={},M={},V={},B=[],ca=g.onerror;g.onerror=function(a,b,c,f,d){d&&"object"===typeof d||(d=Error(a,b,c),d.columnNumber=f,d.stack=b||c||f?q(String.fromCharCode(92),d.message,"at "+q(":",b,c,f)):void 0);var e=B.pop()||{};d.attribution=q(":",d.attribution||e.attribution,e.name);d.logLevel=e.logLevel;d.attribution&&console&&
+console.log&&console.log([d.logLevel||"ERROR",a,"thrown by",d.attribution].join(" "));B=[];ca&&(e=[].slice.call(arguments),e[4]=d,ca.apply(g,e))};C.prototype={log:function(a,b,c){return this.logError(null,a,b,c)},declare:y([],!0,!0,!0),register:y([],!0),execute:y([]),AUI_BUILD_DATE:"3.16.9.5-2016-10-12",when:W(),now:W(!0),trigger:function(a,b){var c=v();this.declare(a,{data:b,pageElapsedTime:c-(g.aPageStart||NaN),triggerTime:c})},handleTriggers:function(){this.log("handleTriggers deprecated")},attributeErrors:function(a){return new C(a)},
+_namespace:function(a,b){return new C(a,b)}};var n=H(g,"AmazonUIPageJS",new C);n._namespace("PageJS","AmazonUI").declare("prv:p-debug",V);"use strict";n.declare("p-recorder-events",[]);n.declare("p-recorder-stop",function(){});H(g,"P",n);Y();if(h.addEventListener){var da;h.addEventListener("DOMContentLoaded",da=function(){n.trigger("a-domready");h.removeEventListener("DOMContentLoaded",da,!1)},!1)}var k=h.documentElement,P=function(){var a=["O","ms","Moz","Webkit"],b=h.createElement("div");return{testGradients:function(){b.style.cssText=
+("background-image:-webkit-gradient(linear,left top,right bottom,from(#9f9),to(white));background-image:"+a.join("linear-gradient(left top,#9f9, white);background-image:")).slice(0,-17);return-1<b.style.backgroundImage.indexOf("gradient")},test:function(c){var f=c.charAt(0).toUpperCase()+c.substr(1);c=(a.join(f+" ")+f+" "+c).split(" ");for(f=c.length;f--;)if(""===b.style[c[f]])return!0;return!1},testTransform3d:function(){var a=!1;g.matchMedia&&(a=g.matchMedia("(-webkit-transform-3d)").matches);return a}}}();
+r=k.className;var ea=/(^| )a-mobile( |$)/.test(r),fa=/(^| )a-tablet( |$)/.test(r),l={audio:function(){return!!h.createElement("audio").canPlayType},video:function(){return!!h.createElement("video").canPlayType},canvas:function(){return!!h.createElement("canvas").getContext},svg:function(){return!!h.createElementNS&&!!h.createElementNS("http://www.w3.org/2000/svg","svg").createSVGRect},offline:function(){return navigator.hasOwnProperty&&navigator.hasOwnProperty("onLine")&&navigator.onLine},dragDrop:function(){return"draggable"in
+h.createElement("span")},geolocation:function(){return!!navigator.geolocation},history:function(){return!(!g.history||!g.history.pushState)},webworker:function(){return!!g.Worker},autofocus:function(){return"autofocus"in h.createElement("input")},inputPlaceholder:function(){return"placeholder"in h.createElement("input")},textareaPlaceholder:function(){return"placeholder"in h.createElement("textarea")},localStorage:function(){return"localStorage"in g&&null!==g.localStorage},orientation:function(){return"orientation"in
+g},touch:function(){return"ontouchend"in h},gradients:function(){return P.testGradients()},hires:function(){var a=g.devicePixelRatio&&1.5<=g.devicePixelRatio||g.matchMedia&&g.matchMedia("(min-resolution:144dpi)").matches;w("hiRes"+(ea?"Mobile":fa?"Tablet":"Desktop"),a?1:0);return a},transform3d:function(){return P.testTransform3d()},touchScrolling:function(){return t(/Windowshop|android.([3-9]|[L-Z])|OS ([5-9]|[1-9][0-9]+)(_[0-9]{1,2})+ like Mac OS X|Chrome|Silk|Firefox|Trident.+?; Touch/i)},ios:function(){return t(/OS [1-9][0-9]*(_[0-9]*)+ like Mac OS X/i)},
+android:function(){return t(/android.([1-9]|[L-Z])/i)&&!t(/trident/i)},mobile:function(){return ea},tablet
+a4b
+:function(){return fa}},p;for(p in l)l.hasOwnProperty(p)&&(l[p]=aa(l[p]));for(var Q="textShadow textStroke boxShadow borderRadius borderImage opacity transform transition".split(" "),F=0;F<Q.length;F++)l[Q[F]]=aa(function(){return P.test(Q[F])});var E=!0,ba=0,N={w:0,h:0},O=4;D();A(g,"resize",function(){clearTimeout(ba);O=4;D()});Z(k,"a-no-js");z(k,"a-js");!t(/OS [1-8](_[0-9]*)+ like Mac OS X/i)||
+g.navigator.standalone||t(/safari/i)||z(k,"a-ember");l.localStorage&&z(k,localStorage.getItem("a-skin-font-class"));r=[];for(p in l)l.hasOwnProperty(p)&&l[p]&&r.push("a-"+p.replace(/([A-Z])/g,function(a){return"-"+a.toLowerCase()}));z(k,r.join(" "));k.setAttribute("data-aui-build-date","3.16.9.5-2016-10-12");n.register("p-detect",function(){return{capabilities:l,toggleResponsiveGrid:ja,responsiveGridEnabled:ka}});n.declare("a-event-revised-handling",!1)})(window,document,Date);
+  (window.AmazonUIPageJS ? AmazonUIPageJS : P).load.js('https://images-na.ssl-images-amazon.com/images/I/01KRcg6-T5L._RC|61yGn8SWTgL.js,118juELdZRL.js,51qySRNLWXL.js,01N6xzIJxbL.js,51K9yT87dJL.js,01rpauTep4L.js,31gfNxLp1vL.js,01yqNhFLqeL.js,61d3bGb5jML.js,018X-PE063L.js,01BBu+b9t0L.js,01eO7OoSd6L.js_.js#AUIClients/AmazonUI.min');
+  (window.AmazonUIPageJS ? AmazonUIPageJS : P).load.js('https://images-na.ssl-images-amazon.com/images/G/01/AUIClients/CVFAssets-fa515d8058debc819527bc21df3cb33f15c6e417._V2_.js#AUIClients/CVFAssets.secure.min');
+  (window.AmazonUIPageJS ? AmazonUIPageJS : P).load.js('https://images-na.ssl-images-amazon.com/images/G/01/AUIClients/FWCIMAssets-adac5be88cad5693670b3f842acbff22923f5985._V2_.js#AUIClients/FWCIMAssets.secure.min');
+  (window.AmazonUIPageJS ? AmazonUIPageJS : P).load.js('https://images-na.ssl-images-amazon.com/images/G/01/AUIClients/AuthenticationShowPasswordAssets-564af97775e2e22261c5bf5f0b021adf1e54b9e1._V2_.js#AUIClients/AuthenticationShowPasswordAssets.secure.min');
+</script>
+</head>
+<body class="a-aui_51744-c a-aui_57326-c a-aui_58736-t1 a-aui_72554-c a-aui_75278-c a-aui_accessibility_49860-c a-aui_attr_validations_1_51371-c a-aui_bolt_62845-c a-aui_decorate_77059-c a-aui_noopener_84118-t2 a-aui_ux_56217-c a-aui_ux_59374-c a-aui_ux_60000-c"><div id="a-page"><script type="a-state" data-a-state="{&quot;key&quot;:&quot;a-wlab-states&quot;}">{"AUI_51744":null,"AUI_57326":null,"AUI_58736":"T1","AUI_72554":null,"AUI_75278":null,"AUI_ACCESSIBILITY_49860":null,"AUI_ATTR_VALIDATIONS_1_51371":null,"AUI_BOLT_62845":null,"AUI_DECORATE_77059":null,"AUI_NOOPENER_84118":"T2","AUI_UX_56217":null,"AUI_UX_59374":null,"AUI_UX_60000":null}</script><div class="a-section a-spacing-none a-padding-medium">
+1b6
+
+
+
+<!-- desktop/logo ""  -->
+
+
+<div class="a-section a-spacing-medium a-text-center">
+  
+    
+    
+      <a class="a-link-normal" href="/ref=ap_frn_logo">
+        
+        <i class="a-icon a-icon-logo" aria-label="Amazon"><span class="a-icon-alt">Amazon</span></i>
+        
+        
+          
+          
+            <i class="a-icon a-icon-jp a-icon-domain-jp a-icon-domain"></i>
+          
+          
+        
+      </a>
+    
+  
+</div>
+
+b8
+</div>
+<div class="a-section a-text-center"><div class="a-section a-text-left cvf-widget-container"><div class="a-section cvf-page-layout"><div id="cvf-page-content" class="a-section">
+99a
+
+<div class="a-box"><div class="a-box-inner a-padding-extra-large">
+<div class="a-row a-spacing-small"><form method="post" action="verify" class="cvf-widget-form fwcim-form a-spacing-none"><div class="a-row a-spacing-small"><div class="a-row a-spacing-small">        <h1>あなたのIDを確認しています…</h1>
+</div>
+<div class="a-row a-spacing-none">        <span>セキュリティ上の理由から、あなたのIDを確認する必要があります。 </span>
+        <span>Eメール
+hitakahashi9999+123@gmail.comへコードを送信しました。 </span>
+<span>以下にコードを入力してください。</span></div></div>
+<div class="a-row a-spacing-small"><div class="a-row a-spacing-micro cvf-widget-input-code-label">コードを入力</div>
+<input type="text" maxlength="6" required name="code" class="a-input-text a-span12 cvf-widget-input cvf-widget-input-code"></div>
+<div class="a-row a-spacing-micro">
+
+
+
+
+
+</div>
+<div class="a-row a-spacing-small"><span class="a-button a-button-span12 a-button-primary cvf-widget-btn cvf-widget-btn-verify"><span class="a-button-inner"><input class="a-button-input" type="submit"><span class="a-button-text" aria-hidden="true">続行</span></span></span></div>
+<div class="a-section a-spacing-large a-spacing-top-large a-text-center"><a class="a-link-normal cvf-widget-btn cvf-widget-btn-resend-compact cvf-widget-link-disable-target" href="#">コードを再送</a></div>
+<input type="hidden" name="action" value="code" class="cvf-widget-hidden-fields">
+<input type="hidden" name="verifyToken" value="s|d48aab46-02f6-38b2-b28a-0f2caa1146d2" class="cvf-widget-hidden-fields">
+</form></div>
+<div class="a-row a-spacing-small"><form method="post" action="verify" class="cvf-widget-form cvf-widget-form-resend a-spacing-none"><span class="a-button a-button-span12 cvf-widget-btn cvf-widget-btn-resend"><span class="a-button-inner"><input class="a-button-input" type="submit"><span class="a-button-text" aria-hidden="true">コードを再送</span></span></span>
+<input type="hidden" name="action" value="resend" class="cvf-widget-hidden-fields">
+<input type="hidden" name="verifyToken" value="s|d48aab46-02f6-38b2-b28a-0f2caa1146d2" class="cvf-widget-hidden-fields">
+</form></div>
+<script>
+  P.when('A', 'ready').execute(function(A) {
+    var $ = A.$;
+
+    $('.cvf-widget-btn-resend-compact').click(function() {
+      $('.cvf-widget-form-resend').submit();
+    });
+  });
+</script></div></div>
+19
+</div></div></div></div>
+
+6e4
+
+
+
+
+
+<style>
+.auth-footer-separator {
+  display:inline-block;
+  width:20px;
+}
+</style>
+
+
+
+
+<hr class="a-divider-normal">
+
+<div id="footer" class="a-section">
+  <div class="a-section a-spacing-small a-text-center a-size-mini">
+    
+      <span class="auth-footer-separator"></span>
+    
+    
+      
+      <span class="a-declarative" data-action="auth-popup" data-auth-popup="{&quot;windowOptions&quot;:&quot;width=700, height=500, resizable=1, scrollbars=1, toolbar=1, status=1&quot;}">
+        <a class="a-link-normal" target="_blank" href="/gp/help/customer/display.html/ref=ap_desktop_footer_cou?ie=UTF8&nodeId=643006">
+          利用規約
+        </a>
+      </span>
+      <span class="auth-footer-separator"></span>
+    
+      
+      <span class="a-declarative" data-action="auth-popup" data-auth-popup="{&quot;windowOptions&quot;:&quot;width=700, height=500, resizable=1, scrollbars=1, toolbar=1, status=1&quot;}">
+        <a class="a-link-normal" target="_blank" href="/gp/help/customer/display.html/ref=ap_desktop_footer_privacy_notice?ie=UTF8&nodeId=643000">
+          プライバシー規約
+        </a>
+      </span>
+      <span class="auth-footer-separator"></span>
+    
+      
+      <span class="a-declarative" data-action="auth-popup" data-auth-popup="{&quot;windowOptions&quot;:&quot;width=700, height=500, resizable=1, scrollbars=1, toolbar=1, status=1&quot;}">
+        <a class="a-link-normal" target="_blank" href="/help">
+          ヘルプ
+        </a>
+      </span>
+      <span class="auth-footer-separator"></span>
+    
+  </div>
+
+  <div class="a-section a-spacing-none a-text-center">
+    <span class="a-size-mini a-color-secondary">
+      © 1996-2017, Amazon.com, Inc. or its affiliates
+    </span>
+  </div>
+</div>
+
+</div></body></html>
+0
+

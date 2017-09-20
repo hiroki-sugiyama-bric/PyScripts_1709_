@@ -1,0 +1,621 @@
+GET https://cybozulive.com/ HTTP/1.1
+Host: cybozulive.com
+User-Agent: Mozilla/5.0 (Windows NT 6.1; WOW64; rv:51.0) Gecko/20100101 Firefox/51.0
+Accept: text/html,application/xhtml+xml,application/xml;q=0.9,*/*;q=0.8
+Accept-Language: ja,en-US;q=0.7,en;q=0.3
+Referer: https://cybozulive.com/login?dummy=1487912475185
+Cookie: __ctc=0oDq2liqccNNXhKjCeuYAg==; __utma=224468744.859744565.1487565255.1487909616.1487912475.5; __utmz=224468744.1487909616.4.4.utmcsr=google|utmccn=(organic)|utmcmd=organic|utmctr=(not%20provided); _ga=GA1.2.859744565.1487565255; __utma=1.859744565.1487565255.1487565260.1487909691.2; __utmz=1.1487565260.1.1.utmcsr=(direct)|utmccn=(direct)|utmcmd=(none); JSESSIONID=4514C86FC36EB3156EAB1F96FFC159BE; __utmc=224468744; __utmc=1; __utmb=224468744.1.10.1487912475; __utmt=1; _dc_gtm_UA-84876138-6=1; _gali=cba_login
+Connection: close
+Upgrade-Insecure-Requests: 1
+
+
+HTTP/1.1 200 OK
+Server: nginx
+Date: Fri, 24 Feb 2017 05:03:45 GMT
+Content-Type: text/html;charset=UTF-8
+Transfer-Encoding: chunked
+Connection: close
+Vary: Accept-Encoding
+Cache-Control: private
+X-Cybozu-Status-Code: 200
+X-Frame-Options: SAMEORIGIN
+Strict-Transport-Security: max-age=315360000; includeSubDomains; preload;
+X-UA-Compatible: IE=Edge
+X-Content-Type-Options: nosniff
+X-XSS-Protection: 1; mode=block
+
+4bc
+
+
+
+
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+<html xmlns="http://www.w3.org/1999/xhtml">
+<head>
+<meta http-equiv="content-type" content="text/html; charset=utf-8" />
+<meta http-equiv="content-style-type"  content="text/css" />
+<meta http-equiv="content-script-type" content="text/javascript" />
+<meta http-equiv="X-UA-Compatible" content="IE=edge" />
+<meta name="keywords" content="無料,グループウェア,プロジェクト,クラウド,PTA,イベント運営" />
+<meta name="description" content="サイボウズLiveは、グループチャットや掲示板、ファイル共有など、チーム運営に必要な機能がそろった「チームのためのグループウェア」です。すべて無料で利用できます。PTA、自治会、おやじの会、NPO、イベント運営、企業間プロジェクトなど、様々なシーンで利用できます。" />
+<meta http-equiv="Imagetoolbar" content="no" />
+
+<meta property="og:site_name" content="サイボウズLive" />
+<meta property="og:type" content="article" />
+<meta property="og:title" content="プロジェクトは情報共有で成功する : �
+1d78
+�料コラボレーションツール サイボウズLive" />
+<meta property="og:image" content="https://cybozulive.com/static/11417123b1/images/og_image.png" />
+<meta property="og:description" content="サイボウズLiveは、グループチャットや掲示板、ファイル共有など、チーム運営に必要な機能がそろった「チームのためのグループウェア」です。すべて無料で利用できます。PTA、自治会、おやじの会、NPO、イベント運営、企業間プロジェクトなど、様々なシーンで利用できます。" />
+<meta property="og:url" content="https://cybozulive.com" />
+
+<link rel="stylesheet" type="text/css" href="https://cybozulive.com/static/11417123b1/css/common/colorbox.css" media="screen" />
+<link rel="stylesheet" type="text/css" href="https://cybozulive.com/static/11417123b1/css/jquery.qtip.css" media="screen" />
+<link rel="stylesheet" type="text/css" href="https://cybozulive.com/static/11417123b1/css/newCss/common/base.css" media="screen" />
+                        <link rel="stylesheet" type="text/css" href="https://cybozulive.com/static/11417123b1/css/newCss/application/portal.css" media="screen,print" />
+                <link rel="stylesheet" type="text/css" href="https://cybozulive.com/static/11417123b1/css/smoothness/jquery-ui.css" media="screen" />
+<link rel="stylesheet" type="text/css" href="https://cybozulive.com/static/11417123b1/css/syntaxHighlighter/shCore.css" media="screen" />
+<link rel="stylesheet" type="text/css" href="https://cybozulive.com/static/11417123b1/css/syntaxHighlighter/shThemeDefault.css" media="screen" />
+<link rel="stylesheet" type="text/css" href="https://cybozulive.com/static/11417123b1/css/newCss/common/print.css" media="print" />
+
+<link rel="start" href="/" title="home" />
+<link rel="apple-touch-icon" href="https://cybozulive.com/static/11417123b1/images/iphone/apple-touch-icon.png" />
+
+                                <title>ホーム - サイボウズLive</title>
+<link rel="shortcut icon" href="https://cybozulive.com/static/11417123b1/images/favicon.ico" /> 
+
+<script type="text/javascript">
+<!--
+var CbAries = window.CbAries || new Object();
+if( ! CbAries.Global )
+{
+    CbAries.Global = new Object;
+}
+
+CbAries.Global.cybozuStatus = 200;
+CbAries.Global.lastAccessDate = '';
+
+CbAries.Global.setStatic = function( path, param ) {
+    var result = 'https://cybozulive.com/static/11417123b1' + path + '';
+
+    if( typeof param !== "undefined" ) {
+        var match= new RegExp( "\\?" );
+        if( ''.match( match ) ) {
+            result += '&' + param;
+        } else {
+            result += '?' + param;
+        }
+    }
+
+    return result;
+};
+CbAries.Global.setRelative = function( path, param ) {
+    var result = '' + path + '';
+
+    if( typeof param !== "undefined" ) {
+        var match= new RegExp( "\\?" );
+        if( ''.match( match ) ) {
+            result += '&' + param;
+        } else {
+            result += '?' + param;
+        }
+    }
+
+    var match= new RegExp( "\\?" );
+    if( result.match( match ) ) {
+        result += '&dummy=' + new Date().getTime();
+    }
+    else {
+        result += '?dummy=' + new Date().getTime();
+    }
+
+    return result;
+};
+CbAries.Global.setAbsolute = function( path, param ) {
+    var result = 'https://cybozulive.com' + path + '';
+
+    if( typeof param !== "undefined" ) {
+        var match= new RegExp( "\\?" );
+        if( ''.match( match ) ) {
+            result += '&' + param;
+        } else {
+            result += '?' + param;
+        }
+    }
+
+    result = CbAries.Global.addDummyParam( result );
+
+    return result;
+};
+CbAries.Global.setPortalRelative = function( path, param ) {
+    var result = '' + path + '';
+
+    if( typeof param !== "undefined" ) {
+        var match= new RegExp( "\\?" );
+        if( ''.match( match ) ) {
+            result += '&' + param;
+        } else {
+            result += '?' + param;
+        }
+    }
+
+    result = CbAries.Global.addDummyParam( result );
+
+    return result;
+};
+CbAries.Global.addDummyParam = function( url )
+{
+    if( !url )
+    {
+        return url;
+    }
+    var match= new RegExp( "\\?" );
+    if( url.match( match ) ) {
+        url += '&dummy=' + new Date().getTime();
+    }
+    else {
+        url += '?dummy=' + new Date().getTime();
+    }
+    return url;
+};
+CbAries.Global.isGw = false;
+CbAries.Global.inline = true;
+  CbAries.Global.newCss = true;
+-->
+</script>
+
+
+</head>
+<body class="mypage  FIREFOX FIREFOX_51 ja newCss"><div class="globalNavi" data-interval="60">
+
+<table class="globalNavi__table">
+<tr>
+<th class="globalNavi__logo">
+    <a href="/">
+        <img src="https://cybozulive.com/static/11417123b1/images/newCss/globalNavi/brand-logo.png" alt="" />
+    </a>
+</th>
+<td class="globalNavi__menu globalNavi__menu--group">
+    <a href="javascript:void(0);" class="globalNavi__link globalNavi__link--menu globalNavi__link--groupware iconLink globalNavi__link--unselected" data-url="https://cybozulive.com/common/globalNavi/groupMenuAjax" data-type="group">
+        <img src="https://cybozulive.com/static/11417123b1/images/newCss/globalNavi/icon-group.png" alt="" class="globalNavi__icon" />
+        <span class="globalNavi__label">グループ</span>
+        <span>
+            <img src="https://cybozulive.com/static/11417123b1/images/newCss/globalNavi/sort-down.png" alt="メニューを開く" class="globalNavi__arrow" />
+        </span>
+    </a>
+</td>
+<td class="globalNavi__menu">
+    <a href="/mpSchedule/calendarSwitch?ref=header" class="globalNavi__link globalNavi__link--menu globalNavi__link--mpSchedule iconLink globalNavi__link--unselected">
+        <img src="https://cybozulive.com/static/11417123b1/images/newCss/globalNavi/icon-calendar.png" alt="" class="globalNavi__icon" />
+        <span class="globalNavi__label">マイカレンダー</span>
+    </a>
+</td>
+<td class="globalNavi__menu">
+    <a href="/mpChat/list?ref=header" class="globalNavi__link globalNavi__link--menu globalNavi__link--mpChat iconLink globalNavi__link--unselected">
+        <img src="https://cybozulive.com/static/11417123b1/images/newCss/globalNavi/icon-chat.png" alt="" class="globalNavi__icon" />
+        <span class="globalNavi__label">チャット</span>
+    </a>
+</td>
+<td class="globalNavi__menu">
+    <a href="javascript:void(0);" class="globalNavi__link globalNavi__link--account globalNavi__link--menu iconLink globalNavi__link--unselected" data-url="https://cybozulive.com/common/globalNavi/accountMenuAjax" data-type="account">
+        <img src="https://cybozulive.com/static/11417123b1/images/newCss/globalNavi/icon-user.png" alt="" class="globalNavi__icon" />
+        <span class="globalNavi__label">アカウント</span>
+        <span>
+            <img src="https://cybozulive.com/static/11417123b1/images/newCss/globalNavi/sort-down.png" alt="メニューを開く" class="globalNavi__arrow" />
+        </span>
+    </a>
+</td>
+<td class="globalNavi__menu--blank"></td>
+<td class="globalNavi__menu--notification">
+    <a href="javascript:void(0);" class="globalNavi__link globalNavi__link--list globalNavi__link--update" title="新着情報" data-url="https://cybozulive.com/common/globalNavi/updateListAjax" data-type="update">
+        <span class="unreadMark unreadMark--confirmed" style="display: none;">0</span>
+        <img src="https://cybozulive.com/static/11417123b1/images/newCss/globalNavi/icon-bell.png" alt="新着情報" />
+    </a>
+</td>
+<td class="globalNavi__menu--notification">
+    <a href="javascript:void(0);" class="globalNavi__link globalNavi__link-
+28c8
+-list globalNavi__link--good" title="いいね！" data-url="https://cybozulive.com/common/globalNavi/goodListAjax" data-type="good">
+        <span class="unreadMark" style="display: none;">0</span>
+        <img src="https://cybozulive.com/static/11417123b1/images/newCss/globalNavi/icon-good.png" alt="いいね！" />
+    </a>
+</td>
+<td class="globalNavi__menu--notification">
+    <a href="javascript:void(0);" class="globalNavi__link globalNavi__link--list globalNavi__link--star" title="お気に入り" data-url="https://cybozulive.com/common/globalNavi/starListAjax" data-type="star">
+        <span class="unreadMark unreadMark--confirmed" style="display: none;">0</span>
+        <img src="https://cybozulive.com/static/11417123b1/images/newCss/globalNavi/icon-star.png" alt="お気に入り" />
+    </a>
+</td>
+</tr>
+</table>
+</div>
+<div id="body">
+
+
+<div class="menuFrame">
+    <div class="loginMember">
+    <div class="loginMember__icon">
+        <a href="/mpConfiguration/profile/view" >
+                                                <img src="/11417123b1/icon/member/1:962829_1:971721_1487911335000.jpg" width="50" height="37" style="padding:6px 0px 6px 0px;" alt=""  />
+                    </a>
+    </div>
+    <div class="loginMember__information sprite">
+        <div class="loginMember__name">
+            <a href="/mpConfiguration/profile/view">高橋 英紀</a>
+        </div>
+        <div class="loginMember__sns">
+                    <a href="/mpConfiguration/twitter/view" class="twitterUnlink icons16-sprite twitter16n iconLink16" title="Twitter連携を設定する"></a>
+                            <a href="/mpConfiguration/facebook/view" class="facebookUnlink icons16-sprite facebook16n iconLink16" title="Facebook連携を設定する"></a>
+                </div>
+    </div>
+</div>
+
+    <div class="groupwareList">
+    <div class="groupwareList__title" role="heading" aria-level="2">グループ一覧</div>
+    <ul class="choiceMode groupwareList__choice">
+        <li >
+            <a href="javascript:void(0);" class="groupwareList__choice--unconfirmed">未読のみ</a>
+        </li>
+        <li class="active">
+            <a href="javascript:void(0);" class="groupwareList__choice--all">すべて</a>
+        </li>
+    </ul>
+
+    <div class="groupwareList__list">
+        
+        
+                    <div class="groupwareList__empty notfound">参加しているグループはありません。</div>
+            </div>
+    <div class="groupwareList__border"></div>
+
+    <div class="groupwareList__add">
+        <a href="/groupware/add?ref=left" title="グループを作る" class="iconLink">
+            <img src="https://cybozulive.com/static/11417123b1/images/newCss/common/icon-plus-circle.png" alt="" />
+            <span>グループを作る</span>
+        </a>
+    </div>
+
+    </div></div>
+
+<div class="mainFrame">
+    <div class="mainFrame__contents">
+                
+        
+                
+
+<div id="cba_portalCalendar">
+
+
+<div class="calendarMenu">
+    <div class="calendarMenuNavi">
+        <div class="calendarMenuNavi__switch">
+            <a href="javascript:void(0);" style="display:none;" class="switchOn calendarMenuNavi__switchLink">
+                <span class="button__switch button__switch--down"></span>
+                <span class="calendarMenuNavi__targetDate" role="heading" aria-level="2">2017年2月24日(金)</span>
+            </a>
+            <a href="javascript:void(0);" style="display:block;" class="switchOff calendarMenuNavi__switchLink">
+                <span class="button__switch button__switch--up"></span>
+                <span class="calendarMenuNavi__targetDate" role="heading" aria-level="2">2017年2月24日(金)</span>
+            </a>
+        </div>
+                         
+        <div class="calendarMenuNavi__pageNavi" style="display:inline-block;">
+                        <div class="button__navi button__navi--previous">
+                <a href="javascript:void(0);" title="5日前" data-url="/portal/shortWeeklyCalendarAjax?listTargetDate=2017-02-19"></a>
+            </div>
+            <div class="button__navi button__navi--text">
+                <a href="javascript:void(0);" title="今日" data-url="/portal/shortWeeklyCalendarAjax?listTargetDate=2017-02-24">
+                    <span>今日</span>
+                </a>
+            </div>
+            <div class="button__navi button__navi--next">
+                <a href="javascript:void(0);" title="5日後" data-url="/portal/shortWeeklyCalendarAjax?listTargetDate=2017-03-01"></a>
+            </div>
+        </div>
+    </div>
+
+    <div class="calendarMenuConfig" style="display:inline-block;">
+        <div class="calendarMenuConfig__groupEventSwitch groupEventSwitch">
+            <label>
+                <input type="checkbox" id="cba_mpScheduleGroupEventSwitch" checked="checked" />
+                グループイベント
+            </label>
+        </div>
+        <div class="calendarMenuConfig__dropdown dropdown">
+            <div class="title">
+                <a href="javascript:void(0);"><span>表示設定</span></a>
+            </div>
+            <div class="menu">
+                <ul class="keepDropDown">
+                    <li>
+                        <label>
+                            <input type="checkbox" id="cba_mpScheduleCcAllSwitch" checked="checked" />
+                            CC予定をすべて表示
+                        </label>
+                    </li>
+                    <li>
+                        <label>
+                           <input type="checkbox" id="cba_mpScheduleTitleNowrapSwitch" checked="checked" />
+                            タイトルを折り返して表示
+                        </label>
+                    </li>
+                </ul>
+            </div>
+        </div>
+    </div>
+</div>
+
+<div id="cba_portalCalendarTable" style="display:block;">
+<table class="calendar">
+<tbody class="weeklyCalendar ">
+<tr class="weekly">
+        
+ 
+                
+                
+    <td class="daily calendar__cell--weekday calendar__cell--today">
+                        <div class="calendar__header">
+                                        <a href="/mpSchedule/daily?listDate=2017-02-24" class="calendar__date"><span>2/24(金)</span></a>
+                        <div class="button__icon button__icon--add">
+                <a href="/mpSchedule/add?entryDate=2017-02-24&amp;listType=shortWeekly&amp;listDate=2017-02-24&amp;displayFromFirstDay=false" title="予定を登録する">
+                </a>
+            </div>
+        </div>
+        <div class="calendar__simpleAdd">
+                        <span class="button__icon button__icon--simpleAdd" style="display:none">
+    <a class="calendar__simpleAddLink" href="javascript:void(0);" data-url="/mpSchedule/addLb?modeSwitchable=true&amp;entryDate=2017-02-24&amp;listType=shortWeekly&amp;listDate=2017-02-24&amp;displayFromFirstDay=false" title="予定を登録する">
+    </a>
+</span>        </div>
+        
+                
+                <div class="calendar__eventList calendar__eventList--toEvent">
+                                                                                                </div>
+        
+                <div class="calendar__eventList calendar__eventList--task">
+                                                                                        </div>
+
+                
+                    </td>
+                
+                
+    <td class="daily calendar__cell--saturday ">
+                        <div class="calendar__header">
+                                        <a href="/mpSchedule/daily?listDate=2017-02-25" class="calendar__date"><span>2/25(土)</span></a>
+                        <div class="button__icon button__icon--add">
+                <a href="/mpSchedule/add?entryDate=2017-02-25&amp;listType=shortWeekly&amp;listDate=2017-02-24&amp;displayFromFirstDay=false" title="予定を登録する">
+                </a>
+            </div>
+        </div>
+        <div class="calendar__simpleAdd">
+                        <span class="button__icon button__icon--simpleAdd" style="display:none">
+    <a class="calendar__simpleAddLink" href="javascript:void(0);" data-url="/mpSchedule/addLb?modeSwitchable=true&amp;entryDate=2017-02-25&amp;listType=shortWeekly&amp;listDate=2017-02-24&amp;displayFromFirstDay=false" title="予定を登録する">
+    </a>
+</span>        </div>
+        
+                
+                <div class="calendar__eventList calendar__eventList--toEvent">
+                                                                                                </div>
+        
+                <div class="calendar__eventList calendar__eventList--task">
+                                                                                        </div>
+
+                
+                    </td>
+                
+                
+    <td class="daily calendar__cell--sunday ">
+                        <div class="calendar__header">
+                                        <a href="/mpSchedule/daily?listDate=2017-02-26" class="calendar__date"><span>2/26(日)</span></a>
+                        <div class="button__icon button__icon--add">
+                <a href="/mpSchedule/add?entryDate=2017-02-26&amp;listType=shortWeekly&amp;listDate=2017-02-24&amp;displayFromFirstDay=false" title="予定を登録する">
+                </a>
+            </div>
+        </div>
+        <div class="calendar__simpleAdd">
+                        <span class="button__icon button__icon--simpleAdd" style="display:none">
+    <a class="calendar__simpleAddLink" href="javascript:void(0);" data-url="/mpSchedule/addLb?modeSwitchable=true&amp;entryDate=2017-02-26&amp;listType=shortWeekly&amp;listDate=2017-02-24&amp;displayFromFirstDay=false" title="予定を登録する">
+    </a>
+</span>        </div>
+        
+                
+                <div class="calendar__eventList calendar__eventList--toEvent">
+                                                                                                </div>
+        
+                <div class="calendar__eventList calendar__eventList--task">
+                                                                                        </div>
+
+                
+                    </td>
+                
+                
+    <td class="daily calendar__cell--weekday ">
+                        <div class="calendar__header">
+                                        <a href="/m
+23a3
+pSchedule/daily?listDate=2017-02-27" class="calendar__date"><span>2/27(月)</span></a>
+                        <div class="button__icon button__icon--add">
+                <a href="/mpSchedule/add?entryDate=2017-02-27&amp;listType=shortWeekly&amp;listDate=2017-02-24&amp;displayFromFirstDay=false" title="予定を登録する">
+                </a>
+            </div>
+        </div>
+        <div class="calendar__simpleAdd">
+                        <span class="button__icon button__icon--simpleAdd" style="display:none">
+    <a class="calendar__simpleAddLink" href="javascript:void(0);" data-url="/mpSchedule/addLb?modeSwitchable=true&amp;entryDate=2017-02-27&amp;listType=shortWeekly&amp;listDate=2017-02-24&amp;displayFromFirstDay=false" title="予定を登録する">
+    </a>
+</span>        </div>
+        
+                
+                <div class="calendar__eventList calendar__eventList--toEvent">
+                                                                                                </div>
+        
+                <div class="calendar__eventList calendar__eventList--task">
+                                                                                        </div>
+
+                
+                    </td>
+                
+                
+    <td class="daily calendar__cell--weekday ">
+                        <div class="calendar__header">
+                                        <a href="/mpSchedule/daily?listDate=2017-02-28" class="calendar__date"><span>2/28(火)</span></a>
+                        <div class="button__icon button__icon--add">
+                <a href="/mpSchedule/add?entryDate=2017-02-28&amp;listType=shortWeekly&amp;listDate=2017-02-24&amp;displayFromFirstDay=false" title="予定を登録する">
+                </a>
+            </div>
+        </div>
+        <div class="calendar__simpleAdd">
+                        <span class="button__icon button__icon--simpleAdd" style="display:none">
+    <a class="calendar__simpleAddLink" href="javascript:void(0);" data-url="/mpSchedule/addLb?modeSwitchable=true&amp;entryDate=2017-02-28&amp;listType=shortWeekly&amp;listDate=2017-02-24&amp;displayFromFirstDay=false" title="予定を登録する">
+    </a>
+</span>        </div>
+        
+                
+                <div class="calendar__eventList calendar__eventList--toEvent">
+                                                                                                </div>
+        
+                <div class="calendar__eventList calendar__eventList--task">
+                                                                                        </div>
+
+                
+                    </td>
+</tr>
+
+
+
+</tbody>
+</table>
+</div>
+</div>
+    
+                <div class="update" id="cba_portalUpdateParts">
+                        <div class="updateParts update">
+
+
+<div class="update__title">
+    <a href="javascript:void(0);" class="contentsOpen" id="cba_portalUpdateIconSwitchOn" style="display:none;" title="開く">
+        <span class="button__switch button__switch--down"></span>
+        <span class="update__titleText" role="heading" aria-level="2">参加グループ</span>
+    </a>
+    <a href="javascript:void(0);" class="contentsClose" id="cba_portalUpdateIconSwitchOff"  title="閉じる">
+        <span class="button__switch button__switch--up"></span>
+        <span class="update__titleText" role="heading" aria-level="2">参加グループ</span>
+    </a>
+</div>
+
+<div class="updateIcon">
+<div style="display: block;">
+
+<div class="updateIcon__tileList">
+    <div class="updateIcon__tile updateIcon__tile--groupAdd">
+        <a href="/groupware/add?ref=icon" class="updateIcon__link updateIcon__link--groupAdd">
+            <img src="https://cybozulive.com/static/11417123b1/images/newCss/portal/icon-add-group.png" class="updateIcon__logo" alt="" />
+            <span class="updateIcon__name">
+                グループを<br />作る(無料)            </span>
+        </a>
+    </div>
+    <div class="updateIcon__tile updateIcon__tile--schedule">
+        <a href="/mpSchedule/latest?ref=icon" class="updateIcon__link">
+            <img src="https://cybozulive.com/static/11417123b1/images/newCss/portal/icon-mycalendar.png" class="updateIcon__logo" alt="" />
+                        <span class="updateIcon__name">
+                マイカレンダー
+            </span>
+        </a>
+    </div>
+    <div class="updateIcon__tile updateIcon__tile--chat">
+        <a href="/mpChat/list?ref=icon" class="updateIcon__link">
+            <img src="https://cybozulive.com/static/11417123b1/images/newCss/portal/icon-chat.png" class="updateIcon__logo" alt="" />
+                        <span class="updateIcon__name">
+                チャット
+            </span>
+        </a>
+    </div>
+    
+    
+</div>
+</div>
+</div>
+
+
+<div class="update__title">
+    <a href="javascript:void(0);" class="contentsOpen" id="cba_portalUpdateListSwitchOn" style="display:none;" title="開く">
+        <span class="button__switch button__switch--down"></span>
+        <span class="update__titleText"  role="heading" aria-level="2">新着一覧</span>
+    </a>
+    <a href="javascript:void(0);" class="contentsClose" id="cba_portalUpdateListSwitchOff"  title="閉じる">
+        <span class="button__switch button__switch--up"></span>
+        <span class="update__titleText" role="heading" aria-level="2">新着一覧</span>
+    </a>
+</div>
+
+<div id="cba_portalUpdateList">
+<div style="display: block;">
+<div class="updateList">
+    <div class="notfound">新着情報はありません。</div>
+</div>
+</div>
+</div>
+
+</div>
+        </div>
+    </div>
+
+    <div class="footerMenu">
+    <div class="footerMenu__guide">
+        <div class="footerMenu__block">
+            <div class="footerMenu__title">サイボウズLiveについて</div>
+            <ul>
+                <li><a href="http://cybozu.co.jp/" target="_blank" title="運営会社">運営会社</a></li>
+                <li><a href="https://live.cybozu.co.jp/" target="_blank" title="サービス紹介サイト">サービス紹介サイト</a></li>
+                <li><a href="/common/terms/terms" target="_blank" title="利用規約">利用規約</a></li>
+                <li><a href="http://cybozu.co.jp/company/copyright/privacy_policy.html" target="_blank" title="プライバシーポリシー">プライバシーポリシー</a></li>
+                <li>
+                    <a href="https://live.cybozu.co.jp/info.html" target="_blank" title="お知らせ">お知らせ</a>
+                    <span class="delimiter">/</span>
+                    <a href="https://live.cybozu.co.jp/trouble.html" target="_blank" title="障害情報">障害情報</a>
+                </li>
+            </ul>
+        </div>
+        <div class="footerMenu__block">
+            <div class="footerMenu__title">もっと活用する</div>
+            <ul>
+                <li><a href="https://live.cybozu.co.jp/starter-guide.html" target="_blank" title="かんたんガイド">かんたんガイド</a></li>
+                <li><a href="http://help.cybozulive.com" target="_blank" title="ヘルプセンター">ヘルプセンター</a></li>
+                <li><a href="https://live.cybozu.co.jp/manuals.html" target="_blank" title="操作マニュアル">操作マニュアル</a></li>
+                <li><a href="https://live.cybozu.co.jp/casestudy.html" target="_blank" title="サイボウズLive導入事例">サイボウズLive導入事例</a></li>
+                <li><a href="https://developer.cybozulive.com/apps/top" target="_blank" title="デベロッパーセンター">デベロッパーセンター</a></li>
+            </ul>
+        </div>
+        <div class="footerMenu__block">
+            <div class="footerMenu__title">アカウント</div>
+            <ul>
+                <li><a href="/mpConfiguration/account/view" title="個人設定">個人設定</a></li>
+                <li><a href="/common/logout" title="ログアウト" id="cba_logout">ログアウト</a></li>
+            </ul>
+        </div>
+        <div class="footerMenu__block--last">
+            <ul>
+                <li>
+                    <a href="https://itunes.apple.com/jp/app/id1052073965" target="_blank"><img src="https://cybozulive.com/static/11417123b1/images/banner/app-store-badge.png" alt="App Store" /></a>
+                </li>
+                <li>
+                    <a href="https://play.google.com/store/apps/details?id=com.cybozu.live2" target="_blank"><img src="https://cybozulive.com/static/11417123b1/images/banner/google-play-badge.png" alt="Google Play" /></a>
+                </li>
+            </ul>
+        </div>
+        <div class="footerMenu__copyright">
+            Copyright © <a href="http://cybozu.co.jp" target="_blank">Cybozu, Inc.</a>
+        </div>
+    </div>
+</div></div>
+
+
+</div>    <script>
+        var require = {
+            baseUrl: "https://cybozulive.com/static/11417123b1/js/src"
+        };
+    </script>
+            <script src="https://cybozulive.com/static/11417123b1/js/require-jquery.js" data-main="../built/portal/portalMain" type="text/javascript"></script>
+</body>
+</html>
+0
+

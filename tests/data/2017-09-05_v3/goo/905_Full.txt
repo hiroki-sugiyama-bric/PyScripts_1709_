@@ -1,0 +1,300 @@
+POST https://login.mail.goo.ne.jp/id/portal/ForgotPw HTTP/1.1
+Host: login.mail.goo.ne.jp
+User-Agent: Mozilla/5.0 (Windows NT 6.1; WOW64; rv:51.0) Gecko/20100101 Firefox/51.0
+Accept: text/html,application/xhtml+xml,application/xml;q=0.9,*/*;q=0.8
+Accept-Language: ja,en-US;q=0.7,en;q=0.3
+Referer: https://login.mail.goo.ne.jp/id/portal/ForgotPwVerificationStart
+Cookie: JSESSIONID=C247C2B0EEBE5F0C1C73D8DA0643DB3E; GUID=00089932777D088100E28ECC61626364; _ga=GA1.3.1941210614.1484879743; DCDC=B1L3D0C0P13G00; NGUserID=ac142b37-16825-1484879746-1; CSST=CA_20170301|SMN_20170301; ATA=ABF7_20170301|ACP8_20170301|ADJ1_20170301|ADK2_20170301|ADS9_20170301|AGE5_20170301|AGH1_20170301|AFA8_20170301|ACN2_20170208|ADK8_20170208; ATA_SR=ACT6_20170207; LE2=+58APjbZnUG+3G4+3; gooproperty=TR%3Dkantou%26TV%3D008%26WE%3D4410%26HO%3D1%26MP%3Dkantou%26AR%3D%26TH%3DM13%26ST%3D%26TP%3D%26NL%3D13; TS01f84bb1=0122c0d756148bb2f495658922dcdc3609586870c9d745dbe93eca38ca5a2d555a4649efd1491ff48be49632e2940c77f7151754e1; LE3=+565jjrZkU+4G4+3; searchstate=DC%3D10%26DIS%3D1%26OCR%3D0%26IME%3D1%26SGT%3D1%26HIS%3D1%26HISW%3D0%26OWI%3D0%26TSZ%3D%26%26OCRS%3D%26IMR%3D%26GPS%3D1%26; goo_crta=; _ga=GA1.4.1941210614.1484879743; LE4=+59IDjrZkUG+3W8+3; _ga=GA1.5.1941210614.1484879743; TDRBA=be18afd7581559eb1fc7fe5c9deff5b0078dc3de923c522f9fce4310335b4dde; NGPID2=109n3K%2BRIWbQppVRX7IG2E2lcGLaCnQLn7BVu2B%2F9T11lN4BvOYUTCguDgf180FFrFsk4MpLCmVmcobX09eEZCxKXjAaqhwqHQEEH40qErLxD4YdEIozc8Qz%2Blk8GUVimuWxe%2FcpPrDZcTlJl7TRuU9gvpkmG4ybtzUlpMosECRZO4n8WS3vHCLxLG1AnNiNZH0g%3D%3D; _gat_UA-44407116-28=1; _dc_gtm_UA-44407116-5=1
+Connection: close
+Upgrade-Insecure-Requests: 1
+Content-Type: application/x-www-form-urlencoded
+Content-Length: 126
+
+GooID=hitakahashi9999%40gmail.com&BirthDay_y=1982&BirthDay_m=1&BirthDay_d=1&MailAddress1=hitakahashi9999%40gmail.com&x=28&y=11
+HTTP/1.1 200 OK
+Date: Thu, 02 Mar 2017 04:30:30 GMT
+Server: Apache
+Set-Cookie: JSESSIONID=15A7C3C75615A8E8E911E03049C90358; Path=/id/; Secure; HttpOnly
+Last-Modified: Thu, 02 Mar 2017 04:30:30 GMT
+Expires: Wed, 31 Dec 1969 15:00:00 GMT
+Pragma: no-cache
+Cache-Control: no-cache, no-store, must-revalidate, private
+X-FRAME-OPTIONS: DENY
+Content-Type: text/html;charset=UTF-8
+P3P: policyref="/w3c/p3p.xml",CP="CAO DSP COR CURa ADMa DEVa TAIa PSAa PSDa IVAi IVDi CONo OUR SAMo OTRo IND PHY ONL UNI PUR FIN COM NAV INT DEM CNT STA HEA PRE LOC"
+Connection: close
+Transfer-Encoding: chunked
+
+362
+<!DOCTYPE HTML PUBLIC "-//W3C//DTD HTML 4.01 Transitional//EN" "http://www.w3.org/TR/html4/loose.dtd">
+<html lang="ja">
+<head>
+<!--龠龠龠-->
+<meta http-equiv="Content-Type" content="text/html; charset=UTF-8">
+<title>ログインパスワードを忘れた方の本人性確認 - gooID</title>
+<meta name="content-language" content="ja">
+<meta name="description" content="">
+<meta name="keywords" content="">
+<meta http-equiv="Content-Style-Type" content="text/css">
+<meta http-equiv="Content-Script-Type" content="text/javascript">
+<link rel="stylesheet" href="//u.xgoo.jp/cmm001/css/import.css" media="all">
+<link rel="stylesheet" href="/css/id.css?t=1304" media="all">
+<script language="javascript" src="//u.xgoo.jp/cmm001/js/cmm.js" type="text/javascript"></script>
+<script language="javascript" src="/js/id.js" type="text/javascript"></script>
+</head>
+<body>
+
+2e0
+<!-- Google Tag Manager -->
+<script>dataLayer = [{'template': 'pc'}];</script>
+<noscript><iframe src="//www.googletagmanager.com/ns.html?id=GTM-WBC9VF" height="0" width="0" style="display:none;visibility:hidden"></iframe></noscript>
+<script>(function(w,d,s,l,i){w[l]=w[l]||[];w[l].push({'gtm.start':new Date().getTime(),event:'gtm.js'});var f=d.getElementsByTagName(s)[0],j=d.createElement(s),dl=l!='dataLayer'?'&l='+l:'';j.async=true;j.src='//www.googletagmanager.com/gtm.js?id='+i+dl;f.parentNode.insertBefore(j,f);})(window,document,'script','dataLayer','GTM-WBC9VF');</script>
+<!-- End Google Tag Manager -->
+<!--WinIE&MacIE-minwidth-->
+<div class="container"><div class="minwidth"><div class="box">
+<!--HEADER-->
+<div id="header">
+
+6d0
+<!--h01_2-->
+<ul id="logo"><li><a href="http://www.goo.ne.jp/"><img src="//u.xgoo.jp/cmm001/img/logo/goo.gif" width="71" height="37" alt="goo"></a></li><li><a href="https://login.mail.goo.ne.jp/id/Top"><img src="//u.xgoo.jp/cmm001/img/sn/sn_54.gif" width="52" height="24" alt="ID"></a></li></ul>
+<div id="headnavi">
+<ul><li><a href="http://www.goo.ne.jp/">gooトップ</a></li><li><a href="http://www.goo.ne.jp/sitemap/">サイトマップ</a></li><li class="sethome"><a href="http://www.goo.ne.jp/set/" id="set1">スタートページに設定</a></li><li><a href="http://www.goo.ne.jp/rss/">RSS</a></li><li><a href="http://help.goo.ne.jp/">ヘルプ</a></li></ul>
+<!--login-->
+<ul><li><a href="http://mail.goo.ne.jp/"><img src="//u.xgoo.jp/cmm001/img/icon/i_42s.gif" width="16" height="16" alt="">メール</a></li><li><a href="http://blog.goo.ne.jp/"><img src="//u.xgoo.jp/cmm001/img/icon/i_90s.gif" width="16" height="16" alt="">ブログ</a></li><li><a href="https://login.mail.goo.ne.jp/id/Top"><img src="//u.xgoo.jp/cmm001/img/icon/i_ids.gif" width="16" height="16" alt="">goo&nbsp;ID</a></li><li><form action="https://login.mail.goo.ne.jp/id/portal/RegIDAndSvcStart" method="POST"><input type="hidden" name="Site" value="profile.mail.goo.ne.jp"><input type="hidden" name="Success" value="https://login.mail.goo.ne.jp/id/portal/Password/Index"><input type="submit" value="新規登録"></form></li><li><form action="https://login.mail.goo.ne.jp/id/authn/LoginStart" method="POST"><input type="hidden" name="Site" value="profile.mail.goo.ne.jp"><input type="hidden" name="Success" value="https://login.mail.goo.ne.jp/id/portal/Password/Index"><input type="submit" value="ログイン"></form></li></ul>
+<!--/login-->
+</div>
+<!--/h01_2-->
+
+361
+<!--h03-->
+<a name="tabmenu"></a>
+<div id="tn-head"><ul id="tn-top">
+<li><a href="https://login.mail.goo.ne.jp/id/Top">IDトップ</a></li><li class="top-on"><a href="https://login.mail.goo.ne.jp/id/portal/Password/Index">パスワード</a></li><li><a href="https://login.mail.goo.ne.jp/id/portal/Profile/Index">基本情報</a></li><li><a href="https://login.mail.goo.ne.jp/id/portal/BuyList/Index">購入商品</a></li><li><a href="https://login.mail.goo.ne.jp/id/portal/Withdraw/Index">登録削除</a></li><li><a href="https://goo.e-srvc.com/app/answers/list/p/974">よくある質問</a></li><li><a href="https://login.mail.goo.ne.jp/id/common/Contract">利用規約</a></li><li><a href="https://login.mail.goo.ne.jp/id/sso/portal/WithdrawStartActionForOpenid">ID連携</a></li></ul></div>
+<div style="border-top:1px solid #999"></div>
+<!--/h03-->
+<!--h07-->
+
+1860
+<ul id="crumb">
+<li><a href="https://login.mail.goo.ne.jp/id/Top">gooID</a> &gt;</li><li><a href="https://login.mail.goo.ne.jp/id/portal/Password/Index">パスワード</a> &gt;</li><li>ログインパスワードを忘れた方の本人性確認</li></ul><!--/h07-->
+</div>
+<!--/HEADER-->
+<!--MIDDLE-->
+<div id="middle">
+<!--MAIN-->
+<div id="main">
+<!--INMAIN-->
+<div id="inmain">
+<!--CONTENTS-->
+<div id="contents">
+<!--INCONTENTS-->
+<a name="incontents"></a><div id="incontents">
+<h1 class="ch04"><span>ログインパスワードを忘れた方の本人性確認</span></h1>
+<div id="ferror">
+<h2 class="ch01">入力エラーがあります(1箇所)</h2>
+<p class="fs14 red etit">gooIDの入力内容が正しくありません。</p></div>
+<p>
+gooにログインする時に必要な『ログインパスワード』をお忘れの方はこちらから本人性確認を行ってください。<br>
+gooID基本情報との本人性確認が一致いたしましたら、パスワード再設定を行うためのメールを“連絡先メールアドレス”宛にお送りします。
+</p> 
+<p class="fs14 red">※有料サービスをご利用時に必要な『決済パスワード』を忘れた方は&nbsp;<a href="https://srvc.goo.ne.jp/gbs/pinCdReset/index">こちら</a><br>
+※gooID、生年月日、連絡先メールアドレスは全て必須情報です。不明な情報がある場合はログインパスワードの再設定は行えません。</p>
+<div id="loginpwforget">
+<div style="text-align:right;font-size:70%;"><span style="color:#FF0000;font-weight:bold">*</span> は、必須入力項目です</div>
+<form action="https://login.mail.goo.ne.jp/id/portal/ForgotPw" method="post">
+<table class="idtable01">
+<tr>
+<th colspan="2"><strong>お客様ご登録情報</strong></th>
+</tr>
+<tr>
+<th style="width:30%;"><label for="GooID">gooID</label> <span style="font-size:70%;color:#FF0000;font-weight:bold">*</span></th>
+<td>
+<input type="text" name="GooID" id="GooID" size="40" maxlength="30" value="hitakahashi9999@gmail.com"><br>
+※メールアドレス(*****@mail.goo.ne.jp,*****@goo.jp)では確認できません。
+</td>
+</tr>
+<tr>
+<th><label for="BirthDay_y">生年月日</label> <span style="font-size:70%;color:#FF0000;font-weight:bold">*</span></th>
+<td><input type="text" name="BirthDay_y" id="BirthDay_y" size="5" maxlength="4" value="1982">&nbsp;年
+<select name="BirthDay_m">
+<option value="">選択</option>
+<option value="1" selected>1月</option><option value="2">2月</option><option value="3">3月</option><option value="4">4月</option><option value="5">5月</option><option value="6">6月</option><option value="7">7月</option><option value="8">8月</option><option value="9">9月</option><option value="10">10月</option><option value="11">11月</option><option value="12">12月</option></select>&nbsp;
+<select name="BirthDay_d">
+<option value="">選択</option>
+<option value="1" selected>1日</option><option value="2">2日</option><option value="3">3日</option><option value="4">4日</option><option value="5">5日</option><option value="6">6日</option><option value="7">7日</option><option value="8">8日</option><option value="9">9日</option><option value="10">10日</option><option value="11">11日</option><option value="12">12日</option><option value="13">13日</option><option value="14">14日</option><option value="15">15日</option><option value="16">16日</option><option value="17">17日</option><option value="18">18日</option><option value="19">19日</option><option value="20">20日</option><option value="21">21日</option><option value="22">22日</option><option value="23">23日</option><option value="24">24日</option><option value="25">25日</option><option value="26">26日</option><option value="27">27日</option><option value="28">28日</option><option value="29">29日</option><option value="30">30日</option><option value="31">31日</option></select><br>
+※年は半角数字で西暦（4桁）を入力してください。</td>
+</tr>
+<tr>
+<th><label for="MailAddress1">連絡先メールアドレス</label> <span style="font-size:70%;color:#FF0000;font-weight:bold">*</span></th>
+<td><input type="text" name="MailAddress1" id="MailAddress1" size="40" value="hitakahashi9999@gmail.com"><br>
+※半角英数字で入力してください。<br>
+※gooID基本情報に登録している連絡先メールアドレスをご入力ください。</td>
+</tr>
+</table>
+<p>※パスワードを変更するためのメールはinfo@goo.ne.jpより送られますので、受信制限をしている方は、メールを受信できるよう設定をお願いいたします。</p>
+<div class="center"><input type="image" src="//u.xgoo.jp/cmm001/img/button/check.gif" alt="確認する" height="28" width="76" style="margin:8px 20px 0 0;" onclick="return send()"><a href="https://login.mail.goo.ne.jp/id/portal/Password/Index"><img src="//u.xgoo.jp/cmm001/img/button/back2.gif" alt="戻る" height="28" width="76"></a></div>
+</form>
+</div>
+<div class="idforgetpw">
+<span>gooIDが不明な方はこちらをチェック</span>
+<ul>
+<li><img src="/img/top/idforget1.gif" alt="1" width="16" height="16">新規登録時の登録メールアドレスに送られている件名が「◆gooID◆登録完了のお知らせ」( info@goo.ne.jp )メール</li>
+<li><img src="/img/top/idforget2.gif" alt="2" width="16" height="16">gooから「商品紹介メール」を受信する設定にされている場合に送られる該当メールの本文冒頭</li>
+</ul>
+</div>
+<dl class="explain">
+<dt>ログインパスワードの再設定について</dt>
+<dd><ul>
+<li>ご本人であることが確認できましたら、ご登録の連絡先メールアドレス宛にパスワード設定のためのURLをメールでご連絡致します。そのURLにアクセス頂くことで、新しいパスワードを設定することができます。</li>
+<li>30分以内にアクセスを頂かない場合、URLは有効ではなくなります。はじめからやり直してください。</li>
+</ul></dd>
+</dl>
+<div class="clearboth"></div>
+<!--bugfixForWinIE5-->
+<br class="clearboth">
+<!--/bugfixForWinIE5-->
+</div><!--/INCONTENTS-->
+</div><!--/CONTENTS-->
+
+21
+<!--LEFTSIDE-->
+<div id="lside">
+
+311
+<!--l19_2-->
+<dl>
+<dt>gooID&nbsp;ログイン</dt>
+<dd class="center"><a href="https://login.mail.goo.ne.jp/id/authn/LoginStart?Site=profile.mail.goo.ne.jp&Success=https%3A%2F%2Flogin.mail.goo.ne.jp%2Fid%2Fportal%2FPassword%2FIndex"><img src="//u.xgoo.jp/cmm001/img/button/login.gif" alt="ログイン" height="28" width="120"></a></dd>
+<dd class="center"><a href="https://login.mail.goo.ne.jp/id/portal/RegUserStart?Site=profile.mail.goo.ne.jp&Success=https%3A%2F%2Flogin.mail.goo.ne.jp%2Fid%2Fportal%2FPassword%2FIndex"><img src="//u.xgoo.jp/cmm001/img/button/register.gif" alt="gooIDに登録" height="28" width="120"></a></dd>
+<dd class="center"><a href="https://login.mail.goo.ne.jp/id/portal/ForgotPwVerificationStart">パスワードを忘れた方</a></dd>
+</dl>
+<!--/l19_2-->
+
+314
+<!--l04_1-->
+<dl class="on">
+<dt><a href="https://login.mail.goo.ne.jp/id/portal/Password/Index">パスワード</a></dt>
+<dd>
+<ul>
+<li><a href="https://login.mail.goo.ne.jp/id/portal/ChgPwStart">ログインパスワード変更</a></li>
+<li><a href="https://srvc.goo.ne.jp/gbs/pinCdUpdate/index">決済パスワード変更</a></li>
+<li><a href="https://login.mail.goo.ne.jp/id/portal/TwoStepAuth/ConfigStart">2段階認証の設定</a></li>
+<li><a href="https://login.mail.goo.ne.jp/id/portal/ForgotPwVerificationStart">ログインパスワード忘れ</a></li>
+<li><a href="https://srvc.goo.ne.jp/gbs/secretQuestionSet/index">秘密の質問設定</a></li>
+<li><a href="https://srvc.goo.ne.jp/gbs/pinCdReset/index">決済パスワード忘れ</a></li>
+</ul></dd>
+</dl>
+<!--/l04_1-->
+
+238
+<!--l04_1-->
+<dl class="off">
+<dt><a href="https://login.mail.goo.ne.jp/id/portal/Profile/Index">基本情報</a></dt>
+<dd>
+<ul>
+<li><a href="https://login.mail.goo.ne.jp/id/portal/Profile">基本情報</a></li>
+<li><a href="https://srvc.goo.ne.jp/gbs/settlementInfReg/show">お支払い方法の登録</a></li>
+<li><a href="https://srvc.goo.ne.jp/gbs/settlementInf/index">お支払い方法の確認・変更</a></li>
+<li><a href="https://srvc.goo.ne.jp/gbs/pointServiceRegister/top">ちょコムポイントサービス登録</a></li>
+</ul></dd>
+</dl>
+<!--/l04_1-->
+
+1df
+<!--l04_1-->
+<dl class="off">
+<dt><a href="https://login.mail.goo.ne.jp/id/portal/BuyList/Index">購入商品</a></dt>
+<dd>
+<ul>
+<li><a href="https://srvc.goo.ne.jp/gbs/chocomPointConfirm/index">ちょコム・ちょコムポイント残高確認</a></li>
+<li><a href="https://srvc.goo.ne.jp/gbs/buyHistory/index">購入履歴</a></li>
+<li><a href="https://srvc.goo.ne.jp/gbs/serviceUsageConditionGoo/index">有料サービス利用状況</a></li>
+</ul></dd>
+</dl>
+<!--/l04_1-->
+
+fc
+<!--l04_1-->
+<dl class="off">
+<dt><a href="https://login.mail.goo.ne.jp/id/portal/Withdraw/Index">登録の削除</a></dt>
+<dd>
+<ul>
+<li><a href="https://login.mail.goo.ne.jp/id/portal/WithdrawStart">gooID削除</a></li>
+</ul></dd>
+</dl>
+<!--/l04_1-->
+
+f7
+<!--l04_1-->
+<dl class="off">
+<dt><a href="https://goo.e-srvc.com/app/answers/list/p/974">よくある質問</a></dt>
+<dd>
+<ul>
+<li><a href="https://goo.e-srvc.com/app/answers/list/p/974">よくある質問</a></li>
+</ul></dd>
+</dl>
+<!--/l04_1-->
+
+ef
+<!--l04_1-->
+<dl class="off">
+<dt><a href="https://login.mail.goo.ne.jp/id/common/Contract">利用規約</a></dt>
+<dd>
+<ul>
+<li><a href="https://login.mail.goo.ne.jp/id/common/Contract">利用規約</a></li>
+</ul></dd>
+</dl>
+<!--/l04_1-->
+
+199
+<!--l04_1-->
+<dl class="off">
+<dt><a href="https://login.mail.goo.ne.jp/id/sso/portal/WithdrawStartActionForOpenid">ID連携</a></dt>
+<dd>
+<ul>
+<li><a href="https://login.mail.goo.ne.jp/id/sso/portal/WithdrawStartActionForOpenid">ID連携確認・解除</a></li>
+</ul></dd>
+</dl>
+<!--/l04_1-->
+<div class="clearboth"></div>
+</div>
+<!--/LEFTSIDE-->
+</div><!--/INMAIN-->
+</div><!--/MAIN-->
+</div><!--/MIDDLE-->
+
+20
+<!--FOOTER-->
+<div id="footer">
+
+35d
+<div style="border-top:1px solid #ccc;"></div>
+<!--f03-->
+<dl><dt>gooID:</dt><dd><a href="https://login.mail.goo.ne.jp/id/Top">IDトップ</a></dd><dd><a href="https://login.mail.goo.ne.jp/id/portal/RegUserStart?Site=profile.mail.goo.ne.jp&Success=https%3A%2F%2Flogin.mail.goo.ne.jp%2Fid%2FTop">新規登録</a></dd><dd><a href="https://login.mail.goo.ne.jp/id/portal/Profile">登録情報の確認・変更</a></dd><dd><a href="https://srvc.goo.ne.jp/gbs/serviceUsageConditionGoo/index">有料サービス情報</a></dd></dl>
+<dl><dt>関連サービス:</dt><dd><a href="http://blog.goo.ne.jp/">ブログ</a></dd><dd><a href="http://mail.goo.ne.jp/">メール</a></dd><dd><a href="http://oshiete.goo.ne.jp/">教えて！goo</a></dd><dd><a href="http://fortune.goo.ne.jp/">占い</a></dd><dd><a href="http://game.goo.ne.jp/">ゲーム</a></dd></dl>
+<!--/f03-->
+
+17
+<!--f04-->
+<!--/f04-->
+
+31f
+<div id="footnavi">
+<ul><li><a href="http://www.goo.ne.jp/">gooトップ</a></li><li><a href="http://www.goo.ne.jp/sitemap/">サイトマップ</a></li><li class="sethome"><a href="http://www.goo.ne.jp/set/" id="set2">スタートページに設定</a></li><li><a href="http://www.goo.ne.jp/rss/">RSS</a></li><li><a href="http://advertising.nttr.co.jp/adinfo/">広告掲載</a></li><li><a href="http://help.goo.ne.jp/office/agreement.html">免責事項</a></li><li><a href="http://www.nttr.co.jp/privacy_policy/">プライバシーポリシー</a></li><li><a href="http://help.goo.ne.jp/">ヘルプ</a></li></ul>
+<address>Copyright:(C) <a href="http://www.nttr.co.jp/">NTT Resonant Inc.</a> All Rights Reserved.</address>
+</div>
+</div>
+<!--/FOOTER-->
+</div></div></div>
+<!--/WinIE&MacIE-minwidth-->
+
+123
+<script type="text/javascript">VLTrace_custom_getparam='c=139';</script>
+<script type="text/javascript" src="//log000.goo.ne.jp/js/VLTraceDMD.js"></script>
+<noscript><img src="//log000.goo.ne.jp/VL/Trace?c=139&tp=1&noscript=1&e=1" width="0" height="0" border="0"></noscript>
+</body>
+</html>
+
+0
+

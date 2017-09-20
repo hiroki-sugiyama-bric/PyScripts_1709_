@@ -1,0 +1,370 @@
+GET https://point.recruit.co.jp/member/logout/?siteCd=HPG HTTP/1.1
+Host: point.recruit.co.jp
+User-Agent: Mozilla/5.0 (Windows NT 6.1; WOW64; rv:51.0) Gecko/20100101 Firefox/51.0
+Accept: text/html,application/xhtml+xml,application/xml;q=0.9,*/*;q=0.8
+Accept-Language: ja,en-US;q=0.7,en;q=0.3
+Referer: https://www.hotpepper.jp/SA11/
+Cookie: r2abtest_cid=73df171a52a8e23dcb5043eaa4715e158908ea67; r2abtest="201703101404:I9MR040_HPG_01_001,898,HPG_01_001:I9MR010_S03_a,896,other"; rm_tk=6V5HYX6dxDb9yTYKQ4xndttBokMbAa1j; site_cd=HPG; s_fid=4493AB07D01B65E8-1F03BA2E2FEE4E44; s_nr=1489128862978-Repeat; s_nr2=1489128979374-Repeat; JSESSIONID=097C6D09B8AEA6A95C8CC8F438AB0117.0101; s_cc=true; s_fr=2017%3A03%3A10; s_cm=1; s_fbsr=1; s_sq=rcrthotpepperjpprod%3D%2526pid%253Drikupon%25253Aregister%25253Aconfirm%25253AI1MR040%2526pidt%253D1%2526oid%253Dfunctiononclick%252528event%252529%25257Bsc_click%252528%252527HPG%252527%25252C%252527cap%25253Amember%25253Amemregist%25253Aconfirm%25253Aclick%252527%252529%25253BsetTimeout%252528function%252528%252529%25257Bon%2526oidt%253D2%2526ot%253DSUBMIT; R2SESSIONID=225DA222D76B7C650B65746090D8A0F4; PermissionByReferer=1; s_cap_id=f6f5d0235c11d3bb; s_cap_id=f6f5d0235c11d3bb
+Connection: close
+Upgrade-Insecure-Requests: 1
+
+
+HTTP/1.1 200 OK
+Date: Fri, 10 Mar 2017 06:58:36 GMT
+Server: Apache
+X-RUN_ID: R-27372_87_11202
+Set-Cookie: R2SESSIONID=225DA222D76B7C650B65746090D8A0F4; Path=/; Secure; HttpOnly
+Set-Cookie: flr_token=""; Expires=Thu, 01-Jan-1970 00:00:10 GMT; Path=/; Secure; HttpOnly
+Set-Cookie: JSESSIONID=3A376B7C9A8AE960AFA6D4AED3D5C6FB.0401; Path=/; Secure; HttpOnly
+Set-Cookie: site_cd=HPG; Expires=Sun, 10-Mar-2019 06:58:37 GMT; Path=/; Secure
+Set-Cookie: s_cap_id=f6f5d0235c11d3bb; Expires=Sun, 10-Mar-2019 06:58:37 GMT; Path=/; Secure
+Set-Cookie: APF_ALID=expired; Expires=Thu, 01-Jan-1970 00:00:10 GMT; Path=/; Secure; HttpOnly
+Expires: 0
+Pragma: no-cache
+Cache-Control: no-cache, no-store, proxy-revalidate
+Content-Type: text/html;charset=UTF-8
+Content-Length: 15100
+Vary: Accept-Encoding,User-Agent
+P3P: CP="NON DSP COR CURa ADMa DEVa CUSo TAIa PSDo OUR BUS UNI COM NAV STA"
+Strict-Transport-Security: max-age=315360000
+Connection: close
+
+<!DOCTYPE HTML>
+<html lang="ja"><head>
+<meta http-equiv="Content-Type" content="text/html; charset=utf-8" />
+<meta http-equiv="Content-Style-Type" content="text/css" />
+<meta http-equiv="Content-Script-Type" content="text/javascript" /><meta name="title" content="リクルートID - ログアウト" /><title>リクルートID - ログアウト</title><link rel="stylesheet" href="/css/member_common.css?__rel=20170217032405" type="text/css"><link rel="shortcut icon" href="/img/icon/r_point_fabicon.ico?__rel=20170217032405"><link rel="stylesheet" href="/css/tone_HPG.css?__rel=20170217032405" type="text/css"></head>
+<body id="pageTop">
+
+<!-- wrapper -->
+<div id="wrapper"> 
+
+	<!-- header -->
+	<header id="header">
+		<section class="globalHeader clearFix">
+			<h1 class="globalHeader_logo">
+				<a href="https://www.hotpepper.jp/">
+					<img src="/doc/img/sitelogo/member/logo_bridge_HPG.png?date=20161021160534" title="ホットペッパーグルメ" alt="ホットペッパーグルメ"></a>
+					</h1>
+			<h2 class="globalHeader_sub">
+				<img src="/doc/img/sitelogo/member/logo_bridge_CAP.png?date=20161021160534" alt="リクルートID"></h2>
+			</section>
+	</header><!-- //header-->
+
+	<!-- contents -->
+	<div id="contents">
+	
+		<div>
+			
+</div>
+		<section>
+            <h2 class="title_page">ログアウト</h2>
+		</section>
+
+		<section id="contentsInner">
+
+			<div id="insertionContentsTopSite">
+				</div>
+			<div id="insertionContentsTop">
+					</div>
+
+			<div class="assetsMessage">
+				<h3>ログアウトしました。</h3>
+				<p>本サイトの利用終了後は必ずすべてのブラウザを閉じるようにしてください。 <br>ブラウザを開いたままですと、「ブラウザの戻る」機能で、お客様のご登録情報や閲覧履歴など思わぬ情報漏えいに繋がる可能性があります。</p>
+			</div>
+			<div class="memberLogout">
+												<!-- sitelink.htmlここから -->
+								<ul class="memberLogout_siteList">
+									<li>
+										<a href="http://www.jalan.net/" target="_blank">
+											<img src="/doc/img/insertion_logo/bg_jalan.gif" alt="じゃらんnet" width="87" height="30"/>
+										</a>
+									</li>
+									<li>
+										<a href="http://golf-jalan.net/" target="_blank">
+											<img src="/doc/img/insertion_logo/bg_golf.gif" alt="じゃらんゴルフ" width="118" height="27"/>
+										</a>
+									</li>
+                  <li>
+                    <a href="https://www.hotpepper.jp/" target="_blank">
+                      <img src="/doc/img/insertion_logo/bg_hpg_2.png" alt="ホットペッパー グルメ" width="87" height="29"/>
+                    </a>
+									</li>
+									<li>
+	                  <a href="https://beauty.hotpepper.jp/" target="_blank">
+	                    <img src="/doc/img/insertion_logo/bg_hpb.gif" alt="Hot pepper Beauty" width="90" height="28"/>
+	                  </a>
+									</li>
+                  <li>
+										<a href="https://ponpare.jp/uw/uwp2000/uwt2000Logout.do" target="_blank">
+											<img src="/doc/img/insertion_logo/bg_ponpare.gif" alt="ポンパレ" width="112" height="30"/>
+										</a>
+									</li>
+									<li>
+										<a href="http://www.ponparemall.com/" target="_blank">
+											<img src="/doc/img/insertion_logo/bg_mall.gif" alt="ポンパレモール" width="128" height="30"/>
+										</a>
+									</li>
+									<li>
+										<a href="http://ponpare-ebook.jp/" target="_blank">
+											<img src="/doc/img/insertion_logo/bg_ebook.gif" alt="ポンパレeブックストア" width="128" height="30"/>
+										</a>
+									</li>
+                                    <li>
+										<a href="http://akasugu.fcart.jp/" target="_blank">
+											<img src="/doc/img/insertion_logo/bg_funcart.gif" alt="赤すぐnet" width="87" height="20"/>
+										</a>
+									</li>
+	                                <li>
+										<a href="http://www.marqrel.jp" target="_blank">
+											<img src="/doc/img/insertion_logo/bg_brd.png" alt="MARQREL" width="128" height="30"/>
+										</a>
+									</li>
+                                    <li>
+										<a href="http://www.gochimaru.com/" target="_blank">
+											<img src="/doc/img/insertion_logo/bg_oisix.gif" alt="Ｏｉｓｉｘ &times; Ｐｏｎｔａポイント" width="92" height="68"/>
+										</a>
+									</li>
+                                    <li>
+										<a href="http://shoplier.jp/" target="_blank">
+											<img src="/doc/img/insertion_logo/bg_shoplier.gif" alt="ショプリエ" width="128" height="30"/>
+										</a>
+									</li>
+                                    <li>
+										<a href="http://store.y-marche.com" target="_blank">
+											<img src="/doc/img/insertion_logo/bg_yacchabamarche.jpg" alt="やっちゃばマルシェ" width="87" height="20"/>
+										</a>
+                                    </li>
+                                    <li>
+										<a href="http://rarejob-r.com" target="_blank">
+											<img src="/doc/img/insertion_logo/bg_rarejob.jpg" alt="レアジョブ英会話リクルート校" width="128" height="30"/>
+										</a>
+									</li>
+                                    <li>
+										<a href="http://tabroom.jp/" target="_blank">
+											<img src="/doc/img/insertion_logo/bg_tbr.gif" alt="タブルーム" width="128" height="30"/>
+										</a>
+                                    </li>
+                                	<li>
+										<a href="http://dock.cocokarada.jp/" target="_blank">
+											<img src="/doc/img/insertion_logo/bg_cocokarada.png" alt="人間ドックのここカラダ" width="128" height="30"/>
+										</a>
+                                    </li>
+                                	<li>
+										<a href="http://kinogift.jp/" target="_blank">
+											<img src="/doc/img/insertion_logo/bg_kinogift.png" alt="三越伊勢丹×リクルート　キノギフト" width="128" height="30"/>
+										</a>
+                                    </li>
+                                    <li>
+										<a href="https://airregi.jp/wallet/" target="_blank">
+											<img src="/doc/img/insertion_logo/bg_airwallet.gif" alt="Airウォレット" width="127" height="44"/>
+										</a>
+									</li>
+                                    <li>
+											<img src="/doc/img/insertion_logo/bg_bookingtable.gif" alt="ブッキングテーブル" width="128" height="30"/>
+									</li>
+									<li>
+										<a href="https://petsallright.net" target="_blank">
+											<img src="/doc/img/insertion_logo/bg_petsallright.png" alt="PET'S ALL RIGHT" width="130" height="30"/>
+										</a>
+									</li>
+                                    <li>
+										<a href="http://settle.point.recruit.co.jp/" target="_blank">
+											<img src="/doc/img/insertion_logo/bg_shiharai.gif" alt="リクルートかんたん支払い" width="112" height="30"/>
+										</a>
+									</li>
+                  <li>
+										<a href="http://recruit-card.jp/" target="_blank">
+											<img src="/doc/img/insertion_logo/bg_card.gif" alt="リクルートカード" width="128" height="30"/>
+										</a>
+									</li>
+									<li>
+										<a href="http://www.surugabank.co.jp/recruit/" target="_blank">
+											<img src="/doc/img/insertion_logo/bg_suruga.gif" alt="スルガ銀行リクルート支店" width="128" height="44"/>
+										</a>
+									</li>
+                  <li>
+										<a href="http://next.rikunabi.com/" target="_blank">
+											<img src="/doc/img/insertion_logo/bg_rikunabinext.gif" alt="リクナビNEXT" width="128" height="50"/>
+										</a>
+									</li>
+                                   <li>
+										<a href="http://haken.rikunabi.com/" target="_blank">
+											<img src="/doc/img/insertion_logo/bg_rikunabihaken.gif" alt="リクナビ派遣" width="128" height="30"/>
+										</a>
+									</li>
+                                    <li>
+										<a href="http://townwork.net/" target="_blank">
+											<img src="/doc/img/insertion_logo/bg_townwork.png" alt="タウンワークネット" width="128" height="30"/>
+										</a>
+									</li>
+                               		<li>
+										<a href="http://toranet.jp/" target="_blank">
+											<img src="/doc/img/insertion_logo/bg_travail.gif" alt="とらばーゆ" width="128" height="30"/>
+										</a>
+									</li>
+                                	<li>
+										<a href="http://www.hatalike.jp/" target="_blank">
+											<img src="/doc/img/insertion_logo/bg_hataraiku.png" alt="はたらいく" width="128" height="30"/>
+										</a>
+									</li>
+                                	<li>
+										<a href="http://www.froma.com/" target="_blank">
+											<img src="/doc/img/insertion_logo/bg_fromA.png" alt="フロム・エー&nbsp;ナビ" width="128" height="30"/>
+										</a>
+									</li>
+                                	<li>
+										<a target="_blank" href="http://suumo.jp/">
+											<img width="128" height="30" alt="SUUMO" src="/doc/img/insertion_logo/bg_suumo.png" />
+										</a>
+									</li>
+                                	<li>
+										<a target="_blank" href="https://house-service.suumo.jp/">
+											<img width="128" height="30" alt="SUUMOハウスサービス" src="/doc/img/insertion_logo/bg_HSP.gif" />
+										</a>
+									</li>
+								                	<li>
+	                	<a target="_blank" href="http://www.suumo-onr.jp/">
+	              		<img width="128" height="30" alt="SUUMO賃貸経営サポート" src="/doc/img/insertion_logo/bg_SOS.gif" />
+	                	</a>
+	               </li>
+                                	<li>
+										<a target="_blank" href="http://zexy.net/">
+											<img width="128" height="30" alt="ゼクシィ" src="/doc/img/insertion_logo/bg_zexy.gif" />
+										</a>
+									</li>
+									<li>
+										<a target="_blank" href="https://zexy-kitchen.net/">
+											<img width="128" height="30" alt="ゼクシィキッチン" src="/doc/img/insertion_logo/bg_zexy-kitchen.png" />
+										</a>
+																		</li>
+                                    <li>
+										<a target="_blank" href="http://www.carsensor.net/">
+											<img width="128" height="30" alt="カーセンサーnet" src="/doc/img/insertion_logo/bg_car.gif" />
+										</a>
+									</li>
+									<li>
+										<a target="_blank" href="https://eigosapuri.jp/">
+											<img width="128" height="30" alt="スタディサプリ ENGLISH" src="/doc/img/insertion_logo/bg_studysapuri.jpg" />
+										</a>
+									</li>
+									<li>
+										<a target="_blank" href="http://www.ab-road.net">
+											<img width="87" height="20" alt="エイビーロード" src="/doc/img/insertion_logo/bg_ab-road.png" />
+										</a>
+									</li>
+	                                <li>
+										<a target="_blank" href="http://www.keikotomanabu.net/">
+											<img width="128" height="30" alt="ケイコとマナブ.net" src="/doc/img/insertion_logo/bg_kn.gif" />
+										</a>
+									</li>
+									<li>
+										<a target="_blank" href="http://www.keikotomanabu.net/college/">
+											<img width="128" height="30" alt="大学＆大学院.net" src="/doc/img/insertion_logo/bg_dg.gif" />
+										</a>
+									</li>
+                                    <li>
+										<img width="128" height="30" alt="お月謝くん" src="/doc/img/insertion_logo/bg_ogesya.png" />
+									</li>
+									<li>
+										<a target="_blank" href="http://gathery.recruit-lifestyle.co.jp/">
+											<img width="128" height="30" alt="ギャザリー" src="/doc/img/insertion_logo/bg_gathery.jpg" />
+										</a>
+                                    </li>
+                                    <li>
+										<a target="_blank" href="https://airwait.jp/WCSP/top">
+											<img width="102" height="45" alt="Airウェイト" src="/doc/img/insertion_logo/bg_airwait.png" />
+										</a>
+									</li>
+									<li>
+										<a target="_blank" href="https://review.recruit-lifestyle.jp/top/">
+											<img width="128" height="30" alt="レビューノート" src="/doc/img/insertion_logo/bg_reviewnote.jpg" />
+										</a>
+									</li>
+                                    <li>
+										<a target="_blank" href="https://hokench.com/">
+											<img width="128" height="30" alt="保険チャンネル" src="/doc/img/insertion_logo/bg_hokench.gif" />
+										</a>
+                                    </li>
+                                    <li>
+										<a target="_blank" href="http://kakushin.works/">
+											<img width="128" height="30" alt="カクシン" src="/doc/img/insertion_logo/bg_KSN.png" />
+										</a>
+                                    </li>
+                                </ul>
+								<!-- sitelink.htmlここまで -->
+</div>
+			<div id="insertionContentsUnderSite">
+				</div>
+			<div id="insertionContentsUnder">
+				</div>
+		</section>
+		</div>
+	<!-- //contents --> 
+
+	<!-- footerWrapper -->
+	<div id="footerWrapper">
+		<footer id="footer">
+			<section class="globalFooter">
+				<nav class="globalFooter_nav">
+					<ul id="footerLinks">
+						<li><a href="https://cmn.point.recruit.co.jp/terms/terms.html" target="_blank">ID・会員規約</a></li>
+						<li><a href="https://cmn.point.recruit.co.jp/policy/privacy.html" target="_blank">プライバシーポリシー</a></li>
+						<li><a href="https://help.point.recruit.co.jp/">お問い合わせ</a></li>
+					</ul>
+				</nav>
+				<div class="globalFooter_contents">
+					<div class="globalFooter_logo">
+						<p id="copyright">
+							<a href="https://www.recruit.jp/" target="_blank">
+							<img src="/doc/img/sitelogo/member/complogo_RHD.png?date=20150407153151" title="(C) Recruit Holdings Co.,Ltd." alt="(C) Recruit Holdings Co.,Ltd."></a>
+						</p>
+						<p id="groupSite">
+							<a href="https://www.recruit.co.jp/"><span class="copyRight">リクルートグループサイトへ</span></a>
+						</p>
+					</div>
+				</div>
+			</section>
+		</footer>
+		</div>
+<script type="text/javascript" src="/js/sitecatalyst/s_code.js"></script>
+<script ><!--
+	s.pageName = 'cap:member:logout:index.html';
+	s.prop3 = 'I1LG030';
+
+	s.prop40 = 'HPG';
+
+//--></script>
+<script type="text/javascript" src="/js/sitecatalyst/code_to_paste.js"></script>
+
+<script ><!--
+var globalPageName = '';
+var globalDispId = '';
+var globalSiteCd = '';
+var globalEvents = '';
+var globalABTest = '';
+
+
+	globalPageName = 'cap:member:logout:index.html';
+	globalDispId = 'I1LG030';
+	
+		globalSiteCd = 'HPG';
+	
+//--></script>
+
+<script type="text/javascript">
+	pageName = "rikupon:logout:I1LG030";
+	channel = "rikupon";
+	subSiteSection = "rikupon:logout:I1LG030";
+	media = "rikupon";
+</script>
+
+<script type="text/javascript" src="//www.hotpepper.jp/DEV/DEV_OPEN/CSP/log/js/s_code.js"></script>
+<script type="text/javascript" src="//www.hotpepper.jp/DEV/DEV_OPEN/CSP/log/js/logTeam.js"></script><!-- //footerWrapper -->
+
+</div>
+<!-- //wrapper --> 
+
+<script type="text/javascript" src="/js/p_csp.js"></script>
+</body>
+</html>

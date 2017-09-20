@@ -1,0 +1,27 @@
+POST https://ssl.mos.jp/auth/ HTTP/1.1
+Host: ssl.mos.jp
+User-Agent: Mozilla/5.0 (Windows NT 6.1; rv:52.0) Gecko/20100101 Firefox/52.0
+Accept: text/html,application/xhtml+xml,application/xml;q=0.9,*/*;q=0.8
+Accept-Language: ja,en-US;q=0.7,en;q=0.3
+Referer: https://ssl.mos.jp/auth/
+Cookie: __mosid__=m58e4b87ea14934.72785550; _ga=GA1.2.91264095.1491384453; sp_key=2MQcj6yeRo; security_token=a7d70541c447a7ad; PHPSESSID=l9outqj4tahngm3os8ge0ftut2
+Connection: close
+Upgrade-Insecure-Requests: 1
+Content-Type: application/x-www-form-urlencoded
+Content-Length: 551
+
+__jelly_action_state__=dVpUK2t2TUM5SzVVVkdOY3lmVjd4Qmpyd2xLZ20wVUJNTVNrR1FoQjBVNm5SeGVSTG1ubWg3Rm9TSk40Njltb3p4WE5UMFJndnpzcTUzQksvTnp6eUVFcGVnQmp6T2t0WGFsaStrTXZaV25qVWJFV3hya1BzUGFaY01zNitUZXBvNVNlMzVTK2h2WE9hVW11d0JZNmFCZmFHVm8xQklQOE9pc2RFSEQzVHF3cUNCR1MxSnBNcU9KdGhLUS9LenJZVnp1bCtLTW5KQ3FBeTBQRWgzZEtVN2J4cHlpc3VoKzRlTENETm5lckxEdWMraVU3c2VENWoyQkRJdkoxeHhPWA%3D%3D&form_security_token=8d614baabc088a6a&redirect_path=%2F&mail_address=crawlingtest1000%40gmail.com&password=testtest1234&login=%E3%83%AD%E3%82%B0%E3%82%A4%E3%83%B3%E3%81%99%E3%82%8B
+HTTP/1.1 302 Found
+Date: Wed, 05 Apr 2017 09:52:57 GMT
+Server: Apache
+Expires: Thu, 19 Nov 1981 08:52:00 GMT
+Cache-Control: no-store, no-cache, must-revalidate, post-check=0, pre-check=0
+Pragma: no-cache
+Set-Cookie: PHPSESSID=ckk28r7mbipuvss3kt59sfk074; expires=Tue, 04-Jul-2017 09:52:57 GMT; path=/; domain=.mos.jp
+Set-Cookie: security_token=2746eebade36d69e; expires=Wed, 05-Apr-2017 10:52:57 GMT; path=/; domain=.mos.jp; secure
+Location: http://mos.jp/
+Vary: Accept-Encoding
+Content-Length: 0
+Connection: close
+Content-Type: text/html; charset=UTF-8
+

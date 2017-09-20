@@ -1,0 +1,21 @@
+GET https://t.livepocket.jp/ HTTP/1.1
+Host: t.livepocket.jp
+User-Agent: Mozilla/5.0 (Windows NT 6.1; Win64; x64; rv:49.0) Gecko/20100101 Firefox/49.0
+Accept: text/html,application/xhtml+xml,application/xml;q=0.9,*/*;q=0.8
+Accept-Language: ja,en-US;q=0.7,en;q=0.3
+Accept-Encoding: gzip, deflate, br
+Referer: https://t.livepocket.jp/registration/confirm
+Cookie: ci_session=flAKCB%2F2%2BPlsbtttbF11KfbUT%2Ft7FDOIwdQt%2F74WC9RocBYYswasvOI%2FSUnMw3puX%2BLgSTpad4JjJ3XWpivTeFwVHLUZvAAexqNhU%2BX68GpWDHYKExeXs4xHwOk8%2FQiv%2BqPU%2BnfCghwgYObd2mBoI70HVMEqolupypBhdBxq6vXD3eIuRjVzgTTCY22J3YcgfaB%2B8kEb8NywkpCVuYl51Y7zhht%2F0L8BoqAd0efRwbVTrmBj2tFEH0S1mywknV%2BTirsJ%2FSa5pNTY5mp8YMdsmyPuB5Hh2zqAIvpRQLTfjXygpQvjBLXBfbRp1MoE1WFUnLE3ihLYFtTXqluVMdnrD7FrOS3jwOJlp0vffK%2Br3dWOQjoRzbqNs9Kz5m9jMH7i5DOPsMh%2B%2Frhgf6h%2Bb9Ab%2BYjqZ%2BCeF5qirHRJdzmkR4M%3D; _ga=GA1.2.1863377671.1491548935; wovn_selected_lang=ja; pt_s_6ebe3683=vt=1491558760032&cad=; pt_6ebe3683=uid=qLyrG4vTOWzA8xsFnTv4PQ&nid=0&vid=6u-cnRU/dqa02n/sK0n0qQ&vn=2&pvn=1&sact=1491559235270&to_flag=0&pl=VbRfGBHx1ouCtCdYiHvi/Q*pt*1491558760032; PHPSESSID=pve5su24vh56r09usmd1k25l42
+Connection: close
+Upgrade-Insecure-Requests: 1
+
+
+HTTP/1.1 302 Found
+Content-Type: text/html; charset=UTF-8
+Date: Fri, 07 Apr 2017 10:13:16 GMT
+Location: https://t.livepocket.jp/my_top
+Server: Apache
+Set-Cookie: ci_session=hd1vJw%2BzTwVRlrQ4nb8rrc0CuiK8R%2B638WZOp6EVML0W%2BKaDnw2Cv3wEJQBhq%2Bi%2Bby%2Fh47A%2BehLIUNPtn9jNRLnvZM2BY6nFuvPNr8ro16QVfm2hoQpdyVwFMRknDl%2FhtRz167HV7MdLUi%2BqQcOAiothiNNRxRnGE3YCQ8c%2FvxeqoAll6ieRQ91Wttsfok6Lz8oicgAmDdELaNpJKkxXPyaJC2qT7Ig4OURbceuPLixaxMJfh97uXLiK03l3zlynztpZGld364gTudxuN%2F3es2VWnzkJRxEUPDdGSNQzjldbd2PfqxEOJQXbS4bR6EBSaSwauddgMvnnJqfKEOcVrAgcwOmGMAgXFp3CezBs8Qa%2FFHr7cK5i2V7MxQewcthtCFTUWi3rxdIh0mroeTCtAsIiWxilErAaHbI0pKjtw6k%3D; path=/
+Content-Length: 0
+Connection: Close
+

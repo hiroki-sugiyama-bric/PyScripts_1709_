@@ -1,0 +1,26 @@
+GET http://ap.morinaga.co.jp/password-reminder/edit/token/dtql0nfyvtsgws04gocko8kcs4sg8kk HTTP/1.1
+Host: ap.morinaga.co.jp
+User-Agent: Mozilla/5.0 (Windows NT 6.1; WOW64; rv:52.0) Gecko/20100101 Firefox/52.0
+Accept: text/html,application/xhtml+xml,application/xml;q=0.9,*/*;q=0.8
+Accept-Language: ja,en-US;q=0.7,en;q=0.3
+Accept-Encoding: gzip, deflate
+Cookie: _ga=GA1.4.1999983014.1491200025; PHPSESSID=paq4nmugnnu4ogo6l7582dpeb7; LoggedIn=0af8171e5437b887016d01f3a51cd99f; _gat_UA-34904702-18=1; _dc_gtm_UA-34904702-18=1; _dc_gtm_UA-34904702-22=1
+Connection: keep-alive
+Upgrade-Insecure-Requests: 1
+
+
+HTTP/1.1 301 Moved Permanently
+Date: Tue, 04 Apr 2017 01:49:24 GMT
+Server: Apache
+Location: https://ap.morinaga.co.jp/password-reminder/edit/token/dtql0nfyvtsgws04gocko8kcs4sg8kk
+Content-Length: 294
+Connection: close
+Content-Type: text/html; charset=iso-8859-1
+
+<!DOCTYPE HTML PUBLIC "-//IETF//DTD HTML 2.0//EN">
+<html><head>
+<title>301 Moved Permanently</title>
+</head><body>
+<h1>Moved Permanently</h1>
+<p>The document has moved <a href="https://ap.morinaga.co.jp/password-reminder/edit/token/dtql0nfyvtsgws04gocko8kcs4sg8kk">here</a>.</p>
+</body></html>

@@ -1,0 +1,795 @@
+GET https://bbsec-dev.demo.r-unit.co.jp/admin/my_pages HTTP/1.1
+Host: bbsec-dev.demo.r-unit.co.jp
+User-Agent: Mozilla/5.0 (Windows NT 6.1; WOW64; rv:51.0) Gecko/20100101 Firefox/51.0
+Accept: text/html,application/xhtml+xml,application/xml;q=0.9,*/*;q=0.8
+Accept-Language: ja,en-US;q=0.7,en;q=0.3
+Referer: https://bbsec-dev.demo.r-unit.co.jp/
+Cookie: __utma=255587979.1408552780.1485512242.1485512242.1485512242.1; __utmz=255587979.1485512242.1.1.utmcsr=google|utmccn=(organic)|utmcmd=organic|utmctr=(not%20provided); _myapp_session=a284QUc2QzJuVHdRSFF2M2ZsUHByK1ZEUkxzTzZDSjIwYjIxTjI2eXlhT25BMTFaTFBCemZLSktpcEg3ZEVtZStRempNb1RveWFZczFFWlg2VlQ2VzBCUi9ZbFRYSE5KMFk5UVNsOHFuQm9ZYWJRdjBjYVA1ZnpmVmlVMXEweDFMYzl2cGJxNy9TNlVlNkJtVXgzdE5vZ0U3Y1ZnNlh3TDBRM3FuYk5ITDlCRFdrZjE5OGs3dkd2dmhVZVE3ZVJCODB3eUhpdXFqMGxiRUY0ZzBCOEFEMVA3cnhOSjZTSUloblBydWs5QTBOd3NRVTl3MGZ1U3RRamt4ditmUnMxamVvY1VaZGk1dWkvMjA3OXRsUVJ6ZzExYWNzZWpCUXVWY3UyanVpSk9Zd0h4d1E0cERpeU9WMlZ3aDU0dTh0azZTQlBkWDNnM3F0akNoYUNWS0Y2WCtuS2dWejErditicDN0ME5pazY1dmJQMXo0TjFzcy9IamplNnREWE85cEhXVmdHU1BPcE1wdTJ0SVlPVmRJbFUyenZhaGtPZmVnS3BzbmdCNWtlNk1zRVdiaWhMVFFkZzQ3eHhITWxxK1B3bXBTeFU1WHJLQlZMMzlHbEdvTjBCMHlWQWpGTHhidkI2UU1aZ2kvMGxmTWNZVEhONVRZNFNDNCt0MysySXoxRkVPdjJ5NFNWMXdMMnJuek1hSDdXRlh1RVFMa2tQYkd1UDFFcElYSlFhWVFyZ1AwVkgrdHFON21kaXdrb3dFN0Jaem4zeXh6Qy96OXhXZjFKeC9aMUtPUkoxRjJKS1lwSXpzVVNsNFVmNWhyVFE0ZmtRWktZMTV0WDhTVHcwTTBMMi0tUWwwalI2M3VVUE5ERWY5MjJtdHY3UT09--8934ded5c4ec41dcba1804bc36393486f6b1eeae
+Connection: close
+Upgrade-Insecure-Requests: 1
+
+
+HTTP/1.1 200 OK
+Server: nginx/1.8.1
+Date: Thu, 09 Mar 2017 08:11:51 GMT
+Content-Type: text/html; charset=utf-8
+Transfer-Encoding: chunked
+Connection: close
+Strict-Transport-Security: max-age=31536000
+X-Frame-Options: SAMEORIGIN
+X-XSS-Protection: 1; mode=block
+X-Content-Type-Options: nosniff
+ETag: W/"d9513f32aca609a29de1c0fe5ae4ca5f"
+Cache-Control: max-age=0, private, must-revalidate
+Set-Cookie: _myapp_session=QmRaTHZ3c1U5OHcxcVUyUmsrbktiUkg2R2lid0IraWNzZjI1T0xSSXpQcE16RlZpZ3ZFMnRLVVgxb2hMWjVwQUlUSkk2ZndHRGpsYUx0d3pIZkIzdHlLaWVFUXAvWVhCd3I0L2pKdkswY2tLdnk0TEUrZXhaRW9uK281cG8zRzNnVlVGTzlndzhuc0QwR2xMNnhqaXJsamhnU016MnpGcHc5VmlZckJRMEhEd1MybU5VVXIyd1FQMjEyQWx0NlpscG45TWs3K1IrYk92VlBmV0FOY1R0UURTdmxqSS81MXZ3cEgwdVV0MFY4dGwyTW8zVW1oaGh2WUZTZzZscnlvV3d4NlY5c3RZSGs3andEUVA5dlRsdDRIRklDN2ZqN29qYTJZQlFIOTVEbG5qZlZMc1prd21MeWVHajBhaTdhODJRZ3UzNlU2Um0yRWxmNVUxQmlrVWZOMkE0U1FZZHppM1VuNUxodjZJQnNqd1NTV1VLRGhqSzZOYmJIWTRzbFROTzZqdGFkK21ZQ25yYzZWeC9TVVQyT2J0bXR6dUJ5VUliem52UVdjM1A4RjlpckN6cG9yc0RGSUM2WW1YUU0rT0tTTlM1cDdLQm1wNDVGalJEY1JZTVh2c2lSWDRtOVpmVWpLVWErMWhaYlRLTmJsNENPTWg5bFMwNy9nRENmbmpJOHFWRXVwTnI2WFF5TTA1RThvVEJwWldkcmpEWStYdXZ4TENKQ0hVVjZUVFl6OVVpUmE0anoxVEU1ZkVmSm9HckxWdXh6VjdkRk5PZjVqOFZwMEwyakY5Z2xodC94TmpHN1FmaWtxUGFiWFJjZzUxY3FCblFQM1Y1SlhPc25wQy0tUnVzRUc5alA1MlVKWU0rQTloZ012UT09--c7ac19d2d27b1cfb4c4eb958493aa69b73300988; path=/; expires=Thu, 09 Mar 2017 09:11:51 -0000; secure; HttpOnly
+X-Request-Id: d25ed49d-5173-4ee7-bc1d-f7ed540e9434
+X-Runtime: 0.119640
+
+1a56
+<!DOCTYPE html>
+<html>
+  <head>
+    <meta charset="utf-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <meta name="ROBOTS" content="NOINDEX,NOFOLLOW">
+    <title>Develop/業務ポータル | Admin</title>
+
+    <link rel="shortcut icon" type="image/x-icon" href="/assets/favicon-51d0a4b6004bd2bcb350948c93dea219bbe68eeded20ae5c5396e0029d276eb5.ico" />
+
+    <!-- Include style per-controller - vendor plugins -->
+    <link rel="stylesheet" media="screen" href="/assets/admin/my_pages-e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855.css" />
+
+    <!-- Main css styles -->
+    <link rel="stylesheet" media="all" href="/assets/application-011f6841717391606f764bd6569154f897cea4e735f53ee26f4ed4ea621bf0d2.css" data-turbolinks-track="true" />
+
+    <!-- Main javascript files -->
+    <script>
+//<![CDATA[
+window.gon={};gon.global={"project_item_accuracy":["A","B","C","F:確定","G:受注"],"project_item_name":["S.Q.A.Tｻｰﾋﾞｽ","S.Q.A.Tｻｰﾋﾞｽ(ﾁｹｯﾄ)"]};
+//]]>
+</script>
+    <script src="/assets/application-5c692180e9f4ad8e056928bb3130b02dde46c04384bd5c8e127522b4b22d5e04.js" data-turbolinks-track="true"></script>
+    <meta name="csrf-param" content="authenticity_token" />
+<meta name="csrf-token" content="peYzeF0po+5qFrejUeteIEZLJDcn4oPKfGknayH5X+WafPs0bTRLpVV45UEmmYHE2HgvhBg5YGW6nZNI7atPog==" />
+  </head>
+  <!-- <body class="skin-1"> -->
+  <body>
+    <div class="animsition">
+      <!-- Skin configuration box -->
+      <!-- <div class="theme-config">
+    <div class="theme-config-box">
+        <div class="spin-icon">
+            <i class="fa fa-cogs fa-spin"></i>
+        </div>
+        <div class="skin-setttings">
+            <div class="title">Configuration</div>
+            <div class="setings-item">
+                    <span>
+                        Collapse menu
+                    </span>
+
+                <div class="switch">
+                    <div class="onoffswitch">
+                        <input type="checkbox" name="collapsemenu" class="onoffswitch-checkbox" id="collapsemenu">
+                        <label class="onoffswitch-label" for="collapsemenu">
+                            <span class="onoffswitch-inner"></span>
+                            <span class="onoffswitch-switch"></span>
+                        </label>
+                    </div>
+                </div>
+            </div>
+            <div class="setings-item">
+                    <span>
+                        Fixed sidebar
+                    </span>
+
+                <div class="switch">
+                    <div class="onoffswitch">
+                        <input type="checkbox" name="fixedsidebar" class="onoffswitch-checkbox" id="fixedsidebar">
+                        <label class="onoffswitch-label" for="fixedsidebar">
+                            <span class="onoffswitch-inner"></span>
+                            <span class="onoffswitch-switch"></span>
+                        </label>
+                    </div>
+                </div>
+            </div>
+            <div class="setings-item">
+                    <span>
+                        Top navbar
+                    </span>
+
+                <div class="switch">
+                    <div class="onoffswitch">
+                        <input type="checkbox" name="fixednavbar" class="onoffswitch-checkbox" id="fixednavbar">
+                        <label class="onoffswitch-label" for="fixednavbar">
+                            <span class="onoffswitch-inner"></span>
+                            <span class="onoffswitch-switch"></span>
+                        </label>
+                    </div>
+                </div>
+            </div>
+            <div class="setings-item">
+                    <span>
+                        Top navbar v.2
+                        <br/>
+                        <small>*Primary layout</small>
+                    </span>
+
+                <div class="switch">
+                    <div class="onoffswitch">
+                        <input type="checkbox" name="fixednavbar2" class="onoffswitch-checkbox" id="fixednavbar2">
+                        <label class="onoffswitch-label" for="fixednavbar2">
+                            <span class="onoffswitch-inner"></span>
+                            <span class="onoffswitch-switch"></span>
+                        </label>
+                    </div>
+                </div>
+            </div>
+            <div class="setings-item">
+                    <span>
+                        Boxed layout
+                    </span>
+
+                <div class="switch">
+                    <div class="onoffswitch">
+                        <input type="checkbox" name="boxedlayout" class="onoffswitch-checkbox" id="boxedlayout">
+                        <label class="onoffswitch-label" for="boxedlayout">
+                            <span class="onoffswitch-inner"></span>
+                            <span class="onoffswitch-switch"></span>
+                        </label>
+                    </div>
+                </div>
+            </div>
+            <div class="setings-item">
+                    <span>
+                        Fixed footer
+                    </span>
+
+                <div class="switch">
+                    <div class="onoffswitch">
+                        <input type="checkbox" name="fixedfooter" class="onoffswitch-checkbox" id="fixedfooter">
+                        <label class="onoffswitch-label" for="fixedfooter">
+                            <span class="onoffswitch-inner"></span>
+                            <span class="onoffswitch-switch"></span>
+                        </label>
+                    </div>
+                </div>
+            </div>
+
+            <div class="title">Skins</div>
+            <div class="setings-item default-skin">
+                    <span class="skin-name ">
+                         <a href="#" class="s-skin-0">
+                             Default
+                         </a>
+                    </span>
+            </div>
+            <div class="setings-item blue-skin">
+                    <span class="skin-name ">
+                        <a href="#" class="s-skin-1">
+                            Blue light
+                        </a>
+                    </span>
+            </div>
+            <div class="setings-item yellow-skin">
+                    <span class="skin-name ">
+                        <a href="#" class="s-skin-3">
+                            Yellow/Purple
+                        </a>
+                    </span>
+            </div>
+            <div class="setings-item ultra-skin">
+                    <span class="skin-name ">
+                        <a target="_blank" href="md_skin/" class="md-skin">
+                            M
+2000
+aterial Design
+                        </a>
+                    </span>
+            </div>
+        </div>
+    </div>
+</div>
+
+ -->
+
+      <!-- Wrapper-->
+      <div id="wrapper" class="admin/my_pages.index">
+
+        <!-- Navigation -->
+        <nav class="navbar-default navbar-static-side" role="navigation">
+  <div class="sidebar-collapse">
+    <ul class="nav metismenu" id="side-menu">
+      <li class="special_link">
+        <a href="/projects/index">
+          <i class="fa fa-star"></i> <span class="nav-label">TOP</span>
+</a>      </li>
+      <li class="nav-header">
+        <div class="dropdown profile-element">
+          <span>
+            
+            <img class="img-circle" alt="User Image" src="/assets/no-image-46f4b639943cd84d833feee72e292053780bb56ba57d037483d528e01fbfbf06.png" />
+          </span>
+          <a data-toggle="dropdown" class="dropdown-toggle" href="#">
+            <span class="clear">
+              <span class="block m-t-xs">
+                <strong class="font-bold">高橋 英樹</strong>
+              </span> <span class="text-muted text-xs block">開発部<b class="caret"></b></span>
+            </span>
+          </a>
+          <ul class="dropdown-menu animated fadeInRight m-t-xs">
+            <li>
+              <a href="/admin/my_pages">Profile</a> 
+            </li>
+            <li class="divider"></li>
+            <li><a href="/sessions/6" data-method="delete" rel="nofollow" data-confirm="ログアウトしますか？">Logout</a>
+            </li>
+          </ul>
+        </div>
+      </li>
+
+      <li class="header">MAIN NAVIGATION</li>
+      <li class="active">
+        <a href="/admin/my_pages">
+          <i class="fa fa-user"></i> <span>マイページ</span>
+</a>      </li>
+
+    </ul>
+  </div>
+</nav>
+
+
+        <!-- Page wraper -->
+        <div id="page-wrapper" class="gray-bg ">
+
+          <!-- Page wrapper -->
+          <div class="row border-bottom">
+  <nav class="navbar navbar-static-top" role="navigation" style="margin-bottom: 0">
+    <div class="navbar-header">
+      <a class="navbar-minimalize minimalize-styl-2 btn btn-primary " href="#"><i class="fa fa-bars"></i> </a>
+      <!--
+      <form role="search" class="navbar-form-custom" method="post" action="">
+        <div class="form-group">
+          <input type="text" placeholder="Search for something..." class="form-control" name="top-search" id="top-search"/>
+        </div>
+        </form>
+      -->
+    </div>
+    <div class="navbar-collapse collapse" id="navbar">
+    <ul class="nav navbar-nav project-menu">
+        <li class="">
+  <a aria-expanded="false" role="button" href="#" class="dropdown-toggle" data-toggle="dropdown">案件情報 <span class="caret"></span></a>
+  <ul role="menu" class="dropdown-menu">
+    <li class=""><a href="/">案件一覧</a></li>
+    <li class=""><a href="/issues/index">依頼一覧</a></li>
+    <li class=""><a href="/internal_requests/index">依頼一覧(社内用)</a></li>
+    <li class=""><a href="/send_approval/index">報告書送付承認</a></li>
+  </ul>
+</li>
+  <li class="">
+    <a aria-expanded="false" role="button" href="#" class="dropdown-toggle" data-toggle="dropdown">進捗情報 <span class="caret"></span></a>
+    <ul role="menu" class="dropdown-menu">
+      <li class=""><a href="/progress/index">進捗管理</a></li>
+      <li class=""><a href="/todays_submission/index">本日納品予定</a></li>
+      <li class=""><a href="/project_gantts">ガントチャート</a></li>
+      <li class=""><a href="/time_schedules/index">作業予定</a></li>
+    </ul>
+  </li>
+
+  <li class="">
+    <a aria-expanded="false" role="button" href="#" class="dropdown-toggle" data-toggle="dropdown">メール情報 <span class="caret"></span></a>
+    <ul role="menu" class="dropdown-menu">
+      <li class=""><a href="/mail_status/index">メール送信状況</a></li>
+      <li class=""><a href="/mail_recipient/index">宛先一覧</a></li>
+    </ul>
+  </li>
+
+  <li class="">
+    <a aria-expanded="false" role="button" href="#" class="dropdown-toggle" data-toggle="dropdown">営業情報 <span class="caret"></span></a>
+    <ul role="menu" class="dropdown-menu">
+      <li class=""><a href="/report">空き状況</a></li>
+      <li class=""><a href="/point_transactions">ポイント管理</a></li>
+    </ul>
+  </li>
+
+    </ul>
+
+    <ul class="nav navbar-top-links navbar-right">
+        <li>
+          <span class="label label-warning">
+            Develop
+          </span>
+        </li>
+      <li>
+        <span class="m-r-sm text-muted welcome-message" data-i18n="topnav.welcometext">BBSec Portal.</span>
+      </li>
+      <li class="dropdown">
+        <a class="dropdown-toggle count-info" data-toggle="dropdown" href="#">
+          <i class="fa fa-bell"></i>  <span class="label label-primary">3</span>
+        </a>
+        <ul class="dropdown-menu dropdown-alerts">
+            <li class="header">3件のお知らせがあります</li>
+            <li class="divider"></li>
+            <li>
+              <a href="/information/articles/1">
+                <div>
+                  <i class="fa fa-bell-o text-yellow"></i> テスト    
+              </div>
+</a>            </li>
+            <li class="divider"></li>
+            <li>
+              <a href="/information/articles/11">
+                <div>
+                  <i class="fa fa-bell-o text-yellow"></i> テスト    
+              </div>
+</a>            </li>
+            <li class="divider"></li>
+            <li>
+              <a href="/information/articles/116">
+                <div>
+                  <i class="fa fa-bell-o text-yellow"></i> ヒアリングシート更新のお知らせ（テスト）    
+              </div>
+</a>            </li>
+          <li class="divider"></li>
+          <li>
+            <div class="text-center link-block">
+              <a href="/information/articles">
+                <strong>more</strong>
+                <i class="fa fa-angle-right"></i>
+</a>            </div>
+          </li>
+        </ul>
+      </li>
+      <li><a href="/inquiries/new"><span>お問い合わせ</span></a></li>
+      <li>
+        <a class="right-sidebar-toggle">
+          <i class="fa fa-tasks"></i>
+        </a>
+      </li>
+    </ul>
+    </div>
+  </nav>
+</div>
+
+
+          <!-- Main view  -->
+          <!-- Content Header (Page header) -->
+<div class="row wrapper border-bottom white-bg page-heading">
+  <div class="col-lg-10">
+    <h2>
+      マイページ
+    </h2>
+    <ol class="breadcrumb">
+        <ol class="breadcrumb">
+      <li>  
+          <a href="/">TOP</a>
+      </li>
+    <li class="active">
+      My Page
+    </li>
+  </ol>
+
+    </ol>
+  </div>
+</div>
+<!-- Main content -->
+
+
+<div class="wrapper wrapper-content animated fadeInRight">
+  <div class="row">
+
+
+    <!-- Left col -->
+    <div class="col-lg-6">
+      <div class="ibox float-e-margins">
+  <div id="profile_change_notice"></div>
+  <div class="cpl-md-6">
+    <div class="ibox-content text-center">
+      <h1>高橋 英樹</h1>
+      <div class="m-b-sm">
+        
+        <img class="img-circle" alt="User Image" src="/assets/no-image-46f4b639943cd84d833feee72e292053780bb56ba57d037483d528e01fbfbf06.png" />
+      </div>
+      <p class="font-bold">
+      <p class="text-muted text-center"></p>
+      </p>
+    </div>
+  </div>
+  <div class="cpl-md-6">
+    <div class="ibox-content">
+      <form enctype="multipart/form-data" action="/admin/my_pages/profile_change" accept-charset="UTF-8" method="post"><input name="utf8" type="hidden" value="&#x2713;" /><input type="hidden" name="authenticity_token" value="5YzQFlzWdMKwWEBHYlXpAL7ShFFJGSm907IvPVs8uuPaFhhabMuciY82EqUVJzbkIOGP4nbCyhIVRpsel26qpA==" />
+        <div id="attachment-add">
+          <input type="file" name="image" id="file_input" style="display: none;" />
+          <div style="width:100%;margin-right:10px;margin-bottom:10px;" class="input-group">
+            <span class="input-group-btn">
+              <button class="btn btn-default" type="button" onclick="$('#file_input').click();">
+                <i class="glyphicon glyphicon-folder-open"></i>
+              </button>
+            </span>
+            <input id="dummy_file" type="text" class="form-control" placeholder="プロフィ�
+2000
+�ル画像" disabled>
+          </div>
+        </div>
+        <div class="btn-group" style="display: inline;" data-toggle="buttons">
+          <ul class="list-group">
+              <li class="list-group-item main-group">
+                <b>開発部</b> <label class="btn btn-default btn-xs pull-right"><input type="radio" name="group_id" value="19" autocomplete="off" > メイン</label>
+              </li>
+          </ul>
+        </div>
+        <div class="box-footer with-border">
+          <button type="submit" class="btn btn-primary btn-block">保存</button>
+        </div>
+</form>    </div>
+  </div>
+</div><!-- /.box-body -->
+
+    </div><!-- /.Left col -->
+    <div class="col-lg-6">
+      <form html="{:class=&gt;&quot;form-horizontal password&quot;}" action="/admin/my_pages/password_change" accept-charset="UTF-8" method="post"><input name="utf8" type="hidden" value="&#x2713;" /><input type="hidden" name="authenticity_token" value="eeqyJJqG8j6nhhSkMphV/VD/OEGQHI0R3ILbw+dngIJGcHpoqpsadZjoRkZF6ooZzswz8q/Hbr4adm/gKzWQxQ==" />
+    <div class="ibox float-e-margins">
+        <div class="ibox-title">
+            <h5 class="box-title">パスワード変更</h5>
+        </div>
+        <div class="ibox-content">
+            <p><font color="red">※パスワードは英字(大文字)・英字(小文字)・数字を組み合わせて６文字以上で入力してください。</font></p>
+            <div class="form-group"> 
+                <label for="inputEmail3" class="control-label required">現在のパスワード</label> 
+                <div id="now_password_div" class="">
+                    <input type="password" name="now_password" id="now_password" value="" class="form-control" required="required" />    
+                </div> 
+            </div> 
+            <div class="form-group"> 
+                <label for="inputEmail3" class="control-label required">変更後のパスワード</label> 
+                <div id="change_password_div" class="">
+                    <input type="password" name="change_password" id="change_password" value="" class="form-control" required="required" />  
+                </div>
+            </div>
+            <div class="form-group"> 
+                <label for="inputEmail3" class="control-label required">変更後のパスワード(確認)</label> 
+                <div id="change_password_confirm_div" class="">
+                    <input type="password" name="change_password_confirm" id="change_password_confirm" value="" class="form-control" required="required" />  
+                </div>
+            </div>
+            <!-- /.box-body -->
+            <div class="box-footer">
+                <button type="submit" class="btn btn-primary btn-block">保存</button><br />
+                <span class="profile"><a style="color:#ff0000" href="/password_reset/request_form">※パスワードを忘れた方はこちら</a></span>
+            </div><!-- /.box-footer -->
+        </div>
+    </div>
+</form>
+    </div><!-- /.Left col -->
+  </div>
+</div>
+<!-- /.content -->
+
+
+          <!-- Footer -->
+          <div class="footer">
+    <div>
+      &copy; 2016 BroadBand Security, Inc. All rights reserved.
+    </div>
+</div>
+
+
+        </div>
+        <!-- End page wrapper-->
+
+        <!-- Right sidebar -->
+        <div id="right-sidebar">
+  <div class="sidebar-container">
+    <ul class="nav nav-tabs navs-3">
+      <li class="active">
+        <a data-toggle="tab" href="#tab-1">
+          Profile
+        </a>
+      </li>
+      <li>
+        <a data-toggle="tab" href="#tab-2">
+          Projects
+        </a>
+      </li>
+      <li>
+          <a href="javascript:void(0)" class="disable-link">　</a>
+      </li>
+    </ul>
+    <div class="tab-content">
+      <div id="tab-1" class="tab-pane active">
+        <div class="sidebar-title">
+          <h3> <i class="fa fa-user"></i> Profile</h3>
+          <!-- <small><i class="fa fa-tim"></i> You have 14 projects. 10 not completed.</small> -->
+        </div>
+        <div class="ibox-content text-center">
+          <h1>高橋 英樹</h1>
+          <div class="m-b-sm">
+            
+            <img class="img-circle" alt="User Image" src="/assets/no-image-46f4b639943cd84d833feee72e292053780bb56ba57d037483d528e01fbfbf06.png" />
+          </div>
+          <p class="font-bold">開発部</p>
+          <div class="text-center">
+            <a class="btn btn-sm btn-white" href="/admin/my_pages"><i class="fa fa-user"></i> マイページ</a>
+            <a data-confirm="ログアウトしますか？" class="btn btn-sm btn-primary" rel="nofollow" data-method="delete" href="/sessions/87">
+              <i class="fa fa-sign-out"></i> ログアウト
+</a>          </div>
+        </div>
+      </div>
+      <div id="tab-2" class="tab-pane">
+        <div class="sidebar-title">
+          <h3> <i class="fa fa-cube"></i> Latest projects</h3>
+          <!-- <small><i class="fa fa-tim"></i> You have 14 projects. 10 not completed.</small> -->
+        </div>
+        <ul class="sidebar-list">
+        </ul>
+      </div>
+    </div>
+  </div>
+</div>
+
+
+
+      </div>
+      <!-- End wrapper-->
+
+      <!-- Include javascript per-controller - vendor plugins -->
+      
+
+      <!-- Include javascript per-view -->
+      <!-- For demo purpose we include javascript in view but you can easily start SeedProject and organize it with Rails asset pipeline as you want -->
+        <script type="text/javascript">
+  </script>
+  <script type="text/javascript">
+(function($) {
+  $('#file_input').change(function() {
+    $('#dummy_file').val($(this)[0].files[0].name);
+  });
+})(jQuery);
+  </script>
+
+<script type="text/javascript">
+// Config box
+
+// Enable/disable fixed top navbar
+$('#fixednavbar').click(function (){
+    if ($('#fixednavbar').is(':checked')){
+        $(".navbar-static-top").removeClass('navbar-static-top').addClass('navbar-fixed-top');
+        $("body").removeClass('boxed-layout');
+        $("body").addClass('fixed-nav');
+        $('#boxedlayout').prop('checked', false);
+
+        if (localStorageSupport){
+            localStorage.setItem("boxedlayout",'off');
+        }
+
+        if (localStorageSupport){
+            localStorage.setItem("fixednavbar",'on');
+        }
+    } else{
+        $(".navbar-fixed-top").removeClass('navbar-fixed-top').addClass('navbar-static-top');
+        $("body").removeClass('fixed-nav');
+        $("body").removeClass('fixed-nav-basic');
+        $('#fixednavbar2').prop('checked', false);
+
+        if (localStorageSupport){
+            localStorage.setItem("fixednavbar",'off');
+        }
+
+        if (localStorageSupport){
+            localStorage.setItem("fixednavbar2",'off');
+        }
+    }
+});
+
+// Enable/disable fixed top navbar
+$('#fixednavbar2').click(function (){
+    if ($('#fixednavbar2').is(':checked')){
+        $(".navbar-static-top").removeClass('navbar-static-top').addClass('navbar-fixed-top');
+        $("body").removeClass('boxed-layout');
+        $("body").addClass('fixed-nav').addClass('fixed-nav-basic');
+        $('#boxedlayout').prop('checked', false);
+
+        if (localStorageSupport){
+            localStorage.setItem("boxedlayout",'off');
+        }
+
+        if (localStorageSupport){
+            localStorage.setItem("fixednavbar2",'on');
+        }
+    } else {
+        $(".navbar-fixed-top").removeClass('navbar-fixed-top').addClass('navbar-static-top');
+        $("body").removeClass('fixed-nav').removeClass('fixed-nav-basic');
+        $('#fixednavbar').prop('checked', false);
+
+        if (localStorageSupport){
+            localStorage.setItem("fixednavbar2",'off');
+        }
+        if (localStorageSupport){
+            localStorage.setItem("fixednavbar",'off');
+        }
+    }
+});
+
+// Enable/disable fixed sidebar
+$('#fixedsidebar').click(function (){
+    if ($('#fixedsidebar').is(':checked')){
+        $("body").addClass('fixed-sidebar');
+        $('.sidebar-collapse').slimScroll({
+            height: '100%',
+            railOpacity: 0.9
+        });
+
+        if (localStorageSupport){
+            localStorage.setItem("fixedsidebar",'on');
+        }
+    } else{
+        $('.sidebar-collapse').slimscroll({destroy: true});
+        $('.sidebar-collapse').attr('style', '');
+        $("body").remov
+1000
+eClass('fixed-sidebar');
+
+        if (localStorageSupport){
+            localStorage.setItem("fixedsidebar",'off');
+        }
+    }
+});
+
+// Enable/disable collapse menu
+$('#collapsemenu').click(function (){
+    if ($('#collapsemenu').is(':checked')){
+        $("body").addClass('mini-navbar');
+        SmoothlyMenu();
+
+        if (localStorageSupport){
+            localStorage.setItem("collapse_menu",'on');
+        }
+
+    } else{
+        $("body").removeClass('mini-navbar');
+        SmoothlyMenu();
+
+        if (localStorageSupport){
+            localStorage.setItem("collapse_menu",'off');
+        }
+    }
+});
+
+// Enable/disable boxed layout
+$('#boxedlayout').click(function (){
+    if ($('#boxedlayout').is(':checked')){
+        $("body").addClass('boxed-layout');
+        $('#fixednavbar').prop('checked', false);
+        $('#fixednavbar2').prop('checked', false);
+        $(".navbar-fixed-top").removeClass('navbar-fixed-top').addClass('navbar-static-top');
+        $("body").removeClass('fixed-nav');
+        $("body").removeClass('fixed-nav-basic');
+        $(".footer").removeClass('fixed');
+        $('#fixedfooter').prop('checked', false);
+
+        if (localStorageSupport){
+            localStorage.setItem("fixednavbar",'off');
+        }
+
+        if (localStorageSupport){
+            localStorage.setItem("fixednavbar2",'off');
+        }
+
+        if (localStorageSupport){
+            localStorage.setItem("fixedfooter",'off');
+        }
+
+
+        if (localStorageSupport){
+            localStorage.setItem("boxedlayout",'on');
+        }
+    } else{
+        $("body").removeClass('boxed-layout');
+
+        if (localStorageSupport){
+            localStorage.setItem("boxedlayout",'off');
+        }
+    }
+});
+
+// Enable/disable fixed footer
+$('#fixedfooter').click(function (){
+    if ($('#fixedfooter').is(':checked')){
+        $('#boxedlayout').prop('checked', false);
+        $("body").removeClass('boxed-layout');
+        $(".footer").addClass('fixed');
+
+        if (localStorageSupport){
+            localStorage.setItem("boxedlayout",'off');
+        }
+
+        if (localStorageSupport){
+            localStorage.setItem("fixedfooter",'on');
+        }
+    } else{
+        $(".footer").removeClass('fixed');
+
+        if (localStorageSupport){
+            localStorage.setItem("fixedfooter",'off');
+        }
+    }
+});
+
+// SKIN Select
+$('.spin-icon').click(function (){
+    $(".theme-config-box").toggleClass("show");
+});
+
+// Default skin
+$('.s-skin-0').click(function (){
+    $("body").removeClass("skin-1");
+    $("body").removeClass("skin-2");
+    $("body").removeClass("skin-3");
+});
+
+// Blue skin
+$('.s-skin-1').click(function (){
+    $("body").removeClass("skin-2");
+    $("body").removeClass("skin-3");
+    $("body").addClass("skin-1");
+});
+
+// Inspinia ultra skin
+$('.s-skin-2').click(function (){
+    $("body").removeClass("skin-1");
+    $("body").removeClass("skin-3");
+    $("body").addClass("skin-2");
+});
+
+// Yellow skin
+$('.s-skin-3').click(function (){
+    $("body").removeClass("skin-1");
+    $("body").removeClass("skin-2");
+    $("body").addClass("skin-3");
+});
+
+if (localStorageSupport){
+    var collapse = localStorage.getItem("collapse_menu");
+    var fixedsidebar = localStorage.getItem("fixedsidebar");
+    var fixednavbar = localStorage.getItem("fixednavbar");
+    var fixednavbar2 = localStorage.getItem("fixednavbar2");
+    var boxedlayout = localStorage.getItem("boxedlayout");
+    var fixedfooter = localStorage.getItem("fixedfooter");
+
+    if (collapse == 'on'){
+        $('#collapsemenu').prop('checked','checked')
+    }
+    if (fixedsidebar == 'on'){
+        $('#fixedsidebar').prop('checked','checked')
+    }
+    if (fixednavbar == 'on'){
+        $('#fixednavbar').prop('checked','checked')
+    }
+    if (fixednavbar2 == 'on'){
+        $('#fixednavbar2').prop('checked','checked')
+    }
+    if (boxedlayout == 'on'){
+        $('#boxedlayout').prop('checked','checked')
+    }
+    if (fixedfooter == 'on') {
+        $('#fixedfooter').prop('checked','checked')
+    }
+}
+
+</script>
+
+
+
+      <!-- iCheck -->
+      <script type="text/javascript">
+        
+48
+$(function() {
+        });
+      </script>
+    </div>
+  </body>
+</html>
+
+0
+

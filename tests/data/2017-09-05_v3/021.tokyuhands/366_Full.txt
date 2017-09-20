@@ -1,0 +1,24 @@
+POST https://hands.net/mypage/password HTTP/1.1
+Host: hands.net
+User-Agent: Mozilla/5.0 (Windows NT 6.1; WOW64; rv:52.0) Gecko/20100101 Firefox/52.0
+Accept: text/html,application/xhtml+xml,application/xml;q=0.9,*/*;q=0.8
+Accept-Language: ja,en-US;q=0.7,en;q=0.3
+Accept-Encoding: gzip, deflate, br
+Referer: https://hands.net/mypage/password
+Cookie: handscid=T3Q32UMVEv_trmYIBaJbBWu3O8e2UlwJGUJLDN9P8iwINE-Bzu8QbMfku4UwqerGZIIPq1Tr4vEknmeYz9X9Cz5g3HAdqkRioE-S51i0gLZRdIgLK7CCZu_I4q7exrkLlSpTGUXyWVXoJ-XATtxBWHw_mvk9e1ZsGidjB1UdDvIFkBsSnguxoYXXyDibzBQhRgys9vkOP7-tBHrGaFKRKUh3WKMMCAJYh8bp2_a8JOO4gWOQDc3cRr_oGAqHx-cKRhG4O2_vsj3h_qUW_MsWNMmnSI4HXDhyJF9uyh5aRgEBrAXi2KfIzO_Hq497F23ecmC07JWYvk8foADfxE15Vk45xUoLPkczPOOeTzSsVvGe0K6Z9h9rAX4SbNkxjcMfl5xPHdLVGZOmULbYo0tmHMx2YeIArw_vY5Hf5U-QOIDenZ7-XYNbsT1YTHC7GTTgqzukAI-xaLkSgYQnba0ece6Difs-BC-hKKbtzDJC8XGuluXxUZiJ4CR_GawVeBDvkSFnDv4bp2nsOgkR5JjKD1kwQ0VBVWREb2VDeDRhS21PeHZtQkJpbWpkTlZrY1Y4WXc4cXl0ZWFlbkU; _kyp={'.hands.net':{'uid':'a35c0c34-ba7e-0b0e-0aef-e5640ed954e7'%2C'_ex':1493538513206%2C'i':{'lt':1491296726770%2C'_ex':1493888726771%2C'sid':'ebbe0fa641ea'%2C'sc':2%2C'lc':70}}}; _ga=GA1.2.202519889.1490946514; ref=d41d8cd98f00b204e9800998ecf8427e; fct=0fcd0859a4a4e7aa34379f5965ef3685; header=%7B%22name%22%3A%22%5Cu5bfa%5Cu7530%5Cu592a%5Cu90ce%22%2C%22is_loggedin%22%3Atrue%2C%22current_point%22%3A%220%22%2C%22stock_cart_quantity%22%3A0%2C%22cart_quantity%22%3A0%2C%22rank%22%3A%22%5Cu30ec%5Cu30ae%5Cu30e5%5Cu30e9%5Cu30fc%5Cu4f1a%5Cu54e1%22%2C%22point_str%22%3A%22%22%2C%22search_word_list%22%3A%5B%7B%22Ranking%22%3A1%2C%22SearchWord%22%3A%22%5Cu6d0b%5Cu670d%5Cu30d6%5Cu30e9%5Cu30b7%22%7D%2C%7B%22Ranking%22%3A2%2C%22SearchWord%22%3A%22%5Cu30da%5Cu30f3%5Cu30b1%5Cu30fc%5Cu30b9%22%7D%2C%7B%22Ranking%22%3A3%2C%22SearchWord%22%3A%22%5Cu30d3%5Cu30b8%5Cu30cd%5Cu30b9%5Cu30d0%5Cu30c3%5Cu30b0%22%7D%5D%7D; _gat_UA-16917905-1=1
+Connection: keep-alive
+Upgrade-Insecure-Requests: 1
+Content-Type: application/x-www-form-urlencoded
+Content-Length: 124
+
+fct=0fcd0859a4a4e7aa34379f5965ef3685&current_password=Password001&Password=Password002&password_confirm=Password002&x=92&y=9
+HTTP/1.1 302 Found
+Content-Type: text/html
+Date: Tue, 04 Apr 2017 09:05:27 GMT
+Location: https://hands.net/mypage
+Server: nginx
+Set-Cookie: handscid=T3Q32UMVEv_trmYIBaJbBWu3O8e2UlwJGUJLDN9P8iwINE-Bzu8QbMfku4UwqerGZIIPq1Tr4vEknmeYz9X9Cz5g3HAdqkRioE-S51i0gLZRdIgLK7CCZu_I4q7exrkLlSpTGUXyWVXoJ-XATtxBWHw_mvk9e1ZsGidjB1UdDvIFkBsSnguxoYXXyDibzBQhRgys9vkOP7-tBHrGaFKRKUh3WKMMCAJYh8bp2_a8JOO4gWOQDc3cRr_oGAqHx-cKRhG4O2_vsj3h_qUW_MsWNMmnSI4HXDhyJF9uyh5aRgEBrAXi2KfIzO_Hq497F23ecmC07JWYvk8foADfxE15Vk45xUoLPkczPOOeTzSsVvE6geCV-qNueaGAO1Rpi5U-767ndOmO2eF3k2U1aCz_HFwBUCMWRpTmUznA1J76_ugjj7KrYL06OBtgyXp0DIhLtmUadjVymV9ruNrc2MEmGmp58gcAql7hqOvF-xZSExc0nDEy2oEWy3TsvRZHBynA_hAJHOzzzJ9JTVR7PWJE5iR3Rww2MWNS3UzoUMPS_dAiz_HsPSrsBBhY1LBwU6XpIQ_zlNStiK81uiQFCnG8W-V_Tv8sZyu6p7YVy8tTFA1EOHkl9qJ23a2Js7hCZMG6yPfxhUy9U7bmsHjtZIq8Pm1LR0lST0hBTk5Yak5pa1lLZUJINVFYamZLcDB2Sk53Mkw5VlhWM3JEam8; expires=Thu, 04-Apr-2019 09:05:27 GMT; Max-Age=63072000; path=/; secure; httponly
+X-Frame-Options: SAMEORIGIN
+Content-Length: 0
+Connection: keep-alive
+

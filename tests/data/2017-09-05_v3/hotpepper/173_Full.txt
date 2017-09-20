@@ -1,0 +1,28 @@
+GET https://www.google.com/url?hl=ja&q=https://point.recruit.co.jp/member/memRegist/doAuthChkPc?mId%3D6228d828d3c334f29f7eac8f15337b8a&source=gmail&ust=1489215098597000&usg=AFQjCNHHfYvd5tvEJdrWil1sCvYo2m3-Lg HTTP/1.1
+Host: www.google.com
+User-Agent: Mozilla/5.0 (Windows NT 6.1; WOW64; rv:51.0) Gecko/20100101 Firefox/51.0
+Accept: text/html,application/xhtml+xml,application/xml;q=0.9,*/*;q=0.8
+Accept-Language: ja,en-US;q=0.7,en;q=0.3
+Cookie: NID=98=Bt62GS0C8FEwelg7gVD5DQUQQqRM44yCXM2JTI6lrp5uZppUAoDbtncgchLE6iUKMro5ZjrE8Ts0Gbc4Taw0SpCw067GiNwarGy7n7R2LB3u3LFVrbIMdqca6RTCtLuu6BH8XI1A5flPEGqaglsyfbXTjlJI2DIxhK8pshyXfbqSzVZGKYEdoCxSBgJUBaudWoE0Gyh2oniPeh1c8v-NkjM3gmCs_utbihEMd39ZGnn0e75HbODU5Q; CONSENT=YES+JP.ja+20170212-13-0; OGPC=5061821-3:; SID=ZQQo30r4YhUmltmsUdokMcpXR8la1garJMlh21S-KHFlzBAthwqm3_KZOdoqx0e-XS_rUw.; HSID=AuKY2paq7qrz0PP6q; SSID=AELp_ZBmpKbiFwjRi; APISID=ZatbKuMgiAIWh9A2/AzfNGNufFGnTLJ8QT; SAPISID=2Kx_2GWBvcbHzGYp/ANWxViE4ZdRl46Zj8
+Connection: close
+Upgrade-Insecure-Requests: 1
+
+
+HTTP/1.1 302 Found
+Location: https://point.recruit.co.jp/member/memRegist/doAuthChkPc?mId=6228d828d3c334f29f7eac8f15337b8a
+Cache-Control: private
+Content-Type: text/html; charset=UTF-8
+Strict-Transport-Security: max-age=86400
+Date: Fri, 10 Mar 2017 06:51:56 GMT
+Server: gws
+Content-Length: 290
+X-XSS-Protection: 1; mode=block
+Alt-Svc: quic=":443"; ma=2592000; v="36,35,34"
+Connection: close
+
+<HTML><HEAD><meta http-equiv="content-type" content="text/html;charset=utf-8">
+<TITLE>302 Moved</TITLE></HEAD><BODY>
+<H1>302 Moved</H1>
+The document has moved
+<A HREF="https://point.recruit.co.jp/member/memRegist/doAuthChkPc?mId=6228d828d3c334f29f7eac8f15337b8a">here</A>.
+</BODY></HTML>

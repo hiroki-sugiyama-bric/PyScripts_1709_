@@ -1,0 +1,29 @@
+GET http://zigsow.jp/?m=portal&a=do_activate&sid=3dfd25496ef15d94e90bc8d1183d3c6f HTTP/1.1
+Host: zigsow.jp
+User-Agent: Mozilla/5.0 (Windows NT 6.1; WOW64; rv:52.0) Gecko/20100101 Firefox/52.0
+Accept: text/html,application/xhtml+xml,application/xml;q=0.9,*/*;q=0.8
+Accept-Language: ja,en-US;q=0.7,en;q=0.3
+Accept-Encoding: gzip, deflate
+Cookie: ziguid=73b39c512b885990c6a823e0ce165b60; _zab=B; _zabc=B; _zus=%7B%22%5C%2Fnew%5C%2Freview%5C%2Forder%22%3A%22ud%22%7D; _zois=2017-04-06+17%3A23%3A18; _ga=GA1.2.300364206.1491466997; renewal=yes; _zdpr=1.25; __utma=221298707.300364206.1491466997.1491802189.1491802189.1; __utmb=221298707.2.10.1491802189; __utmc=221298707; __utmz=221298707.1491802189.1.1.utmcsr=(direct)|utmccn=(direct)|utmcmd=(none); __utmt=1
+Connection: close
+Upgrade-Insecure-Requests: 1
+
+
+HTTP/1.1 302 Found
+Date: Mon, 10 Apr 2017 05:36:55 GMT
+Server: Apache
+Set-Cookie: ziguid=73b39c512b885990c6a823e0ce165b60; expires=Wed, 10-May-2017 05:36:55 GMT; path=/
+Expires: Thu, 19 Nov 1981 08:52:00 GMT
+Cache-Control: no-store, no-cache, must-revalidate, post-check=0, pre-check=0
+Pragma: no-cache
+Set-Cookie: authchallenge=fc7b82671bd818a095f0c06c5f9a1ca4
+Set-Cookie: PHPSESSID=op92bc8plcfplgl893eekutln0; path=/
+Location: http://zigsow.jp/?m=portal&a=page_entry_end
+Vary: Accept-Encoding,User-Agent
+Server-Hash: 9d975ef19a8e47350c883a53ed0b6f75
+Connection: close
+Content-Type: text/html; charset=UTF-8
+Transfer-Encoding: chunked
+
+0
+

@@ -1,0 +1,34 @@
+POST https://wingaia-spider.jp/app/Account/LogOff HTTP/1.1
+Host: wingaia-spider.jp
+Connection: close
+Content-Length: 178
+Cache-Control: max-age=0
+Origin: https://wingaia-spider.jp
+Upgrade-Insecure-Requests: 1
+User-Agent: Mozilla/5.0 (Windows NT 10.0; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/55.0.2883.87 Safari/537.36
+Content-Type: application/x-www-form-urlencoded
+Accept: text/html,application/xhtml+xml,application/xml;q=0.9,image/webp,*/*;q=0.8
+Referer: https://wingaia-spider.jp/app/ModelTemplates/CatalogIndex
+Accept-Encoding: gzip, deflate, br
+Accept-Language: ja,en-US;q=0.8,en;q=0.6
+Cookie: __RequestVerificationToken_L2FwcA2=aecpplWqtcoZIwVfTA8d59zF4bfWUwVpwrtIGenB3gaLB1Z16Z9vurZy2R13W2B2DZXTji_q3Ad-XPJM7uUU4sUWFOsCREHeZc9Ekwaq_i01; .AspNet.ApplicationCookie=WzuVBS_js8dHFVhyL1k79x93ppizwopLxsUQMBZW8YCtXKyS5RMoOLg1yeoSPO4iYXK5MK42f25pKySZ1ad3HTBfYDpwoyJYl5kS1OeKI1el4KuTeIHwZtdR2EoJeBMV4q54h2kqXZdxqKN64vIFT2O9sMY1Pjm2j09rcHjnpTpqoFOJ9HU9MJhFm7nZVVl3W12jvqwQjJw0scThTgO1Tu6z-8m1lErbrrLwwq-89dDcrIQIVJDdsUPHxY-J4jOPgF8tng1M1hmAhz_sB4hqEGNsBk9_kJ6YKt50Y6GdlP69EeM8tX0jT-kFBd6xGa2kzM-BpgAdwTMKC6D-n4rscB7TuEF-33JT3huzIV9tecV5BYFSRIW3lV59Rc4QbBaApiVQF6o1rO1borhM0BcpeSdY8kkeewXcM6oN5fK8y4pkJDsw6jprkwDvYCSmS5_dgMHPKksWo69Oycn8RnCSutIEUEfRMPpzo0Kqk-ODl3Po7p4t8ANUYoshiPSPfNjXvm_GtymVzGxeL4trq0IHSlmSCWT7KRwDW_JU9zhwpNI
+
+__RequestVerificationToken=9G9OI2Fwv12BwfyOnqnGQxHOA1Wjns7Ir9zan0N7rJLZRtdhRY7tlGF6P7iZ1TXRNvvKo2GWyDcvZUGOJYxjGurDRXuoRIX8-7EnSDiN-6euMoMdoCxVUW4rZ3It6hRT_VYu1O5R4VVDYRpoLVZaww2
+HTTP/1.1 302 Found
+Cache-Control: private, s-maxage=0
+Pragma: no-cache
+Content-Type: text/html; charset=utf-8
+Expires: -1
+Location: /app/
+Server: Microsoft-IIS/7.5
+X-AspNetMvc-Version: 5.2
+X-AspNet-Version: 4.0.30319
+Set-Cookie: .AspNet.ApplicationCookie=; path=/; expires=Thu, 01-Jan-1970 00:00:00 GMT
+X-Powered-By: ASP.NET
+Date: Wed, 01 Feb 2017 09:02:39 GMT
+Connection: close
+Content-Length: 122
+
+<html><head><title>Object moved</title></head><body>
+<h2>Object moved to <a href="/app/">here</a>.</h2>
+</body></html>

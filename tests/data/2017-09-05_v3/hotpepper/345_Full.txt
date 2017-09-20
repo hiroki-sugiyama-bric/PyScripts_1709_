@@ -1,0 +1,180 @@
+GET https://point.recruit.co.jp/member/passwdChg/?redirectUri=319402a7a6bc736699bb5078276dba0f3fac2fdf27043ffdb58c89b281282684c6ce0d3cfc0075013c0683e3a4fb1b6decdf40f056588eb6147e6207f80fcb83&siteCd=HPG HTTP/1.1
+Host: point.recruit.co.jp
+User-Agent: Mozilla/5.0 (Windows NT 6.1; WOW64; rv:51.0) Gecko/20100101 Firefox/51.0
+Accept: text/html,application/xhtml+xml,application/xml;q=0.9,*/*;q=0.8
+Accept-Language: ja,en-US;q=0.7,en;q=0.3
+Referer: https://point.recruit.co.jp/member/memInfoChg/?siteCd=HPG&redirectUri=https%3A%2F%2Fwww.hotpepper.jp%2FCSP%2Fcpw030%2FdoUpdateMember
+Cookie: r2abtest_cid=73df171a52a8e23dcb5043eaa4715e158908ea67; r2abtest="201703101404:I9MR040_HPG_01_001,898,HPG_01_001:I9MR010_S03_a,896,other"; rm_tk=6V5HYX6dxDb9yTYKQ4xndttBokMbAa1j; site_cd=HPG; s_fid=4493AB07D01B65E8-1F03BA2E2FEE4E44; s_nr=1489128862978-Repeat; s_nr2=1489128918747-Repeat; JSESSIONID=DA4B393B044D03F348065752F961687F.0201; s_cc=true; s_fr=2017%3A03%3A10; s_cm=1; s_fbsr=1; s_sq=rcrthotpepperjpprod%3D%2526pid%253Drikupon%25253Aregister%25253Aconfirm%25253AI1MR040%2526pidt%253D1%2526oid%253Dfunctiononclick%252528event%252529%25257Bsc_click%252528%252527HPG%252527%25252C%252527cap%25253Amember%25253Amemregist%25253Aconfirm%25253Aclick%252527%252529%25253BsetTimeout%252528function%252528%252529%25257Bon%2526oidt%253D2%2526ot%253DSUBMIT; R2SESSIONID=A8447C1376A649917651679EE6B60BE7; PermissionByReferer=1; s_cap_id=f6f5d0235c11d3bb; s_cap_id=f6f5d0235c11d3bb
+Connection: close
+Upgrade-Insecure-Requests: 1
+
+
+HTTP/1.1 200 OK
+Date: Fri, 10 Mar 2017 06:55:17 GMT
+Server: Apache
+X-RUN_ID: R-27372_47_40120
+Set-Cookie: R2SESSIONID=A8447C1376A649917651679EE6B60BE7; Path=/; Secure; HttpOnly
+Set-Cookie: JSESSIONID=E90EEC4276837E6B803CC04F31DF4B26.0401; Path=/; Secure; HttpOnly
+Set-Cookie: site_cd=HPG; Expires=Sun, 10-Mar-2019 06:55:17 GMT; Path=/; Secure
+Set-Cookie: s_cap_id=f6f5d0235c11d3bb; Expires=Sun, 10-Mar-2019 06:55:17 GMT; Path=/; Secure
+Expires: 0
+Pragma: no-cache
+Cache-Control: no-cache, no-store, proxy-revalidate
+Content-Type: text/html;charset=UTF-8
+Content-Length: 6337
+Vary: Accept-Encoding,User-Agent
+P3P: CP="NON DSP COR CURa ADMa DEVa CUSo TAIa PSDo OUR BUS UNI COM NAV STA"
+Strict-Transport-Security: max-age=315360000
+Connection: close
+
+<!DOCTYPE html>
+<html lang="ja"><head>
+<meta http-equiv="Content-Type" content="text/html; charset=utf-8" />
+<meta http-equiv="Content-Style-Type" content="text/css" />
+<meta http-equiv="Content-Script-Type" content="text/javascript" /><meta http-equiv="Cache-Control" content="no-cache, no-store, proxy-revalidate" />
+<meta http-equiv="pragma" content="no-cache" />
+<meta http-equiv="Expires" content="0" />
+<meta name="title" content="リクルートID - パスワード変更" /><title>リクルートID - パスワード変更</title><link rel="stylesheet" href="/css/member_common.css?__rel=20170217032405" type="text/css"><link rel="shortcut icon" href="/img/icon/r_point_fabicon.ico?__rel=20170217032405"><link rel="stylesheet" href="/css/tone.css?__rel=20170217032405" type="text/css"><script type="text/javascript" src="/js/jquery-1.7.2.min.js"></script>
+<script type="text/javascript" src="/js/jquery.r.password.indicator.min.js"></script>
+<link href="/css/password.indicator.css" rel="stylesheet" type="text/css" />
+<script type="text/javascript">
+var submitted = false;
+function submitfunc(){
+  if(submitted){
+    return false;
+  }else{
+    submitted = true;
+    document.getElementById("sbmbtn").disabled = true;
+    return true;
+  }
+}
+$().ready(function() {
+	$().rPasswordIndicator({
+	});
+});
+</script>
+</head>
+<body id="pageTop">
+<div id="wrapper">
+	<header id="header">
+		<section class="globalHeader clearFix">
+			<h1 class="globalHeader_logo">
+				<a href="https://www.hotpepper.jp/">
+					<img src="/doc/img/sitelogo/member/logo_bridge_HPG.png?date=20161021160534" title="ホットペッパーグルメ" alt="ホットペッパーグルメ"></a>
+					</h1>
+			<h2 class="globalHeader_sub">
+				<img src="/doc/img/sitelogo/member/logo_bridge_CAP.png?date=20161021160534" alt="リクルートID"></h2>
+			</section>
+	</header><div id="contents">
+		<div>
+			
+</div>
+		<section>
+    <h2 class="title_page">パスワード変更</h2>
+</section>
+		<section id="contentsInner">
+			<div id="insertionContentsTopSite">
+				</div>
+			<div id="insertionContentsTop">
+				</div>
+			<div class="assetsMessage">
+				<p>新しいパスワードを設定して、「変更する」でお進みください。</p>
+			</div>
+			<form name="member_passwdChgActionForm" id="member_passwdChgActionForm" method="post" action="/member/passwdChg/doComplete" onsubmit="return submitfunc();"><div style="display:none;"><input type="hidden" name="org.apache.struts.taglib.html.TOKEN" value="ce79ef222ce439dd07c7ae901b071168"></div><input type="hidden" name="redirectUri" value="319402a7a6bc736699bb5078276dba0f3fac2fdf27043ffdb58c89b281282684c6ce0d3cfc0075013c0683e3a4fb1b6decdf40f056588eb6147e6207f80fcb83"><input type="hidden" name="siteCd" value="HPG"><input type="hidden" name="directUseFlg" value=""><div class="layoutGrid_table_02">
+					<div class="tableList_01">
+						<table>
+							<tbody>
+								<tr>
+									<th class="th01">現在のパスワード</th>
+									<td>
+										<input type="password" name="oldPasswd" maxlength="20" autocomplete="off" value="" class="password"></td>
+								</tr>
+							</tbody>
+						</table>
+					</div>
+					<div class="tableList_01">
+						<table>
+							<tbody>
+								<tr>
+									<th class="th01">新パスワード<span class="required">半角英数</span></th>
+									<td>
+										<p class="case"><span id="newPasswdOutput"></span></p>
+										<input type="password" name="newPasswd" maxlength="20" autocomplete="off" value="" id="newPasswd" class="password"></td>
+								</tr>
+								<tr>
+									<th class="th01">新パスワード(確認)<span class="required">半角英数</span></th>
+									<td>
+										<p class="case"><span id="cfmPasswdOutput"></span></p>
+										<input type="password" name="cfmPasswd" maxlength="20" autocomplete="off" value="" id="cfmPasswd" class="password"></td>
+								</tr>
+							</tbody>
+						</table>
+					</div>
+				</div>
+				<div class="assetsButton">
+					<ul class="assetsButton_01">
+						<li class="li02">
+							<a href="/member/memInfoChg/?redirectUri=319402a7a6bc736699bb5078276dba0f3fac2fdf27043ffdb58c89b281282684c6ce0d3cfc0075013c0683e3a4fb1b6decdf40f056588eb6147e6207f80fcb83&amp;siteCd=HPG" class="button_03" title="戻る">戻る</a></li>
+						<li class="li01">
+							<input type="submit" value="変更する" id="sbmbtn" class="button_01" title="変更する"></li>
+					</ul>
+				</div>
+			</form><div id="insertionContentsUnderSite">
+				</div>
+			<div id="insertionContentsUnder">
+				</div>
+		</section>
+	</div>
+	<div id="footerWrapper">
+		<footer id="footer">
+			<section class="globalFooter">
+				<nav class="globalFooter_nav">
+					<ul id="footerLinks">
+						<li><a href="https://cmn.point.recruit.co.jp/terms/terms.html" target="_blank">ID・会員規約</a></li>
+						<li><a href="https://cmn.point.recruit.co.jp/policy/privacy.html" target="_blank">プライバシーポリシー</a></li>
+						<li><a href="https://help.point.recruit.co.jp/">お問い合わせ</a></li>
+					</ul>
+				</nav>
+				<div class="globalFooter_contents">
+					<div class="globalFooter_logo">
+						<p id="copyright">
+							<a href="https://www.recruit.jp/" target="_blank">
+							<img src="/doc/img/sitelogo/member/complogo_RHD.png?date=20150407153151" title="(C) Recruit Holdings Co.,Ltd." alt="(C) Recruit Holdings Co.,Ltd."></a>
+						</p>
+						<p id="groupSite">
+							<a href="https://www.recruit.co.jp/"><span class="copyRight">リクルートグループサイトへ</span></a>
+						</p>
+					</div>
+				</div>
+			</section>
+		</footer>
+		</div>
+<script type="text/javascript" src="/js/sitecatalyst/s_code.js"></script>
+<script ><!--
+	s.pageName = 'cap:member:passwdchg:index.html';
+	s.prop3 = 'I1PW040';
+
+	s.prop40 = 'HPG';
+
+//--></script>
+<script type="text/javascript" src="/js/sitecatalyst/code_to_paste.js"></script>
+
+<script ><!--
+var globalPageName = '';
+var globalDispId = '';
+var globalSiteCd = '';
+var globalEvents = '';
+var globalABTest = '';
+
+
+	globalPageName = 'cap:member:passwdchg:index.html';
+	globalDispId = 'I1PW040';
+	
+		globalSiteCd = 'HPG';
+	
+//--></script>
+
+</div>
+<script type="text/javascript" src="/js/p_csp.js"></script>
+</body>
+</html>

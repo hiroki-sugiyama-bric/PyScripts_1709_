@@ -1,0 +1,636 @@
+GET http://news.kakaku.com/prdnews/cd=kuruma/ctcd=7010/id=62945/?lid=myp_notice_prdnews HTTP/1.1
+Host: news.kakaku.com
+User-Agent: Mozilla/5.0 (Windows NT 6.1; WOW64; rv:51.0) Gecko/20100101 Firefox/51.0
+Accept: text/html,application/xhtml+xml,application/xml;q=0.9,*/*;q=0.8
+Accept-Language: ja,en-US;q=0.7,en;q=0.3
+Cookie: s_nr=1485485136491; s_royal=kakaku%3A701-2016349%3A3%2Cpc%3A701-2006329%3A2; bd=1a0be62aa2dd4a5ba0ae8d66167283376; __gads=ID=fd7084267cad15f0:T=1485485137:S=ALNI_MY6RaIueTQKY970w3DJu1hLXGNbWA; kakakujpchk=jp; MalltagRoute=02710%2C%2C%2C%2C1487840629975; s_cc=true; s_sq=kakakucomkakakucom%3D%2526pid%253D%25255Bmypage%25255D%2525E6%252596%2525B0%2525E7%25259D%252580%2525E9%252580%25259A%2525E7%25259F%2525A5_%2525E6%252596%2525B0%2525E7%25259D%252580%2526pidt%253D1%2526oid%253Dhttp%25253A%25252F%25252Fnews.kakaku.com%25252Fprdnews%25252Fcd%25253Dkuruma%25252Fctcd%25253D7010%25252Fid%25253D62945%25252F%25253Flid%25253Dmyp_notice_prdnews%2526ot%253DA; IDCore=KSH=d43df047f9a945289723315db905643c; ls=kc
+Connection: close
+Upgrade-Insecure-Requests: 1
+
+
+HTTP/1.1 200 OK
+Cache-Control: private
+Content-Length: 36973
+Content-Type: text/html
+Server: Microsoft-IIS/7.5
+Set-Cookie: ASPSESSIONIDAADTSQSD=LAGNIAFDFAKHMGBIAGHOGMIO; path=/
+X-FRAME-OPTIONS: SAMEORIGIN
+Date: Thu, 23 Feb 2017 09:09:47 GMT
+Connection: close
+
+
+<!DOCTYPE HTML PUBLIC "-//W3C//DTD HTML 4.01 Transitional//EN" "http://www.w3.org/TR/html4/loose.dtd">
+<html lang="ja">
+<head>
+<meta http-equiv="Content-Type" content="text/html; charset=shift_jis">
+<title>価格.com - 【スズキ ワゴンR 新型】高級感もプラスしたスポーティカスタム</title>
+<meta name="description" content="『ワゴンR』のスポーティモデルとして設定されている「スティングレー」も今回のフルモデルチェンジで新型へと移行した。標準のワゴンRに採用されるパワーユニットは、自然吸気エンジンと自然吸気エンジン＋モーターの2種類だが、ワゴンRスティングレーにはターボ...">
+<meta name="keywords" content="ワゴンR">
+<meta http-equiv="Content-Style-Type" content="text/css">
+<meta http-equiv="Content-Script-Type" content="text/javascript">
+
+<meta name="twitter:card" content="summary_large_image">
+<meta name="twitter:site" content="@kakakucom">
+<meta property="og:title" content="【スズキ ワゴンR 新型】高級感もプラスしたスポーティカスタム" />
+<meta property="og:description" content="『ワゴンR』のスポーティモデルとして設定されている「スティングレー」も今回のフルモデルチェンジで新型へと移行した。標準のワゴンRに採用されるパワーユニットは、自然吸気エンジンと自然吸気エンジン＋モーターの2種類だが、ワゴンRスティングレーにはターボ...">
+<meta property="og:type" content="website" />
+<meta property="og:url" content="http://news.kakaku.com/prdnews/cd=kuruma/ctcd=7010/id=62945/" />
+<meta property="og:image" content="http://img1.kakaku.k-img.com/Images/prdnews/20170223143408_546_.jpg" /> 
+<meta property="og:site_name" content="kakaku.com" />
+<meta property="fb:admins" content="100001677628430" />
+
+<link href="http://css1.kakaku.k-img.com/css/news/news_style.css" rel="stylesheet" type="text/css">
+<link href="http://css1.kakaku.k-img.com/css/listing_o_bbs2.css" rel="stylesheet" type="text/css">
+<link href="http://css1.kakaku.k-img.com/css/news/funcbutton.css" rel="stylesheet" type="text/css">
+<script type="text/javascript" src="http://script1.kakaku.k-img.com/script/imgswap.js"></script>
+<script type="text/javascript" src="http://script1.kakaku.k-img.com/script/libs/prototype/1.7.2/prototype.js"></script>
+<script type="text/javascript" src="http://script1.kakaku.k-img.com/script/prdnews/clip.js"></script>
+<script type="text/javascript" src="http://script1.kakaku.k-img.com/script/prdnews/btnFuncs.js"></script>
+<link rel="canonical" href="http://news.kakaku.com/prdnews/cd=kuruma/ctcd=7010/id=62945/">
+<link rel="alternate" media="handheld" type="text/html" href="http://m.kakaku.com/news/cd=kuruma/ctcd=7010/id=62945/" />
+<link rel="amphtml" href="http://s.kakaku.com/prdnews/amp/cd=kuruma/ctcd=7010/id=62945/">
+<!--OpenX-->
+<script type="text/javascript" src="//kakakucom-d.openx.net/w/1.0/jstag?nc=116070306-kakakucom"></script>
+<script src="//assets.adobedtm.com/3687940b53f7a560587a33c8bb748b9253ff5ea9/satelliteLib-29577dfd7f420978cd93f3d1b2d6ee3a7d40cf53.js"></script>
+
+</head>
+
+<body>
+
+<div id="fb-root"></div>
+<script>(function(d, s, id) {
+  var js, fjs = d.getElementsByTagName(s)[0];
+  if (d.getElementById(id)) return; 
+  js = d.createElement(s); js.id = id; 
+  js.src = "//connect.facebook.net/ja_JP/sdk.js#xfbml=1&version=v2.5&appId=1033590386683366"; 
+  fjs.parentNode.insertBefore(js, fjs); 
+}(document, 'script', 'facebook-jssdk'));</script> 
+
+
+<div id="all">
+<div id="contents930">
+<div id="default">
+<!-- == ヘッダここから == -->
+<div id="header">
+<div class="headerL"><a href="http://kakaku.com/"><img src="http://img1.kakaku.k-img.com/images/logo.gif" alt="価格.com" width="133" height="23"></a><span class="mLeft10"><a href="http://news.kakaku.com/prdnews/"><img src="http://img1.kakaku.k-img.com/images/icon_news.gif" alt="新製品ニュース" width="220" height="40"></a></span></div>
+<div class="headerR">
+
+<div class="prText b4">
+
+
+<script type='text/javascript'>
+var googletag = googletag || {};
+googletag.cmd = googletag.cmd || [];
+(function() {
+var gads = document.createElement('script');
+gads.async = true;
+gads.type = 'text/javascript';
+var useSSL = 'https:' == document.location.protocol;
+gads.src = (useSSL ? 'https:' : 'http:') + 
+'//www.googletagservices.com/tag/js/gpt.js';
+var node = document.getElementsByTagName('script')[0];
+node.parentNode.insertBefore(gads, node);
+})();
+</script>
+
+<div id='div-gpt-ad-k/header_text'>
+<script type='text/javascript'>
+googletag.cmd.push(function() {
+googletag.defineSlot('/116070306/k/header_text', [475, 17], 'div-gpt-ad-k/header_text').addService(googletag.pubads());
+googletag.enableServices();
+googletag.display('div-gpt-ad-k/header_text');
+});
+</script>
+
+<noscript>
+<a href="//pubads.g.doubleclick.net/gampad/jump?iu=/116070306/k/header_text&sz=475x17&c=123456789">
+<img src="//pubads.g.doubleclick.net/gampad/ad?iu=/116070306/k/header_text&sz=475x17&c=123456789">
+</a>
+</noscript>
+</div>
+
+
+</div>
+
+
+<div class="mTop10">
+<iframe src="http://kakaku.com/auth/inc_idcore_top_v2.asp" width="475" height="23" frameborder="0" noresize="noresize" scrolling="No" class="b4"></iframe>
+</div>
+</div>
+</div>
+<!-- == ヘッダここまで == -->
+
+<!-- H1ここから -->
+<div class="h1Area">
+<div class="h1deco">
+<div class="h1bg">
+<h1>【スズキ ワゴンR 新型】高級感もプラスしたスポーティカスタム</h1>
+</div>
+</div>
+</div>
+<!-- H1ここまで -->
+
+<!-- パンくずここから -->
+<!-- interest_match_relevant_zone_start -->
+<div class="path"><a href="http://kakaku.com/">ホーム</a> &gt; <a href="http://news.kakaku.com/prdnews/">新製品ニュース</a> &gt; <a href="http://news.kakaku.com/prdnews/cd=kuruma/">
+自動車・バイク</a> &gt; <a href="http://news.kakaku.com/prdnews/cd=kuruma/ctcd=7010/">自動車（本体）</a> &gt; 【スズキ ワゴンR 新型】高級感もプラスしたスポーティカスタム</div>
+<!-- interest_match_relevant_zone_end -->
+<!-- パンくずここまで -->
+
+
+<div id="mainContents">
+<div id="main">
+<div id="article">
+
+<!-- カテゴリナビゲーションここから -->
+<ul id="global_navi">
+<li class="menuPc"><a href="http://news.kakaku.com/prdnews/cd=pc/">パソコン 新製品ニュース</a></li>
+<li class="menuKaden"><a href="http://news.kakaku.com/prdnews/cd=kaden/">家電 新製品ニュース</a></li>
+<li class="menuCamera"><a href="http://news.kakaku.com/prdnews/cd=camera/">カメラ 新製品ニュース</a></li>
+<li class="menuKuruma"><a href="http://news.kakaku.com/prdnews/cd=kuruma/" class="now">自動車・バイク 新製品ニュース</a></li>
+<li class="menuKeitai"><a href="http://news.kakaku.com/prdnews/cd=keitai/">スマートフォン・携帯電話 新製品ニュース</a></li>
+<li class="menuToy"><a href="http://news.kakaku.com/prdnews/cd=toy/">おもちゃ 新製品ニュース</a></li>
+</ul>
+<!-- カテゴリナビゲーションここまで -->
+<h2 class="kuruma"><span>【スズキ ワゴンR 新型】高級感もプラスしたスポーティカスタム</span><em></em></h2>
+<div class="articleFrame">
+<div class="titleInfo block">
+<p class="date">2017年2月23日　17:05掲載</p>
+</div>
+<div id="topSnsBtns">
+<ul class="sns">
+<li><div class="fb-like" data-layout="button_count" data-action="like" data-show-faces="false" data-share="true"></div></li>
+<li><a href="http://b.hatena.ne.jp/entry/" class="hatena-bookmark-button" data-hatena-bookmark-layout="standard-balloon" data-hatena-bookmark-lang="ja" title="このエントリーをはてなブックマークに追加"><img src="https://b.st-hatena.com/images/entry-button/button-only@2x.png" alt="このエントリーをはてなブックマークに追加" width="20" height="20" style="border: none;" /></a></li>
+<li><a href="https://twitter.com/share" class="twitter-share-button"{count} data-lang="ja">ツイート</a></li>
+<li><a data-pocket-label="pocket" data-pocket-count="horizontal" class="pocket-btn" data-lang="en"></a></li>
+</ul>
+</div>
+</div>
+<table width="100%" border="0" cellpadding="0" cellspacing="0" class="tblItemImg" style="clear: both;">
+<tr>
+<td><a href="http://news.kakaku.com/prdnews/cd=kuruma/ctcd=7010/id=62945/imageno=0/"><img src="http://img1.kakaku.k-img.com/Images/prdnews/T20170223143408_546_.jpg" onerror="this.src='http://img1.kakaku.k-img.com/images/news/noimage_s.png';this.onerror=null;" alt="スズキ ワゴンR スティングレー"></a></td>
+<td><a href="http://news.kakaku.com/prdnews/cd=kuruma/ctcd=7010/id=62945/imageno=1/"><img src="http://img1.kakaku.k-img.com/Images/prdnews/T20170223143428_87_.jpg" onerror="this.src='http://img1.kakaku.k-img.com/images/news/noimage_s.png';this.onerror=null;" alt="スズキ ワゴンR スティングレー"></a></td>
+<td><a href="http://news.kakaku.com/prdnews/cd=kuruma/ctcd=7010/id=62945/imageno=2/"><img src="http://img1.kakaku.k-img.com/Images/prdnews/T20170223143432_843_.jpg" onerror="this.src='http://img1.kakaku.k-img.com/images/news/noimage_s.png';this.onerror=null;" alt="スズキ ワゴンR スティングレー"></a></td>
+</tr>
+</table>
+<p>『ワゴンR』のスポーティモデルとして設定されている「スティングレー」も今回のフルモデルチェンジで新型へと移行した。</p>
+<p>標準のワゴンRに採用されるパワーユニットは、自然吸気エンジンと自然吸気エンジン＋モーターの2種類だが、ワゴンRスティングレーにはターボエンジン＋モーターも用意される。</p>
+<p>各グレードのパワーユニットは「L」が自然吸気エンジンが52馬力の3気筒エンジン、「ハイブリッドX」が3気筒の52馬力のエンジンに3.1馬力のISGと呼ばれる発電機＆モーターの組み合わせ、「ハイブリッドT」が64馬力のターボエンジンに同じく3.1馬力のISGの組み合わせ。ISGはオルタネーターの容量をアップしたもの。駆動用のバッテリーはリチウムイオンで、助手席下に収められている。トランスミッションはCVT。このISGの採用によって、モーターによるクリープ走行が可能となった。</p>
+<p>ワゴンRスティングレーのスタイリングは縦長で後退したヘッドライトと横長の開口部を2つ持つ大型のグリルが特徴的。リヤコンビランプもクリアタイプとなっていて、標準のワゴンRとは大きく差別化されている。ワゴンRが標準タイプで、ワゴンRスティングレーがスポーティタイプという位置づけは今も変わりはないが、さらに高級感がプラスされている。これはスタイリングだけでなく、防音材の採用部位の違いなどにも表れている。</p>
+<p>車両本体価格は自然吸気エンジンを積むLのFFが129万3840円、4WDが141万4800円。自然吸気エンジン＋モーターのハイブリッドX・FFが148万8240円、4WDが160万9200円。エンジン＋モーターのハイブリッドTはFFが165万8880円、4WDが177万9840円となっている。</p>
+<p>Lグレードにはデュアルセンサーブレーキサポートやヘッドアップディスプレイなどがセットになったセーフティパッケージ装着車が用意され5万9400円高の価格設定となるが、ハイブリッドXとハイブリッドTはこのセーフティパッケージを標準で装備。なお、セーフティパッケージは標準タイプのワゴンRの自然吸気エンジン（ISGレス）のFAでは選択不可。ハイブリッドでなく、セーフティパッケージを選びたいならスティングレーLを選ぶしかない。</p><div class="articleFrame">
+<div id="btmSnsBtns">
+<ul class="sns">
+<li><div class="fb-like" data-layout="button_count" data-action="like" data-show-faces="false" data-share="true"></div></li>
+<li><a href="http://b.hatena.ne.jp/entry/" class="hatena-bookmark-button" data-hatena-bookmark-layout="standard-balloon" data-hatena-bookmark-lang="ja" title="このエントリーをはてなブックマークに追加"><img src="https://b.st-hatena.com/images/entry-button/button-only@2x.png" alt="このエントリーをはてなブックマークに追加" width="20" height="20" style="border: none;" /></a></li>
+<li><a href="https://twitter.com/share" class="twitter-share-button"{count} data-lang="ja">ツイート</a></li>  
+<li><a data-pocket-label="pocket" data-pocket-count="horizontal" class="pocket-btn" data-lang="en"></a></li>
+</ul>
+<script>!function(d,s,id){var js,fjs=d.getElementsByTagName(s)[0],p=/^http:/.test(d.location)?'http':'https';if(!d.getElementById(id)){js=d.createElement(s);js.id=id;js.src=p+'://platform.twitter.com/widgets.js';fjs.parentNode.insertBefore(js,fjs);}}(document, 'script', 'twitter-wjs');</script>
+<script type="text/javascript" src="https://b.st-hatena.com/js/bookmark_button.js" charset="utf-8" async="async"></script>
+<script type="text/javascript">!function(d,i){if(!d.getElementById(i)){var j=d.createElement("script");j.id=i;j.src="https://widgets.getpocket.com/v1/j/btn.js?v=1";var w=d.getElementById(i);d.body.appendChild(j);}}(document,"pocket-btn-js");</script>
+</div>
+</div>
+<p><a href="http://kakaku.com/trendnews/kuruma/id=daily_1361/">【トレンドニュース】スズキ「ワゴンR」が簡易HV化でアクセス数急増！クラストップの低燃…</a></p><!--レスポンスここから--> 
+<div class="alignR mTop30"> 
+    <div class="mBtm5"><a href="http://response.jp/" target="_blank"><img src="http://img.kakaku.com/images/news/response_logo.gif" width="160" height="35" alt="[記事提供：レスポンス]"></a><br> 
+    <span class="font10L">[記事提供：レスポンス]</span></div> 
+    <div class="mBtm10"><a href="http://carlifenavi.com/" target="_blank">リアルタイムガソリン価格情報</a></div> 
+    <div class="font12L"> 
+    <a href="http://kakaku.com/kuruma/news-info.html" class="mRight5">掲載に関する免責事項について</a> 
+    掲載情報の著作権は提供元企業等に帰属します。 
+    </div> 
+</div> 
+<!--レスポンスここまで--> 
+<br><br>
+<!-- ==前後の記事へのリンク ここから== -->
+<div class="nextBeforeLink" style="clear: both;">
+<div class="beforeLink">
+<strong>自動車・バイクニュースの前の記事</strong>
+<div><a href="http://news.kakaku.com/prdnews/cd=kuruma/ctcd=7610/id=62946/">【スズキ GSX250R】めっちゃ格好いい、乗ってみれば…「おっ、いいじゃん!!」チーフエンジニア</a></div>
+<div class="date">2017年2月23日　14:44</div>
+</div>
+</div>
+<!-- ==前後の記事へのリンク ここまで== -->
+<div class="tblMakerTit">価格comで最新価格・クチコミをチェック！</div><table width="100%" border="0" cellpadding="0" cellspacing="0" class="tblMaker">
+<tr>
+<th>メーカー</th>
+<th>製品名</th>
+    </tr>
+    <tr>
+        <td><a href="http://kakaku.com/kuruma/maker/suzuki/">スズキ</a></td>
+        <td><a href="http://kakaku.com/item/70100710178/">ワゴンR</a></td>
+    </tr>
+<tr>
+<td colspan="4">
+    <ul class="listArticleLink">
+<li><a href="http://kakaku.com/kuruma/maker/suzuki/">スズキ(suzuki)の自動車（本体）へ</a></li>
+<li><a href="http://kakaku.com/kuruma/">自動車（本体） カテゴリへ</a></li>
+    </ul>
+</td>
+</tr>
+</table>
+<br>
+<h4><span>関連コンテンツ</span></h4>
+<script async src="//pagead2.googlesyndication.com/pagead/js/adsbygoogle.js"></script>
+<!-- news matched content -->
+<ins class="adsbygoogle"
+     style="display:block"
+     data-ad-client="ca-pub-6813497284071092"
+     data-ad-slot="6459802007"
+     data-ad-format="autorelaxed"></ins>
+<script>
+(adsbygoogle = window.adsbygoogle || []).push({});
+</script>
+<h4><span>自動車（本体）関連最新ニュースリンク</span></h4>
+<ul class="listArticleLink">
+<li><a href="http://news.kakaku.com/prdnews/cd=kuruma/ctcd=7010/id=62944/">【ジュネーブモーターショー2017】レクサス LS500h 新型、マルチステージハイブリッド搭載して登場予定</a><span class="update">2017年2月23日　14:43</span></li>
+<li><a href="http://news.kakaku.com/prdnews/cd=kuruma/ctcd=7010/id=62942/">【アウディ A3 改良新型】バーチャルコクピットの現実…マーケティング本部長</a><span class="update">2017年2月23日　14:40</span></li>
+<li><a href="http://news.kakaku.com/prdnews/cd=kuruma/ctcd=7010/id=62943/">【MINI クロスオーバー 新型】ディーゼルモデルのみで販売開始、今秋にはPHEVも登場</a><span class="update">2017年2月23日　14:38</span></li>
+</ul>
+<h4><span>このニュースの関連リンク</span></h4>
+<ul class="listArticleLink">
+<li><a href="http://news.kakaku.com/prdnews/cd=kuruma/ctcd=7010/">自動車（本体）ニュース一覧</a></li>
+<li><a href="http://news.kakaku.com/prdnews/cd=kuruma/ctcd=7010/mcd=7007/">スズキ自動車（本体）ニュース一覧</a></li>
+</ul>
+<h4><span>中古車検索・中古車情報</span></h4>
+<ul class="listKakakuLink">
+<li><a href="http://kakaku.com/kuruma/used/">中古車検索・中古車情報</a></li>
+<li><a href="http://kakaku.com/kuruma/used/maker/%83X%83Y%83L/">スズキ 中古車</a></li><li><a href="http://kakaku.com/kuruma/used/maker/%83X%83Y%83L/%83%8F%83S%83%93R/">ワゴンR 中古車</a></li></ul>
+<h4><span>価格.com関連ページ</span></h4>
+<ul class="listKakakuLink">
+<li><a href="http://kakaku.com/kuruma/">自動車カタログ</a></li>
+<li><a href="http://kakaku.com/kuruma_hoken/">自動車保険</a></li>
+<li><a href="http://kurumakaitori.kakaku.com/kuruma_kaitori/">車買取・中古車査定</a></li>
+<li><a href="http://kakaku.com/kuruma/shaken/">車検 比較・見積もり</a></li>
+<li><a href="http://kakaku.com/bike/">バイク</a></li>
+<li><a href="http://kakaku.com/bike/kaitori/">バイク買取査定</a></li>
+</ul>
+<h4><span>メーカーサイト</span></h4>
+<ul class="listArticleLink">
+<li><a href="http://www.suzuki.co.jp/car/" target="_blank">スズキ</a></li>
+</ul>
+<!-- Facebook -->
+<div class="pagePlugin">
+<div class="fb-page" data-href="https://www.facebook.com/kakakucom.car" data-width="500" data-hide-cover="true" data-show-facepile="true" data-show-posts="false"><div class="fb-xfbml-parse-ignore"><blockquote cite="https://www.facebook.com/kakakucom.car"><a href="https://www.facebook.com/kakakucom.car">価格.com 自動車・バイク部</a></blockquote></div></div> 
+</div>
+<!-- /Facebook --> 
+<br>
+<div class="prdnewsAd">
+<!--Ad300x250Parts_Notgpt-->
+<div class="sqTwo clearfix">
+
+<div class="sqL">
+<div id='div-gpt-ad-k/btf/news/footer_left_300x250'>
+<script type='text/javascript'>
+googletag.cmd.push(function() {
+googletag.defineSlot('/116070306/k/btf/news/footer_left_300x250', [300, 250], 'div-gpt-ad-k/btf/news/footer_left_300x250').addService(googletag.pubads())
+.setTargeting("news");
+googletag.enableServices();
+googletag.display('div-gpt-ad-k/btf/news/footer_left_300x250');
+});
+</script>
+</div>
+<noscript>
+<a href="//pubads.g.doubleclick.net/gampad/jump?iu=/116070306/k/btf/news/footer_left_300x250&sz=300x250&c=123456789">
+<img src="//pubads.g.doubleclick.net/gampad/ad?iu=/116070306/k/btf/news/footer_left_300x250&sz=300x250&c=123456789">
+</a>
+</noscript>
+</div>
+
+<div class="sqR">
+<div id='div-gpt-ad-k/btf/news/footer_right_300x250'>
+<script type='text/javascript'>
+googletag.cmd.push(function() {
+googletag.defineSlot('/116070306/k/btf/news/footer_right_300x250', [300, 250], 'div-gpt-ad-k/btf/news/footer_right_300x250').addService(googletag.pubads())
+.setTargeting("news");
+googletag.enableServices();
+googletag.display('div-gpt-ad-k/btf/news/footer_right_300x250');
+});
+</script>
+</div>
+
+<noscript>
+<a href="//pubads.g.doubleclick.net/gampad/jump?iu=/116070306/k/btf/news/footer_right_300x250&sz=300x250&c=123456789">
+<img src="//pubads.g.doubleclick.net/gampad/ad?iu=/116070306/k/btf/news/footer_right_300x250&sz=300x250&c=123456789">
+</a>
+</noscript>
+</div>
+
+</div>
+</div>
+</div>
+</div>
+<!-- == 右メニューここから == -->
+<div id="menu">
+<div class="bnArea">
+<div id='div-gpt-ad-k/news/kuruma_300x250'>
+<script type='text/javascript'>
+googletag.cmd.push(function() {
+googletag.defineSlot('/116070306/k/news/kuruma_300x250', [[300, 250], [300, 600]], 'div-gpt-ad-k/news/kuruma_300x250').addService(googletag.pubads());
+googletag.enableServices();
+googletag.display('div-gpt-ad-k/news/kuruma_300x250');
+});
+</script>
+
+<noscript>
+<a href="//pubads.g.doubleclick.net/gampad/jump?iu=/116070306/k/news/kuruma_300x250&sz=300x250|300x600&c=123456789">
+<img src="//pubads.g.doubleclick.net/gampad/ad?iu=/116070306/k/news/kuruma_300x250&sz=300x250|300x600&c=123456789">
+</a>
+</noscript>
+</div>
+</div>
+<div class="boxMenu">
+<div class="titleType01">新製品ニュース内記事検索</div>
+<div class="btnArea rBtm block">
+<div class="searchFrame">
+<form action="http://search.kakaku.com/ksearch/search.aspx" method="get">
+<input type="text" name="query" class="searchBox" maxlength="100" value="" >
+<input type="image" alt="検索" src="http://img1.kakaku.k-img.com/images/news/search_btn.gif">
+<input name="category" type="hidden" value="9996">
+</form>
+</div>
+</div>
+</div>
+<!-- 最新ニュース ここから -->
+<div class="boxMenu">
+<div class="titleType01">最新ニュース</div>
+<div class="btnArea rBtm block">
+<ul class="latestNews">
+<li><a href="http://news.kakaku.com/prdnews/cd=pc/ctcd=0510/id=62929/">AMD、8コア16スレッドのデスクトッ…</a></li>
+<li><a href="http://news.kakaku.com/prdnews/cd=kaden/ctcd=2027/id=62932/">シャープ、Ultra HD ブルーレイ…</a></li>
+<li><a href="http://news.kakaku.com/prdnews/cd=pc/ctcd=0085/id=62948/">デル、23.8型フルHD液晶「P241…</a></li>
+<li><a href="http://news.kakaku.com/prdnews/cd=camera/ctcd=2020/id=62947/">コダック、デュアル広角レンズ搭載の全天…</a></li>
+<li><a href="http://news.kakaku.com/prdnews/cd=kuruma/ctcd=7010/id=62945/">【スズキ ワゴンR 新型】高級感もプラ…</a></li>
+<li><a href="http://news.kakaku.com/prdnews/cd=keitai/ctcd=7745/id=62950/">ガーミン、着脱の簡単な「QuickFi…</a></li>
+<li><a href="http://news.kakaku.com/prdnews/cd=kuruma/ctcd=7610/id=62946/">【スズキ GSX250R】めっちゃ格好…</a></li>
+<li><a href="http://news.kakaku.com/prdnews/cd=kuruma/ctcd=7010/id=62944/">【ジュネーブモーターショー2017】レ…</a></li>
+</ul>
+<div class="alignR"><a href="http://news.kakaku.com/prdnews/">最新ニュース一覧へ&gt;&gt;</a></div>
+</div>
+</div>
+<!-- 最新ニュース ここまで -->
+
+<!-- 画像で見る最新ニュース ここから -->
+<div class="boxMenu">
+<div class="titleType01">画像で見る最新ニュース</div>
+<div class="btnArea rBtm block">
+<ul class="imageList">
+<li><a href="http://news.kakaku.com/prdnews/cd=pc/ctcd=0510/id=62929/"><img src="http://img1.kakaku.k-img.com/Images/prdnews/T20170223103900_304_.jpg" onerror="this.src='http://img1.kakaku.k-img.com/images/news/noimage_s.png';this.onerror=null;" alt="AMD、8コア16スレッドのデスクトップ向け新型CPU「Ryzen 7」" width="80" height="80"></a></li>
+<li><a href="http://news.kakaku.com/prdnews/cd=keitai/ctcd=3147/id=62914/"><img src="http://img1.kakaku.k-img.com/Images/prdnews/T20170222174344_873_.jpg" onerror="this.src='http://img1.kakaku.k-img.com/images/news/noimage_s.png';this.onerror=null;" alt="U-NEXTとヤマダ電機、ソフトバンク網の「ヤマダファミリーモバイル」開始" width="80" height="80"></a></li>
+<li><a href="http://news.kakaku.com/prdnews/cd=kuruma/ctcd=7610/id=62946/"><img src="http://img1.kakaku.k-img.com/Images/prdnews/T20170223143722_533_.jpg" onerror="this.src='http://img1.kakaku.k-img.com/images/news/noimage_s.png';this.onerror=null;" alt="【スズキ GSX250R】めっちゃ格好いい、乗ってみれば…「おっ、いいじゃん!!」チーフエンジニア" width="80" height="80"></a></li>
+<li><a href="http://news.kakaku.com/prdnews/cd=toy/ctcd=7753/id=62905/"><img src="http://img1.kakaku.k-img.com/Images/prdnews/T20170222160655_208_.jpg" onerror="this.src='http://img1.kakaku.k-img.com/images/news/noimage_s.png';this.onerror=null;" alt="「鉄腕アトム」がクラウド対応AIロボットに、「週刊 鉄腕アトムを作ろう！」創刊" width="80" height="80"></a></li>
+<li><a href="http://news.kakaku.com/prdnews/cd=kaden/ctcd=2048/id=62915/"><img src="http://img1.kakaku.k-img.com/Images/prdnews/T20170222190856_282_.jpg" onerror="this.src='http://img1.kakaku.k-img.com/images/news/noimage_s.png';this.onerror=null;" alt="TEAC、Bluetoothレシーバーを搭載したUSB DAC/プリメインアンプ「AI-503」" width="80" height="80"></a></li>
+<li><a href="http://news.kakaku.com/prdnews/cd=kaden/ctcd=2046/id=62937/"><img src="http://img1.kakaku.k-img.com/Images/prdnews/T20170223121236_707_.jpg" onerror="this.src='http://img1.kakaku.k-img.com/images/news/noimage_s.png';this.onerror=null;" alt="Skullcandy、振動するBluetoothヘッドホン「Crusher Wireless」" width="80" height="80"></a></li>
+</ul>
+</div>
+</div>
+<!-- 画像で見る最新ニュース ここまで -->
+
+
+<div class="boxMenu">
+<div class="titleType01">新製品ニュース</div>
+<div class="boxIn">
+<ul class="listType03">
+<li><a href="" onclick="javascript:if($('rnews_list0').style.display == 'none'){$('rnews_list0').style.display = 'block';$('rnews_title0').innerHTML = '<em>自動車 [-]</em>';}else{$('rnews_list0').style.display = 'none';$('rnews_title0').innerHTML = '自動車 [+]';}return false;"><span id="rnews_title0">自動車 [-]</span></a>
+<ul name="rnews_list0" id="rnews_list0" style="display: block;">
+<li><a href="http://news.kakaku.com/prdnews/cd=kuruma/ctcd=7010/">自動車（本体）</a></li>
+</ul>
+</li>
+<li><a href="" onclick="javascript:if($('rnews_list1').style.display == 'none'){$('rnews_list1').style.display = 'block';$('rnews_title1').innerHTML = '<em>カー用品 [-]</em>';}else{$('rnews_list1').style.display = 'none';$('rnews_title1').innerHTML = 'カー用品 [+]';}return false;"><span id="rnews_title1">カー用品 [+]</span></a>
+<ul name="rnews_list1" id="rnews_list1" style="display: none;">
+<li><a href="http://news.kakaku.com/prdnews/cd=kuruma/ctcd=2010/">カーナビ</a></li>
+<li><a href="http://news.kakaku.com/prdnews/cd=kuruma/ctcd=5894/">ドレスアップパーツ</a></li>
+<li><a href="http://news.kakaku.com/prdnews/cd=kuruma/ctcd=5934/">その他のカー用品</a></li>
+<li><a href="http://news.kakaku.com/prdnews/cd=kuruma/ctcd=7020/">カーオーディオ</a></li>
+<li><a href="http://news.kakaku.com/prdnews/cd=kuruma/ctcd=7022/">車載モニター</a></li>
+<li><a href="http://news.kakaku.com/prdnews/cd=kuruma/ctcd=7030/">カースピーカー</a></li>
+<li><a href="http://news.kakaku.com/prdnews/cd=kuruma/ctcd=7032/">車載アンプ</a></li>
+<li><a href="http://news.kakaku.com/prdnews/cd=kuruma/ctcd=7033/">車載カメラ</a></li>
+<li><a href="http://news.kakaku.com/prdnews/cd=kuruma/ctcd=7034/">ドライブレコーダー</a></li>
+<li><a href="http://news.kakaku.com/prdnews/cd=kuruma/ctcd=7037/">車載用空気清浄機</a></li>
+<li><a href="http://news.kakaku.com/prdnews/cd=kuruma/ctcd=7038/">その他車載機器</a></li>
+<li><a href="http://news.kakaku.com/prdnews/cd=kuruma/ctcd=7039/">シガーソケットUSB・充電器</a></li>
+<li><a href="http://news.kakaku.com/prdnews/cd=kuruma/ctcd=7040/">タイヤ</a></li>
+<li><a href="http://news.kakaku.com/prdnews/cd=kuruma/ctcd=7060/">ETC車載器</a></li>
+<li><a href="http://news.kakaku.com/prdnews/cd=kuruma/ctcd=7062/">車載用地デジチューナー</a></li>
+<li><a href="http://news.kakaku.com/prdnews/cd=kuruma/ctcd=7064/">車載用FMトランスミッター</a></li>
+</ul>
+</li>
+<li><a href="" onclick="javascript:if($('rnews_list17').style.display == 'none'){$('rnews_list17').style.display = 'block';$('rnews_title17').innerHTML = '<em>バイク [-]</em>';}else{$('rnews_list17').style.display = 'none';$('rnews_title17').innerHTML = 'バイク [+]';}return false;"><span id="rnews_title17">バイク [+]</span></a>
+<ul name="rnews_list17" id="rnews_list17" style="display: none;">
+<li><a href="http://news.kakaku.com/prdnews/cd=kuruma/ctcd=7610/">バイク（本体）</a></li>
+</ul>
+</li>
+</ul>
+</div>
+</div>
+<!-- 新製品ニュースランキングここから -->
+<div class="boxMenu02">
+    <div class="titleType01">自動車・バイクニュースランキング</div>
+    <div class="boxIn">
+        <div class="rankHigh" id="no1"> 1位</div>
+        <p><a href="http://news.kakaku.com/prdnews/cd=kuruma/ctcd=7010/id=62786/">【ジュネーブモーターショー2017】ホンダ シビック タイプR 新型、量産モデルを初公開予定</a><span class="update">2017年2月17日　11:11</span></p>
+        <div class="mTop5">
+        <div class="rankHigh" id="no2"> 2位</div>
+        <p><a href="http://news.kakaku.com/prdnews/cd=kuruma/ctcd=7010/id=62825/">【スズキ ワゴンR 新型】初代を彷彿とさせるデザイン…ハイブリッドFX</a><span class="update">2017年2月20日　17:20</span></p>
+        </div>
+        <div class="mTop5">
+        <div class="rankHigh" id="no3"> 3位</div>
+        <p><a href="http://news.kakaku.com/prdnews/cd=kuruma/ctcd=7010/id=62810/">三菱、「アウトランダー」を一部改良し発売</a><span class="update">2017年2月19日　7:24</span></p>
+        </div>
+        <div class="mTop5">
+        <div class="rankLow" > 4位</div>
+        <p><a href="http://news.kakaku.com/prdnews/cd=kuruma/ctcd=7010/id=62848/">【ジュネーブモーターショー2017】トヨタ、i-TRIL を初公開予定…2030年のアーバンモビリティ提示</a><span class="update">2017年2月21日　16:56</span></p>
+        </div>
+        <div class="mTop5">
+        <div class="rankLow" > 5位</div>
+        <p><a href="http://news.kakaku.com/prdnews/cd=kuruma/ctcd=7010/id=62783/">【ジュネーブモーターショー2017】フェラーリ、812スーパーファスト 初公開予定…F12 後継は800馬力</a><span class="update">2017年2月17日　11:12</span></p>
+        </div>
+    </div>
+</div>
+<!-- 新製品ニュースランキングここまで -->
+<!-- 掲載メーカー一覧ここから -->
+<div class="boxMenu">
+<div class="titleType01">掲載メーカー一覧</div>
+<div class="btnArea rBtm block">
+<div class="makerIcon"><a href="http://news.kakaku.com/prdnews/maker.asp"><img src="http://img1.kakaku.k-img.com/images/news/makerListIcon.gif" width="51" height="51" alt="掲載メーカー一覧"></a></div>
+<div class="makerText">
+<p>メーカー別に新製品ニュースの記事を探すことが出来ます。</p>
+<p class="alignR"><a href="http://news.kakaku.com/prdnews/maker.asp">掲載メーカー一覧へ&gt;&gt;</a></p>
+</div>
+</div>
+</div>
+<!-- 掲載メーカー一覧ここまで -->
+<!-- アキバ総研ニュース -->
+<div class="boxMenu">
+<div class="titleType02">アキバ総研新着ニュース</div>
+<div class="boxIn">
+<ul class="listType01">
+<li class="top">
+<div class="akibaThumb"><div class="articleImg"><a href="https://akiba-souken.com/article/29313/"><img alt="春アニメ「武装少女マキャベリズム」、オープニングテーマは百舌鳥野のの役・伊藤美来による新曲！" src="https://image-akiba-souken.ssl.k-img.com/assets/images/article/000/722/t60_722671.jpg"></a></div></div>
+<p><a href="https://akiba-souken.com/article/29313/">春アニメ「武装少女マキャベリズム」、オープニングテーマは百舌鳥野のの役・伊藤美来による新曲！</a><span class="update">(2017年02月23日掲載)</span></p>
+</li>
+<li>
+<div class="akibaThumb"><div class="articleImg"><a href="https://akiba-souken.com/article/29284/"><img alt="これが今の自分のすべて。独特な存在感を放つアニソンシンガー・和島あみが、1stアルバムをリリース！" src="https://image-akiba-souken.ssl.k-img.com/assets/images/article/000/722/t60_722669.jpg"></a></div></div>
+<p><a href="https://akiba-souken.com/article/29284/">これが今の自分のすべて。独特な存在感を放つアニソンシンガー・和島あみが、1stアルバムをリリース！</a><span class="update">(2017年02月23日掲載)</span></p>
+</li>
+<li>
+<div class="akibaThumb"><div class="articleImg"><a href="https://akiba-souken.com/article/28943/"><img alt="ボークスから「青の騎士ベルゼルガ物語」ケイン・マクドガルのフィギュアが登場！　同社製1／24「テスタ..." src="https://image-akiba-souken.ssl.k-img.com/assets/images/article/000/722/t60_722667.jpg"></a></div></div>
+<p><a href="https://akiba-souken.com/article/28943/">ボークスから「青の騎士ベルゼルガ物語」ケイン・マクドガルのフィギュアが登場！　同社製1／24「テスタ...</a><span class="update">(2017年02月23日掲載)</span></p>
+</li>
+<li>
+<div class="akibaThumb"><div class="articleImg"><a href="https://akiba-souken.com/article/29312/"><img alt="春アニメ「終末なにしてますか？忙しいですか？救ってもらっていいですか？」、EDはアニソンシンガー・T..." src="https://image-akiba-souken.ssl.k-img.com/assets/images/article/000/722/t60_722666.jpg"></a></div></div>
+<p><a href="https://akiba-souken.com/article/29312/">春アニメ「終末なにしてますか？忙しいですか？救ってもらっていいですか？」、EDはアニソンシンガー・T...</a><span class="update">(2017年02月23日掲載)</span></p>
+</li>
+</ul>
+<p class="alignR mTop5"><a href="https://akiba-souken.com/">アキバ総研へ &gt;&gt;</a></p>
+</div>
+</div>
+<!-- アキバ総研ニュース -->
+<div class="calender">
+<p><strong>自動車・バイク&nbsp;新製品ニュース<br>
+2017年2月</strong></p>
+<div class="calenderBg">
+
+<table width="275" border="0" cellpadding="0" cellspacing="1" class="tblCalender">
+<tr>
+<th class="sun">sun</th>
+<th>mon</th>
+<th>tue</th>
+<th>wed</th>
+<th>thu</th>
+<th>fri</th>
+<th class="sat">sat</th>
+</tr>
+
+    <tr>
+        <td>&nbsp;</td>
+        <td>&nbsp;</td>
+        <td>&nbsp;</td>
+        <td><a href="http://news.kakaku.com/prdnews/cd=kuruma/ctcd=7010/date=20170201/">1</a></td>
+        <td><a href="http://news.kakaku.com/prdnews/cd=kuruma/ctcd=7010/date=20170202/">2</a></td>
+        <td><a href="http://news.kakaku.com/prdnews/cd=kuruma/ctcd=7010/date=20170203/">3</a></td>
+        <td>4</td>
+    </tr>
+    <tr>
+        <td><a href="http://news.kakaku.com/prdnews/cd=kuruma/ctcd=7010/date=20170205/">5</a></td>
+        <td><a href="http://news.kakaku.com/prdnews/cd=kuruma/ctcd=7010/date=20170206/">6</a></td>
+        <td><a href="http://news.kakaku.com/prdnews/cd=kuruma/ctcd=7010/date=20170207/">7</a></td>
+        <td><a href="http://news.kakaku.com/prdnews/cd=kuruma/ctcd=7010/date=20170208/">8</a></td>
+        <td><a href="http://news.kakaku.com/prdnews/cd=kuruma/ctcd=7010/date=20170209/">9</a></td>
+        <td><a href="http://news.kakaku.com/prdnews/cd=kuruma/ctcd=7010/date=20170210/">10</a></td>
+        <td>11</td>
+    </tr>
+    <tr>
+        <td><a href="http://news.kakaku.com/prdnews/cd=kuruma/ctcd=7010/date=20170212/">12</a></td>
+        <td><a href="http://news.kakaku.com/prdnews/cd=kuruma/ctcd=7010/date=20170213/">13</a></td>
+        <td><a href="http://news.kakaku.com/prdnews/cd=kuruma/ctcd=7010/date=20170214/">14</a></td>
+        <td><a href="http://news.kakaku.com/prdnews/cd=kuruma/ctcd=7010/date=20170215/">15</a></td>
+        <td><a href="http://news.kakaku.com/prdnews/cd=kuruma/ctcd=7010/date=20170216/">16</a></td>
+        <td><a href="http://news.kakaku.com/prdnews/cd=kuruma/ctcd=7010/date=20170217/">17</a></td>
+        <td>18</td>
+    </tr>
+    <tr>
+        <td><a href="http://news.kakaku.com/prdnews/cd=kuruma/ctcd=7010/date=20170219/">19</a></td>
+        <td><a href="http://news.kakaku.com/prdnews/cd=kuruma/ctcd=7010/date=20170220/">20</a></td>
+        <td><a href="http://news.kakaku.com/prdnews/cd=kuruma/ctcd=7010/date=20170221/">21</a></td>
+        <td><a href="http://news.kakaku.com/prdnews/cd=kuruma/ctcd=7010/date=20170222/">22</a></td>
+        <td><a href="http://news.kakaku.com/prdnews/cd=kuruma/ctcd=7010/date=20170223/">23</a></td>
+        <td>24</td>
+        <td>25</td>
+    </tr>
+    <tr>
+        <td>26</td>
+        <td>27</td>
+        <td>28</td>
+        <td>&nbsp;</td>
+        <td>&nbsp;</td>
+        <td>&nbsp;</td>
+        <td>&nbsp;</td>
+    </tr>
+</table>
+</div>
+<p class="alignR"><a href="http://news.kakaku.com/prdnews/backnum.asp?cd=kuruma">自動車・バイクバックナンバー &gt;&gt;</a></p>
+</div>
+<div class="boxMenu">
+<div class="titleType01">自動車・バイク関連リンク</div>
+<div class="btnArea rBtm noBtmS block">
+<ul class="latestNews">
+<li><a href="http://kakaku.com/kuruma/">自動車カタログ</a></li>
+<li><a href="http://kakaku.com/kuruma/used/">中古車検索・中古車情報</a></li>
+<li><a href="http://kakaku.com/kuruma_hoken/">自動車保険</a></li>
+<li><a href="http://kurumakaitori.kakaku.com/kuruma_kaitori/">車買取・中古車査定</a></li>
+<li><a href="http://kakaku.com/kuruma/shaken/">車検 比較・見積もり</a></li>
+<li><a href="http://kakaku.com/bike/">バイク</a></li>
+<li><a href="http://kakaku.com/bike/kaitori/">バイク買取査定</a></li>
+</ul>
+</div>
+</div>
+</div>
+<!-- == 右メニューここまで == -->
+</div>
+<!-- == フッターここから == -->
+<div id="footer">
+<!-- フッタCCここから -->
+<div class="footerCc"><a href="http://kakaku.com/kuruma/">自動車・バイク</a>&nbsp;&gt;&nbsp;<a href="http://kakaku.com/kuruma/maker/suzuki/">スズキ</a>&nbsp;&gt;<br><strong><a href="http://kakaku.com/item/70100710178/">ワゴンR</a></strong>の<a href="http://kakaku.com/">お買い物情報サイト -価格.com</a> </div>
+<!-- フッタCCここまで -->
+<!-- コピーライトここから -->
+<div class="copyRight">Copyright (c) Kakaku.com, Inc. All Rights Reserved. 無断転載禁止</div>
+<!-- コピーライトここまで -->
+</div>
+<!-- == フッターここまで == -->
+</div>
+</div>
+</div>
+<span style="display:none;">
+<!-- SiteCatalyst code version: H.8.
+Copyright 1997-2006 Omniture, Inc. More info available at
+http://www.omniture.com -->
+<script language="JavaScript" src="/script/analytics/s_code.js"></script>
+<script language="JavaScript"><!--
+/* You may give each page an identifying name, server, and channel on
+the next lines. */
+s.pageName="[news]"+ document.title;
+s.server="news.kakaku.com"
+s.channel="新製品ニュース"
+s.pageType=""
+s.prop1="[news]自動車・バイク"
+s.prop2="[news]記事ページ"
+s.prop3="[news]62945"
+s.prop20="自動車（本体）"
+s.prop21="スズキ"
+s.eVar50=""
+s.campaign=""
+s.events=""
+/************* DO NOT ALTER ANYTHING BELOW THIS LINE ! **************/
+var s_code=s.t();if(s_code)document.write(s_code)//--></script>
+<script language="JavaScript"><!--
+if(navigator.appVersion.indexOf('MSIE')>=0)document.write(unescape('%3C')+'\!-'+'-')
+//--></script><!--/DO NOT REMOVE/-->
+<!-- End SiteCatalyst code version: H.8. -->
+</span>
+<script type="text/javascript" src="/script/analytics/s_code_gi.js"></script>
+<script language="JavaScript"><!--
+function onclickcatalyst(clicktype){
+var s=s_gi(s_code_gi);
+s.linkTrackVars="channel,prop1,prop2,prop20,prop21";
+s.channel ="オール";
+s.prop1   ="[ALL]" + clicktype;
+s.prop2   ="[news]62945";
+s.prop20  ="自動車（本体）";
+s.prop21  ="スズキ";
+s.tl(this,'o',clicktype);
+}
+// --></script>
+<!-- DTM Tag -->
+<script type="text/javascript">
+    if(typeof _satellite !== "undefined"){
+        _satellite.pageBottom();
+    }
+</script>
+<!-- DTM Tag -->
+
+</body>
+</html>
+

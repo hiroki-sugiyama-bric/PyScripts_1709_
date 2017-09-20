@@ -1,0 +1,148 @@
+GET https://accounts.jins.com/jp/ja/myaccount?service_id=jos HTTP/1.1
+Host: accounts.jins.com
+User-Agent: Mozilla/5.0 (Windows NT 6.1; WOW64; rv:52.0) Gecko/20100101 Firefox/52.0
+Accept: text/html,application/xhtml+xml,application/xml;q=0.9,*/*;q=0.8
+Accept-Language: ja,en-US;q=0.7,en;q=0.3
+Accept-Encoding: gzip, deflate, br
+Referer: https://accounts.jins.com/jp/ja/registration?service_id=jos
+Cookie: _ga=GA1.2.653643970.1490947721; __ulfpc=201703311708412655; AWSELB=2BCD219D0CF757078D61254C37D904455B5489E2366033149057DCB1FA8D987F94DFBFBBE03CFAE323F402847D93A003897DBF321F970143FE53E0DB247D83570949C35D14; _jins_accounts_session=WGJIeW5DMTdhUFVXQ0JsOGlRcldtc05PM0NjVU44VnQxNysvSjNRZVFtbUNBN2N2UTlXTzhmT0lxSnBwTmJuMW9WSWo5OVpxNklaamNsdktZcXJLck1icVVFTkpDOGxvYWppTWZpRkZCb3V3TmlLM2NqZGUxd1Z6clZmRnFpYjVEOHVzazkxeHVaUktGcmNXNXdmVms4bzRpRGE3dlFoYzRFdktXd1c1RG9scUlaSGtDcnkwZUZVMmEwb3lFVVlSbGk1VUozaWdDVDVpcVZMeStGcEZxQWJuRnh3MUlwNEhpQVk4YW8wYVFMdEY1Z2ZuNG93YXhsNmF4bjdIVVpOcURNK1Q5ZkFhMExrRTdvTDhtcm4wV3ozQXY1QlNHWmdhZnJWWHpxRXVUcFp3cGZBMnVQbUFaU3ZTM2NuampxYW50MDUwcGZnMEl5aHdsNWRObmdaSGNqRUQzWkljRWhoUjkvK0h3RjBlMFA2clZsTG9BeG0wcmxMRkVvblJnRFJyMEZqY01oZWl0QkV0OFdhMjMvdFdlTkhnamhxTTRPUHB6VnplS3VKc3RoLzJFcjQxZjVnYVp5aDJsM1pKcHlwN0FwcW5iakVGSCttYklLWUg0dU1sdCtkQ0xtdWNPN3B5RXlnSGplUEdXczVuR2MrdDJHZHk1ZHNPcnBKV2g0QTlOeGd1SkdmTXlKNUNQNUJUeW11aEtmZ0dyVFVuM3pTQ2RmWCtxN2w4ODJuRmtlcGt6Q21HUHFnMVVYZW9vbHhhLS11b2JnekFwTC85TUg2MFBadzZLNXNnPT0%3D--471a7bc8a4d4c050136f427d4f9002dc0c649c2d
+Connection: keep-alive
+Upgrade-Insecure-Requests: 1
+
+
+HTTP/1.1 200 OK
+Cache-Control: no-cache, no-store, private, max-age=0, must-revalidate
+Content-Security-Policy: default-src 'self' https://accounts-webapp-static.s3.amazonaws.com/; style-src 'self' 'unsafe-inline' https://accounts-webapp-static.s3.amazonaws.com/; script-src 'self' 'unsafe-inline' https://accounts-webapp-static.s3.amazonaws.com/ https://jp.api.capy.me; img-src 'self' https://accounts-webapp-static.s3.amazonaws.com/ https://capy.storage.googleapis.com https://jp.api.capy.me
+Content-Type: text/html; charset=utf-8
+Date: Wed, 05 Apr 2017 08:17:56 GMT
+Pragma: no-cache
+Set-Cookie: _jins_accounts_session=K3lpang5OFJsSytEaTRhU1lrSXgza1pOUWprYW9LRWxKZzAvOWNDY2JoaTdqRFZzRjBWYkQwSXByWmhORFM0VFFvMy9LM3Evem5WeFlSRjJPU3FRZFZFd3NYS3k2anFJUUJ5REhHL1hIQzNETWpuMkZ4dGJaMzlrOGo2OWNWM1lZdWl6dnd1eEdiZmlJZGxBcXZ5cnlGa0xOS1ArZnl5ZERpT2kvVEN6cjlBUUpiRmZPdDMxQXpYa3NzclUvSDRBeHphLzVLdVlBU2k4TGhlRUkrRm40Vk5JOGdCUnlvOStyWmhIcjZodmxMRnJxamN1OERyQUppdnl5dnVxRU9aQkNDaXlIOFJOT0h2MjBvWkl5cTZVZExvZ3NVeUljTStwNTZDRTdyQjhrcHdnTiszT0EvbTRveVJua3laZkR2ZENXK1JvSlRqb3NSeG5ad2RoZHRkakFmOFlkWFV3ZWdXa244RWdrR3ozRjhWcFJXdFpiRTJzWGlFUEhQd1N4ejg1NlRNNEwrWHZ5S2VqRFU2M2xqYWduL2drT1k5eWNEbjJSZUJlN0x2VWNHZTdxbktMUm5nWDV3MmV6MHlYcG1iOG5sNVF2WFFmWjM4dmkrNkh0TVhoQWl3aWFRdWEwNWlJdkIzSkluNVFOL3MxY0ZBN2k2QlFRZjFicTdMODM5d0RmNUFzV0ZZRGRqbFRQbWN0S3lJQy9GVjBZUm5yT0xkc21VUVZ6cU15VytJPS0tTk9TZjVxaUN6dm82d0hyZzJwOVZaZz09--78afb55b8a3fb311ce99b4524eeaa33697220962; path=/; secure; HttpOnly
+Status: 200 OK
+Strict-Transport-Security: max-age=31536000; includeSubDomains
+Vary: Accept-Encoding
+X-Content-Type-Options: nosniff
+X-Frame-Options: SAMEORIGIN
+X-Request-Id: 7fe85080-2cbe-4d19-ab40-2f6623213ba4
+X-XSS-Protection: 1; mode=block
+Connection: keep-alive
+Content-Length: 5993
+
+<html>
+<head>
+
+<meta http-equiv="content-type" content="text/html;charset=utf-8">
+<meta name="viewport" content="width=device-width,initial-scale=1">
+<meta name="format-detection" content="telephone=no">
+<title>メールマガジン配信 | JINSアカウント</title>
+<link rel="shortcut icon" href="/favicon.ico">
+
+<!-- styleseets -->
+<link rel="stylesheet" media="screen" href="https://accounts-webapp-static.s3.amazonaws.com/assets/1.0.3/jos-a6f567845c9f5f18cb117baeeaf2cfcc941c2b3212726f7de520ca044beec7a6.css" />
+
+<!-- /styleseets -->
+
+</head>
+<body>
+
+<!-- header -->
+<header id="topHead" class="header">
+    <div class="headerDisplay">
+          <div class="headerDisplay__bg" id="topBg"></div>
+        <div class="headerDisplay__logo">
+            <h1><img alt="JINS" src="https://accounts-webapp-static.s3.amazonaws.com/assets/1.0.3/jos/jins_logo-bf4b7a06e60f8ec8eb3e2f891a77e83f7b5c291f0796df52e54f84c1c4fdbe9a.png" /></h1>
+        </div>
+        <div id="navToggle" class="headerDisplay__toggle dropdown-button" data-activates='menu'>
+            <div>
+                <span></span>
+                <span></span>
+                <span></span>
+            </div>
+        </div>
+        <nav class="headerDisplay__menu dropdown-content" id="menu">
+            <ul>
+                <li><a href="/jp/ja/myaccount?service_id=jos" class="waves-effect waves-gray">お客様情報の変更</a></li>
+                <li><a href="/jp/ja/password?service_id=jos" class="waves-effect waves-gray">パスワード変更</a></li>
+                <li><a href="/jp/ja/social?service_id=jos" class="waves-effect waves-gray">外部アカウント連携</a></li>
+                <li><a href="/jp/ja/unsubscribe?service_id=jos" class="waves-effect waves-gray">JINSアカウント退会</a></li>
+                <li><a href="/jp/ja/contact?service_id=jos" class="waves-effect waves-gray">お問い合わせ</a></li>
+                <li><a href="/jp/ja/logout?service_id=jos" class="waves-effect waves-gray">ログアウト</a></li>
+            </ul>
+        </nav>
+        <div class="bg none" id="bg"></div>
+    </div>
+</header>
+
+<!-- /header -->
+
+
+	  
+
+<form class="new_form_users_myaccount" id="new_form_users_myaccount" action="/jp/ja/myaccount?service_id=jos" accept-charset="UTF-8" method="post"><input name="utf8" type="hidden" value="&#x2713;" /><input type="hidden" name="_method" value="put" /><input type="hidden" name="authenticity_token" value="L0vjW3MfXCL67CK0dkTASFKurJat46p8E4oZQOQJxJSkIJHzKMTuK198SjP499OFRwnlZvUzhwP1KNlBCKksIQ==" />
+  <input type="hidden" name="form_users_myaccount[confirmed]" id="form_users_myaccount_confirmed" />
+  <input type="hidden" value="crawlingtest1000@gmail.com" name="form_users_myaccount[email]" id="form_users_myaccount_email" />
+  <input type="hidden" name="form_users_myaccount[nickname]" id="form_users_myaccount_nickname" />
+  <input type="hidden" name="form_users_myaccount[sex]" id="form_users_myaccount_sex" />
+  <input type="hidden" name="form_users_myaccount[birthday_y]" id="form_users_myaccount_birthday_y" />
+  <input type="hidden" name="form_users_myaccount[birthday_m]" id="form_users_myaccount_birthday_m" />
+  <input type="hidden" name="form_users_myaccount[birthday_d]" id="form_users_myaccount_birthday_d" />
+  <input type="hidden" name="form_users_myaccount[postcode_front]" id="form_users_myaccount_postcode_front" />
+  <input type="hidden" name="form_users_myaccount[postcode_back]" id="form_users_myaccount_postcode_back" />
+
+  <div class="profUpdate">
+    <div class="profUpdateForm">
+      <div class="profUpdateForm__title">
+        <h2><span>JINSアカウント </span><span>メールマガジン配信</span></h2>
+      </div>
+      
+        <div class="profUpdateForm__mailMagazineCheck">
+          <p>メールマガジン配信</p>
+          <label class="label-checkbox" for="form_users_myaccount_jos_email_optin_status">
+            <input name="form_users_myaccount[jos_email_optin_status]" type="hidden" value="0" /><input type="checkbox" value="1" name="form_users_myaccount[jos_email_optin_status]" id="form_users_myaccount_jos_email_optin_status" />
+            <span class="lever">JINSオンラインショップメールマガジン</span>
+          </label>
+          <label class="label-checkbox" for="form_users_myaccount_developers_email_optin_status">
+            <input name="form_users_myaccount[developers_email_optin_status]" type="hidden" value="0" /><input type="checkbox" value="1" name="form_users_myaccount[developers_email_optin_status]" id="form_users_myaccount_developers_email_optin_status" />
+            <span class="lever">JINS MEME DEVELOPERS</span>
+          </label>
+        </div>
+
+        <div class="buttonForm__halfButton">
+          <div class="buttonForm__halfButton_left">
+            <button type="submit" class="waves-effect waves-blue cancel link_element" href="https://www.jins.com/MyPage/index">← 戻る</button>
+          </div>
+          <div class="buttonForm__halfButton_right">
+            <button type="submit" class="waves-effect waves-light">次へ</button>
+          </div>
+        </div>
+    </div>
+  </div>
+</form>
+
+  
+
+<!-- scripts -->
+<script src="https://accounts-webapp-static.s3.amazonaws.com/assets/1.0.3/jos-ce507f3f1780ada3028e2104a04f382dd3c177fbe5ad8363d93d1821f839c543.js"></script>
+
+    <script src="https://accounts-webapp-static.s3.amazonaws.com/assets/1.0.3/jos/controllers/prof_update-8eae2e04b5c173df024c56a0a2ce2a7707c7aa5faec30decae81ee7d575644f0.js"></script>
+
+<!-- /scripts -->
+
+<!-- footer -->
+<!-- footer -->
+<div class="footer">
+    <div class="footerContent">
+        <div class="footerContent__privacyPolicy">
+            <a href="https://corp.jins.com/jp/ja/policy/" target="_blank"><span>プライバシーポリシー</span></a>
+        </div>
+
+        <div class="footerContent__copyRight">
+            <span>ⒸJINS Inc. ALL Rights Reserved.</span>
+        </div>
+    </div>
+</div>
+<!-- /header -->
+
+<!-- /scripts -->
+
+</body>
+</html>

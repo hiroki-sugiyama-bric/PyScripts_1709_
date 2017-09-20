@@ -1,0 +1,104 @@
+GET https://bbsec-dev.demo.r-unit.co.jp/password_reset/comfirm/BAhbB2lcVTogQWN0aXZlU3VwcG9ydDo6VGltZVdpdGhab25lWwhJdToJVGltZQ1ISR3AmpVAIgg6DW5hbm9fbnVtaQLGAToNbmFub19kZW5pBjoNc3VibWljcm8iB0VASSIKVG9reW8GOgZFVEl1OwYNUUkdwJqVQCIJOwdpAsYBOwhpBjsJIgdFQDoJem9uZUkiCFVUQwY7ClQ=--bcee2e28db9a1f3e16dd2faf2c5eb6d317361aa3 HTTP/1.1
+Host: bbsec-dev.demo.r-unit.co.jp
+User-Agent: Mozilla/5.0 (Windows NT 6.1; WOW64; rv:51.0) Gecko/20100101 Firefox/51.0
+Accept: text/html,application/xhtml+xml,application/xml;q=0.9,*/*;q=0.8
+Accept-Language: ja,en-US;q=0.7,en;q=0.3
+Cookie: __utma=255587979.1408552780.1485512242.1485512242.1485512242.1; __utmz=255587979.1485512242.1.1.utmcsr=google|utmccn=(organic)|utmcmd=organic|utmctr=(not%20provided); _myapp_session=RmM2Q3hlOGFkY1Y1cjQ2dVh1Z1hjckJ3WTFVU1pZdGdscFU5KzVXWk9IUWt1U0V6Vlo4NWJxNUNJWVZndk41TktIc0o4dlVMUlZTVDkrVkFHcFNOM2hDUy8yRE9CTXJiYjVUNmszaUFTRWFQbDZYdjQvUW03L1RDTm9uMzMyQzFiSWxyMkY2NllEZ0xDZXgxdk5NenQ2NnEyaVhyOU5RdGFqVXdac2xPTk1jejlkTndzR2sxZGd0WHYyWlhyRk1ITHFuY0JRUnJia1hJZFY5eTRTVWd1a1JjVHkyUmVmL0w2ZFlWbG1DVTNVK2pCOTVZTDNMQzZqZEJoTXV1eTdHdVRoOUprb0RpUEVNNzA5UEZId3J6RGc9PS0tbXVxLzZKTE5oRnhYMmZWclFXVVlCUT09--fb1612100c8426df0efb03ace2c17dbe68074905
+Connection: close
+Upgrade-Insecure-Requests: 1
+
+
+HTTP/1.1 200 OK
+Server: nginx/1.8.1
+Date: Thu, 09 Mar 2017 08:09:30 GMT
+Content-Type: text/html; charset=utf-8
+Transfer-Encoding: chunked
+Connection: close
+Strict-Transport-Security: max-age=31536000
+X-Frame-Options: SAMEORIGIN
+X-XSS-Protection: 1; mode=block
+X-Content-Type-Options: nosniff
+ETag: W/"69244e28e0b82f120c99144f35c7a89b"
+Cache-Control: max-age=0, private, must-revalidate
+Set-Cookie: _myapp_session=TE9JekJSSXo2cUcrdiswUTZVVTIrTlQwQ2FjR0I4cjJGYWVHWW1tODhhZ1J0cXRxWDRNR0dWL1hDTGsyVUxJNkFTT0hXbkdsU2xxZStWSU9GVFNPOGYyNy95NW53dnhnQlYwOThBcmF0MmJWTk1ZY0hZNCtFeGVQTHBCMW1id21QSGMxWDhxaVN1eWgwaVk0b2p2LzBIV0tmYmhzV1BmMEhSUGdQNTdQN1oxdVRmVlZleThBbTFrVmNveVdqblRxcEFXZ2ZQdjcyazgyc0NUNGtUK2dXRndwdTgvR1R6TDN4Vi9IZmJvSU9nS3FNd2MvYTMrcEd4MWVsRml5S0c2YWlkaGRnNDlBUUxqcjJEMUJnc1ZrWHc9PS0tL3lFdEdnaCtnQXRBaEpCblVvSTBDQT09--570ea34e7cd23d2862ffc53059435553e8e8000b; path=/; secure; HttpOnly
+X-Request-Id: fc9c602d-7514-4f9f-a635-67b39adf46ec
+X-Runtime: 0.023001
+
+c5f
+<!DOCTYPE html>
+<html>
+<head>
+    <meta charset="utf-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <meta name="ROBOTS" content="NOINDEX,NOFOLLOW">
+    <title>Develop/業務ポータル</title>
+
+    <link rel="shortcut icon" type="image/x-icon" href="/assets/favicon-51d0a4b6004bd2bcb350948c93dea219bbe68eeded20ae5c5396e0029d276eb5.ico" />
+    
+    <!-- Include style per-controller - vendor plugins -->
+    
+
+    <!-- Main css styles -->
+    <link rel="stylesheet" media="all" href="/assets/application-011f6841717391606f764bd6569154f897cea4e735f53ee26f4ed4ea621bf0d2.css" data-turbolinks-track="true" />
+
+    <!-- Main javascript files -->
+    <script src="/assets/application-5c692180e9f4ad8e056928bb3130b02dde46c04384bd5c8e127522b4b22d5e04.js" data-turbolinks-track="true"></script>
+    <meta name="csrf-param" content="authenticity_token" />
+<meta name="csrf-token" content="AZPFkDjR9ckVi8VCirFiL+OBGkI94rcmj3tS8aeDvPo+CQ3cCMwdgirll6D9w73LfbIR8QI5VIlJj+bSa9GsvQ==" />
+
+
+
+</head>
+<body class="gray-bg">
+
+<!-- Main view  -->
+<div class="passwordBox animated fadeInDown">
+  <div class="text-center">
+    <a style="color:inherit;" href="/">
+      <h2 class="font-bold">BBSec Portal</h2>
+</a>  </div>
+  <div class="row">
+    <div class="col-md-12">
+      <div class="ibox-content">
+        <h2 class="font-bold">パスワードリセット</h2>
+        <p><font color="red">※パスワードは英字(大文字)・英字(小文字)・数字を組み合わせて６文字以上で入力してください。</font></p>
+        <div class="row">
+          <div class="col-lg-12">
+            <form class="edit_user" id="edit_user_87" action="/password_reset/update" accept-charset="UTF-8" method="post"><input name="utf8" type="hidden" value="&#x2713;" /><input type="hidden" name="_method" value="patch" /><input type="hidden" name="authenticity_token" value="gYJpz2ftIGQIas2zGBxsVGwW3rQdqgamCL2Zx31z52e+GKGDV/DILzcEn1FvbrOw8iXVByJx5QnOSS3ksSH3IA==" />
+              <label for="user_高橋 英樹">高橋 英樹</label>
+              <div class="form-group has-feedback">
+                <input class="form-control" placeholder="新しいパスワード" type="password" name="user[password]" id="user_password" />
+                <span class="glyphicon glyphicon-lock form-control-feedback"></span>
+              </div>
+              <div class="form-group has-feedback">
+                <input class="form-control" placeholder="新しいパスワード(確認)" type="password" name="user[password_confirmation]" id="user_password_confirmation" />
+                <span class="glyphicon glyphicon-lock form-control-feedback"></span>
+              </div>
+              <input type="hidden" value="87" name="user[id]" id="user_id" />
+              <button type="submit" class="btn btn-primary block full-width m-b">更新</button>
+</form>          </div>
+        </div>
+      </div>
+      <div class="text-center">
+        <p class="m-t"> <small>BroadBand Security, Inc. All rights reserved. &copy; 2016</small> </p>
+      </div>
+    </div>
+  </div>
+</div>
+
+
+
+    <!-- Include javascript per-controller - vendor plugins -->
+    
+
+
+d6
+    <!-- Include javascript per-view -->
+    <!-- For demo purpose we include javascript in view but you can easily start SeedProject and organize it with Rails asset pipeline as you want -->
+    
+
+</body>
+</html>
+
+0
+

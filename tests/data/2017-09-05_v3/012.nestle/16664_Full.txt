@@ -1,0 +1,23 @@
+POST https://shop.nestle.jp/front/app/customer/customer_sendpassword/sendmail HTTP/1.1
+Host: shop.nestle.jp
+User-Agent: Mozilla/5.0 (Windows NT 6.1; rv:52.0) Gecko/20100101 Firefox/52.0
+Accept: text/html,application/xhtml+xml,application/xml;q=0.9,*/*;q=0.8
+Accept-Language: ja,en-US;q=0.7,en;q=0.3
+Referer: https://shop.nestle.jp/front/app/customer/customer_sendpassword
+Cookie: JSESSIONID=495A120E6BB28B34BC959F31628EB477; citrix_ns_id=2JNCpAgUvAh61dwzu9/f6WJnPK0A000; citrix_ns_id_.nestle.jp_%2F_wat=bmVzdGxlX3JlZ2lzdF9f?vVzcGAJWOhqxgn+mpQVJG9qdss0A&SlNFU1NJT05JRF9f?XwEGomnOm8l5R8N+flEXAXVvV7sA#VjqFJqy+hIj8xxctRAlszDUQlmIA&TlNDX1FIX3RpcHEub2Z0dW1mLmtx?qrdzuhiYte6pbz9tXZzE+TKWdI0A&; citrix_ns_id_.nestle.jp_%2F_wlf=TlNDX1FIX29mdHVtZi5rcV9f?wR65IKVkxcS0+sqyOplIs4ShohYA&dXNlcl9f?BJsssd5wm5QURadmGLQqccSQycoA&TlNDX1FIX3Eub2Z0dW1mLmtx?wR65IKVkxcS0+sqyOplIs4ShohYA&; visid_incap_701124=BfBxUy5HTUWf1eLeSVHAqdTJ5FgAAAAAQUIPAAAAAACZI5sWzH7Pk4wlnt3zFIbi; incap_ses_218_701124=Kr2VX2LaETRJdfx0Zn8GA9TJ5FgAAAAANH8C3hTARWafvVQefyqbhg==; _ga=GA1.2.1158537501.1491388892; __ulfpc=201704051941332184; NSC_QH_tipq.oftumf.kq=ffffffffc3a0975d45525d5f4f58455e445a4a423660; _kyp={'.nestle.jp':{'uid':'2afefb67-674e-a1f7-adce-583d2c7a9359'%2C'_ex':1493980985466%2C'i':{'lt':1491389049293%2C'_ex':1493981049296%2C'sid':'ff1edb573f48'%2C'sc':1%2C'lc':9}}}; _ga=GA1.3.1158537501.1491388892; bt3.yjcd=; krt.vis=3792700688_1491388986631_1544688
+Connection: close
+Upgrade-Insecure-Requests: 1
+Content-Type: application/x-www-form-urlencoded
+Content-Length: 107
+
+transactionToken=27f45a7a-a4ea-45ff-a5e9-8b1d0e30698f&email=crawlingtest1000%40gmail.com&postalCode=1600023
+HTTP/1.1 302 Moved Temporarily
+Date: Wed, 05 Apr 2017 10:44:05 GMT
+X-FRAME-OPTIONS: SAMEORIGIN
+Location: https://shop.nestle.jp/front/app/customer/customer_sendpassword/init/sendmail
+Content-Length: 0
+Cache-Control: no-store
+Connection: close
+Content-Type: text/plain; charset=UTF-8
+X-Content-Type-Options: nosniff
+

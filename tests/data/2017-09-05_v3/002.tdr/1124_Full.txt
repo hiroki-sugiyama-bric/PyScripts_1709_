@@ -1,0 +1,23 @@
+POST https://idnx.disney.co.jp/nx/recoverPassword?sendMail HTTP/1.1
+Host: idnx.disney.co.jp
+User-Agent: Mozilla/5.0 (Windows NT 6.1; WOW64; rv:52.0) Gecko/20100101 Firefox/52.0
+Accept: text/html,application/xhtml+xml,application/xml;q=0.9,*/*;q=0.8
+Accept-Language: ja,en-US;q=0.7,en;q=0.3
+Accept-Encoding: gzip, deflate, br
+Referer: https://idnx.disney.co.jp/nx/recoverPassword?form&clientId=WDI-JP.JA.DIS.J.WEB-PROD&langPref=ja-JP&promotionId=JP.PID.1000000073&behavior=MAXIMUM&showRegist=true
+Cookie: JSESSIONID=F80B020203C1498F433240BB47A97B7A; AWSELB=B9159D9312883F264631D3D13160EB466FB66563E6167AEC5A440CC10CC87DE40DAE7BC32F19C5CE61C9A1EE543291DB5A0D1208397EB070D16F800F3EE3065DC0F349EB4F5457EF44CCCC073DA12D41C9CFE9048A; mbox=PC#de590576b2a94db6bea98af686b6660e.18_22#1492420422|check#true#1491210882|session#41833dac1d6948088b843923f1ac8887#1491212682; s_pers=%20s_fid%3D2CEFEC5DEE8D1F2C-12A5567E70BF1299%7C1554282846326%3B%20gpv_c12%3Ddcore%253Adid%253Aidnx%253Anx%253Arecoverpassword%253Aform%7C1491212646329%3B%20gpv_sec%3Dapac%253Ajp%253Adcore%253Adid%253Aidnx%253Anx%7C1491212646330%3B; s_sess=%20s_cc%3Dtrue%3B%20s_sq%3D%3B; vwd_sec=apac%3Ajp%3Adcore%3Adim%3Adisney%3Ahome%2Capac%3Ajp%3Adcore%3Adim%3Asecured%3Aonlinehelp
+Connection: keep-alive
+Upgrade-Insecure-Requests: 1
+Content-Type: application/x-www-form-urlencoded
+Content-Length: 182
+
+clientId=WDI-JP.JA.DIS.J.WEB-PROD&activityId=&langPref=ja-JP&promotionId=JP.PID.1000000073&behavior=MAXIMUM&noMailVerification=0&showRegist=true&username=crawlingtest1000%40gmail.com
+HTTP/1.1 303 See Other
+Content-Language: ja
+Date: Mon, 03 Apr 2017 09:14:08 GMT
+Location: /nx/recoverPassword?complete&clientId=WDI-JP.JA.DIS.J.WEB-PROD&activityId=&noMailVerification=0&langPref=ja-JP&behavior=MAXIMUM&promotionId=JP.PID.1000000073&username=crawlingtest1000%40gmail.com&showRegist=true
+P3P: CP="CAO DSP COR CURa ADMa DEVa TAIa PSAa PSDa IVAi IVDi CONi OUR SAMo OTRo BUS PHY ONL UNI PUR COM NAV INT DEM CNT STA PRE"
+Server: Apache
+Content-Length: 0
+Connection: keep-alive
+

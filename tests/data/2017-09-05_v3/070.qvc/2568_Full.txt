@@ -1,0 +1,63 @@
+GET https://qvc.jp/Async?tid=3351&sug_key=1 HTTP/1.1
+Host: qvc.jp
+User-Agent: Mozilla/5.0 (Windows NT 6.1; rv:52.0) Gecko/20100101 Firefox/52.0
+Accept: application/json, text/javascript, */*; q=0.01
+Accept-Language: ja,en-US;q=0.7,en;q=0.3
+X-Requested-With: XMLHttpRequest
+Referer: https://qvc.jp/
+Cookie: JSESSIONID=9111EDC20EBF176EE3638B44F87CFDD2; uniqueid=f0b95f09-58f0-46bf-9c12-7724c360520c; CK_SERVERID=1; _libra=oOH0I4i73Ar4kEILo3866BObiqBsc6XmkfHBLP32B4rYKdBDLIjBbZnIcepdv57iVaUudWBX5cZM; s_cc=true; s_fid=6EDF1492B909393E-3DC5C71134357C5E; sc_visit=1; sc_segmsest=1491558701749; sc_segmhis=1491558701749; sc_segm=1; s_cvp_1=%5B%5B%27DIR%27%2C%271491558701751%27%5D%5D; s_cvp_2=%5B%5B%27DIR%27%2C%271491558701751%27%5D%5D; s_product=%5BPC%5D%3AOther; sc_prevFlag=F; sc_prevpage=%5BPC%5D%3Aqvc.jp%2Findex.html; s_sq=%5B%5BB%5D%5D; custid=73790398; s_vi=[CS]v1|2C73B37E0548B07F-40000105E00007B0[CE]; YTM_PV=2; __ar_v4=; _vz=viz_58e766f82b98d; curntChnl=QVC; saasData="https://aigent.silveregg.net/pycre5/click?merch=qvc|744012407|73790398"
+Connection: close
+
+
+HTTP/1.1 200 OK
+Content-Type: content-type: text/plain;charset=UTF-8
+Content-Length: 672
+Cache-Control: private,no-store,no-cache,must-revalidate
+Pragma: no-cache
+Date: Fri, 07 Apr 2017 10:49:17 GMT
+Connection: close
+Set-Cookie: CK_SERVERID=1; path=/
+Set-Cookie: CK_SERVERID=1; path=/
+
+[
+	{
+		"retrieve_count": "109",
+		"word": "18K　リング"
+	},
+	{
+		"retrieve_count": "100",
+		"word": "18K チェーン ネックレス"
+	},
+	{
+		"retrieve_count": "50",
+		"word": "18K　ネックレス"
+	},
+	{
+		"retrieve_count": "47",
+		"word": "18K　ピアス"
+	},
+	{
+		"retrieve_count": "28",
+		"word": "18k　ネックレス"
+	},
+	{
+		"retrieve_count": "11",
+		"word": "18k　ブレスレット"
+	},
+	{
+		"retrieve_count": "9",
+		"word": "18K　ダイヤモンド"
+	},
+	{
+		"retrieve_count": "8",
+		"word": "18K　ペンダント"
+	},
+	{
+		"retrieve_count": "3",
+		"word": "18K　ペンダントヘッド"
+	},
+	{
+		"retrieve_count": "2",
+		"word": "100　絹"
+	}
+]

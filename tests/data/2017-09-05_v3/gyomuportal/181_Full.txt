@@ -1,0 +1,32 @@
+GET https://bbsec-dev.demo.r-unit.co.jp/ HTTP/1.1
+Host: bbsec-dev.demo.r-unit.co.jp
+User-Agent: Mozilla/5.0 (Windows NT 6.1; WOW64; rv:51.0) Gecko/20100101 Firefox/51.0
+Accept: text/html,application/xhtml+xml,application/xml;q=0.9,*/*;q=0.8
+Accept-Language: ja,en-US;q=0.7,en;q=0.3
+Referer: https://bbsec-dev.demo.r-unit.co.jp/project/3521/dashboards/index
+Cookie: __utma=255587979.1408552780.1485512242.1485512242.1485512242.1; __utmz=255587979.1485512242.1.1.utmcsr=google|utmccn=(organic)|utmcmd=organic|utmctr=(not%20provided); _myapp_session=UWkrVVd6S0F0OHpyNFR6amgyMUlSMTdUTk5KNkJxSWhXdWkyWjJ5SjJEV1diL1BQZnk5N3htZmp0aUU3Q3VYNnBxVnVKUHBCcDNrL2hlUUlYcGxQenc9PS0tMXhlUi9RdWE5K2VuMTVONGsrT2NyZz09--669575166a08e047a078194db049cadb9ccabee1; request_method=DELETE
+Connection: close
+Upgrade-Insecure-Requests: 1
+
+
+HTTP/1.1 302 Found
+Server: nginx/1.8.1
+Date: Thu, 09 Mar 2017 09:36:12 GMT
+Content-Type: text/html; charset=utf-8
+Transfer-Encoding: chunked
+Connection: close
+Strict-Transport-Security: max-age=31536000
+X-Frame-Options: SAMEORIGIN
+X-XSS-Protection: 1; mode=block
+X-Content-Type-Options: nosniff
+Location: https://bbsec-dev.demo.r-unit.co.jp/sessions/new
+Cache-Control: no-cache
+Set-Cookie: _myapp_session=THkzaFE3N3lpMThhZUxCNVhCNjNLbEpJMXo3RkI5Zk8vMlU5VWlrdWNWVWhJYnVuRno2dXdXVHhxNHhISFViMFQ3S04yZDBNQnlTVzk2WlBtMmd0ZS9CeVZ0ZUYvN01mSktOb0V5NTFZazZaTkt0VGFuNHZJb3pQMmNLSGJwL3l6QlNadWdhTXZDL1JqUFlmbU1vb3JnZVFLSnlOaDEwY2xHek1kZHJnSU9RPS0tWEttSE1sTCtTOE1NeXZybnltckJyQT09--b907390d6ff17f87ad2ebad55a665e214e4c619e; path=/; secure; HttpOnly
+Set-Cookie: request_method=; path=/; max-age=0; expires=Thu, 01 Jan 1970 00:00:00 -0000; secure
+X-Request-Id: aeff5d98-4c98-4389-be00-c60475239aee
+X-Runtime: 0.002895
+
+72
+<html><body>You are being <a href="https://bbsec-dev.demo.r-unit.co.jp/sessions/new">redirected</a>.</body></html>
+0
+

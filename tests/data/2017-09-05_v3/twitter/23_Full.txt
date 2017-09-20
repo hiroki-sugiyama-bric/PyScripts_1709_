@@ -1,0 +1,41 @@
+POST https://twitter.com/account/send_password_reset HTTP/1.1
+Host: twitter.com
+User-Agent: Mozilla/5.0 (Windows NT 6.1; WOW64; rv:51.0) Gecko/20100101 Firefox/51.0
+Accept: text/html,application/xhtml+xml,application/xml;q=0.9,*/*;q=0.8
+Accept-Language: ja,en-US;q=0.7,en;q=0.3
+Referer: https://twitter.com/account/send_password_reset
+Cookie: guest_id=v1%3A148367478211719790; _ga=GA1.2.944365977.1484903320; external_referer="padhuUp37zjgzgv1mFWxJ1GGR6w5wXXNb61MrkCjQoc=|0"; dnt=1; kdt=kGX1gLAPvDvZe73LrALnnT9UQasfnQfOSA4Br0hg; remember_checked_on=1; co=jp; twid="u=833861865922981888"; auth_token=a63b2f14022d60ea7fb177643cdc4cbf8631f039; moments_profile_moments_nav_tooltip_self=true; _twitter_sess=BAh7DSIKZmxhc2hJQzonQWN0aW9uQ29udHJvbGxlcjo6Rmxhc2g6OkZsYXNo%250ASGFzaHsABjoKQHVzZWR7ADoPY3JlYXRlZF9hdGwrCOsbFm5aAToMY3NyZl9p%250AZCIlNmQwYmUyZWUzOTdmMmE1YzI5ZjM4ODU3NzEwZGEzMDk6B2lkIiU2YjBl%250AOWJhNjUxZjQxZGE0OWY2N2M1YjUzYTAxNTQ3MyIJcHJycCIAOghwcnNpCDoI%250AcHJ1bCsJAHAV9vJ4kgs6CHByaWkH--a8f9cae4aba569fb2cc35854c7f435d186c585f0; ct0=50e6d8e887610cda6223641ea974989d; lang=ja
+Connection: close
+Upgrade-Insecure-Requests: 1
+Content-Type: application/x-www-form-urlencoded
+Content-Length: 95
+
+authenticity_token=328227a6ff3ee0ca108b1c4ec76ee06472494848&method_hint%5B-1%5D=email&method=-1
+HTTP/1.1 302 Found
+cache-control: no-cache, no-store, must-revalidate, pre-check=0, post-check=0
+connection: close
+content-length: 0
+content-security-policy: default-src 'none'; connect-src 'self'; font-src https://abs.twimg.com https://abs-0.twimg.com data:; frame-src 'self' twitter:; frame-ancestors 'self' https://tweetdeck.twitter.com https://tdapi-staging.smf1.twitter.com https://tdapi-staging.atla.twitter.com https://tweetdeck.localhost.twitter.com; img-src https://abs.twimg.com https://*.twimg.com https://pbs.twimg.com data:; media-src 'none'; object-src 'none'; script-src https://abs.twimg.com https://abs-0.twimg.com https://twitter.com https://mobile.twitter.com; style-src https://abs.twimg.com https://abs-0.twimg.com; report-uri https://twitter.com/i/csp_report?a=NVQWGYLXFVWG6Z3JNY%3D%3D%3D%3D%3D%3D&ro=false;
+content-type: text/html;charset=utf-8
+date: Fri, 24 Feb 2017 06:32:05 GMT
+expires: Tue, 31 Mar 1981 05:00:00 GMT
+last-modified: Fri, 24 Feb 2017 06:32:05 GMT
+location: /account/reset_email_sent
+ml: S
+pragma: no-cache
+server: tsa_m
+set-cookie: fm=0; Expires=Fri, 24 Feb 2017 06:31:55 GMT; Path=/; Domain=.twitter.com; Secure; HTTPOnly
+set-cookie: _twitter_sess=BAh7DiIKZmxhc2hJQzonQWN0aW9uQ29udHJvbGxlcjo6Rmxhc2g6OkZsYXNo%250ASGFzaHsABjoKQHVzZWR7ADoPY3JlYXRlZF9hdGwrCOsbFm5aAToMY3NyZl9p%250AZCIlNmQwYmUyZWUzOTdmMmE1YzI5ZjM4ODU3NzEwZGEzMDk6B2lkIiU2YjBl%250AOWJhNjUxZjQxZGE0OWY2N2M1YjUzYTAxNTQ3MyIJcHJycCIAOghwcnNpCToI%250AcHJ1bCsJAHAV9vJ4kgs6CHByaWkHOghwcmVp%252Bg%253D%253D--7483b644ce4642b3f4b233e7daccec10694f3279; Path=/; Domain=.twitter.com; Secure; HTTPOnly
+status: 302 Found
+strict-transport-security: max-age=631138519
+x-connection-hash: 504b1443da96086e2a7689898001ebef
+x-content-type-options: nosniff
+x-frame-options: SAMEORIGIN
+x-response-time: 129
+x-transaction: 00ed2cd000390e5f
+x-tsa-request-body-time: 0
+x-twitter-response-tags: BouncerExempt
+x-twitter-response-tags: BouncerCompliant
+x-ua-compatible: IE=edge,chrome=1
+x-xss-protection: 1; mode=block
+

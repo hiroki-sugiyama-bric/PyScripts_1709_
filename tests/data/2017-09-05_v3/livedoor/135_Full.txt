@@ -1,0 +1,219 @@
+GET https://member.livedoor.com/info/?done=icon HTTP/1.1
+Host: member.livedoor.com
+User-Agent: Mozilla/5.0 (Windows NT 6.1; WOW64; rv:51.0) Gecko/20100101 Firefox/51.0
+Accept: text/html,application/xhtml+xml,application/xml;q=0.9,*/*;q=0.8
+Accept-Language: ja,en-US;q=0.7,en;q=0.3
+Referer: https://member.livedoor.com/icon/upload
+Cookie: _ga=GA1.2.782945163.1484635068; ucd=ZpmlGMuZD2bgplA1PzMORjYrG4EGnmYC; ucd_sig=rEgLOFXwiKWGsTI2bltrck4GRZ8%3A1487584567; ldsuid=218.223.2.203.1487726870424425; member_sid=58e6cbc841a2a2cd1a69f2afbe815c27; .LRC=1a114e22f00b43e94cea58c9571b2f7267abb089; .LH=eac5e97cb9508bcb1180b1ac1a19f3e3%3A1487731851%3A; .LL=52616e646f6d4956bff9f11f5a090a1b8114297a3e5e03d532cd04a1adbfdd79; .LRCS=7c12faaf6a62cf5f0956f1f129d7ba6b; __utma=222699911.782945163.1484635068.1487731851.1487731851.1; __utmb=222699911.8.10.1487731851; __utmc=222699911; __utmz=222699911.1487731851.1.1.utmcsr=(direct)|utmccn=(direct)|utmcmd=(none); __utmt=1
+Connection: close
+Upgrade-Insecure-Requests: 1
+
+
+HTTP/1.1 200 OK
+Date: Wed, 22 Feb 2017 03:14:27 GMT
+Server: Plack::Handler::Starlet
+Content-Type: text/html; charset=utf-8
+Set-Cookie: member_sid=58e6cbc841a2a2cd1a69f2afbe815c27; domain=.member.livedoor.com; path=/; secure
+Vary: Accept-Encoding,User-Agent
+Connection: close
+Transfer-Encoding: chunked
+
+18f0
+<?xml version="1.0" encoding="utf-8"?>
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+<html xmlns="http://www.w3.org/1999/xhtml" xml:lang="ja" lang="ja">
+<head>
+	<meta http-equiv="Content-Type" content="text/html; charset=UTF-8" />
+	<title>livedoor -  登録情報確認</title>
+	<meta name="keywords" content="livedoor" />
+	<meta name="description" content="livedoorへようこそ" />
+	<meta http-equiv="Content-Style-Type" content="text/css" />
+	<meta http-equiv="Content-Script-Type" content="text/javascript" />
+	<meta name="verify-v1" content="1bivxaxGrLBSoWSu7qAOa0M36HWHyewW+8YqCFDlBZQ=" />
+	<link rel="stylesheet" type="text/css" href="/common/css/login/login.css" />
+	<link rel="stylesheet" type="text/css" href="/common/css/register/register.css" />
+	<script type="text/javascript" src="/common/js/homepage.js"></script>
+	<script type="text/javascript" src="/common/js/jquery-1.6.2.min.js"></script>
+    
+</head>
+
+<body>
+<div id="headerWrapper" class="header wrapper">
+<div id="contentHeader" class="header wrapper">
+	<ul id="logo">
+	<li><a href="http://www.livedoor.com/" title="livedoor トップページ"><img src="/common/img/login/01/livedoor.gif" width="95" height="31" alt="livedoor" /></a></li>
+	</ul>
+	<ul>
+	<li><a href="/info/" title="登録情報">登録情報</a></li>
+	<li><a href="http://help.livedoor.com/ldid/" title="ヘルプページ">ヘルプ</a></li>
+	<li><a href="http://www.livedoor.com/" title="livedoor トップページ">livedoor</a></li>
+	</ul>
+</div>
+
+</div>
+
+
+
+<script type="text/javascript" src="/common/js/localizer.js"></script>
+<script type="text/javascript" src="/common/js/locale/ja.js"></script>
+<script type="text/javascript" src="/common/js/formutil.js"></script>
+
+<div id="mainContent" class="clearfix">
+
+<div class="registerbox clearfix">
+	<div class="registerbox_head"></div>
+	<div class="registerbox_body">
+	<p class="read">livedoor ID 登録情報の確認</p>
+	</div>
+	<div class="registerbox_foot"></div>
+</div>
+
+<div class="recommendbox clearfix">
+	<div class="recommendbox_head"></div>
+	<div class="recommendbox_body">
+		<p>登録情報をご確認ください。<br />登録情報を変更するには、各項目にある「変更する」ボタンを押してください。</p>
+        <!-- 
+        <p>秘密の質問を設定して下さい。パスワードをわすれた場合の再発行時に必要となります</p>
+         -->
+	</div>
+	<div class="recommendbox_foot"></div>
+</div>
+
+
+
+
+<div class="registerbox clearfix">
+	<div class="registerbox_head"></div>
+	<div class="registerbox_body clearfix">
+
+
+<div id="infotitle1" class="infotitlebox"><h2>livedoor IDの情報</h2></div>
+<table border="0" cellpadding="0" cellspacing="0" width="655" class="registerFormbox">
+<tr>
+	<th class="info" valign="top">livedoor ID</th>
+	<td class="info"><p>test9999p</p></td>
+</tr>
+<tr>
+	<th class="info" valign="top">パスワード</th>
+	<td class="info"><p><a href="/info/chpass">パスワードの変更をする</a></p></td>
+</tr>
+<tr>
+	<th class="info" valign="top">ログイン履歴</th>
+	<td class="info"><p><a href="/info/activity">閲覧する</a></p></td>
+</tr>
+</table>
+
+<div id="infotitle2" class="infotitlebox"><h2>メール・メルマガ購読設定</h2><form action="../email_auth/" method="get"><input type="submit" value=" 変更する " /></form></div>
+
+<table border="0" cellpadding="0" cellspacing="0" width="655" class="registerFormbox">
+  
+  <tr>
+      <th class="info" valign="top">メールアドレス      </th>
+      <td class="info">
+      <ul>
+      <li>hitakahashi9999@gmail.com(認証済み)</li>
+      </ul>
+  </td>
+  </tr>
+  
+  <tr>
+      <th class="info" valign="top">メールアドレス      </th>
+      <td class="info">
+      <ul>
+      <li>未設定</li>
+      </ul>
+  </td>
+  </tr>
+  
+  <tr>
+      <th class="info" valign="top">メールアドレス      </th>
+      <td class="info">
+      <ul>
+      <li>未設定</li>
+      </ul>
+  </td>
+  </tr>
+  
+</table>
+
+<a name="icongen" id="icongen"></a>
+<div id="infotitle4" class="infotitlebox"><h2>プロフィール画像</h2><form action="../icon/upload" method="get"><input type="submit" value=" 変更する " /></form></div>
+
+
+<table border="0" cellpadding="0" cellspacing="0" class="profileimg">
+<tr>
+
+<td width="33%" valign="middle" align="center"><img src="/profile_img/test9999p_16.gif?1487733267 " /></td>
+
+<td width="33%" valign="middle" align="center"><img src="/profile_img/test9999p_60.gif?1487733267 " /></td>
+
+<td width="33%" valign="middle" align="center"><img src="/profile_img/test9999p_160.gif?1487733267 " /></td>
+
+</tr>
+<tr>
+
+<td><p>16×16</p></td>
+
+<td><p>60×60</p></td>
+
+<td><p>160×160</p></td>
+
+</tr>
+</table>
+
+
+
+
+<a name="checkout" id="checkout"></a>
+<div id="infotitle5" class="infotitlebox"><h2>決済情報</h2></div>
+
+<table border="0" cellpadding="0" cellspacing="0" width="655" class="registerFormbox">
+<tr>
+    <th class="info" valign="top">決済情報を確認する</th>
+    <td class="info"><form action="/info/checkout_status" method="post"><input type="hidden" name="_token" value="gWbypk8g" /><input type="submit" value="確認する"></form>
+    </td>
+</tr>
+</table>
+
+	</div>
+	<div class="registerbox_foot"></div>
+</div>
+
+
+
+</div>
+
+<div id="footer" class="clearfix">
+<ul>
+<li><a href="http://www.livedoor.com/">livedoorトップ</a></li>
+<li><a href="javaScript:setStartPage()">livedoorをホームに設定</a></li>
+<li><a href="http://recruit.livedoor.com/">採用情報</a></li>
+<li><a href="http://docs.livedoor.com/ad/">広告掲載</a></li>
+<li><a href="http://docs.livedoor.com/info/kiyaku.html">利用規約</a></li>
+<li><a href="http://docs.livedoor.com/info/privacy.html">プライバシーポリシー</a></li>
+</ul>
+
+<p>&copy; LINE Corporation</p>
+</div>
+
+<script type="text/javascript">
+
+  var _gaq = _gaq || [];
+  _gaq.push(['_setAccount', 'UA-1638469-25']);
+  _gaq.push(['_setDomainName', 'member.livedoor.com']);
+  _gaq.push(['_trackPageview']);
+
+  (function() {
+    var ga = document.createElement('script'); ga.type = 'text/javascript'; ga.async = true;
+    ga.src = ('https:' == document.location.protocol ? 'https://ssl' : 'http://www') + '.google-analytics.com/ga.js';
+    var s = document.getElementsByTagName('script')[0]; s.parentNode.insertBefore(ga, s);
+  })();
+
+</script>
+
+</body>
+</html>
+
+
+0
+

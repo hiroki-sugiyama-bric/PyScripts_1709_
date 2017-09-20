@@ -1,0 +1,27 @@
+GET http://metrics.qvc.jp/b/ss/qvcjqvcjpprod/1/H.26.2/s7485615122142?AQB=1&ndh=1&t=7%2F3%2F2017%2020%3A0%3A50%205%20-540&fid=10F9B53A616D5858-361A8D711FE622DE&ce=UTF-8&cdp=2&pageName=%5BPC%5D%3A%E3%83%AD%E3%82%B0%E3%82%A2%E3%82%A6%E3%83%88&g=http%3A%2F%2Fqvc.jp%2Fcont%2FLogout%2F&cc=JPY&server=qvc.jp&c1=D%3DUser-Agent&v1=D%3DUser-Agent&c8=D%3DpageName&v8=D%3DpageName&c11=D%3Dv11&v11=%5BPC%5D%3A%E3%83%AD%E3%82%B0%E3%82%A2%E3%82%A6%E3%83%88&c12=%5BPC%5D%3AD%3DpageName&v12=%5BPC%5D%3AD%3DpageName&c13=D%3Dv12&v13=D%3Dv12&c59=D%3DpageName&v59=D%3DpageName&c60=old&c61=qvc.jp%2F&v61=qvc.jp%2F&c62=D%3Dc61%2B%22cont%2F%22&v62=D%3Dc61%2B%22cont%2F%22&c63=D%3Dc61%2B%22cont%2FLogout%2F%22&v63=D%3Dc61%2B%22cont%2FLogout%2F%22&c64=D%3Dc61%2B%22cont%2FLogout%2F%22&v64=D%3Dc61%2B%22cont%2FLogout%2F%22&c65=D%3Dc61%2B%22cont%2FLogout%2F%22&v65=D%3Dc61%2B%22cont%2FLogout%2F%22&c66=D%3Dv66&c67=no%20ref&v67=D%3Dc67&c68=D%3Dv68&v68=http%3A%2F%2Fqvc.jp%2Fcont%2FLogout%2F&c70=2017%2F4%2F7&v70=D%3Dc70&c71=20%3A00&v71=D%3Dc71&c72=1491562850&v72=D%3Dc72&c73=D%3Ds_vi&v73=D%3Ds_vi&c74=http%3A%2F%2Fqvc.jp%2Fscript%2Fanalytics%2Fs_code_pc.js&v74=D%3Dc74&c75=qvc_web_20160314_H.26.2&v75=D%3Dc75&h1=qvc.jp%2Fcont%2FLogout%2F&s=1920x1200&c=24&j=1.8.5&v=N&k=Y&bw=1494&bh=1015&p=track_off&pid=%5BPC%5D%3Aqvc.jp%2FCustomerMenu.do&pidt=1&oid=https%3A%2F%2Fqvc.jp%2FLogoff.do&ot=A&AQE=1 HTTP/1.1
+Host: metrics.qvc.jp
+User-Agent: Mozilla/5.0 (Windows NT 6.1; rv:52.0) Gecko/20100101 Firefox/52.0
+Accept: */*
+Accept-Language: ja,en-US;q=0.7,en;q=0.3
+Referer: http://qvc.jp/cont/Logout/
+Cookie: s_fid=10F9B53A616D5858-361A8D711FE622DE; sc_visit=1; sc_segmsest=1491562811163; sc_segmhis=1491562811163; sc_segm=1; s_cvp_1=%5B%5B%27DIR%27%2C%271491562811166%27%5D%5D; s_cvp_2=%5B%5B%27DIR%27%2C%271491562811167%27%5D%5D; sc_prevpage=%5BPC%5D%3A%E3%83%AD%E3%82%B0%E3%82%A2%E3%82%A6%E3%83%88; s_sq=qvcjqvcjpprod%3D%2526pid%253D%25255BPC%25255D%25253Aqvc.jp%25252FCustomerMenu.do%2526pidt%253D1%2526oid%253Dhttps%25253A%25252F%25252Fqvc.jp%25252FLogoff.do%2526ot%253DA; s_cc=true; s_product=%5BPC%5D%3AD%3DpageName; sc_prevFlag=F
+Connection: close
+
+
+HTTP/1.1 302 Found
+Date: Fri, 07 Apr 2017 11:00:55 GMT
+Server: Omniture DC/2.0.0
+Access-Control-Allow-Origin: *
+Set-Cookie: s_vi=[CS]v1|2C73B8B385489F1E-6000010560002A91[CE]; Expires=Sun,  7 Apr 2019 11:00:55 GMT; Domain=qvc.jp; Path=/
+Location: http://metrics.qvc.jp/b/ss/qvcjqvcjpprod/1/H.26.2/s7485615122142?AQB=1&pccr=true&vidn=2C73B8B385489F1E-6000010560002A91&&ndh=1&t=7%2F3%2F2017%2020%3A0%3A50%205%20-540&fid=10F9B53A616D5858-361A8D711FE622DE&ce=UTF-8&cdp=2&pageName=%5BPC%5D%3A%E3%83%AD%E3%82%B0%E3%82%A2%E3%82%A6%E3%83%88&g=http%3A%2F%2Fqvc.jp%2Fcont%2FLogout%2F&cc=JPY&server=qvc.jp&c1=D%3DUser-Agent&v1=D%3DUser-Agent&c8=D%3DpageName&v8=D%3DpageName&c11=D%3Dv11&v11=%5BPC%5D%3A%E3%83%AD%E3%82%B0%E3%82%A2%E3%82%A6%E3%83%88&c12=%5BPC%5D%3AD%3DpageName&v12=%5BPC%5D%3AD%3DpageName&c13=D%3Dv12&v13=D%3Dv12&c59=D%3DpageName&v59=D%3DpageName&c60=old&c61=qvc.jp%2F&v61=qvc.jp%2F&c62=D%3Dc61%2B%22cont%2F%22&v62=D%3Dc61%2B%22cont%2F%22&c63=D%3Dc61%2B%22cont%2FLogout%2F%22&v63=D%3Dc61%2B%22cont%2FLogout%2F%22&c64=D%3Dc61%2B%22cont%2FLogout%2F%22&v64=D%3Dc61%2B%22cont%2FLogout%2F%22&c65=D%3Dc61%2B%22cont%2FLogout%2F%22&v65=D%3Dc61%2B%22cont%2FLogout%2F%22&c66=D%3Dv66&c67=no%20ref&v67=D%3Dc67&c68=D%3Dv68&v68=http%3A%2F%2Fqvc.jp%2Fcont%2FLogout%2F&c70=2017%2F4%2F7&v70=D%3Dc70&c71=20%3A00&v71=D%3Dc71&c72=1491562850&v72=D%3Dc72&c73=D%3Ds_vi&v73=D%3Ds_vi&c74=http%3A%2F%2Fqvc.jp%2Fscript%2Fanalytics%2Fs_code_pc.js&v74=D%3Dc74&c75=qvc_web_20160314_H.26.2&v75=D%3Dc75&h1=qvc.jp%2Fcont%2FLogout%2F&s=1920x1200&c=24&j=1.8.5&v=N&k=Y&bw=1494&bh=1015&p=track_off&pid=%5BPC%5D%3Aqvc.jp%2FCustomerMenu.do&pidt=1&oid=https%3A%2F%2Fqvc.jp%2FLogoff.do&ot=A&AQE=1
+X-C: ms-5.1.0
+Expires: Thu, 06 Apr 2017 11:00:55 GMT
+Last-Modified: Sat, 08 Apr 2017 11:00:55 GMT
+Cache-Control: no-cache, no-store, max-age=0, no-transform, private
+Pragma: no-cache
+P3P: policyref="/w3c/p3p.xml", CP="NOI DSP COR NID PSA OUR IND COM NAV STA"
+xserver: www43
+Content-Length: 0
+Content-Type: text/plain
+Connection: close
+

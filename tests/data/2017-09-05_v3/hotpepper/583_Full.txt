@@ -1,0 +1,196 @@
+GET https://point.recruit.co.jp/member/remind/?response_type=code&redirect_uri=https%3A%2F%2Fwww.hotpepper.jp%2FCSP%2FcapMemberForward%2F&state=e626d9abdb7b73e4e5e9488507fecba907244057a9cf452c&re_auth=1&insertion_flg=&client_id=d37b0ba0d2f2d914e6214a3130668745619a5ae452be1b41555da255f2714e54 HTTP/1.1
+Host: point.recruit.co.jp
+User-Agent: Mozilla/5.0 (Windows NT 6.1; WOW64; rv:51.0) Gecko/20100101 Firefox/51.0
+Accept: text/html,application/xhtml+xml,application/xml;q=0.9,*/*;q=0.8
+Accept-Language: ja,en-US;q=0.7,en;q=0.3
+Referer: https://point.recruit.co.jp/member/inCompLogin/?client_id=d37b0ba0d2f2d914e6214a3130668745619a5ae452be1b41555da255f2714e54&redirect_uri=https%3A%2F%2Fwww.hotpepper.jp%2FCSP%2FcapMemberForward%2F&response_type=code&re_auth=1&insertion_flg=&state=e626d9abdb7b73e4e5e9488507fecba907244057a9cf452c&sc_vid=&sc_ap=
+Cookie: r2abtest_cid=73df171a52a8e23dcb5043eaa4715e158908ea67; r2abtest="201703101404:I9MR040_HPG_01_001,898,HPG_01_001:I9MR010_S03_a,896,other"; rm_tk=6V5HYX6dxDb9yTYKQ4xndttBokMbAa1j; site_cd=HPG; s_fid=4493AB07D01B65E8-1F03BA2E2FEE4E44; s_nr=1489129208425-Repeat; s_nr2=1489129210658-Repeat; JSESSIONID=3FA8875BE60B883B49453869059193E4.0201; s_cc=true; s_fr=2017%3A03%3A10; s_cm=1; s_fbsr=1; s_sq=rcrtpointrecruitcojpprd%3D%2526c.%2526a.%2526activitymap.%2526page%253Dcap%25253Amember%25253AinCompLogin%25253Aindex.html%2526link%253D%2525E3%252583%252591%2525E3%252582%2525B9%2525E3%252583%2525AF%2525E3%252583%2525BC%2525E3%252583%252589%2525E3%252581%25258C%2525E5%252588%252586%2525E3%252581%25258B%2525E3%252582%252589%2525E3%252581%2525AA%2525E3%252581%252584%2526region%253Dmember_inCompLoginForm%2526pageIDType%253D1%2526.activitymap%2526.a%2526.c%26rcrthotpepperjpprod%3D%2526pid%253Drikupon%25253Alogin%25253AI1LG040%2526pidt%253D1%2526oid%253Dhttps%25253A%25252F%25252Fpoint.recruit.co.jp%25252Fmember%25252FinCompLogin%25252F%25253Fclient_id%25253Dd37b0ba0d2f2d914e6214a3130668745619a5ae452%2526ot%253DA; R2SESSIONID=225DA222D76B7C650B65746090D8A0F4; PermissionByReferer=1; s_cap_id=f6f5d0235c11d3bb; s_cap_id=f6f5d0235c11d3bb; ssk_token=249353347dac73011e9c31864aa3c95d27af132803140fe5972bbae69e821fa9
+Connection: close
+Upgrade-Insecure-Requests: 1
+
+
+HTTP/1.1 200 OK
+Date: Fri, 10 Mar 2017 07:00:08 GMT
+Server: Apache
+X-RUN_ID: R-27372_68_21991
+Set-Cookie: r2abtest_cid=73df171a52a8e23dcb5043eaa4715e158908ea67; Domain=point.recruit.co.jp; Expires=Wed, 28-Mar-2085 10:14:15 GMT; Path=/; HttpOnly
+Set-Cookie: r2abtest="201703101404:I9MR040_HPG_01_001,898,HPG_01_001:I9MR010_S03_a,896,other"; Version=1; Domain=point.recruit.co.jp; Max-Age=2147483647; Expires=Wed, 28-Mar-2085 10:14:15 GMT; Path=/; HttpOnly
+Set-Cookie: JSESSIONID=54381BC858A58FDC5719E3EC20915096.0401; Path=/; Secure; HttpOnly
+Set-Cookie: site_cd=HPG; Expires=Sun, 10-Mar-2019 07:00:08 GMT; Path=/; Secure
+Expires: 0
+Pragma: no-cache
+Cache-Control: no-cache, no-store, proxy-revalidate
+Set-Cookie: R2SESSIONID=05ADDDE73894978D297AF283B20056D6; Path=/; Secure; HttpOnly
+Content-Type: text/html;charset=UTF-8
+Content-Length: 7587
+Vary: Accept-Encoding,User-Agent
+P3P: CP="NON DSP COR CURa ADMa DEVa CUSo TAIa PSDo OUR BUS UNI COM NAV STA"
+Strict-Transport-Security: max-age=315360000
+Connection: close
+
+<!DOCTYPE html>
+<html lang="ja"><head>
+<meta http-equiv="Content-Type" content="text/html; charset=utf-8" />
+<meta http-equiv="Content-Style-Type" content="text/css" />
+<meta http-equiv="Content-Script-Type" content="text/javascript" /><meta name="title" content="リクルートID - パスワードの再設定" /><title>リクルートID - パスワードの再設定</title><link rel="stylesheet" href="/css/member_common.css?__rel=20170217032405" type="text/css"><link rel="shortcut icon" href="/img/icon/r_point_fabicon.ico?__rel=20170217032405"><link rel="stylesheet" href="/css/tone_HPG.css?__rel=20170217032405" type="text/css"><script type="text/javascript">
+function close_win(){
+  var nvua = navigator.userAgent;
+    if(nvua.indexOf('MSIE') >= 0){
+      if(nvua.indexOf('MSIE 5.0') == -1) {
+        top.opener = '';
+      }
+    }
+    else if(nvua.indexOf('Gecko') >= 0){
+      top.name = 'CLOSE_WINDOW';
+      wid = window.open('','CLOSE_WINDOW');
+    }
+    top.close();
+}
+</script>
+</head>
+<body id="pageTop">
+<div id="wrapper">
+	<header id="header">
+		<section class="globalHeader clearFix">
+			<h1 class="globalHeader_logo">
+				<a href="https://www.hotpepper.jp/">
+					<img src="/doc/img/sitelogo/member/logo_bridge_HPG.png?date=20161021160534" title="ホットペッパーグルメ" alt="ホットペッパーグルメ"></a>
+					</h1>
+			<h2 class="globalHeader_sub">
+				<img src="/doc/img/sitelogo/member/logo_bridge_CAP.png?date=20161021160534" alt="リクルートID"></h2>
+			</section>
+	</header><div id="contents">
+		<div>
+			
+</div>
+		<section>
+    		<h2 class="title_page">パスワードの再設定</h2>
+		</section>
+		<section id="contentsInner">
+			<div id="insertionContentsTopSite">
+				</div>
+			<div id="insertionContentsTop">
+				</div>
+			<div class="assetsMessage">
+				<p>下記項目を入力して、「次へ」でお進みください。</p>
+			</div>
+			<form name="member_remindActionForm" id="member_remindActionForm" method="post" action="/member/remind/doConfirm"><div style="display:none;"><input type="hidden" name="org.apache.struts.taglib.html.TOKEN" value="a02046bbb4cb319b46cae54324df4c34"></div><input type="hidden" name="path" value=""><input type="hidden" name="client_id" value="d37b0ba0d2f2d914e6214a3130668745619a5ae452be1b41555da255f2714e54"><input type="hidden" name="redirect_uri" value="https://www.hotpepper.jp/CSP/capMemberForward/"><input type="hidden" name="response_type" value="code"><input type="hidden" name="re_auth" value="1"><input type="hidden" name="insertion_flg" value=""><input type="hidden" name="state" value="e626d9abdb7b73e4e5e9488507fecba907244057a9cf452c"><input type="hidden" name="closeFlg" value=""><input type="hidden" name="sc_vid" value=""><input type="hidden" name="sc_ap" value=""><input type="hidden" name="expressionflg" value=""><input type="hidden" name="connect_flg" value=""><input type="hidden" name="pwbFlg" value=""><input type="hidden" name="reDisplayFlg" value=""><div id="centeringContents" class="layoutGrid_table_02">
+					<div class="tableList_01">
+						<table>
+							<tbody>
+								<tr>
+									<th class="th01">リクルートID<br>（メールアドレス）<span class="number_half">半角英数</span></th>
+									<td>
+										<input type="text" name="mainEmail" maxlength="100" placeholder="例）sample@recruit.co.jp" autocomplete="off" value="" class="email"></td>
+								</tr>
+								<tr>
+									<th class="th01">お名前</th>
+									<td>
+										<span class="info">※会員情報にご登録頂いている氏名を入力してください。</span>
+										<dl class="dl01 clearFix">
+											<dt>姓</dt>
+											<dd>
+												<input type="text" name="nmSei" maxlength="40" placeholder="例）かもめ" autocomplete="off" value="" class="name"></dd>
+										</dl>
+										<dl class="dl01 clearFix">
+											<dt>名</dt>
+											<dd>
+												<input type="text" name="nmMei" maxlength="40" placeholder="例）太郎" autocomplete="off" value="" class="name"></dd>
+										</dl>
+									</td>
+								</tr>
+							</tbody>
+						</table>
+					</div>
+					<div class="assetsButton">
+						<ul class="assetsButton_01">
+							<li class="li02">
+								<a href="/member/inCompLogin/?client_id=d37b0ba0d2f2d914e6214a3130668745619a5ae452be1b41555da255f2714e54&redirect_uri=https%3A%2F%2Fwww.hotpepper.jp%2FCSP%2FcapMemberForward%2F&response_type=code&re_auth=1&insertion_flg=&state=e626d9abdb7b73e4e5e9488507fecba907244057a9cf452c&sc_vid=&sc_ap=" class="button_03" title="戻る">戻る</a></li>
+							<li class="li01">
+								<input type="submit" value="次へ" id="nextSubmitPink" class="button_01" title="次へ"></li>
+						</ul>
+					</div>
+				</div>
+			</form><div>
+				<ul class="memberLogin_link02">
+					<li>パスワードの再設定に関するヘルプは<a href="https://help.point.recruit.co.jp/app/answers/detail/a_id/11880" title="" class="blank" target="_blank">こちら</a></li>
+				</ul>
+			</div>
+			<div id="insertionContentsUnderSite">
+				</div>
+			<div id="insertionContentsUnder">
+				</div>
+		</section>
+	</div>
+	<div id="footerWrapper">
+		<footer id="footer">
+			<section class="globalFooter">
+				<nav class="globalFooter_nav">
+					<ul id="footerLinks">
+						<li><a href="https://cmn.point.recruit.co.jp/terms/terms.html" target="_blank">ID・会員規約</a></li>
+						<li><a href="https://cmn.point.recruit.co.jp/policy/privacy.html" target="_blank">プライバシーポリシー</a></li>
+						<li><a href="https://help.point.recruit.co.jp/">お問い合わせ</a></li>
+					</ul>
+				</nav>
+				<div class="globalFooter_contents">
+					<div class="globalFooter_logo">
+						<p id="copyright">
+							<a href="https://www.recruit.jp/" target="_blank">
+							<img src="/doc/img/sitelogo/member/complogo_RHD.png?date=20150407153151" title="(C) Recruit Holdings Co.,Ltd." alt="(C) Recruit Holdings Co.,Ltd."></a>
+						</p>
+						<p id="groupSite">
+							<a href="https://www.recruit.co.jp/"><span class="copyRight">リクルートグループサイトへ</span></a>
+						</p>
+					</div>
+				</div>
+			</section>
+		</footer>
+		</div>
+<script type="text/javascript" src="/js/sitecatalyst/s_code.js"></script>
+<script ><!--
+	s.pageName = 'cap:member:remind:index.html';
+	s.prop3 = 'I1PR010';
+
+	s.prop40 = 'HPG';
+
+//--></script>
+<script type="text/javascript" src="/js/sitecatalyst/code_to_paste.js"></script>
+
+<script ><!--
+var globalPageName = '';
+var globalDispId = '';
+var globalSiteCd = '';
+var globalEvents = '';
+var globalABTest = '';
+
+
+	globalPageName = 'cap:member:remind:index.html';
+	globalDispId = 'I1PR010';
+	
+		globalSiteCd = 'HPG';
+	
+//--></script>
+
+<script type="text/javascript">
+	pageName = "rikupon:forgetpw:identify:I1PR010";
+	channel = "rikupon";
+	subSiteSection = "rikupon:forgetpw:identify:I1PR010";
+	media = "rikupon";
+</script>
+
+<script type="text/javascript" src="//www.hotpepper.jp/DEV/DEV_OPEN/CSP/log/js/s_code.js"></script>
+<script type="text/javascript" src="//www.hotpepper.jp/DEV/DEV_OPEN/CSP/log/js/logTeam.js"></script></div>
+<script type="text/javascript" src="/js/p_csp.js"></script>
+<script type="text/javascript" src="/js/submitControl.js"></script>
+<script type="text/javascript">
+	document.getElementById("nextSubmitPink").onclick = function() {
+		return submitCtr.submit(function() {
+
+			document.forms['member_remindActionForm'].submit();
+
+			return true;
+		});
+	};
+</script>
+</body>
+</html>

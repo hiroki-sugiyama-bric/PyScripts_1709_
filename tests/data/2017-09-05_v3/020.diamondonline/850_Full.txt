@@ -1,0 +1,582 @@
+GET http://diamond.jp/auth/logout HTTP/1.1
+Host: diamond.jp
+User-Agent: Mozilla/5.0 (Windows NT 6.1; WOW64; rv:52.0) Gecko/20100101 Firefox/52.0
+Accept: text/html,application/xhtml+xml,application/xml;q=0.9,*/*;q=0.8
+Accept-Language: ja,en-US;q=0.7,en;q=0.3
+Accept-Encoding: gzip, deflate
+Referer: http://diamond.jp/
+Cookie: font-size=M; go.itv=1; __gads=ID=47fea8b9310c48e9:T=1490946462:S=ALNI_MYQ6n8vGeQs2YSM-c4rCXHPpymLPA; vim=218.223.2.174.1491293062530084; firstRef=direct; _ga=GA1.2.761611310.1491293061; cX_S=j139dw2puqj0vuh5; _rt.uid=1ADDCB56AD063FD75E823B4A5152E132E638FC9CD8431598A6D5E6AB693C2694; _rt.xd=b07ac195; _rt.cs=2; ismub=423797411834743263190747.1491293063672265; ismdi=b527e3b8-10c6-45e3-99b7-1978e2c90d3f; font-size=M; ismss=808e680eeddd00e34f704a797b0f1e8617dc9f3d86b151de0d2a41770136306fce6b8f300ef6043243bb9fbd13a213688e19aa49ffde37a488559341a24c4b61e495f8ca2fa3fcde2ee2520017f4ab884044f5842a6dbd707285f353450070dbd68804aaa366b0f30205b8b3bacfe0ae3084159c2488083d69ee4bd210814c2c8358aa81009c7d078772fc739a8c3a3b; ismnn=%26%2339640%3B%26%2326792%3B%26%2332%3B%26%2322826%3B%26%2337070%3B; ismuu=1ADDCB56AD063FD75E823B4A5152E132E638FC9CD8431598A6D5E6AB693C2694; ismal=5765af89be350b3f4be3071fd1021fd218583e00; _dc_gtm_UA-48397226-1=1; _td=16aec251-88c4-4873-af8e-382f40f9fb8e; cX_P=j139dw2rijwp5fjy
+Connection: keep-alive
+Upgrade-Insecure-Requests: 1
+
+
+HTTP/1.1 200 OK
+Content-Type: text/html; charset=utf-8
+Cache-Control: max-age=0, private, must-revalidate
+X-XSS-Protection: 1; mode=block
+X-Request-Id: 546fab37-ed45-48e4-bd76-50e9c89a6f9a
+X-Frame-Options: SAMEORIGIN
+X-Content-Type-Options: nosniff
+Date: Tue, 04 Apr 2017 08:12:33 GMT
+Set-Cookie: ismss=; path=/; expires=Thu, 01 Jan 1970 00:00:00 -0000
+Set-Cookie: ismal=; path=/; expires=Thu, 01 Jan 1970 00:00:00 -0000
+Set-Cookie: ismnn=; path=/; expires=Thu, 01 Jan 1970 00:00:00 -0000
+X-Cache: MISS
+Accept-Ranges: bytes
+Connection: keep-alive
+Vary: Accept-Encoding,User-Agent,Cookie
+Transfer-Encoding: chunked
+
+315
+<!DOCTYPE html>
+<html>
+<head>
+
+<meta charset="UTF-8">
+<title>ログアウト | ダイヤモンド・オンライン</title>
+<meta name="keyword" content="ダイヤモンド社,週刊ダイヤモンド,ウェブサイト,ビジネス雑誌,ビジネス誌,経済誌,経済雑誌,ウェブマガジン,ホームページ,ビジネス,経済,経営,戦略,マネー,投資,自己啓発" />
+<meta name="description" content="ダイヤモンド社が提供するビジネス情報サイト。ビジネスパーソンの知りたい「今」がわかるウェブマガジン。話題の時事・経済ニュースを独自の視点で斬る強力コラム満載！" />
+<meta property="fb:app_id" content="130096803730249" />
+<meta property="og:locale" content="ja_JP" />
+<meta property="og:site_
+b76
+name" content="ダイヤモンド・オンライン" />
+<meta property="og:title" content="ログアウト | ダイヤモンド・オンライン" />
+<meta property="og:image" content="https://dol.ismcdn.jp/common/dol/images/v1/logo.png" />
+<meta property="og:type" content="article" />
+<meta property="og:url" content="http://diamond.jp/auth/logout" />
+<meta property="og:description" content="ダイヤモンド社が提供するビジネス情報サイト。ビジネスパーソンの知りたい「今」がわかるウェブマガジン。話題の時事・経済ニュースを独自の視点で斬る強力コラム満載！" />
+<meta name="twitter:card" content="summary_large_image">
+<meta name="twitter:site" content="@dol_editors">
+<meta name="twitter:creator" content="@dol_editors">
+<meta name="twitter:domain" content="diamond.jp">
+<!--ou:common metatags-->
+
+<link rel="shortcut icon" sizes="16x16 32x32 64x64" type="image/vnd.microsoft.icon" href="/common/images/favicon.ico" />
+<link rel="apple-touch-icon" sizes="180x180" href="http://diamond.jp/common/images/apple-touch-icon-precomposed.png">
+<link rel="apple-touch-icon-precomposed" href="http://diamond.jp/common/images/apple-touch-icon-precomposed.png">
+
+<meta name="viewport" content="width=device-width">
+<link rel="stylesheet" href="https://dol.ismcdn.jp/resources/dol/css/v1/reset.css">
+<link rel="stylesheet" href="https://dol.ismcdn.jp/resources/dol/css/v1/base.css?rd=201703211606">
+<link rel="stylesheet" href="https://dol.ismcdn.jp/resources/dol/css/v1/article.css?rd=201703281725">
+
+<!--tags in head-->
+
+
+
+
+<script type='text/javascript'>
+  (function() {
+    var useSSL = 'https:' == document.location.protocol;
+    var src = (useSSL ? 'https:' : 'http:') +
+        '//www.googletagservices.com/tag/js/gpt.js';
+    document.write('<scr' + 'ipt src="' + src + '"></scr' + 'ipt>');
+  })();
+</script>
+<script type='text/javascript'>
+  googletag.cmd.push(function() {
+    googletag.defineSlot('/8631689/DolKiji_SupB', [[1, 1],[728, 90]], 'div-gpt-ad-1461631707098-0').addService(googletag.pubads());
+    googletag.defineSlot('/8631689/DolKiji_Billboard', [[1, 1], [728, 90], [970, 250]], 'div-gpt-ad-1461647438383-0').addService(googletag.pubads());
+    googletag.defineSlot('/8631689/DolKiji_TopRect', [[1, 1],[300, 250], [300, 500], [300, 600]], 'div-gpt-ad-1461631096170-0').addService(googletag.pubads());
+    googletag.defineSlot('/8631689/DolKiji_CenterRect', [[1, 1],[300, 250], [300, 500], [300, 600]], 'div-gpt-ad-1468371662197-0').addService(googletag.pubads());
+    googletag.defineSlot('/8631689/DolKiji_UnderRect', [[1, 1],[300, 250], [300, 500], [300, 600]], 'div-gpt-ad-1461647167331-0').addService(googletag.pubads());
+    googletag.defineSlot('/8631689/DolKiji_KijiUnder_LeftRect', [[1, 1],[300, 250]], 'div-gpt-ad-1461649292006-0').addService(googletag.pubads());
+    googletag.defineSlot('/8631689/DolKiji_KijiUnder_RightRect', [[1, 1],
+5ad
+[300, 250]], 'div-gpt-ad-1461646872384-0').addService(googletag.pubads());
+    googletag.defineSlot('/8631689/DolKiji_RightUnder_Scraper', [[1, 1],[300, 250], [300, 500], [300, 600]], 'div-gpt-ad-1461642642997-0').addService(googletag.pubads());
+    googletag.defineSlot('/8631689/dolkiji_ranking', ['fluid', [300, 76]], 'div-gpt-ad-1487671367381-0').addService(googletag.pubads());
+    googletag.defineSlot('/8631689/dolkiji_ranking_2', [[300, 76], 'fluid'], 'div-gpt-ad-1488872527911-0').addService(googletag.pubads());
+    googletag.defineSlot('/8631689/dolkiji_recommendedarticle', ['fluid', [300, 76]], 'div-gpt-ad-1487670991405-0').addService(googletag.pubads());
+    googletag.defineSlot('/8631689/dolkiji_recommendedarticle_2', ['fluid', [300, 76]], 'div-gpt-ad-1488872886513-0').addService(googletag.pubads());
+    googletag.defineSlot('/8631689/dolkiji_left_relatedarticle', ['fluid', [286, 273]], 'div-gpt-ad-1487671482624-0').addService(googletag.pubads());
+    
+    googletag.defineSlot('/8631689/dolkiji_right_relatedarticle', ['fluid', [286, 273]], 'div-gpt-ad-1487671423736-0').addService(googletag.pubads());
+    
+    googletag.defineSlot('/8631689/dolkiji_txt_1', [[820, 47], 'fluid'], 'div-gpt-ad-1487671056045-0').addService(googletag.pubads());
+    googletag.defineSlot('/8631689/dolkiji_txt_2', [[820, 47], 'fluid'], 'div-gpt-ad-1487671150738-0').addService(googletag.pubads());
+    googletag.defineSlot('/8631689/dolkiji_txt
+5ad
+_3', [[820, 47], 'fluid'], 'div-gpt-ad-1487671209292-0').addService(googletag.pubads());
+    googletag.defineSlot('/8631689/dolkiji_txt_4', [[820, 47], 'fluid'], 'div-gpt-ad-1487671263290-0').addService(googletag.pubads());
+    googletag.defineSlot('/8631689/dolkiji_txt_5', ['fluid', [820, 47]], 'div-gpt-ad-1487671311950-0').addService(googletag.pubads());
+    googletag.defineSlot('/8631689/dolkiji_txt_6', ['fluid', [820, 47]], 'div-gpt-ad-1488873033448-0').addService(googletag.pubads());
+    googletag.defineSlot('/8631689/dolkiji_txt_7', ['fluid', [820, 47]], 'div-gpt-ad-1488873127705-0').addService(googletag.pubads());
+    googletag.defineSlot('/8631689/dolkiji_txt_8', ['fluid', [820, 47]], 'div-gpt-ad-1488873191391-0').addService(googletag.pubads());
+    googletag.defineSlot('/8631689/dolkiji_latestarticle', ['fluid', [300, 76]], 'div-gpt-ad-1487671535100-0').addService(googletag.pubads());
+
+    googletag.pubads().enableSingleRequest();
+    googletag.pubads().collapseEmptyDivs();
+    googletag.pubads().enableSyncRendering();
+    googletag.pubads().setTargeting("Version","201703");
+    googletag.pubads().setTargeting("Category","other");
+    var dlgst = 'false';
+    if (document.cookie.indexOf('ismss')!=-1){
+      dlgst = 'true';
+    }
+    googletag.pubads().setTargeting("DolLogin",dlgst);
+    googletag.enableServices();
+  });
+</script>
+
+</head>
+<body class="common-list-page member-page">
+<script>
+  var lst = 'guest';
+  i
+5af
+f (document.cookie.indexOf('ismss')!=-1){
+    lst = 'member';
+  }
+
+  dataLayer = [{
+    'media': 'dol',
+    'category': 'other',
+    'column': '',
+    'date': '',
+    'member_id': lst,
+    'page': '',
+    'lastpage': 'false',
+    'skin': 'logout',
+    'tgid': (function(){try{return document.cookie.match(new RegExp("ismuu=(.*?)(?:;|$)"))[1];}catch(err){return ''}})(),
+    'diid': (function(){try{return document.cookie.match(new RegExp("ismdi=(.*?)(?:;|$)"))[1];}catch(err){return ''}})()
+  }];
+</script>
+
+<!-- スマパ：PC_body直下-->
+<script>
+(function () {
+	var gtid = 'other';
+	if (location.pathname.split('/')[1] === 'articles') { // 記事
+		gtid = '/article/' + location.pathname.split('/')[3];
+	} else if (location.pathname.split('/')[2] === 'login' && location.pathname.split('/')[3] === 'trial') { // トライアル
+		gtid = '/trial/' + location.pathname.split('/')[4];
+	} else if (location.pathname.split('/')[1] === 'list' && location.pathname.split('/')[2] === 'member') { // 会員限定コンテンツ
+		gtid = '/list/member/';
+	}
+	dataLayer.push({'gtid': gtid});
+}());
+</script>
+
+
+<div id="fb-root"></div>
+<script>(function(d, s, id) {
+  var js, fjs = d.getElementsByTagName(s)[0];
+  if (d.getElementById(id)) return;
+  js = d.createElement(s); js.id = id;
+  js.src = "//connect.facebook.net/ja_JP/sdk.js#xfbml=1&version=v2.8";
+  fjs.parentNode.insertBefore(js, fjs);
+}(document, 'script', 'facebook-jssdk'));</script>
+5ad
+
+  <div id="wrapper">
+    <header id="site-header">
+  <div class="header-content-wrap cf">
+    <div class="header-logo">
+      <a href="/"><img src="https://dol.ismcdn.jp/common/dol/images/v1/logo.png" width="162" alt="DIAMOND online"></a>
+    </div>
+    <div class="header-content">
+      <div class="cf">
+        <dl class="header-information">
+  <dt>お知らせ</dt>
+  <dd><a href="http://diamond.jp/list/member">期間限定、無料会員なら人気の書籍・雑誌が読める</a></dd>
+</dl>
+
+        <div class="header-sns-icons right">
+          <ul>
+            <li><a href="https://twitter.com/dol_editors" target="_blank"><img src="https://dol.ismcdn.jp/common/dol/images/v1/icon-twitter.png" width="40" alt="twitter"></a></li>
+            <li><a href="https://www.facebook.com/DiamondOnline" target="_blank"><img src="https://dol.ismcdn.jp/common/dol/images/v1/icon-facebook.png" width="40" alt="facebook"></a></li>
+          </ul>
+        </div>
+      </div>
+      <div class="cf">
+        <div class="header-search-box search-box left">
+          <form id="search" action="/search">
+            <input type="text" placeholder="Search" name="fulltext">
+            <input type="submit" value="">
+          </form>
+         <div class="attention-keyword">
+            <p>注目のキーワード</p>
+            <ul class="keyword">
+              <li><a href="/search?fulltext=%E3%83%A4%E3%83%9E%E3%83%88" class="color-inherit">ヤマト
+5bb
+</a></li>
+              <li><a href="/search?fulltext=%E6%A3%AE%E5%8F%8B%E5%AD%A6%E5%9C%92" class="color-inherit">森友学園</a></li>
+              <li><a href="/search?fulltext=%E5%B0%8F%E6%B1%A0%E7%99%BE%E5%90%88%E5%AD%90" class="color-inherit">小池百合子</a></li>
+            </ul>
+          </div>
+
+        </div>
+        <div class="header-member-link right">
+            <ul class="list-style-vertical-var bold">
+              <li><a href="/list/member">無料会員登録</a></li>
+              <li><a href="/auth/login">ログイン</a></li>
+            </ul>
+        </div>
+      </div>
+      <nav id="global-nav">
+        <ul>
+          <!--<li class="active"><a href="/">HOME</a></li>-->
+          <li class="active"><a href="/">HOME</a></li>
+          <li><a href="/subcategory/%E6%94%BF%E6%B2%BB%E3%83%BB%E7%B5%8C%E6%B8%88">政治・経済</a></li>
+          <li><a href="/subcategory/%E5%9B%BD%E9%9A%9B">国際</a></li>
+          <li><a href="/subcategory/%E7%B5%8C%E5%96%B6%E3%83%BB%E6%88%A6%E7%95%A5">経営・戦略</a></li>
+          <li><a href="/subcategory/%E7%A4%BE%E4%BC%9A">社会</a></li>
+          <li><a href="/subcategory/%E3%82%AD%E3%83%A3%E3%83%AA%E3%82%A2%E3%83%BB%E3%82%B9%E3%82%AD%E3%83%AB">キャリア・スキル</a></li>
+          <li><a href="/subcategory/%E3%83%A9%E3%82%A4%E3%83%95">ライフ</a></li>
+        </ul>
+      </nav>
+    </div>
+  </div>
+</header>
+
+    <div id="contents" class="cf">
+      <div class="top-ban
+b5a
+ner">
+<!-- /8631689/DolKiji_Billboard -->
+<div id='div-gpt-ad-1461647438383-0'>
+<script type='text/javascript'>
+googletag.cmd.push(function() { googletag.display('div-gpt-ad-1461647438383-0'); });
+</script>
+</div>
+</div>
+
+      <ul class="breadcrumb" itemscope itemtype="http://schema.org/BreadcrumbList">
+  <li itemprop="itemListElement" itemscope itemtype="http://schema.org/ListItem"><a itemprop="item" href="/"><span itemprop="name">HOME</span></a><meta itemprop="position" content="0"></li>
+</ul>
+
+
+      <main id="main-column" class="left">
+        <h1 class="page-title">ログアウト</h1>
+        <div class="article-body cf info-body">
+<p>ダイヤモンド・オンラインからログアウトしました。</p>
+        </div>
+      </main>
+
+      <div id="sub-column" class="right">
+        <div class="sub-ad">
+<!-- /8631689/DolKiji_TopRect -->
+<div id='div-gpt-ad-1461631096170-0'>
+<script type='text/javascript'>
+googletag.cmd.push(function() { googletag.display('div-gpt-ad-1461631096170-0'); });
+</script>
+</div>
+</div>
+
+<div class="content sub-ranking">
+  <p class="content-title">ランキング</p>
+  <ul class="ranking-tab">
+    <li class="active">１時間</li>
+    <li>昨日</li>
+    <li>１週間</li>
+    <li>いいね！</li>
+  </ul>
+  <ul id="ranking-tab-content-0" class="ranking-tab-content">
+    <li class="article-box sub-article-box"><a class="article-info cf" href="/articles/-/123483" ><p class="title">エリート男喰い日記「暇な女子大生」がバカ受けする訳</p></a></li>
+    <li class="article-box sub-article-box"><a class="article-info cf" href="/articles/-/123485" ><p class="title">自民党「愛煙家」議員暗躍！受動喫煙対策法案は骨抜きに</p></a></li>
+    <li class="article-box sub-article-box"><a class="article-info cf" href="/articles/-/123387" ><p class="title">富士フイルム、デジカメの主役を一眼から奪還するための秘策</p></a></li>
+    <li class="article-box sub-article-box"><a class="article-info cf" href="/articles/-/123309" ><p class="title">東芝の危機は経営者への過度の権限集中が招いた</p></a></li>
+    <li class="article-box sub-article-box"><a class="article-info cf" href="/articles/-/123484" ><p class="title">採用面接で候補者にダマされない究極の方法<br /></p></a></li>
+  </ul>
+  <ul id="ranking-tab-content-1" class="ranking-tab-content" style="display:none">
+    <li class="article-box sub-article-box member-only"><a class="article-info cf" href="/articles/-/123360" ><p class="title">東芝赤字1兆円で半導体を売ったら後に何が残るのか</p></a></li>
+    <li class="article-box sub-article-box"><a class="article-info cf" href="/articles/-/123313" ><p class="title">「一生太らない体」を作る男性のためのダイエット計画</p></a></li>
+    <li class="article-box sub-article-box"><a 
+5ad
+class="article-info cf" href="/articles/-/123239" ><p class="title">年収1900万円も！15業種80社調査で見えた「給料」の実態</p></a></li>
+    <li class="article-box sub-article-box"><a class="article-info cf" href="/articles/-/123073" ><p class="title">大企業より中小企業で働く方がいいこれだけの理由</p></a></li>
+    <li class="article-box sub-article-box member-only"><a class="article-info cf" href="/articles/-/123364" ><p class="title">「なぜ？」が腹落ちする快感に導かれた出口治明の読書人生・仕事人生</p></a></li>
+  </ul>
+  <ul id="ranking-tab-content-2" class="ranking-tab-content" style="display:none">
+    <li class="article-box sub-article-box"><a class="article-info cf" href="/articles/-/123005" ><p class="title">「ブーメランの女王」辻元清美氏の戦略はどこが間違っているのか</p></a></li>
+    <li class="article-box sub-article-box member-only"><a class="article-info cf" href="/articles/-/122535" ><p class="title">レオパレス21を訴えた賃貸オーナー129人が怒る理由</p></a></li>
+    <li class="article-box sub-article-box"><a class="article-info cf" href="/articles/-/122997" ><p class="title">てるみくらぶ破綻に見る、賢い消費者も見抜けない「格安」の罠</p></a></li>
+    <li class="article-box sub-article-box"><a class="article-info cf" href="/articles/-/122707" ><p class="title">森友問題
+11
+の泥沼化に�
+5a8
+�邸も怯える、「安倍独裁」が裏目に</p></a></li>
+    <li class="article-box sub-article-box"><a class="article-info cf" href="/articles/-/122757" ><p class="title">日本の女性がどんどんキレイになっている理由をデータで確かめる</p></a></li>
+  </ul>
+  <ul id="ranking-tab-content-3" class="ranking-tab-content" style="display:none">
+    <li class="article-box sub-article-box"><a class="article-info cf" href="/articles/-/123003" ><p class="title">中国人が辛辣指摘「日本企業9つの問題点」に知日派も喝采</p></a></li>
+    <li class="article-box sub-article-box"><a class="article-info cf" href="/articles/-/123005" ><p class="title">「ブーメランの女王」辻元清美氏の戦略はどこが間違っているのか</p></a></li>
+    <li class="article-box sub-article-box"><a class="article-info cf" href="/articles/-/122234" ><p class="title">亡くなった社員の子まで<br />会社が面倒を見る理由</p></a></li>
+    <li class="article-box sub-article-box"><a class="article-info cf" href="/articles/-/122997" ><p class="title">てるみくらぶ破綻に見る、賢い消費者も見抜けない「格安」の罠</p></a></li>
+    <li class="article-box sub-article-box"><a class="article-info cf" href="/articles/-/123222" ><p class="title">日本の常識を打ち破る公立美術館が、なぜ金沢に生まれたのか</p></a></li>
+  </ul>
+  <ul class="
+5af
+ranking-tab-content">
+    <li class="article-box sub-article-box ad">
+    <!-- /8631689/dolkiji_ranking -->
+<div id='div-gpt-ad-1487671367381-0'>
+<script>
+googletag.cmd.push(function() { googletag.display('div-gpt-ad-1487671367381-0'); });
+</script>
+</div>
+</li>
+</ul>
+<ul class="ranking-tab-content">
+  <li class="article-box sub-article-box ad">
+<!-- /8631689/dolkiji_ranking_2 -->
+<div id='div-gpt-ad-1488872527911-0'>
+<script>
+googletag.cmd.push(function() { googletag.display('div-gpt-ad-1488872527911-0'); });
+</script>
+</div>
+
+    </li>
+  </ul>
+  
+  <div class="list-link"><a class="link-icon" href="/list/ranking">ランキング一覧</a></div>
+</div>
+
+
+<div class="sub-ad">
+<!-- /8631689/DolKiji_CenterRect --> <div id='div-gpt-ad-1468371662197-0'> <script type='text/javascript'> googletag.cmd.push(function() { googletag.display('div-gpt-ad-1468371662197-0'); }); </script> </div>
+</div>
+
+
+<!-- スマパ：PC中面_おすすめ記事-->
+<div class="content sub-recent" id="dol17_article_recm_pc" style="display:none;">
+  <p class="content-title">おすすめ記事</p>
+  <ul>
+    <li class="article-box sub-article-box" id="dol17_article_recm_pc_1"></li>
+    <li class="article-box sub-article-box" id="dol17_article_recm_pc_2"></li>
+    <li class="article-box sub-article-box" id="dol17_article_recm_pc_3"></li>
+    <li class="article-box sub-article-box" id="dol17_article_recm_pc_4"></li>
+<li class="article-box sub-
+5b2
+article-box">
+<!-- /8631689/dolkiji_recommendedarticle -->
+<div id='div-gpt-ad-1487670991405-0'>
+<script>
+googletag.cmd.push(function() { googletag.display('div-gpt-ad-1487670991405-0'); });
+</script>
+</div>
+</li>
+<li class="article-box sub-article-box">
+<!-- /8631689/dolkiji_recommendedarticle_2 -->
+<div id='div-gpt-ad-1488872886513-0'>
+<script>
+googletag.cmd.push(function() { googletag.display('div-gpt-ad-1488872886513-0'); });
+</script>
+</div>
+</li>
+</ul>
+</div>
+
+<div class="sub-ad">
+<!-- /8631689/DolKiji_UnderRect -->
+<div id='div-gpt-ad-1461647167331-0'>
+<script type='text/javascript'>
+googletag.cmd.push(function() { googletag.display('div-gpt-ad-1461647167331-0'); });
+</script>
+</div>
+</div>
+
+<div class="content sub-recent">
+  <p class="content-title">最新記事</p>
+  <ul>
+    <li class="article-box sub-article-box"><a class="article-info cf" href="/articles/-/123480" ><p class="title">WBC組がプロ野球開幕3連戦で不調、国際大会の影響はあるのか</p></a></li>
+    <li class="article-box sub-article-box"><a class="article-info cf" href="/articles/-/123343" ><p class="title">日銀黒田総裁あと1年、退任でも再任でも「出口」は見えず</p></a></li>
+    <li class="article-box sub-article-box"><a class="article-info cf" href="/articles/-/123485" ><p class="title">自民党「愛煙家」議員暗躍！受動喫煙対策法案は骨抜きに</p></a></li>
+    <li class="art
+5ac
+icle-box sub-article-box"><a class="article-info cf" href="/articles/-/123484" ><p class="title">採用面接で候補者にダマされない究極の方法<br /></p></a></li>
+    <li class="article-box sub-article-box"><a class="article-info cf" href="/articles/-/123483" ><p class="title">エリート男喰い日記「暇な女子大生」がバカ受けする訳</p></a></li>
+    <li class="article-box sub-article-box pr">
+    <!-- /8631689/dolkiji_latestarticle -->
+<div id='div-gpt-ad-1487671535100-0'>
+<script>
+googletag.cmd.push(function() { googletag.display('div-gpt-ad-1487671535100-0'); });
+</script>
+</div>
+
+    </li>
+  </ul>
+  <div class="list-link"><a class="link-icon" href="/category/dol">最新記事一覧</a></div>
+</div>
+
+
+<div class="sub-ad">
+<!-- /8631689/DolKiji_RightUnder_Scraper -->
+<div id='div-gpt-ad-1461642642997-0'>
+<script type='text/javascript'>
+googletag.cmd.push(function() { googletag.display('div-gpt-ad-1461642642997-0'); });
+</script>
+</div>
+</div>
+
+      </div>
+    </div>
+
+    <div id="top-btn">TOP</div>
+<footer id="site-footer">
+  <div class="footer-content-wrap">
+    <div class="footer-links footer-links-domestic">
+      <ul class="list-style-vertical-var">
+        <li><a href="/list/info/about">このサイトについて</a></li>
+        <li class="break"><a href="http://www.diamond.co.jp/legal/" target="_blank">プライバシーポリシー・著作権</a></li>
+        <li><a href="/l
+5ae
+ist/info/support">お問い合わせ</a></li>
+        <li><a href="http://www.diamond.co.jp/company/" target="_blank">会社案内</a></li>
+        <li><a href="http://mediadata.diamond.ne.jp/" target="_blank">広告掲載</a></li>
+      </ul>
+    </div>
+    <div class="footer-links footer-links-diamond">
+      <p class="heading">ダイヤモンド社のサイト</p>
+      <ul class="list-style-vertical-var">
+        <li><a href="http://dw.diamond.jp" target="_blank">週刊ダイヤモンド</a></li>
+        <li><a href="http://www.dhbr.net/" target="_blank">DIAMONDハーバード・ビジネス・レビュー</a></li>
+        <li><a href="http://diamond.jp/list/books" target="_blank">書籍オンライン</a></li>
+        <li><a href="http://diamond.jp/zai" target="_blank">ザイ・オンライン</a></li>
+        <li class="break"><a href="http://zai.diamond.jp/fx" target="_blank">ザイFX！</a></li>
+        <li><a href="http://diamond.jp/list/six" target="_blank">Six online</a></li>
+        <li><a href="http://dquarterly.com/" target="_blank">DIAMOND Quarterly</a></li>
+        <li><a href="http://diamond.jp/go/pb/sumai161215/index.html" target="_blank">「週刊ダイヤモンド」住宅別冊Online版</a></li>
+        <li><a href="http://ho.home-plaza.jp/diamond/" target="_blank">住まい探し</a></li>
+
+      </ul>
+    </div>
+    <p><small class="footer-copyright">DIAMOND,Inc. All Rights Reserved</small></p>
+  </div>
+
+  
+<
+6
+/foote
+5b4
+r>
+  </div>
+<script src="//ajax.googleapis.com/ajax/libs/jquery/3.1.0/jquery.min.js"></script>
+<script src="//cdnjs.cloudflare.com/ajax/libs/jquery-cookie/1.4.1/jquery.cookie.min.js"></script>
+<link rel="stylesheet" href="https://dol.ismcdn.jp/common/dol/js/lib/fancybox2/jquery.fancybox.css">
+<script src="https://dol.ismcdn.jp/common/dol/js/lib/fancybox2/jquery.fancybox.pack.js"></script>
+<script src="https://dol.ismcdn.jp/resources/dol/js/v1/tools.js?mod=20170307"></script>
+<script src="https://apis.google.com/js/platform.js" async defer>
+  {lang: 'ja'}
+</script>
+<script type="text/javascript" src="https://b.st-hatena.com/js/bookmark_button.js" charset="utf-8" async="async"></script>
+
+<div class="measurement" style="display:none;">
+<script src="/oo/d/l.js"></script>
+<script>
+var miu = new MiU();
+miu.locationInfo['media'] = 'diamond.jp';
+miu.locationInfo['skin'] = 'auth/logout';
+miu.locationInfo['id'] = '';
+miu.locationInfo['category'] = '';
+miu.locationInfo['subcategory'] = ',,';
+miu.locationInfo['model'] = '';
+miu.locationInfo['modelid'] = '';
+console.log(miu.locationInfo);
+miu.go();
+</script><noscript><div><img style="display:none;" src="/oo/d/n.gif" alt="" width="1" height="1"></div></noscript>
+</div>
+
+<!-- UI -->
+<script type="text/javascript">
+var uilid  = '';
+var uigr_1   = ''; var uigr_2 = ''; var uigr_3 = ''; var uigr_4 = ''; var uigr_5 = 'dol_only';
+var uigr_6   = ''; var uigr_7 = ''; var uigr_8 = ''; var uigr_9 = ''; var uigr
+5b4
+_10 = '';
+//----- DO NOT ALTER BELOW THIS LINE ---------
+// WITHOUT F.P.C.
+var uiinit   = uiinit || Math.floor(Math.random() * 9000000) + 1000000;
+var uihost   = uihost || (("https:" == document.location.protocol) ? "https://bs." : "http://b03.")+"nakanohito.jp/b1/";
+document.write("<img id='id_shellfish' src='"+uihost+"?uisv=3&id=31027&mode=default&h=d9d7&rand="+uiinit+"&url="+encodeURIComponent(document.location)+"&ref="+encodeURIComponent(document.referrer)+"&uigr_1="+encodeURIComponent(uigr_1)+"&uigr_2="+encodeURIComponent(uigr_2)+"&uigr_3="+encodeURIComponent(uigr_3)+"&uigr_4="+encodeURIComponent(uigr_4)+"&uigr_5="+encodeURIComponent(uigr_5)+"&uigr_6="+encodeURIComponent(uigr_6)+"&uigr_7="+encodeURIComponent(uigr_7)+"&uigr_8="+encodeURIComponent(uigr_8)+"&uigr_9="+encodeURIComponent(uigr_9)+"&uigr_10="+encodeURIComponent(uigr_10)+"&lv="+uilid+"&sb="+encodeURIComponent(document.title)+"&eflg=1' border='0' width='1' height='1' alt='' />");
+document.write('<span id="id_bivalves"><\/span>'); document.write(decodeURI("%3Cscr"+"ipt src='"+uihost+"bivalves.js' charset='utf-8' type='text/javascript'%3E%3C/script%3E")); var uiLimit = 3000, uiInterval = 50, uiTime = 0; var uiLoadedId = setInterval(function(){ if ((typeof(Vesicomyid) != "undefined") && (typeof(Vesicomyid.Bivalves) != "undefined") && (typeof(Vesicomyid.Bivalves.Loaded) == "function") ) { clearInterval(uiLoadedId); try { var lb = new Vesicomyid.Bivalves(31027, uiinit); lb.host 
+b68
+= uihost; lb.uisv = 3; lb.init(); } catch (err) { } } else if ((uiTime += uiInterval) > uiLimit) { clearInterval(uiLoadedId); } }, uiInterval);
+//]]>
+</script>
+<!-- /UI -->
+
+<!-- cXense script begin -->
+<div id="cX-root" style="display:none"></div>
+<script type="text/javascript">
+var cX = cX || {}; cX.callQueue = cX.callQueue || [];
+cX.callQueue.push(['setSiteId', '9222314110606567875']);
+cX.callQueue.push(['sendPageViewEvent']);
+</script>
+<script type="text/javascript">
+(function() { try { var scriptEl = document.createElement('script'); scriptEl.type = 'text/javascript'; scriptEl.async = 'async';
+scriptEl.src = ('https:' == document.location.protocol) ? 'https://scdn.cxense.com/cx.js' : 'http://cdn.cxense.com/cx.js';
+var targetEl = document.getElementsByTagName('script')[0]; targetEl.parentNode.insertBefore(scriptEl, targetEl); } catch (e) {};} ());
+</script>
+<!-- cXense script end -->
+
+<!-- collect -->
+<script type="text/javascript" src="/oo/cl.js"></script>
+<script type="text/javascript">
+ ISMLIB.fire({
+  'ism_article_id':'',
+  'ism_skin':'auth/logout',
+  'ism_category':'',
+  'ism_subcategories':[],
+  'ism_keywords':[],
+  'ism_authors':[],
+  'ism_title':'',
+  'ism_page':0,
+  'ism_totalpage':0,
+  'ism_lastpage':'no',
+  'ism_model':'',
+  'ism_modelid':'',
+  'ism_themeportal':'',
+  'ism_media':'diamond.jp'
+ });
+</script>
+
+
+
+<!-- PC_</body>直上 -->
+<script src="//js.rtoaster.jp/Rtoaster.js" type="text/javascript"></script>
+<script>
+var rComCookie = function(_name) {
+	var neq = _name + '=';
+	var ca = document.cookie.split(';');
+	for(var i=0; i<ca.length; i++) {
+		var c = ca[i];
+		while (c.charAt(0)==' ') { c = c.substring(1,c.length); }
+		if (c.indexOf(neq) == 0) { return c.substring(neq.length,c.length); }
+	}
+	return null;
+};
+var rtUser = '';
+var devFlag = '';
+if (rComCookie('ismuu')) { rtUser = rComCookie('ismuu') }
+if (navigator.userAgent.match(/iPhone|Android.*Mobile|iPod|Windows.*Phone/i)) { devFlag = 'SP' } else { devFlag = 'PC' }
+var rtTrack = dataLayer[0];
+rtTrack['device'] = devFlag;
+// RToaster
+Rtoaster.init("RTA-2a7d-0e13347466d0", rtUser);
+Rtoaster.track(rtTrack);
+Rtoaster.recommendNow('auto_recommend', 'dol17_top_recm_pc', 'dol17_article_relate_pc', 'dol17_article_recm_pc');
+//Rtoaster.recommendNow('recommend_a', 'dol17_top_recm_sp', 'dol17_article_relate_sp', 'dol17_article_recm_sp');
+</script>
+
+<!-- Google Tag Manager -->
+<noscript><iframe src="//www.googletagmanager.com/ns.html?id=GTM-MB8ZLX"
+height="0" width="0" style="display:none;visibility:hidden"></iframe></noscript>
+<script>(function(w,d,s,l,i){w[l]=w[l]||[];w[l].push({'gtm.start':
+new Date().getTime(),event:'gtm.js'});var f=d.getElementsByTagName(s)[0],
+j=d.createElement(s),dl=l!='dataLayer'?'&l='+l:'';j.async=true;j.src=
+'//www.googletagmanager.com/gtm.js?id='+i+dl;f.parentNode.insertBefore(j,f);
+})(window,document,'script','dataLayer','GTM-MB8ZLX');</script>
+
+9a
+<!-- End Google Tag Manager -->
+
+<script>
+function clicktr(e){ ga('send', 'event', 'Trial', 'click', e.href.split('/')[4]);}
+</script>
+</body>
+</html>
+0
+

@@ -1,0 +1,30 @@
+POST https://ssl.kakaku.com/id/changepass.asp HTTP/1.1
+Host: ssl.kakaku.com
+User-Agent: Mozilla/5.0 (Windows NT 6.1; WOW64; rv:51.0) Gecko/20100101 Firefox/51.0
+Accept: text/html,application/xhtml+xml,application/xml;q=0.9,*/*;q=0.8
+Accept-Language: ja,en-US;q=0.7,en;q=0.3
+Referer: https://ssl.kakaku.com/id/changepass.asp?ticket=288462212eca40c5913c33d723b935e0
+Cookie: s_royal=kakaku%3A701-2022030%3A5%2Cpc%3A701-2016392%3A3; bd=1a0be62aa2dd4a5ba0ae8d66167283376; __gads=ID=fd7084267cad15f0:T=1485485137:S=ALNI_MY6RaIueTQKY970w3DJu1hLXGNbWA; kakakujpchk=jp; kakakuusr=VqpP9PUU09i_1487232295025; __ulfpc=201702161717587998; cgmsr=r2; cgmsb=b2; MalltagRoute=02710%2C%2C%2C%2C1488181229018; s_cc=true; s_nr=1488181810906; s_sq=kakakucomkakakucom%3D%2526pid%253D%25255Bid%25255D%2525E4%2525BE%2525A1%2525E6%2525A0%2525BC.com%252520-%252520%2525E3%252583%252591%2525E3%252582%2525B9%2525E3%252583%2525AF%2525E3%252583%2525BC%2525E3%252583%252589%2525E3%252581%2525AE%2525E5%252586%25258D%2525E8%2525A8%2525AD%2525E5%2525AE%25259A%2526pidt%253D1%2526oid%253Dhttps%25253A%25252F%25252Fssl.kakaku.com%25252Fimages%25252Fid%25252Fbtn_pass_reset_over.png%2526ot%253DIMAGE; H_Badge=1; ASPSESSIONIDSSSSCRBA=APCDNOECNCBIKJCDFCGBNKJP
+Connection: close
+Upgrade-Insecure-Requests: 1
+Content-Type: application/x-www-form-urlencoded
+Content-Length: 120
+
+txtPasswordNew=password002&txtPasswordNewConf=password002&x=171&y=17&ticket=288462212eca40c5913c33d723b935e0&HidReload=1
+HTTP/1.1 302 Object moved
+Cache-Control: private
+Pragma: no-cache
+Content-Length: 150
+Content-Type: text/html
+Expires: Mon, 27 Feb 2017 07:49:09 GMT
+Location: changepassend.asp
+Server: Microsoft-IIS/7.5
+Set-Cookie: IDCore=KSH=d822388ba9de409e9fd191821af5ae9b; domain=kakaku.com; path=/; expires=Sat, 26-Aug-2017 07:50:09 GMT; HttpOnly
+Set-Cookie: ls=kc; expires=Sat, 26-Aug-2017 07:50:08 GMT; domain=kakaku.com; path=/
+X-Powered-By: ASP.NET
+X-Frame-Options: SAMEORIGIN
+Date: Mon, 27 Feb 2017 07:50:08 GMT
+Connection: close
+
+<head><title>オブジェクト移動</title></head>
+<body><h1>オブジェクトは移動しました</h1>このオブジェクトは <a HREF="changepassend.asp">ここ</a>.</body>

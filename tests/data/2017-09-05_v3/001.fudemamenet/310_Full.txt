@@ -1,0 +1,34 @@
+POST https://ssl.fudemame.net/auth/myid/pw_confirm HTTP/1.1
+Host: ssl.fudemame.net
+User-Agent: Mozilla/5.0 (Windows NT 6.1; WOW64; rv:52.0) Gecko/20100101 Firefox/52.0
+Accept: text/html,application/xhtml+xml,application/xml;q=0.9,*/*;q=0.8
+Accept-Language: ja,en-US;q=0.7,en;q=0.3
+Accept-Encoding: gzip, deflate, br
+Referer: https://ssl.fudemame.net/auth/myid/pw_confirm
+Cookie: _ga=GA1.2.91021461.1490941344; _ga=GA1.3.91021461.1490941344; _session_id=f39a7cd1b8f88a0a41f544cdc1a8cfc3; _dc_gtm_UA-13063075-23=1; _dc_gtm_UA-13063075-10=1; _gali=contentsRegist; _gali=contentsRegist
+Connection: keep-alive
+Upgrade-Insecure-Requests: 1
+Content-Type: application/x-www-form-urlencoded
+Content-Length: 246
+
+authenticity_token=AZ83Op%2Foiyg2bD60M4X8nn8kbO8DcjLQsoEXn1UXVE8%3D&password=Password001&password_confirm=Password001&my_id=crawlingtest1000&kana_last_name=%E3%82%BF%E3%82%AB%E3%83%8F%E3%82%B7&kana_first_name=%E3%83%92%E3%83%87%E3%82%AD&x=91&y=19
+HTTP/1.1 302 Found
+Cache-Control: no-cache
+Content-Type: text/html; charset=utf-8
+Date: Mon, 03 Apr 2017 08:15:26 GMT
+Location: https://ssl.fudemame.net/auth/myid/pw_completed
+Server: Apache
+Set-Cookie: _session_id=f39a7cd1b8f88a0a41f544cdc1a8cfc3; path=/; expires=Mon, 03-Apr-2017 08:45:27 GMT; secure; HttpOnly
+Status: 302 Found
+X-Powered-By: Phusion Passenger 4.0.59
+X-Rack-Cache: invalidate, pass
+X-Request-Id: 79959b6a07e8dcd05a64e7df4904ff4a
+X-Runtime: 0.222059
+X-UA-Compatible: IE=Edge,chrome=1
+transfer-encoding: chunked
+Connection: keep-alive
+
+71
+<html><body>You are being <a href="https://ssl.fudemame.net/auth/myid/pw_completed">redirected</a>.</body></html>
+0
+

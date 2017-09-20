@@ -1,0 +1,254 @@
+POST https://cybozulive.com/password/send HTTP/1.1
+Host: cybozulive.com
+User-Agent: Mozilla/5.0 (Windows NT 6.1; WOW64; rv:51.0) Gecko/20100101 Firefox/51.0
+Accept: text/html,application/xhtml+xml,application/xml;q=0.9,*/*;q=0.8
+Accept-Language: ja,en-US;q=0.7,en;q=0.3
+Referer: https://cybozulive.com/password/send
+Cookie: __ctc=0oDq2liqccNNXhKjCeuYAg==; __utma=224468744.859744565.1487565255.1487921170.1488274748.8; __utmz=224468744.1488274748.8.5.utmcsr=google|utmccn=(organic)|utmcmd=organic|utmctr=(not%20provided); _ga=GA1.2.859744565.1487565255; __utma=1.859744565.1487565255.1487909691.1488275165.3; __utmz=1.1487565260.1.1.utmcsr=(direct)|utmccn=(direct)|utmcmd=(none); JSESSIONID=30960D1D16EC229761FE25971638C0CA; __utmb=224468744.4.10.1488274748; __utmc=224468744; __utmb=1.2.10.1488275165; __utmc=1; __utmt=1; _dc_gtm_UA-84876138-6=1; _gali=loginForm
+Connection: close
+Upgrade-Insecure-Requests: 1
+Content-Type: application/x-www-form-urlencoded
+Content-Length: 295
+
+mailAddress=aaaa%40bbbb.com&mailAddressConfirm=aaaa%40bbbb.co.jp&czJzdHJ1dHMuQkFTRTY0X0ZPUk1BVDpzMnN0cnV0cy5BQ1RJT05fRVhQUkVTU0lPTj0lNDAlN0JwYXNzd29yZF9zZW5kQWN0aW9uLmRvU2VuZCU3RA%3D%3D=%E9%80%81%E4%BF%A1%E3%81%99%E3%82%8B&org.apache.struts.taglib.html.TOKEN=ae74e990-1c07-4575-8eec-3b867b864012
+HTTP/1.1 200 OK
+Server: nginx
+Date: Tue, 28 Feb 2017 09:51:34 GMT
+Content-Type: text/html;charset=UTF-8
+Transfer-Encoding: chunked
+Connection: close
+Vary: Accept-Encoding
+Cache-Control: no-cache
+X-Cybozu-Status-Code: 601
+X-Frame-Options: SAMEORIGIN
+Strict-Transport-Security: max-age=315360000; includeSubDomains; preload;
+X-UA-Compatible: IE=Edge
+X-Content-Type-Options: nosniff
+X-XSS-Protection: 1; mode=block
+
+2234
+
+
+
+
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+<html xmlns="http://www.w3.org/1999/xhtml">
+<head>
+<meta http-equiv="content-type" content="text/html; charset=utf-8" />
+<meta http-equiv="content-style-type"  content="text/css" />
+<meta http-equiv="content-script-type" content="text/javascript" />
+<meta http-equiv="X-UA-Compatible" content="IE=edge" />
+<meta name="keywords" content="無料,グループウェア,プロジェクト,クラウド,PTA,イベント運営" />
+<meta name="description" content="サイボウズLiveは、グループチャットや掲示板、ファイル共有など、チーム運営に必要な機能がそろった「チームのためのグループウェア」です。すべて無料で利用できます。PTA、自治会、おやじの会、NPO、イベント運営、企業間プロジェクトなど、様々なシーンで利用できます。" />
+<meta http-equiv="Imagetoolbar" content="no" />
+
+<meta property="og:site_name" content="サイボウズLive" />
+<meta property="og:type" content="article" />
+<meta property="og:title" content="プロジェクトは情報共有で成功する : 無料コラボレーションツール サイボウズLive" />
+<meta property="og:image" content="https://cybozulive.com/static/11417123b1/images/og_image.png" />
+<meta property="og:description" content="サイボウズLiveは、グループチャットや掲示板、ファイル共有など、チーム運営に必要な機能がそろった「チームのためのグループウェア」です。すべて無料で利用できます。PTA、自治会、おやじの会、NPO、イベント運営、企業間プロジェクトなど、様々なシーンで利用できます。" />
+<meta property="og:url" content="https://cybozulive.com" />
+
+<link rel="stylesheet" type="text/css" href="https://cybozulive.com/static/11417123b1/css/common/base.css" media="screen" />
+<link rel="stylesheet" type="text/css" href="https://cybozulive.com/static/11417123b1/css/common/common.css" media="screen" />
+<link rel="stylesheet" type="text/css" href="https://cybozulive.com/static/11417123b1/css/common/lightbox.css" media="screen" />
+<link rel="stylesheet" type="text/css" href="https://cybozulive.com/static/11417123b1/css/common/colorbox.css" media="screen" />
+<link rel="stylesheet" type="text/css" href="https://cybozulive.com/static/11417123b1/css/error.css" media="screen" />
+<link rel="stylesheet" type="text/css" href="https://cybozulive.com/static/11417123b1/css/syntaxHighlighter/shCore.css" media="screen" />
+<link rel="stylesheet" type="text/css" href="https://cybozulive.com/static/11417123b1/css/syntaxHighlighter/shThemeDefault.css" media="screen" />
+<link rel="stylesheet" type="text/css" href="https://cybozulive.com/static/11417123b1/css/common/print.css" media="print" />
+    
+            <link rel="stylesheet" type="text/css" href="https://cybozulive.com/static/11417123b1/css/application/passwordRemind.css" media="screen,print" />
+    <link rel="stylesheet" type="text/css" href="https://cybozulive.com/static/11417123b1/css/jquery.qtip.css" media="screen" />
+<link rel="stylesheet" type="text/css" href="https://cybozulive.com/static/11417123b1/css/error.css" media="screen" />
+
+<link rel="start" href="/" title="home" />
+<link rel="apple-touch-icon" href="https://cybozulive.com/static/11417123b1/images/iphone/apple-touch-icon.png" />
+
+<title>パスワードを忘れた方 - サイボウズLive</title>
+<link rel="shortcut icon" href="https://cybozulive.com/static/11417123b1/images/favicon.ico" /> 
+
+<script type="text/javascript">
+<!--
+var CbAries = window.CbAries || new Object();
+if( ! CbAries.Global )
+{
+    CbAries.Global = new Object;
+}
+
+CbAries.Global.cybozuStatus = 200;
+CbAries.Global.lastAccessDate = '';
+
+CbAries.Global.setStatic = function( path, param ) {
+    var result = 'https://cybozulive.com/static/11417123b1' + path + '';
+
+    if( typeof param !== "undefined" ) {
+        var match= new RegExp( "\\?" );
+        if( ''.match( match ) ) {
+            result += '&' + param;
+        } else {
+            result += '?' + param;
+        }
+    }
+
+    return result;
+};
+CbAries.Global.setRelative = function( path, param ) {
+    var result = '' + path + '';
+
+    if( typeof param !== "undefined" ) {
+        var match= new RegExp( "\\?" );
+        if( ''.match( match ) ) {
+            result += '&' + param;
+        } else {
+            result += '?' + param;
+        }
+    }
+
+    var match= new RegExp( "\\?" );
+    if( result.match( match ) ) {
+        result += '&dummy=' + new Date().getTime();
+    }
+    else {
+        result += '?dummy=' + new Date().getTime();
+    }
+
+    return result;
+};
+CbAries.Global.setAbsolute = function( path, param ) {
+    var result = 'https://cybozulive.com' + path + '';
+
+    if( typeof param !== "undefined" ) {
+        var match= new RegExp( "\\?" );
+        if( ''.match( match ) ) {
+            result += '&' + param;
+        } else {
+            result += '?' + param;
+        }
+    }
+
+    result = CbAries.Global.addDummyParam( result );
+
+    return result;
+};
+CbAries.Global.setPortalRelative = function( path, param ) {
+    var result = '' + path + '';
+
+    if( typeof param !== "undefined" ) {
+        var match= new RegExp( "\\?" );
+        if( ''.match( match ) ) {
+            result += '&' + param;
+        } else {
+            result += '?' + param;
+        }
+    }
+
+    result = CbAries.Global.addDummyParam( result );
+
+    return result;
+};
+CbAries.Global.addDummyParam = function( url )
+{
+    if( !url )
+    {
+        return url;
+    }
+    var match= new RegExp( "\\?" );
+    if( url.match( match ) ) {
+        url += '&dummy=' + new Date().getTime();
+    }
+    else {
+        url += '?dummy=' + new Date().getTime();
+    }
+    return url;
+};
+CbAries.Global.isGw = false;
+CbAries.Global.inline = true;
+  CbAries.Global.newCss = false;
+-->
+</script>
+
+
+</head>
+<body class="passwordRemind FIREFOX FIREFOX_51 ja "><div class="globalNavi">
+<table class="globalNavi__table globalNavi__table--fix">
+<tr>
+<th class="globalNavi__logo globalNavi__logo--fix">
+    <a href="https://cybozulive.com/">
+        <img src="https://cybozulive.com/static/11417123b1/images/newCss/globalNavi/brand-logo.png" alt="" />
+    </a>
+</th>
+</tr>
+</table>
+</div>
+<div id="body">
+<div class="bodyArea fix">
+<div class="bodyAreaWrapper">
+
+<div class="largeTitle">
+    <div>パスワードの再設定</div>
+</div>
+
+<div class="contentsFrame">
+<form method="post" action="/password/send" class="submitStopForm">
+
+<div class="contentsMessage">
+<p class="message">
+パスワードの再設定メールを送信します。<br />
+※再設定メールの有効期限は1時間です。
+</p>
+</div>
+
+<div class="fieldParts">
+<h3>メールアドレス<span class="required">[必須]</span></h3>
+<div>
+    <input type="text" name="mailAddress" value="aaaa@bbbb.com" size="30" autocomplete="off" />
+                        <p class="caution">確認用のメールアドレスと一致しません。</p>
+    </div>
+
+<h3>メールアドレス(確認用)<span class="required">[必須]</span></h3>
+<div>
+    <input type="text" name="mailAddressConfirm" value="aaaa@bbbb.co.jp" size="30" autocomplete="off" />
+        </div>
+</div>
+
+<div class="operationParts">
+    <div class="functionButton">
+        <input type="submit" name="czJzdHJ1dHMuQkFTRTY0X0ZPUk1BVDpzMnN0cnV0cy5BQ1RJT05fRVhQUkVTU0lPTj0lNDAlN0JwYXNzd29yZF9zZW5kQWN0aW9uLmRvU2VuZCU3RA==" value="送信する" class="submit undblclick" />
+        <input type="submit" name="czJzdHJ1dHMuQkFTRTY0X0ZPUk1BVDpzMnN0cnV0cy5BQ1RJT05fRVhQUkVTU0lPTj0lNDAlN0JwYXNzd29yZF9zZW5kQWN0aW9uLmRvQ2FuY2VsJTdEJnMyc3RydXRzLkNBTkNFTD0=" value="キャンセルする" class="cancel back undblclick" />
+                <input type="hidden" name="org.apache.struts.taglib.html.TOKEN" value="02f1fdf9-e4c4-4a03-9a5c-a716b4bdfa65" id="cba_commonHiddenToken" />
+    </div>
+</div>
+</form>
+
+<div class="bottomNote">
+    <p class="message">
+    Facebook/Twitterを使ってユーザー登録した方は、ログイン後の個人設定画面でパスワードを設定できます。<br />
+    詳しくは<a href="http://help.cybozulive.com/hlpa201202061935/" target="_blank">こちら</a>をご覧ください。    </p>
+</div>
+
+</div>
+</div>
+</div>
+
+<div class="footerArea footerArea--simple">
+    <div class="menu">
+        <a href="https://live.cybozu.co.jp/" target="_blank" title="サイボウズLiveについて">サイボウズLiveについて</a>
+        |<a href="https://cybozulive.com/common/terms/terms" target="_blank" title="利用規約">利用規約</a>
+        |<a href="http://cybozu.co.jp/company/copyright/privacy_policy.html" target="_blank" t
+306
+itle="プライバシーポリシー">プライバシーポリシー</a>        |<a href="http://help.cybozulive.com/" target="_blank" title="ヘルプセンター">ヘルプセンター</a>
+        |<a href="https://live.cybozu.co.jp/casestudy.html" target="_blank" title="サイボウズLive導入事例">サイボウズLive導入事例</a>
+    </div>
+    <p class="copyright">Copyright © <a href="http://cybozu.co.jp" target="_blank">Cybozu, Inc.</a></p>
+</div>
+    <script>
+        var require = {
+            baseUrl: "https://cybozulive.com/static/11417123b1/js/src"
+        };
+    </script>
+            <script src="https://cybozulive.com/static/11417123b1/js/require-jquery.js" data-main="../built/password/sendMain" type="text/javascript"></script>
+</body>
+</html>
+0
+

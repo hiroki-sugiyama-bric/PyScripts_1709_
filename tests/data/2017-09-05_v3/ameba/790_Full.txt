@@ -1,0 +1,28 @@
+POST https://dauth.user.ameba.jp/accounts/login HTTP/1.1
+Host: dauth.user.ameba.jp
+User-Agent: Mozilla/5.0 (Windows NT 6.1; WOW64; rv:51.0) Gecko/20100101 Firefox/51.0
+Accept: text/html,application/xhtml+xml,application/xml;q=0.9,*/*;q=0.8
+Accept-Language: ja,en-US;q=0.7,en;q=0.3
+Referer: https://dauth.user.ameba.jp/login/ameba
+Cookie: P=e3791729-5bdb-4aa5-9883-88bf131013c6; _ga=GA1.2.1145132502.1487829810; __utma=42061857.1145132502.1487829810.1487829811.1487834547.2; __utmz=42061857.1487834547.2.2.utmcsr=ameba.jp|utmccn=(referral)|utmcmd=referral|utmcct=/; __utma=257183131.1145132502.1487829810.1487835608.1487835608.1; __utmb=257183131.1.10.1487835608; __utmz=257183131.1487835608.1.1.utmcsr=ucsprofile.ameba.jp|utmccn=(referral)|utmcmd=referral|utmcct=/ucs/editMyProfileComplete.do; __gads=ID=df80c22e0b5f7ed3:T=1487831318:S=ALNI_Mak9xY_urv-jSBMPVjsXsX28FLN9w; __utmc=257183131; __utmb=42061857.4.10.1487834547; __utmc=42061857; regFrmId=2001; tutorial_term=true; aid=0ca44655611da677d4c8ebf68d1ad944c92af4b8; __utmt=1; __utmt_amb=1; nstate=8946c20ea1c050ad5161c6672b1cb683; _gat=1
+Connection: close
+Upgrade-Insecure-Requests: 1
+Content-Type: application/x-www-form-urlencoded
+Content-Length: 93
+
+accountId=tester9994&password=password001&csrf_token=1524bbd06dae09c0e7a9db9e9f2d94bb2dd7697f
+HTTP/1.1 302 Found
+Date: Thu, 23 Feb 2017 07:41:38 GMT
+Set-Cookie: N=1fe6880a2b79a6853d02f5d335f48ba2fce4e379983fa91378eb4baf24809ebfc6d4ce81b0c6a0b4709b78d5440cf5475051e403b4d268183e95db63338e8cb224263e4f3ad758990b6a0f0a8a23dbc4; Domain=.ameba.jp; Expires=Wed, 24-May-2017 07:41:37 GMT; Path=/
+Set-Cookie: asauth=5e2e1544172341a535bd84617e6dbab06d21386290900643633f03c70b2f0690; Domain=.user.ameba.jp; Expires=Wed, 24-May-2017 07:41:38 GMT; Path=/
+Set-Cookie: nstate=""; Expires=Thu, 01-Jan-1970 00:00:10 GMT; Path=/
+Location: http://mypage.ameba.jp
+Content-Language: ja
+Content-Length: 0
+Cache-Control: no-cache,no-store
+Pragma: no-cache
+Expires: -1
+X-Frame-Options: SAMEORIGIN
+Connection: close
+Content-Type: text/plain
+

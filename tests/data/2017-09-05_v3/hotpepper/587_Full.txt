@@ -1,0 +1,184 @@
+GET https://point.recruit.co.jp/member/remind/change/?response_type=code&redirect_uri=https%3A%2F%2Fwww.hotpepper.jp%2FCSP%2FcapMemberForward%2F&state=e626d9abdb7b73e4e5e9488507fecba907244057a9cf452c&re_auth=1&insertion_flg=&client_id=d37b0ba0d2f2d914e6214a3130668745619a5ae452be1b41555da255f2714e54 HTTP/1.1
+Host: point.recruit.co.jp
+User-Agent: Mozilla/5.0 (Windows NT 6.1; WOW64; rv:51.0) Gecko/20100101 Firefox/51.0
+Accept: text/html,application/xhtml+xml,application/xml;q=0.9,*/*;q=0.8
+Accept-Language: ja,en-US;q=0.7,en;q=0.3
+Referer: https://point.recruit.co.jp/member/remind/?response_type=code&redirect_uri=https%3A%2F%2Fwww.hotpepper.jp%2FCSP%2FcapMemberForward%2F&state=e626d9abdb7b73e4e5e9488507fecba907244057a9cf452c&re_auth=1&insertion_flg=&client_id=d37b0ba0d2f2d914e6214a3130668745619a5ae452be1b41555da255f2714e54
+Cookie: r2abtest_cid=73df171a52a8e23dcb5043eaa4715e158908ea67; r2abtest="201703101404:I9MR040_HPG_01_001,898,HPG_01_001:I9MR010_S03_a,896,other"; rm_tk=6V5HYX6dxDb9yTYKQ4xndttBokMbAa1j; site_cd=HPG; s_fid=4493AB07D01B65E8-1F03BA2E2FEE4E44; s_nr=1489129284641-Repeat; s_nr2=1489129284671-Repeat; JSESSIONID=29F1EEC3D06C152D3652856B9CF86457.0101; s_cc=true; s_fr=2017%3A03%3A10; s_cm=1; s_fbsr=1; s_sq=rcrtpointrecruitcojpprd%3D%2526c.%2526a.%2526activitymap.%2526page%253Dcap%25253Amember%25253Aremind%25253Aindex.html%2526link%253D%2525E6%2525AC%2525A1%2525E3%252581%2525B8%2526region%253DcenteringContents%2526pageIDType%253D1%2526.activitymap%2526.a%2526.c%26rcrthotpepperjpprod%3D%2526pid%253Drikupon%25253Aforgetpw%25253Aidentify%25253AI1PR010%2526pidt%253D1%2526oid%253Dfunction%252528%252529%25257BreturnsubmitCtr.submit%252528function%252528%252529%25257Bdocument.forms%25255B%252527member_remindActionForm%252527%25255D.submit%252528%252529%25253Bretu%2526oidt%253D2%2526ot%253DSUBMIT; R2SESSIONID=487DFA1109C95EEF3A737C3E977D4496; PermissionByReferer=1; s_cap_id=f6f5d0235c11d3bb; s_cap_id=f6f5d0235c11d3bb; ssk_token=249353347dac73011e9c31864aa3c95d27af132803140fe5972bbae69e821fa9
+Connection: close
+Upgrade-Insecure-Requests: 1
+
+
+HTTP/1.1 200 OK
+Date: Fri, 10 Mar 2017 07:01:23 GMT
+Server: Apache
+X-RUN_ID: R-13921_53_40127
+Set-Cookie: R2SESSIONID=487DFA1109C95EEF3A737C3E977D4496; Path=/; Secure; HttpOnly
+Set-Cookie: JSESSIONID=A7EF00C3BD7B2DFFF1BCE1F2F0B2A897.0301; Path=/; Secure; HttpOnly
+Set-Cookie: site_cd=HPG; Expires=Sun, 10-Mar-2019 07:01:23 GMT; Path=/; Secure
+Expires: 0
+Pragma: no-cache
+Cache-Control: no-cache, no-store, proxy-revalidate
+Content-Type: text/html;charset=UTF-8
+Content-Length: 7442
+Vary: Accept-Encoding,User-Agent
+P3P: CP="NON DSP COR CURa ADMa DEVa CUSo TAIa PSDo OUR BUS UNI COM NAV STA"
+Strict-Transport-Security: max-age=315360000
+Connection: close
+
+<!DOCTYPE html>
+<html lang="ja"><head>
+<meta http-equiv="Content-Type" content="text/html; charset=utf-8" />
+<meta http-equiv="Content-Style-Type" content="text/css" />
+<meta http-equiv="Content-Script-Type" content="text/javascript" /><meta name="title" content="リクルートID - パスワードの再設定" /><title>リクルートID - パスワードの再設定</title><link rel="stylesheet" href="/css/member_common.css?__rel=20170217032405" type="text/css"><link rel="shortcut icon" href="/img/icon/r_point_fabicon.ico?__rel=20170217032405"><link rel="stylesheet" href="/css/tone_HPG.css?__rel=20170217032405" type="text/css"><script type="text/javascript" src="/js/jquery-1.7.2.min.js"></script>
+<script type="text/javascript" src="/js/jquery.r.password.indicator.min.js"></script>
+<link href="/css/password.indicator.css" rel="stylesheet" type="text/css" />
+<script type="text/javascript">
+var submitted = false;
+function submitfunc(){
+  if(submitted){
+    return false;
+  }else{
+    submitted = true;
+    document.getElementById("sbmbtn").disabled = true;
+    return true;
+  }
+}
+$().ready(function() {
+	$().rPasswordIndicator({
+	});
+});
+</script>
+</head>
+<body id="pageTop">
+<!-- wrapper -->
+<div id="wrapper">
+	<header id="header">
+		<section class="globalHeader clearFix">
+			<h1 class="globalHeader_logo">
+				<a href="https://www.hotpepper.jp/">
+					<img src="/doc/img/sitelogo/member/logo_bridge_HPG.png?date=20161021160534" title="ホットペッパーグルメ" alt="ホットペッパーグルメ"></a>
+					</h1>
+			<h2 class="globalHeader_sub">
+				<img src="/doc/img/sitelogo/member/logo_bridge_CAP.png?date=20161021160534" alt="リクルートID"></h2>
+			</section>
+	</header><div id="contents">
+		<div>
+			
+</div>
+		<section>
+    		<h2 class="title_page">パスワードの再設定</h2>
+		</section>
+		<section id="contentsInner">
+			<div id="insertionContentsTop">
+				</div>
+			<div class="assetsMessage">
+				<h3>ご登録のメールアドレス宛に、認証キーを記載したメールを送信しました。</h3>
+				<p class="fsz_13">この画面を閉じずに、メール本文に記載されている認証キーを入力し、<br>新しいパスワードを設定して「次へ」ボタンでお進みください。</p>
+			</div>
+			<form name="member_remindActionForm" id="member_remindActionForm" method="post" action="/member/remind/doChange" onsubmit="return submitfunc();"><div style="display:none;"><input type="hidden" name="org.apache.struts.taglib.html.TOKEN" value="e347505af7237c2cc4c4a4ab8d2fb08c"></div><input type="hidden" name="path" value=""><input type="hidden" name="client_id" value="d37b0ba0d2f2d914e6214a3130668745619a5ae452be1b41555da255f2714e54"><input type="hidden" name="redirect_uri" value="https://www.hotpepper.jp/CSP/capMemberForward/"><input type="hidden" name="response_type" value="code"><input type="hidden" name="re_auth" value="1"><input type="hidden" name="insertion_flg" value=""><input type="hidden" name="state" value="e626d9abdb7b73e4e5e9488507fecba907244057a9cf452c"><input type="hidden" name="closeFlg" value=""><input type="hidden" name="sc_vid" value=""><input type="hidden" name="sc_ap" value=""><input type="hidden" name="expressionflg" value=""><input type="hidden" name="connect_flg" value=""><input type="hidden" name="pwbFlg" value=""><input type="hidden" name="reDisplayFlg" value=""><div id="centeringContents" class="layoutGrid_table_02">
+					<div class="tableList_01">
+						<table>
+							<tbody>
+								<tr>
+									<th class="th01">認証キー</th>
+									<td class="pdb_4">
+										<input type="text" name="kariPasswd" maxlength="6" autocomplete="off" value="" class="key ime_mode_dis"><p class="case">認証キー取得後、30分以内に新パスワードへの変更を行わないと、認証キーは無効になります。</p>
+									</td>
+								</tr>
+							</tbody>
+						</table>
+					</div>
+					<div class="tableList_01">
+						<table>
+							<tbody>
+								<tr>
+									<th class="th01">新パスワード<span class="number_half">半角英数</span></th>
+									<td class="pdb_4">
+										<input type="password" name="newPasswd" maxlength="20" autocomplete="off" value="" id="newPasswd" class="password"><p class="case"><span id="newPasswdOutput"></span></p>
+									</td>
+								</tr>
+								<tr>
+									<th class="th01">新パスワード(確認)<span class="number_half">半角英数</span></th>
+									<td class="pdb_4">
+										<input type="password" name="newPasswdCfm" maxlength="20" autocomplete="off" value="" id="cfmPasswd" class="password"><p class="case"><span id="cfmPasswdOutput"></span></p>
+									</td>
+								</tr>
+							</tbody>
+						</table>
+					</div>
+					<div>
+						<ul class="assetsButton_02">
+							<li class="li01">
+								<input type="submit" value="次へ" id="sbmbtn" class="button_01" title="次へ"></li>
+						</ul>
+					</div>
+					<div class="assetsMessage">
+						<p class="case pdt_30">※メールが受信できなかった場合は <a href="https://help.point.recruit.co.jp/" target="_blank" class="blank">こちら</a> からお問い合わせください。</p>
+					</div>
+				</div>
+			</form><div id="insertionContentsUnder">
+				</div>
+		</section>
+	</div>
+	<div id="footerWrapper">
+		<footer id="footer">
+			<section class="globalFooter">
+				<nav class="globalFooter_nav">
+					<ul id="footerLinks">
+						<li><a href="https://cmn.point.recruit.co.jp/terms/terms.html" target="_blank">ID・会員規約</a></li>
+						<li><a href="https://cmn.point.recruit.co.jp/policy/privacy.html" target="_blank">プライバシーポリシー</a></li>
+						<li><a href="https://help.point.recruit.co.jp/">お問い合わせ</a></li>
+					</ul>
+				</nav>
+				<div class="globalFooter_contents">
+					<div class="globalFooter_logo">
+						<p id="copyright">
+							<a href="https://www.recruit.jp/" target="_blank">
+							<img src="/doc/img/sitelogo/member/complogo_RHD.png?date=20150407153151" title="(C) Recruit Holdings Co.,Ltd." alt="(C) Recruit Holdings Co.,Ltd."></a>
+						</p>
+						<p id="groupSite">
+							<a href="https://www.recruit.co.jp/"><span class="copyRight">リクルートグループサイトへ</span></a>
+						</p>
+					</div>
+				</div>
+			</section>
+		</footer>
+		</div>
+<script type="text/javascript" src="/js/sitecatalyst/s_code.js"></script>
+<script ><!--
+	s.pageName = 'cap:member:remind:change:index.html';
+	s.prop3 = 'I1PR020';
+
+	s.prop40 = 'HPG';
+
+//--></script>
+<script type="text/javascript" src="/js/sitecatalyst/code_to_paste.js"></script>
+
+<script ><!--
+var globalPageName = '';
+var globalDispId = '';
+var globalSiteCd = '';
+var globalEvents = '';
+var globalABTest = '';
+
+
+	globalPageName = 'cap:member:remind:change:index.html';
+	globalDispId = 'I1PR020';
+	
+		globalSiteCd = 'HPG';
+	
+//--></script>
+
+<script type="text/javascript">
+	pageName = "rikupon:forgetpw:input:I1PR020";
+	channel = "rikupon";
+	subSiteSection = "rikupon:forgetpw:input:I1PR020";
+	media = "rikupon";
+</script>
+
+<script type="text/javascript" src="//www.hotpepper.jp/DEV/DEV_OPEN/CSP/log/js/s_code.js"></script>
+<script type="text/javascript" src="//www.hotpepper.jp/DEV/DEV_OPEN/CSP/log/js/logTeam.js"></script></div>
+<script type="text/javascript" src="/js/p_csp.js"></script>
+</body>
+</html>

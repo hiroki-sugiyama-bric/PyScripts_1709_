@@ -1,0 +1,41 @@
+POST https://cookpad.com/account/request_password_reset HTTP/1.1
+Host: cookpad.com
+User-Agent: Mozilla/5.0 (Windows NT 6.1; WOW64; rv:52.0) Gecko/20100101 Firefox/52.0
+Accept: text/html,application/xhtml+xml,application/xml;q=0.9,*/*;q=0.8
+Accept-Language: ja,en-US;q=0.7,en;q=0.3
+Accept-Encoding: gzip, deflate, br
+Referer: https://cookpad.com/account/recover
+Cookie: cpb=00t96ono0def1ef8f2c21304842f58795aa10e4c30acb6f3fr; bid=00t96ono0def1ef8f2c21304842f58795aa10e4c30acb6f3fr; v=328-1696515-1185977; FVD=%7Bts+%272017-03-31+17%3A01%3A05%27%7D; f_unique_id=5bec2093-155f-4456-a804-4bef57e9486c; user_type=0; has_kitchen=0; trial_type=0; LVD=1491300613; _ga=GA1.2.1537604137.1490947267; __utma=74628096.1537604137.1490947267.1490947267.1491300292.2; __utmz=74628096.1490947267.1.1.utmcsr=google|utmccn=(organic)|utmcmd=organic|utmctr=(not%20provided); _myapp_session=Vmk1bUxpM1lGRGkrZkl4OHpkbFZPbndGeStHTkJMRjBVSHBlWUxtcVozdnVHbXNLOUNhaVNSbmtSQUpneXJXUGFWNktobXljT2N5SHFTVzVQK1BLWVBrTkhBcUxiL3hjOGUxWTQrRnBvR003dHZwRm5LajVhY3lGcEExTExpWEoxc0w1WXBtNE9oUUhhelVsNkhDYzBSejNIMkFKcjI5cy9TSXp4ZGV1MjZxbzFrUEZPYzA0RzFPODV4WWhIRjZJLS02THJkeUZwejRkSWhBRFdFN1BLY1lnPT0%3D--9f9ff1672697519df12f366dc6bae2c6d26b8ec1; payload_D=55079; balancer=760; __utmb=74628096.15.10.1491300292; __utmc=74628096; __utmt=1; payload_E=1491300626618; bml=1; _gat_crossdomain=1; __utmli=request_password_reset_submit
+Connection: keep-alive
+Upgrade-Insecure-Requests: 1
+Content-Type: application/x-www-form-urlencoded
+Content-Length: 318
+
+utf8=%E2%9C%93&authenticity_token=xHog0c8%2F8RGujBJ5aoCFO08tHM5Y8jvT1zwQd6Gyhn56U%2F3FOQIvhrKvqHFr7kxPk7mkagWNqSMegHasxxvh6w%3D%3D&user%5Bemail%5D=crawlingtest1000%40gmail.com&commit=%E3%83%91%E3%82%B9%E3%83%AF%E3%83%BC%E3%83%89%E3%82%92%E5%86%8D%E8%A8%AD%E5%AE%9A%E3%81%99%E3%82%8B&atu=1&ate=1491300613&att=1491300626
+HTTP/1.1 302 Found
+Cache-Control: no-cache
+Content-Type: text/html; charset=utf-8
+Date: Tue, 04 Apr 2017 10:10:26 GMT
+Location: https://cookpad.com/account/sent_account_recover_mail
+Server: nginx
+Set-Cookie: FVD=%7Bts+%272017-03-31+17%3A01%3A05%27%7D; path=/; expires=Thu, 04 May 2017 10:10:26 -0000; secure
+Set-Cookie: user_type=0; path=/; expires=Thu, 04 May 2017 10:10:26 -0000; secure
+Set-Cookie: has_kitchen=0; path=/; expires=Thu, 04 May 2017 10:10:26 -0000; secure
+Set-Cookie: trial_type=0; path=/; expires=Thu, 04 May 2017 10:10:26 -0000; secure
+Set-Cookie: _myapp_session=eVR3aXFPTVEvYUJ3cmdYTTlvZ3RQR21NYnpSeTl2bHZDcE9tTjBob2U2cjRuTktwdFlQZzJoWU1OU1VveDdiUEpjbE9EQmt5WnNIUTlKUTh1WlNBay9XRkNjL1EzdGh0aWhwZEEwVXZQdk1nYmlPcTRzSDlFMzNRWk9uMjVlT0VtblliR25QSFErdUZMTVZjQXJkblFhZ0Y1NUhpZy9YUEZXdTFsaCtpMmtmNXBqU3dSNFZ6OGxNKzBnS2ZmWHNnLS1WRDVEUjlwRDZZUEplZGQ2aVVwWlp3PT0%3D--55bae949ace12ec04180bf55eea840e6c0ee1a56; path=/; HttpOnly; secure
+Set-Cookie: payload_D=124689; path=/
+Status: 302 Found
+Strict-Transport-Security: max-age=31536000
+Vary: User-Agent
+X-ASC: 202
+X-ASN: 275
+X-Chst: c765981f05918c0c46cbbb14b48e3d8637f9539260eb36d4da81400894c6bd27
+X-Content-Type-Options: nosniff
+X-Frame-Options: SAMEORIGIN
+X-Request-Id: a4febd2e-e89a-4c0c-b531-1af754280b8f
+X-Runtime: 0.120459
+X-XSS-Protection: 1; mode=block
+Content-Length: 119
+Connection: keep-alive
+
+<html><body>You are being <a href="https://cookpad.com/account/sent_account_recover_mail">redirected</a>.</body></html>

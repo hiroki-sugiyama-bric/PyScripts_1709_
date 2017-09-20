@@ -1,0 +1,332 @@
+GET http://b.hatena.ne.jp/tester99994/add.confirm?url=www.google.com HTTP/1.1
+Host: b.hatena.ne.jp
+User-Agent: Mozilla/5.0 (Windows NT 6.1; WOW64; rv:51.0) Gecko/20100101 Firefox/51.0
+Accept: text/html,application/xhtml+xml,application/xml;q=0.9,*/*;q=0.8
+Accept-Language: ja,en-US;q=0.7,en;q=0.3
+Referer: http://b.hatena.ne.jp/tester99994/add
+Cookie: b=$1$My7gZnO8$0.FGsPl4n1llPMV82C5TE1; _fout_segment=83206%2C83207%2C83208%2C83209%2C83215%2C83217%2C83218%2C83219%2C83220; _nttcom_segment=36000; _vsn_segment=37000; __gads=ID=53893da3f15ba603:T=1484115036:S=ALNI_MZ-5OuVluzYAAbSOjQmOTW8TyUzpg; _fout_segment_sync=1; _ga=GA1.3.1991463582.1487329486; __utma=90496003.1991463582.1487329486.1487329486.1487329486.1; __utmb=90496003.0.10.1487329486; __utmc=90496003; __utmz=90496003.1487329486.1.1.utmcsr=blog.kaerucloud.com|utmccn=(referral)|utmcmd=referral|utmcct=/entry/website-ranking; rk=f9cf05b364a04e27cd445e0f545c7ac69a358672; _dc_gtm_UA-47034238-1=1; edit_profile_result=%E3%83%97%E3%83%AD%E3%83%95%E3%82%A3%E3%83%BC%E3%83%AB%E3%81%AE%E5%A4%89%E6%9B%B4%E3%82%92%E4%BF%9D%E5%AD%98%E3%81%97%E3%81%BE%E3%81%97%E3%81%9F%E3%80%82; fast=1; _b_hatena_entry_blogparts_link_selected=include-users; OX_sd=5; OX_plg=sl|pdf|wmp|pm; __utma=12101991.1991463582.1487329486.1487330478.1487330478.1; __utmb=12101991.0.10.1487330478; __utmc=12101991; __utmz=12101991.1487330478.1.1.utmcsr=cdn.api.b.hatena.ne.jp|utmccn=(referral)|utmcmd=referral|utmcct=/entry/button/; _ga=GA1.4.1991463582.1487329486; _dc_gtm_UA-20092244-16=1; _dc_gtm_UA-20092244-33=1; _gat_UA-81042620-5=1; _tdim=986da938-501b-4164-a194-5c0b128f5bec; __ulfpc=201702172021328485; __ywapbuk=0.687; post_twitter=; post_facebook=; post_evernote=; post_mixi_check=; _td=be863d7e-ee4e-4869-b43a-0cc9d49c24e5
+Connection: close
+Upgrade-Insecure-Requests: 1
+
+
+HTTP/1.1 200 OK
+Server: nginx
+Date: Fri, 17 Feb 2017 11:23:21 GMT
+Content-Type: text/html; charset=utf-8
+Content-Length: 20112
+Connection: close
+Vary: Accept-Encoding
+X-Content-Type-Options: nosniff
+X-Framework: Ridge/0.11
+X-Ridge-Dispatch: Hatena::Bookmark::Engine::User::Add#confirm
+X-Runtime: 127ms
+X-View-Runtime: 88ms
+Vary: Accept-Encoding,Cookie,User-Agent
+
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+<html xmlns="http://www.w3.org/1999/xhtml"
+      xmlns:og="http://ogp.me/ns#"
+      xmlns:fb="http://www.facebook.com/2008/fbml"
+      xml:lang="ja"
+      lang="ja">
+
+<head>
+<script type="text/javascript">
+var __rendering_time = (new Date).getTime();
+</script>
+<title>はてなブックマーク - tester99994 のブックマーク - ブックマークを追加 - ブックマークの確認</title>
+<meta http-equiv="Content-Type" content="text/html; charset=utf-8" />
+<meta http-equiv="Content-Script-Type" content="text/javascript" />
+<meta http-equiv="Content-Style-Type" content="text/css" />
+<meta name="apple-itunes-app" content="app-id=354976659" />
+<meta name="msapplication-navbutton-color" content="#2C6EBD" />
+<meta name="msapplication-task" content="name=はてなブックマーク; action-uri=/; icon-uri=/images/icons/bookmark.ico" />
+<meta name="msapplication-task" content="name=マイブックマーク; action-uri=/my; icon-uri=/images/icons/my-bookmark.ico" />
+<meta name="msapplication-task" content="name=お気に入りのブックマーク; action-uri=/my/favorite; icon-uri=/images/icons/favorite-bookmark.ico" />
+<meta name="msapplication-task" content="name=人気エントリー; action-uri=/hotentry; icon-uri=/images/icons/hotentry.ico" />
+<script type="text/javascript" src="/js/ViewportLoader.js?content=width%3D320%3B%20minimum-scale%3D0.5%3B"></script>
+<link rel="shortcut icon" type="image/x-icon" href="//b.hatena.ne.jp/favicon.ico" />
+<link rel="search" type="application/opensearchdescription+xml" title="はてなブックマーク検索" href="/opensearch.xml" />
+<script type="text/javascript" src="http://cdn.www.st-hatena.com/js/header.ja.js" charset="utf-8"></script>
+<link type="text/css" rel="stylesheet" href="http://cdn.www.st-hatena.com/css/hatena/header.css" />
+<link rel="stylesheet" href="//cdn-ak.b.st-hatena.com/css/common.css?12b53664ff524a99f2925aa0427d86012167f94e" type="text/css" media="all" />
+<link rel="stylesheet" href="//cdn-ak.b.st-hatena.com/css/users.css?5118c167c3097b304f9c5b5aab9864016f19a615" type="text/css" media="all" />
+<link rel="stylesheet" href="//cdn-ak.b.st-hatena.com/css/bookmark.css?d8d87369014af0d05640a4aa39bc0accf7b3b627" type="text/css" media="all" />
+<script type="text/javascript" src="http://www.hatena.ne.jp/js/Ten/Ten.js"></script>
+<script type="text/javascript" charset="utf-8" src="//cdn-ak.b.st-hatena.com/js/Hatena/Bookmark.js?2d608dd908733757bb0f7822a276ca83fe9d2090"></script>
+<script type="text/javascript">
+// <![CDATA[
+  Hatena.Bookmark.Browsing.start(1487330601);
+
+
+      Hatena.Bookmark.user = new Hatena.Bookmark.User('tester99994', 'f88512e319d7be70f657ceec62e8a03ddf461014', {
+          linktarget: '_blank',
+          readlater_from_list_private: false,
+          infoversion: 0
+      });
+        Hatena.Bookmark.user.tagsuggest = true;
+
+  Hatena.Bookmark.entry = {};
+  Hatena.Bookmark.author = new Hatena.Bookmark.User('tester99994');
+  Hatena.Bookmark.AfterHeader.addEventListener('onload', function() {
+    Hatena.Bookmark.navigator = new Hatena.Bookmark.Navigator([]);
+    var nav = new Hatena.Bookmark.Navigator.Global(Hatena.Bookmark.user);
+    nav.setInformationAd(0, '+3m');
+        if (!nav.infoAd || !nav.infoAd.shown) {
+            nav.setInformation([]);
+        }
+  });
+
+  Hatena.Bookmark.Browsing.document.addEventListener('pageload', function() {
+    Hatena.Bookmark.navigator.setElementsBySelector([]);
+    Hatena.Bookmark.navigator.registerEventListeners();
+    Hatena.Bookmark.LazyFavoriteLoader.getInstance().init();
+
+    Hatena.Bookmark.ViewHelper.handleKeyActivation();
+    Hatena.Bookmark.ShortURL.TweetInfoLoader.getInstance().init();
+    Hatena.Bookmark.ShortURL.ClickCounterLoader.getInstance().init();
+    Hatena.Bookmark.ShortURL.RetweetCounterLoader.getInstance().init();
+    Hatena.Bookmark.JumpList.setup();
+
+
+
+var tags = {};
+var tc = new Hatena.Bookmark.TagComplete;
+tc.addTags(tags);
+var cc = new Hatena.Bookmark.CommentCounter({ span: document.getElementById('typecounter'), saveButton: document.getElementById('submit-button') });
+cc.registTagComplete(tc);
+
+var rTags = document.getElementById('recommend-tags');
+if (rTags) {
+var tfl = new Hatena.Bookmark.TagComplete.FlatList(tc, rTags);
+}
+var comment = document.getElementById('comment');
+comment.focus();
+tc.observeInput(comment);
+new Ten.Observer(comment.form, Ten.Event.onKeyDown, function(e) {
+    if (e.target !== comment || e.event.keyCode !== 13) return;
+    e.stop();
+    e.target.blur();
+    e.target.form.submit();
+});
+
+if (document.getElementById('all-tags-container')) {
+   var alltags = new Hatena.Bookmark.AllTagsSelector(tc, document.getElementById('all-tags-container'));
+}
+
+
+
+var te = new Hatena.Bookmark.TitleProtector(document.getElementById('title-edit'), document.getElementById('unlock'));
+
+
+Hatena.Bookmark.FormOutput.createNonPrivateChecks(
+    document.getElementById('private'),
+    [ document.getElementById('post_twitter'),
+      document.getElementById('post_mixi_check'),
+      document.getElementById('post_facebook') ]
+);
+
+
+    if (location.hash.length > 2) {
+        var ref = location.hash.substring(1);
+        var hashTarget = document.getElementById(ref) || document.getElementsByName(ref)[0];
+        if (hashTarget) {
+            if (Ten.DOM.loaded)
+                hashTarget.scrollIntoView();
+        }
+    }
+  });
+
+
+  Ten.DOM.addEventListener('DOMContentLoaded', function () {
+      Hatena.Bookmark.RegistReminder.count();
+  });
+
+  if (Ten.Browser.isAndroid) {
+    Ten.DOM.addEventListener('DOMContentLoaded', function () {
+      new Hatena.Bookmark.SmartAppBanner.Android().showSmartAppBanner();
+    });
+  }
+// ]]>
+</script>
+</head>
+<body id="hatena-bookmark-user-add"><!-- Google Tag Manager -->
+<noscript><iframe src="//www.googletagmanager.com/ns.html?id=GTM-5TDHQX"
+height="0" width="0" style="display:none;visibility:hidden"></iframe></noscript>
+<script>(function(w,d,s,l,i){w[l]=w[l]||[];w[l].push({'gtm.start':
+new Date().getTime(),event:'gtm.js'});var f=d.getElementsByTagName(s)[0],
+j=d.createElement(s),dl=l!='dataLayer'?'&l='+l:'';j.async=true;j.src=
+'//www.googletagmanager.com/gtm.js?id='+i+dl;f.parentNode.insertBefore(j,f);
+})(window,document,'script','dataLayer','GTM-5TDHQX');</script>
+<!-- End Google Tag Manager -->
+
+    <script type="text/javascript">Hatena.Bookmark.ViewHelper.addOSClassName();</script>
+
+        
+
+        <div id="header">
+          <div id="header-body"><h1><a href="/" class="service-logo-container"><img id="logo" src="//cdn-ak.b.st-hatena.com/images/logo-bookmark.gif" alt="Hatena::Bookmark" /></a></h1><div id="navigation"><form id="search" action="/search/text"><div><input type="text" id="searchtext" name="q" value="Apache" /><input type="submit" src="//cdn-ak.b.st-hatena.com/images/searchbutton.gif" id="searchbutton" value="" /></div></form><script>
+                new Ten.Observer(Ten.DOM, 'DOMContentLoaded', function (evt) {
+                    setTimeout(function () { contentLoadedObserver.stop() }, 4); // Ten.js のバグ対策
+
+                    var queryTextbox = document.getElementById("searchtext");
+                    new Ten.Observer(queryTextbox, "onfocus", function (evt) {
+                        setTimeout(function() {
+                            queryTextbox.select();
+                        }, 10);
+                    });
+                });
+              </script><ul class="service-menu" id="header-navigation"><li><a href="/tester99994/hotentry"><img src="http://cdn1.www.st-hatena.com/users/te/tester99994/profile_s.gif" class="header-profile-icon" width="16" height="16" alt="tester99994" /></a><a href="/tester99994/hotentry">マイページ</a></li><li><a href="/tester99994/bookmark">ブックマーク</a></li><li><a href="/tester99994/unread_bookmark">あとで読む</a></li><li><a href="/tester99994/add">追加・アプリ</a></li><li><a href="/tester99994/config">設定</a></li><noscript><li><a href="http://www.hatena.ne.jp/logout?location=http%3A%2F%2Fb.hatena.ne.jp%2Ftester99994%2Fadd.confirm%3Furl%3Dwww.google.com">ログアウト</a></li></noscript><li class="header-username" id="header-username" title="利用中のサービス" data-name="tester99994" data-rkm="dqOLEvr4+Niua2lViBuDOA"><span class="header-dropdown trigger" tabindex="0"><img src="http://cdn.www.st-hatena.com/images/header/usermenu-wh.png" alt="利用中のサービス" width="24" height="24" /></span><dl class="header-window" id="username-window"><!-- 利用中のサービス一覧 --></dl></li><li class="header-notify" id="header-notify" title="あなたへのお知らせ"><span class="header-dropdown trigger" tabindex="0"><img src="http://cdn.www.st-hatena.com/images/header/notify-wh.png" alt="あなたへのお知らせ" width="25" height="25" /><span class="notify-count"></span></span><div id="notify-window" class="header-window header-notify"><!-- あなたへのお知らせ --></div></li><li class="global-logo"><a href="http://www.hatena.ne.jp/"><img src="http://cdn.www.st-hatena.com/images/header/global-logo-wh.png" alt="Hatena" width="76" height="12" /></a></li></ul></div></div>
+        </div>
+
+        
+        <div id="info-header"><span id="info-header-close-button">(閉じる)</span><p id="info-header-message"></p></div>
+        <div id="info-header-spacer"></div>
+        <script type="text/javascript">
+             Hatena.Bookmark.AfterHeader.init();
+        </script>
+        <div class="breadcrumbs"><a href="/" title="はてなブックマーク">はてなブックマーク</a><span class="sep">&gt;</span><a href="/tester99994/" title="tester99994 のブックマーク">tester99994 のブックマーク</a><span class="sep">&gt;</span><a href="/tester99994/add" title="ブックマークを追加">ブックマークを追加</a><span class="sep">&gt;</span>ブックマークの確認</div>
+        
+
+        <div id="user-header">
+  <h2><a href="/tester99994/"><img src="http://cdn1.www.st-hatena.com/users/te/tester99994/profile_l.gif" class="profile-image" alt="tester99994" title="tester99994" width="32" height="32" /></a> ブックマークを追加</h2>
+  <ul class="menu"></ul>
+</div>
+
+
+<div id="hatena-body">
+  <div class="main">
+    <form id="add-form" method="post" action="/tester99994/add.edit">
+      <input type="hidden" name="rks" value="f88512e319d7be70f657ceec62e8a03ddf461014" />
+      <input type="hidden" name="url" value="http://www.google.com/" />
+      <input type="hidden" name="from" value="web-confirm" />
+
+      <div class="curvebox-gray-header"><div></div></div>
+      <div class="curvebox-gray-body">
+
+
+        <div class="bookmark-form-container">
+          <div class="bookmark-entry-container">            <p id="title-edit"><span class="title" style="background-image:url(http://cdn-ak.favicon.st-hatena.com/?url=http%3A%2F%2Fwww.google.com%2F)">Google</span> <span id="unlock"></span></p>
+            
+            <p class="lasteditor" id="lasteditor" style="font-size: 80%; display:none;">最終変更: <a href="/faiyajapan/"><img src="http://cdn1.www.st-hatena.com/users/fa/faiyajapan/profile_s.gif" class="profile-image" alt="faiyajapan" title="faiyajapan" width="16" height="16" /></a><a href="/faiyajapan/">faiyajapan</a></p>            <p style="font-size: 85%; margin-bottom: 4px;"> <a href="http://www.google.com/">http://www.google.com/</a> </p>            <span class="users"><strong><a href="/entry/www.google.com/"><span>494</span> users</a></strong></span>          </div>
+          <textarea id="comment" name="comment" cols="50" rows="2" placeholder="コメントを入力してください (省略可能)"></textarea>
+          <script type="text/javascript">
+            new Hatena.Bookmark.Form.Placeholder(document.getElementById('comment'));
+          </script>
+          <div class="bookmark-submit-container">
+            <div class="submit-right-container"><span id="typecounter" class="char-count"></span><input id="submit-button" type="submit" value="追加" /></div>
+            <div class="submit-share-container">
+              <span class="submit-param-title">共有 :</span>
+              <label id="post_twitter_label" for="post_twitter" title="ブックマークした内容をTwitterへ投稿する場合はチェックを入れてください。"><input type="checkbox" id="post_twitter" name="post_twitter" value="1" /><span class="label-text">Twitter</span></label>
+              <label id="post_facebook_label" for="post_facebook" title="ブックマークした内容を Facebook へ投稿する場合はチェックを入れてください。"><input type="checkbox" id="post_facebook" name="post_facebook" value="1" /><span class="label-text">Facebook</span></label>
+              <label id="post_evernote_label" for="post_evernote" title="ブックマークした内容を Evernote へ投稿する場合はチェックを入れてください。"><input type="checkbox" id="post_evernote" name="post_evernote" value="1" /><span class="label-text">Evernote</span></label>
+              <label id="post_mixi_check_label" for="post_mixi_check" title="ブックマークした内容をmixiチェックへ投稿する場合はチェックを入れてください。"><input type="checkbox" id="post_mixi_check" name="post_mixi_check" value="1" /><span class="label-text">mixiチェック</span></label>
+
+              <p id="option-help-post_twitter" class="option-help-tooltip">
+                <img src="//cdn-ak.b.st-hatena.com/images/icon-twitter.png" alt="Twitter" width="16" height="16" />
+                Twitter連携機能を設定すると、ブックマーク時にTwitterへも投稿することができます。
+                <a href="/guide/twitter?target=append">もっと詳しく</a>
+              </p>
+              <script type="text/javascript">
+                Hatena.Bookmark.Tooltip.OptionHelp.createById('post_twitter');
+              </script>
+              <p id="option-help-post_facebook" class="option-help-tooltip">
+                <img src="//cdn-ak.b.st-hatena.com/images/icon-facebook.png" alt="Facebook" width="16" height="16" />
+                Facebook連携機能を設定すると、ブックマーク時にFacebookへも投稿することができます。
+                <a href="/help/config_coop#facebook">もっと詳しく</a>
+              </p>
+              <script type="text/javascript">
+                Hatena.Bookmark.Tooltip.OptionHelp.createById('post_facebook');
+              </script>
+              <p id="option-help-post_evernote" class="option-help-tooltip">
+                <img src="//cdn-ak.b.st-hatena.com/images/icon-evernote.png" alt="Evernote" width="16" height="16" />
+                Evernote 連携機能を設定すると、ブックマーク時に Evernote へも投稿することができます。
+                <a href="/help/config_coop#evernote">もっと詳しく</a>
+              </p>
+              <script type="text/javascript">
+                Hatena.Bookmark.Tooltip.OptionHelp.createById('post_evernote');
+              </script>
+              <p id="option-help-post_mixi_check" class="option-help-tooltip">
+                <img src="//cdn-ak.b.st-hatena.com/images/icon-mixi.png" alt="mixiチェック" width="16" height="16" />
+                mixiチェック連携機能を設定すると、ブックマーク時にmixiチェックへも投稿することができます。
+                <a href="/help/config_coop#mixi-check">もっと詳しく</a>
+              </p>
+              <script type="text/javascript">
+                Hatena.Bookmark.Tooltip.OptionHelp.createById('post_mixi_check');
+              </script>
+            </div>
+            <div class="submit-option-container">
+              <span class="submit-param-title">オプション :</span>
+              <label id="read_later_label" for="read_later" title="未読ブックマークに追加し、「あとで読む」通知を受ける場合はチェックを入れてください。">
+                <input type="checkbox" id="read_later" name="read_later" value="1" />
+                <span class="label-text">あとで読む</span>
+              </label>
+              <label id="private_label" for="private" title="ブックマークを他のユーザーに公開しない場合はチェックを入れてください。(閲覧許可ユーザーにも公開されません。)"><input type="checkbox" id="private" name="private" value="1" /><span class="label-text">非公開</span></label>
+              <input type="hidden" name="with_status_op" value="1" />
+            </div>
+          </div>
+
+          <dl class="recommend-tags">
+            <dt>おすすめタグ<a href="/help/tag" target="_blank" class="note">※タグについての詳しい説明</a></dt>
+            <dd id="recommend-tags">
+                            <span class="tag">Google</span>              <span class="tag">search</span>              <span class="tag">検索</span>              <span class="tag">検索エンジン</span>              <span class="tag">グーグル</span>              <span class="tag">SEARCH ENGINE</span>              <span class="tag">検索サイト</span>              <span class="tag">english</span>              <span class="tag">portal</span>              <span class="tag">SearchEngine</span>
+            </dd>
+          </dl>
+
+
+        </div>
+      <div class="notice_comment">
+        <a href="/help/notice_comment" target="_blank">コメント欄についての注意事項</a>
+      </div>
+      </div><div class="curvebox-gray-bottom"><div></div></div>
+              <ul class="step" style="margin-top: 20px;">
+            <li class="step1">
+                <div class="title"><span>URLを入力</span></div>
+                <div class="content">ブックマークしたいページのURLを入力してください。</div>
+                <div class="note">※<a href='/register'>ブックマークツール</a>を使うとより簡単にブックマークを追加できます</div>
+            </li>
+            <li class="step2">
+                <div class="title selected"><span>コメント、タグを入力</span></div>
+                <div class="content">ページについてのコメントや、分類の為のタグを入力して下さい。</div>
+                <div class="note">※タグは10個まで指定できます</div>
+                <div class="note"><a href="/help/tag">※タグの活用方法についてはこちら</a></div>
+            </li>
+            <li class="step3">
+                <div class="title"><span>完了</span></div>
+                <div class="content">以上の手順でブックマークは完了します。</div>
+                <div class="note"><a href="/help/bookmarklet">※はてなブックマークのより高度な使い方はこちら</a></div>
+            </li>
+        </ul>
+ 
+    </form>
+  </div>
+</div>
+ 
+
+
+        <script type="text/javascript">Hatena.Bookmark.Browsing.document.checkPageLoad();</script>
+    
+    <div id="readlater-login-popup" class="feature-hint-popup-container popup-login" style="display:none;">
+      <div class="feature-hint-popup-close-button"></div>
+      <h3 class="feature-hint-popup-title">あとで読む機能</h3>
+      <div class="popup-section">
+        <p>あとで読むリストに追加しましょう。</p>
+        <a class="submit-button login" href="https://www.hatena.ne.jp/login?location=http%3A%2F%2Fb.hatena.ne.jp%2Ftester99994%2Fadd.confirm%3Furl%3Dwww.google.com">ログイン</a>
+      </div>
+    </div>
+
+<script type="text/javascript">
+__rendering_time = (new Date).getTime() - __rendering_time;
+if (location.hash == '#benchmark')  {
+  document.title = '' + __rendering_time + ' / ' + document.title;
+}
+</script>
+
+<script type="text/javascript" src="https://apis.google.com/js/plusone.js">{lang: 'ja'}</script>
+
+
+<script type="text/javascript" src="//cdn-ak.b.st-hatena.com/js/bookmark_button.js" charset="utf-8" async="async"></script>
+
+
+</body>
+</html>

@@ -1,0 +1,28 @@
+GET https://www.google.com/url?hl=ja&q=https://user.ameba.jp/regist/registerInput.do?ekey%3D8a9da7b90e8eed483367d812aa03f7e9%26device%3Dpc%26format%3Dhtml&source=gmail&ust=1487921075648000&usg=AFQjCNH-f7zy6HsisvrbUUQddf8Z8U3FfA HTTP/1.1
+Host: www.google.com
+User-Agent: Mozilla/5.0 (Windows NT 6.1; WOW64; rv:51.0) Gecko/20100101 Firefox/51.0
+Accept: text/html,application/xhtml+xml,application/xml;q=0.9,*/*;q=0.8
+Accept-Language: ja,en-US;q=0.7,en;q=0.3
+Cookie: NID=97=VqHqvYCO00vwJ1XO5AOyShKMlALsy3kATILlxMKxSPzSGGQ7stEO4kKKjU9qWwqbq3MXUR8fpPgNagmtbSUUbbktVHRaPHe_wcZLLAN4gYX4zrAG8DsJ_HUZV3wkXjczhOn0vOUQjBnwHjOLqoQZSZbq8HKo8tgsrcXkJMACNqDsLKcPutS89jv9oZT_P21KhBcFXaA8YrYyvRYEMpLVWZc420_Xhqy5czIc1P5cZfKZ6nyj5PGX7w; CONSENT=YES+JP.ja+20170212-13-0; OGPC=5061821-3:; SID=XgQo352d-kQ1-iSZt-dD4qJNkOnKlczoiSg0vl7dDFlAE40G3SMPk9FG16JchVGwcbElQA.; HSID=AuKY2paq7qrz0PP6q; SSID=AELp_ZBmpKbiFwjRi; APISID=ZatbKuMgiAIWh9A2/AzfNGNufFGnTLJ8QT; SAPISID=2Kx_2GWBvcbHzGYp/ANWxViE4ZdRl46Zj8
+Connection: close
+Upgrade-Insecure-Requests: 1
+
+
+HTTP/1.1 302 Found
+Location: https://user.ameba.jp/regist/registerInput.do?ekey=8a9da7b90e8eed483367d812aa03f7e9&device=pc&format=html
+Cache-Control: private
+Content-Type: text/html; charset=UTF-8
+Strict-Transport-Security: max-age=86400
+Date: Thu, 23 Feb 2017 07:24:40 GMT
+Server: gws
+Content-Length: 310
+X-XSS-Protection: 1; mode=block
+Alt-Svc: quic=":443"; ma=2592000; v="35,34"
+Connection: close
+
+<HTML><HEAD><meta http-equiv="content-type" content="text/html;charset=utf-8">
+<TITLE>302 Moved</TITLE></HEAD><BODY>
+<H1>302 Moved</H1>
+The document has moved
+<A HREF="https://user.ameba.jp/regist/registerInput.do?ekey=8a9da7b90e8eed483367d812aa03f7e9&amp;device=pc&amp;format=html">here</A>.
+</BODY></HTML>

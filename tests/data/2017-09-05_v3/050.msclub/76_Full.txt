@@ -1,0 +1,26 @@
+POST https://msclub.jp/Front/F00001001.php/0 HTTP/1.1
+Host: msclub.jp
+User-Agent: Mozilla/5.0 (Windows NT 6.1; WOW64; rv:52.0) Gecko/20100101 Firefox/52.0
+Accept: text/html,application/xhtml+xml,application/xml;q=0.9,*/*;q=0.8
+Accept-Language: ja,en-US;q=0.7,en;q=0.3
+Accept-Encoding: gzip, deflate, br
+Referer: https://msclub.jp/Front/F00001001.php/0
+Cookie: PHP_BASE_MGSID_0=0604080000000000000000000000000149144867400026599; PHP_BASE_MGSID_0_AuthTicket=9c0062da0e1c74005f8a0ef426e0555cff57ea9c
+Connection: close
+Upgrade-Insecure-Requests: 1
+Content-Type: application/x-www-form-urlencoded
+Content-Length: 98
+
+trans_token=168456ab25acfe2b9f80bc5de8f5fd88b2e0cc078b60c2dca3b9d25bc40d51f6&submit_F00001001_act=
+HTTP/1.1 302 Moved Temporarily
+Date: Thu, 06 Apr 2017 03:25:02 GMT
+Server: Apache
+Expires: Mon, 26 Jul 1997 05:00:00 GMT
+Cache-Control: no-store, no-cache, must-revalidate, post-check=0, pre-check=0
+Pragma: no-cache
+Last-Modified: Thu, 06 Apr 2017 03:25:02 GMT
+Location: https://msclub.jp/Front/F00001201.php/0
+Content-Length: 0
+Connection: close
+Content-Type: text/html; charset=UTF-8
+

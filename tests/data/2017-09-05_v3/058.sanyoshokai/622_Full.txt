@@ -1,0 +1,29 @@
+POST https://members.sanyo-shokai.co.jp/ms/add/confirm HTTP/1.1
+Host: members.sanyo-shokai.co.jp
+User-Agent: Mozilla/5.0 (Windows NT 6.1; WOW64; rv:52.0) Gecko/20100101 Firefox/52.0
+Accept: text/html,application/xhtml+xml,application/xml;q=0.9,*/*;q=0.8
+Accept-Language: ja,en-US;q=0.7,en;q=0.3
+Accept-Encoding: gzip, deflate, br
+Referer: https://members.sanyo-shokai.co.jp/ms/add/confirm
+Cookie: AspxAutoDetectCookieSupport=1; ASP.NET_SessionId=fseu2pttlvn1a1yyit01020i; AMCV_2AA98C3E55E8481C7F000101%40AdobeOrg=793872103%7CMCIDTS%7C17267%7CMCMID%7C06316279283020518553052341503445460208%7CMCAID%7CNONE%7CMCAAMLH-1492414740%7C11%7CMCAAMB-1492414740%7Chmk_Lq6TPIBMW925SPhw3Q; mbox=session#1491809938876-354752#1491813477|PC#1491809938876-354752.18_22#1494403617|check#true#1491811677; isMember=false; s_fv=1491809942726; s_lv=1491811617266; s_lv_s=First%20Visit; s_cc=true; s_nr=1491811739349; gpv_p51=membership%3Aadd%3Aconfirm; s_ppvl=membership%253Aadd%253AAlert%253Fpage%253Dbrands%2C100%2C100%2C865%2C1536%2C865%2C1536%2C960%2C1.25%2CL; s_ppv=membership%253Aadd%253Aconfirm%2C73%2C100%2C1531%2C1536%2C865%2C1536%2C960%2C1.25%2CL; s_sq=snyskisanyoistorejpprd%3D%2526pid%253Dmembership%25253Aadd%25253Aconfirm%2526pidt%253D1%2526oid%253Dhttps%25253A%25252F%25252Fmembers.sanyo-shokai.co.jp%25252Fimages%25252Fparts%25252Fbtn_next_r.gif%2526ot%253DIMAGE; _ga=GA1.3.609881291.1491809943; krt.vis=1217107314_1491809948675_68248893; AWSELB=87ADFF9D02E5198A7AE0258D21329D4886A9D96F90146BDBC5C298A29121DA7175E8B074BEEB9C6AD7881A203554EDDEF943D4AC1376AC7DDE75887A6CDDE0F409C6CD6C1B
+Connection: close
+Upgrade-Insecure-Requests: 1
+Content-Type: application/x-www-form-urlencoded
+Content-Length: 31
+
+imageField.x=94&imageField.y=16
+HTTP/1.1 302 Found
+Cache-Control: private
+Content-Type: text/html; charset=utf-8
+Date: Mon, 10 Apr 2017 08:08:46 GMT
+Location: /ms/add/Complete
+Server: Microsoft-IIS/7.5
+X-AspNet-Version: 4.0.30319
+X-AspNetMvc-Version: 2.0
+X-Powered-By: ASP.NET
+Content-Length: 133
+Connection: Close
+
+<html><head><title>Object moved</title></head><body>
+<h2>Object moved to <a href="/ms/add/Complete">here</a>.</h2>
+</body></html>

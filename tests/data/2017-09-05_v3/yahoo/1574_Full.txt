@@ -1,0 +1,577 @@
+GET http://chiebukuro.yahoo.co.jp/my/myspace_quedetail.php?writer=tester999912&flg=3 HTTP/1.1
+Host: chiebukuro.yahoo.co.jp
+User-Agent: Mozilla/5.0 (Windows NT 6.1; WOW64; rv:51.0) Gecko/20100101 Firefox/51.0
+Accept: text/html,application/xhtml+xml,application/xml;q=0.9,*/*;q=0.8
+Accept-Language: ja,en-US;q=0.7,en;q=0.3
+Referer: http://chiebukuro.yahoo.co.jp/my/myspace_quedetail.php?writer=tester999912&flg=4
+Cookie: B=a6lg541c6u1mt&b=4&d=wInzN5dpYF2.yMGU8thCfe9eUch.KVrq9nYvcTUN&s=sn&i=G743H3zvtAVtxUvfpTP_; JV=l7dpcCo04h7pFq4Cz3Wt9d1f8OAPJk0jKNgovcHty0LcfDz4CR7g50todYC7ELsviPyXRvuPFt.xQBQXRlLR90ortD7_E1uIN.thQ_4vrS..ZkDavPZFgu62AuJzxosnwEbJ_jrdcPMzEOKQLG5YenKxYPuJzxhAk7ZEd6z0Dv19XRxslCaWuK46GXIFr0cjmX.n8sVaFtDp6JquSTHzUTKiXLo6V6nvlMT5eV6FMlsa4tmgNWHDuKOQTMicNX67a1UISbtXuJPhAlPlCLtrLM4zjvH9TW2fMxYp; sB=sbt=9vyvQDOZJvA0f1abJxeVLUKrqOSc3Jo-; _vwo_uuid_v2=86864CD76DD169C3625E9466E571F688|fad6cdb99bc2624122629a2ef8821c99; YJTC=g.xxVMSMy4lv3HunYXxlnTv4..BbeS0-; F=a=jpwyAEwMvSBe7xgoEvF1hyVMpEfSn1eXvTuHLOLGBJ9Tyy6K9a.JhlNjZIKSrmwQVFamoNk-&b=tziR; YLS=v=2&p=1&n=1; Y=v=1&n=dmchm5jfmtbgg&l=j4ij4hzzzzrs/o&p=m2ivvjp012000000&ig=00cpr&r=11k&lg=ja-JP&intl=jp; T=z=F7opYBFj3yYB8P.1ssV5zfsNjc2NAYxMzI0MzY0NTY-&sk=DAANY70ht2Pc9a&ks=EAAcTjqFTzNqdyfZJFnmk9pVA--~E&d=dGlwAWFfdEFVRAFhAVFBRQFnATJSWENESElDVkxUTjVYVldKVElLQUNUVU1RAXNsAU1UQXhNd0UyTkRVek5ERXpNakUtAXNjAWFjY3QBenoBRjdvcFlCQTJK; JX=jsZy34QkqHFo; U=mt=672_TZ2MhY9yMNa0sxui5K7L7NLq5p4LppSLWv4-&ux=A9opYB&un=dmchm5jfmtbgg; Ychie=5x.GQBj.70HLQgYpU314vzyAke0lwuM2Rw--
+Connection: close
+Upgrade-Insecure-Requests: 1
+
+
+HTTP/1.1 200 OK
+Date: Fri, 17 Feb 2017 05:56:39 GMT
+P3P: policyref="http://privacy.yahoo.co.jp/w3c/p3p_jp.xml", CP="CAO DSP COR CUR ADM DEV TAI PSA PSD IVAi IVDi CONi TELo OTPi OUR DELi SAMi OTRi UNRi PUBi IND PHY ONL UNI PUR FIN COM NAV INT DEM CNT STA POL HEA PRE GOV"
+X-Content-Type-Options: nosniff
+X-XSS-Protection: 1; mode=block
+X-Frame-Options: SAMEORIGIN
+Cache-Control: private
+Cache-Control: no-cache, private
+Set-Cookie: Ychie=bakztBv.70Hul.VUGC5Mc2Le7vzDw59Trw--; path=/; domain=.chiebukuro.yahoo.co.jp
+Vary: Accept-Encoding,User-Agent
+X-FRAME-OPTIONS: SAMEORIGIN
+Content-Type: text/html; charset=UTF-8
+Age: 2
+Transfer-Encoding: chunked
+Connection: close
+Via: http/1.1 edge1178.img.bbt.yahoo.co.jp (ApacheTrafficServer [c sSf ])
+Server: ATS
+
+85f
+<!DOCTYPE HTML PUBLIC "-//W3C//DTD HTML 4.01 Transitional//EN" "http://www.w3.org/TR/html4/loose.dtd">
+<html lang="ja">
+<head>
+<meta http-equiv="Content-Type" content="text/html; charset=utf-8">
+<meta http-equiv="Content-Style-Type" content="text/css">
+<meta http-equiv="Content-Script-Type" content="text/javascript">
+<title>tester999912さんの質問一覧 - Yahoo!知恵袋</title>
+<meta name="description" content="Yahoo!知恵袋に参加しているtester999912さんのMy知恵袋です。">
+<link rel="canonical" href="http://chiebukuro.yahoo.co.jp/my/myspace_quedetail.php?writer=tester999912">
+<link rel="alternate" media="only screen and (max-width: 640px)" href="http://m.chiebukuro.yahoo.co.jp/my/myspace_list.php?writer=tester999912&type=que">
+<meta name="robots" content="noindex,follow">
+<script type="text/javascript" src="http://i.yimg.jp/images/commerce/js/libs/jquery/core/1.7.1/jquery.min.js"></script>
+<link type="text/css" href="http://i.yimg.jp/images/ks/css/160128/pc/header.css" rel="stylesheet" media="screen, print">
+
+
+<!--skn CSS-->
+<link rel="stylesheet" href="http://i.yimg.jp/images/ks/css/161220/pc/my/ks_my.css" type="text/css" media="all">
+<link rel="stylesheet" href="http://i.yimg.jp/images/ks/myskn/skn001/skn.css" type="text/css" media="all">
+
+
+
+<link href="http://ai.yimg.jp/yui/jp/mh/pc/1.4.1/css/std.css" rel="stylesheet" type="text/css" media="all">
+</head>
+<body class="yj950-2">
+
+<div id="wrapper" class="myListQaAll">
+
+<!--#header start-->
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+<div id="header">
+
+
+
+
+
+	
+	<div class="navigationContents">
+
+		
+		<!--- MH -->
+<div id="sh" data-ult_sec="1">
+<div id="msthd"><div><div id="msthdtp"><div id="msthdUhd"><div class="compo"><p class="txt"><a href="http://ard.yahoo.co.jp/SIG=15bka12al/M=300956517.301824794.303465483.308131643/D=jp_knowldg/S=2078303064:MHUHD/Y=jp/EXP=1487318200/L=e.idETE4Mi6jVgUgWG8G3QA7MjE4LgAAAACTytRA/B=.wb5A2RACH8-/J=1487311000152540/SIG=12220dc23/A=302185463/R=0/*https://forgood.yahoo.co.jp/report/p5/index.html">妊産婦の命を守る「ホワイトリボン」運動の募金を受付中</a></p></div><script language=javascript>
+if(window.yzq_d
+5b4
+==null)window.yzq_d=new Object();
+window.yzq_d['.wb5A2RACH8-']='&U=13la7pk29%2fN%3d.wb5A2RACH8-%2fC%3d300956517.301824794.303465483.308131643%2fD%3dMHUHD%2fB%3d302185463';
+</script><noscript><div style="position:absolute;"><img width=1 height=1 alt="" src="http://b6.yahoo.co.jp/b?P=e.idETE4Mi6jVgUgWG8G3QA7MjE4LgAAAACTytRA&T=16d4rqoie%2fX%3d1487311000%2fE%3d2078303064%2fR%3djp_knowldg%2fK%3d5%2fV%3d2.1%2fW%3dH%2fY%3djp%2fF%3d631445019%2fH%3dbWgtbG9naW4tc3JjPSJrcyIgbWgtZG9tYWluPSJjaGllYnVrdXJvIiBhZGN2ZXI9Ni44LjA-%2fQ%3d-1%2fS%3d1%2fJ%3d58A69098&U=13la7pk29%2fN%3d.wb5A2RACH8-%2fC%3d300956517.301824794.303465483.308131643%2fD%3dMHUHD%2fB%3d302185463"></div></noscript></div><div id="msthdShpPr"><div class="compo"><a href="#" data-ylk="slk:h_promo;pos:0" id="msthdUhdPrLink" class="rapid-noclick-resp"><span></span></a></div></div><div id="msthdsb"><div id="msthdsrch"><form action="http://ard.yahoo.co.jp/SIG=1589gu2g0/M=300957283.301825674.303466540.308131609/D=jp_knowldg/S=2078303064:MH/Y=jp/EXP=1487318200/L=e.idETE4Mi6jVgUgWG8G3QA7MjE4LgAAAACTytRA/B=7wb5A2RACH8-/J=1487311000152540/SIG=11ihguptm/A=302187301/R=0/*http://search.yahoo.co.jp/search" name="p"><p><label id="msthdslb" for="msthdsbox" title="キーワード：" class="offLeft">キーワード：</label><input id="msthdsbox" type="text" name="p" value="" placeholder="ウェブ検索"><button id="msthdsbt" type="submit" title="検索">検索</button><input type=hidden name="ei" value="U
+5b4
+TF-8" id="msthdei"><input type=hidden name="fr" value="ush"></p></form></div></div></div><div class="logo"><a href="http://chiebukuro.yahoo.co.jp" data-ylk="slk:h_srvtop;pos:0" id="msthdLogo"><img src="http://ai.yimg.jp/c/logo/f/2.0/chiebukuro_r_34_2x.png" alt="Yahoo!知恵袋" width="197" height="34"></a></div><div class="msthdtxt"><div id="msthdLoginUser"><p><span id="msthdLoginTxt">ようこそ、</span><a href="https://account.edit.yahoo.co.jp/eval_profile?.done=http%3a%2f%2fchiebukuro.yahoo.co.jp%2fmy%2fmyspace_quedetail.php%3fwriter%3dtester999912%26flg%3d3&.src=ks" class="b" id="msthdLoginName" data-ylk="slk:h_reginf;pos:0">tester999912</a><span id="msthdLoginTxt">さん</span></p></div><div id="msthdPointArea"><p><a href="https://points.yahoo.co.jp/book" data-ylk="slk:h_tpthst;pos:0" id="msthdPoint"><span id="msthdPointNum">-ポイント</span></a><span id="msthdPointTxt"></span><span id="msthdPrBox"></span></p></div></div><div class="msthdlink"><ul><li class="ytop"><a href="http://rdsig.yahoo.co.jp/mh/click/ytop/RV=1/RU=aHR0cDovL3d3dy55YWhvby5jby5qcC8-" data-ylk="slk:h_ytop;pos:0">Yahoo! JAPAN</a></li><li class="help"><a href="https://www.yahoo-help.jp/app/home/service/chiebukuro/" data-ylk="slk:h_hlp;pos:0" id="msthdHelp">ヘルプ</a></li></ul></div></div></div><script type="text/javascript" src="http://ai.yimg.jp/images/ds/rapid/ult.js"></script><script type="text/javascript" src="http://ai.yimg.jp/images/security/pf/pcore-1
+5b4
+.0.1.min.js"></script><script type="text/javascript" src="http://ai.yimg.jp/images/security/pf/yjsecure.js"></script><script type="text/javascript">window.msthdPromo = function() {YAHOO.JP.msthd.Promo.init({uhd: {},txt: {'sb1_pr1': {clsName: 'msthdPrShpIcon',word : 'ソフトバンクのスマホ利用でポイント14倍',url : 'http://rdsig.yahoo.co.jp/shopping/mhd/sb1/RV=1/RU=aHR0cDovL3RvcGljcy5zaG9wcGluZy55YWhvby5jby5qcC9jYW1wYWlnbi9wb2ludHMvc2IvP3NjX2U9eXlsa19taGRfc3RsX3Rfc2I-'},'sb1_pr0': {clsName: 'msthdPrShpIcon',word : 'ソフトバンクのスマホ利用でポイント10倍',url : 'http://rdsig.yahoo.co.jp/shopping/mhd/sb2/RV=1/RU=aHR0cDovL3RvcGljcy5zaG9wcGluZy55YWhvby5jby5qcC9jYW1wYWlnbi9wb2ludHMvc2IvP3NjX2U9eXlsa19taGRfc3RsX3Rfc2I-'},'pr1_sh0': {clsName: 'msthdPrShpIcon',word : '送料込み1,000円　目玉商品セール中',url : 'http://rdsig.yahoo.co.jp/shopping/mhd/1/RV=1/RU=aHR0cDovL3RvcGljcy5zaG9wcGluZy55YWhvby5jby5qcC9zYWxlL3RpbWVzYWxlLz9zY19lPXl5bGtfbWhkX3N0bF90cG4jYW5jLXByaWNlQVBJ'},'pr1_sh1': {clsName: 'msthdPrShpIcon',word : '送料込み1,000円　目玉商品セール中',url : 'http://rdsig.yahoo.co.jp/shopping/mhd/2/RV=1/RU=aHR0cDovL3RvcGljcy5zaG9wcGluZy55YWhvby5jby5qcC9zYWxlL3RpbWVzYWxlLz9zY19lPXl5bGtfbWhkX3N0bF90cHIjYW5jLXByaWNlQVBJ'},'pr0_sh0': {clsName: 'msthdPrShpIcon',word : '送料込み1,000円　目玉商品セール中',url : 'http://rdsig.yahoo.co.jp/shopping/mhd/3/RV=1/RU=aHR0cDovL3RvcGljcy5zaG9
+5b4
+wcGluZy55YWhvby5jby5qcC9zYWxlL3RpbWVzYWxlLz9zY19lPXl5bGtfbWhkX3N0bF90bm4jYW5jLXByaWNlQVBJ'},'pr0_sh1': {clsName: 'msthdPrShpIcon',word : '送料込み1,000円　目玉商品セール中',url : 'http://rdsig.yahoo.co.jp/shopping/mhd/4/RV=1/RU=aHR0cDovL3RvcGljcy5zaG9wcGluZy55YWhvby5jby5qcC9zYWxlL3RpbWVzYWxlLz9zY19lPXl5bGtfbWhkX3N0bF90bnIjYW5jLXByaWNlQVBJ'},'default': { clsName: 'msthdPrShpIcon',word : '送料込み1,000円　目玉商品セール中',url : 'http://rdsig.yahoo.co.jp/shopping/mhd/5/RV=1/RU=aHR0cDovL3RvcGljcy5zaG9wcGluZy55YWhvby5jby5qcC9zYWxlL3RpbWVzYWxlLz9zY19lPXl5bGtfbWhkX3N0bF90bGwjYW5jLXByaWNlQVBJ'}}});};</script><script type="text/javascript">(function(d,t){var s=d.getElementsByTagName(t)[0],n=d.createElement(t);n.id='msthdScript';n.src='http://ai.yimg.jp/yui/jp/mh/pc/1.6.1/js/std-min.js';n.setAttribute('data-s','');n.setAttribute('data-c','hrTxUY82I.i');s.parentNode.insertBefore(n,s);}(document,'script'));</script>
+</div>
+<!--- /MH -->
+
+		
+
+		
+						<div id="emg"><!-- SpaceID=2078303064 loc=EMG noad -->
+</div>		
+
+		
+		
+				
+
+		
+		
+
+<div class="navTab" id="h_nav" data-ult_sec="1">
+	<ul class="listTab clrfx">
+				<li><a href="http://chiebukuro.yahoo.co.jp?fr=common-navi" title="知恵袋トップ" data-ylk="pos:0;slk:top">トップ</a></li>
+				<li><a href="http://chiebukuro.yahoo.co.jp/dir/dir_list.php" title="知恵袋のカテゴリ一覧を見る" data-ylk="pos:0;slk:ca">カテゴリ</a></li>
+				<li><a href="http://
+5b4
+chiebukuro.yahoo.co.jp/ranking/index.php?fr=common-navi" title="人気のQ&amp;Aや知恵ノートをチェック！" data-ylk="pos:0;slk:rnk">ランキング</a></li>
+				<li><a href="http://chiebukuro.yahoo.co.jp/professional?fr=common-navi" title="専門家が回答した質問を見る" data-ylk="pos:0;slk:pro">専門家</a></li>
+				<li><a href="http://chiebukuro.yahoo.co.jp/enterprise?fr=common-navi" title="企業公式アカウント一覧を見る" data-ylk="pos:0;slk:epr">企業公式</a></li>
+				<li><a href="http://chiebukuro.yahoo.co.jp/list/question_list/new?fr=common-navi" title="新しいQ&amp;Aを見る" data-ylk="pos:0;slk:lst">Q&amp;A一覧</a></li>
+				<li><a href="http://chiebukuro.yahoo.co.jp/space/index.php?fr=common-navi" title="回答できる質問を見つけよう" data-ylk="pos:0;slk:spc">回答コーナー</a></li>
+		
+										<li class="tbMyChbkr"><a href="http://chiebukuro.yahoo.co.jp/my/myspace.php?fr=common-navi" title="自分の質問や回答を閲覧する" data-ylk="pos:0;slk:my">My知恵袋</a></li>
+			</ul>
+</div>
+
+		
+
+		
+					<div class="actionContents clrfx">
+
+				
+				<div class="searchForm" id="h_srch" data-ult_sec="1">
+										<form id="searchForm" action="http://chiebukuro.search.yahoo.co.jp/search">
+						<div class="searchBox clrfx">
+							<input type="text" class="txtKeyword" size="50" value="キーワードで探す" name="p" autocomplete="off">
+							
+							<div class="keywordSugge
+5b4
+st">
+								<ul></ul>
+							</div>
+							
+
+							<noscript>
+								<style type="text/css">.actionContents .listTabNav{display:none;}</style>
+								<select>
+									<option>Q&amp;A</option>
+									<option>知恵ノート</option>
+								</select>
+							</noscript>
+
+							
+							<div class="listTabNav">
+								<p class="selected">Q&amp;A</p>
+								<ul class="exNn">
+																			<li class="crrnt">Q&amp;A</li>
+										<li>知恵ノート</li>
+																	</ul>
+							</div>
+							
+
+							<input type="hidden" name="flg" value="3"/>
+							<input type="hidden" name="class" value="1"/>
+							<input type="hidden" name="ei" value="UTF-8"/>
+							<input type="hidden" name="fr" value="common-navi"/>
+							<p class="btnSearch"><input type="submit" value="検索" data-ylk="pos:0;slk:src"></p>
+														<p class="searchOption"><a href="http://chiebukuro.search.yahoo.co.jp/advanced?fr=common-navi" data-ylk="pos:0;slk:det">条件指定</a></p>
+						</div>
+						
+
+											</form>
+				</div>
+				
+
+				
+				<div class="actionBox">
+					<ul class="bttn clrfx" id="h_sndbtn" data-ult_sec="1">
+																																		<li><a href="http://detail.chiebukuro.yahoo.co.jp/qa/question.php?dnum=&fr=common-navi" title="疑問や悩みを投稿してみよう" data-ylk="pos:0;slk:que"><span class="btnQa">質問・相談</span></a></li>
+																										<li><a href="http://note.chiebukuro.yahoo.co.jp/create/c
+5b4
+reate_form.php?category_id=" title="あなたの知恵を共有しよう" data-ylk="pos:0;slk:nt"><span class="btnNt">知恵ノートを書く</span></a></li>
+											</ul>
+
+																
+						<div class="userNickname clrfx">
+														<p class="userInfo" id="h_reg" data-ult_sec="1" title="知恵袋で利用登録済みのIDを確認する"><a href="http://chiebukuro.yahoo.co.jp/my/regist_info.php" data-ylk="pos:0;slk:rgi">登録情報</a></p>
+							<ul class="listNickname" id="h_grd" data-ult_sec="1">
+																																					<li>
+											<div class="nicknameImg">
+																								<a href="http://chiebukuro.yahoo.co.jp/my/myspace.php?writer=tester999912" data-ylk="pos:1;slk:icn"><img src="https://s.yimg.jp/images/ks/official/nt/grd/prf_48.png" width="28" height="28" alt="プロフィール画像"></a>
+											</div>
+											<div class="nicknameInfo">
+												<p class="ncknmTxt">tester999912</p>
+												<p class="iconQa"><span>Q&amp;Aランク</span>1</p>
+												<p class="iconNote"><span>知恵ノートランク</span>1-1</p>
+												<p class="iconLife"><span class="n03">ライフ</span></p>
+												<p class="iconCoin"><span>知恵コイン</span>715枚</p>
+											</div>
+										</li>
+																								</ul>
+						</div><!-- /.usrPrfl -->
+						
+					
+				</div>
+				
+
+			</div>
+			
+		
+		
+				
+
+		
+		<noscript>
+			<div class="alertMod">
+				<ul>
+					<li class="ttl">
+59c
+現在JavaScriptが無効になっています。</li>
+					<li>Yahoo!知恵袋のすべての機能を利用するためには、javaScriptの設定を有効にしてください。</li>
+					<li>JavaScriptの設定を変更するには「<a href="http://help.yahoo.co.jp/help/jp/common/sys/sys-07.html" target="new">JavaScriptの設定方法</a>」をご覧ください。</li>
+				</ul>
+			</div>
+		</noscript>
+		
+
+	</div>
+
+</div>
+
+
+<!--/#header end-->
+
+<hr class="separation">
+
+
+<div id="contents">
+
+
+<div id="contentsHeader">
+<div id="myTitle">
+
+<h1>tester999912さんのMy知恵袋</h1>
+
+<div id="vCounter" class="clearfix">
+<p>訪問者数：</p>
+<span class="vn0">0</span>
+</div>
+
+</div>
+<ul class="clearfix">
+<li class="myNaviTop"><a href="http://chiebukuro.yahoo.co.jp/my/myspace.php?writer=tester999912">My知恵袋トップ</a></li>
+<li class="myNaviP"><a href="http://chiebukuro.yahoo.co.jp/my/tester999912">プロフィール</a></li>
+<li class="myNaviQ"><em>質問一覧</em></li>
+<li class="myNaviA"><a href="http://chiebukuro.yahoo.co.jp/my/myspace_ansdetail.php?writer=tester999912" rel="nofollow">回答一覧</a></li>
+<li class="myNaviNote"><a href="http://chiebukuro.yahoo.co.jp/my/myspace_note.php?writer=tester999912">知恵ノート一覧</a></li>
+<li class="myNaviHistory"><a href="http://chiebukuro.yahoo.co.jp/my/myspace_coin.php?writer=tester999912">知恵コイン通帳</a></li>
+<li class="myNaviCol"><a hr
+5b4
+ef="http://chiebukuro.yahoo.co.jp/my/myspace_collection.php?writer=tester999912">知恵コレクション</a></li>
+<li class="myNaviS"><a href="http://chiebukuro.yahoo.co.jp/my/myconf.php?writer=tester999912">設定</a></li>
+</ul>
+</div>
+
+
+
+<div id="contentsBody">
+<span class="yjGuid"><a name="yjContentsStart" id="yjContentsStart"></a><img src="http://i.yimg.jp/yui/jp/tmpl/1.1.0/audionav.gif" alt="ここから本文です" width="1" height="1"></span>
+
+<div id="mainWrapper">
+<h2><span>質問一覧</span></h2>
+
+<div class="modWrapper">
+<div class="mainWrapperMod">
+
+<table id="qDataTable">
+<tr>
+<th scope="col" class="ft"><span>質問総数</span></th>
+<th scope="col"><span>回答受付中</span></th>
+<th scope="col"><span>投票受付中</span></th>
+<th scope="col"><span>解決済み</span></th>
+<th scope="col" class="lt"><span>取り消し、削除</span></th>
+</tr>
+<tr>
+<td>1件</td>
+<td>1件</td>
+<td>0件</td>
+<td>0件</td>
+<td>0件</td>
+</tr>
+</table>
+<div id="listTab">
+<ul class="yuiNav clearfix">
+<li title="すべて" class="allTab crrntTab">
+<em>すべて</em>
+</li>
+<li title="回答受付中" class="openTab">
+<a href="http://chiebukuro.yahoo.co.jp/my/myspace_quedetail.php?writer=tester999912&flg=0" rel="nofollow">回答受付中</a>
+</li>
+<li title="投票受付中" class="voteTab">
+<a href="http://chiebukuro.yahoo.co.jp/my/myspace_quedetail.php?writer=tester999912&flg=2" rel="nofollow">投票受付中</a>
+</li>
+<li title="解決�
+59c
+��み" class="resolvedTab">
+<a href="http://chiebukuro.yahoo.co.jp/my/myspace_quedetail.php?writer=tester999912&flg=1" rel="nofollow">解決済み</a>
+</li>
+<li title="取り消し/削除" class="delQTab">
+<a href="http://chiebukuro.yahoo.co.jp/my/myspace_quedetail.php?writer=tester999912&flg=4">取り消し/削除</a>
+</li>
+</ul>
+</div>
+<div id="tabSeparate" class="allT">
+<div class="tabSeparateInn"><hr></div>
+</div>
+
+
+<p class="the-number">
+1件中 1件目
+</p>
+
+
+<div id="listEntryName" class="clearfix">
+<p class="eWhen">
+<a href="http://chiebukuro.yahoo.co.jp/my/myspace_quedetail.php?writer=tester999912&flg=3&sort=3">
+<img src="http://i.yimg.jp/images/search/down.gif" alt="降順" width="13" height="13" border="0" align="absmiddle">質問日時
+</a>
+</p>
+<p class="eWhat">質問内容</p>
+<p class="eRead">
+<a href="http://chiebukuro.yahoo.co.jp/my/myspace_quedetail.php?writer=tester999912&flg=3&sort=6">
+閲覧数
+</a>
+</p>
+<p class="eAnsw">
+<a href="http://chiebukuro.yahoo.co.jp/my/myspace_quedetail.php?writer=tester999912&flg=3&sort=4">
+回答数
+</a>
+</p>
+</div>
+
+<ul id="myList">
+<li>
+<div class="lWhen">
+2017/02/17<span>14:55:38
+</span></div>
+<dl>
+<dt>
+<img height="16" width="46" align="absmiddle" src="http://i.yimg.jp/images/ks/official/nt/icon_answer.png" alt="回答受付" class="iconStatus">
+<a href="http://detail.chiebukuro.yahoo.co.jp/qa/question_detail/q10170638840">テストの投稿です。登録で
+5b4
+きるかどうか試します。すぐに...</a>
+<img height="15" width="15" src="http://k.yimg.jp/images/icon/photo.gif" alt="画像投稿">
+<img border="0" alt="NEW" src="http://i.yimg.jp/images/new2.gif">
+</dt>
+<dd><a href="http://chiebukuro.yahoo.co.jp/dir/list/d2078297362">おしゃべり、雑談&nbsp;&gt;&nbsp;投稿練習</a></dd>
+</dl>
+<p class="lRead">0</p>
+<p class="lAnsw">0</p>
+</li>
+</ul>
+
+
+<div id=yschpg>
+<p>
+<br>
+<span>1</span>
+</p>
+</div>
+
+
+</div>
+<!--/.mainWrapperMod-->
+</div><!-- /.modWrapper -->
+
+</div><!--/#mainWrapper-->
+
+
+<div id="side"><!-- プロフィール画像 --><div id="profileImg"><img src="https://s.yimg.jp/images/ks/official/nt/grd/prf_150.png" alt="プロフィール画像" width="150" height="150"><p class="profileName">tester999912さん</p><div class="profileBtn"><a href="http://chiebukuro.yahoo.co.jp/my/myspace_prof_edit.php?writer=tester999912&crm=bxvBvHkvEnV">プロフィールを編集</a></div></div><!-- 称号 --><!-- グレード --><div class="sideMod"><h3><img src="http://i.yimg.jp/images/ks/official/nt/grd/qa_16.png" width="16" height="16"><span>Q&amp;Aグレード</span><span class="entRight">1</span></h3><div class="at-hd-stat"><dl><dt>次のグレードまで</dt><dd><p id="at-hd-info-ans">回答数</p><div class="at-hd-stat-graph"><div class="at-st-gr-base at-gr-0"><div id="ans">0％</div><p class="atHeadPopup"><span id="ansNum">現在/達成条件<br>0/1件</span><span class="atHeadPo
+5b4
+pupBtm">▼</span></p></div></div></dd><dd><p id="at-hd-info-ba">ベストアンサー数</p><div class="at-hd-stat-graph"><div class="at-st-gr-base at-gr-25"><div id="ba">100％</div><p class="atHeadPopup"><span id="baNum">達成条件<br>達成！</span><span class="atHeadPopupBtm">▼</span></p></div></div></dd><dd><p id="at-hd-info-baper">ベストアンサー率</p><div class="at-hd-stat-graph"><div class="at-st-gr-base at-gr-25"><div id="baper">100％</div><p class="atHeadPopup"><span id="baperNum">達成条件<br>達成！</span><span class="atHeadPopupBtm">▼</span></p></div></div></dd></dl></div></div><!-- 知恵ノートグレード --><div class="sideMod"><h3><img src="http://i.yimg.jp/images/ks/official/nt/grd/nt_16.png" width="16" height="16"><span>知恵ノートグレード</span><span class="entRight">1-1</span></h3><div class="at-hd-stat"><dl><dt>次のグレードまで</dt><dd><p id="at-hd-info-ans">投稿数</p><div class="at-hd-stat-graph"><div class="at-st-gr-base at-gr-0"><div id="ans">0％</div><p class="atHeadPopup"><span id="ansNum">現在/達成条件<br>0/1件</span><span class="atHeadPopupBtm">▼</span></p></div></div></dd><dd><p id="at-hd-info-ba">閲覧数（平均）</p><div class="at-hd-stat-graph"><div class="at-st-gr-base at-gr-0"><div id="ba">0％</div><p class="atHeadPopup"><span id="baNum">現在/達成条件<br>0/5件</span><span class="atHeadPopupBtm">▼</span></p></div></div></dd><dd><p id="at
+5b4
+-hd-info-baper">ナイス！数（平均）</p><div class="at-hd-stat-graph"><div class="at-st-gr-base at-gr-25"><div id="baper">100％</div><p class="atHeadPopup"><span id="baperNum">達成条件<br>達成！</span><span class="atHeadPopupBtm">▼</span></p></div></div></dd></dl></div></div><!-- 成績 --><div id="myTopResults" class="sideMod"><h3><img src="http://i.yimg.jp/images/ks/official/nt/i_graph.gif" width="16" height="16"><span>成績</span></h3><ul><li><p>質問総数</p><span>0件</span></li><li><p>質問解決率</p><span>0％</span></li><li><p>ベストアンサー数</p><span>0件</span></li><li><p>ベストアンサー率</p><span>0％</span></li><li><p>知恵ノート投稿数</p><span>0件</span></li><li class="alnRight"><a href="http://chiebukuro.yahoo.co.jp/my/tester999912#stat">成績詳細を見る</a></li></ul></div><!-- 知恵コイン --><div id="myTopCoin" class="sideMod"><h3><img src="http://i.yimg.jp/images/ks/official/nt/i_coin.gif" width="16" height="16"><span>知恵コイン</span></h3><ul><li class="alnRight">715枚</li><li class="alnRight"><a href="http://chiebukuro.yahoo.co.jp/my/myspace_coin.php?writer=tester999912">知恵コイン履歴を見る</a></li></ul></div><!-- ライフ --><div id="myTopLife" class="sideMod"><h3><img src="http://i.yimg.jp/images/ks/official/nt/i_life.gif" width="16" height="16"><span>ライフ</span></h3><ul><li class="alnRight"><img src="http://i.yimg.jp/images/ks/official/n
+5b4
+t/i_life.gif" width="16" height="16"><img src="http://i.yimg.jp/images/ks/official/nt/i_life.gif" width="16" height="16"><img src="http://i.yimg.jp/images/ks/official/nt/i_life.gif" width="16" height="16"></li></ul></div><!-- 直近の投稿 --><div id="myTopPost" class="sideMod"><h3>最近の更新</h3><ul><li><p><img src="http://i.yimg.jp/images/ks/official/my/icon_myq.png" alt="質問日時" width="16" height="16">2017/02/17 14:55:38</p><p><a href="http://detail.chiebukuro.yahoo.co.jp/qa/question_detail/q10170638840">テストの投稿です。登録できるかどうか試します...</a></p></li></ul></div></div><!--/side-->
+
+
+
+</div>
+<!--/#contentsBody-->
+
+
+<div id="contentsFooter">
+<span class="yjGuid"><img src="http://i.yimg.jp/yui/jp/tmpl/1.1.0/audionav.gif" width="1" height="1" alt="本文はここまでです"></span>
+
+<span class="yjSkip">
+<a href="#yjPagetop"><img src="http://i.yimg.jp/yui/jp/tmpl/1.1.0/audionav.gif" alt="このページの先頭へ" width="1" height="1"></a></span>
+</div><!--/#contentsFooter-->
+
+</div><!--/#contents end-->
+
+
+<hr class="separation">
+
+<!--footer start-->
+
+<div id="footer">
+
+
+<div id="sbox-bot" data-ult_sec="1">
+<div id="pos-s" style="padding: 10px 0; border-top: 1px solid #ccc; margin-top: 5px;">
+<style type="text/css">#uftMain, #uftMain *{float:none;clear:none;margin:0;padding:0;border:0 solid;border-radius:0;font-size:100%;font-weight:normal;font-style:normal;text-indent:0;letter-spacing:0
+5b4
+;word-spacing:0;text-transform:none;vertical-align:baseline;}#uftMain div{background-image:url(https://s.yimg.jp/yui/jp/uft/2.0.1/img/uftChnk.png);background-repeat:no-repeat;}@media only screen and (-webkit-min-device-pixel-ratio:1.1),only screen and (min-device-pixel-ratio:1.1){#uftMain div{background-image:url(https://s.yimg.jp/yui/jp/uft/2.0.1/img/uftChnk_x2.png);-webkit-background-size:728px 28px;background-size:728px 28px;}}</style><div id="uftMain" style="width:100%;text-align:center;height:34px;padding:3px 0 0 0;"><div style="position:relative;margin:0 auto;width:728px;height:28px;"><form action="https://search.yahoo.co.jp/search" name="p" target="uhd"><p style="position:absolute;top:0;left:54px;"><a href="http://rdsig.yahoo.co.jp/search/uft/ytop/RV=1/RU=aHR0cDovL3d3dy55YWhvby5jby5qcC8-" title="Yahoo! JAPAN" style="display:block;width:43px;height:28px;text-indent:-9999px;">Yahoo!Japan</a></p><input id="uftSBox" name="p" type="text" value="" style="position:absolute;top:6px;left:112px;width:385px;height:18px;background-color:#fff;font-size:13px;line-height:17px;vertical-align:bottom;outline:none;"><button type="submit" title="ウェブ検索" style="position:absolute;top:0;left:506px;width:110px;height:28px;background-color:transparent;text-indent:-9999px;cursor:pointer;">ウェブ検索</button><input type="hidden" name="ei" value="UTF-8"><input type="hidden" name="fr" value="usf"></form><p style="position:absolute;top:0;left:
+111c
+622px;"><a href="http://rdsig.yahoo.co.jp/search/uft/krank/RV=1/RU=aHR0cDovL3NlYXJjaHJhbmtpbmcueWFob28uY28uanAvcnRfYnVyc3Qv" title="Yahoo!検索データ 急上昇ワード" style="display:block;width:106px;height:28px;text-indent:-9999px;">Yahoo!検索データ 急上昇ワード</a></p></div></div><!-- http://ard.yahoo.co.jp/SIG=158e27q96/M=300951180.301818803.303441908.302953375/D=jp_knowldg/S=2078303064:S8/Y=jp/EXP=1487318200/L=e.idETE4Mi6jVgUgWG8G3QA7MjE4LgAAAACTytRA/B=8wb5A2RACH8-/J=1487311000152540/SIG=1199007lk/A=302141184/R=0/?http://www.yahoo.co.jp/ --><script language=javascript>
+if(window.yzq_d==null)window.yzq_d=new Object();
+window.yzq_d['8wb5A2RACH8-']='&U=13if6fhc4%2fN%3d8wb5A2RACH8-%2fC%3d300951180.301818803.303441908.302953375%2fD%3dS8%2fB%3d302141184';
+</script><noscript><div style="position:absolute;"><img width=1 height=1 alt="" src="http://b6.yahoo.co.jp/b?P=e.idETE4Mi6jVgUgWG8G3QA7MjE4LgAAAACTytRA&T=16c4m608u%2fX%3d1487311000%2fE%3d2078303064%2fR%3djp_knowldg%2fK%3d5%2fV%3d2.1%2fW%3dH%2fY%3djp%2fF%3d44797853%2fH%3dbWgtbG9naW4tc3JjPSJrcyIgbWgtZG9tYWluPSJjaGllYnVrdXJvIiBhZGN2ZXI9Ni44LjA-%2fQ%3d-1%2fS%3d1%2fJ%3d58A69098&U=13if6fhc4%2fN%3d8wb5A2RACH8-%2fC%3d300951180.301818803.303441908.302953375%2fD%3dS8%2fB%3d302141184"></div></noscript>
+</div><!-- #pos-s end-->
+</div>
+
+
+<address id="sf" data-ult_sec="1">
+<a href="http://docs.yahoo.co.jp/docs/info/terms/chapter1.html#cf2nd" data-ylk="pos:0;slk:plc">プライバシーポリシー</a> -
+<a href="http://docs.yahoo.co.jp/docs/info/terms/" data-ylk="pos:0;slk:trm">利用規約</a> -
+<a href="http://docs.yahoo.co.jp/info/mediastatement/" data-ylk="pos:0;slk:mstat">メディアステートメント</a> -
+<a href="http://docs.yahoo.co.jp/docs/info/terms/chapter1.html#cf3rd" data-ylk="pos:0;slk:gui">ガイドライン</a> -
+<a href="http://chiebukuro.yahoo.co.jp/docs/sitemap.html" data-ylk="pos:0;slk:sit">サイトマップ</a> -
+<a href="http://help.yahoo.co.jp/help/jp/chiebukuro/" data-ylk="pos:0;slk:hlp">ヘルプ・お問い合わせ</a>
+<p>JASRAC許諾番号：9008249113Y38200</p>
+<p>Copyright (C) 2017 Yahoo Japan Corporation. All Rights Reserved.</p>
+</address><!-- #address end-->
+
+</div>
+
+<!--/footer end-->
+
+</div><!--/#wrapper end-->
+
+
+
+
+
+
+
+
+<script type="text/javascript" src="http://i.yimg.jp/images/ks/js/my/myCommon.js"></script>
+<script type="text/javascript" src="http://i.yimg.jp/images/ks/js/140221/naviJs/OpenWidget.js" ></script>
+
+
+<script type="text/javascript" src="/common/jquery.multiProfile.js"></script>
+
+
+
+
+
+
+
+
+<script type="text/javascript">
+$(function() {
+ var navi       = $('.actionContents'),
+ searchForm = navi.find('.listTabNav'),
+ searchBox  = navi.find('.txtKeyword'),
+ userImage  = navi.find('.nicknameImg'),
+ defaultMsg = 'キーワードで探す';
+
+ // 新共通ナビ 検索プルダウン
+ searchForm.find('p').bind('click', function() {
+  $(this).siblings('ul').toggleClass('exNn');
+ });
+ searchForm.find('li').bind('click', function() {
+  $(this).siblings().removeClass('crrnt');
+  $(this).addClass('crrnt');
+
+  var search_type  = $.trim($(this).text()),
+  search_class = (search_type == '知恵ノート') ? 2 : 1;
+
+  searchForm.closest('form').find('input[name="class"]').val(search_class);
+  searchForm.find('p').text(search_type);
+  searchForm.find('ul').addClass('exNn');
+ });
+
+ // 新共通ナビ 検索ボックス
+ searchBox.bind('focus', function() {
+  $(this).addClass('crrnt');
+  if ($(this).val() == defaultMsg) {
+   $(this).val('');
+  }
+ });
+ searchBox.bind('blur', function() {
+  if ($(this).val() == '') {
+   $(this).val(defaultMsg).removeClass('crrnt');
+  }
+ });
+ searchBox.closest('form').bind('submit', function() {
+  if (!searchBox.hasClass('crrnt')) {
+   searchBox.val('');
+  }
+ });
+
+ if (searchBox.val() != defaultMsg) {
+  searchBox.addClass('crrnt')
+ }
+
+ // 新共通ナビ 複数人格hover
+ userImage.hover(
+  function() {
+   $(this).siblings('.nicknameInfo').addClass('exShw');
+  },
+  function() {
+   $(this).siblings('.nicknameInfo').removeClass('exShw');
+  }
+ );
+
+ // その他 検索ボックス
+ $('form').find('.btnSearch').bind('click', function() {
+  var box = $(this).find('.txtKeyword');
+  if (box.val() == defaultMsg) {
+   box.val('');
+  }
+ });
+});
+</script>
+
+
+
+
+
+
+
+</body>
+</html>
+
+<script src="http://i.yimg.jp/images/ds/ult/chiebukuro/rapidjp-1.0.0.js"></script>
+<script src="http://i.yimg.jp/images
+581
+/chie/js/ChieRapid3Common-1.0.3.0-min.js"></script>
+<script>
+var ChieRapid3 = function() {
+	return this.initRapid3.apply(this, arguments);
+};
+ChieRapid3.prototype = new ChieRapid3Common('web', 'pc');
+</script>
+
+<script type="text/javascript">
+$(function(){
+	var rapid3 = new ChieRapid3({
+		spaceid     : 2078303064,
+		pagetype    : 'list',
+		conttype    : 'my_que',
+		page        : 1
+	});
+});
+</script>
+
+<script language=javascript>
+if(window.yzq_p==null)document.write("<scr"+"ipt language=javascript src=http://ai.yimg.jp/bdv/yahoo/javascript/csc/20060824/lib2obf_b6.js></scr"+"ipt>");
+</script><script language=javascript>
+if(window.yzq_p)yzq_p('P=e.idETE4Mi6jVgUgWG8G3QA7MjE4LgAAAACTytRA&T=169ifku2m%2fX%3d1487311000%2fE%3d2078303064%2fR%3djp_knowldg%2fK%3d5%2fV%3d1.1%2fW%3dJ%2fY%3djp%2fF%3d2158286911%2fH%3dbWgtbG9naW4tc3JjPSJrcyIgbWgtZG9tYWluPSJjaGllYnVrdXJvIiBhZGN2ZXI9Ni44LjA-%2fS%3d1%2fJ%3d58A69098');
+if(window.yzq_s)yzq_s();
+</script><noscript><div style="position:absolute;"><img width=1 height=1 alt="" src="http://b6.yahoo.co.jp/b?P=e.idETE4Mi6jVgUgWG8G3QA7MjE4LgAAAACTytRA&T=16eh9li9n%2fX%3d1487311000%2fE%3d2078303064%2fR%3djp_knowldg%2fK%3d5%2fV%3d3.1%2fW%3dJ%2fY%3djp%2fF%3d3816590588%2fH%3dbWgtbG9naW4tc3JjPSJrcyIgbWgtZG9tYWluPSJjaGllYnVrdXJvIiBhZGN2ZXI9Ni44LjA-%2fQ%3d-1%2fS%3d1%2fJ%3d58A69098"></div></noscript>
+<!-- top1003.ksearch.ssk.ynwp.yahoo.co.jp Fri Feb 17 14:56:39 JST 2017 -->
+
+0
+

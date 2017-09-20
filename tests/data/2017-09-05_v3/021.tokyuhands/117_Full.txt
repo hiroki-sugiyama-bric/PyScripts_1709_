@@ -1,0 +1,24 @@
+POST https://hands.net/newmember HTTP/1.1
+Host: hands.net
+User-Agent: Mozilla/5.0 (Windows NT 6.1; WOW64; rv:52.0) Gecko/20100101 Firefox/52.0
+Accept: text/html,application/xhtml+xml,application/xml;q=0.9,*/*;q=0.8
+Accept-Language: ja,en-US;q=0.7,en;q=0.3
+Accept-Encoding: gzip, deflate, br
+Referer: https://hands.net/newmember
+Cookie: handscid=T3Q32UMVEv_trmYIBaJbBWu3O8e2UlwJGUJLDN9P8iwINE-Bzu8QbMfku4UwqerGZIIPq1Tr4vEknmeYz9X9Cz5g3HAdqkRioE-S51i0gLZRdIgLK7CCZu_I4q7exrkLlSpTGUXyWVXoJ-XATtxBWHw_mvk9e1ZsGidjB1UdDvIFkBsSnguxoYXXyDibzBQhRgys9vkOP7-tBHrGaFKRKUh3WKMMCAJYh8bp2_a8JOO4gWOQDc3cRr_oGAqHx-cKRhG4O2_vsj3h_qUW_MsWNMmnSI4HXDhyJF9uyh5aRgEBrAXi2KfIzO_Hq497F23ecmC07JWYvk8foADfxE15Vk45xUoLPkczPOOeTzSsVvHx4lv54NktfFzO7bXRZ3ePAnvqOk19XdHbKvPEDgxOCq8ZJlu7pK7GRmsRkTBz53DEw6eMhEz8qoa644ikxguDOUUmkV5-Vxz6AkjQgN5Nz7AoFpspDd714AX_Ulm3dEBCcjlPdF9nQ1B1N0xnQnlQVjNjcHQwaVpnVWFCZnhCYXBqUHZJWERtRHRr; _kyp={'.hands.net':{'uid':'a35c0c34-ba7e-0b0e-0aef-e5640ed954e7'%2C'_ex':1493538513206%2C'i':{'lt':1491296486509%2C'_ex':1493888486511%2C'sid':'ebbe0fa641ea'%2C'sc':2%2C'lc':17}}}; _ga=GA1.2.202519889.1490946514; ref=d41d8cd98f00b204e9800998ecf8427e; fct=0fcd0859a4a4e7aa34379f5965ef3685; header=%7B%22name%22%3A%22%22%2C%22is_loggedin%22%3Afalse%2C%22current_point%22%3A%220%22%2C%22stock_cart_quantity%22%3A0%2C%22cart_quantity%22%3A0%2C%22search_word_list%22%3A%5B%7B%22Ranking%22%3A1%2C%22SearchWord%22%3A%22%5Cu6d0b%5Cu670d%5Cu30d6%5Cu30e9%5Cu30b7%22%7D%2C%7B%22Ranking%22%3A2%2C%22SearchWord%22%3A%22%5Cu30da%5Cu30f3%5Cu30b1%5Cu30fc%5Cu30b9%22%7D%2C%7B%22Ranking%22%3A3%2C%22SearchWord%22%3A%22%5Cu30d3%5Cu30b8%5Cu30cd%5Cu30b9%5Cu30d0%5Cu30c3%5Cu30b0%22%7D%5D%7D
+Connection: keep-alive
+Upgrade-Insecure-Requests: 1
+Content-Type: application/x-www-form-urlencoded
+Content-Length: 88
+
+fct=0fcd0859a4a4e7aa34379f5965ef3685&email1=crawlingtest1000&email2=gmail.com&x=123&y=18
+HTTP/1.1 302 Found
+Content-Type: text/html
+Date: Tue, 04 Apr 2017 09:01:26 GMT
+Location: https://hands.net/newmember/maildone
+Server: nginx
+Set-Cookie: handscid=T3Q32UMVEv_trmYIBaJbBWu3O8e2UlwJGUJLDN9P8iwINE-Bzu8QbMfku4UwqerGZIIPq1Tr4vEknmeYz9X9Cz5g3HAdqkRioE-S51i0gLZRdIgLK7CCZu_I4q7exrkLlSpTGUXyWVXoJ-XATtxBWHw_mvk9e1ZsGidjB1UdDvIFkBsSnguxoYXXyDibzBQhRgys9vkOP7-tBHrGaFKRKUh3WKMMCAJYh8bp2_a8JOO4gWOQDc3cRr_oGAqHx-cKRhG4O2_vsj3h_qUW_MsWNMmnSI4HXDhyJF9uyh5aRgEBrAXi2KfIzO_Hq497F23ecmC07JWYvk8foADfxE15Vk45xUoLPkczPOOeTzSsVvHnw4P7cFwl5KdOO-xTt9rBp4wsF8Zvr59IOyOhpfLKrWFDCS8incZeKKfD8QBGbWib1DtiCZpNGEtYPhaafMqE5rR3SWDqC2tE8_gWGg1PK7o81UhdD_H4RHt5Ow6otDVpWEZmUnFsR0ZMcVBLcUpvVmF6MUJfbUY1SXpCZEN3VUZyX2JzbURmbHdZ; expires=Thu, 04-Apr-2019 09:01:26 GMT; Max-Age=63072000; path=/; secure; httponly
+X-Frame-Options: SAMEORIGIN
+Content-Length: 0
+Connection: keep-alive
+

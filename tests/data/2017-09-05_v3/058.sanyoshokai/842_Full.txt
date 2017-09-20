@@ -1,0 +1,29 @@
+POST https://members.sanyo-shokai.co.jp/ms/change/Brands HTTP/1.1
+Host: members.sanyo-shokai.co.jp
+User-Agent: Mozilla/5.0 (Windows NT 6.1; WOW64; rv:52.0) Gecko/20100101 Firefox/52.0
+Accept: text/html,application/xhtml+xml,application/xml;q=0.9,*/*;q=0.8
+Accept-Language: ja,en-US;q=0.7,en;q=0.3
+Accept-Encoding: gzip, deflate, br
+Referer: https://members.sanyo-shokai.co.jp/ms/change/Brands
+Cookie: AspxAutoDetectCookieSupport=1; ASP.NET_SessionId=ojttnvzcs4flq0vephdcf0vz; AMCV_2AA98C3E55E8481C7F000101%40AdobeOrg=793872103%7CMCIDTS%7C17267%7CMCMID%7C06316279283020518553052341503445460208%7CMCAID%7CNONE%7CMCAAMLH-1492414740%7C11%7CMCAAMB-1492414740%7Chmk_Lq6TPIBMW925SPhw3Q; mbox=session#1491809938876-354752#1491814160|PC#1491809938876-354752.18_22#1494404300|check#true#1491812360; isMember=false; s_fv=1491809942726; s_lv=1491812299827; s_lv_s=First%20Visit; s_cc=true; s_nr=1491812403978; gpv_p51=membership%3Achange%3Aentry2; s_ppvl=membership%253Achange%253Aentry%2C35%2C99%2C2478%2C1536%2C865%2C1536%2C960%2C1.25%2CL; s_ppv=membership%253Achange%253Aentry2%2C46%2C100%2C1895%2C1536%2C865%2C1536%2C960%2C1.25%2CL; s_sq=snyskisanyoistorejpprd%3D%2526pid%253Dmembership%25253Achange%25253Aentry2%2526pidt%253D1%2526oid%253Dhttps%25253A%25252F%25252Fmembers.sanyo-shokai.co.jp%25252Fimages%25252Fparts%25252Fbtn_next_r.gif%2526ot%253DIMAGE; _ga=GA1.3.609881291.1491809943; krt.vis=1217107314_1491809948675_68248893; AWSELB=87ADFF9D02E5198A7AE0258D21329D4886A9D96F90146BDBC5C298A29121DA7175E8B074BEEB9C6AD7881A203554EDDEF943D4AC1319CF872B64479FCEE9ECD43DF1677F29
+Connection: close
+Upgrade-Insecure-Requests: 1
+Content-Type: application/x-www-form-urlencoded
+Content-Length: 1190
+
+mailmags_brands=100015AMACA&mailmags_brands=100022EVEX+by+KRIZIA&mailmags_brands=100011EPOCA&mailmags_brands=100028EPOCA+THE+SHOP&mailmags_brands=100030GUILD+PRIME&mailmags_brands=100014COTOO&mailmags_brands=100032SANYO&mailmags_brands=100041SANYO+ESSENTIALS&mailmags_brands=100013TO+BE+CHIC&mailmags_brands=100021TRANS+WORK&mailmags_brands=100029VINVERT&mailmags_brands=100047100%E5%B9%B4%E3%82%B3%E3%83%BC%E3%83%88&mailmags_brands=100020Paul+Stuart&mailmags_brands=100035Paul+Stuart+SPORT&mailmags_brands=100016MACKINTOSH+PHILOSOPHY&mailmags_brands=100044MACKINTOSH+LONDON&mailmags_brands=200027ILFARO&mailmags_brands=200012EPOCA+UOMO&mailmags_brands=200030GUILD+PRIME&mailmags_brands=200033SANYO+MENS&mailmags_brands=200041SANYO+ESSENTIALS&mailmags_brands=200006%E4%B8%89%E9%99%BD%E5%B1%B1%E9%95%B7&mailmags_brands=200031THE+SCOTCH+HOUSE&mailmags_brands=200046100%E5%B9%B4%E3%82%B3%E3%83%BC%E3%83%88&mailmags_brands=200039FRANCO+PRINZIVALLI&mailmags_brands=200036PRINGLE+1815&mailmags_brands=200019Paul+Stuart&mailmags_brands=200035Paul+Stuart+SPORT&mailmags_brands=200017MACKINTOSH+PHILOSOPHY&mailmags_brands=200045MACKINTOSH+LONDON&trigger=&scroll_top=0&imageField.x=62&imageField.y=16
+HTTP/1.1 302 Found
+Cache-Control: private
+Content-Type: text/html; charset=utf-8
+Date: Mon, 10 Apr 2017 08:19:53 GMT
+Location: /ms/change/Alert?page=brands
+Server: Microsoft-IIS/7.5
+X-AspNet-Version: 4.0.30319
+X-AspNetMvc-Version: 2.0
+X-Powered-By: ASP.NET
+Content-Length: 145
+Connection: Close
+
+<html><head><title>Object moved</title></head><body>
+<h2>Object moved to <a href="/ms/change/Alert?page=brands">here</a>.</h2>
+</body></html>

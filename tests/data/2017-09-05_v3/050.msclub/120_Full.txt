@@ -1,0 +1,87 @@
+GET https://msclub.jp/Front/F00001701.php/0 HTTP/1.1
+Host: msclub.jp
+User-Agent: Mozilla/5.0 (Windows NT 6.1; WOW64; rv:52.0) Gecko/20100101 Firefox/52.0
+Accept: text/html,application/xhtml+xml,application/xml;q=0.9,*/*;q=0.8
+Accept-Language: ja,en-US;q=0.7,en;q=0.3
+Accept-Encoding: gzip, deflate, br
+Referer: https://msclub.jp/Front/F00001601.php/0/135886/e174c4d6b0138b03081a757d343461ec230d5e2f9129c0c39322fb162635399c
+Cookie: PHP_BASE_MGSID_0=0200020000000000000000000000000149144979400028180; PHP_BASE_MGSID_0_AuthTicket=0637f11a25e07e1a3037122e31b8c26c2fb9b770
+Connection: close
+Upgrade-Insecure-Requests: 1
+
+
+HTTP/1.1 200 OK
+Date: Thu, 06 Apr 2017 03:39:37 GMT
+Server: Apache
+Cache-Control: post-check=0, pre-check=0, no-cache, no-store
+Pragma: no-cache
+Expires: 0
+Last-Modified: Thu, 06 Apr 2017 03:39:37 GMT
+Content-Length: 2553
+Connection: close
+Content-Type: text/html; charset=UTF-8
+
+<!DOCTYPE HTML PUBLIC "-//W3C//DTD HTML 4.01 Transitional//EN" "http://www.w3.org/TR/html4/loose.dtd">
+<html lang="ja">
+<head>
+<!-- Google Tag Manager -->
+<script>(function(w,d,s,l,i){w[l]=w[l]||[];w[l].push({'gtm.start':
+new Date().getTime(),event:'gtm.js'});var f=d.getElementsByTagName(s)[0],
+j=d.createElement(s),dl=l!='dataLayer'?'&l='+l:'';j.async=true;j.src=
+'https://www.googletagmanager.com/gtm.js?id='+i+dl;f.parentNode.insertBefore(j,f);
+})(window,document,'script','dataLayer','GTM-M4BDX37');</script>
+<!-- End Google Tag Manager -->
+<meta http-equiv="Content-Type" content="text/html; charset=UTF-8">
+<title>森永乳業</title>
+<META NAME="keywords" CONTENT="" >
+<META NAME="Description" CONTENT="" >
+
+<link rel="stylesheet" type="text/css" href="/Front/common/PC/css/content_import.css" media="all">
+<script src="/Front/common/PC/js/screen-control.js" type="text/javascript"></script>
+
+</head>
+<body>
+<!-- Google Tag Manager (noscript) -->
+<noscript><iframe src="https://www.googletagmanager.com/ns.html?id=GTM-M4BDX37"
+height="0" width="0" style="display:none;visibility:hidden"></iframe></noscript>
+<!-- End Google Tag Manager (noscript) -->
+<div id="contentAll">
+<!--contentAll-->
+	    <!--contentAll-->
+    <div id="contentHead">
+        <!--contentHead-->
+        <div class="headBdr">
+        <p><img src="/Front/img/0_pc_header.gif" width="800" alt="morinaga"></p>
+        </div>
+        <!--/contentHead-->
+    </div>
+
+	<div id="contentBody">
+	<!--contentBody-->
+		<div id="contentBodyMain">
+		<!--contentBodyMain-->
+
+			<div class="headlineA">
+				<h1>パスワード変更完了</h1>
+			</div>
+			<p class="ftLarge txtAlignC margB10">パスワードの変更が完了いたしました。</p>
+			<p class="ftLarge txtAlignC margB10">ご登録いただいたメールアドレスに<br>確認用メールを送信いたしました。</p>
+      <p class="ftLarge txtAlignC margB60">※このページで、ブラウザの「戻る」は使わないでください。</p>
+
+					<ul class="launchBtn">
+						<li><a href="http://www.morinagamilk.co.jp/campaign/"><img src="/Front/common/PC/image/btn_re_top.gif" width="263" height="57" alt="トップページに戻る"></a></li>
+					</ul>
+
+		<!--/contentBodyMain-->
+		</div>
+	<!--/contentBody-->
+	</div>
+	    <div id="contentFoot">
+    <!--contentFoot-->
+        <p><img src="/Front/img/0_pc_footer.gif" width="800" alt="Copyright(C)MORINAGA MILK INDUSTRY CO.,LTD. All Rights Reserved."></p>
+    <!--/contentFoot-->
+    </div>
+<!--/contentAll-->
+</div>
+</body>
+</html>

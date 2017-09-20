@@ -1,0 +1,214 @@
+POST https://stg-life.tobu.co.jp/member/individual/form/27ca1fed6ac9595deba8cc90e3b99f02c29c4675 HTTP/1.1
+Host: stg-life.tobu.co.jp
+Connection: close
+Content-Length: 1768
+Cache-Control: max-age=0
+Origin: https://stg-life.tobu.co.jp
+Upgrade-Insecure-Requests: 1
+User-Agent: Mozilla/5.0 (Windows NT 10.0; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/56.0.2924.87 Safari/537.36
+Content-Type: application/x-www-form-urlencoded
+Accept: text/html,application/xhtml+xml,application/xml;q=0.9,image/webp,*/*;q=0.8
+Referer: https://stg-life.tobu.co.jp/member/individual/form/27ca1fed6ac9595deba8cc90e3b99f02c29c4675
+Accept-Encoding: gzip, deflate, br
+Accept-Language: ja,en-US;q=0.8,en;q=0.6
+Cookie: tsol_frontend=3084c101297c7d1a90fe80443f492059
+
+member_register%5Bmail_address%5D=secdiv27%40bbsec.co.jp&member_register%5Bname%5D=%E8%A8%BA%E6%96%AD%E3%81%9F%E3%82%8D%E3%83%BC&member_register%5Braw_password%5D=bbsec123&member_register%5Braw_password_confirm%5D=bbsec123&member_register%5Bpostal_code%5D%5Bcode%5D=160&member_register%5Bpostal_code%5D%5Barea%5D=0023&member_register%5Bbirthday%5D%5Byear%5D=1980&member_register%5Bbirthday%5D%5Bmonth%5D=1&member_register%5Bbirthday%5D%5Bday%5D=1&member_register%5BRailwayLine%5D=1&member_register%5BStations%5D%5B%5D=1&member_register%5BStations%5D%5B%5D=2&member_register%5BStations%5D%5B%5D=3&member_register%5BStations%5D%5B%5D=4&member_register%5BStations%5D%5B%5D=5&member_register%5BStations%5D%5B%5D=6&member_register%5BStations%5D%5B%5D=7&member_register%5BStations%5D%5B%5D=8&member_register%5BStations%5D%5B%5D=9&member_register%5BStations%5D%5B%5D=10&member_register%5BStations%5D%5B%5D=11&member_register%5BStations%5D%5B%5D=12&member_register%5BStations%5D%5B%5D=13&member_register%5BStations%5D%5B%5D=14&member_register%5BStations%5D%5B%5D=15&member_register%5BStations%5D%5B%5D=16&member_register%5BStations%5D%5B%5D=17&member_register%5BStations%5D%5B%5D=18&member_register%5BStations%5D%5B%5D=19&member_register%5BStations%5D%5B%5D=20&member_register%5BStations%5D%5B%5D=21&member_register%5BStations%5D%5B%5D=22&member_register%5BStations%5D%5B%5D=23&member_register%5BStations%5D%5B%5D=24&member_register%5BStations%5D%5B%5D=25&member_register%5BStations%5D%5B%5D=26&member_register%5BStations%5D%5B%5D=27&member_register%5BStations%5D%5B%5D=28&member_register%5BStations%5D%5B%5D=35&member_register%5BStations%5D%5B%5D=36&member_register%5Bis_mailmagazine%5D=1&member_register%5B_token%5D=D6OEtOCe_gXHOkU-1M3RaTq0hEWG6Mvm1GfD0VaOx3k&action=confirm
+HTTP/1.1 200 OK
+Date: Tue, 28 Feb 2017 07:50:51 GMT
+Server: Apache/2.4.6 (Red Hat) PHP/7.0.14 OpenSSL/1.0.0-fips
+X-Powered-By: PHP/7.0.14
+Cache-Control: no-cache
+Connection: close
+Transfer-Encoding: chunked
+Content-Type: text/html; charset=UTF-8
+
+26af
+<!DOCTYPE html>
+<html lang="ja">
+<head>
+<title>個人会員登録確認 | ソライエナビ</title>
+<meta name="description" content="">
+<meta name="keywords" content="">
+<meta charset="utf-8">
+<meta http-equiv="X-UA-Compatible" content="IE=edge">
+<meta name="robots" content="none" /><style>
+body {
+  font-family: sans-serif; /*NotoSans読み込みまで使用*/
+}
+</style>
+<meta name="viewport" content="width=1024,maximum-scale=1">
+<link rel="stylesheet" href="/module/lib/drawer/drawer.css" media="all">
+<link rel="stylesheet" href="/module/css/bootstrap/bootstrap.css" media="all">
+<link rel="stylesheet" href="/module/lib/slider-pro/slider-pro.css" media="all">
+<link rel="stylesheet" href="/module/css/style.css" media="all">
+
+<script src="/module/js/jquery-2.2.4.min.js"></script>
+<script src="/module/js/common.js"></script>
+<!--- plugin iscroll --->
+<script src="/module/lib/iscroll.js"></script>
+<!--- plugin drawer --->
+<script src="/module/lib/drawer/drawer.min.js"></script>
+<!--- plugin slick --->
+<script src="/module/lib/slider-pro/slider-pro.js"></script>
+<script src="/module/js/bootstrap.min.js"></script>
+<!--[if lt IE 9]>
+<script src="//cdn.jsdelivr.net/html5shiv/3.7.2/html5shiv.min.js"></script>
+<script src="//cdnjs.cloudflare.com/ajax/libs/respond.js/1.4.2/respond.min.js"></script>
+<![endif]-->
+<script src="/module/js/jsrender.min.js"></script>
+<script src="/module/js/jquery.showProfile.js"></script>
+
+<script id="popupProfileTemplate" type="text/x-jsrender">
+  <div class="user-info">
+    <p class="user-name">{{>name}}<span>さん</span></p>
+    <ul class="user-info-sub">
+      <li>{{>age}}　{{>gender}}</li>
+      {{if job}}
+      <li>職業：{{>job}}</li>
+      {{/if}}
+      {{if hobby}}
+      <li>趣味：{{>hobby}}</li>
+      {{/if}}
+    </ul>
+  </div>
+  <p class="user-comment">{{>comment}}</p>
+  <ul class="user-counter">
+    <li>
+      <span>トピック<br>投稿</span>
+      <span class="counter">{{>count.talk || 0}}</span>
+    </li>
+    <li>
+      <span>口コミ<br>投稿</span>
+      <span class="counter">{{>count.facility_comment || 0}}</span>
+    </li>
+    <li>
+      <span>コメント<br>投稿</span>
+      <span class="counter">{{>count.all_comment || 0}}</span>
+    </li>
+    <li>
+      <span>イイネ！<br>獲得</span>
+      <span class="counter">{{>count.nice || 0}}</span>
+    </li>
+  </ul>
+  <button class="close-profile"></button>
+</script>
+
+
+<script>
+var showProfile = null;
+$(function(){
+  showProfile = $('.js-userInfo .post-user').showProfile({
+    url      : '/member/profile',
+    close    : '.close-profile',
+    template : $('#popupProfileTemplate'),
+  });
+});
+</script>
+<script src="/module/js/googleAnalytics.js"></script>
+</head>
+<body>
+  <header>
+    <div class="header-in-top">
+      <div class="inner-wrap clearfix">
+        <h1 class="logo-site float-l"><a href="/"><img src="/module/images/logo_site.png" alt="ソライエナビ"></a></h1>
+      </div><!-- /.inner-wrap -->
+    </div><!-- /.header-in-top -->
+  </header><!-- /.header -->
+  <div class="wrapper">
+    <main>
+            <div class="box-crumb detail">
+        <div class="box-crumb-child">
+          <ul class="list-crumb">
+            <li><a>ホームへ</a></li>
+            <li><span>本会員登録（個人会員様用）</span></li>
+            <li><span>本会員登録確認</span></li>
+          </ul>
+        </div>
+      </div>
+      <div class="clearfix inner-wrap">
+                                            <section class="content-wrap">
+          <section class="box-layout-white box-form th-lg">
+
+            <h2 class="ttl-md box-ttl-line">本会員登録（個人会員様用）</h2>
+            <div class="box-layout-inner clearfix">
+              <ol class="box-step step-3">
+    <li class="active">
+  Step.1<br class="is-sp-only"> 本登録</li>
+    <li class="active">
+  Step.2<br class="is-sp-only"> 確認</li>
+    <li class="">
+  Step.3<br class="is-sp-only"> 完了</li>
+  </ol>
+
+              
+              <p class="form-caption">登録内容は、以下の内容でよろしいでしょうか？</p>
+              
+                            <form class="form-input" action="/member/individual/form/27ca1fed6ac9595deba8cc90e3b99f02c29c4675" method="post" >
+                <table id="member_register" class="table-info table-form"><tr>
+        <th><label for="member_register_mail_address">メールアドレス</label></th>
+        <td>          <span>secdiv27@bbsec.co.jp</span>
+      </td>
+    </tr><tr>
+        <th><label for="member_register_name">ニックネーム</label></th>
+        <td>          <span>診断たろー</span>
+      </td>
+    </tr><tr>
+        <th><label for="member_register_raw_password">パスワード</label></th>
+        <td>          <span>***********</span>
+      </td>
+    </tr><tr>
+        <th></th>
+        <td>          <span>***********</span>
+      </td>
+    </tr><tr>
+        <th><label>郵便番号</label></th>
+        <td>160<span>-</span>0023</td>
+    </tr><tr>
+        <th><label>生年月日</label></th>
+        <td>1980年1月1日</td>
+    </tr><tr>
+        <th><label class="" for="member_register_RailwayLine">興味のあるエリア</label></th>
+        <td>    <span>東武スカイツリーライン</span>                                                                          </td>
+    </tr><tr>
+        <th><label class="">興味のある駅</label></th>
+        <td>        <span>浅草<span>            <span>とうきょうスカイツリー<span>            <span>押上<span>            <span>曳舟<span>            <span>東向島<span>            <span>鐘ヶ淵<span>            <span>堀切<span>            <span>牛田（東京）<span>            <span>北千住<span>            <span>小菅<span>            <span>五反野<span>            <span>梅島<span>            <span>西新井<span>            <span>竹ノ塚<span>            <span>谷塚<span>            <span>草加<span>            <span>獨協大学前＜草加松原＞<span>            <span>新田（埼玉）<span>            <span>蒲生<span>            <span>新越谷<span>            <span>越谷<span>            <span>北越谷<span>            <span>大袋<span>            <span>せんげん台<span>            <span>武里<span>            <span>一ノ割<span>            <span>春日部<span>            <span>北春日部<span>                                                                                    <span>姫宮<span>            <span>東武動物公園<span>                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                    </td>
+    </tr><tr>
+        <th><label class="">メールマガジン配信希望</label></th>
+        <td>        <span>希望する<span>                </td>
+    </tr><tr style="display: none">
+        <td colspan="2"></td>
+    </tr></table>
+                <div class="btn-wrap-2col btn-input">
+                  <button type="submit" name="action" value="complete" class="btn btn-blue">登録する</button>
+                  <button type="submit" name="action" value="input" class="btn btn-white">修正する</button>
+                </div>
+              </form>
+
+            </div>
+          </section>
+        </section>
+            </div>
+    </main>
+  </div><!-- /.wrapper -->
+  <!-- /ページトップへ ここから -->
+ <a href="#" class="pagetop">
+   <img src="/module/images/icon/icon_arrow_pagetop.png" alt="ページトップへ">
+ </a>
+<!-- /ページトップへ ここまで -->
+
+<!-- /フッター ここから -->
+  <footer class="footer">
+            <div class="copy">
+      <div class="inner-wrap clearfix">
+        <small>Copyright &copy; TOBU RAILWAY CO., LTD. All Rights Reserved.</small>
+      <a href="//www.tobu.co.jp/" target="_blank"><img src="/module/images/logo_tobu.png" alt="TOBU Groupロゴ" class="float-r logo-tobu"></a>
+      </div>
+    </div>
+  </footer><!-- /.footer -->
+<!-- /フッター　ここまで -->
+</body>
+</html>
+
+0
+

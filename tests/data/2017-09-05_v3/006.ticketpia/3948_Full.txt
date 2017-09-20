@@ -1,0 +1,24 @@
+GET https://ticket-auth.pia.jp/pia/login?ep_parameters=WyJQaWEiLCJodHRwczpcL1wvdGlja2V0LWFjY291bnQucGlhLmpwXC9waWFcL0F1dGhSZXNwb25zZS5kbz9hdXRoUmVzQWN0aW9uPTEmQkNBc3NpZ249IiwiMmY5YjQ3OWUzY2ZhMmFjNDRjNmZkZDM5ZmE1YWFlMzgiLCJxdWVyeSJd&request_token=UExdaSqfp2Zs3oF0axVji62htooCHd2ESbP3DfxmQ8o&cancel=forgot_password HTTP/1.1
+Host: ticket-auth.pia.jp
+User-Agent: Mozilla/5.0 (Windows NT 6.1; rv:52.0) Gecko/20100101 Firefox/52.0
+Accept: text/html,application/xhtml+xml,application/xml;q=0.9,*/*;q=0.8
+Accept-Language: ja,en-US;q=0.7,en;q=0.3
+Accept-Encoding: gzip, deflate, br
+Referer: https://ticket-auth.pia.jp/pia/authenticate?request_token=UExdaSqfp2Zs3oF0axVji62htooCHd2ESbP3DfxmQ8o
+Cookie: pa_lrid=1491297466143-UdYoPZzTfBes9MdHdJmaWeYo3XiH7ff; pa_mrid=1491297466143-jjX3rCjpMaJsxN0no02i7cNB3dYecMO; pa_srid=1491297466143-6Qn5RmLL2WuyrxhvvjtQnB8d3l1uYm3; pa_rptime_AETPIA=1491301287253; cX_S=j13c0b6iuf23xy1e; cX_P=j13c0b6jhcz5dmpr; cstp=604800; _ga=GA1.2.1821994594.1491298260; __utma=136095278.1821994594.1491298260.1491300036.1491300036.1; __utmb=136095278.4.10.1491300036; __utmc=136095278; __utmz=136095278.1491300036.1.1.utmcsr=(direct)|utmccn=(direct)|utmcmd=(none); PIA_SID=g1iojlvlf72et642ffid3g0tt7; __utmt_ga_asp=1; _gat_UA-41230966-5=1; _dc_gtm_UA-41230966-2=1; BetySessionId_AETPIA=e4af8328beb5dc739d4ad84efe298608; LastAccessServerId_AETPIA=a28d724e1d4d5a2c84bc5f8307fa5e6f
+Connection: keep-alive
+Upgrade-Insecure-Requests: 1
+
+
+HTTP/1.1 302 Found
+Cache-Control: no-store, no-cache, must-revalidate, post-check=0, pre-check=0
+Content-Type: text/html
+Date: Tue, 04 Apr 2017 10:21:48 GMT
+Expires: Thu, 19 Nov 1981 08:52:00 GMT
+Location: https://ticket-account.pia.jp/pia/AuthResponse.do?authResAction=1&BCAssign=&error=access_denied&error_description=forgot_password&state=2f9b479e3cfa2ac44c6fdd39fa5aae38
+Pragma: no-cache
+Server: nginx
+Set-Cookie: PIA_SID=deleted; expires=Thu, 01-Jan-1970 00:00:01 GMT; path=/
+Content-Length: 0
+Connection: keep-alive
+

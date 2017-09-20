@@ -1,0 +1,33 @@
+POST https://manage.doorkeeper.jp/user/sign_in HTTP/1.1
+Host: manage.doorkeeper.jp
+User-Agent: Mozilla/5.0 (Windows NT 6.1; rv:52.0) Gecko/20100101 Firefox/52.0
+Accept: text/html,application/xhtml+xml,application/xml;q=0.9,*/*;q=0.8
+Accept-Language: ja,en-US;q=0.7,en;q=0.3
+Accept-Encoding: gzip, deflate, br
+Referer: https://manage.doorkeeper.jp/user/sign_in
+Cookie: locale=ja; usdksc=L09aU2FIVTU4T2NIa0wraHdMS3V6VjlxQkQrOERiZHZzbnpsRVJPVDc3VWFlbXRVcUNhYTdBZ2RyL2JYOTcxWUw3N0FtOWZET3hpbnBHdU9UN2hTdVRoZU1jd1VBN3VuK211MzFwNHpzZGZ0UEUvRytqY01kcENZZElxdUFObVZNVXZDUmNQTmJMd1ZaektBSjMvdGNnPT0tLTV5NXlPSDFrZVl5S3NSdUdjRkcrTVE9PQ%3D%3D--60097ebe9c22a269d191b54d0b91d7091ec7122b; mp_mixpanel__c=12; mp_2d0a9fadc66f322337b0428d60907db5_mixpanel=%7B%22distinct_id%22%3A%20%22349131%22%2C%22%24initial_referrer%22%3A%20%22%24direct%22%2C%22%24initial_referring_domain%22%3A%20%22%24direct%22%7D
+DNT: 1
+Connection: close
+Upgrade-Insecure-Requests: 1
+Content-Type: application/x-www-form-urlencoded
+Content-Length: 298
+
+utf8=%E2%9C%93&authenticity_token=02XuPe7r5XHOMQ1I9ZWQpRnjavEmhS842aNNv5gFpn1mP9xdoe9LExTqBbZCLiBaOYxVPW4MgDDAM1AWb%2B10vA%3D%3D&user%5Bemail%5D=crawlingtest1000%40gmail.com&user%5Bpassword%5D=testtest12345&user%5Bremember_me%5D=0&user%5Bremember_me%5D=1&commit=%E3%83%AD%E3%82%B0%E3%82%A4%E3%83%B3
+HTTP/1.1 302 Found
+Cache-Control: no-cache
+Content-Type: text/html; charset=utf-8
+Date: Fri, 07 Apr 2017 06:31:07 GMT
+Location: https://manage.doorkeeper.jp/
+Server: nginx/1.10.1
+Set-Cookie: remember_user_token=W1szNDkxMzFdLCJCNUF4OHN2c1R6TFp6ejNBYm1uOCIsIjE0OTE1NDY2NjcuNzQyODI4OCJd--b622ef761a64c635d3352b1cf8036d08bbcd7758; domain=.doorkeeper.jp; path=/; expires=Sat, 07 Apr 2018 06:31:07 -0000; secure; HttpOnly
+Set-Cookie: locale=ja; domain=.doorkeeper.jp; path=/; expires=Tue, 07 Apr 2037 06:31:07 -0000
+Set-Cookie: usdksc=SVhHaW9xN2M2bGtWVkd3OHMyaW8ydEpIOUR1WW5YVjc3Z1lBSU1tdW5aOUxtMlQ4RDR6eEJZRy90ZkVUM25NdzhRSWY0cWd1dDhPU2N5ZU1va0ZHbjg1SWpLV2xTQVdZQWx6dHNxV1prZjIxVUZPMVVVK0F1RVdaaTh6MHlxU1lmd0h6Y3E5NUttZnYvZk1VdmhIcms1NndsR21lZzh0em9kSGRTTStKWlhTWGs0UjE5Z2xMN0N0cXE4eUFlcEpicEZKQmh2ckR3Q1BBM1lGaXlBYzUwQVEzTDBDOWlvb0xFcWtYcmxVOTN3VDZKWEhiaVZPWFVOWkpDSkhWaFlIWTUyMWRUaElycWVseHlteDVFdXpyL0lDMmdiYzZ3RDBOakFkVWFNK1ZBYlNRTk1UQk4yb0w2ZHd0eHpKaHFuRTM5UWs2MlQ0dVNtV3NNTUZ5VTVkR2V3PT0tLTBnMU5iZytZNVhlZnVGY2pFWXpMR1E9PQ%3D%3D--5eb0b9942837ceefa9deaff7991207f56def376a; domain=.doorkeeper.jp; path=/; secure; HttpOnly
+X-Content-Type-Options: nosniff
+X-Frame-Options: SAMEORIGIN
+X-Request-Id: 4e65685e-b236-4ded-a995-376d2eae6619
+X-Runtime: 0.100573
+X-XSS-Protection: 1; mode=block
+Content-Length: 95
+Connection: Close
+
+<html><body>You are being <a href="https://manage.doorkeeper.jp/">redirected</a>.</body></html>

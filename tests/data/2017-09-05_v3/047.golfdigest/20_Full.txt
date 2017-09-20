@@ -1,0 +1,438 @@
+GET https://usr.golfdigest.co.jp/pg/frlogin.php?mm_rurl=https%3a%2f%2fmyp.golfdigest.co.jp%2fmyp%2fmygdotop.aspx HTTP/1.1
+Accept: text/html, application/xhtml+xml, */*
+Accept-Language: ja-JP
+User-Agent: Mozilla/5.0 (Windows NT 6.1; WOW64; Trident/7.0; rv:11.0) like Gecko
+Accept-Encoding: gzip, deflate
+Host: usr.golfdigest.co.jp
+Connection: Keep-Alive
+
+
+HTTP/1.1 200 OK
+Date: Wed, 05 Apr 2017 01:22:28 GMT
+X-Powered-By: PHP/5.4.16
+X-Frame-Options: SAMEORIGIN
+Vary: Accept-Encoding
+Content-Length: 24037
+Keep-Alive: timeout=5, max=100
+Connection: Keep-Alive
+Content-Type: text/html; charset=UTF-8
+Set-Cookie: TS016d09f0=01250487713aed8b303b063529f217bc6d54ccb439f0977f85bdb3511e257eb279673f974f3171c4dace25de5cb96714d69333138d; Path=/
+
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+<html xmlns="http://www.w3.org/1999/xhtml" xml:lang="ja" lang="ja">
+<head>
+<meta http-equiv="Content-Type" content="text/html; charset=UTF-8" />
+<meta http-equiv="Content-Script-Type" content="text/javascript" />
+<meta http-equiv="Content-Style-Type" content="text/css" />
+<title>GDO | ログイン | GDOクラブ会員</title>
+<meta name="keywords" content="" />
+<meta name="description" content="" />
+<!-- common stylesheet -->
+<link type="text/css" rel="stylesheet" href="//s.gimg.jp/resource/usr/css/import_resource.css" media="all" />
+<link type="text/css" rel="stylesheet" href="//s.gimg.jp/resource/usr/css/style.css" media="all" />
+<link type="text/css" rel="stylesheet" href="/resource/css/orderflow.css" media="all" />
+<link type="text/css" rel="stylesheet" href="/resource/css/orderflow_entry.css" media="all" />
+<!-- individual stylesheet -->
+<!--
+<link type="text/css" rel="stylesheet" href="//s.gimg.jp/resource/js/jqtransformplugin/jqtransform.css" media="all" />
+-->
+<style>
+input[type='text'],input[type='password']{
+	border:0;
+	padding:10px;
+	font-size:1.3em;
+	font-family:Arial, sans-serif;
+	border:solid 1px #ccc;
+	margin:0 0 20px;
+	-webkit-border-radius: 5px;
+	-moz-border-radius: 5px;
+	border-radius: 5px;
+	-moz-box-shadow: inset 1px 4px 9px -6px rgba(0,0,0,0.5);
+	-webkit-box-shadow: inset 1px 4px 9px -6px rgba(0, 0, 0, 0.5);
+	box-shadow: inset 1px 4px 9px -6px rgba(0,0,0,0.5);
+	width: 298px !important;
+}
+input[type='text']:focus,input[type='password']:focus {
+	border:solid 1px #3695d7;
+	-moz-box-shadow: none;
+	-webkit-box-shadow: none;
+	box-shadow: none;
+}
+input[type='text']:hover,input[type='password']:hover {
+	border:solid 1px #3695d7;
+	-moz-box-shadow: none;
+	-webkit-box-shadow: none;
+	box-shadow: none;
+}
+.newEntryFrame .floatL{
+	width:430px !important;
+}
+#res_footer{
+	margin-top:40px !important;
+}
+</style>
+<!-- preload javascript -->
+<script src="//ajax.googleapis.com/ajax/libs/jquery/1.7.2/jquery.min.js"></script>
+<script>
+window.jQuery || document.write(unescape("%3Cscript src='//s.gimg.jp/resource/js/jquery-1.7.2.min.js'%3E%3C/script%3E"));
+</script>
+<script src="//s.gimg.jp/resource/js/rt_getErrorMsg.js"></script>
+<script src="//s.gimg.jp/resource/js/common.js"></script>
+
+<!--
+<script src="//s.gimg.jp/resource/js/jqtransformplugin/jquery.jqtransform.js"></script>
+-->
+
+
+<!-- レコメンド用JS ここから -->
+<script src="//js.rtoaster.jp/Rtoaster.js"></script>
+<script>
+ Rtoaster.init("RTA-d72d-400f90f91715",Rtoaster.Cookie.get("MkiTracMBID"));
+ Rtoaster.track();
+</script>
+<!-- レコメンド用JS ここまで -->
+</head>
+<body>
+
+<div id="wholeHeaderPane">
+<!--header13-->
+<div id="res_header" class="res_simple">
+<div id="res_headbody">
+<div class="ci"><a href="http://www.golfdigest.co.jp/"><img src="//s.gimg.jp/resource/www/resource/images/headfoot/header/ci_small.gif" alt="GOLF DIGEST ONLINE ゴルフダイジェスト・オンライン" width="84" height="31" /></a></div>
+<div class="utility"><a href="http://faq.golfdigest.co.jp/faq_list.html?page=1&category=210000" target="_blank">ヘルプ</a></div>
+<!-- /#res_headbody --></div>
+<!-- /#res_header --></div>
+<!--//header13-->
+</div><!-- id="wholeHeaderPane" -->
+
+<div id="str_container">
+
+<div id="str_center">
+
+<h2 class="ttl_headingRed "><span class="ttl_login_GDOClub">GDOクラブ ログイン</span></h2>
+<p class="form_error mt10" id="rt_getErrorMsg"></p>
+
+<!--
+<div class="alert alert-error">
+<div class="alertContent">
+<table border="0">
+<tr>
+<td colspan="2" class="set1">ログインIDまたはパスワードに誤りがあります。</td>
+<td class="set3"><p class="link_02"><a href="https://usr.golfdigest.co.jp/pg/idremind.php?myp_loginpage2a" class="link_02" target="_blank">ログインIDの確認はこちら</a></p></td>
+</tr>
+<tr>
+<td rowspan="2" class="set2"><p class="hintoContent"><img src="/resource/images/hinto.png" width="40"height="20" target="_blank"></p></td>
+<td class="set3">ログインIDはメールアドレスで登録していませんか？</td>
+<td class="set3"><p class="link_02"><a href="https://usr.golfdigest.co.jp/pg/frremind.php?myp_loginpage2a" class="link_02" target="_blank">パスワードの再設定はこちら</a></p></td>
+</tr>
+<tr>
+<td class="set3">半角で正しく入力されているかご確認ください。</td>
+<td class="set3"><p class="link_02"><a href="http://www.golfdigest.co.jp/special/faq/?myp_loginpage2a" class="link_02" target="_blank">その他の解決方法を見る</a></p></td>
+</tr>
+</table>
+</div>
+</div>
+-->
+
+<!--
+<div class="alert alert-error">
+<div class="alertContent">
+<table border="0	"> 
+<tr>
+<td colspan="3" class="set1">ログインの失敗が一定数に達したため、セキュリティロックしました。</td>
+</tr>
+<tr>
+<td rowspan="2" class="set2"><img src="/resource/images/hinto.png" width="40"height="20"></td>
+<td class="set3">パスワードを変更して、再度ログインしてください。</td>
+<td class="set3"><p class="link_02"><a href="https://usr.golfdigest.co.jp/pg/frremind.php?myp_loginpage3a" class="link_02" target="_blank">パスワード変更はこちら</a></p></td>
+</tr>
+<tr>
+<td>&nbsp;</td>
+<td>&nbsp;</td>
+</tr>
+</table>
+</div>
+</div>
+-->
+
+<div class="loginFrame">
+<div class="loginFrameTop_01 clearfix">
+<div class="floatL">
+<form method="post" action="https://usr.golfdigest.co.jp/pg/frlogin.php" class="jqtransform">
+<dl class="loginFormList">
+<dt>
+<span class="CaptionName01">ログインID</span>
+<div class="message01">
+<a href="#" >
+<img style="position:absolute;" width="15" height="15"  src="/resource/images/icon_help.png" class="ml5" />
+<span class="remark1">メールアドレス、または任意で設定した半角英数字です</span>
+</a>
+</div>
+</dt>
+<dd id="loginIdForm" class="clearfix"><input type="text" name="qLoginName" value="" maxlength="128"  tabindex="1"></dd>
+<dt>
+<span class="CaptionName01">パスワード</span>
+<div class="message01">
+<a href="#">
+<img style="position:absolute;" width="15" height="15"  src="/resource/images/icon_help.png" class="ml5" />
+<span class="remark2">半角英数字6文字以上です</span>
+</a>
+</div>
+</dt>
+<dd class="clearfix"><input type="password" name="qPasswd" maxlength="128"  tabindex="2"></dd>
+</dl>
+<div id="fnc_autoLogin">
+
+<div class="checkboxGroup clearfix">
+<div class="rowElem">
+<input type="checkbox" name="qAutoLogin" value="1" tabindex="3"/><span class="CaptionName03">ログイン状態を保持する</span>
+<div class="message02">
+<a href="javascript:void(0)" onclick="window.open('https://www.golfdigest.co.jp/gstart/member/security.html#autologin','ssl','scrollbars=yes,resizable=yes,width=500,height=320')" >
+<img style="position:absolute;" width="15" height="15" src="/resource/images/icon_help.png" class="ml5" />
+</a>
+</div>
+</div>
+</div>
+
+</div>
+<div class="parts_submit_btn"><input type="image" src="//s.gimg.jp/resource/www/resource/images/root/btn_login.jpg" alt="ログイン" tabindex="4" class="hover" /><!--<BR /><BR />--></div>
+<input type="hidden" name="mm_sid" value="RFJlqsCACK7_">
+<input type="hidden" name="mm_rurl" value="https://myp.golfdigest.co.jp/myp/mygdotop.aspx">
+<input type="hidden" name="qActionMode" value="login">
+<input type="hidden" name="guid" value="ON">
+<input type="hidden" name="mm_wsf" value="0">
+<input type="hidden" name="qUrl" value="https%3A%2F%2Fmyp.golfdigest.co.jp%2Fmyp%2Fmygdotop.aspx">
+
+</form>
+<ul class="listGray link_01">
+<li><p class="CaptionName02" ><a href="javascript:w=window.open('/pg/idremind.php?myp_loginpage1','','scrollbars=yes,Width=980,Height=600');w.focus()">ログインIDの確認はこちら</a></p></li>
+<li><p class="CaptionName02" ><a href="javascript:w=window.open('/pg/frremind.php?myp_loginpage1','','scrollbars=yes,Width=980,Height=600');w.focus()">パスワードを忘れた方はこちら</a></p></li>
+</ul>
+</div>
+
+<div class="floatR">
+<p class="CaptionName01">他サイトのアカウントでログイン/新規会員登録</p>
+<div class="height">
+<ul class=" btnList clearfix">
+<li><a id="socialLoginFacebookLink" href="https://api.socialplus.jp/gdo/gdo/facebook/authenticate?callback=https%3A%2F%2Fusr.golfdigest.co.jp%2Fpg%2Fsocialloginauth.php%3Fmm_sid%3DRFJlqsCACK7_%26mm_rurl%3Dhttps%253A%252F%252Fmyp.golfdigest.co.jp%252Fmyp%252Fmygdotop.aspx%26returnUrl%3Dhttps%253A%252F%252Fusr.golfdigest.co.jp%252Fpg%252Ffrlogin.php%253Fmm_rurl%253Dhttps%25253a%25252f%25252fmyp.golfdigest.co.jp%25252fmyp%25252fmygdotop.aspx&display=page"><img src="//s.gimg.jp/resource/www/resource/images/root/btn_login_facebook_18638.jpg" alt="Facebookでログイン" width="186" height="38" class="hover" /></a></li>
+<li><a id="socialLoginTwitterLink" href="https://api.socialplus.jp/gdo/gdo/twitter/authenticate?callback=https%3A%2F%2Fusr.golfdigest.co.jp%2Fpg%2Fsocialloginauth.php%3Fmm_sid%3DRFJlqsCACK7_%26mm_rurl%3Dhttps%253A%252F%252Fmyp.golfdigest.co.jp%252Fmyp%252Fmygdotop.aspx%26returnUrl%3Dhttps%253A%252F%252Fusr.golfdigest.co.jp%252Fpg%252Ffrlogin.php%253Fmm_rurl%253Dhttps%25253a%25252f%25252fmyp.golfdigest.co.jp%25252fmyp%25252fmygdotop.aspx"><img src="//s.gimg.jp/resource/www/resource/images/root/btn_login_twitter_18638.jpg" alt="Twitterでログイン" width="186" height="38" class="hover" /></a></li>
+<li><a id="socialLoginGoogleLink" href="https://api.socialplus.jp/gdo/gdo/google/authenticate?callback=https%3A%2F%2Fusr.golfdigest.co.jp%2Fpg%2Fsocialloginauth.php%3Fmm_sid%3DRFJlqsCACK7_%26mm_rurl%3Dhttps%253A%252F%252Fmyp.golfdigest.co.jp%252Fmyp%252Fmygdotop.aspx%26returnUrl%3Dhttps%253A%252F%252Fusr.golfdigest.co.jp%252Fpg%252Ffrlogin.php%253Fmm_rurl%253Dhttps%25253a%25252f%25252fmyp.golfdigest.co.jp%25252fmyp%25252fmygdotop.aspx"><img src="//s.gimg.jp/resource/www/resource/images/root/btn_login_google_18638.jpg" alt="Googleでログイン" width="186" height="38" class="hover" /></a></li>
+<li><a id="socialLoginYahooLink" href="https://api.socialplus.jp/gdo/gdo/yahoo/authenticate?callback=https%3A%2F%2Fusr.golfdigest.co.jp%2Fpg%2Fsocialloginauth.php%3Fmm_sid%3DRFJlqsCACK7_%26mm_rurl%3Dhttps%253A%252F%252Fmyp.golfdigest.co.jp%252Fmyp%252Fmygdotop.aspx%26returnUrl%3Dhttps%253A%252F%252Fusr.golfdigest.co.jp%252Fpg%252Ffrlogin.php%253Fmm_rurl%253Dhttps%25253a%25252f%25252fmyp.golfdigest.co.jp%25252fmyp%25252fmygdotop.aspx"><img src="//s.gimg.jp/resource/www/resource/images/root/btn_login_yahoo_18638.jpg" alt="Yahoo!でログイン" width="186" height="38" class="hover" /></a></li>
+<!--<li><a id="socialLoginMixiLink" href="https://api.socialplus.jp/gdo/gdo/mixi/authenticate?callback=https%3A%2F%2Fusr.golfdigest.co.jp%2Fpg%2Fsocialloginauth.php%3Fmm_sid%3DRFJlqsCACK7_%26mm_rurl%3Dhttps%253A%252F%252Fmyp.golfdigest.co.jp%252Fmyp%252Fmygdotop.aspx%26returnUrl%3Dhttps%253A%252F%252Fusr.golfdigest.co.jp%252Fpg%252Ffrlogin.php%253Fmm_rurl%253Dhttps%25253a%25252f%25252fmyp.golfdigest.co.jp%25252fmyp%25252fmygdotop.aspx"><img src="//s.gimg.jp/resource/www/resource/images/root/btn_login_mixi_18638.jpg" alt="Mixiでログイン" width="186" height="38" class="hover" /></a></li>-->
+<li><a id="socialLoginLineLink" href="https://api.socialplus.jp/gdo/gdo/line/authenticate?callback=https%3A%2F%2Fusr.golfdigest.co.jp%2Fpg%2Fsocialloginauth.php%3Fmm_sid%3DRFJlqsCACK7_%26mm_rurl%3Dhttps%253A%252F%252Fmyp.golfdigest.co.jp%252Fmyp%252Fmygdotop.aspx%26returnUrl%3Dhttps%253A%252F%252Fusr.golfdigest.co.jp%252Fpg%252Ffrlogin.php%253Fmm_rurl%253Dhttps%25253a%25252f%25252fmyp.golfdigest.co.jp%25252fmyp%25252fmygdotop.aspx"><img src="/resource/images/root/btn_login_line_18638.jpg" alt="LINEでログイン" width="186" height="38" class="hover" /></a></li>
+</ul>
+</div>
+<ul class="listGray linkBlank_01">
+<li><p class="CaptionName02" ><a href="http://faq.golfdigest.co.jp/faq_list.html?category=300511&myp_loginpage1" target="_blank">設定方法/よくある質問</a></p></li>
+<li><p class="CaptionName02"><a href="http://www.golfdigest.co.jp/company/kiyaku/social_login.html?myp_loginpage1" target="_blank">外部サービスアカウント連携利用規約</a></p></li>
+</ul>
+</div>
+</div>
+
+
+
+<div class="newEntryFrame_01 clearfix">
+<div class="floatL">
+<p class="CaptionName01">新規会員登録</p>
+<p class="CaptionName01_1">GDOクラブ会員登録（無料）いただくと、さまざまな特典が利用できるのでおトクです！</p>
+</div>
+<div class="floatL2">
+<p class="link_btn"><a href="https://usr.golfdigest.co.jp/usr/index.php?qSiteId=RFJlqsCACK7_&qUrl=https%3A%2F%2Fmyp.golfdigest.co.jp%2Fmyp%2Fmygdotop.aspx&car=mk_nm_log"><img src="//s.gimg.jp/resource/www/resource/images/root/btn_rgst_newmember.jpg" width="187" height="44" alt="新規会員登録" class="hover" /></a></p>
+<p class="text link_03 CaptionName02"><a href="http://www.golfdigest.co.jp/introduction/club.html?myp_loginpage1" class="link_03">GDOクラブ会員について</a></p>
+</div>
+</div>
+</div>
+
+<h3 class="ttl_headingReds">ログインに関するヘルプ</h3>
+<div class="loginHelpFrame clearfix">
+<div class="floatL">
+<h4><img src="//s.gimg.jp/resource/www/resource/images/root/ttl_login_faq.gif" alt="よくある質問" width="80" height="14" /></h4>
+<p class="alignC"><a href="http://www.golfdigest.co.jp/special/faq/"><img src="//s.gimg.jp/resource/www/resource/images/root/btn_login_help.jpg" width="325" height="57" alt="ログインでお困りの方へ" class="hover" /></a><br />
+お客さまから<a href="http://www.golfdigest.co.jp/special/faq/">よくいただくお問い合わせ</a>をまとめました。</p>
+</div>
+<div class="floatR">
+<dl class="loginHelpList clearfix">
+<dt class="t1"><img src="//s.gimg.jp/resource/www/resource/images/root/ttl_login_inquiry_form.gif" alt="フォームからのお問い合わせ" width="180" height="15" /></dt>
+<dd><a href="http://www.golfdigest.co.jp/hd/hd1.asp?ca=01070101"><img src="//s.gimg.jp/resource/www/resource/images/root/btn_web_info.gif" alt="Webからのお問い合わせ" width="185" height="44" class="hover" /></a></dd>
+</dl>
+<hr />
+<div id="rtoaster_tel_login">
+<dl class="loginHelpList clearfix">
+<dt class="t2"><img src="//s.gimg.jp/resource/www/resource/images/root/ttl_login_inquiry_tel.gif" alt="電話でのお問い合わせ" width="147" height="15" /></dt>
+<dd><img src="//s.gimg.jp/resource/www/resource/images/root/info_login_gdo.gif" alt="" width="185" height="44" /></dd>
+</dl>
+</div>
+<script type="text/javascript">Rtoaster.recommendNow('rtoaster_tel_login');</script>
+</div>
+</div>
+
+<ul><!--
+--><li>※他人による不正利用防止のため、共有パソコンにてログインして利用された後は、必ずログアウトをしてください。</li><!--
+--><li>※<strong><a href="http://www.golfdigest.co.jp/announce/130415.html">セキュリティ保護のため、定期的にパスワードを変更することをおすすめいたします。</a></strong></li><!--
+--></ul>
+
+<!--/#str_center--></div>
+
+<!-- /#str_container --></div>
+
+<div id="res_footer">
+<div id="res_footer_utilitylinks">
+<ul>
+<li><a href="http://www.golfdigest.co.jp/company/kiyaku.html">総合利用規約</a></li>
+<li><a href="http://www.golfdigest.co.jp/company/privacy.html">個人情報保護ポリシー</a></li>
+<li><a href="http://www.golfdigest.co.jp/company/kiyaku/envi.html">推奨環境について</a></li>
+<li><a href="http://faq.golfdigest.co.jp/">お問い合わせ・ヘルプ</a></li>
+</ul>
+<ul>
+<li><a href="http://www.golfdigest.co.jp/company/kiyaku/gdc.html">GDOクラブ会員規約</a></li>
+<li><a href="javascript:void(0)" onclick="window.open('https://www.golfdigest.co.jp/gstart/member/security.html#ssl','ssl','scrollbars=yes,resizable=yes,width=500,height=320')">SSLについて</a></li>
+<li><a href="javascript:void(0)" onclick="window.open('https://www.golfdigest.co.jp/gstart/member/security.html#autologin','ssl','scrollbars=yes,resizable=yes,width=500,height=320')">自動ログインについて</a></li>
+<li><a href="javascript:void(0)" onclick="window.open('https://www.golfdigest.co.jp/gstart/member/security.html#Cookie','ssl','scrollbars=yes,resizable=yes,width=500,height=320')">Cookieについて</a></li>
+<li><a href="javascript:void(0)" onclick="window.open('https://www.golfdigest.co.jp/gstart/member/security.html#Login','ssl','scrollbars=yes,resizable=yes,width=500,height=320')">ログイン時の警告について</a></li>
+</ul>
+</div>
+<div id="res_footer_addressmarks">
+<address>Copyright &copy; 2000-2017 Golf Digest Online Inc. All rights reserved.</address>
+<ul id="res_footer_marks">
+<!-- 
+<li><script src=//seal.verisign.com/getseal7host_name=www.golfdigest.co.jp&size=S&use_flash=YES&use_transparent=YES&lang=ja></script></li>
+ -->
+<li><a href="http://www.golfdigest.co.jp/company/privacy.html"><img src="//s.gimg.jp/resource/www/resource/images/headfoot/footer/mark_truste.gif" alt="TRUSTe" width="116" height="72" /></a></li>
+</ul>
+</div>
+<!-- /#res_footer --></div>
+
+<script>
+//var msie=navigator.appVersion.toLowerCase();
+//msie=(msie.indexOf('msie')>-1)?parseInt(msie.replace(/.*msie[ ]/,'').match(/^[0-9]+/)):0;
+//if(msie != 6){
+//	$("form.jqtransform").jqTransform();
+//}
+
+if( $("input[name='qLoginName']").attr('type') == "hidden" ){
+	$("#loginIdForm").attr("style","font-size:18px;margin:10px 0;height:40px;");
+}
+
+if (document.forms[0].qLoginName && document.forms[0].qLoginName.type!='hidden') {
+	document.forms[0].qLoginName.focus();
+} else if (document.forms[0].qPasswd) {
+	document.forms[0].qPasswd.focus();
+}
+gdo.f.CookieClear('socialLoginLink','usr.golfdigest.co.jp','/');
+$("#socialLoginFacebookLink").click(function(){
+	gdo.f.SetCookie('socialLoginLink','facebook',0.01,'usr.golfdigest.co.jp','/',false);
+});
+$("#socialLoginTwitterLink").click(function(){
+	gdo.f.SetCookie('socialLoginLink','twitter',0.01,'usr.golfdigest.co.jp','/',false);
+});
+$("#socialLoginGoogleLink").click(function(){
+	gdo.f.SetCookie('socialLoginLink','google',0.01,'usr.golfdigest.co.jp','/',false);
+});
+$("#socialLoginYahooLink").click(function(){
+	gdo.f.SetCookie('socialLoginLink','yahoo',0.01,'usr.golfdigest.co.jp','/',false);
+});
+$("#socialLoginLineLink").click(function(){
+	gdo.f.SetCookie('socialLoginLink','line',0.01,'usr.golfdigest.co.jp','/',false);
+});
+//$("#socialLoginMixiLink").click(function(){
+//	gdo.f.SetCookie('socialLoginLink','mixi',0.01,'usr.golfdigest.co.jp','/',false);
+//});
+
+//入り口ページ保持ロジック
+(function(){
+	var entCookie = gdo.f.ReadCookie('gdoUsrEntCookie');
+	if(!entCookie){
+		gdo.f.SetCookie('gdoUsrEntCookie',encodeURIComponent(location.href),0.01,'usr.golfdigest.co.jp','/',false);
+	}
+})();
+
+</script>
+
+<!-- analyse code -->
+<script type="text/javascript" src="//www.golfdigest.co.jp/rtsrc/uuid.js" charset="utf-8"></script>
+<script type="text/javascript" src="//www.golfdigest.co.jp/rtsrc/set_cookie.js" charset="utf-8"></script>
+
+<!-- Google Analytics Start -->
+<script type="text/javascript" src="//www.golfdigest.co.jp/rtsrc/ga_gdo.js" charset="utf-8"></script>
+<!-- Google Analytics End -->
+
+<!-- OneTagManager 20120218-->
+<noscript>
+<iframe src="" height="0" width="0" style="display:none;visibility:hidden"></iframe>
+<iframe src='' width='0' height='0' marginwidth='0' marginheight='0' hspace='0' vspace='0' frameborder='0' scrolling='no' bordercolor='#000000'></iframe>
+</noscript>
+<script>(function(w,d,s,l,i){w[l]=w[l]||[];w[l].push({'gtm.start':new Date().getTime(),event:'gtm.js'});var f=d.getElementsByTagName(s)[0],j=d.createElement(s),dl=l!='dataLayer'?'&l='+l:'';j.async=true;j.src='//www.googletagmanager.com/gtm.js?id='+i+dl;f.parentNode.insertBefore(j,f);})(window,document,'script','dataLayerGDOall','GTM-4XSC');</script>
+<script language='JavaScript' type='text/javascript' src='//track.mk.impact-ad.jp/ad/js/cjs.js'></script>
+<script language='JavaScript' type='text/javascript'>
+admage_onetag('https://track.mk.impact-ad.jp/ad/p/ot', '_aid=22&_oid=140',false);
+</script>
+<!-- //OneTagManager 20120218-->
+
+<!-- User Insight PCDF Code Start : golfdigest.co.jp -->
+<script type="text/javascript">
+<!--
+var uilid  = '';
+var uigr_1   = ''; var uigr_2 = ''; var uigr_3 = ''; var uigr_4 = ''; var uigr_5 = '';
+var uigr_6   = ''; var uigr_7 = ''; var uigr_8 = ''; var uigr_9 = ''; var uigr_10 = '';
+// DO NOT ALTER BELOW THIS LINE
+// WITHOUT F.P.C.
+var uiinit   = uiinit || Math.floor(Math.random() * 9000000) + 1000000;
+var uihost   = uihost || (("https:" == document.location.protocol) ? "https://bs." : "http://b03.")+"nakanohito.jp/b1/";
+document.write("<img id='id_shellfish' style='position: absolute' src='"+uihost+"?uisv=3&id=31475&mode=default&h=abda&rand="+uiinit+"&url="+encodeURIComponent(parent.document.URL)+"&ref="+encodeURIComponent(parent.document.referrer)+"&uigr_1="+encodeURIComponent(uigr_1)+"&uigr_2="+encodeURIComponent(uigr_2)+"&uigr_3="+encodeURIComponent(uigr_3)+"&uigr_4="+encodeURIComponent(uigr_4)+"&uigr_5="+encodeURIComponent(uigr_5)+"&uigr_6="+encodeURIComponent(uigr_6)+"&uigr_7="+encodeURIComponent(uigr_7)+"&uigr_8="+encodeURIComponent(uigr_8)+"&uigr_9="+encodeURIComponent(uigr_9)+"&uigr_10="+encodeURIComponent(uigr_10)+"&lv="+uilid+"&sb="+encodeURIComponent(document.title)+"&guid=ON&eflg=1' border='0' width='1' height='1' alt='' />");
+if (typeof document.documentElement.style.maxHeight != "undefined") {
+document.write('<span  style="position: absolute" id="id_bivalves"></span>'); document.write(decodeURI("%3Cscr"+"ipt src='"+uihost+"bivalves.js' charset='utf-8' type='text/javascript'%3E%3C/script%3E")); var uiLimit = 3000, uiInterval = 50, uiTime = 0; var uiLoadedId = setInterval(function(){ if ((typeof(Vesicomyid) != "undefined") && (typeof(Vesicomyid.Bivalves) != "undefined") && (typeof(Vesicomyid.Bivalves.Loaded) == "function") ) { clearInterval(uiLoadedId); try { var lb = new Vesicomyid.Bivalves(31475, uiinit); lb.host = uihost; lb.uisv = 3; lb.init(); } catch (err) { } } else if ((uiTime += uiInterval) > uiLimit) { clearInterval(uiLoadedId); } }, uiInterval);
+}
+//-->
+</script>
+<!-- User Insight PCDF Code End : golfdigest.co.jp -->
+<!-- Start 20121120 Mk Scaleout TAG -->
+<script type="text/javascript">
+//<![CDATA[
+(function() {
+var so_src = ('https:' == document.location.protocol ? 'https://ssl.socdm.com' : 'http://tg.socdm.com') + '/so.js?' + 'siteid=8524';
+var so_script = '<scr'+'ipt type="text/javascript" src="'+so_src+'"></scr'+'ipt>';
+document.write(so_script);
+})();
+//]]>
+</script>
+<!-- End 20121120 Mk Scaleout TAG -->
+
+
+
+<!-- social tracking -->
+<script>
+var _gaq = _gaq || [];
+_gaq.push(['AllTracker._setAccount','UA-30272087-1']);
+_gaq.push(['AllTracker._setDomainName','golfdigest.co.jp']);
+_gaq.push(['AllTracker._setVisitorCookieTimeout',15552000000]);
+_gaq.push(['AllTracker._trackPageview', '/virtualPV/normal/00login']);
+$("#socialLoginFacebookLink").click(function(){
+	_gaq.push(['AllTracker._setCustomVar',1,'SosialUser','facebook',1]);
+	_gaq.push(['AllTracker._trackEvent','SosialLogin','click','facebook',1,true]);
+});
+$("#socialLoginTwitterLink").click(function(){
+	_gaq.push(['AllTracker._setCustomVar', 1, 'SosialUser', 'twitter', 1]);
+	_gaq.push(['AllTracker._trackEvent','SosialLogin','click','twitter',1,true]);
+});
+$("#socialLoginGoogleLink").click(function(){
+	_gaq.push(['AllTracker._setCustomVar', 1, 'SosialUser', 'google', 1]);
+	_gaq.push(['AllTracker._trackEvent','SosialLogin','click','google',1,true]);
+});
+$("#socialLoginYahooLink").click(function(){
+	_gaq.push(['AllTracker._setCustomVar', 1, 'SosialUser', 'yahoo', 1]);
+	_gaq.push(['AllTracker._trackEvent','SosialLogin','click','yahoo',1,true]);
+});
+$("#socialLoginLineLink").click(function(){
+	_gaq.push(['AllTracker._setCustomVar', 1, 'SosialUser', 'line', 1]);
+	_gaq.push(['AllTracker._trackEvent','SosialLogin','click','line',1,true]);
+});
+//$("#socialLoginMixiLink").click(function(){
+//	_gaq.push(['AllTracker._setCustomVar', 1, 'SosialUser', 'mixi', 1]);
+//	_gaq.push(['AllTracker._trackEvent','SosialLogin','click','mixi',1,true]);
+//});
+</script>
+<!-- //social tracking -->
+
+
+</body>
+</html>

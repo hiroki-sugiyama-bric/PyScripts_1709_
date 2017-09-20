@@ -1,0 +1,66 @@
+POST https://ap.morinaga.co.jp/user/do-edit-profile HTTP/1.1
+Host: ap.morinaga.co.jp
+User-Agent: Mozilla/5.0 (Windows NT 6.1; WOW64; rv:52.0) Gecko/20100101 Firefox/52.0
+Accept: text/html,application/xhtml+xml,application/xml;q=0.9,*/*;q=0.8
+Accept-Language: ja,en-US;q=0.7,en;q=0.3
+Accept-Encoding: gzip, deflate, br
+Referer: https://ap.morinaga.co.jp/user/edit-profile
+Cookie: LoggedIn=0af8171e5437b887016d01f3a51cd99f; _ga=GA1.4.1999983014.1491200025; PHPSESSID=paq4nmugnnu4ogo6l7582dpeb7; LoggedIn=0af8171e5437b887016d01f3a51cd99f; _gat_UA-34904702-18=1
+Connection: keep-alive
+Upgrade-Insecure-Requests: 1
+Content-Type: multipart/form-data; boundary=---------------------------2349125228887
+Content-Length: 1140
+
+-----------------------------2349125228887
+Content-Disposition: form-data; name="csrf_token"
+
+a147c30fb424e0d3c646f48ad26b39f887fa77b2
+-----------------------------2349125228887
+Content-Disposition: form-data; name="cover_img"; filename=""
+Content-Type: application/octet-stream
+
+
+-----------------------------2349125228887
+Content-Disposition: form-data; name="cover_img"
+
+58e2fae13fc67.png
+-----------------------------2349125228887
+Content-Disposition: form-data; name="profile_img"; filename=""
+Content-Type: application/octet-stream
+
+
+-----------------------------2349125228887
+Content-Disposition: form-data; name="profile_img"
+
+58e2fb3980801.png
+-----------------------------2349125228887
+Content-Disposition: form-data; name="nickname"
+
+たろう２ごう
+-----------------------------2349125228887
+Content-Disposition: form-data; name="introduction"
+
+
+-----------------------------2349125228887
+Content-Disposition: form-data; name="question_02[]"
+
+2
+-----------------------------2349125228887
+Content-Disposition: form-data; name="question_03"
+
+
+-----------------------------2349125228887--
+
+HTTP/1.1 302 Found
+Date: Tue, 04 Apr 2017 01:47:42 GMT
+Server: Apache
+X-Powered-By: PHP/5.3.3
+Last-Modified: Wed, 10 Feb 2016 09:40:33 GMT
+Expires: Thu, 19 Nov 1981 08:52:00 GMT
+Cache-Control: no-store, no-cache, must-revalidate, post-check=0, pre-check=0
+Pragma: no-cache
+Location: /user/home
+Content-Length: 0
+Connection: close
+Content-Type: text/html; charset=UTF-8
+

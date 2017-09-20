@@ -1,0 +1,33 @@
+POST https://pizzahut.jp/pc/user_password_reset?x=gB6D8I7fsN8mCw8kukmnZpW8A8swoU7Gtiy3FrpHCN1WSZgrRkJGbA HTTP/1.1
+Host: pizzahut.jp
+User-Agent: Mozilla/5.0 (Windows NT 6.1; WOW64; rv:52.0) Gecko/20100101 Firefox/52.0
+Accept: text/html,application/xhtml+xml,application/xml;q=0.9,*/*;q=0.8
+Accept-Language: ja,en-US;q=0.7,en;q=0.3
+Accept-Encoding: gzip, deflate, br
+Referer: https://pizzahut.jp/pc/user_password_reset
+Cookie: pstId=b0496394fb2da89d6a2ff2b002dd77c39c1464fc6b6453effe51097fab07cae5; JSESSIONID=AAPQ42G42T4CBSDLDHN9QP5P0F0SHBTL7VGGEPM899FCTASV7S7K6OC289DG2000VK000000.pc02_001; cookieCheck=1; FJNADDSPID=0GMdE6; _ga=GA1.2.1953406291.1491469275; _sprocket_=3c642503f95a49acafe1c1c3185b6748; _dc_gtm_UA-35841169-1=1
+Connection: keep-alive
+Upgrade-Insecure-Requests: 1
+Content-Type: application/x-www-form-urlencoded
+Content-Length: 238
+
+sendButton=x&text%40prmtDTO.mailAddress=crawlingtest1000%40gmail.com&efoDomainDateTextDropDown%40prmtDTO.birthDate%3Ayear=1980&efoDomainDateTextDropDown%40prmtDTO.birthDate%3Amonth=01&efoDomainDateTextDropDown%40prmtDTO.birthDate%3Aday=01
+HTTP/1.1 302 Moved Temporarily
+X-FRAME-OPTIONS: SAMEORIGIN
+Location: https://pizzahut.jp/pc/user_password_reset_complete.12
+Content-Type: text/html;charset=Shift_JIS
+Content-Language: ja-JP
+Expires: Thu, 06 Apr 2017 09:05:17 GMT
+Cache-Control: max-age=0, no-cache, no-store
+Pragma: no-cache
+Date: Thu, 06 Apr 2017 09:05:17 GMT
+Connection: close
+Vary: Accept-Encoding
+Content-Length: 204
+
+<html>
+<head><title>Document moved</title></head>
+<body><h1>Document moved</h1>
+This document has moved <a href="https://pizzahut.jp/pc/user_password_reset_complete.12">here</a>.<p>
+</body>
+</html>

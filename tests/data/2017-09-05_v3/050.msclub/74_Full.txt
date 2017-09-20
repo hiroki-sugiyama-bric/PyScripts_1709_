@@ -1,0 +1,131 @@
+GET https://msclub.jp/Front/F00001001.php/0 HTTP/1.1
+Host: msclub.jp
+User-Agent: Mozilla/5.0 (Windows NT 6.1; WOW64; rv:52.0) Gecko/20100101 Firefox/52.0
+Accept: text/html,application/xhtml+xml,application/xml;q=0.9,*/*;q=0.8
+Accept-Language: ja,en-US;q=0.7,en;q=0.3
+Accept-Encoding: gzip, deflate, br
+Referer: https://msclub.jp/Front/F00000901.php/0
+Cookie: PHP_BASE_MGSID_0=0604080000000000000000000000000149144867400026599; PHP_BASE_MGSID_0_AuthTicket=9c0062da0e1c74005f8a0ef426e0555cff57ea9c
+Connection: close
+Upgrade-Insecure-Requests: 1
+
+
+HTTP/1.1 200 OK
+Date: Thu, 06 Apr 2017 03:21:11 GMT
+Server: Apache
+Cache-Control: post-check=0, pre-check=0, no-cache, no-store
+Pragma: no-cache
+Expires: 0
+Last-Modified: Thu, 06 Apr 2017 03:21:11 GMT
+Content-Length: 5379
+Connection: close
+Content-Type: text/html; charset=UTF-8
+
+<!DOCTYPE HTML PUBLIC "-//W3C//DTD HTML 4.01 Transitional//EN" "http://www.w3.org/TR/html4/loose.dtd">
+<html lang="ja">
+<head>
+<!-- Google Tag Manager -->
+<script>(function(w,d,s,l,i){w[l]=w[l]||[];w[l].push({'gtm.start':
+new Date().getTime(),event:'gtm.js'});var f=d.getElementsByTagName(s)[0],
+j=d.createElement(s),dl=l!='dataLayer'?'&l='+l:'';j.async=true;j.src=
+'https://www.googletagmanager.com/gtm.js?id='+i+dl;f.parentNode.insertBefore(j,f);
+})(window,document,'script','dataLayer','GTM-M4BDX37');</script>
+<!-- End Google Tag Manager -->
+<meta http-equiv="Content-Type" content="text/html; charset=UTF-8">
+<title>森永乳業</title>
+<META NAME="keywords" CONTENT="" >
+<META NAME="Description" CONTENT="" >
+
+<link rel="stylesheet" type="text/css" href="/Front/common/PC/css/content_import.css" media="all">
+<script src="/Front/common/PC/js/screen-control.js" type="text/javascript"></script>
+
+</head>
+<body>
+<!-- Google Tag Manager (noscript) -->
+<noscript><iframe src="https://www.googletagmanager.com/ns.html?id=GTM-M4BDX37"
+height="0" width="0" style="display:none;visibility:hidden"></iframe></noscript>
+<!-- End Google Tag Manager (noscript) -->
+<div id="contentAll">
+<!--contentAll-->
+	    <!--contentAll-->
+    <div id="contentHead">
+        <!--contentHead-->
+        <div class="headBdr">
+        <p><img src="/Front/img/0_pc_header.gif" width="800" alt="morinaga"></p>
+        </div>
+        <!--/contentHead-->
+    </div>
+
+	<div id="contentBody">
+	<!--contentBody-->
+		<div id="contentBodyMain">
+		<!--contentBodyMain-->
+
+
+
+			<div class="headlineA">
+				<h1>変更内容確認</h1>
+			</div>
+		<p>※ブラウザの戻るボタンを使用すると、入力内容が保持されない可能性がありますので、ご注意ください。<br>
+</p>
+
+<p class="margB00">入力内容をご確認ください。</p>
+<p class="Attention">※修正する場合は項目名を選択してください。</p>
+
+			<div class="tableWrap">
+			<!--tableWrap-->
+					<dl class="tableB">
+						<dt><span class="item"><a href="https://msclub.jp/Front/F00000901.php/0#T_EMAIL">メールアドレス</a></span></dt>
+						<dd><div class="kform">crawlingtest1000@gmail.com</div></dd>
+						<dt><span class="item"><a href="https://msclub.jp/Front/F00000901.php/0#T_PASSWORD">パスワード</a></span></dt>
+						<dd><div class="kform">********</div></dd>
+						<dt><span class="item"><a href="https://msclub.jp/Front/F00000901.php/0#T_NAME">氏名</a></span></dt>
+						<dd><div class="kform">齋藤　手末男</div></dd>
+						<dt><span class="item"><a href="https://msclub.jp/Front/F00000901.php/0#T_NAME_KANA">フリガナ</a></span></dt>
+						<dd><div class="kform">サイトウ　テスオ</div></dd>
+						<dt><span class="item"><a href="https://msclub.jp/Front/F00000901.php/0#T_ZIP">郵便番号</a></span></dt>
+						<dd><div class="kform">160-0001</div></dd>
+						<dt><span class="item"><a href="https://msclub.jp/Front/F00000901.php/0#T_ADDR1">都道府県</a></span></dt>
+						<dd><div class="kform">東京都</div></dd>
+						<dt><span class="item"><a href="https://msclub.jp/Front/F00000901.php/0#T_ADDR2">市区町村など</a></span></dt>
+						<dd><div class="kform">新宿区片町</div></dd>
+						<dt><span class="item"><a href="https://msclub.jp/Front/F00000901.php/0#T_ADDR3">丁目・番地</a></span></dt>
+						<dd><div class="kform">一丁目</div></dd>
+						<dt><span class="item"><a href="https://msclub.jp/Front/F00000901.php/0#T_ADDR4">建物名・部屋番号など</a></span></dt>
+						<dd><div class="kform">　</div></dd>
+						<dt><span class="item"><a href="https://msclub.jp/Front/F00000901.php/0#T_PHONE">電話番号</a></span></dt>
+						<dd><div class="kform">09012345678</div></dd>
+						<dt><span class="item"><a href="https://msclub.jp/Front/F00000901.php/0#T_BIRTH">生年月日</a></span></dt>
+						<dd><div class="kform">20000101</div></dd>
+						<dt><span class="item"><a href="https://msclub.jp/Front/F00000901.php/0#T_SEX">性別</a></span></dt>
+						<dd><div class="kform">男性</div></dd>
+						<dt><span class="item"><a href="https://msclub.jp/Front/F00000901.php/0#T_WORK">職業</a></span></dt>
+						<dd><div class="kform">その他</div></dd>
+						<dt><span class="item"><a href="https://msclub.jp/Front/F00000901.php/0#T_MAILDIV">メールマガジン受け取り確認</a></span></dt>
+						<dd><div class="kform">メールマガジンは受け取らない</div></dd>					</dl>
+
+																		
+				<form action="https://msclub.jp/Front/F00001001.php/0" method="post" id="registForm" >
+					<ul class="launchBtn">
+						<li><input type="image" name="submit_F00001001_act" src="/Front/common/PC/image/btn_regist.gif" alt="登録する" onclick="dis(this.name);return false;" onkeypress="dis(this.name);return false;"></li>
+						<input type="hidden" id="trans_token" name="trans_token" value="168456ab25acfe2b9f80bc5de8f5fd88b2e0cc078b60c2dca3b9d25bc40d51f6" />
+						<input type="hidden" id="subsbtn">
+					</ul>
+				</form>
+			<!--/serialInput-->
+			</div>
+		<!--/contentBodyMain-->
+		</div>
+	<!--/contentBody-->
+	</div>
+	
+	    <div id="contentFoot">
+    <!--contentFoot-->
+        <p><img src="/Front/img/0_pc_footer.gif" width="800" alt="Copyright(C)MORINAGA MILK INDUSTRY CO.,LTD. All Rights Reserved."></p>
+    <!--/contentFoot-->
+    </div>
+	
+<!--/contentAll-->
+</div>
+</body>
+</html>

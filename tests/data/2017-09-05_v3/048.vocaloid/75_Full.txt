@@ -1,0 +1,30 @@
+POST https://www.vocaloid.com/accounts/update HTTP/1.1
+Host: www.vocaloid.com
+User-Agent: Mozilla/5.0 (Windows NT 6.1; WOW64; rv:52.0) Gecko/20100101 Firefox/52.0
+Accept: text/html,application/xhtml+xml,application/xml;q=0.9,*/*;q=0.8
+Accept-Language: ja,en-US;q=0.7,en;q=0.3
+Accept-Encoding: gzip, deflate, br
+Referer: https://www.vocaloid.com/accounts/edit/profile
+Cookie: _ga=GA1.2.1743150807.1491383665; _ceg.s=onyovy; _ceg.u=onyovy; _ec_session=d8bd24b6436f8225bb65f2e0783f4b60; secure_token=BAgiJTM0MmI5ZTk3M2E2YmRjMzhhMjBlYzg1YjU3NGVlZThj--c2f5397b4bf25ace041655d60eac9df69d7cb189
+Connection: keep-alive
+Upgrade-Insecure-Requests: 1
+Content-Type: application/x-www-form-urlencoded
+Content-Length: 337
+
+session_token=5236220bb821e0699d6bf40f87e30962&authenticity_token=QEyz3AdVXCmFhsiXwTQGqaD7kLFTGR4trEbSRrgPdFI%3D&type=profile&customer%5Bfull_name%5D=%E9%BD%8B%E8%97%A4&customer%5Bfull_name_kana%5D=%E3%82%B5%E3%82%A4%E3%83%88%E3%82%A6&customer%5Bbirthday%281i%29%5D=1995&customer%5Bbirthday%282i%29%5D=1&customer%5Bbirthday%283i%29%5D=14
+HTTP/1.1 302 Found
+Cache-Control: no-store
+Content-Type: text/html; charset=utf-8
+Date: Thu, 06 Apr 2017 00:38:27 GMT
+Location: https://www.vocaloid.com/accounts/edit
+Pragma: no-cache
+Server: Apache
+Set-Cookie: secure_token=BAgiJTM0MmI5ZTk3M2E2YmRjMzhhMjBlYzg1YjU3NGVlZThj--c2f5397b4bf25ace041655d60eac9df69d7cb189; path=/; secure; HttpOnly
+Set-Cookie: secure_token=BAgiJTA3YjdjYzBkMDIwNDhlOWEyOTFlMmMzMTFjYWZlMDc2--35321ff8e851c997a04c3a610b6ca6416c6b781d; path=/; secure; HttpOnly
+Set-Cookie: _ec_session=0d555f3487700cde90efc8437f5064c7; path=/; HttpOnly
+Status: 302 Found
+X-Runtime: 45
+Content-Length: 104
+Connection: keep-alive
+
+<html><body>You are being <a href="https://www.vocaloid.com/accounts/edit">redirected</a>.</body></html>

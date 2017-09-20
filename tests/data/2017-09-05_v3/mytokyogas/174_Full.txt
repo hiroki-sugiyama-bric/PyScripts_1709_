@@ -1,0 +1,261 @@
+GET https://www2.eee.tokyo-gas.co.jp/mytokyogasbiz2RP/charge/TC_12_02.php HTTP/1.1
+Host: www2.eee.tokyo-gas.co.jp
+User-Agent: Mozilla/5.0 (Windows NT 10.0; WOW64; rv:50.0) Gecko/20100101 Firefox/50.0
+Accept: text/html,application/xhtml+xml,application/xml;q=0.9,*/*;q=0.8
+Accept-Language: ja,en-US;q=0.7,en;q=0.3
+Accept-Encoding: gzip, deflate, br
+Referer: https://www2.eee.tokyo-gas.co.jp/mytokyogasbiz2RP/charge/TC_12_07.php
+Cookie: Apache=139.152.1.135.1485305947494466; PHPSESSID=89f76a36ace0929e8efb2a8236c95eeb
+Connection: close
+Upgrade-Insecure-Requests: 1
+
+
+HTTP/1.1 200 OK
+Date: Wed, 25 Jan 2017 01:31:06 GMT
+Server: Apache
+Expires: Wed, 25 Jan 2017 04:31:06 GMT
+Cache-Control: public, max-age=10800
+Last-Modified: Tue, 24 Jan 2017 10:06:42 GMT
+Content-Type: text/html; charset=EUC-JP
+Connection: close
+Content-Length: 11655
+
+<?xml version="1.0" encoding="euc-jp" ?>
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Strict//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-strict.dtd">
+<html xmlns="http://www.w3.org/1999/xhtml" xml:lang="ja" lang="ja">
+	<head>
+		<meta name="robots" content="noindex,nofollow">
+		<meta http-equiv="Content-Type" content="text/html; charset=euc-jp" />
+		<meta http-equiv="Cache-Control" content="no-cache">
+		<meta http-equiv="Pragma" content="no-cache">
+		<title>東京ガス ： myTOKYOGASビジネス ／ 料金・使用量実績</title>
+
+		<link rel="stylesheet" href="../css/reset.css" type="text/css" media="screen,tv,print">
+		<link rel="stylesheet" href="../css/fonts.css" type="text/css" media="screen,tv,print">
+		<link rel="stylesheet" href="../css/base.css" type="text/css" media="screen,tv,print">
+		<link rel="stylesheet" href="../css/layout.css" type="text/css" media="screen,tv,print">
+
+		<script type="text/javascript" src="../js/tgc_common.js"></script>
+
+		
+
+	</head>
+	<body>
+				<div id="container">
+	<div class="wrap">
+		<div id="header">
+			<p class="logo">
+															<a href="../TC_02.php"><img src="../img/MYTG_biz_4C_2.png" width="375" height="47" border="0" alt="myTOKYOGASビジネス" /></a>
+												</p>
+			<p class="client_name">受付比較18様</p>
+		</div>
+		<div id="page">
+			<div class="nav">
+				<p class="breadcrumbs">
+								<a href="https://www2.eee.tokyo-gas.co.jp/mytokyogasbiz2RP/TC_02.php">				トップメニュー
+				</a>				&gt;								<a href="https://www2.eee.tokyo-gas.co.jp/mytokyogasbiz2RP/charge/TC_12.php">				料金・ご使用量実績照会サービスメニュー
+				</a>				&gt;												料金・使用量実績
+																</p>
+									<form name="logout_form" id="logout_form" method="post" action="../TC_01_01.php" onsubmit="return false;">
+					<p class="logout"><a href="javascript:void(0);" onclick="callSubmitFunc('logout','',''); return false;">ログアウト</a></p>
+					</form>
+							</div>
+				<h1>料金・使用量実績</h1>
+		<form name="main_form" id="main_form" action="TC_12_02.php" method="post" onsubmit="return false;" autocomplete="off">
+			<input type="hidden" name="hdn_func" id="hdn_func" value="">
+			<input type="hidden" name="hdn_targets" id="hdn_targets" value="">
+			<input type="hidden" name="file_name" id="file_name" value="">
+
+			<div class="section" id="docs">
+				<ul class="tab clear">
+					<li class="none"><a href="" onclick="return false" class="blue">料金・ご使用量実績照会 </a></li>
+					<li><a href="#" onclick="callSubmitFunc('csvDownload','',''); return false;" class="blue">料金一括CSVダウンロード </a></li>
+					<li><a href="#" onclick="callSubmitFunc('unitPrice','',''); return false;" class="blue">ガス調整単位料金(単価)のお知らせ </a></li>
+					<li><a href="#" onclick="callSubmitFunc('gasChargeSisan','',''); return false;" class="blue">ガス料金試算</a></li>
+				</ul>
+								<h2 style="font-size:94%"><span>お客さま番号 &nbsp;
+					<font class="pulldown"><select name="selectClientNumber">
+<option label="1688-825-0061 ○崎　○香" value="1688-825-0061">1688-825-0061 ○崎　○香</option>
+</select>
+</font>
+					&nbsp;
+					<button type="button" name="btn_change" id="btn_change"  onclick="callSubmitFunc('change','','');">切替</button>
+					&nbsp;&nbsp;<font class="switch_mess">※照会をご希望のお客さま番号を選択し、切替ボタンを押してください。</font>
+					</span>
+				</h2>
+				
+								
+				●	直近の実績を最上段に表示しています。<br><br>
+
+									<div id="page_cs">
+						<table border="1" cellspacing="0" cellspacing="0">
+							<tr>
+								<th width="15%" class="top">ご使用場所住所</th>
+								<td width="40%" class="top">横須賀市鴨居２丁目82○営○賀○も○団○２○棟-４１０&nbsp;</td>
+								<input type="hidden" name="customer_addr" id="customer_addr" value="横須賀市鴨居２丁目82○営○賀○も○団○２○棟-４１０">
+															</tr>
+							<tr>
+								<th>ご使用者名</th>
+								<td>○崎　○香&nbsp;</td>
+								<input type="hidden" name="customer_name" id="customer_name" value="○崎　○香">
+								<td align="right" class="noline">
+																														<button type="button" name="btn_upload" class="small" onclick="callSubmitFunc('beforeContract','','');">&lt;&lt;前契約</button>
+																											</td>
+							</tr>
+							<tr>
+								<th>ご使用場所店名・屋号</th>
+								<td>-&nbsp;</td>
+								<input type="hidden" name="used_shopname" id="used_shopname" value="-">
+																	<td align="right" class="noline">
+										<button type="button" class="normal" name="btn_csv" onclick="callSubmitFunc('makeCsv','','');">CSV形式でダウンロード</button>
+									</td>
+																<td align="right" class="noline"></td>
+							</tr>
+							<tr>
+								<th>契約種別</th>
+								<td>一般契約&nbsp;</td>
+								<input type="hidden" name="contract_class" id="contract_class" value="一般契約">
+								<td align="right" class="noline">
+									<a href="javascript:void(0);" onclick="callSubmitFunc('quaInquiry','','');">この契約の使用量を確認する</a>
+								</td>
+							</tr>
+						</table>
+					</div>
+													<table border="1" cellspacing="0" cellspacing="0" summary="各種ご説明資料">
+													<tr>
+								<th class="head" width="15%">検針年月</th>
+								<th class="head" width="15%">ガス使用量(m<sup>3</sup>)</th>
+								<th class="head" width="15%">ガス料金(円)</th>
+								<th class="head" width="15%">内ガス料金分消費税(円)</th>
+																	<th class="head" width="15%">ご請求金額(円)</th>
+																<th class="head" width="10%">内訳</th>
+							</tr>
+						
+													<tr>
+																	<th rowspan="1">2016/9</th>
+																<td align="right">3</td>
+								<td align="right">1,124</td>
+								<td align="right">82</td>
+																											<td align="right">0</td>
+																									<td align="center">
+																			<button type="button" name="btn_uchiwake" class="small" onclick="callSubmitFunc('detailContract','2016/9-20160915-11-5960-','');">内訳</button>
+																	</td>
+							</tr>
+													<tr>
+																	<th rowspan="1">2016/8</th>
+																<td align="right">4</td>
+								<td align="right">2,550</td>
+								<td align="right">185</td>
+																											<td align="right">2,550</td>
+																									<td align="center">
+																			<button type="button" name="btn_uchiwake" class="small" onclick="callSubmitFunc('detailContract','2016/8-20160818-10-5960-','');">内訳</button>
+																	</td>
+							</tr>
+													<tr>
+																	<th rowspan="1">2016/7</th>
+																<td align="right">4</td>
+								<td align="right">1,287</td>
+								<td align="right">93</td>
+																											<td align="right">0</td>
+																									<td align="center">
+																			<button type="button" name="btn_uchiwake" class="small" onclick="callSubmitFunc('detailContract','2016/7-20160715-9-5960-','');">内訳</button>
+																	</td>
+							</tr>
+													<tr>
+																	<th rowspan="1">2016/6</th>
+																<td align="right">7</td>
+								<td align="right">1,694</td>
+								<td align="right">124</td>
+																											<td align="right">1,694</td>
+																									<td align="center">
+																			<button type="button" name="btn_uchiwake" class="small" onclick="callSubmitFunc('detailContract','2016/6-20160616-8-5960-','');">内訳</button>
+																	</td>
+							</tr>
+													<tr>
+																	<th rowspan="1">2016/5</th>
+																<td align="right">9</td>
+								<td align="right">1,991</td>
+								<td align="right">146</td>
+																											<td align="right">1,991</td>
+																									<td align="center">
+																			<button type="button" name="btn_uchiwake" class="small" onclick="callSubmitFunc('detailContract','2016/5-20160518-7-5960-','');">内訳</button>
+																	</td>
+							</tr>
+													<tr>
+																	<th rowspan="1">2016/4</th>
+																<td align="right">16</td>
+								<td align="right">2,992</td>
+								<td align="right">220</td>
+																											<td align="right">2,992</td>
+																									<td align="center">
+																			<button type="button" name="btn_uchiwake" class="small" onclick="callSubmitFunc('detailContract','2016/4-20160415-6-5960-','');">内訳</button>
+																	</td>
+							</tr>
+													<tr>
+																	<th rowspan="1">2016/3</th>
+																<td align="right">12</td>
+								<td align="right">2,461</td>
+								<td align="right">181</td>
+																											<td align="right">2,461</td>
+																									<td align="center">
+																			<button type="button" name="btn_uchiwake" class="small" onclick="callSubmitFunc('detailContract','2016/3-20160316-5-5960-','');">内訳</button>
+																	</td>
+							</tr>
+													<tr>
+																	<th rowspan="1">2016/2</th>
+																<td align="right">12</td>
+								<td align="right">2,467</td>
+								<td align="right">182</td>
+																											<td align="right">2,467</td>
+																									<td align="center">
+																			<button type="button" name="btn_uchiwake" class="small" onclick="callSubmitFunc('detailContract','2016/2-20160216-4-5960-','');">内訳</button>
+																	</td>
+							</tr>
+													<tr>
+																	<th rowspan="1">2016/1</th>
+																<td align="right">18</td>
+								<td align="right">3,341</td>
+								<td align="right">247</td>
+																											<td align="right">3,341</td>
+																									<td align="center">
+																			<button type="button" name="btn_uchiwake" class="small" onclick="callSubmitFunc('detailContract','2016/1-20160118-3-5960-','');">内訳</button>
+																	</td>
+							</tr>
+													<tr>
+																	<th rowspan="1">2015/12</th>
+																<td align="right">8</td>
+								<td align="right">1,913</td>
+								<td align="right">140</td>
+																											<td align="right">1,913</td>
+																									<td align="center">
+																			<button type="button" name="btn_uchiwake" class="small" onclick="callSubmitFunc('detailContract','2015/12-20151215-2-5960-','');">内訳</button>
+																	</td>
+							</tr>
+													<tr>
+																	<th rowspan="1">2015/11</th>
+																<td align="right">12</td>
+								<td align="right">2,480</td>
+								<td align="right">182</td>
+																											<td align="right">2,480</td>
+																									<td align="center">
+																			<button type="button" name="btn_uchiwake" class="small" onclick="callSubmitFunc('detailContract','2015/11-20151116-1-5960-','');">内訳</button>
+																	</td>
+							</tr>
+											</table>
+					＊ガスのご使用量・料金を表示しております。<br>
+										＊ご請求金額とガス料金が異なる場合は、ガス料金以外の料金を含んでおります。<br>
+					＊内訳ボタンより、ご請求の内訳がご確認できます。メータ別の使用量については、ご請求金額内訳よりご確認できます。<br>
+																																																																																																																																										</div>
+		</form>
+		
+						</div><!-- /#page -->
+	</div><!-- /.wrap -->
+
+	<div id="footer">
+	<p class="totop"><a href="#container">このページの先頭へ</a></p>
+	<p class="copyright">
+					<a href="http://www.tokyo-gas.co.jp/" target="_blank"><img src="../shared/img/tg_logo.gif" alt="TOKYO GAS" width="76" height="14"></a><img src="../shared/img/copyright.gif" alt="Copyright TOKYO GAS Co., Ltd. All Rights Reserved." width="256" height="10">
+			</p>
+	</div><!-- /#footer -->
+</div><!-- /#container -->	</body>
+</html>

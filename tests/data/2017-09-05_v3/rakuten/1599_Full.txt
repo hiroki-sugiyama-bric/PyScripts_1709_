@@ -1,0 +1,24 @@
+GET http://search.rakuten.co.jp/search/mall/AI/?f=1&grp=product HTTP/1.1
+Host: search.rakuten.co.jp
+User-Agent: Mozilla/5.0 (Windows NT 6.1; WOW64; rv:51.0) Gecko/20100101 Firefox/51.0
+Accept: text/html,application/xhtml+xml,application/xml;q=0.9,*/*;q=0.8
+Accept-Language: ja,en-US;q=0.7,en;q=0.3
+Referer: http://www.rakuten.co.jp/
+Cookie: s_pers=%20s_nr%3D1487752728412-New%7C1495528728412%3B%20s_mrcr%3D1100400000000000%257C4000000000000%257C4000000000000%257C4000000000000%7C1645434565820%3B; Rt=ade3a93453dc742f9fdca3ba935d9739; Rp=7ae941b774eac2ecd437313558a5591a7845e; Re=5.13.6.0.0.216081.1-5.13.6.0.0.216081.1; _aeoaid=qYFT0vHvHhjCuwl04uV54nMw; s_sess=%20ttc_ichiba%3D1487742063861%3B%20s_cc%3Dtrue%3B%20ich_c33%3DRakuten%2520Top%3B%20s_sq%3D%3B%20ich_c6%3D%3B%20ich_parts%3DRakuten%2520Top%3B%20s_prechannel%3DRakuten%2520Top%3B%20s_prevsite%3Dichiba%3B; ak_bmsc=8D02E7DA13E59A82B752541F9708182348F6BF1F664A0000443FAD58DD88BD3A~plQNXA1+WqOhQZ9FLsitWbWncqPdJMJt4pue3wkQtHIw0gCzSGVwyL6fBlCN9eQvgYepdJz8NuLcMG5zUrmVgzeA8Ep5/Ac6NAj7X0iUWTjEP/9a370QPq0bn21aSOkojaZcfdyZNhZ4syLO2hoaS1fcJi0ZHtEqiJ1KnSzJ2lX5lCCNFtO8ipSOzjA7qb7bTYcpSmRQfKDhVdtUIG6ioAAQ==; Rq=58ad4f7d; Ry=1&ee7477833cff465feeb631cb4365612366b0a0180ABCDEFGHIJKLMNOPQRSTUVWXYZABCDEF&20170222174445; Rz=A_4MLaBhkTv5QR7TNLBEdZdYdNB3YYZRxUjbF-jgVMFGEUAUx6umyScX4ZkE6ZQ7AZX2Zh3LSXQM1Wbqo-HfnJ9VVUoKcjNfF-1Je6_efDU34dw_V9EvgVM~
+Connection: close
+Upgrade-Insecure-Requests: 1
+
+
+HTTP/1.1 301 Moved Permanently
+Server: Apache
+Location: http://search.rakuten.co.jp/search/mall/AI/
+Content-Length: 0
+X-Content-Type-Options: nosniff
+X-XSS-Protection: 1; mode=block
+Expires: Wed, 22 Feb 2017 09:09:42 GMT
+Cache-Control: max-age=0, no-cache, no-store
+Pragma: no-cache
+Date: Wed, 22 Feb 2017 09:09:42 GMT
+Connection: close
+Set-Cookie: DApache=fff7fa1a.5491adb6564c7; path=/; expires=Thu, 22-Feb-18 09:09:42 GMT
+

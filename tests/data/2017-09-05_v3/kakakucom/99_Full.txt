@@ -1,0 +1,112 @@
+GET https://ssl.kakaku.com/auth/id/idend.asp HTTP/1.1
+Host: ssl.kakaku.com
+User-Agent: Mozilla/5.0 (Windows NT 6.1; WOW64; rv:51.0) Gecko/20100101 Firefox/51.0
+Accept: text/html,application/xhtml+xml,application/xml;q=0.9,*/*;q=0.8
+Accept-Language: ja,en-US;q=0.7,en;q=0.3
+Referer: https://ssl.kakaku.com/auth/id/idconf.asp
+Cookie: fblkey=3744E29E1E1740D; s_nr=1485485136491; s_royal=kakaku%3A701-2016347%3A3%2Cpc%3A701-2006329%3A2; bd=1a0be62aa2dd4a5ba0ae8d66167283376; __gads=ID=fd7084267cad15f0:T=1485485137:S=ALNI_MY6RaIueTQKY970w3DJu1hLXGNbWA; kakakujpchk=jp; kakakuusr=VqpP9PUU09i_1487232295025; __ulfpc=201702161717587998; MalltagRoute=02710%2C%2C%2C%2C1487840629975; s_cc=true; s_sq=kakakucomkakakucom%3D%2526pid%253D%25255Bid%25255D%2525E4%2525BE%2525A1%2525E6%2525A0%2525BC.com%252520-%252520%2525E4%2525BE%2525A1%2525E6%2525A0%2525BC.comID%2525E3%252581%2525AE%2525E7%252599%2525BB%2525E9%25258C%2525B2%252520%2525E7%2525A2%2525BA%2525E8%2525AA%25258D%2526pidt%253D1%2526oid%253Dhttps%25253A%25252F%25252Fssl.kakaku.com%25252Fimages%25252Fid%25252Fentry%25252Fbtn_send_mail.png%2526ot%253DIMAGE; ASPSESSIONIDCCBRTQSC=IBFIPAPAFELCPLDMOBDDPNLA; ASPSIDXGSSL=0299eb0d%2Dad4a%2D4e2d%2D9776%2D7268015b8190
+Connection: close
+Upgrade-Insecure-Requests: 1
+
+
+HTTP/1.1 200 OK
+Cache-Control: private
+Content-Length: 3501
+Content-Type: text/html
+Server: Microsoft-IIS/7.5
+Set-Cookie: ASPSIDXGSSL=; expires=Wed, 22-Feb-2017 09:07:38 GMT; domain=ssl.kakaku.com; path=/
+X-Powered-By: ASP.NET
+X-Frame-Options: SAMEORIGIN
+Date: Thu, 23 Feb 2017 09:07:39 GMT
+Connection: close
+
+<!DOCTYPE HTML PUBLIC "-//W3C//DTD HTML 4.01 Transitional//EN" "http://www.w3.org/TR/html4/loose.dtd">
+<html lang="ja">
+<head>
+<meta http-equiv="Content-Type" content="text/html; charset=shift_jis">
+<title>価格.com - 価格.comIDの登録 完了</title>
+<meta name="robots" content="noindex,nofollow">
+<meta http-equiv="Content-Style-Type" content="text/css">
+<meta http-equiv="Content-Script-Type" content="text/javascript">
+<link rel="SHORTCUT ICON" href="/images/kakaku_logo.ico">
+<link href="/css/global_new.css" rel="stylesheet" type="text/css">
+<link href="/css/mypage/newentry2.css" rel="stylesheet" type="text/css">
+<script type="text/javascript" src="/script/libs/jquery/1.10/jquery-1.10.2.min.js"></script>
+<script type="text/javascript" src="/script/id/entry.js"></script>
+</head>
+<body>
+<a name="top"></a>
+<div id="all">
+<div id="contents930">
+<div id="default">
+<div id="header">
+<div class="headerL"><img src="/images/logo.gif" alt="価格.com" width="133" height="23"><img src="/images/cell.gif" height="40" width="1" alt=""></div>
+</div><!-- /#header -->
+<div class="h1Area">
+<div class="h1deco">
+<div class="h1bg">
+<h1>価格.comIDの登録</h1>
+</div>
+</div>
+</div>
+<div id="mainContents" class="fontStyle01 mTop10">
+<div class="mainContentsInner">
+<div class="wrapperW670">
+<div class="boxWrapper w600">
+<div class="boxInner">
+<div class="boxTtl">以下のアドレスに登録用メールを送信しました</div>
+<div class="bgWhite"><p class="mailTxt">hitakahashi9999@gmail.com</p></div>
+<div class="redTxt">届いたメール内のURLにアクセスし、登録手続きを行ってください。</div>
+</div>
+</div>
+<div class="boxWrapperBottom"><p class="notes">※URLの有効期限は送信後24時間です。<br>万が一メールが届かない場合は<a href="http://help.kakaku.com/id.html?id=QA000190" target="_blank">こちら</a>をご覧ください。</p></div>
+</div>
+</div>
+</div>
+<p class="arrowTop"><a href="#top">このページの先頭へ</a></p>
+<div id="footer-noBorder">
+<!-- copyright -->
+<div class="copyRight">Copyright (c) Kakaku.com, Inc. All Rights Reserved. 無断転載禁止</div>
+<!--/copyright -->
+</div>
+</div>
+</div>
+</div>
+<span style="display:none;">
+<!-- SiteCatalyst code version: H.8.
+Copyright 1997-2006 Omniture, Inc. More info available at
+http://www.omniture.com -->
+<script language="JavaScript" src="/script/analytics/s_code.js"></script>
+<script language="JavaScript"><!--
+/* You may give each page an identifying name, server, and channel on
+the next lines. */
+s.server="ssl.kakaku.com"
+s.pageType=""
+s.campaign=""
+s.pageName = "[id]" + document.title;
+s.channel = "ID"
+s.prop1 = "[id]ユーザー登録"
+s.prop2 = "[id]価格.comIDの登録_仮登録完了_価格.com経由"
+s.eVar1 = "[id]ユーザー登録完了"
+s.eVar50 = ""
+s.events = "event25"
+/************* DO NOT ALTER ANYTHING BELOW THIS LINE ! **************/
+var s_code=s.t();if(s_code)document.write(s_code)//--></script>
+<script language="JavaScript"><!--
+if(navigator.appVersion.indexOf('MSIE')>=0)document.write(unescape('%3C')+'\!-'+'-')
+//--></script><!--/DO NOT REMOVE/-->
+<!-- End SiteCatalyst code version: H.8. -->
+</span>
+<script language="JavaScript"><!--
+function onclickcatalyst_pr(prtype,prclicktype){
+var s=s_gi(s_code_gi);
+s.linkTrackVars="prop1,prop45,prop20,prop21,prop22,prop25,prop29,prop30,prop31,prop32,prop33"
+s.prop1 ="[ALL]pr_" + prtype + "_click"
+s.prop45 ="[ALL]pr_" + prtype + "_click_" + prclicktype;
+s.prop22 = ""
+s.prop30 = ""
+s.tl(this,'o',s.prop1);
+}
+// --></script>
+</body>
+</html>

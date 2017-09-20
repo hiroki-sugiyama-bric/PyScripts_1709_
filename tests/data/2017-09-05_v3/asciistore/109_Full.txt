@@ -1,0 +1,25 @@
+POST https://ascii-store.jp/frontparts/login_check.php HTTP/1.1
+Host: ascii-store.jp
+User-Agent: Mozilla/5.0 (Windows NT 6.1; WOW64; rv:51.0) Gecko/20100101 Firefox/51.0
+Accept: text/html,application/xhtml+xml,application/xml;q=0.9,*/*;q=0.8
+Accept-Language: ja,en-US;q=0.7,en;q=0.3
+Accept-Encoding: gzip, deflate, br
+Referer: https://ascii-store.jp/mypage/change_complete.php?transactionid=e7a63dcc18e303962cb2df23700d22ded1b31cab
+Cookie: ECSESSID=ft1ank9sgh0su5g3iare0joii6; ascii-store-lb=HJNCBEAK; __utma=133384606.1117544772.1489393026.1489393026.1489393026.1; __utmb=133384606.16.10.1489393026; __utmc=133384606; __utmz=133384606.1489393026.1.1.utmcsr=kadokawa.co.jp|utmccn=(referral)|utmcmd=referral|utmcct=/similarsites/; hikiageru_uuid=1cc4161ecbc807f48657ab32c8e4ca8b; device=bda453fee4190f8eb897dac81d0590624f57bab3bb22be65ecaa6ed073bf33de; auto=16ab4f133da95bdcb43ef2de9c9ec5bfdf462b944371993ca4c242be0eedd8f6
+Connection: keep-alive
+Upgrade-Insecure-Requests: 1
+Content-Type: application/x-www-form-urlencoded
+Content-Length: 98
+
+mode=logout&transactionid=e7a63dcc18e303962cb2df23700d22ded1b31cab&url=http%3A%2F%2Fascii-store.jp
+HTTP/1.1 302 Found
+Date: Mon, 13 Mar 2017 08:27:54 GMT
+Server: Apache/2.2.15 (CentOS)
+X-Powered-By: PHP/5.3.3
+Set-Cookie: device=deleted; expires=Sun, 13-Mar-2016 08:27:53 GMT; path=/
+Set-Cookie: auto=deleted; expires=Sun, 13-Mar-2016 08:27:53 GMT; path=/
+Location: http://ascii-store.jp/?transactionid=8c6199bf270264635a75cb8c385764a1e3cfe7cc
+Content-Length: 0
+Connection: close
+Content-Type: text/html; charset=UTF-8
+

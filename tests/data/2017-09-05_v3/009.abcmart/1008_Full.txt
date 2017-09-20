@@ -1,0 +1,27 @@
+POST https://www.abc-mart.net/shop/customer/askpass.aspx HTTP/1.1
+Host: www.abc-mart.net
+User-Agent: Mozilla/5.0 (Windows NT 6.1; rv:52.0) Gecko/20100101 Firefox/52.0
+Accept: text/html,application/xhtml+xml,application/xml;q=0.9,*/*;q=0.8
+Accept-Language: ja,en-US;q=0.7,en;q=0.3
+Accept-Encoding: gzip, deflate, br
+Referer: https://www.abc-mart.net/shop/customer/askpass.aspx
+Cookie: sctvaspcookie_cd=20170405182527073fgLxcWXzkUHD9xIM6; netmart98Shop=Session=365318221&Key=60a6c04cda382ce74a70b7ac9850909b; netmart98Shop_ReturnUrl=login=%2fshop%2fcustomer%2fmenu.aspx; ASP.NET_SessionId=qxx0bql4de3ubr5smfkkuje1; NavicastApi=20170405.182530.42112900.41434; NavicastApi.su=20170405.182530.42112900.41434; tuuid=35902d18-aa9e-45bc-b517-3c03ca2c92b2; _EXPL_SID_=abcrec/1DF2112AA4535532619D34F6A1500307.node2goya&_; _ga=GA1.2.645536840.1491384327; _EXPL_ABCREC_=Z1703_USowe8HrjiV7rnDaU_N._SwRwV2ed3BJAa4RBDOVI-A5.2goyaMt9U9; FormAssist_1tag=view; FormAssist_cookie=abcm/20161115094443/20170405/182844-635; netmart98Shop_secure=SecureKey=17f2d183c9b1f71d570dad3ffe90b2c9
+Connection: keep-alive
+Upgrade-Insecure-Requests: 1
+Content-Type: application/x-www-form-urlencoded
+Content-Length: 74
+
+uid=crawlingtest1000%40gmail.com&tel=03-1357-0911&submit.x=152&submit.y=32
+HTTP/1.1 302 Found
+Cache-Control: private
+Content-Length: 152
+Content-Type: text/html; charset=shift_jis
+Location: /shop/customer/askpasscomplete.aspx
+Server: 
+X-AspNet-Version: 4.0.30319
+X-Powered-By: ASP.NET
+Date: Wed, 05 Apr 2017 09:48:09 GMT
+
+<html><head><title>Object moved</title></head><body>
+<h2>Object moved to <a href="/shop/customer/askpasscomplete.aspx">here</a>.</h2>
+</body></html>

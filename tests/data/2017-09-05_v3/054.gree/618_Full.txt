@@ -1,0 +1,220 @@
+GET https://pid.gree.net/?action=password_reset_form HTTP/1.1
+Host: pid.gree.net
+User-Agent: Mozilla/5.0 (Windows NT 6.1; WOW64; rv:52.0) Gecko/20100101 Firefox/52.0
+Accept: text/html,application/xhtml+xml,application/xml;q=0.9,*/*;q=0.8
+Accept-Language: ja,en-US;q=0.7,en;q=0.3
+Accept-Encoding: gzip, deflate, br
+Referer: https://secure.gree.jp/?mode=home&act=config_profile_form
+Cookie: gcid=B=e35b9659ff20a4d28206f8748c53aa030a15595f&T=58e6e7c6&V=1&S=r66fecb2ag; _ga=GA1.2.220016531.1491527622; AGRTRM=WaeePQ0%2BmxpVm4GlDklCdIGGAhOQHNq6; gssid=7ba762888db1a0cdcd32587e6eda910defc3b5dd25e4ecb815547eeaa0b2a917c425a7920014915296050302623c251a2d; gssid_hash=1811bcd8309a3e6488f208b42809c880bfef6656257d2208232fd0b6187b441f; last_time=58e6f3ef3c08
+Connection: close
+Upgrade-Insecure-Requests: 1
+
+
+HTTP/1.1 200 OK
+Date: Fri, 07 Apr 2017 02:10:52 GMT
+Server: Apache
+X-FRAME-OPTIONS: DENY
+Vary: Accept-Encoding
+Content-Length: 8887
+Content-Type: text/html
+Connection: close
+
+<!DOCTYPE html>
+<!--[if IE 8]><html lang="ja" class="ltIe10 ie8"><![endif]-->
+<!--[if IE 9]><html lang="ja" class="ltIe10 ie9"><![endif]-->
+<!--[if gt IE 9]><!--><html lang="ja"><!--<![endif]-->
+<head>
+  <meta charset="utf-8">
+  <meta name="apple-mobile-web-app-capable" content="no">
+  <meta name="format-detection" content="telephone=no">
+  <meta name="format-detection" content="address=no">
+  <title>GREE</title>
+  <link rel="shortcut ico" type="image/x-icon" href="">
+  <!--[if lte IE 8 ]>
+  <script src="https://aimg-pid.gree.net/js/html5shiv.js?2014080401"></script>
+  <script src="https://aimg-pid.gree.net/js/es5-shim.js?2014080401"></script>
+  <![endif]-->
+  <link rel="stylesheet" href="https://aimg-pid.gree.net/css/pc/mint/reg.css?2014080401" media="all">
+  <script src="https://aimg-pid.gree.net/js/jquery-1.9.1.min.js?2014080401"></script>
+  <script src="https://aimg-pid.gree.net/js/gree_id.min.js?2014020500" type="text/javascript"></script>
+  <script src="https://aimg-pid.gree.net/js/quill.js?2014080401"></script>
+
+<script type="text/javascript">
+function setTz() {
+    var d = new Date()
+    var n = d.getTimezoneOffset();
+    // javascript returns e.g. "-540" for "UTC+9"
+    document.forms.next.tz_offset.value = (-1) * n;
+}
+
+// IE fix
+if (!window.location.origin) {
+  window.location.origin = window.location.protocol + "//" + window.location.hostname;
+}
+</script>
+
+</head><script src="https://aimg-pid.gree.net/js/password_strength.min.js?2014012300" type="text/javascript" charset="UTF-8"></script>
+<script type="text/javascript">
+
+$(document).ready(function () {
+    var validator_meter  = $("div.validatorMeter");
+    var validator_meter_label = $("p.validatorMeterLabel");
+    var STRENGTH_CLASS_NAME_SHORT  = 'short';
+    var STRENGTH_CLASS_NAME_LOW    = 'low';
+    var STRENGTH_CLASS_NAME_MIDDLE = 'middle';
+    var STRENGTH_CLASS_NAME_HIGH   = 'high';
+
+    updateStrength();
+    $("#user_password").keyup(function(key) {
+        updateStrength();
+    });
+
+    function updateStrength(){
+        var pwd = $("#user_password").val(),
+            mail_address = $('#mail_address').text() || $('#target_user_mail').val() || $('#mail').val(),
+            callback = function(strength) {
+                updateUI(strength);
+            },
+            parameters = {
+                password:pwd,
+                mailAddress:mail_address,
+                enableDictionaryChecker:$("#user_password"),
+            };
+        passwordStrength.calculate(parameters, callback);
+
+        function updateUI(strength) {
+            validator_meter.removeClass(STRENGTH_CLASS_NAME_LOW).removeClass(STRENGTH_CLASS_NAME_MIDDLE).removeClass(STRENGTH_CLASS_NAME_HIGH);
+            validator_meter_label.removeClass(STRENGTH_CLASS_NAME_LOW).removeClass(STRENGTH_CLASS_NAME_MIDDLE).removeClass(STRENGTH_CLASS_NAME_HIGH).removeClass(STRENGTH_CLASS_NAME_SHORT);
+
+            if (strength.password.length === 0) {
+                validator_meter_label.text("");
+                return;
+            } else if (strength.password.length < 6) {
+                validator_meter_label.addClass(STRENGTH_CLASS_NAME_SHORT);
+                validator_meter_label.text("短すぎます");
+                return;
+            }
+
+            var strengthClasName;
+            var strengthText;
+            if (strength.level === 1) {
+                strengthClasName = STRENGTH_CLASS_NAME_LOW;
+                strengthText = "低";
+            } else if (strength.level === 2) {
+                strengthClasName = STRENGTH_CLASS_NAME_MIDDLE;
+                strengthText = "中";
+            } else if(strength.level === 3) {
+                strengthClasName = STRENGTH_CLASS_NAME_HIGH;
+                strengthText = "高";
+            } else {
+                strengthText = "エラー";
+            }
+
+            validator_meter.addClass(strengthClasName);
+            validator_meter_label.addClass(strengthClasName);
+            validator_meter_label.text(strengthText);
+        }
+    }
+
+});
+
+</script><body>
+  <div class="glContr" id="glContr">
+    <header class="nav" id="navigation"><div class="contr"><h1 class="navLogo"><a class="logoGree" href="http://gree.jp/">GREE</a></h1></div></header><!--  --><script src="https://aimg-static-ssl.gree.net/js/navigation_pc_ja.js?20140909" type="text/javascript"></script>
+<script type="text/javascript">
+$(function(){
+var user_id = "1009064493";var backto_url = "";
+    // login url: pid.gree.net/login/entry
+    var initial_config = user_id ? {pattern_id: user_id}
+        : { header: {login_extension: backto_url} };
+    initial_config.footer = {silent: true}; // NOTE: turn-off Ajax call via non-secure channel.
+
+    gree_common_navigation.init(initial_config);
+    gree_common_navigation.show();
+});
+</script>
+    <div class="contWrap">
+      <div class="contr">
+        <div class="unit">
+          <article class="contCol12 center">
+            <div class="unit">
+              <div class="hl">
+                <div class="hlIn">
+                  <h1 class="itm hlTxt">パスワード変更</h1>
+                </div>
+              </div>
+              <div class="cst">
+                <div class="inFat">
+                  <form action="/" method="post">
+                    <input type="hidden" name="pid_csrf[token]" value="5fc125d567f0e95c1f2a477763f9eb89aefab60f" />
+                    <input type="hidden" name="action" value="password_reset_commit">
+                    <div class="row simple space10">
+                                              <div class="colHrz4 taR vaM">
+                          <div class="colIn">
+                            <p class="lead">現在のパスワード</p>
+                          </div>
+                        </div>
+                        <div class="colHrz10 vaM">
+                          <div class="colIn">
+                            
+                            <div class="inptL space10 ">
+                              <input type="password" name="current_password" value="" placeholder="パスワード入力">
+                            </div>
+                          </div>
+                        </div>
+                                          </div>
+                    <div class="row simple space10">
+                      <div class="colHrz4 taR vaM">
+                        <div class="colIn">
+                          <p class="lead">パスワード</p>
+                        </div>
+                      </div>
+                      <div class="colHrz10 vaM">
+                        <div class="colIn">
+                          <p>パスワードの安全度</p>
+                          <div class="flex">
+                            <div class="validatorMeterWrap">
+                              <div class="validatorMeter space">
+                                <span class="validatorMeterIn"></span>
+                              </div>
+                            </div>
+                            <p class="validatorMeterLabel"></p>
+                          </div>
+                          
+                          <div class="inptL space10 ">
+                            <input type="password" name="user_password" value="" id="user_password" placeholder="パスワード入力">
+                          </div>
+                          
+                          <div class="inptL space10 ">
+                            <input type="password" name="user_password_confirm" value="" placeholder="パスワード再入力">
+                          </div>
+                          <p class="minor">*半角英数記号、6文字以上20文字以内<br>
+                            *第三者による不正利用防止のため、できるだけ推測されにくいパスワードを設定してください。</p>
+                        </div>
+                      </div>
+                    </div>
+                    <div class="row simple">
+                      <div class="colHrz4 vaM">
+                      </div>
+                      <div class="colHrz10 vaM">
+                        <div class="colIn">
+                          <button id="submit" class="btn prim lrg w210 space15">パスワードを変更する</button>
+                                                      <p><a href="/?action=password_request_form" class="lnk">パスワードを忘れたときには</a></p>
+                                                  </div>
+                      </div>
+                    </div>
+                  </form>
+                </div>
+              </div>
+            </div>
+          </article>
+        </div>
+      </div>
+    </div>
+            <div class="contr">
+          <div class="unit">
+            <div class="taR"><a href="#" class="lnk fsS"><span class="vaM spaceR">ページトップ</span><span class="spr s18_arw_t_blue"></span></a></div>
+          </div>
+        </div>  </div>
+</body>
+</html>

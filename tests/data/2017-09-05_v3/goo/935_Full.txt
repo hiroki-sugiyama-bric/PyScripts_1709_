@@ -1,0 +1,32 @@
+POST https://login.mail.goo.ne.jp/id/authn/Login HTTP/1.1
+Host: login.mail.goo.ne.jp
+User-Agent: Mozilla/5.0 (Windows NT 6.1; WOW64; rv:51.0) Gecko/20100101 Firefox/51.0
+Accept: text/html,application/xhtml+xml,application/xml;q=0.9,*/*;q=0.8
+Accept-Language: ja,en-US;q=0.7,en;q=0.3
+Referer: https://login.mail.goo.ne.jp/id/authn/LoginStart?Site=profile.mail.goo.ne.jp&Success=https%3A%2F%2Flogin.mail.goo.ne.jp%2Fid%2Fportal%2FPassword%2FIndex
+Cookie: JSESSIONID=7AB563C604B943DD2E356B5C793C6B9C; GUID=00089932777D088100E28ECC61626364; _ga=GA1.3.1941210614.1484879743; DCDC=B1L3D0C0P13G00; NGUserID=ac142b37-16825-1484879746-1; CSST=CA_20170301|SMN_20170301; ATA=ABF7_20170301|ACP8_20170301|ADJ1_20170301|ADK2_20170301|ADS9_20170301|AGE5_20170301|AGH1_20170301|AFA8_20170301|ACN2_20170208|ADK8_20170208; ATA_SR=ACT6_20170207; LE2=+58APjbZnUG+3G4+3; gooproperty=TR%3Dkantou%26TV%3D008%26WE%3D4410%26HO%3D1%26MP%3Dkantou%26AR%3D%26TH%3DM13%26ST%3D%26TP%3D%26NL%3D13; TS01f84bb1=0122c0d756148bb2f495658922dcdc3609586870c9d745dbe93eca38ca5a2d555a4649efd1491ff48be49632e2940c77f7151754e1; LE3=+565jjrZkU+4G4+3; searchstate=DC%3D10%26DIS%3D1%26OCR%3D0%26IME%3D1%26SGT%3D1%26HIS%3D1%26HISW%3D0%26OWI%3D0%26TSZ%3D%26%26OCRS%3D%26IMR%3D%26GPS%3D1%26; goo_crta=; _ga=GA1.4.1941210614.1484879743; LE4=+59IDjrZkUG+3W8+3; _ga=GA1.5.1941210614.1484879743; TDRBA=be18afd7581559eb1fc7fe5c9deff5b0078dc3de923c522f9fce4310335b4dde; NGPID2=109n3K%2BRIWbQppVRX7IG2E2lcGLaCnQLn7BVu2B%2F9T11lN4BvOYUTCguDgf180FFrFsk4MpLCmVmcobX09eEZCxKXjAaqhwqHQEEH40qErLxD4YdEIozc8Qz%2Blk8GUVimuWxe%2FcpPrDZcTlJl7TRuU9gvpkmG4ybtzUlpMosECRZO4n8WS3vHCLxLG1AnNiNZH0g%3D%3D; _gat_UA-44407116-28=1; _dc_gtm_UA-44407116-5=1
+Connection: close
+Upgrade-Insecure-Requests: 1
+Content-Type: application/x-www-form-urlencoded
+Content-Length: 139
+
+uname=tester123456&pass=password001&Site=profile.mail.goo.ne.jp&Success=https%3A%2F%2Flogin.mail.goo.ne.jp%2Fid%2Fportal%2FPassword%2FIndex
+HTTP/1.1 302 Found
+Date: Thu, 02 Mar 2017 04:34:26 GMT
+Server: Apache
+Set-Cookie: NGAUTH2=20uGoJ7wwQ7iOBzHt2McFIYIOBug2YR%2FWULrn46V5ptclWsM8KIvWidXQINDxgsFsMXsn5LreD%2BxYyZK9lD5KyFtvJ5XVWbYmLao1ysj55mLdRNgPwowdMQSmBQHgkyK3Yehgz7SEkKE7LWTqA3u3EmHu3o%2FMM84zmbjpHLOUUMMXy2DiDJtz66r7ubIglICPPyvFnss4%2BESN3CvbZLX9bbqm%2BW03WuZsFw3epy8IKHvH43GcvJ7g62eQAKK%2FNKx%2FxMw%3D%3D; Domain=.goo.ne.jp; Path=/; HttpOnly
+Set-Cookie: NGAUTHSSL=20oVdwwXZvD9PMtQr0aNmFFt8pLUXyA9tiZUPR6ZZBsLFOWocyK8xAT%2FWuQI86r%2FdfN2f%2Br5qXRgLiifyes6A92BlAY1lPvgN7lgBIIcjLg4nG0NMbPuSlRaHCBdzLMun0eOFXYd1fOmLBczqVuw1yCh2sjzLHGDFtDNkG7je%2FmFO8GR7L1M9Nm1I8Mojm8RTUrARaUk2gkuXBjRjwXZv%2BnLnu%2BLBFlvgTSYN3y9vUj%2Bmfe1zt08QlTLfK30PsldhZFQ%3D%3D; Domain=.goo.ne.jp; Path=/; Secure; HttpOnly
+Set-Cookie: NGPID2=10hOKBwEsKfT8pNpx7OiDtujcirm6oY%2BN7wKdZF7wCZLlYn9ZU%2BVCVqNmvaJP38mBRL7wHScopUImLO8%2FDn4%2FYzZ0T0WTdBzIYeDniJbtN5gJyEzIgbtCXcCaRQ%2FhR9AhD61AWhGfTT9KJznfQJBXgKYQ464ibFpLRXy8YuvKEHIdb1oZmY6w7OTdQ%2FGge4r2P6A%3D%3D; Domain=.goo.ne.jp; Expires=Mon, 31-Dec-2035 15:00:00 GMT; Path=/; HttpOnly
+Set-Cookie: PKGID2=10bReUnr3IoX3c3ANPHRThpKx9WtyigGMfC4iOxQL0CK5Zc9J4LKmetvwrXlNGfAlK%2FN9kLvs6fVHSJYuok9pjPzWEnGKKZ74p3tVwOzSt8qew1%2FjQbLIeg%2BmwYirwbtpJnTDuKVU%2FPkJbj3z%2FtqrmltMHUzrLgYdgw4NM%2Bpt8xJWq34SVnS5tD34xmqqJ9oT9tSD9Ta7eLsv%2F1IGnuNkoT%2B7WPcFtk1xU9b%2F6rrhXDC3F; Domain=.goo.ne.jp; Path=/; HttpOnly
+Set-Cookie: NGID=; Domain=.goo.ne.jp; Expires=Thu, 01-Jan-1970 00:00:10 GMT; Path=/; HttpOnly
+Set-Cookie: NGPID=; Domain=.goo.ne.jp; Expires=Thu, 01-Jan-1970 00:00:10 GMT; Path=/; HttpOnly
+Set-Cookie: GID=; Domain=.goo.ne.jp; Expires=Thu, 01-Jan-1970 00:00:10 GMT; Path=/; HttpOnly
+Set-Cookie: EID=; Domain=.goo.ne.jp; Expires=Thu, 01-Jan-1970 00:00:10 GMT; Path=/; HttpOnly
+Set-Cookie: PKGID=; Domain=.goo.ne.jp; Expires=Thu, 01-Jan-1970 00:00:10 GMT; Path=/; HttpOnly
+Set-Cookie: GSID=; Domain=.goo.ne.jp; Expires=Thu, 01-Jan-1970 00:00:10 GMT; Path=/; HttpOnly
+Set-Cookie: OPID=; Domain=.goo.ne.jp; Expires=Thu, 01-Jan-1970 00:00:10 GMT; Path=/; HttpOnly
+Location: https://login.mail.goo.ne.jp/id/portal/Password/Index
+Content-Length: 0
+P3P: policyref="/w3c/p3p.xml",CP="CAO DSP COR CURa ADMa DEVa TAIa PSAa PSDa IVAi IVDi CONo OUR SAMo OTRo IND PHY ONL UNI PUR FIN COM NAV INT DEM CNT STA HEA PRE LOC"
+Connection: close
+

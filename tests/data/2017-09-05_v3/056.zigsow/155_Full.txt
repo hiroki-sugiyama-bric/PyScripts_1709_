@@ -1,0 +1,203 @@
+GET http://zigsow.jp/?m=portal&a=page_regist_end HTTP/1.1
+Host: zigsow.jp
+User-Agent: Mozilla/5.0 (Windows NT 6.1; WOW64; rv:52.0) Gecko/20100101 Firefox/52.0
+Accept: text/html,application/xhtml+xml,application/xml;q=0.9,*/*;q=0.8
+Accept-Language: ja,en-US;q=0.7,en;q=0.3
+Accept-Encoding: gzip, deflate
+Cookie: ziguid=73b39c512b885990c6a823e0ce165b60; _zab=B; _zabc=B; _zus=%7B%22%5C%2Fnew%5C%2Freview%5C%2Forder%22%3A%22ud%22%7D; _zois=2017-04-06+17%3A23%3A18; _ga=GA1.2.300364206.1491466997; renewal=yes; _zdpr=1.25; __utma=221298707.300364206.1491466997.1491802189.1491802189.1; __utmb=221298707.1.10.1491802189; __utmc=221298707; __utmz=221298707.1491802189.1.1.utmcsr=(direct)|utmccn=(direct)|utmcmd=(none); __utmt=1
+Connection: close
+Upgrade-Insecure-Requests: 1
+
+
+HTTP/1.1 200 OK
+Date: Mon, 10 Apr 2017 05:33:40 GMT
+Server: Apache
+Set-Cookie: ziguid=73b39c512b885990c6a823e0ce165b60; expires=Wed, 10-May-2017 05:33:40 GMT; path=/
+Set-Cookie: renewal=yes; path=/
+Set-Cookie: reborn=deleted; expires=Sun, 10-Apr-2016 05:33:39 GMT; path=/
+Expires: Mon, 26 Jul 1997 05:00:00 GMT
+Last-Modified: Mon, 10 Apr 2017 05:33:40 GMT
+Cache-Control: no-store, no-cache, must-revalidate
+Cache-Control: post-check=0, pre-check=0
+Pragma: no-cache
+X-XSS-Protection: 0
+Vary: Accept-Encoding,User-Agent
+Server-Hash: 9d975ef19a8e47350c883a53ed0b6f75
+Connection: close
+Content-Type: text/html; charset=UTF-8
+Transfer-Encoding: chunked
+
+5af
+<!DOCTYPE HTML>
+<html lang="ja" prefix="og:http://ogp.me/ns#">
+<head>
+<!--
+ _____ _____ __    _____ __    _____ _____ _____
+|   __|     |  |  |   __|  |  |  _  | __  |   __|
+|__   |  |  |  |__|   __|  |__|     |    -|   __|
+|_____|_____|_____|__|  |_____|__|__|__|__|_____|
+Webエンジニア募集中！
+http://solflare.co.jp/recruit/
+-->
+<meta charset="utf-8" />
+<meta http-equiv="X-UA-Compatible" content="IE-Edge">
+<meta property="og:title" content="会員登録 - 確認 | ジグソー" />
+<meta property="og:type" content="article" />
+<meta property="og:image" content="http://zigsow.jp/skin/mark.1500w.jpg" />
+<meta property="og:url" content="" />
+<meta property="og:description" content="レビューメディア「ジグソー」" />
+<meta property="fb:app_id" content="231733923543838" />
+<meta property="og:site_name" content="レビューメディア「ジグソー」" />
+<meta name="twitter:card" content="summary" />
+<meta name="twitter:site" content="@zigsow" />
+<meta name="description" content="レビューメディア「ジグソー」"/>
+<meta name="keywords" content="評価,比較,レビュー,ジグソー" />
+<link rel="canonical" href=""/>
+<link rel="alternate" href="/sitemap/sitemap-index.xml" type="application/atom+xml">
+<title>会員登録 - 確認 | ジグソー</title>
+<link rel="apple-touch-icon-precomposed" type="image/png" href="http://zigsow.jp/img/review/favicon/favicon_57.png" />
+<link rel="apple-touch-icon-preco
+5ad
+mposed" type="image/png" href="http://zigsow.jp/img/review/favicon/favicon_72.png" sizes="72x72" />
+<link rel="apple-touch-icon-precomposed" type="image/png" href="http://zigsow.jp/img/review/favicon/favicon_114.png" sizes="114x114" />
+<link rel="apple-touch-icon-precomposed" type="image/png" href="http://zigsow.jp/img/review/favicon/favicon_144.png" sizes="144x144" />
+<link rel="shortcut icon" href="http://zigsow.jp/img/review/favicon/favicon.ico" />
+<link rel="icon" type="image/png" href="http://zigsow.jp/img/review/favicon/favicon_64.png" />
+<script src="http://zigsow.jp/js/jquery-1.8.1.min.js"></script>
+<script src="http://zigsow.jp/js/review/jquery.cookie.js"></script>
+<script src="http://zigsow.jp/js/review//common.js?20150104"></script>
+<script src="http://zigsow.jp/js/jquery.lightbox.min.js" type="text/javascript"></script>
+<script src="http://zigsow.jp//js/zigsow.bootstrap.js" type="text/javascript" ></script>
+<script type="text/javascript" src="http://zigsow.jp/js/jquery.blockUIv2.js"></script>
+<script type="text/javascript">
+var ua = navigator.userAgent.toLowerCase();
+if ($.cookie('viewMode') == 'pc' || ua.indexOf('ipad') > 0) {
+        document.write('<meta name="viewport" content="width=1038" />');
+} else {
+        document.write('<meta name="viewport" content="width=device-width" />');
+}
+if (window.devicePixelRatio != undefined) {
+    $.cookie('_zdpr', window.devicePixelRatio);
+}
+    
+$(function() {
+    $('a').on('c
+5b4
+lick touchend', function(e) {
+        var anchor = $(this).attr('href')
+        if (anchor.match(/#/)) {
+            anchor = anchor.substring(anchor.indexOf('#'), anchor.length);
+            if ($(this).hasClass('no-scroll') || $(anchor).offset() == undefined) return
+            else if (anchor == 'pagetop') $('html, body').animate({ scrollTop: 0}, 'normal', 'swing')
+            else if ($(anchor).length) $('html, body').animate({scrollTop: $(anchor).offset().top - 70}, 'normal', 'swing')
+            e.preventDefault()
+        }
+    })
+})
+    
+</script>
+<link rel="stylesheet" href="/css/venus/renewal.min.css?a3950d28dff93da0c08df972941c048d">
+<script type="text/javascript" src="/js/venus/renewal.min.js?8bd6eeba910ff8b2c11aafa363b1ae95"></script>
+<link rel="stylesheet" href="//zigsow.jp/css/review/styles.css?t=1487319703" />
+<link rel="stylesheet" href="//zigsow.jp/css/jquery.lightbox.css?t=1487319703" type="text/css" media="screen"/>
+<!--[if lte IE 8]>
+	<script src="/js/review/excanvas.compiled.js"></script>
+<![endif]-->
+
+</head>
+<body id="signup">
+<div id="fb-root"></div>
+<a id="top"></a>
+<div class="brand brand-large">
+        <h1><a href="http://zigsow.jp/" title="ZIGSOWトップへ">ZIGSOW（ジグソー）いいモノ、みんなの声で。</a></h1>
+</div>
+<hr class="shadow" />
+<div class="wrapper">
+	<div class="page-header signup-page-header">
+		<h1>ご案内メールをお送りしました。</h1>
+		<ol>
+			<li class="step1"><
+5ad
+small>STEP1</small>登録</li>
+			<li class="active step2"><small>STEP2</small>確認</li>
+			<li class="step3"><small>STEP3</small>完了</li>
+		</ol>
+	</div>
+	<hr class="divider divider-30x0" />
+	<div class="rows">
+		<div id="main" class="span7">
+			<div class="signup-form">
+				<p><strong>メールに記載されているURLをクリックし、会員登録を完了させてください。</strong><br />
+				なお、30日以内に登録されない場合は、申し込みは無効となりますのでご注意ください。</p>
+				<p class="caution">しばらく待ってもご案内のメールが届かない場合は…</p>
+				<ul>
+					<li>入力されたメールアドレスが間違っていたかもしれません。</li>
+					<li>受信した際に迷惑メールに分類されていませんか？</li>
+					<li>メールアドレスが無効になっている可能性があります。無料のメールサービスは、一定期間使用していないとメールが受信できなくなる場合があります。</li>
+				</ul>
+				<p>これらのどれにも当てはまらない場合は、<a href="mailto:admin@zigsow.jp">ZIGSOW運営事務局（admin@zigsow.jp）</a>までご連絡ださい。</p>
+			</div>
+		</div>
+		<div id="sidebar" class="span5">
+			<div class="signup-guide">
+				<div class="signup-guide-bg"></div>
+			</div>
+		</div>
+	</div>
+</div>
+<hr class="divider divider-0x30" />
+<div class="text-center"
+5b4
+>
+        <p class="copyright">&copy;2013 zigsow Inc. All rights reserved.</p>
+</div>
+<script src="http://zigsow.jp/js/jquery.google-analytics.js" type="text/javascript"></script>
+<script src="http://zigsow.jp/js/jquery.linklog.js" type="text/javascript"></script>
+<script type="text/javascript">
+$.trackPage('UA-4578583-2', {uri : ''} );
+$(document).ready(function() {
+    var baseurl = (("https:" == document.location.protocol) ? "https://zigsow.jp/" : "http://zigsow.jp/");
+    var sessid = "d41d8cd98f00b204e9800998ecf8427e";
+
+    //$.fn.track.defaults.debug = true;
+    $('a:not(.notrack):not(.link-tracking)').track({
+        category: function(element) {
+            if (element[0].hostname == undefined || element[0].hostname.length == 0) {
+                if(element[0].hash == undefined || element[0].hash.indexOf('#ui-tabs') == 0) {
+                    return 'internal';
+                } else {
+                    return 'external';
+                }
+            } else {
+                return (element[0].hostname === location.hostname) ? 'internal':'external';
+            }
+        },
+        skip_internal: true 
+    });
+    $("a.link-log").addLinkLog(baseurl, sessid);
+});
+
+</script>
+<script type="text/javascript">
+/* <![CDATA[ */
+var google_conversion_id = 1026971159;
+var google_custom_params = window.google_tag_params;
+var google_remarketing_only = true;
+/* ]]> */
+</script>
+<div style="display: none;">
+<script type="text/javascript" 
+136
+src="//www.googleadservices.com/pagead/conversion.js"></script>
+</div>
+<noscript>
+<div style="display:none;">
+<img height="1" width="1" style="border-style:none;" alt="" src="//googleads.g.doubleclick.net/pagead/viewthroughconversion/1026971159/?value=0&guid=ON&script=0"/>
+</div>
+</noscript>
+
+</body>
+</html>
+
+0
+

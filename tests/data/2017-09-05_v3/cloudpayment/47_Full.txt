@@ -1,0 +1,238 @@
+GET https://credit2.j-payment.co.jp/cs/gxcvs_receipt.aspx HTTP/1.1
+Host: credit2.j-payment.co.jp
+Connection: close
+Upgrade-Insecure-Requests: 1
+User-Agent: Mozilla/5.0 (Windows NT 10.0; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/56.0.2924.87 Safari/537.36
+Accept: text/html,application/xhtml+xml,application/xml;q=0.9,image/webp,*/*;q=0.8
+Accept-Language: ja,en-US;q=0.8,en;q=0.6
+Cookie: ASP.NET_SessionId=1glhxt500xtw25mdq4v4ttww; cspage=ShopSEdit.aspx?sid=107037&from=S; _ga=GA1.3.1344043544.1489034493; NSC_JO2eas5de2ou4ufdnxqiuaei5njj0bf=ffffffffc3a0d67645525d5f4f58455e445a4a423660
+
+
+HTTP/1.1 200 OK
+Cache-Control: private
+Content-Type: text/html; charset=utf-8
+Server: Microsoft-IIS/7.0
+X-AspNet-Version: 4.0.30319
+Set-Cookie: cspage=gxcvs_receipt.aspx; expires=Sat, 11-Mar-2017 00:53:15 GMT; path=/cs/; secure; HttpOnly
+X-Powered-By: ASP.NET
+Date: Fri, 10 Mar 2017 00:53:15 GMT
+Connection: close
+Content-Length: 13944
+Set-Cookie: NSC_JO2eas5de2ou4ufdnxqiuaei5njj0bf=ffffffffc3a0d67645525d5f4f58455e445a4a423660;expires=Fri, 10-Mar-2017 01:09:21 GMT;path=/;secure;httponly
+
+
+
+<!DOCTYPE html>
+
+<html>
+<head>
+    <title>決済システムカスタマーサポート - コンビニ払込票入金データインポート</title>
+    <meta content="Microsoft Visual Studio 7.0" name="GENERATOR">
+    <meta content="C#" name="CODE_LANGUAGE">
+    <meta content="JavaScript" name="vs_defaultClientScript">
+    <meta content="http://schemas.microsoft.com/intellisense/ie5" name="vs_targetSchema">
+    <link href="style.css" type="text/css" rel="stylesheet">
+    <script type="text/javascript" src="js/jquery.js"></script>
+</head>
+<script>
+  
+</script>
+<body text="#000000" bgcolor="#ffffff">
+    
+<!---------- header begin --------->
+<script type="text/javascript" src="Controls/jquery.js"></script>
+<script type="text/javascript" src="Controls/menu2.js"></script>
+<span id="myheader_js"></span>
+<TABLE cellSpacing="0" cellPadding="2" width="100%" border="0" style="margin-bottom:20px;">
+	<TBODY>
+		<TR>
+			<TD width="100%" background="../images/null.gif">
+				<TABLE cellSpacing="0" cellPadding="0" width="100%" border="0">
+					<TBODY>
+						<TR>
+							<TD>
+								<img id="myheader_TopLogo" src="images/logo_jpayment.gif" style="border-style:None;height:38px;" />
+							</TD>
+							<TD align="right">
+								<A href="SignOut.aspx"><IMG height="40" src="Images/button_Logout_on.gif" width="52" border="0">
+								</A>
+							</TD>
+						</TR>
+					</TBODY>
+				</TABLE>
+			</TD>
+		</TR>
+		<TR>
+			<TD width="100%" class="menu">
+				<div id="menu">
+<ul id="menuBody">
+<li>
+<ul class="nav">
+<li class="head"><a href="/cs/Main.aspx">メインメニュー</a></li>
+</ul>
+<ul class="nav">
+<li class="head">顧客 / 店舗</li>
+<li><a href="/cs/CoAdd.aspx">顧客登録</a></li>
+<li><a href="/cs/CoList.aspx">顧客一覧</a></li>
+<li><a href="/cs/CoSearch.aspx">顧客検索</a></li>
+<li>－－－－－－</li>
+<li><a href="/cs/ShopAdd.aspx">店舗登録</a></li>
+<li><a href="/cs/ShopList.aspx">店舗一覧</a></li>
+<li><a href="/cs/ShopSearch.aspx">店舗検索</a></li>
+<li>－－－－－－</li>
+<li><a href="/cs/UserList.aspx">店舗会員一覧</a></li>
+<li><a href="/cs/UserSearch.aspx">店舗会員検索</a></li>
+<li>－－－－－－</li>
+<li><a href="/cs/GroupAdd.aspx">グループ一覧</a></li>
+<li>－－－－－－</li>
+<li><a href="/cs/IntegrationAdd.aspx">統合情報入力</a></li>
+<li><a href="/cs/IntegrationSearch.aspx">統合情報検索</a></li>
+</ul>
+<ul class="nav">
+<li class="head">決済</li>
+<li><a href="/cs/PaySearch.aspx">検索</a></li>
+<li><a href="/cs/CtiaSearch.aspx">本人認証検索</a></li>
+<li><a href="/cs/TotalList.aspx">売上簡易集計</a></li>
+<li><a href="/cs/PaySummary.aspx">日別売上集計</a></li>
+<li><a href="/cs/CSVTransfer.aspx">振込稟議用集計</a></li>
+<li><a href="/cs/JpSs.aspx?action=init">精算</a></li>
+<li><a href="/cs/JpSs_Arari.aspx">粗利集計</a></li>
+<li><a href="/cs/at_cs_search.aspx">口座振替</a></li>
+<li><a href="/cs/gxjpss2.aspx">明細作成</a></li>
+</ul>
+<ul class="nav">
+<li class="head">自動課金</li>
+<li><a href="/cs/ACAdd.aspx">登録</a></li>
+<li><a href="/cs/ACSearch.aspx">検索</a></li>
+<li><a href="/cs/ACAddCSV.aspx">CSV登録</a></li>
+<li><a href="/cs/ACSimulator.aspx">シミュレーター</a></li>
+<li><a href="/cs/CarrierACSearch.aspx">キャリア</a></li>
+</ul>
+<ul class="nav">
+<li class="head">履歴</li>
+<li><a href="/cs/LogSearch.aspx">各種履歴検索</a></li>
+<li><a href="/cs/KbSearch.aspx">店舗通知スプール</a></li>
+</ul>
+<ul class="nav">
+<li class="head">設定</li>
+<li><a href="/cs/ConfigEdit.aspx">各種設定</a></li>
+<li><a href="/cs/MailEdit.aspx">メール送信</a></li>
+<li><a href="/cs/BmailEdit.aspx">拒否メール</a></li>
+<li><a href="/cs/BcardEdit.aspx">拒否カード</a></li>
+<li><a href="/cs/BipEdit.aspx">拒否IPアドレス</a></li>
+<li><a href="/cs/BfnlnEdit.aspx">拒否カード名義</a></li>
+<li><a href="/cs/BtelEdit.aspx">拒否電話番号</a></li>
+<li><a href="/cs/ErrCodeEdit.aspx">エラーコード</a></li>
+<li><a href="/cs/at_cs_bank_office.aspx">口座振替金融機関編集</a></li>
+<li><a href="/cs/AdminList.aspx">管理者一覧</a></li>
+<li><a href="/cs/AdminAdd.aspx">管理者追加</a></li>
+<li><a href="/cs/LaunderEdit.aspx">洗い替え</a></li>
+<li><a href="/cs/AdminPass.aspx">パスワード</a></li>
+</ul>
+<ul class="nav">
+<li class="head">JCN</li>
+<li><a href="/cs/JcnSpecialEdit.aspx">特別仕向け設定</a></li>
+<li><a href="/cs/JcnBinEdit.aspx">BINマスタ設定</a></li>
+<li><a href="/cs/JcnCreditEdit.aspx">コードマスタ</a></li>
+<li><a href="/cs/JcnList.aspx">切替状態一覧</a></li>
+<li><a href="/cs/ReserveCostRateList.aspx">料率変更予約</a></li>
+</ul>
+<ul class="nav">
+<li class="head">バンクチェック</li>
+<li><a href="/cs/BankEdit.aspx">銀行マスタ</a></li>
+<li><a href="/cs/BankSubEdit.aspx">支店マスタ</a></li>
+<li><a href="/cs/BankSubList.aspx">支店一覧</a></li>
+<li><a href="/cs/BankAccSearch.aspx">口座番号検索</a></li>
+<li>－－－－－－</li>
+<li><a href="/cs/DatBankSearch.aspx">入金情報検索</a></li>
+<li><a href="/cs/DatBankMsaiSearch.aspx">入金明細情報検索</a></li>
+<li>－－－－－－</li>
+<li><a href="/cs/BankCheckCsv.aspx">振込入金CSV消込</a></li>
+</ul>
+</li>
+</ul>
+</div>
+
+			</TD>
+		</TR>
+	</TBODY>
+</TABLE>
+<!---------- header end --------->
+    <form method="post" action="./gxcvs_receipt.aspx" id="ShopSsEditCvs" enctype="multipart/form-data">
+<div class="aspNetHidden">
+<input type="hidden" name="__VIEWSTATE" id="__VIEWSTATE" value="/wEPDwUKLTI0NjMyMDI0OA9kFggCAQ9kFgYCAg8VARIuLi9pbWFnZXMvbnVsbC5naWZkAgMPDxYCHghJbWFnZVVybAUbLi4vaW1hZ2VzL2xvZ29fanBheW1lbnQuZ2lmZGQCBA8VAfcdPGRpdiBpZD0ibWVudSI+Cjx1bCBpZD0ibWVudUJvZHkiPgo8bGk+Cjx1bCBjbGFzcz0ibmF2Ij4KPGxpIGNsYXNzPSJoZWFkIj48YSBocmVmPSIvY3MvTWFpbi5hc3B4Ij7jg6HjgqTjg7Pjg6Hjg4vjg6Xjg7w8L2E+PC9saT4KPC91bD4KPHVsIGNsYXNzPSJuYXYiPgo8bGkgY2xhc3M9ImhlYWQiPumhp+WuoiAvIOW6l+iIlzwvbGk+CjxsaT48YSBocmVmPSIvY3MvQ29BZGQuYXNweCI+6aGn5a6i55m76YyyPC9hPjwvbGk+CjxsaT48YSBocmVmPSIvY3MvQ29MaXN0LmFzcHgiPumhp+WuouS4gOimpzwvYT48L2xpPgo8bGk+PGEgaHJlZj0iL2NzL0NvU2VhcmNoLmFzcHgiPumhp+WuouaknOe0ojwvYT48L2xpPgo8bGk+77yN77yN77yN77yN77yN77yNPC9saT4KPGxpPjxhIGhyZWY9Ii9jcy9TaG9wQWRkLmFzcHgiPuW6l+iIl+eZu+mMsjwvYT48L2xpPgo8bGk+PGEgaHJlZj0iL2NzL1Nob3BMaXN0LmFzcHgiPuW6l+iIl+S4gOimpzwvYT48L2xpPgo8bGk+PGEgaHJlZj0iL2NzL1Nob3BTZWFyY2guYXNweCI+5bqX6IiX5qSc57SiPC9hPjwvbGk+CjxsaT7vvI3vvI3vvI3vvI3vvI3vvI08L2xpPgo8bGk+PGEgaHJlZj0iL2NzL1VzZXJMaXN0LmFzcHgiPuW6l+iIl+S8muWToeS4gOimpzwvYT48L2xpPgo8bGk+PGEgaHJlZj0iL2NzL1VzZXJTZWFyY2guYXNweCI+5bqX6IiX5Lya5ZOh5qSc57SiPC9hPjwvbGk+CjxsaT7vvI3vvI3vvI3vvI3vvI3vvI08L2xpPgo8bGk+PGEgaHJlZj0iL2NzL0dyb3VwQWRkLmFzcHgiPuOCsOODq+ODvOODl+S4gOimpzwvYT48L2xpPgo8bGk+77yN77yN77yN77yN77yN77yNPC9saT4KPGxpPjxhIGhyZWY9Ii9jcy9JbnRlZ3JhdGlvbkFkZC5hc3B4Ij7ntbHlkIjmg4XloLHlhaXlips8L2E+PC9saT4KPGxpPjxhIGhyZWY9Ii9jcy9JbnRlZ3JhdGlvblNlYXJjaC5hc3B4Ij7ntbHlkIjmg4XloLHmpJzntKI8L2E+PC9saT4KPC91bD4KPHVsIGNsYXNzPSJuYXYiPgo8bGkgY2xhc3M9ImhlYWQiPuaxuua4iDwvbGk+CjxsaT48YSBocmVmPSIvY3MvUGF5U2VhcmNoLmFzcHgiPuaknOe0ojwvYT48L2xpPgo8bGk+PGEgaHJlZj0iL2NzL0N0aWFTZWFyY2guYXNweCI+5pys5Lq66KqN6Ki85qSc57SiPC9hPjwvbGk+CjxsaT48YSBocmVmPSIvY3MvVG90YWxMaXN0LmFzcHgiPuWjsuS4iuewoeaYk+mbhuioiDwvYT48L2xpPgo8bGk+PGEgaHJlZj0iL2NzL1BheVN1bW1hcnkuYXNweCI+5pel5Yil5aOy5LiK6ZuG6KiIPC9hPjwvbGk+CjxsaT48YSBocmVmPSIvY3MvQ1NWVHJhbnNmZXIuYXNweCI+5oyv6L6856if6K2w55So6ZuG6KiIPC9hPjwvbGk+CjxsaT48YSBocmVmPSIvY3MvSnBTcy5hc3B4P2FjdGlvbj1pbml0Ij7nsr7nrpc8L2E+PC9saT4KPGxpPjxhIGhyZWY9Ii9jcy9KcFNzX0FyYXJpLmFzcHgiPueyl+WIqembhuioiDwvYT48L2xpPgo8bGk+PGEgaHJlZj0iL2NzL2F0X2NzX3NlYXJjaC5hc3B4Ij7lj6PluqfmjK/mm788L2E+PC9saT4KPGxpPjxhIGhyZWY9Ii9jcy9neGpwc3MyLmFzcHgiPuaYjue0sOS9nOaIkDwvYT48L2xpPgo8L3VsPgo8dWwgY2xhc3M9Im5hdiI+CjxsaSBjbGFzcz0iaGVhZCI+6Ieq5YuV6Kqy6YeRPC9saT4KPGxpPjxhIGhyZWY9Ii9jcy9BQ0FkZC5hc3B4Ij7nmbvpjLI8L2E+PC9saT4KPGxpPjxhIGhyZWY9Ii9jcy9BQ1NlYXJjaC5hc3B4Ij7mpJzntKI8L2E+PC9saT4KPGxpPjxhIGhyZWY9Ii9jcy9BQ0FkZENTVi5hc3B4Ij5DU1bnmbvpjLI8L2E+PC9saT4KPGxpPjxhIGhyZWY9Ii9jcy9BQ1NpbXVsYXRvci5hc3B4Ij7jgrfjg5/jg6Xjg6zjg7zjgr/jg7w8L2E+PC9saT4KPGxpPjxhIGhyZWY9Ii9jcy9DYXJyaWVyQUNTZWFyY2guYXNweCI+44Kt44Oj44Oq44KiPC9hPjwvbGk+CjwvdWw+Cjx1bCBjbGFzcz0ibmF2Ij4KPGxpIGNsYXNzPSJoZWFkIj7lsaXmrbQ8L2xpPgo8bGk+PGEgaHJlZj0iL2NzL0xvZ1NlYXJjaC5hc3B4Ij7lkITnqK7lsaXmrbTmpJzntKI8L2E+PC9saT4KPGxpPjxhIGhyZWY9Ii9jcy9LYlNlYXJjaC5hc3B4Ij7lupfoiJfpgJrnn6Xjgrnjg5fjg7zjg6s8L2E+PC9saT4KPC91bD4KPHVsIGNsYXNzPSJuYXYiPgo8bGkgY2xhc3M9ImhlYWQiPuioreWumjwvbGk+CjxsaT48YSBocmVmPSIvY3MvQ29uZmlnRWRpdC5hc3B4Ij7lkITnqK7oqK3lrpo8L2E+PC9saT4KPGxpPjxhIGhyZWY9Ii9jcy9NYWlsRWRpdC5hc3B4Ij7jg6Hjg7zjg6vpgIHkv6E8L2E+PC9saT4KPGxpPjxhIGhyZWY9Ii9jcy9CbWFpbEVkaXQuYXNweCI+5ouS5ZCm44Oh44O844OrPC9hPjwvbGk+CjxsaT48YSBocmVmPSIvY3MvQmNhcmRFZGl0LmFzcHgiPuaLkuWQpuOCq+ODvOODiTwvYT48L2xpPgo8bGk+PGEgaHJlZj0iL2NzL0JpcEVkaXQuYXNweCI+5ouS5ZCmSVDjgqLjg4njg6zjgrk8L2E+PC9saT4KPGxpPjxhIGhyZWY9Ii9jcy9CZm5sbkVkaXQuYXNweCI+5ouS5ZCm44Kr44O844OJ5ZCN576pPC9hPjwvbGk+CjxsaT48YSBocmVmPSIvY3MvQnRlbEVkaXQuYXNweCI+5ouS5ZCm6Zu76Kmx55Wq5Y+3PC9hPjwvbGk+CjxsaT48YSBocmVmPSIvY3MvRXJyQ29kZUVkaXQuYXNweCI+44Ko44Op44O844Kz44O844OJPC9hPjwvbGk+CjxsaT48YSBocmVmPSIvY3MvYXRfY3NfYmFua19vZmZpY2UuYXNweCI+5Y+j5bqn5oyv5pu/6YeR6J6N5qmf6Zai57eo6ZuGPC9hPjwvbGk+CjxsaT48YSBocmVmPSIvY3MvQWRtaW5MaXN0LmFzcHgiPueuoeeQhuiAheS4gOimpzwvYT48L2xpPgo8bGk+PGEgaHJlZj0iL2NzL0FkbWluQWRkLmFzcHgiPueuoeeQhuiAhei/veWKoDwvYT48L2xpPgo8bGk+PGEgaHJlZj0iL2NzL0xhdW5kZXJFZGl0LmFzcHgiPua0l+OBhOabv+OBiDwvYT48L2xpPgo8bGk+PGEgaHJlZj0iL2NzL0FkbWluUGFzcy5hc3B4Ij7jg5Hjgrnjg6/jg7zjg4k8L2E+PC9saT4KPC91bD4KPHVsIGNsYXNzPSJuYXYiPgo8bGkgY2xhc3M9ImhlYWQiPkpDTjwvbGk+CjxsaT48YSBocmVmPSIvY3MvSmNuU3BlY2lhbEVkaXQuYXNweCI+54m55Yil5LuV5ZCR44GR6Kit5a6aPC9hPjwvbGk+CjxsaT48YSBocmVmPSIvY3MvSmNuQmluRWRpdC5hc3B4Ij5CSU7jg57jgrnjgr/oqK3lrpo8L2E+PC9saT4KPGxpPjxhIGhyZWY9Ii9jcy9KY25DcmVkaXRFZGl0LmFzcHgiPuOCs+ODvOODieODnuOCueOCvzwvYT48L2xpPgo8bGk+PGEgaHJlZj0iL2NzL0pjbkxpc3QuYXNweCI+5YiH5pu/54q25oWL5LiA6KanPC9hPjwvbGk+CjxsaT48YSBocmVmPSIvY3MvUmVzZXJ2ZUNvc3RSYXRlTGlzdC5hc3B4Ij7mlpnnjoflpInmm7TkuojntIQ8L2E+PC9saT4KPC91bD4KPHVsIGNsYXNzPSJuYXYiPgo8bGkgY2xhc3M9ImhlYWQiPuODkOODs+OCr+ODgeOCp+ODg+OCrzwvbGk+CjxsaT48YSBocmVmPSIvY3MvQmFua0VkaXQuYXNweCI+6YqA6KGM44Oe44K544K/PC9hPjwvbGk+CjxsaT48YSBocmVmPSIvY3MvQmFua1N1YkVkaXQuYXNweCI+5pSv5bqX44Oe44K544K/PC9hPjwvbGk+CjxsaT48YSBocmVmPSIvY3MvQmFua1N1Ykxpc3QuYXNweCI+5pSv5bqX5LiA6KanPC9hPjwvbGk+CjxsaT48YSBocmVmPSIvY3MvQmFua0FjY1NlYXJjaC5hc3B4Ij7lj6Pluqfnlarlj7fmpJzntKI8L2E+PC9saT4KPGxpPu+8je+8je+8je+8je+8je+8jTwvbGk+CjxsaT48YSBocmVmPSIvY3MvRGF0QmFua1NlYXJjaC5hc3B4Ij7lhaXph5Hmg4XloLHmpJzntKI8L2E+PC9saT4KPGxpPjxhIGhyZWY9Ii9jcy9EYXRCYW5rTXNhaVNlYXJjaC5hc3B4Ij7lhaXph5HmmI7ntLDmg4XloLHmpJzntKI8L2E+PC9saT4KPGxpPu+8je+8je+8je+8je+8je+8jTwvbGk+CjxsaT48YSBocmVmPSIvY3MvQmFua0NoZWNrQ3N2LmFzcHgiPuaMr+i+vOWFpemHkUNTVua2iOi+vDwvYT48L2xpPgo8L3VsPgo8L2xpPgo8L3VsPgo8L2Rpdj4KZAIDDxYCHgdlbmN0eXBlBRNtdWx0aXBhcnQvZm9ybS1kYXRhZAIFD2QWBAIBDw8WAh4EVGV4dAUXVmVyLjEuMTAuMDIoMjAwNS8wNC8xOSlkZAIDDw8WAh8CBTxDb3B5cmlnaHQgKEMpQFRPWUVBUiBDbG91ZCBQYXltZW50IEluYy4gQWxsIFJpZ2h0cyBSZXNlcnZlZC5kZAIHDxYCHwJlZGT4bBiFX5p3mFHMGrCbAKQr/mVss8yacQMxX0SHJI+YSA==" />
+</div>
+
+<div class="aspNetHidden">
+
+	<input type="hidden" name="__VIEWSTATEGENERATOR" id="__VIEWSTATEGENERATOR" value="5AFB3E63" />
+	<input type="hidden" name="__EVENTVALIDATION" id="__EVENTVALIDATION" value="/wEdAAKRbxuNVl7sGv/aDAlFUj9XHx2LC6XR0jK8MBR0eHFaSZPyHy4AD1JeJBX9pdM8kVX1gpv38PlO7LfynDi72BGd" />
+</div>
+        <div>
+            <table cellspacing="0" cellpadding="0" width="100%" border="0">
+                <tbody>
+                    <tr>
+                        <td>
+                            <table cellspacing="1" cellpadding="1" width="100%" bgcolor="#9c9a9c" border="0">
+                                <tbody>
+                                    <tr class="toptitle" bgcolor="#f7f7f7">
+                                        <td>コンビニ払込票入金データインポート
+                                        </td>
+                                    </tr>
+                                </tbody>
+                            </table>
+                        </td>
+                    </tr>
+                    <tr>
+                        <td align="center">
+                            <br />
+                            
+                            <br />
+                            <table cellspacing="2" cellpadding="2" border="0">
+                                <tbody>
+                                    <tr class="text9">
+                                        <td align="right">                                     
+                                            コンビニ払込票入金データインポート
+                                        </td>
+                                        <td align="left">
+                                            <input name="oFile" type="file" id="oFile" class="textbox1" size="30" />
+											<input type="submit" name="btnImport" value="インポート実行" id="btnImport" />
+                                        </td>
+                                    </tr>                                                                    
+                                </tbody>
+                            </table>
+                            <br />
+                        </td>
+                    </tr>
+
+                </tbody>
+            </table>
+        </div>
+    </form>
+    
+<!---------- footer begin --------->
+<TABLE cellSpacing="0" cellPadding="0" width="100%" border="0">
+	<TBODY>
+		<tr>
+			<td width="100%" align="right" class="text9">
+				<span id="myfooter_Version" class="text9">Ver.1.10.02(2005/04/19)</span>
+			</td>
+		</tr>
+		<TR>
+			<TD width="100%">
+				<HR>
+			</TD>
+		</TR>
+		<TR>
+			<TD class="text9" align="middle" width="100%">
+				<span id="myfooter_CopyRight" class="text9">Copyright (C)@TOYEAR Cloud Payment Inc. All Rights Reserved.</span>
+			</TD>
+		</TR>
+	</TBODY>
+</TABLE>
+<!---------- footer end --------->
+
+
+    
+</body>
+</html>

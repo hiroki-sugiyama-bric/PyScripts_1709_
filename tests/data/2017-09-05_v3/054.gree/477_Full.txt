@@ -1,0 +1,57 @@
+GET http://jp.apps.gree.net/search?q=%E3%82%A2%E3%82%A4%E3%83%89%E3%83%AB%E3%83%9E%E3%82%B9%E3%82%BF%E3%83%BC HTTP/1.1
+Host: jp.apps.gree.net
+User-Agent: Mozilla/5.0 (Windows NT 6.1; WOW64; rv:52.0) Gecko/20100101 Firefox/52.0
+Accept: text/html,application/xhtml+xml,application/xml;q=0.9,*/*;q=0.8
+Accept-Language: ja,en-US;q=0.7,en;q=0.3
+Accept-Encoding: gzip, deflate
+Referer: http://gree.jp/
+Cookie: gcid=B=e35b9659ff20a4d28206f8748c53aa030a15595f&T=58e6e7c6&V=1&S=r66fecb2ag; _ga=GA1.2.220016531.1491527622; AGRTRM=WaeePQ0%2BmxpVm4GlDklCdIGGAhOQHNq6; gssid=7ba762888db1a0cdcd32587e6eda910defc3b5dd25e4ecb815547eeaa0b2a917c425a7920014915296050302623c251a2d; gssid_hash=1811bcd8309a3e6488f208b42809c880bfef6656257d2208232fd0b6187b441f; last_time=58e6f036cef8
+Connection: close
+Upgrade-Insecure-Requests: 1
+
+
+HTTP/1.1 200 OK
+Date: Fri, 07 Apr 2017 01:51:38 GMT
+Server: Apache
+Vary: Accept-Encoding
+Content-Type: text/html; charset=UTF-8
+Connection: close
+Transfer-Encoding: chunked
+
+5af
+<!DOCTYPE html><!--[if IE 8]><html lang="ja" class="ltIe10 ie8"><![endif]--><!--[if IE 9]><html lang="ja" class="ltIe10 ie9"><![endif]--><!--[if gt IE 9]><!--><html lang="ja"><!--<![endif]--><head><title>「アイドルマスター」ゲーム検索結果 - GREE</title><meta name="description" content="「アイドルマスター」ゲーム検索結果。全世界で3,500万ユーザー以上、世界最大級のソーシャルゲームプラットフォーム「GREE」は、人気ゲームが盛りだくさん！スマホ・携帯から無料ゲーム・ソーシャルゲームを楽しむならGREE。" /><meta name="keywords" content="検索,GREE,グリー,ゲーム,SNS,ソーシャル,スマホ" /><link rel="canonical" href="http://jp.apps.gree.net/search" /><link rel="alternate" media="only screen and (max-width: 640px)" href="http://games.gree.net/search" /><meta charset="utf-8"><meta name="apple-mobile-web-app-capable" content="no"><meta name="format-detection" content="telephone=no"><meta name="format-detection" content="address=no"><meta property="og:site_name" content="GREE"><meta property="og:url" content="http://jp.apps.gree.net/search"><meta property="og:type" content="website"><meta property="og:title" content="「アイドルマスター」ゲーム検索結果 - GREE"><meta property="og:description" content="「アイドルマスター」ゲーム検索結果。全世界で3,500万ユーザー以上、世界最大�
+5ac
+�のソーシャルゲームプラットフォーム「GREE」は、人気ゲームが盛りだくさん！スマホ・携帯から無料ゲーム・ソーシャルゲームを楽しむならGREE。"><meta property="og:image" content=""><meta property="og:locale" content="ja_JP" /><!--[if lte IE 8 ]><script src="http://aimg-static.gree.net/ggp/js/html5shiv.js"></script><script src="http://aimg-static.gree.net/ggp/js/es5-shim.js"></script><![endif]--><link rel="shortcut icon" href="http://aimg-static.gree.net/ggp/img/1x/common/favicon.ico"><link rel="stylesheet" href="http://aimg-static.gree.net/ggp/css/pc/mint/portal.css">
+<script>
+(function(i,s,o,g,r,a,m){i['GoogleAnalyticsObject']=r;i[r]=i[r]||function(){
+(i[r].q=i[r].q||[]).push(arguments)},i[r].l=1*new Date();a=s.createElement(o),m=s.getElementsByTagName(o)[0];a.async=1;a.src=g;m.parentNode.insertBefore(a,m)
+})(window,document,'script','//www.google-analytics.com/analytics.js','ga');
+ga('create', 'UA-54386134-1', 'auto');
+ga('require', 'displayfeatures');
+ga('send', 'pageview');
+    var action = 'search';
+var start = (new Date()).getTime();
+window.addEventListener('load', function() {
+    var body_load = (new Date()).getTime() - start;
+    var event_name = body_load < 60000 ? 'body_load' : 'body_load_heavy';
+    ga('send', 'timing', {
+        'timingCategory':'jp_apps',
+        'timingVar': action,
+        'timingValue': body_load,
+        'timingLable': event_name
+    });
+}
+5b4
+);
+        </script></head><body data-twttr-rendered="true"><div class="glContr" id="glContr"><header class="nav" id="navigation"><div class="contr"><h1 class="navLogo"><a class="logoGree" href="http://gree.jp/">GREE</a></h1></div></header><div class="contWrap"><div class="contr"><div class="clfx unit"><section class="contCol12 flL" style="width:auto;"><div class="unit"><div class="hl skBlue"><a href="" class="hlIn cPoint"><div class="flex"><div class="wrapIco24"><span class="spr s24_hl_search_blue"></span></div><h1 class="itm hlTxt">“アイドルマスター”<span class="fcDefault swM">&nbsp;の検索結果(1件)</span></h1></div></a></div><div class="cst"><div class="in"><div class="seachResult"><div class="row"><div class="colHrzLL"><a href="http://jp.apps.gree.net/ja/58737?from_pcsearch=58737_0&app_code=PSESR000001" class="cPoint colIn"><div class="flex"><div class="wrapIco72"><div class="ico72 app" style="background-image:url('http://aimg-m.gree.net/img/application/thumbnail/37/58737/p78.jpg');"></div></div><div class="itm"><p class="lead space">アイドルマスター ミリオンライブ！</p><p class="minor">Brand New Stage編に突入！目指せトップアイドル！</p></div></div></a></div></div></div><h2 class="lv2 space10">検索</h2><form action="http://jp.apps.gree.net/search" method="GET"><div class="w450 space20"><div class="flex space10"><div class="itm"><div class="inptL inptFind"><input type="text" name="q"
+5b4
+ value="アイドルマスター"><input type="hidden" name="from_pcsearch" value="searchresult"></div></div><div class="itm w80"><input id="search-button" type="submit" value="検索" class="btn lrg prim wFull"></div></div></div></form><h2 class="lv2 space10">関連キーワード</h2><ul class="sepHrz space10"><li><a href="http://jp.apps.gree.net/ja/search?q=%E3%82%B9%E3%82%AB%E3%82%A4%E3%83%AD%E3%83%83%E3%82%AF&amp;from_pcsearchkey=searchresult" class="lnk">スカイロック</a></li><li><a href="http://jp.apps.gree.net/ja/search?q=%E3%83%9F%E3%82%AF&amp;from_pcsearchkey=searchresult" class="lnk">ミク</a></li><li><a href="http://jp.apps.gree.net/ja/search?q=%E3%83%A2%E3%83%B3%E3%83%97%E3%83%A9&amp;from_pcsearchkey=searchresult" class="lnk">モンプラ</a></li><li><a href="http://jp.apps.gree.net/ja/search?q=%E5%A4%A7%E7%9B%B8%E6%92%B2&amp;from_pcsearchkey=searchresult" class="lnk">大相撲</a></li><li><a href="http://jp.apps.gree.net/ja/search?q=%E3%82%AF%E3%83%AA%E3%83%8E%E3%83%83%E3%83%9A&amp;from_pcsearchkey=searchresult" class="lnk">クリノッペ</a></li><li><a href="http://jp.apps.gree.net/ja/search?q=%E3%83%8F%E3%82%B3%E3%83%8B%E3%83%AF&amp;from_pcsearchkey=searchresult" class="lnk">ハコニワ</a></li><li><a href="http://jp.apps.gree.net/ja/search?q=%E6%B5%B7%E8%B3%8A%E7%8E%8B%E5%9B%BD%E3%82%B3%E3%83%AD%E3%83%B3%E3%83%96%E3%82%B9&amp;from_pcsearchkey=searchresult" class="lnk">海賊王国コロンブス</a></li></ul></d
+5b4
+iv></div></div><div class="unit"><div class="hl skBlue"><div class="hlIn"><div class="flex"><div class="wrapIco24"><span class="spr s24_hl_category_blue"></span></div><h2 class="itm hlTxt">カテゴリ</h2></div></div></div><div class="cst"><div class="inVtl"><ul class="row"><li class="colHrzSS"><a href="http://jp.apps.gree.net/ja/category/5?from_pcsearch=category_5_0" class="cPoint colIn"><div class="flex"><div class="wrapIco18"><span class="spr cate5"></span></div><div class="itm"><p class="lead">RPG</p></div></div></a></li><li class="colHrzSS"><a href="http://jp.apps.gree.net/ja/category/14?from_pcsearch=category_14_1" class="cPoint colIn"><div class="flex"><div class="wrapIco18"><span class="spr cate14"></span></div><div class="itm"><p class="lead">育成・パズル</p></div></div></a></li><li class="colHrzSS"><a href="http://jp.apps.gree.net/ja/category/12?from_pcsearch=category_12_2" class="cPoint colIn"><div class="flex"><div class="wrapIco18"><span class="spr cate12"></span></div><div class="itm"><p class="lead">恋愛</p></div></div></a></li><li class="colHrzSS"><a href="http://jp.apps.gree.net/ja/category/6?from_pcsearch=category_6_3" class="cPoint colIn"><div class="flex"><div class="wrapIco18"><span class="spr cate6"></span></div><div class="itm"><p class="lead">シミュレーション</p></div></div></a></li></ul><ul class="row"><li class="colHrzSS"><a href="http://jp.apps.gree.net/ja/category/7?from_pcsearch=category_7_4
+5af
+" class="cPoint colIn"><div class="flex"><div class="wrapIco18"><span class="spr cate7"></span></div><div class="itm"><p class="lead">アクション・スポーツ</p></div></div></a></li><li class="colHrzSS"><a href="http://jp.apps.gree.net/ja/category/13?from_pcsearch=category_13_5" class="cPoint colIn"><div class="flex"><div class="wrapIco18"><span class="spr cate13"></span></div><div class="itm"><p class="lead">パチンコ・パチスロ</p></div></div></a></li><li class="colHrzSS"><a href="http://jp.apps.gree.net/ja/category/16?from_pcsearch=category_16_6" class="cPoint colIn"><div class="flex"><div class="wrapIco18"><span class="spr cate16"></span></div><div class="itm"><p class="lead">その他アプリ</p></div></div></a></li></ul></div></div></div></section></div>
+</div></div><div class="contr"><div class="unit"><div class="taR"><a id="page-top-link" href="javascript:void(0);" class="lnk fsS"><span class="vaM spaceR">ページトップへ</span><span class="spr s18_arw_t_blue"></span></a></div></div></div></div><script src="http://aimg-static.gree.net/js/LAB-2.0.3.min.js?20140903000" type="text/javascript"></script><script src="http://aimg-static.gree.net/ggp/js/jquery-1.11.1.min.js?20140903000" type="text/javascript"></script><script src="http://aimg-static.gree.net/js/lazy-load.pc.min.js?20140903002" type="text/javascript"></script><script type="text/javascript">var init_urls = {static_cdn:'http://aimg-static.gree.net/
+1ed
+', static_cdn_ggp:'http://aimg-static.gree.net/ggp/'};setTimeout(function() {queue.lazyLoad('001', init_urls);}, 10);queue.scriptReady(function(){$("#page-top-link").click(function(){return $("body,html").animate({scrollTop:0},500),!1})});</script><script src="http://aimg-static.gree.net/js/navigation_pc_ja_1.0.10.js" type="text/javascript"></script><script type="text/javascript">gree_common_navigation.init({pattern_id: '',header:{},});gree_common_navigation.show();</script></body></html>
+0
+

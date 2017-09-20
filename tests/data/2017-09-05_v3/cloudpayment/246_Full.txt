@@ -1,0 +1,351 @@
+POST https://credit2.j-payment.co.jp/cp/AccountEdit.aspx HTTP/1.1
+Host: credit2.j-payment.co.jp
+Connection: close
+Content-Length: 1780
+Cache-Control: max-age=0
+Origin: https://credit2.j-payment.co.jp
+Upgrade-Insecure-Requests: 1
+User-Agent: Mozilla/5.0 (Windows NT 10.0; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/56.0.2924.87 Safari/537.36
+Content-Type: application/x-www-form-urlencoded
+Accept: text/html,application/xhtml+xml,application/xml;q=0.9,image/webp,*/*;q=0.8
+Referer: https://credit2.j-payment.co.jp/cp/AccountEdit.aspx
+Accept-Language: ja,en-US;q=0.8,en;q=0.6
+Cookie: ASP.NET_SessionId=zvx1lar3vhjdj1ghpk4w2g2x; NSC_JO2eas5de2ou4ufdnxqiuaei5njj0bf=ffffffffc3a0d67645525d5f4f58455e445a4a423660
+
+__EVENTTARGET=&__EVENTARGUMENT=&__VIEWSTATE=%2FwEPDwUJNjkyNzE3MDk1D2QWBAIBD2QWAgIBDw8WAh4ISW1hZ2VVcmwFGy4uL2ltYWdlcy9sb2dvX2pwYXltZW50LmdpZmRkAgMPZBYUAgEPDxYCHgRUZXh0BQliYnNlY3Rlc3RkZAIDDxYCHgdWaXNpYmxlZ2QCBQ8WAh8CZ2QCCQ8PFgIfAQUS44OG44K544OI44Oi44O844OJZGQCDQ8PFgIfAQUGMTA3MDM3ZGQCDw8PFgIfAQUPUENJ5bqX6IiXMjAxNzAxZGQCEQ8PFgIfAQUKaHR0cDovL2EuYWRkAhUPZBYCZg9kFgRmD2QWAmYPDxYCHgdFbmFibGVkaGRkAgEPZBYCZg8PFgIfA2hkZAIXDzwrAAsBAA8WCh4IRGF0YUtleXMWAB4LXyFJdGVtQ291bnQCAR4JUGFnZUNvdW50AgEeFV8hRGF0YVNvdXJjZUl0ZW1Db3VudAIBHg1FZGl0SXRlbUluZGV4ZmQWAmYPZBYCAgIPZBYEAgEPZBYCAgEPDxYCHwEFCWJic2VjdGVzdGRkAggPZBYCAgEPEA8WAh4LXyFEYXRhQm91bmRnZA8WAmYCARYCEAUG5YGc5q2iBQEwZxAFBueovOWDjQUBMWdkZAIZD2QWAgIBDw8WAh8BBTlDb3B5cmlnaHQgKEMpMjAxNyBDbG91ZCBQYXltZW50IEluYy4gQWxsIFJpZ2h0cyBSZXNlcnZlZC5kZGREffO1azdv14k11xpGHx6WnSlRmT5VGPIc9hmbpG2jeQ%3D%3D&__VIEWSTATEGENERATOR=0D4F589C&__EVENTVALIDATION=%2FwEdABFpoljj7AM6gwVHiccrhzmdibOBM%2BTI9TyC0YyJkN1ESWzFivqeARF7TryF%2BXvFxfKDPL9A01Dq4XjryL9MezSba2oUkO2fdF%2FAzy3qh%2BMRgNm6v6pTva%2FSvqvTMffioL9UhkqpDY08wAV0J7fiQwrEzfg78Z8BXhXifTCAVkevdzo7l%2FCVCntq3%2FFrerOgMAWHa5cEqEG32JQVRQe1i8hnnDPh3%2F8l%2BYSYuE4u5BhMuSYkRn7N3DoIzWZd21MHX5Eek5l6L%2B9X8MSk1I9VI7%2B8G7fdvgDtAIMnQIRYDKS1rzVdvazbRXoFjcXAAxNkN7kapp1pOXMkjWeWIiAtsx0y4raUymXHtSSESlMrpInR4FN45PGZW8fKHm6WtR4xBE7OiTsXA9ufOtTgun40LvZH&t_CP_UID=bbsectest&t_CP_UPW=&t_User_Name=%E8%A8%BA%E6%96%AD%E5%A4%AA%E9%83%8E&t_User_Unit=%E8%A8%BA%E6%96%AD&t_User_Mail=secdiv06%40bbsec.co.jp&t_User_Str1=BBSec%E3%83%86%E3%82%B9%E3%83%88&DataGrid1%24ctl03%24c2=&DataGrid1%24ctl03%24c3=%E8%A8%BA%E6%96%AD&DataGrid1%24ctl03%24c4=secdiv06%40bbsec.co.jp&DataGrid1%24ctl03%24c5=%E5%A4%AA%E9%83%8E&DataGrid1%24ctl03%24c7=BBSec%E3%83%86%E3%82%B9%E3%83%88&DataGrid1%24ctl03%24c8=1&DataGrid1%24ctl03%24ctl01=%E6%9B%B4%E6%96%B0
+HTTP/1.1 200 OK
+Cache-Control: private
+Content-Type: text/html; charset=utf-8
+Server: Microsoft-IIS/7.0
+X-AspNet-Version: 4.0.30319
+X-Powered-By: ASP.NET
+Date: Mon, 20 Feb 2017 02:45:02 GMT
+Connection: close
+Content-Length: 14603
+Set-Cookie: NSC_JO2eas5de2ou4ufdnxqiuaei5njj0bf=ffffffffc3a0d67645525d5f4f58455e445a4a423660;expires=Mon, 20-Feb-2017 03:01:05 GMT;path=/;secure;httponly
+
+
+<!DOCTYPE HTML PUBLIC "-//W3C//DTD HTML 4.0 Transitional//EN" >
+<HTML>
+	<HEAD>
+		<title>決済システムコントロールパネル</title>
+		<meta content="Microsoft Visual Studio 7.0" name="GENERATOR">
+		<meta content="C#" name="CODE_LANGUAGE">
+		<meta content="JavaScript" name="vs_defaultClientScript">
+		<meta content="http://schemas.microsoft.com/intellisense/ie5" name="vs_targetSchema">
+		<LINK href="style.css" type="text/css" rel="stylesheet">
+	</HEAD>
+	<body text="#000000" bgColor="#ffffff" leftMargin="3" topMargin="2" MS_POSITIONING="GridLayout">
+		
+<!------ header begin ---------->
+<table cellSpacing="0" cellPadding="0" width="100%" border="0">
+	<tbody>
+		<tr>
+			<td width="100%">
+				<table cellSpacing="0" cellPadding="0" width="100%" border="0">
+					<tr>
+						<td>
+							<img id="MyHeader_TopLogo" src="images/logo_jpayment.gif" style="border-style:None;" />
+						</td>
+						<td align="right">
+							<a href="SignOut.aspx"><img height="40" src="Images/button_Logout_on.gif" width="52" border="0" name="logout_button"></a>
+						</td>
+					</tr>
+				</table>
+			</td>
+		</tr>
+	</tbody>
+</table>
+<!------ header end ---------->
+
+		<form method="post" action="./AccountEdit.aspx" onsubmit="javascript:return WebForm_OnSubmit();" id="Main" style="MARGIN-TOP: 0px; PADDING-TOP: 0px">
+<div class="aspNetHidden">
+<input type="hidden" name="__EVENTTARGET" id="__EVENTTARGET" value="" />
+<input type="hidden" name="__EVENTARGUMENT" id="__EVENTARGUMENT" value="" />
+<input type="hidden" name="__VIEWSTATE" id="__VIEWSTATE" value="/wEPDwUJNjkyNzE3MDk1D2QWBAIBD2QWAgIBDw8WAh4ISW1hZ2VVcmwFGy4uL2ltYWdlcy9sb2dvX2pwYXltZW50LmdpZmRkAgMPZBYWAgEPDxYCHgRUZXh0BQliYnNlY3Rlc3RkZAIDDxYCHgdWaXNpYmxlZ2QCBQ8WAh8CZ2QCCQ8PFgIfAQUS44OG44K544OI44Oi44O844OJZGQCDQ8PFgIfAQUGMTA3MDM3ZGQCDw8PFgIfAQUPUENJ5bqX6IiXMjAxNzAxZGQCEQ8PFgIfAQUKaHR0cDovL2EuYWRkAhMPDxYEHwEFQ+WNiuinkuiLseaVsOWtl+a3t+WcqDfmloflrZfku6XkuIrjgaflhaXlipvjgYrpoZjjgYToh7TjgZfjgb7jgZnjgIIfAmdkZAIVD2QWAmYPZBYEZg9kFgJmDw8WAh4HRW5hYmxlZGdkZAIBD2QWAmYPDxYCHwNnZGQCFw88KwALAQAPFgoeCERhdGFLZXlzFgAeC18hSXRlbUNvdW50AgEeCVBhZ2VDb3VudAIBHhVfIURhdGFTb3VyY2VJdGVtQ291bnQCAR4NRWRpdEl0ZW1JbmRleAL/////D2QWAmYPZBYCAgIPZBYSZg8PFgIfAQUJYmJzZWN0ZXN0ZGQCAQ9kFgJmDxUBCWJic2VjdGVzdGQCAg9kFgICAQ8PFgIfAWVkZAIDD2QWAmYPFQEG6Ki65patZAIED2QWAmYPFQEUc2VjZGl2MDZAYmJzZWMuY28uanBkAgUPZBYCZg8VAQblpKrpg45kAgYPZBYCZg8VAQBkAgcPZBYCZg8VAQ5CQlNlY+ODhuOCueODiGQCCA9kFgJmDxUBBueovOWLlWQCGQ9kFgICAQ8PFgIfAQU5Q29weXJpZ2h0IChDKTIwMTcgQ2xvdWQgUGF5bWVudCBJbmMuIEFsbCBSaWdodHMgUmVzZXJ2ZWQuZGRkODGKV1kLF9xNZUjReNO3SbyYEYwROSBlShgKZA3W4qM=" />
+</div>
+
+<script type="text/javascript">
+//<![CDATA[
+var theForm = document.forms['Main'];
+if (!theForm) {
+    theForm = document.Main;
+}
+function __doPostBack(eventTarget, eventArgument) {
+    if (!theForm.onsubmit || (theForm.onsubmit() != false)) {
+        theForm.__EVENTTARGET.value = eventTarget;
+        theForm.__EVENTARGUMENT.value = eventArgument;
+        theForm.submit();
+    }
+}
+//]]>
+</script>
+
+
+<script src="/cp/WebResource.axd?d=Dw6IdhgRt8EFPxVSHbkEAqlaw6qcgyUQvRL-XTDZ5UyMHvwz2qQaaQd5ZfLMDysV4LuyhMY8P_vJcrDsE5du1fnVFnM0jjmn95HKXbxnzr41&amp;t=636161582620000000" type="text/javascript"></script>
+
+
+<script src="/cp/WebResource.axd?d=x9Vba-iqipUrJtSaoDgCziIH6RjXjx2yOc5_ZH2MIGnA3DizWBr4khLXEbXgK1JnBwX2EcZmxZj-xNSoVoGQrWsyA4gSs9wWMOdcJCVxWbA1&amp;t=636161582620000000" type="text/javascript"></script>
+<script type="text/javascript">
+//<![CDATA[
+function WebForm_OnSubmit() {
+if (typeof(ValidatorOnSubmit) == "function" && ValidatorOnSubmit() == false) return false;
+return true;
+}
+//]]>
+</script>
+
+<div class="aspNetHidden">
+
+	<input type="hidden" name="__VIEWSTATEGENERATOR" id="__VIEWSTATEGENERATOR" value="0D4F589C" />
+	<input type="hidden" name="__EVENTVALIDATION" id="__EVENTVALIDATION" value="/wEdAAmaUNN6RTpQY9F+2dIxahqhibOBM+TI9TyC0YyJkN1ESWzFivqeARF7TryF+XvFxfKDPL9A01Dq4XjryL9MezSba2oUkO2fdF/Azy3qh+MRgNm6v6pTva/SvqvTMffioL9UhkqpDY08wAV0J7fiQwrEzfg78Z8BXhXifTCAVkevd/zS5WsEwT4+0cjznpSSSPKYeUtfnHMMwtJDPuw8a9L7tCMU1GEC02vKcrT9Q94VQQ==" />
+</div>
+			
+			<table cellSpacing="0" cellPadding="0" width="100%" border="0">
+				<tbody>
+					<tr class="bg1">
+						<td width="100%">
+							<table cellSpacing="0" cellPadding="2" width="800" border="0">
+								<tr>
+									<td class="bg1_on" align="center" width="100"><A href="Main.aspx"><font class="text_topmenu_on">トップメニュー</font></A></td>
+									<td class="bg1" align="center" width="100"><A href="TransList.aspx"><font class="text_topmenu">決済情報</font></A></td>
+									<td class="bg1" align="center" width="100"><A href="ItemList.aspx"><font class="text_topmenu">商品情報</font></A></td>
+									<td class="bg1" align="center" width="100"><A href="ConfigSys.aspx"><font class="text_topmenu">設定</font></A></td>
+									<td id="td_user11" class="bg1" width="100" align="center"><A href="UserList.aspx"><font class="text_topmenu">店舗会員情報</font></A></td>
+
+                                    <td id="td_mailpayment" class="bg1" width="100" align="center"><A href="MailPayment.aspx"><font class="text_topmenu">メール決済管理</font></A></td>
+
+									<td class="bg1" align="center" width="100"><A href="VirtualTerm.aspx"><font class="text_topmenu">バーチャル端末</font></A></td>
+									<td class="bg1" align="center" width="100"><A href="SummaryDaily.aspx"><font class="text_topmenu">売上集計</font></A></td>
+									<td class="bg1" align="center" width="100"><A href="AccountEdit.aspx"><font class="text_topmenu">アカウント管理</font></A></td>
+									<td class="bg1" align="center" width="100"><A href="HelpManual.aspx"><font class="text_topmenu">ヘルプ</font></A></td>
+									<td class="bg1" align="center" width="100"><A href="SignOut.aspx"><font class="text_topmenu">ログアウト</font></A></td>
+									<td class="bg1" align="center" width="100"><A href="ChangePassword.aspx"><font class="text_topmenu">パスワード変更</font></A></td>
+								</tr>
+							</table>
+						</td>
+					</tr>
+					<tr>
+						<td><IMG height="1" src="Images/space.gif" width="1"></td>
+					</tr>
+				</tbody>
+			</table>
+			<!-- tab bar begin -->
+			<table cellSpacing="0" cellPadding="0" width="100%" border="0">
+				<tbody>
+					<tr class="bg2">
+						<td class="text9" vAlign="top" align="left" width="100%"><font size="-2"><br>
+							</font>
+							<span id="CP_Info" class="text9"></span><br>
+							<font size="-2">
+								<br>
+							</font>
+							<table cellSpacing="0" cellPadding="0" width="100%" border="0">
+								<tbody>
+									<tr class="bg1">
+										<td height="1"><IMG height="1" src="Images/space.gif"></td>
+									</tr>
+								</tbody>
+							</table>
+						</td>
+					</tr>
+				</tbody>
+			</table>
+			<!-- tab bar end -->
+			<!-----------main contents end---------------------------------------------->
+			<table cellSpacing="0" cellPadding="2" width="100%" bgColor="#ffffff" border="0">
+				<tbody>
+					<tr>
+						<td colSpan="3">
+							<table cellSpacing="0" cellPadding="2" width="100%" border="0">
+								<tbody>
+									<tr>
+										<td width="20%"><span id="L_runMode" class="errtext9b">テストモード</span></td>
+										<td align="right" width="70%">
+											<!-- Shop Information -->
+											<div align="right">&nbsp;&nbsp;
+												<span class="text_shopinfo">店舗ID：</span>&nbsp;
+												<span id="L_sId" class="text9b">107037</span>&nbsp;&nbsp;
+												<span class="text_shopinfo">店舗名：</span>&nbsp;
+												<span id="L_sName" class="text9b">PCI店舗201701</span>&nbsp;&nbsp;
+												<span class="text_shopinfo">店舗URL：</span>&nbsp;
+												<span id="L_sUrl" class="text9b">http://a.a</span>&nbsp;&nbsp;
+											</div>
+											<!-- End of Shop Information --></td>
+									</tr>
+								</tbody>
+							</table>
+						</td>
+					</tr>
+					<tr>
+						<td align="center">
+							<table cellSpacing="0" cellPadding="0" width="100%" border="0">
+								<tbody>
+									<tr class="bg1">
+										<td class="text_topmenu">アカウント管理</td>
+									</tr>
+									<tr>
+										<td align="center"><br>
+											<span id="ErrMsg" class="errtext9">半角英数字混在7文字以上で入力お願い致します。</span><br>
+										</td>
+										<table cellpadding="0" cellspacing="0" width="60%" border="0">
+											<tbody>
+												<tr>
+													<td class="text9">
+														<p><b>アカウント設定</b>
+														<p>店舗でのアカウント情報の一覧を表示します。下記情報を入力し追加ボタンを押下することによりアカウント追加ができます。 
+															変更処理を行うには、一覧表示の編集ボタンを押下することにより情報編集ができます。また、編集を終了したい場合には取消ボタンを押下する事により終了できます。 
+															アカウントの稼動を制御するには、フラグ項目の停止または稼動で制御することができます。 ログインPWは半角英数字混在7文字以上で入力してください。
+														</p>
+													</td>
+												</tr>
+												<tr>
+													<td>
+														<br>
+													</td>
+												</tr>
+											</tbody>
+										</table>
+										<table id="tbladdAccount" cellspacing="2" cellpadding="2" border="0">
+	<tr class="text9">
+		<td align="center"><span id="rfv_cid" class="errtext9b" style="display:none;">＊</span>
+														アカウントID
+													</td>
+		<td align="center"><span id="rfv_cid2" class="errtext9b">＊</span>
+														ログインPW
+													</td>
+		<td align="center">
+														名前
+													</td>
+		<td align="center">
+														部署
+													</td>
+		<td align="center">
+														Email
+													</td>
+		<td align="center">コメント</td>
+	</tr>
+	<tr class="text9">
+		<td align="center"><input name="t_CP_UID" type="text" value="bbsectest" maxlength="20" id="t_CP_UID" class="textbox1" style="width:100px;" /></td>
+		<td align="center"><input name="t_CP_UPW" type="password" maxlength="20" id="t_CP_UPW" class="textbox1" style="width:100px;" /></td>
+		<td align="center"><input name="t_User_Name" type="text" value="診断太郎" maxlength="80" id="t_User_Name" class="textbox1" style="width:100px;" /></td>
+		<td align="center"><input name="t_User_Unit" type="text" value="診断" maxlength="80" id="t_User_Unit" class="textbox1" style="width:100px;" /></td>
+		<td align="center"><input name="t_User_Mail" type="text" value="secdiv06@bbsec.co.jp" maxlength="100" id="t_User_Mail" class="textbox1" style="width:200px;" /></td>
+		<td align="center"><input name="t_User_Str1" type="text" value="BBSecテスト" maxlength="100" id="t_User_Str1" class="textbox1" style="width:200px;" /></td>
+		<td align="center"><input type="submit" name="Button1" value="追加" onclick="javascript:WebForm_DoPostBackWithOptions(new WebForm_PostBackOptions(&quot;Button1&quot;, &quot;&quot;, true, &quot;&quot;, &quot;&quot;, false, false))" id="Button1" /></td>
+	</tr>
+	<tr class="text9">
+	</tr>
+</table>
+
+						</td>
+					</tr>
+					<tr>
+					</tr>
+					<tr>
+						<td align="center">
+							<table cellspacing="2" cellpadding="2" rules="all" id="DataGrid1" style="border-width:0px;">
+	<tr class="page1" align="right">
+		<td colspan="8"><span>1</span></td>
+	</tr><tr class="listheader" align="center" style="font-size:10pt;">
+		<td style="width:80px;">アカウントID</td><td style="width:80px;">ログインPW</td><td style="width:100px;">名前</td><td style="width:200px;">Email</td><td style="width:100px;">部署</td><td style="width:260px;">コメント</td><td style="width:40px;">フラグ</td><td>&nbsp;</td>
+	</tr><tr style="background-color:#EFEFEF;font-size:9pt;">
+		<td align="center" style="width:80px;">
+											bbsectest
+										</td><td align="center" style="width:80px;">
+											<span id="DataGrid1_lblCP_UPW_0" class="label1" style="display:inline-block;width:80px;"></span>
+										</td><td style="width:100px;">
+											診断
+										</td><td style="width:200px;">
+											secdiv06@bbsec.co.jp
+										</td><td style="width:100px;">
+											太郎
+										</td><td style="width:260px;">
+											BBSecテスト
+										</td><td style="width:40px;">
+											稼動
+										</td><td><input type="submit" name="DataGrid1$ctl03$ctl00" value="編集" /></td>
+	</tr><tr class="page1" align="right">
+		<td colspan="8"><span>1</span></td>
+	</tr>
+</table>
+						</td>
+					</tr>
+				</tbody>
+			</table>
+			<BR>
+			<BR>
+			<BR>
+			<BR>
+			</td> </tr> </tbody> </table>
+			
+<!------ footer begin ---------->
+<table cellspacing="0" cellpadding="0" height="17" width="100%" border="0">
+	<tbody>
+		<tr>
+			<td><img src="Images/space.gif" height="1"></td>
+		</tr>
+		<tr>
+			<td class="bg1"><img src="Images/space.gif" height="1"></td>
+		</tr>
+		<tr class="text9">
+			<td class="bg2" align="middle">
+				<span id="myfooter_CopyRight" class="text9">Copyright (C)2017 Cloud Payment Inc. All Rights Reserved.</span>
+			</td>
+		</tr>
+		<tr class="text9">
+			<td align="right">
+				<span id="myfooter_Version" class="text9"></span>
+			</td>
+		</tr>
+	</tbody>
+</table>
+<!------ footer end ---------->
+
+<script type="text/javascript">
+//<![CDATA[
+var Page_Validators =  new Array(document.getElementById("rfv_cid"), document.getElementById("rfv_cid2"));
+//]]>
+</script>
+
+<script type="text/javascript">
+//<![CDATA[
+var rfv_cid = document.all ? document.all["rfv_cid"] : document.getElementById("rfv_cid");
+rfv_cid.controltovalidate = "t_CP_UID";
+rfv_cid.errormessage = "＊";
+rfv_cid.display = "Dynamic";
+rfv_cid.evaluationfunction = "RequiredFieldValidatorEvaluateIsValid";
+rfv_cid.initialvalue = "";
+var rfv_cid2 = document.all ? document.all["rfv_cid2"] : document.getElementById("rfv_cid2");
+rfv_cid2.controltovalidate = "t_CP_UPW";
+rfv_cid2.errormessage = "＊";
+rfv_cid2.display = "Dynamic";
+rfv_cid2.isvalid = "False";
+rfv_cid2.evaluationfunction = "RequiredFieldValidatorEvaluateIsValid";
+rfv_cid2.initialvalue = "";
+//]]>
+</script>
+
+
+<script type="text/javascript">
+//<![CDATA[
+
+var Page_ValidationActive = false;
+if (typeof(ValidatorOnLoad) == "function") {
+    ValidatorOnLoad();
+}
+
+function ValidatorOnSubmit() {
+    if (Page_ValidationActive) {
+        return ValidatorCommonOnSubmit();
+    }
+    else {
+        return true;
+    }
+}
+        //]]>
+</script>
+</form>
+		</TR></TBODY></TABLE>
+	</body>
+</HTML>

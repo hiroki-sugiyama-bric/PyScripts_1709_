@@ -1,0 +1,25 @@
+POST https://reserve.tokyodisneyresort.jp/mypage/news/complete/ HTTP/1.1
+Host: reserve.tokyodisneyresort.jp
+User-Agent: Mozilla/5.0 (Windows NT 6.1; WOW64; rv:52.0) Gecko/20100101 Firefox/52.0
+Accept: text/html,application/xhtml+xml,application/xml;q=0.9,*/*;q=0.8
+Accept-Language: ja,en-US;q=0.7,en;q=0.3
+Accept-Encoding: gzip, deflate, br
+Referer: https://reserve.tokyodisneyresort.jp/mypage/news/confirm/
+Cookie: _ga=GA1.2.1015489637.1490941437; BIGipServersvlu1-pool-8443=!eoR9/91AZ+5DBZvQnpHmJRIH8PW1puZV6znRXjbQEoqdoNr/0fVNK1mDuQE8yeBDRtmyJmsV8Sn2mNk=; ak_bmsc=F240F608E50316CDE669E58134025AEB769BE696564100000D11E258BAE5FA7E~plzNK66QQ2rBBe06rTKcKpEUmScOxqAIFVwLToNbrzh8grrpN93b7lkxsdZ2Ide2uLhee8Q8CzTuv7eam5H5o/HR56nj/FQXhgKtCWGGZL28YSD2L4t0MfBFpCEeqmi4OvqF3xJh/CRIRRGTk8nvCfsDzy8v9X4itxfCpjjYA8haQD0Op+xY6dgBjbnifzUcn9FRpnZW6vRkUTSEQjbNLblQ==; _dc_gtm_UA-56274140-1=1; JSESSIONID=657C5801A322B39796DFD3CEE8EE06AC-n1; _gali=memberInfoForm
+Connection: keep-alive
+Upgrade-Insecure-Requests: 1
+Content-Type: application/x-www-form-urlencoded
+Content-Length: 56
+
+initFlg=1&csrfTokenName=HJOWQLZ1T4572B7MQFKOSXZLIQ6BIBIR
+HTTP/1.1 302 Moved Temporarily
+Content-Length: 0
+Location: https://reserve.tokyodisneyresort.jp/top/
+Content-Language: ja-JP
+Server: server
+Cache-Control: no-cache, no-store
+Pragma: no-cache
+X-Frame-Options: SAMEORIGIN
+Date: Mon, 03 Apr 2017 09:12:19 GMT
+Connection: keep-alive
+

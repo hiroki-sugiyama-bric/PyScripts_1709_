@@ -1,0 +1,30 @@
+POST https://www.chatwork.com/gateway.php?cmd=send_profile_setting&myid=2286820&_v=1.80a&_av=5&_t=565c421e6eeaf33ff7586306f73cec341058aafa58ac2148672ab&ln=ja HTTP/1.1
+Host: www.chatwork.com
+User-Agent: Mozilla/5.0 (Windows NT 6.1; WOW64; rv:51.0) Gecko/20100101 Firefox/51.0
+Accept: application/json, text/javascript, */*; q=0.01
+Accept-Language: ja,en-US;q=0.7,en;q=0.3
+Referer: https://www.chatwork.com/
+X-NewRelic-ID: VwYDUFBbGwEIUVFUAwE=
+Content-Type: application/x-www-form-urlencoded; charset=UTF-8
+X-Requested-With: XMLHttpRequest
+Content-Length: 999
+Cookie: _ga=GA1.2.1539605159.1487674512; __ar_v4=X2H6JCWTNFAR7MG7YUTIUH%3A20170223%3A7%7CMQEQVUZX2NHIJEIO37XZP6%3A20170223%3A23%7CZVQ5OCC7BNG23ATGFQ2NK5%3A20170223%3A30%7C5AOSTZ6LYVFTBEZUM2DH7X%3A20170223%3A30; _mkto_trk=id:058-YET-463&token:_mch-chatwork.com-1487675114093-61209; cwssid=sdvk95tc4s6ovnlbivtt2otgq6saq4er; auto_logindefault=72963aa727d3b5108e34ed39900c6c00a035e01e; _td=5ddabe32-fdce-48cc-9866-26c0a3a0c757
+Connection: close
+
+pdata=%7B%22name%22%3A%22%E9%AB%98%E6%A9%8B%E8%8B%B1%E6%A8%B9%22%2C%22allow_search%22%3A%221%22%2C%22cwid%22%3A%22%22%2C%22introduction%22%3A%22%E3%83%86%E3%82%B9%E3%83%88%E8%BF%BD%E5%8A%A0%22%2C%22introduction_priv%22%3A%22public%22%2C%22facebook%22%3A%22%22%2C%22facebook_priv%22%3A%22contact%22%2C%22twitter%22%3A%22%22%2C%22twitter_priv%22%3A%22contact%22%2C%22skype%22%3A%22%22%2C%22skype_priv%22%3A%22contact%22%2C%22orgname%22%3A%22%22%2C%22orgname_priv%22%3A%22public%22%2C%22department%22%3A%22%22%2C%22department_priv%22%3A%22public%22%2C%22title%22%3A%22%22%2C%22title_priv%22%3A%22public%22%2C%22address%22%3A%22%22%2C%22address_priv%22%3A%22public%22%2C%22url%22%3A%22%22%2C%22url_priv%22%3A%22public%22%2C%22email%22%3A%22%22%2C%22email_priv%22%3A%22contact%22%2C%22tel_organization%22%3A%22%22%2C%22tel_organization_priv%22%3A%22contact%22%2C%22tel_extension%22%3A%22%22%2C%22tel_extension_priv%22%3A%22contact%22%2C%22tel_mobile%22%3A%22%22%2C%22tel_mobile_priv%22%3A%22contact%22%7D
+HTTP/1.1 200 OK
+Cache-Control: no-store, no-cache, must-revalidate, post-check=0, pre-check=0
+Content-Type: application/json; charset=utf-8
+Date: Tue, 21 Feb 2017 11:18:16 GMT
+Expires: Thu, 19 Nov 1981 08:52:00 GMT
+Last-Modified: Tue, 21 Feb 2017 11:18:16 GMT
+Pragma: no-cache
+Server: nginx
+Vary: Accept-Encoding,User-Agent
+X-Content-Type-Options: nosniff
+X-Frame-Options: SAMEORIGIN
+X-NewRelic-App-Data: PxQEUVJSDgsTVllXBwcDVkYdFGQHBDcQUQxLA1tMXV1dORYiRBJHDQlqGBIDDVxsQBYOBF5dUjkXVEJHCwgEQBxSFlIICAQCH1UXUQlXBlJIGwZNRAEPUQYBAFEDBA8CAVJXUlNETwRRDksHZQ==
+Content-Length: 690
+Connection: Close
+
+{"status":{"success":true},"result":{"name":"\u9ad8\u6a4b\u82f1\u6a39","searchkey":"\u9ad8\u6a4b\u82f1\u6a39","orgname":"","cwid":"","url_priv":"public","orgname_priv":"public","department_priv":"public","title_priv":"public","skype_priv":"contact","twitter_priv":"contact","facebook_priv":"contact","address_priv":"public","introduction_priv":"public","email_priv":"contact","tel_organization_priv":"contact","tel_extension_priv":"contact","tel_mobile_priv":"contact","skype":"","twitter":"","facebook":"","department":"","title":"","url":"","address":"","introduction":"\u30c6\u30b9\u30c8\u8ffd\u52a0","email":"","tel_organization":"","tel_extension":"","tel_mobile":"","allow_search":1}}

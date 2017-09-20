@@ -1,0 +1,138 @@
+GET https://accounts.jins.com/jp/ja/registration?service_id=jos HTTP/1.1
+Host: accounts.jins.com
+User-Agent: Mozilla/5.0 (Windows NT 6.1; WOW64; rv:52.0) Gecko/20100101 Firefox/52.0
+Accept: text/html,application/xhtml+xml,application/xml;q=0.9,*/*;q=0.8
+Accept-Language: ja,en-US;q=0.7,en;q=0.3
+Accept-Encoding: gzip, deflate, br
+Referer: https://accounts.jins.com/jp/ja/login?service_id=jos
+Cookie: _ga=GA1.2.653643970.1490947721; __ulfpc=201703311708412655; AWSELB=2BCD219D0CF757078D61254C37D904455B5489E2366033149057DCB1FA8D987F94DFBFBBE03CFAE323F402847D93A003897DBF321F970143FE53E0DB247D83570949C35D14; _jins_accounts_session=Z0FnYjY2ZmZTNDh5Q1ZaOHFiZGE4empMdXNiZW9vYm5RR09lN3hsTUE5eHNFUEtNRnFpTlNkVisvTm90WFNIQ0lyaU1nYkdwakd2MFJTWjQrKzhXYzQ4ZU9ud3pvWVBOM2ZiOEZXYkcwd0dmd29lTEdRT1VhUktxRjErMGcyU0pnU3RLV0IxaXJ2MUFDT3FVempUcEg3UFZZMGpRZERabk5yTXpEK1R0dWdUcGNROTUvRHFPUUxJZ1Z0dTEzRzlkRy9rVGRwK3hlSDF0RUFwU1B5UHZtVkFJQUgyUGxoQXRPSVpRdlNhalRsL1grWFg4eUpCcTZVdzFQb3BESlV0WndQMm5FeWdJQXl4UEZPWHVKTjV1MWdOMzdKTXpMQmhucDZLaDhOeGNweU5ORUtOb3V6RkQxYVdmSk5LYWxQKzAtLWcyRnRaZnhjclJJaFRTS2RFWS9BTUE9PQ%3D%3D--0887430318608db7197f4b31a1a736412e66ba32
+Connection: keep-alive
+Upgrade-Insecure-Requests: 1
+
+
+HTTP/1.1 200 OK
+Cache-Control: no-cache, no-store, private, max-age=0, must-revalidate
+Content-Security-Policy: default-src 'self' https://accounts-webapp-static.s3.amazonaws.com/; style-src 'self' 'unsafe-inline' https://accounts-webapp-static.s3.amazonaws.com/; script-src 'self' 'unsafe-inline' https://accounts-webapp-static.s3.amazonaws.com/ https://jp.api.capy.me; img-src 'self' https://accounts-webapp-static.s3.amazonaws.com/ https://capy.storage.googleapis.com https://jp.api.capy.me
+Content-Type: text/html; charset=utf-8
+Date: Wed, 05 Apr 2017 08:17:25 GMT
+Pragma: no-cache
+Set-Cookie: _jins_accounts_session=R3orb1FhS1QvOEtZZjcwRGpNWlo5eEQ4YkFDb1RrSW1oTEhGMjUzYnRQTWVqVWdRT3ROU0Q5R1I3RGR0Tkl2aHdmN1hpQTBZTDUvTlpZZEdFdjdkclVYdEJodHdGWHFZWmVETng3RzZ2MWxMbmNCMmVGd1hqbGhKNTBtamxmNmxvbXcvMjk5L3pJeDVnKzIyMWx4d1pTa1JEN2o3RW9lVU9RbzZHTlRZcURsMkorTUhvNDR1MEgvSndTams3TmJkNXpFVXdlUWt6dkdITmtyZkYzcEt1amovenVtTDFpdzd3Zmt4ZU1MVTJjLzd6T04xQkZjbnFXTnBGZUNSZjVaV0M0dDhldm1iZnVnNjMxYTgzRjR0bVdQa3JuK0pMU0xWRU5nSmtMNnFrZk1aTnZFd2FvWHdDQ1NRWlRCbm54ekQtLUpjU1NvK3Vzd1RlTVBlNjdiMkk0Znc9PQ%3D%3D--dd38b0f333d4aaef5b9b643c66fed565dff26950; path=/; secure; HttpOnly
+Status: 200 OK
+Strict-Transport-Security: max-age=31536000; includeSubDomains
+Vary: Accept-Encoding
+X-Content-Type-Options: nosniff
+X-Frame-Options: SAMEORIGIN
+X-Request-Id: ed50162b-d607-44e8-9caf-e38e4a82a599
+X-XSS-Protection: 1; mode=block
+Connection: keep-alive
+Content-Length: 4952
+
+<html>
+<head>
+
+<meta http-equiv="content-type" content="text/html;charset=utf-8">
+<meta name="viewport" content="width=device-width,initial-scale=1">
+<meta name="format-detection" content="telephone=no">
+<title>お客様情報登録 | JINSアカウント</title>
+<link rel="shortcut icon" href="/favicon.ico">
+
+<!-- styleseets -->
+<link rel="stylesheet" media="screen" href="https://accounts-webapp-static.s3.amazonaws.com/assets/1.0.3/jos-a6f567845c9f5f18cb117baeeaf2cfcc941c2b3212726f7de520ca044beec7a6.css" />
+
+<!-- /styleseets -->
+
+</head>
+<body>
+
+<!-- header -->
+<header id="topHead" class="header">
+    <div class="headerDisplay">
+        <div class="headerDisplay__logo">
+            <h1><img alt="JINS" src="https://accounts-webapp-static.s3.amazonaws.com/assets/1.0.3/jos/jins_logo-bf4b7a06e60f8ec8eb3e2f891a77e83f7b5c291f0796df52e54f84c1c4fdbe9a.png" /></h1>
+        </div>
+    </div>
+</header>
+
+<!-- /header -->
+
+
+
+  <form class="new_form_users_registrations" id="new_form_users_registrations" action="/jp/ja/registration?service_id=jos" accept-charset="UTF-8" method="post"><input name="utf8" type="hidden" value="&#x2713;" /><input type="hidden" name="authenticity_token" value="vo6xw3PZTlggHWYnO3XMmji9x8XePx/LqmhJUCNCxLE15cNrKAL8UYWNDqC1xt9XLRqONYbvMrRMyolRz+IsBA==" />
+<input type="hidden" name="form_users_registrations[confirmed]" id="form_users_registrations_confirmed" />
+<input type="hidden" value="0" name="form_users_registrations[signed_in]" id="form_users_registrations_signed_in" />
+
+<div class="profRegister">
+  <div class="profRegisterForm">
+    <div class="profRegisterForm__title">
+      <h2><span>JINSアカウント </span><span>お客様情報登録</span></h2>
+    </div>
+    
+
+    <div class="profRegisterForm__form" id="profRegisterForm">
+        <input type="text" name="form_users_registrations[email]" id="form_users_registrations_email" />
+      <label for="form_users_registrations_email" class="profRegisterForm__mail">メールアドレス</label>
+      <div id="form_users_registrations_email_err" class="message"></div>
+    </div>
+
+    <div class="profRegisterForm__form" id="profRegisterForm">
+      <input autocomplete="off" type="password" name="form_users_registrations[password]" id="form_users_registrations_password" />
+      <label for="form_users_registrations_password" class="profRegisterForm__namea">パスワード</label>
+      <div id="form_users_registrations_password_err" class="message"></div>
+    </div>
+
+    <div class="profRegisterForm__mailMagazineCheck">
+      <p>メールマガジン配信</p>
+      <label class="label-checkbox" for="form_users_registrations_jos_email_optin_status">
+        <input name="form_users_registrations[jos_email_optin_status]" type="hidden" value="0" /><input type="checkbox" value="1" name="form_users_registrations[jos_email_optin_status]" id="form_users_registrations_jos_email_optin_status" />
+        <span class="lever">JINSオンラインショップメールマガジン</span>
+      </label>
+      <label class="label-checkbox" for="form_users_registrations_developers_email_optin_status">
+        <input name="form_users_registrations[developers_email_optin_status]" type="hidden" value="0" /><input type="checkbox" value="1" name="form_users_registrations[developers_email_optin_status]" id="form_users_registrations_developers_email_optin_status" />
+        <span class="lever">JINS MEME DEVELOPERS</span>
+      </label>
+    </div>
+
+    <div class="profRegisterForm__ruleCheck">
+      <label class="label-checkbox">
+        <input type="checkbox" id="allowrule" name="allowrule[]" value="1" />
+        <span class="lever"><a href="http://www.jins.com/jp/st/use/" target="_blank">オンラインショップ会員規約</a>、<a href="https://corp.jins.com/jp/ja/policy/" target="_blank">プライバシーポリシー</a>に同意する。</span>
+      </label>
+      <div id="allowrule_err" class="message"></div>
+    </div>
+
+    <div class="profRegisterForm__nextButton">
+      <button type="submit" class="waves-effect waves-light">次へ →</button>
+    </div>
+  </div>
+</div>
+</form>
+
+
+
+
+<!-- scripts -->
+<script src="https://accounts-webapp-static.s3.amazonaws.com/assets/1.0.3/jos-ce507f3f1780ada3028e2104a04f382dd3c177fbe5ad8363d93d1821f839c543.js"></script>
+
+  <script src="https://accounts-webapp-static.s3.amazonaws.com/assets/1.0.3/jos/controllers/prof_register-91c62eddb3c5a57868355733a5e759e6de055a2bffc4fd8a0f5aac67af5c182b.js"></script>
+
+<!-- /scripts -->
+
+<!-- footer -->
+<!-- footer -->
+<div class="footer">
+    <div class="footerContent">
+        <div class="footerContent__privacyPolicy">
+            <a href="https://corp.jins.com/jp/ja/policy/" target="_blank"><span>プライバシーポリシー</span></a>
+        </div>
+
+        <div class="footerContent__copyRight">
+            <span>ⒸJINS Inc. ALL Rights Reserved.</span>
+        </div>
+    </div>
+</div>
+<!-- /header -->
+
+<!-- /scripts -->
+
+</body>
+</html>

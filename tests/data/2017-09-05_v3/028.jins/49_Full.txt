@@ -1,0 +1,19 @@
+GET https://www.jins.com/Auth/coordinate00 HTTP/1.1
+Host: www.jins.com
+User-Agent: Mozilla/5.0 (Windows NT 6.1; WOW64; rv:52.0) Gecko/20100101 Firefox/52.0
+Accept: text/html,application/xhtml+xml,application/xml;q=0.9,*/*;q=0.8
+Accept-Language: ja,en-US;q=0.7,en;q=0.3
+Accept-Encoding: gzip, deflate, br
+Referer: https://www.jins.com/jp/Auth/login
+Cookie: _ga=GA1.2.653643970.1490947721; __ulfpc=201703311708412655; SBI=75413781490947722304; __bvr_s1d=t7J2NOMRdh2WVllIwKQeuqOaYMg2L7; session-set=true; JSESSIONID=DF04375584935F53957A425E752163B4; AWSELB=DF0FBF4D0A69926DC564137458A2B5CCE616C92C12DE4D0C438399A6785546A56DA079D9923F12767E237FB48348EC4DD4CB75D717E7844B1823F25FC1BBD2374F6C6CDE7B
+Connection: keep-alive
+Upgrade-Insecure-Requests: 1
+
+
+HTTP/1.1 302 Moved Temporarily
+Server: AkamaiGHost
+Content-Length: 0
+Location: https://www.jins.com/jp/Auth/coordinate00
+Date: Wed, 05 Apr 2017 08:18:08 GMT
+Connection: keep-alive
+

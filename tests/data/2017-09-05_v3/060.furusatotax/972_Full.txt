@@ -1,0 +1,30 @@
+POST https://www.furusato-tax.jp/login.html HTTP/1.1
+Host: www.furusato-tax.jp
+User-Agent: Mozilla/5.0 (Windows NT 6.1; WOW64; rv:52.0) Gecko/20100101 Firefox/52.0
+Accept: text/html,application/xhtml+xml,application/xml;q=0.9,*/*;q=0.8
+Accept-Language: ja,en-US;q=0.7,en;q=0.3
+Accept-Encoding: gzip, deflate, br
+Referer: https://www.furusato-tax.jp/login.html
+Cookie: __cfduid=d3ddcf860c025e959a2fa1895f734fa7c1491467614; B=F9BARwkGSck94KrWDRf4kw+Rxq9VhzlHyiGIIE0woOy5t2qkRXFjjEYrdSTNi4iAxNWhOClq5S2IapaTWoBAaKdrLCYDgZT6EIVIsp1sRS7Kdwkos59oZwq9I4kmWXBsVU; SNS=N4P4-Xar8RVe0sTDqgGLdg+s326_SsvNRdL1yiD9rethJgrSGKSYk6PNAwfNQhNjBmOqkv5-_ih7EZIQE3ddFwFH6g4KIREuGNcxhZM64lhi_Nlcx_-qgDdTo4zAtdt82XOBzjWPIQcxXmsD71rO4eiRvHKbYjtqt7EMPsxZ7aoKcb8SyVLtJ9a9UPDnhFnop_azbOHPgumJIa_oMybyCzVhkwC6QlaKXvGMHGXbsni2jqsLRIv-OYv6pJcDEJ2y65jdOlmOhv3Y_Z-e1f2d3Sm3aaoHAgez-6mLRXmMnap_70WlcAkWHCb7RryR-HW3LOl9lzpUbiPp6-TIFiB54Vn_hj8nGxbzuFo6OPVN4LnCbXFC7XYrsHWR-seQ-PRuIZOIelLxIcRp-D0tih0_7LmeOrTY0OYi1g-4_69m4ezAu18himKJmo909l_k3dKbVW84Ae4lkF7GK2I6kH_ja0mPPW105W97dbRZTtVJjgQyyz0R9nXjH_8xwWkdmbGxGwzXWRIudxCp6gtaG5k_yVlwTHVY7wX_4tfn962QIrzoIhEmxK-wf485Nzgdsciy6D0N0fzNM7mR7xLRuxvIDCH; M=W2iqUFDjUQ8_S63G5iCV_9h84ls; _ga=GA1.2.746399930.1491468457
+Connection: close
+Upgrade-Insecure-Requests: 1
+Content-Type: application/x-www-form-urlencoded
+Content-Length: 390
+
+mode=login&action=finish&backuri=%2F&token=R1gkXqseBMOvWQwlxDik4g+wJQPd-fnD6mMvdBQeW_xsm9KneXbVG5hPc9t3Wb0OVjETXqXRKEmHHPZghboSvlfhxwONQCj5JMc2qIxuoH4NWcmyJD0zhAgprnnz4Cyy8F_xUJNZJYq-36puWG4X9t9zQo0XtDbaM1NzmpxANB3y3ChRTptNU55ZKu7D-NlcwUfnft_kXHhBWZOyvTmO9C8ZYsn8CmdAJ9ke6ss-wuxOUoK-oQPWVfIOYRl8jlD2JDT3RjrVVINm7qyov8nH8xm&email=hitakahashi88888%40gmail.com&password=12345678a&keep_login=on
+HTTP/1.1 302 Found
+Date: Thu, 06 Apr 2017 09:14:12 GMT
+Content-Type: text/html; charset=UTF-8
+Transfer-Encoding: chunked
+Connection: close
+X-Pingback: https://www.furusato-tax.jp/wp/xmlrpc.php
+Link: <https://www.furusato-tax.jp/?p=12099>; rel=shortlink
+Set-Cookie: L=09dQxwWdwBdoHx4fpsa3MQ+kpVpfo4yFjb0IASSt8wm-Cv_OtTpherLItcDDo-BQLUboBAh5kW_wfDT5bkW1QgnFuO7dG8dTUJyziVtJQMNi9_F1YSy_T9JWL-G7_p6pOc; expires=Thu, 04-May-2017 09:14:11 GMT; Max-Age=2419199; path=/; secure
+Set-Cookie: LN=5WrX4GMHd4tF06l3kFUZUQ+yiLlSds5O8DsVH7ZiiLIIQZGpyJmwDoUwA5IsmsvrF-wBFTV8wlYljkbYU6d65zEr908jdybeGNRDpXXKfY7iyweSSmVakPvxw0zg4c3tqw; expires=Thu, 04-May-2017 09:14:11 GMT; Max-Age=2419199; path=/
+Set-Cookie: M=W2iqUFDjUQ8_S63G5iCV_9h84ls; expires=Fri, 06-Apr-2018 09:14:11 GMT; Max-Age=31535999; path=/
+Location: /
+Server: cloudflare-nginx
+CF-RAY: 34b3a2b0b95a1341-NRT
+
+0
+

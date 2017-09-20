@@ -1,0 +1,344 @@
+POST https://my.gnavi.co.jp/edit/?page=pc HTTP/1.1
+Host: my.gnavi.co.jp
+User-Agent: Mozilla/5.0 (Windows NT 6.1; WOW64; rv:51.0) Gecko/20100101 Firefox/51.0
+Accept: text/html,application/xhtml+xml,application/xml;q=0.9,*/*;q=0.8
+Accept-Language: ja,en-US;q=0.7,en;q=0.3
+Referer: https://my.gnavi.co.jp/edit/?page=pc
+Cookie: edit_token=d65c611179; gt=GT0ccdf8f0d000ac1e4ac705Fp-AhqR8J71AUizv6M3JQg; gUser=000ce28f0b5000ac1e4a0d34ySIaoAAVMMWNXM3HK-Bd_A; gcom=%7B%22login_type%22%3A1%2C%22guser_type%22%3A2%7D; GHistory=g048925%3A110%3A1486705396%2Cgdup021%3A110%3A1486701006%2Cgc9e603%3A110%3A1486695530%2Ca742608%3A110%3A1486695248%2Cb205003%3A110%3A1486695028%2Cgdzh702%3A110%3A1486694588%2Cgap7018%3A110%3A1486694535; optimizelyEndUserId=oeu1486694537825r0.6543023241441651; _ga=GA1.3.339950692.1486694539; _vz=viz_588176f232e06; GU=25ecea892fbe30479f97236d2c2c4532; optimizelySegments=%7B%221891520419%22%3A%22search%22%2C%221892920925%22%3A%22search%22%2C%221906460323%22%3A%22false%22%2C%221906820382%22%3A%22none%22%2C%221908320418%22%3A%22ff%22%2C%221911230413%22%3A%22false%22%2C%221914160317%22%3A%22ff%22%2C%221914170296%22%3A%22none%22%7D; optimizelyBuckets=%7B%7D; ds=dec71e5abc42ad70532b70d860d0ae5a11c9075ce62d33929db99800cc9497aa; s_sess=%20sc_prop1%3Dmy%3B; gUserPriv=000ce28f0b5001ac1e4a0d34OdJr6eJV2Lr98GFjUPDfmA; GMemDisp=1002ad3%260%26hitakahashi9999%40gmail.com%260%26hitakahashi9999%260%260%260%2601%260%2602%26%26%26%26%26%26%26; guser_disp=1002ad3%260%26hitakahashi9999%40gmail.com%260%26hitakahashi9999%260%260%260%2601%260%2602%26%26%26%26%26%26%26%26%26%26%26; PHPSESSID=u5qdpoqt6bbj51dmlkkpcitj07; _dc_gtm_UA-43329175-1=1
+Connection: close
+Upgrade-Insecure-Requests: 1
+Content-Type: application/x-www-form-urlencoded
+Content-Length: 619
+
+loginId=hitakahashi9999%40gmail.com&mailAddress=hitakahashi9999%40gmail.com&mobileAddress=&mobileConfirm=&mailMagaError=0&contryName=&cType=default&rUrl=http%3A%2F%2Fmy.gnavi.co.jp%2F&rType=1&lastName=%E9%AB%98%E6%A9%8B&firstName=%E8%8B%B1%E5%96%9C&kanaLastName=%E3%81%9F%E3%81%8B%E3%81%AF%E3%81%97&kanaFirstName=%E3%81%B2%E3%81%A7%E3%81%8D&sex=1&homeZip1=160&homeZip2=0022&officeZip1=160&officeZip2=0022&contryCode=&addressPref=13&addressCity=%E6%96%B0%E5%AE%BF%E5%8C%BA%E6%96%B0%E5%AE%BF&addressHouse=&telMain1=&telMain2=&telMain3=&telSub1=&telSub2=&telSub3=&fax1=&fax2=&fax3=&job=&bridalYear=&bridalMonth=&bridalDay=
+HTTP/1.1 200 OK
+Date: Tue, 07 Mar 2017 02:32:09 GMT
+Server: Apache
+Expires: Thu, 19 Nov 1981 08:52:00 GMT
+Cache-Control: no-store, no-cache, must-revalidate, post-check=0, pre-check=0
+Pragma: no-cache
+Set-Cookie: ds=dec71e5abc42ad70532b70d860d0ae5a11c9075ce62d33929db99800cc9497aa; expires=Wed, 08-Mar-2017 02:32:09 GMT; path=/; domain=gnavi.co.jp
+Set-Cookie: gloginsession=deleted; expires=Mon, 07-Mar-2016 02:32:08 GMT; path=/; domain=gnavi.co.jp
+Set-Cookie: gcom=%7B%22login_type%22%3A1%2C%22guser_type%22%3A2%7D; expires=Tue, 01-May-2018 02:32:09 GMT; path=/; domain=gnavi.co.jp
+Set-Cookie: gt=GT0ccdf8f0d000ac1e4ac705Fp-AhqR8J71AUizv6M3JQg; expires=Tue, 01-May-2018 02:32:09 GMT; path=/; domain=gnavi.co.jp
+Set-Cookie: gUser=000ce28f0b5000ac1e4a0d34ySIaoAAVMMWNXM3HK-Bd_A; expires=Tue, 01-May-2018 02:32:09 GMT; path=/; domain=gnavi.co.jp
+Connection: close
+Transfer-Encoding: chunked
+Content-Type: text/html
+
+203e
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+<html xmlns="http://www.w3.org/1999/xhtml" xml:lang="ja" lang="ja">
+<head>
+<meta http-equiv="Content-Type" content="text/html; charset=utf-8" />
+<meta http-equiv="content-language" content="ja" />
+<meta http-equiv="content-style-type" content="text/css" />
+<meta http-equiv="content-script-type" content="text/ecmascript" />
+<title>【ｍｙぐるなび】ぐるなび会員登録</title>
+<link rel="SHORTCUT ICON" href="https://my.gnavi.co.jp/lib/favicon.ico" />
+<meta name="Description" content="グルメ情報サイト【ぐるなび】のぐるなびグループサイトをもっと便利に、もっとお得にご利用いただけるサービスです。" />
+<meta name="Keywords" content="グルメ,レストラン,飲食店,会員登録" />
+<link rel="stylesheet" type="text/css" href="https://my.gnavi.co.jp/edit/css/gnavi.css" />
+<link rel="stylesheet" type="text/css" href="https://my.gnavi.co.jp/edit/css/style_prof_change.css" />
+
+<script type="text/ecmascript" src="/lib/jquery-1.5.1.js"></script>
+<script type="text/ecmascript" src="https://my.gnavi.co.jp/edit/js/submitData.js"></script>
+
+</head>
+<body>
+<!--AllLayout-->
+<div id="AllLayout">
+<!--Header-->
+<div id="Header" class="clfix">
+<!--logoarea-->
+<div class="logoarea">
+<div class="tagline"><img src="https://my.gnavi.co.jp/edit/img/logo_gnavi.gif" alt="ｍｙぐるなび" title="ｍｙぐるなび" width="161" height="32" /></div>
+</div>
+<!--/logoarea-->
+</div>
+<!--/Header-->
+<hr />
+<!-- BreadcrumbList -->
+<div id="BreadcrumbList">
+<ol class="clfix">
+<li class="first"><a href="http://www.gnavi.co.jp/">ぐるなび</a></li>
+<li class="second"><a href="http://my.gnavi.co.jp/">myぐるなび</a></li>
+<li class="now"><strong>会員情報の変更</strong></li>
+</ol>
+</div>
+<!-- /BreadcrumbList -->
+<hr />
+
+<!-- title -->
+<h1 class="title">会員情報の変更</h1>
+<!-- /title -->
+
+<!--Container-->
+<div id="Container">
+
+<div class="clfix">
+
+</div>
+
+<form id="memaddForm" method="post" action="" name="alForm" class="validate">
+<div id="check">こちらの内容で登録します。よろしいですか？</div>
+<!-- mainform -->
+<div id="main-form">
+<h2 class="l">登録内容の確認</h2>
+<div class="basicInfo">
+
+<!-- hidden -->
+<input type="hidden" name="cType" value="default" />
+<input type="hidden" name="rUrl" value="http://my.gnavi.co.jp/" />
+<input type="hidden" name="rType" value="1" />
+<!--<input type="hidden" name="mailMagaClear" value="" />-->
+
+<input type="hidden" name="mailAddress" value="hitakahashi9999@gmail.com" />
+<input type="hidden" name="mobileAddress" value="" />
+<input type="hidden" name="mobileConfirm" value="" />
+<input type="hidden" name="loginId" value="hitakahashi9999@gmail.com" />
+<input type="hidden" name="lastName" value="高橋" />
+<input type="hidden" name="firstName" value="英喜" />
+<input type="hidden" name="kanaLastName" value="たかはし" />
+<input type="hidden" name="kanaFirstName" value="ひでき" />
+<input type="hidden" name="birthYear" value="1990" />
+<input type="hidden" name="birthMonth" value="01" />
+<input type="hidden" name="birthDay" value="01" />
+<input type="hidden" name="sex" value="1" />
+<input type="hidden" name="contryCode" value="" />
+<input type="hidden" name="homeZip1" value="160" />
+<input type="hidden" name="homeZip2" value="0022" />
+<input type="hidden" name="officeZip1" value="160" />
+<input type="hidden" name="officeZip2" value="0022" />
+<input type="hidden" name="addressPref" value="13" />
+<input type="hidden" name="addressCity" value="新宿区新宿" />
+<input type="hidden" name="addressHouse" value="" />
+<input type="hidden" name="telMain1" value="" />
+<input type="hidden" name="telMain2" value="" />
+<input type="hidden" name="telMain3" value="" />
+<input type="hidden" name="telSub1" value="" />
+<input type="hidden" name="telSub2" value="" />
+<input type="hidden" name="telSub3" value="" />
+<input type="hidden" name="fax1" value="" />
+<input type="hidden" name="fax2" value="" />
+<input type="hidden" name="fax3" value="" />
+<input type="hidden" name="job" value="" />
+<input type="hidden" name="marry" value="" />
+<input type="hidden" name="bridalYear" value="" />
+<input type="hidden" name="bridalMonth" value="" />
+<input type="hidden" name="bridalDay" value="" />
+
+<input type="hidden" name="sec_token_edit" value="501c717fb06ca44cb30178f161ef96ca66a5872f" />
+<input type="hidden" name="sec_id_edit" value="aa3371c5d7091078076e98d7b4145c46" />
+<!-- /hidden -->
+
+<table width="830" cellpadding="0" cellspacing="0" class="basetable">
+
+
+<!-- お名前 -->
+<tr>
+<th width="170">
+<div class="wrap">お名前<span class="must">必須</span></div>
+</th>
+<td>
+<div class="wrap">
+高橋　　英喜<br />
+たかはし　ひでき
+</div>
+</td>
+</tr>
+<!-- /お名前 -->
+
+<!-- 生年月日 -->
+<tr>
+<th>
+<div class="wrap">生年月日</div>
+</th>
+<td>
+<div class="wrap">
+1990年
+01月
+01日
+</div>
+</td>
+</tr>
+<!-- /生年月日 -->
+<!-- 性別 -->
+<tr>
+<th>
+<div class="wrap">性別<span class="must">必須</span></div>
+</th>
+<td>
+<div class="wrap">
+男性
+</div>
+</td>
+</tr>
+<!-- /性別 -->
+<!-- 郵便番号 -->
+<tr> 
+<th>	
+<div class="wrap">郵便番号<span class="must">必須</span></div> 
+</th> 
+<td> 
+<div class="wrap-zip clfix"> 
+<div class="wrap-zip-jp"> 
+<div class="wrap"> 
+<p class="wrap-ttl">自宅</p> 
+<dl class="clfix"> 
+〒160
+-
+0022
+<br /> 
+</dl> 
+</div> 
+
+<div class="wrap"> 
+<p class="wrap-ttl">勤務地・学校</p> 
+<dl class="clfix"> 
+〒160
+-
+0022
+</dl> 
+</div>
+
+
+</div>
+</div> 
+</td> 
+</tr>
+<!-- /郵便番号 -->
+<!-- 住所 -->
+<tr>
+<th>
+<div class="wrap">住所</div>
+</th>
+<td>
+<div class="wrap">
+
+
+東京都
+
+
+
+
+新宿区新宿
+
+
+</div>
+</td>
+</tr>
+<!-- /住所 -->
+<!-- 連絡先電話番号 -->
+<tr>
+<th>
+<div class="wrap">連絡先電話番号</div>
+</th>
+<td>
+<div class="wrap">
+</div>
+</td>
+</tr>
+<!-- /連絡先電話番号 --> 
+<!-- 連絡先第2電話番号 -->
+<tr>
+<th>
+<div class="wrap">連絡先第2電話番号</div>
+</th>
+<td>
+<div class="wrap">
+</div>
+</td>
+</tr>
+<!-- /連絡先第2電話番号 -->
+<!-- FAX番号 -->
+<tr>
+<th>
+<div class="wrap">FAX番号</div>
+</th>
+<td>
+<div class="wrap">
+</div>
+</td>
+</tr>
+<!-- /FAX番号 -->
+<!-- 職業 -->
+<tr>
+<th>
+<div class="wrap">職業</div>
+</th>
+<td>
+<div class="wrap">
+
+
+</div>
+</td>
+</tr>
+<!-- /職業 -->
+<!-- 結婚 --> 
+<tr> 
+<th> 
+<div class="wrap">結婚</div> 
+</th> 
+<td> 
+<div class="wrap"> 
+</div> 
+</td> 
+</tr> 
+<!-- /結婚 -->
+<!-- 結婚記念日 -->
+<tr>
+<th>
+<div class="wrap">結婚記念日</div>
+</th>
+<td>
+</td>
+</tr>
+<!-- /結婚記念日 -->
+</table>
+</div>
+<!-- div.basicInfo -->
+</div>
+<!-- /mainform -->
+
+<!-- BtnArea -->
+<div class="submit">
+<ul class="submit-area-l clfix">
+<li class="submit-btm-back start"><a href="" onclick="submitData('memaddForm', 'https://my.gnavi.co.jp/edit/?page=pb');return false;">戻る</a>
+</li><li class="submit-btm-regist end"><a href="" onClick="submitData('memaddForm', 'https://my.gnavi.co.jp/edit/?page=pf');return false;">登録する</a></li></ul>
+</div>
+<!-- /BtnArea -->
+<hr />
+</form>
+
+</div>
+<!--/Container-->
+<hr />
+<!--Footer-->
+<div id="Footer">
+<p class="copy xs">Copyright&copy; Gurunavi, Inc. All rights reserved.</p>
+</div>
+<!--/Footer-->
+</div>
+<!-- SiteCatalyst XHTML -->
+<div style="display:none;height:0;position:relative;visibility:hidden;width:0;">
+<script type="text/javascript">//<![CDATA[
+scprotocol = (location.protocol=='https:') ? 'https:' : 'http:';
+document.write('<scr'+'ipt type="text/javascript" src="'+scprotocol+'//site.gnavi.co.jp/analysis/s_code.js" charset="Shift_JIS"><\/scr'+'ipt>');
+//]]></script>
+<script type="text/javascript">//<![CDATA[
+scSubdom=getScSubdom();
+//]]></script>
+<script type="text/javascript">//<![CDATA[
+document.write('<scr'+'ipt type="text/javascript" src="'+scprotocol+'//site.gnavi.co.jp/analysis/sc_'+scSubdom+'.js" charset="Shift_JIS"><\/scr'+'ipt>');
+//]]></script>
+<script type="text/javascript">//<![CDATA[
+document.write('<scr'+'ipt type="text/javascript" src="'+scprotocol+'//site.gnavi.co.jp/analysis/sc_form_ana_my.js" charset="UTF-8"><\/scr'+'ipt>');
+//]]></script>
+</div>
+<!-- SiteCatalyst XHTML -->
+
+</body> 
+</html> 
+0
+

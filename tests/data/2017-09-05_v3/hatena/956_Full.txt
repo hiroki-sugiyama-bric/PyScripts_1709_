@@ -1,0 +1,178 @@
+GET https://www.hatena.ne.jp/registered HTTP/1.1
+Host: www.hatena.ne.jp
+User-Agent: Mozilla/5.0 (Windows NT 6.1; WOW64; rv:51.0) Gecko/20100101 Firefox/51.0
+Accept: text/html,application/xhtml+xml,application/xml;q=0.9,*/*;q=0.8
+Accept-Language: ja,en-US;q=0.7,en;q=0.3
+Cookie: b=$1$My7gZnO8$0.FGsPl4n1llPMV82C5TE1; _fout_segment=83206%2C83207%2C83208%2C83209%2C83215%2C83217%2C83218%2C83219%2C83220; _nttcom_segment=36000; _vsn_segment=37000; __gads=ID=53893da3f15ba603:T=1484115036:S=ALNI_MZ-5OuVluzYAAbSOjQmOTW8TyUzpg; _fout_segment_sync=1; _td=be863d7e-ee4e-4869-b43a-0cc9d49c24e5; OX_sd=2; OX_plg=sl|pdf|wmp|pm; _ga=GA1.3.1991463582.1487329486; _dc_gtm_UA-47034238-1=1; _gat_UA-47034238-2=1; __utma=90496003.1991463582.1487329486.1487329486.1487329486.1; __utmb=90496003.0.10.1487329486; __utmc=90496003; __utmz=90496003.1487329486.1.1.utmcsr=blog.kaerucloud.com|utmccn=(referral)|utmcmd=referral|utmcct=/entry/website-ranking; hatenausr=SRs24BSmHge_1487329490338; _tdim=2df9c595-0f3f-4149-c09f-56fd48950602; _gat_UA-7855606-1=1; rk=f9cf05b364a04e27cd445e0f545c7ac69a358672
+Connection: close
+Upgrade-Insecure-Requests: 1
+
+
+HTTP/1.1 200 OK
+Server: nginx
+Date: Fri, 17 Feb 2017 11:14:37 GMT
+Content-Type: text/html; charset=utf-8
+Content-Length: 9537
+Connection: close
+Vary: Accept-Encoding
+Vary: Accept-Language,Accept-Encoding,User-Agent
+X-Framework: Ridge/0.11 Plack/0.9982
+X-Ridge-Dispatch: Hatena::WWW::Engine::Registered#default
+X-Runtime: 105ms
+X-View-Runtime: 92ms
+
+<!DOCTYPE html>
+<html lang="ja" data-device="pc" data-theme="" class="register "
+    data-hatena-cookie-domain=".hatena.ne.jp">
+  <head>
+    <title>はてなIDの登録が完了しました - はてな</title>
+    <base target="_top">
+    <meta name="viewport" content="width=device-width, minimum-scale=1.0, maximum-scale=1.0, user-scalable=no">
+    <meta http-equiv="X-UA-Compatible" content="IE=EmulateIE10; IE=Emulate9; IE=Emulate8">
+    <link rel=stylesheet href="/css/wwwridge/register.css?t=1419585520">
+    <!--[if lt IE 9]>
+    <style>
+      .on, .off {
+        visibility: visible;
+        position: absolute;
+        left: -3000px;
+      }
+    </style>
+    <script>
+      (function (elements) {
+        for (var i = 0, l = elements.length; i < l; ++i)
+          document.createElement(elements[i]);
+      })('abbr article aside audio bdi canvas data datalist details dialog figcaption figure footer header hgroup main mark meter nav output progress section summary template time video'.split(/\s+/));
+    </script>
+    <![endif]-->
+  </head>
+
+  <body id="hatena-www-register">
+    <div id="globalheader">
+      <div id="globalheader-inner">
+        <h1 id="logo"><a tabindex="-1" href="/"><img src="/images/wwwridge/logo@2x.png" class="logo-w" alt="はてな" title="はてな" /><img src="/images/wwwridge/logo-bk@2x.png" class="logo-bk" alt="はてな" title="はてな" /></a></h1>
+        <ul id="menu"><li id="langselector-button">
+            <span><a tabindex="-1" href="//n.hatena.ne.jp/setting/locale?location=https://www.hatena.ne.jp/my/config">日本語</a></span>
+            <div id="langselector">
+              <div id="langselector-title">表示言語を選択</div>
+              <div id="langselector-body">
+                <ul>
+                  <li  class="selected">
+                    <a id="ja" href="?locale.lang=ja" rel="alternate" hreflang="ja">日本語</a>
+                  </li>
+                  <li >
+                    <a id="en" href="?locale.lang=en" rel="alternate" hreflang="en">English</a>
+                  </li>
+                  <li >
+                    <a id="en-gb" href="?locale.lang=en-gb" rel="alternate" hreflang="en-gb">English (UK)</a>
+                  </li>
+                  <li >
+                    <a id="fr" href="?locale.lang=fr" rel="alternate" hreflang="fr">Français</a>
+                  </li>
+                  <li >
+                    <a id="it" href="?locale.lang=it" rel="alternate" hreflang="it">Italiano</a>
+                  </li>
+                  <li >
+                    <a id="es" href="?locale.lang=es" rel="alternate" hreflang="es">Español</a>
+                  </li>
+                  <li >
+                    <a id="de" href="?locale.lang=de" rel="alternate" hreflang="de">Deutsch</a>
+                  </li>
+                </ul>
+              </div>
+            </div>
+          </li></ul>
+      </div>
+    </div>
+
+    <div id="container">
+      <h1>はてなIDの登録が<span>完了しました</span></h1>
+      <p>はてなへようこそ。はてなでは、オンラインブックマークやブログ、趣味で集まるコミュニティなど、たくさんのサービスを無料でご利用いただけます。あなたの趣味や用途に合ったサービスをみつけてください。</p>
+      <ul id="recommend-services">
+        <li><a href="http://b.hatena.ne.jp/guide?via=201027" class="recommend-services-bookmark">
+          <span class="recommend-services-title">はてなブックマーク</span>
+          <span class="recommend-services-excerpt">ネット上にお気に入りを保存できるサービス。ネット上の旬な話題がすぐわかる</span>
+        </a></li>
+        <li class="touch"><a href="http://b.hatena.ne.jp/touch?via=201027" class="recommend-services-bookmark">
+          <span class="recommend-services-title">はてなブックマーク</span>
+          <span class="recommend-services-excerpt">ネット上にお気に入りを保存できるサービス。ネット上の旬な話題がすぐわかる</span>
+        </a></li>
+        <li><a href="http://blog.hatena.ne.jp/guide?via=201027" class="recommend-services-blog">
+          <span class="recommend-services-title">はてなブログ</span>
+          <span class="recommend-services-excerpt">書き残そう、あなたの人生の物語。だれでも使いやすく簡単に書ける、はてなの新しいブログ</span>
+        </a></li>
+        <li class="touch"><a href="http://blog.hatena.ne.jp/?via=201027" class="recommend-services-blog">
+          <span class="recommend-services-title">はてなブログ</span>
+          <span class="recommend-services-excerpt">書き残そう、あなたの人生の物語。だれでも使いやすく簡単に書ける、はてなの新しいブログ</span>
+        </a></li>
+        <li><a href="http://bkumagirls.hatenastaff.com/entry/webhelp" class="recommend-services-bkuma">
+          <span class="recommend-services-title">B!KUMA</span>
+          <span class="recommend-services-excerpt">“がんばる私”に、ちょっと一息。恋愛、レシピ、おしゃれ、育児など女性が気になる話題をお届け</span>
+        </a></li>
+        <li class="touch"><a href="http://bkuma.hatena.ne.jp/?via=201027" class="recommend-services-bkuma">
+          <span class="recommend-services-title">B!KUMA</span>
+          <span class="recommend-services-excerpt">“がんばる私”に、ちょっと一息。恋愛、レシピ、おしゃれ、育児など女性が気になる話題をお届け</span>
+        </a></li>
+        <li><a href="http://hatenanews.com/articles/about?via=201027" class="recommend-services-news">
+          <span class="recommend-services-title">はてなニュース</span>
+          <span class="recommend-services-excerpt">ネットで旬な話題を分かりやすく紹介。地元発の京都情報、ひとこまマンガも楽しめるニュースサイト</span>
+        </a></li>
+        <li class="touch"><a href="http://hatenanews.com/?via=201027" class="recommend-services-news">
+          <span class="recommend-services-title">はてなニュース</span>
+          <span class="recommend-services-excerpt">ネットで旬な話題を分かりやすく紹介。地元発の京都情報、ひとこまマンガも楽しめるニュースサイト</span>
+        </a></li>
+        <li><a href="http://q.hatena.ne.jp/help/about?via=201027" class="recommend-services-question">
+          <span class="recommend-services-title">人力検索はてな</span>
+          <span class="recommend-services-excerpt">調べたいことを誰かが自分の代わりになって調べてくれる人力検索サービス</span>
+        </a></li>
+        <li class="touch"><a href="http://q.hatena.ne.jp/touch/?via=201027" class="recommend-services-question">
+          <span class="recommend-services-title">人力検索はてな</span>
+          <span class="recommend-services-excerpt">調べたいことを誰かが自分の代わりになって調べてくれる人力検索サービス</span>
+        </a></li>
+        <li><a href="http://d.hatena.ne.jp/keywordguide/what?via=201027" class="recommend-services-keyword">
+          <span class="recommend-services-title">はてなキーワード</span>
+          <span class="recommend-services-excerpt">言葉の意味を調べたり、キーワードについて書かれた口コミを読むことができる情報ページ</span>
+        </a></li>
+        <li class="touch"><a href="http://d.hatena.ne.jp/keywordtouch/?via=201027" class="recommend-services-keyword">
+          <span class="recommend-services-title">はてなキーワード</span>
+          <span class="recommend-services-excerpt">言葉の意味を調べたり、キーワードについて書かれた口コミを読むことができる情報ページ</span>
+        </a></li>
+      </ul>
+    </div>
+    <p id="rule"><a href="/rule/">利用規約</a></p>
+    <!-- Google Code for Signup Conversion Page -->
+    <script language="JavaScript" type="text/javascript">
+    <!--
+        var google_conversion_id = 1071023013;
+        var google_conversion_language = "ja";
+        var google_conversion_format = "1";
+        var google_conversion_color = "666666";
+        var google_conversion_label = "signup";
+    //-->
+    </script>
+    <script language="JavaScript" src="http://www.googleadservices.com/pagead/conversion.js">
+    </script>
+    <noscript>
+      <img height="1" width="1" border="0" src="http://www.googleadservices.com/pagead/conversion/1071023013/?label=signup&amp;guid=ON&amp;script=0"/>
+    </noscript>
+
+    <script language="JavaScript" type="text/javascript">
+    <!-- Overture K.K.
+         window.ysm_customData = new Object();
+         window.ysm_customData.conversion = "transId=,currency=,amount=";
+         var ysm_accountid  = "1FDF5HHKOS1M518USC4D1BQLC3C";
+         document.write("<SCR" + "IPT language='JavaScript' type='text/javascript' "
+         + "SRC=//" + "srv2.wa.marketingsolutions.yahoo.com" + "/script/ScriptServlet" + "?aid=" + ysm_accountid
+         + "></SCR" + "IPT>");
+    // -->
+    </script>
+
+    <footer id="footer">
+      <small id="copyright">Copyright &copy; Hatena. All Rights Reserved.</small>
+    </footer>
+
+    <script src="/js/wwwridge/register.js?t=1376891866"></script>
+    <script src="/js/wwwridge/register_validate.js?t=1377502827"></script>
+    <script src='https://www.google.com/recaptcha/api.js'></script>
+  </body>
+</html>

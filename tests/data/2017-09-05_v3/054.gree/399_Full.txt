@@ -1,0 +1,73 @@
+POST https://pid.gree.net/ HTTP/1.1
+Host: pid.gree.net
+User-Agent: Mozilla/5.0 (Windows NT 6.1; WOW64; rv:52.0) Gecko/20100101 Firefox/52.0
+Accept: text/html,application/xhtml+xml,application/xml;q=0.9,*/*;q=0.8
+Accept-Language: ja,en-US;q=0.7,en;q=0.3
+Accept-Encoding: gzip, deflate, br
+Referer: https://pid.gree.net/?from_blankmail=complete
+Cookie: gcid=B=e35b9659ff20a4d28206f8748c53aa030a15595f&T=58e6e7c6&V=1&S=r66fecb2ag; _ga=GA1.2.220016531.1491527622
+Connection: close
+Upgrade-Insecure-Requests: 1
+Content-Type: application/x-www-form-urlencoded
+Content-Length: 967
+
+action=register_by_blankmail_complete&tz_offset=540&backto=&unique_key=7d6bb8bbebd7c4236f732b3cc65f1b82&open_birth_level=1&open_sex_level=1&reg_subtype=&optin_setting=1&action_name=register_by_blankmail_form&version=1.00&nick_name=%E3%83%8B%E3%83%83%E3%82%AF&user_password=testtest12345&birth%5Byear%5D=2000&birth%5Bmonth%5D=1&birth%5Bday%5D=1&sex=1&confirmation_token=eyJ0eXAiOiJKV1QiLCJhbGciOiJSUzI1NiJ9.eyJpc3MiOiJodHRwczovL3BpZC5ncmVlLm5ldC8iLCJzdWIiOiI3ZDZiYjhiYmViZDdjNDIzNmY3MzJiM2NjNjVmMWI4MiIsImlhdCI6MTQ5MTUyOTUwNSwiZXhwIjoxNDkxNTUxMTA1fQ.HcPwJC22-Bwe3uIOI1XfXUGJa387phTYFw5iYqhR0LQrBivGBb-H5xf3r7Nx79sFZBHoOQVDEuW9Yv1RHXqTnxct5ZmYE-E141NlGVrBB4CoDuVqdzvagBp8jv5e2cXNg2FeX8fjuWjrX3D8-R3wOd5FvyPXLdXNvoSMb8iNijIQc-089seVtEtCSiZ_L_lmPHUNEU1FSeUQjHLflcAzdVXACso_6FAQrvf06oE6Hmgjg2OlRfeqi0NIHXWvFfZmdcnBZ3iPzbi1Xod051UvkcJxZUQvh-9C3Nqcw_l9uxp0UXPYFOyc1m3ME5djmLcuRhzEXPDnlqgE0RNbxoKxdw&pid_csrf%5Btoken%5D=626468f7a1c2e019bc29c72870cc54e6726735da&terms_agreed=1
+HTTP/1.1 200 OK
+Date: Fri, 07 Apr 2017 01:46:45 GMT
+Server: Apache
+X-FRAME-OPTIONS: DENY
+Vary: Accept-Encoding
+Content-Length: 1710
+Content-Type: text/html
+Set-Cookie: gssid=deleted; expires=Thu, 01-Jan-1970 00:00:01 GMT; Max-Age=0; path=/; domain=gree.net; httponly
+Set-Cookie: gssid_hash=deleted; expires=Thu, 01-Jan-1970 00:00:01 GMT; Max-Age=0; path=/; domain=gree.net
+Set-Cookie: user_mail=deleted; expires=Thu, 01-Jan-1970 00:00:01 GMT; Max-Age=0; path=/; domain=gree.net
+Set-Cookie: user_password=deleted; expires=Thu, 01-Jan-1970 00:00:01 GMT; Max-Age=0; path=/; domain=gree.net
+Set-Cookie: login_status=deleted; expires=Thu, 01-Jan-1970 00:00:01 GMT; Max-Age=0; path=/; domain=gree.net
+Set-Cookie: AGRTRM=WaeePQ0%2BmxpVm4GlDklCdIGGAhOQHNq6; expires=Sat, 07-Apr-2018 01:46:45 GMT; Max-Age=31536000; path=/; domain=.gree.net
+Set-Cookie: gssid=7ba762888db1a0cdcd32587e6eda910defc3b5dd25e4ecb815547eeaa0b2a917c425a7920014915296050302623c251a2d; expires=Sun, 07-Apr-2019 01:46:45 GMT; Max-Age=63072000; path=/; domain=gree.net; httponly
+Set-Cookie: gssid_hash=1811bcd8309a3e6488f208b42809c880bfef6656257d2208232fd0b6187b441f; expires=Sun, 07-Apr-2019 01:46:45 GMT; Max-Age=63072000; path=/; domain=gree.net
+Set-Cookie: user_mail=deleted; expires=Thu, 01-Jan-1970 00:00:01 GMT; Max-Age=0; path=/; domain=gree.net
+Set-Cookie: user_password=deleted; expires=Thu, 01-Jan-1970 00:00:01 GMT; Max-Age=0; path=/; domain=gree.net
+Set-Cookie: login_status=deleted; expires=Thu, 01-Jan-1970 00:00:01 GMT; Max-Age=0; path=/; domain=gree.net
+Connection: close
+
+<!DOCTYPE html>
+<!--[if IE 8]><html lang="ja" class="ltIe10 ie8"><![endif]-->
+<!--[if IE 9]><html lang="ja" class="ltIe10 ie9"><![endif]-->
+<!--[if gt IE 9]><!--><html lang="ja"><!--<![endif]-->
+<head>
+  <meta charset="utf-8">
+  <meta name="apple-mobile-web-app-capable" content="no">
+  <meta name="format-detection" content="telephone=no">
+  <meta name="format-detection" content="address=no">
+  <title>GREE</title>
+  <link rel="shortcut ico" type="image/x-icon" href="">
+  <!--[if lte IE 8 ]>
+  <script src="https://aimg-pid.gree.net/js/html5shiv.js?2014080401"></script>
+  <script src="https://aimg-pid.gree.net/js/es5-shim.js?2014080401"></script>
+  <![endif]-->
+  <link rel="stylesheet" href="https://aimg-pid.gree.net/css/pc/mint/reg.css?2014080401" media="all">
+  <script src="https://aimg-pid.gree.net/js/jquery-1.9.1.min.js?2014080401"></script>
+  <script src="https://aimg-pid.gree.net/js/gree_id.min.js?2014020500" type="text/javascript"></script>
+  <script src="https://aimg-pid.gree.net/js/quill.js?2014080401"></script>
+
+<script type="text/javascript">
+function setTz() {
+    var d = new Date()
+    var n = d.getTimezoneOffset();
+    // javascript returns e.g. "-540" for "UTC+9"
+    document.forms.next.tz_offset.value = (-1) * n;
+}
+
+// IE fix
+if (!window.location.origin) {
+  window.location.origin = window.location.protocol + "//" + window.location.hostname;
+}
+</script>
+
+</head><script>var url = "https://pid.gree.net/?action=login_sso_set&token=8dcb08ffa420bbb6c799a7a2331c0c310a55123c&backto=https%3A%2F%2Fpid.gree.net%2F%3Faction%3Dregister_by_blankmail_next%26backto%3Dhttp%253A%252F%252Fjp.apps.gree.net%252F";var msg = "";
+  if (msg) {
+    alert(msg);
+  }
+location.href = url;</script>

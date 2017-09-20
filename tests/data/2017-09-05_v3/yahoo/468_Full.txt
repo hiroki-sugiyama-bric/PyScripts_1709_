@@ -1,0 +1,200 @@
+GET https://lh.login.yahoo.co.jp/ HTTP/1.1
+Host: lh.login.yahoo.co.jp
+User-Agent: Mozilla/5.0 (Windows NT 6.1; WOW64; rv:51.0) Gecko/20100101 Firefox/51.0
+Accept: text/html,application/xhtml+xml,application/xml;q=0.9,*/*;q=0.8
+Accept-Language: ja,en-US;q=0.7,en;q=0.3
+Referer: http://www.yahoo.co.jp/
+Cookie: B=a6lg541c6u1mt&b=3&s=pr; JV=l7dpcCo04h7pFq4Cz3Wt9d1f8OAPJk0jKNgovcHty0LcfDz4CR7g50todYC7ELsviPyXRvuPFt.xQBQXRlLR90ortD7_E1uIN.thQ_4vrS..ZkDavPZFgu62AuJzxosnwEbJ_jrdcPMzEOKQLG5YenKxYPuJzxhAk7ZEd6z0Dv19XRxslCaWuK46GXIFr0cjmX.n8sVaFtDp6JquSTHzUTKiXLo6V6nvlMT5eV6FMlsa4tmgNWHDuKOQTMicNX67a1UISbtXuJPhAlPlCLtrLM4zjvH9TW2fMxYp; sB=sbt=9vyvQDOZJvA0f1abJxeVLUKrqOSc3Jo-; _vwo_uuid_v2=86864CD76DD169C3625E9466E571F688|fad6cdb99bc2624122629a2ef8821c99; YJTC=g.xxVMSMy4lv3HunYXxlnTv4..BbeS0-; Y=v=1&n=7kdl1uqpfvnlu&l=j4ij4hzzzzrs/o&p=m2ivvjp012000000&r=11k&lg=ja-JP&intl=jp; T=z=tyopYBta3yYBGSRe6SPL.5q&sk=DAAkFZoC3zIjTZ&ks=EAA06kgbpEw6lPPFhafyuGWdg--~E&d=Y3MBAXRpcAFhX3RBVUQBYQFRQUUBZwEyUlhDREhJQ1ZMVE41WFZXSlRJS0FDVFVNUQFzYwFhY2N0AXp6AXR5b3BZQkEySg--; SSL=v=1&s=vXRLS0tJsQSeoHUpTXCkPb9_2ncy13mgGX5i0.PMe38.21c9bfcBbMPckN2hUjqg7IfJs7X_0XMmY_PLHfy8KA--&kv=0; F=a=Lqsf7zEMvSBY1J5E2UJQuGGUnoCx645VzvvYQaxkxF8ySm4ZyERL&b=9uLg
+Connection: close
+Upgrade-Insecure-Requests: 1
+
+
+HTTP/1.1 200 OK
+Date: Fri, 17 Feb 2017 05:41:12 GMT
+P3P: policyref="http://privacy.yahoo.co.jp/w3c/p3p_jp.xml", CP="CAO DSP COR CUR ADM DEV TAI PSA PSD IVAi IVDi CONi TELo OTPi OUR DELi SAMi OTRi UNRi PUBi IND PHY ONL UNI PUR FIN COM NAV INT DEM CNT STA POL HEA PRE GOV"
+X-Content-Type-Options: nosniff
+X-XSS-Protection: 1; mode=block
+X-Frame-Options: SAMEORIGIN
+Vary: Accept-Encoding
+X-XRDS-Location: https://open.login.yahooapis.jp/openid20/www.yahoo.co.jp/xrds
+Content-Length: 8696
+Content-Type: text/html; charset=UTF-8
+Age: 0
+Connection: close
+Via: http/1.1 prod01.lh.login.kks.ynwp.yahoo.co.jp (ApacheTrafficServer)
+Server: ATS
+
+<!DOCTYPE HTML PUBLIC "-//W3C//DTD HTML 4.01 Transitional//EN" "http://www.w3.org/TR/html4/loose.dtd">
+<html lang="ja">
+<head>
+<meta http-equiv="Content-Type" content="text/html; charset=utf-8">
+<meta http-equiv="Content-Style-Type" content="text/css">
+<meta http-equiv="Content-Script-Type" content="text/javascript">
+<title>ログイン履歴 - Yahoo! JAPAN</title>
+<meta http-equiv="Pragma" content="no-cache">
+<meta http-equiv="Expires" content="0">
+<meta name="format-detection" content="telephone=no">
+<link rel="stylesheet" href="https://s.yimg.jp/images/css/yj2.css" type="text/css" media="all">
+<link rel="stylesheet" href="https://s.yimg.jp/images/css/login/common/1.0.1/common-min.css" type="text/css" media="all">
+<link href="https://s.yimg.jp/images/login/pc/css/history/1.4.4/history-min.css" rel="stylesheet" type="text/css" media="all">
+<link rel="stylesheet" href="https://s.yimg.jp/images/css/printexec.css" type="text/css" media="print">
+<!--[if lt IE 6]>
+<link href="https://s.yimg.jp/images/css/login/common/1.0.1/import_ie5x-min.css" rel="stylesheet" type="text/css" media="all">
+<![endif]-->
+</head>
+
+<body class="yj100per-1 yui-skin-sam">
+
+<div id="wrapper">
+<div id="header">
+  <span class="yj-guid"><a name="pagetop" id="pagetop"></a><img src="https://s.yimg.jp/images/clear.gif" width="1" height="1" alt="このページの先頭です"></span>
+  <span class="yj-skip"><a href="#contents-start"><img src="https://s.yimg.jp/images/clear.gif" alt="このページの本文へ" width="1" height="1" ></a></span>
+
+
+  <!--- MH -->
+  <div id="msthd">
+    <div class="logo">
+      <a href="http://rdsig.yahoo.co.jp/loghist/pc/001/RV=1/RU=aHR0cDovL3d3dy55YWhvby5jby5qcC8-"><img src="https://s.yimg.jp/c/logo/f/2.0/yj_r_34_2x.png" alt="Yahoo! JAPAN" width="136" height="34" id="ygmhlog"></a>
+    </div>
+    <div class="msthdtxt">
+      <p>ようこそ、<a class="b" href="http://rdsig.yahoo.co.jp/loghist/acct/pc/RV=1/RU=aHR0cHM6Ly9hY2NvdW50LmVkaXQueWFob28uY28uanAvZXZhbF9wcm9maWxlPy5zcmM9Ji5kb25lPWh0dHBzJTNBJTJGJTJGbGgubG9naW4ueWFob28uY28uanAlM0Yuc3JjJTNEJTI2LmRvbmUlM0RodHRwJTI1M0ElMjUyRiUyNTJGd3d3LnlhaG9vLmNvLmpwJTI1MkY-">tester999912</a>さん</p>
+    </div>
+    <div class="msthdlink">
+      <ul>
+        <li class="help"><a href="http://www.yahoo-help.jp/app/answers/detail/p/544/a_id/42002" target="new">ヘルプ</a></li>
+      </ul>
+    </div>
+  </div>
+  <!--- /MH -->
+
+  <div id="emg"><!-- SpaceID=2078809355 loc=Z noad-spid -->
+<script language=javascript>
+if(window.yzq_d==null)window.yzq_d=new Object();
+window.yzq_d['IknSArdPNg0-']='&U=1251m1urs%2fN%3dIknSArdPNg0-%2fC%3d-2%2fD%3dZ%2fB%3d-2';
+</script><noscript><div style="position:absolute;"><img width=1 height=1 alt="" src="https://b5.yahoo.co.jp/b?P=zVOWYDEwMC6jVgUgWG8G3QtPMjE4LgAAAABckNEH&T=153urvhll%2fX%3d1487310072%2fE%3d2078809355%2fR%3djp_common%2fK%3d5%2fV%3d2.1%2fW%3dH%2fY%3djp%2fF%3d98473945%2fH%3dc2VjdXJlPXRydWUgYWRjdmVyPTYuOC4x%2fQ%3d-1%2fS%3d1%2fJ%3d58A68CF8&U=1251m1urs%2fN%3dIknSArdPNg0-%2fC%3d-2%2fD%3dZ%2fB%3d-2"></div></noscript><!-- SpaceID=2078809355 loc=EMG3 noad-spid -->
+<!-- SpaceID=2078809355 loc=EMG2 noad-spid -->
+<!-- SpaceID=2078809355 loc=EMG noad -->
+</div>
+</div><!--/#header-->
+
+<hr class="separation">
+
+<div id="contents">
+<div id="contents-header">
+</div><!--/#contents-header-->
+
+<div id="contents-body">
+
+<span class="yj-guid"><a name="contents-start" id="contents-start"></a><img src="https://s.yimg.jp/images/clear.gif" alt="ここから本文です" width="1" height="1"></span>
+
+<div id="main-wrapper">
+<div id="main">
+
+<h1 class="title">ログイン履歴</h1>
+
+
+<div class="info yjS clearfix">
+  <div class="text">
+    <p>ログインに成功した過去30件分の履歴を確認できます。（<a href="http://www.yahoo-help.jp/app/answers/detail/p/544/a_id/42002">ログイン履歴とは</a>）</p>
+    <p>メールソフトからログインした履歴は<a href="http://rdsig.yahoo.co.jp/loghist/mailhist/pc/RV=1/RU=aHR0cHM6Ly9saG1haWwueWFob28uY28uanAvPy5kb25lPWh0dHBzJTNBJTJGJTJGbGgubG9naW4ueWFob28uY28uanAlMkY-">メールソフト ログイン履歴</a>から確認できます。</p>
+    <ul>
+      <li><a href="http://www.yahoo-help.jp/app/answers/detail/p/544/a_id/42003">不審なログイン履歴を見つけたら</a></li>
+    </ul>
+  </div>
+  <div class="security">
+    <dl>
+      <dt>セキュリティー設定</dt>
+      <dd>
+        <table border="0" cellpadding="0" cellspacing="0">
+          <tr>
+            <td><a href="http://rdsig.yahoo.co.jp/loghist/otp/RV=1/RU=aHR0cHM6Ly9wcm90ZWN0LmxvZ2luLnlhaG9vLmNvLmpwL290cC9zdGFydD8uZG9uZT0kVEhJU19TQ1JJUFQ-">ワンタイムパスワード</a></td>
+                          <td>：<span class="notset">未設定</span></td>
+                      </tr>
+          <tr>
+            <td><a href="http://rdsig.yahoo.co.jp/loghist/pc/RV=1/RU=aHR0cHM6Ly9wcm90ZWN0LmxvZ2luLnlhaG9vLmNvLmpwL3NldF9zZWNyZXRfaWQ_LmRvbmU9JFRISVNfU0NSSVBU">シークレットID</a></td>
+                          <td>：<span class="notset">未設定</span></td>
+                      </tr>
+        </table>
+      </dd>
+    </dl>
+  </div>
+  <p class="tableNote">2月17日（金<span class="offLeft">曜日</span>）14時41分12秒 現在&nbsp;&nbsp;|&nbsp;&nbsp;このパソコンの<acronym title="Internet Protocol">IP</acronym>アドレス：<span class="currentIP">218.223.2.212</span></p>
+</div>
+
+<table id="recordTable" class="yjS expanded" summary="Yahoo! JAPANにログインした最新のログイン履歴です。">
+<caption><span class="offLeft">ログイン履歴一覧</span></caption>
+<thead>
+<tr class="header" scope="col">
+<th class="date" scope="col">日時</th>
+<th class="device" scope="col">端末情報</th>
+<th class="service" scope="col">サービス</th>
+<th class="ipAddress" scope="col"><acronym title="Internet Protocol">IP</acronym>アドレス</th>
+<th class="country" scope="col">国、地域</th>
+<th class="dns" scope="col">アクセス元</th>
+<th class="authType" scope="col">認証形式</th>
+<th class="yid" scope="col">入力ID</th>
+</tr>
+</thead>
+
+<tbody>
+
+
+</tbody>
+</table>
+<strong>履歴はありません</strong>
+<div class="btnArea">
+<a href="http://www.yahoo.co.jp/" class="yjstdIdpfBtn yjstdIdpfSilver"><span><span><strong>ご利用中のサービスに戻る</strong></span></span></a>
+</div><!--/.btnArea-->
+
+<!-- changeDevice for smartphone,tablet -->
+
+</div><!--/#main-->
+</div><!--/#main-wrapper-->
+
+</div><!--/#contents-body-->
+
+<div id="contents-footer">
+<span class="yj-guid"><img src="https://s.yimg.jp/images/clear.gif" width="1" height="1" alt="本文はここまでです"></span>
+
+<span class="yj-skip">
+
+<a href="#pagetop"><img src="https://s.yimg.jp/images/clear.gif" alt="このページの先頭へ" width="1" height="1"></a></span>
+</div><!--/#contents-footer-->
+</div><!--/#contents-->
+
+<hr class="separation">
+
+<div id="footer">
+
+<address><a href="http://docs.yahoo.co.jp/docs/info/terms/chapter1.html#cf2nd" target="new">プライバシーポリシー</a> - <a href="http://docs.yahoo.co.jp/docs/info/terms/" target="new">利用規約</a> - <a href="http://www.yahoo-help.jp/app/home/p/544/" target="new">ご質問・お問い合わせ</a><br>
+
+Copyright (C)
+ 2017 Yahoo Japan Corporation. All Rights Reserved.
+
+</address>
+</div><!--/#footer-->
+</div><!--/#wrapper-->
+
+<script type="text/javascript" src="https://s.yimg.jp/images/account/sp/js/lib/common/1.0.6/common-min.js"></script>
+<script type="text/javascript" src="https://s.yimg.jp/images/reg/scripts/common/lib/wordbreak/2.0.0/wordbreak-min.js"></script>
+<script type="text/javascript">
+(function(){
+YAHOO.JP.lib.WordBreak.init();
+})();
+var Y = YAHOO.JP.idpf;
+Y.domReady.add(function(){
+Y.setYjdCookie("chgCookie", "/yjdset/smartphone");
+});
+</script>
+
+</body>
+</html>
+
+
+<!-- prod01.lh.login.kks.ynwp.yahoo.co.jp Fri Feb 17 14:41:12 JST 2017 -->
+<script language=javascript>
+if(window.yzq_p==null)document.write("<scr"+"ipt language=javascript src=https://s.yimg.jp/bdv/yahoo/javascript/csc/20060824/lib2obf_b5.js></scr"+"ipt>");
+</script><script language=javascript>
+if(window.yzq_p)yzq_p('P=zVOWYDEwMC6jVgUgWG8G3QtPMjE4LgAAAABckNEH&T=1505ovs8b%2fX%3d1487310072%2fE%3d2078809355%2fR%3djp_common%2fK%3d5%2fV%3d1.1%2fW%3dJ%2fY%3djp%2fF%3d1918114169%2fH%3dc2VjdXJlPXRydWUgYWRjdmVyPTYuOC4x%2fS%3d1%2fJ%3d58A68CF8');
+if(window.yzq_s)yzq_s();
+</script><noscript><div style="position:absolute;"><img width=1 height=1 alt="" src="https://b5.yahoo.co.jp/b?P=zVOWYDEwMC6jVgUgWG8G3QtPMjE4LgAAAABckNEH&T=154o81247%2fX%3d1487310072%2fE%3d2078809355%2fR%3djp_common%2fK%3d5%2fV%3d3.1%2fW%3dJ%2fY%3djp%2fF%3d502820064%2fH%3dc2VjdXJlPXRydWUgYWRjdmVyPTYuOC4x%2fQ%3d-1%2fS%3d1%2fJ%3d58A68CF8"></div></noscript>

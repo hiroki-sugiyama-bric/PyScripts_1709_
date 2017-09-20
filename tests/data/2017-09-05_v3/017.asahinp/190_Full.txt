@@ -1,0 +1,235 @@
+POST https://digital.asahi.com/user/free_member/check.html HTTP/1.1
+Host: digital.asahi.com
+User-Agent: Mozilla/5.0 (Windows NT 6.1; WOW64; rv:52.0) Gecko/20100101 Firefox/52.0
+Accept: text/html,application/xhtml+xml,application/xml;q=0.9,*/*;q=0.8
+Accept-Language: ja,en-US;q=0.7,en;q=0.3
+Accept-Encoding: gzip, deflate, br
+Referer: https://digital.asahi.com/user/free_member/personal.html
+Cookie: AMCV_D16360625419F1800A4C98A2%40AdobeOrg=-1330315163%7CMCIDTS%7C17261%7CMCMID%7C08719537627179009591567834143669766850%7CMCAAMLH-1491886854%7C11%7CMCAAMB-1491886854%7CNRX38WO0n5BH8Th-nqAG_A%7CMCOPTOUT-1491289254s%7CNONE%7CMCAID%7C2C50A9928548FCEC-60000103E0000B0A; AMCVS_D16360625419F1800A4C98A2%40AdobeOrg=1; _ga=GA1.2.322565690.1491282055; digital_fontsize=100; s_nr=1491282428607-New; sc_clk_btn=no%20value; sc_prv_mp=nm; sc_prv_crs=nm; s_pnum=https%3A%2F%2Fdigital.asahi.com%2Fuser%2Ffree_member%2Fpersonal.html%26s_vn%3D5%26non_tgt%3D1; s_lv=1491282055048; s_lv_s=First%20Visit; sc_ppv_pagename=%2Fuser%2Ffree_member%2Fpersonal.html%5Bdigital.asahi.com%5D; s_cc=true; AONEU=true; tuuid=07ea4fa4-6050-4088-a10b-adf84606efa6; sync_af=1; ASAHISEG=AS0%3D207016/AS1%3D61468/AS2%3D61486/AS3%3D61557/AS4%3D61561/AS5%3D61563/AS6%3D61577/AS7%3D202011/AS8%3D46210/AS9%3D46236/AS10%3D46742/AS11%3D46923/AS12%3D46925/AS13%3D46926/AS14%3D46945/AS15%3D46947/AS16%3D46948/AS17%3D46955/AS18%3D52802/AS19%3D52805/AS20%3D52808/; sc_crs=nm; sc_m_attr=s_uk%3Ab_uk; s_ppvl=%2Finfo%2Fprice%2Findex.html%255Bdigital.asahi.com%255D%2C31%2C31%2C1053%2C1178%2C549%2C1536%2C960%2C1.25%2CP; s_ppv=%2Fuser%2Ffree_member%2Fpersonal.html%255Bdigital.asahi.com%255D%2C97%2C97%2C1759%2C1178%2C549%2C1536%2C960%2C1.25%2CP; s_sq=asahicomall%3D%2526pid%253D%25252Fuser%25252Ffree_member%25252Fpersonal.html%25255Bdigital.asahi.com%25255D%2526pidt%253D1%2526oid%253D%2525E7%2525A2%2525BA%2525E8%2525AA%25258D%2525E7%252594%2525BB%2525E9%25259D%2525A2%2525E3%252581%2525B8%2526oidt%253D3%2526ot%253DSUBMIT; ch_ac=biPdL2z0S1A3otBrfNmSgg%3D%3D
+Connection: keep-alive
+Upgrade-Insecure-Requests: 1
+Content-Type: application/x-www-form-urlencoded
+Content-Length: 641
+
+site_connect_id=&dsp_item%5B1%5D=login_id&dsp_item%5B2%5D=password&rp=8d6bffb2a51346a0ee9ac932312ba0d1&jumpUrl=m2bJXAa8ZQk%3D&attest_mail=f9OExm%2FesuPFDWpLbyPKBQ%3D%3D&kiji_flg=&login_id=crawlingtest1000%40gmail.com&login_id_again=crawlingtest1000%40gmail.com&password1=Password001&password2=Password001&kanji_name1=%E9%AB%98%E6%A2%A8&kanji_name2=%E6%BA%96&kana_name1=%E3%81%9F%E3%81%8B%E3%81%AA%E3%81%97&kana_name2=%E3%81%98%E3%82%85%E3%82%93&birth_year=1980&birth_month=1&birth_day=1&sex=M&pref_id=14&job_code=2&newspapers%5B%5D=NP0000&regulation=%E5%90%8C%E6%84%8F%E3%81%99%E3%82%8B&btswitch=%E7%A2%BA%E8%AA%8D%E7%94%BB%E9%9D%A2%E3%81%B8
+HTTP/1.1 200 OK
+Date: Tue, 04 Apr 2017 05:07:09 GMT
+Server: Apache
+pragma: no-cache
+cache-control: no-cache
+expires: 0
+Set-Cookie: ch_ac=D87JeqwZ5eQkHByDDElL%2BQ%3D%3D; expires=Tue, 04-Apr-2017 06:07:09 GMT; path=/; domain=digital.asahi.com; secure
+Vary: Accept-Encoding
+Content-Length: 7697
+Keep-Alive: timeout=5, max=100
+Connection: Keep-Alive
+Content-Type: text/html
+
+<?xml version="1.0" encoding="utf-8"?>
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+<html xmlns="http://www.w3.org/1999/xhtml" xml:lang="ja" lang="ja">
+<head>
+<!-- DTM上 -->
+<script src="//assets.adobedtm.com/d7e679c95b1f3fceafd1fcdf47a9b3bc7a11d039/satelliteLib-b5f070ddaa8837c4b9c5d3e0509562a889b01b07.js"></script>
+<!-- /DTM上 -->
+<meta charset="utf-8">
+<meta name="viewport" content="width=device-width, initial-scale=1, maximum-scale=2">
+<meta name="format-detection" content="telephone=no">
+<link href="/favicon.ico" type="image/x-icon" rel="shortcut icon">
+<link href="/apple-touch-icon.png" rel="apple-touch-icon">
+<title>必要事項の登録 - 朝日新聞デジタル</title>
+
+<script type="text/javascript" src="./js/jquery-1.8.3.min.utf8.js"></script>
+<script type="text/javascript" src="./js/freeInput.js"></script>
+</head>
+
+<body>
+<!-- header -->
+<div id="header" class="clearfix">
+<p class="logo"><a href="http://www.asahi.com/"><img src="./images/logo.gif" alt="朝日新聞　デジタル" /></a></p>
+
+</div>
+<!-- /header -->
+
+
+
+<!-- wrapper -->
+<div id="wrap" class="clearfix">
+
+<!-- item -->
+<div class="section">
+<div id="item">
+<p>無料会員登録</p>
+</div>
+</div>
+<!-- item -->
+
+<h1 class="certificate_title">必要事項の登録 </h1>
+
+
+<div class="section">
+<p>ご登録いただきました情報をご確認ください。<br>正しければ「送信する」を押してください。</p>
+
+</div>
+	
+<form action="requestID_done.html" method="post" name="check" id="check" onSubmit="this.onsubmit=function(){return false}">
+
+<input type="hidden" name="rp" value="89dbddec7ae78c7af7cff5915f04cd9e" />
+<input type="hidden" name="jumpUrl" value="m2bJXAa8ZQk=" />
+<input type="hidden" name="ticket_requestID_done" value="8c9781d923e887fc3b0008cfee834dfa">
+<input type="hidden" name="attest_mail" value="f9OExm/esuPFDWpLbyPKBQ==" />
+<input type="hidden" name="login_id" id="login_id" value="crawlingtest1000@gmail.com" />
+<input type="hidden" name="login_id_again" id="login_id_again" value="crawlingtest1000@gmail.com" />
+<input type="hidden" name="site_connect_id" id="site_connect_id" value="" />
+<input type="hidden" name="kanji_name1" value="高梨" />
+<input type="hidden" name="kanji_name2" value="準" />
+<input type="hidden" name="kana_name1" 	value="たかなし" />
+<input type="hidden" name="kana_name2" 	value="じゅん" />
+<input type="hidden" name="password1"   value="Password001" />
+<input type="hidden" name="sex" 		value="M" />
+<input type="hidden" name="birth_year" 	value="1980" />
+<input type="hidden" name="birth_month" value="1" />
+<input type="hidden" name="birth_day" 	value="1" />
+<input type="hidden" name="pref_id" 	value="14" />
+<input type="hidden" name="job_code" 	value="JC0002" />
+<input type="hidden" name="kiji_flg" 	value="" />
+<input type="hidden" name="newspapers[0]" value="NP0000">
+<input type="hidden" name="dsp_item[1]" value="login_id">
+<input type="hidden" name="dsp_item[2]" value="password">
+
+<div class="section">
+<div class="common_form">
+<dl>
+<dt>ログインID（メールアドレス）</dt>
+<dd>crawlingtest1000@gmail.com</dd>
+</dl>
+
+<dl>
+<dt>パスワード</dt>
+<dd>セキュリティー保護のため、表示していません。</dd>
+</dl>
+
+<dl>
+<dt>氏名</dt>
+<dd>高梨準</dd>
+</dl>
+
+<dl>
+<dt>氏名ふりがな</dt>
+<dd>たかなしじゅん</dd>
+</dl>
+
+<dl>
+<dt>生年月日</dt>
+<dd>西暦1980年1月1日</dd>
+</dl>
+
+<dl>
+<dt>性別</dt>
+<dd>男性</dd>
+</dl>
+
+<dl>
+<dt>住所（都道府県）</dt>
+<dd>神奈川県</dd>
+</dl>
+
+<dl>
+<dt>職業</dt>
+<dd>自営・自由業</dd>
+</dl>
+
+<dl>
+<dt>新聞の購読状況（宅配）</dt>
+<dd>
+<ul class="LstFL" style="margin-left:0">
+<li>購読していない</li>
+</ul>
+</dd>
+</dl>
+
+</div>
+</div>
+
+<!--通常 -->
+
+<div class="section">
+<p><span class="bold">「送信する」ボタン</span>を押すとログインIDとしてご登録いただいたメールアドレスに、ご本人確認のメールをお送りします。<br />
+本文中に書かれたURLをクリックして、パスワード入力にお進みください。</p>
+<div class="buttonArea">
+<p class="nm parallel"><input type="button" value="修正する" class="btn_gr" name="btswitch" onClick="this.form.action='personal.html';this.form.submit();"></p>
+<p class="parallel"><input type="submit" value="送信する" class="btn_gr" name="btswitch"></p>
+
+</div>
+</div>
+<!--  通常 -->
+</form>
+
+<div class="section mb20">
+<ul class="LnkDotRed">
+<li>メールが送信されるまでに時間がかかる場合がございます。</li>
+<li>ご利用の環境により、迷惑メールとして処理される可能性があります。ご注意ください。</li>
+<li>ドメイン指定受信などの受信拒否設定をされている場合、メールを受信できないことがあります。<br />
+設定を解除いただくか、下記アドレスからのメールを受信できるよう設定したうえで手続きを進めてください。<br />
+<span class="emAddress">@asahi.com</span></li>
+</ul>
+</div>
+
+<div class="section">
+
+
+<ul class="LnkDot">
+<li>CookieとJava Scriptの設定は有効にしてください。</li>
+<li>当サイトはSSLに対応しています。すべての個人情報は暗号化して送信されます。</li>
+</ul>
+
+</div>
+
+<!-- ====フリーダイヤル==== -->
+<div class="contact">
+<h3>お問い合わせ専用ダイヤル<span class="notice">（無料）</span></h3>
+<p><a href="tel:0120383636">0120-383-636</a><span class="notice">（携帯電話からもご利用になれます）</span></p>
+<p class="nm">受付時間 9:00～21:00(月～金) 9:00～18:00(土)　日曜日・祝日はお休みさせていただきます。</p>
+</div>
+<!-- ====/フリーダイヤル==== -->
+
+</div>
+<!-- /wrapper -->
+
+<!-- ====フッター==== -->
+<!-- footer -->
+<div class="footer">
+<div class="clearfix"><p id="btn_top"><a href="#header">ページトップへ戻る</a></p></div>
+<hr>
+
+<div class="FooterInner">
+
+<p class="Notice">朝日新聞デジタルに掲載の記事・写真の無断転載を禁じます。すべての内容は日本の著作権法並びに国際条約により保護されています。</p>
+
+<ul>
+<li class="Fst"><a href="http://www.asahi.com/policy/" rel="nofollow">サイトポリシー</a></li>
+<li><a href="http://www.asahi.com/kojinjoho/index.html" rel="nofollow">個人情報</a></li>
+<li><a href="http://www.asahi.com/policy/copyright.html" rel="nofollow">著作権</a></li>
+<li><a href="http://www.asahi.com/policy/link.html" rel="nofollow">リンク</a></li>
+<li><a href="http://www.asahi.com/shimbun/" rel="nofollow">会社案内</a></li>
+<li><a href="http://adv.asahi.com/" target="_blank" rel="nofollow">新聞広告ガイド</a></li>
+<li><a href="http://www.asahi.com/advertising/guide.html" rel="nofollow">ｗｅｂ広告ガイド</a></li>
+<li><a href="http://www.asahi.com/information/haishin/index.html" rel="nofollow">法人向け配信</a></li>
+<li><a href="http://www.asahi.com/sitemap/" rel="nofollow">サイトマップ</a></li>
+<li><a href="http://www.asahi.com/reference/" rel="nofollow">お問い合わせ・ヘルプ</a></li>
+</ul>
+
+
+
+</div>
+<p>Copyright (c) The Asahi Shimbun Company. All rights reserved. No reproduction or republication without written permission.</p>
+</div>
+<!-- /footer -->
+
+<!-- ====/フッター==== -->
+
+<!-- DTM下 -->
+<script type="text/javascript">_satellite.pageBottom();</script>
+<!-- /DTM下 -->
+</body>
+</html>

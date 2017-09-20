@@ -1,0 +1,124 @@
+GET https://www.biccamera.com/bc/pr.jsp?k=881DCEF6BCAEE681 HTTP/1.1
+Host: www.biccamera.com
+User-Agent: Mozilla/5.0 (Windows NT 6.1; rv:52.0) Gecko/20100101 Firefox/52.0
+Accept: text/html,application/xhtml+xml,application/xml;q=0.9,*/*;q=0.8
+Accept-Language: ja,en-US;q=0.7,en;q=0.3
+Accept-Encoding: gzip, deflate, br
+Cookie: _kyp={'.biccamera.com':{'uid':'146c94bf-bce7-e8c2-f422-81c433aa1449'%2C'_ex':1493898075969%2C'i':{'lt':1491306572231%2C'_ex':1493898572235%2C'sid':'869467239f71'%2C'sc':1%2C'lc':51}}}; JSESSIONID=27BDD6CAC4A559C8F498028F94ADF3CB; sn=01; _ga=GA1.2.1383842804.1491306078; unyttsontDD=1; gtm_FirstAccessTime=1491306079006; V1_COMM_013=f414cd06051c020724b089c023666153d570534dfa2b629a975b667f05a93ba87259beed605f631a21e781eb169222425ec3ce15fff9ffeb88dad92be61abcc2; V1_MEM_ID=C3F4272E0EAF93CAD769FB42936ABE5F6FF2628FC88D33FB6572F7C49292318F; LOGIN_FLG=1; V1_COMM_005=8EBE9604D5C7F500169F9AFCE5A9178ED8D45267239349F0; V1_ZIP_CD=1700013; JSESSIONID=27BDD6CAC4A559C8F498028F94ADF3CB; V1_PSH=8EBE9604D5C7F500940B6E939D11D37370A4F3B90600819F; _td=3c9c1247-33fd-4fe1-a720-93904d0ad8ab; pt_s_45341cfb=vt=1491306588263&cad=; pt_45341cfb=uid=x6Y3Ms0sN0B6oufvilNk2w&nid=&vid=U4tbhztLUMYJ440BSk9ALw&vn=2&pvn=8&sact=1491306588263&to_flag=0&pl=VPang0f07AgteWfdHHN-WA*pt*1491306588263
+Connection: keep-alive
+Upgrade-Insecure-Requests: 1
+
+
+HTTP/1.1 500 Internal Server Error
+X-Frame-Options: SAMEORIGIN
+Content-Type: text/html;charset=Windows-31J
+Pragma: no-cache
+Cache-Control: no-cache, no-store
+Date: Tue, 04 Apr 2017 11:52:35 GMT
+Transfer-Encoding: chunked
+Connection: keep-alive
+Connection: Transfer-Encoding
+
+000004AA
+<!DOCTYPE HTML PUBLIC "-//W3C//DTD HTML 4.01 Transitional//EN" "http://www.w3.org/TR/html4/loose.dtd">
+<html lang="ja">
+<head>
+<base href="/bc/error/CSfError.jsp">
+<meta http-equiv="Content-Type" content="text/html; charset=shift_jis">
+<meta http-equiv="content-style-type" content="text/css">
+<meta http-equiv="content-script-type" content="text/javascript">
+<meta name="keyword" content="">
+<meta name="Description" content="">
+<title>処理実行時に異常がありました&nbsp;|&nbsp;ビックカメラ</title>
+<link rel="stylesheet" type="text/css" media="all" href="../css/main/import_form.css">
+<link rel="stylesheet" type="text/css" media="print" href="../css/main/print.css">
+<link rel="stylesheet" type="text/css" media="all" href="../css/04_03_01.css">
+<script type="text/javascript" src="../js/jquery.js" charset="shift_jis"></script>
+<script type="text/javascript" src="../js/common.js" charset="shift_jis"></script>
+<link rel="shortcut icon" href="../images/parts/favicon.ico" type="image/vnd.microsoft.icon">
+<link rel="icon" href="../images/parts/favicon.ico" type="image/vnd.microsoft.icon">
+</head>
+
+<body>
+<!-- Start Google Tag Manager -->
+       <noscript><iframe src="
+00000B3C
+//www.googletagmanager.com/ns.html?id=GTM-TXP4QL>"
+           height="0" width="0" style="display:none;visibility:hidden"></iframe></noscript>
+       <script>(function(w,d,s,l,i){w[l]=w[l]||[];w[l].push({'gtm.start':new Date().getTime(),event:'gtm.js'});
+           var f=d.getElementsByTagName(s)[0],j=d.createElement(s),dl=l!='dataLayer'?'&l='+l:'';
+           j.async=true;j.src='//www.googletagmanager.com/gtm.js?id='+i+dl;f.parentNode.insertBefore(j,f);
+           })(window,document,'script','dataLayer','GTM-TXP4QL');</script>
+       <!-- END Google Tag Manager -->
+    <nav class="menu_bar_sp"></nav>
+<nav class="menu_bar_sp_liquor"></nav>
+<!-- ヘッダー START -->
+<div id="header">
+  <a class="logo" href="http://www.biccamera.com/bc/">
+    <img src="../images/parts/logo.gif" alt="ネットショップ　ビックカメラ.com｜全品、全国送料無料！（※一部除く）"></a>
+</div>
+<!-- ヘッダー END -->
+
+<div id="main" class="clearfix">
+  <!-- メインカラム START -->
+  <div id="mainColumn">
+    <h2>処理実行時に異常がありました</h2>
+    <!-- メインコンテンツ START -->
+    <div id="mainContent">
+      <!-- エラーメッセージ START -->
+      <div class="errorBox">
+        <p class="errorTxt">お手数ですが再度トップページより操作していただくか、ビックカメラ.com　サポートセンター（電話番号：0570-06-7000　営業時間：9:30～22:00）にご連絡ください。</p>
+        <dl class="causeTxt">
+          <dt>処理実行時に異常がありました。次のような操作が原因となった可能性があります。</dt>
+          <dd>有効なアクセスキーではありません。</dd>
+          </dl>
+        <ul class="btn clearfix">
+<li class="topBack"><a href="http://www.biccamera.com/bc/">トップページへもどる</a></li>
+    <li class="pageBack"><a href="javascript:history.back();">前の画面に戻る</a></li>
+    </ul>
+      </div>
+      <!-- エラーメッセージ END -->
+    </div>
+    <!-- メインコンテンツ END -->
+  </div>
+  <!-- メインカラム END -->
+</div>
+<!-- フッター START -->
+<div id="footer">
+  <!-- コピーライト START -->
+  <div id="copyrightArea">
+        <ul class="clearfix">
+    <!--ディレクトリ指定-->
+        <!--ファイル名指定-->
+        <li class="privacy"><p class="img"><a href="https://privacymark.jp/" target="_blank"><img src="/bc/images/parts/img_privacy.gif" alt=""></a></p><!--ファイル名指定-->
+        <style type="text/css">
+/*
+#COMMON-HEADER .header_inner .left_cell .logo_main {
+    margin-top: 0px;
+}
+*/
+/*
+.header_inner #KEY-SEARCH-BOX-CELL #KEY-SEARCH-BOX .select_category  { font-size:80%; }
+*/
+</style>
+<p class="txt">株式会社ビックカメラは「プライバシーマーク」を取得しました。当社では個人情報保護方針を定め確実な履行に努めて参ります。<br><a href="/bc/c/info/corporate/privacypolicy.jsp" target="_blank">個人情報保護方針はこちら</a></p></li><!--ファイル名指定-->
+        <li class="eco"><p class="img"><a href="http://www.biccamera.co.jp/shopguide/
+0000005A
+report/eco_first/index.html" target="_blank"><img src="/bc/images/parts/img_eco.gif" alt="
+00000337
+"></a></p>
+        <p class="txt">環境先進企業として『エコ・ファースト』第1号に選ばれました。</p></li><!--ファイル名指定-->
+        <li class="safety"><p class="img"><a href="http://www.biccamera.co.jp/shopguide/report/product_safety/index.html" target="_blank"><img src="/bc/images/parts/img_safety.gif" alt=""></a></p>
+        <p class="txt">製品安全対策優良企業表彰、平成19年度「金賞」平成23年度「商務流通審議官賞」受賞</p></li></ul>
+        <p class="copyright">COPYRIGHT(C)2003-2017 BICCAMERA.COM. ALL RIGHTS RESERVED.</p>
+      </div>
+    <!-- コピーライト END -->
+  </div>
+<!-- フッター END -->
+<script type="text/javascript" src="../js/clickctrl.js"></script>
+<script type="text/javascript" src="../js/formutils.js"></script>
+<script type="text/javascript" src="../js/hidden.js"></script>
+</body>
+</html>
+00000000
+

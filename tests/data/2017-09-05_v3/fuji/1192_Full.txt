@@ -1,0 +1,378 @@
+GET http://www.fuji.co.jp/ir/irnews.php HTTP/1.1
+Host: www.fuji.co.jp
+Upgrade-Insecure-Requests: 1
+User-Agent: Mozilla/5.0 (Windows NT 10.0; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/55.0.2883.87 Safari/537.36
+Accept: text/html,application/xhtml+xml,application/xml;q=0.9,image/webp,*/*;q=0.8
+Referer: http://www.fuji.co.jp/ir/
+Accept-Encoding: gzip, deflate, sdch
+Accept-Language: ja,en-US;q=0.8,en;q=0.6
+Connection: close
+
+
+HTTP/1.1 200 OK
+Server: Apache
+X-Powered-By: PHP/5.3.3
+Content-Type: text/html
+Vary: Accept-Encoding
+Date: Wed, 01 Feb 2017 02:27:07 GMT
+Connection: close
+Transfer-Encoding: chunked
+
+aea
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+<html xmlns="http://www.w3.org/1999/xhtml" lang="ja" xml:lang="ja" dir="ltr">
+<head>
+<meta http-equiv="Content-Type" content="text/html; charset=utf-8" />
+
+<title>IRニュース一覧｜IR情報｜工作機械・産業ロボット｜富士機械製造株式会社</title>
+
+
+<meta name="keywords" content="工作機械,産業ロボット, 富士機械,金属加工,産業用ロボット, SMT, 実装、NC旋盤,電子部品実装,電子部品実装ロボット" />
+<meta name="description" content="電子部品実装機（自動装着機／組立機）、工作機械の開発・製造・販売。お客様のニーズにお応えできる製品・技術・サービスを提供します。" />
+<meta name="copyright" content="&copy; 2012- FUJI MACHINE MFG. CO., LTD. All Rights Reserved." />
+
+<meta http-equiv="content-style-type" content="text/css" />
+<meta http-equiv="content-script-type" content="text/javascript" />
+<link rel="icon" type="image/x-icon" href="/fuji-favicon.ico" />
+<link rel="shortcut icon" type="image/x-icon" href="/fuji-favicon.ico" />
+
+
+
+
+<!-- *** stylesheet *** -->
+
+<link href="../css/import.css" rel="stylesheet" type="text/css" media="all" />
+<link href="../css/ir.css" rel="stylesheet" type="text/css" media="all" />
+<link href="../css/colorbox.css" rel="stylesheet" type="text/css" media="all" />
+
+<!-- *** javascript *** -->
+
+<script type="text/javascript" src="../js/jquery-1.4.4.min.js"></script>
+<script type="text/javascript" src="../js/jquery.gsearchapi.js"></script>
+<script type="text/javascript" src="../js/smoothScroll.js"></script>
+<script type="text/javascript" src="../js/searchTxt.js"></script>
+<script type="text/javascript" src="../js/jquery.droppy_sp.js"></script>
+<script type="text/javascript" src="../js/analytics_fuj.js"></script>
+<script type="text/javascript" src="../js/setting.js"></script>
+<script type="text/javascript">
+$(function() {
+$('.menu_foreign').droppy({trigger: 'click'});
+});
+
+</script>
+<!--[if IE 6]>
+	<script src="../js/DD_belatedPNG_0.0.8a-min.js" type="text/javascript"></script>
+<![endif]-->
+<script type="text/javascript" src="../js/jquery.colorbox.js"></script> 
+<script type="text/javascript"> 
+   $(document).ready(function() {
+	   $(".pop").colorbox();
+   });
+</script>
+<!--[if IE 6]>
+	<script>
+		DD_belatedPNG.fix(' #contents #contents-inner ')
+	</script>
+<![endif]-->
+</head>
+
+<body id="ir">
+
+	<div id="page">
+		<div id="header">
+
+			<div class="con_header">
+				<h1><a href="../" title="富士機械製造株式会社"><img class="over" src="../images/header/logo.gif" alt="富士機械製造株式会社" /></a></h1>
+				<div id="language">
+					<p class="st"><img src="../images/header/t
+47a
+xt_language.gif" alt="LANGUAGE" /></p>
+
+					<ul class="menu_foreign droppy">
+						<li><a class="has-subnav" href="javascript:void(0)"><img src="../images/header/txt_japanese.gif" alt="Japanese" class="over" /></a>
+						<ul>
+							<li class="eng"><a class="lnk" href="../e/">English</a></li>
+							<li class="chi"><a class="lnk" href="../cs/">Chinese</a></li>
+							<li class="jap"><a class="lnk" href="../">Japanese</a></li>
+						</ul>
+						</li>
+					</ul>
+
+				</div>
+				<div class="box_search">
+					<!--<form action="../search/" id="siteSearch">
+						<label><input name="kw" type="text" id="word" value="サイト内検索" class="txt autoclear" /></label>
+						<input name="serch" type="submit" id="button" value="検索" />
+					</form>-->
+				</div>
+				<p class="contact"><a href="../contact/" title="お問い合わせ">お問い合わせ</a></p>
+			</div><!-- /.con_header -->
+
+	</div><!-- /#header -->
+
+
+
+		<div id="gnav">
+			<ul>
+				<li class="abt"><a href="../about/" title="私たちについて">私たちについて</a></li>
+				<li class="smt"><a href="http://smt.fuji.co.jp/" title="電子部品実装ロボット">
+2518
+電子部品実装ロボット</a></li>
+				<li class="mcn"><a href="http://mt.fuji.co.jp/" title="工作機械">工作機械</a></li>
+				<li class="new"><a href="http://nfa.fuji.co.jp/" title="新規分野">新規分野</a></li>
+				<li class="cmp"><a href="../company/" title="企業情報">企業情報</a></li>
+				<li class="ir"><a href="../ir/" title="IR情報">IR情報</a></li>
+				<li class="rec"><a href="../saiyo/" title="採用情報">採用情報</a></li>
+			</ul>
+		</div>
+
+
+		<div id="contents">
+			<div id="contents-inner">
+				<div id="topicpath">
+					<ul>
+						<li><a href="../">TOPページ</a></li>
+						<li><a href="./">IR情報</a></li>
+						<li>IRニュース一覧</li>
+					</ul>
+				</div><!-- / #topicPath -->
+			
+				<div id="main">
+					<div class="con_irnews">
+						<h2 class="st"><img src="images/irnews/st_irnews.gif" alt="IRニュース一覧" /></h2>
+						<div class="box_newyear">
+							<h3 class="st">第71期（平成29年3月期）</h3>
+							<div class="box_lastyear">
+								<div class="box_ymenu">
+								<form name="form_select1" method="post" action="./irnews.php">
+									<select name="y" onchange="document.form_select1.submit();">
+<option value="第71期（平成29年3月期）" selected>第71期（平成29年3月期）</option>
+<option value="第70期（平成28年3月期）">第70期（平成28年3月期）</option>
+<option value="第69期（平成27年3月期）">第69期（平成27年3月期）</option>
+<option value="第68期（平成26年3月期）">第68期（平成26年3月期）</option>
+<option value="第67期（平成25年3月期）">第67期（平成25年3月期）</option>
+<option value="第66期（平成24年3月期）">第66期（平成24年3月期）</option>
+<option value="第65期（平成23年3月期）">第65期（平成23年3月期）</option>
+<option value="第64期（平成22年3月期）">第64期（平成22年3月期）</option>
+<option value="第63期（平成21年3月期）">第63期（平成21年3月期）</option>
+<option value="第62期（平成20年3月期）以前">第62期（平成20年3月期）以前</option>
+									</select>
+								</form>
+								</div>
+								<p class="search">過去のニュースを年単位で表示できます。初期表示は今年度分のニュースとなります。</p>
+							</div><!-- /.box_lastyear -->
+						</div><!-- /.box_newyear -->
+
+<div class="box_irlist">
+	<h4 class="st">決算短信</h4>
+<dl>
+	<dt><span>2016.11.10</span></dt>
+	<dd>
+		<p class="txt"><a href="../datas/pdf/ir/201611 決算短信.pdf" title="第2四半期決算短信" target="_blank">第2四半期決算短信</a><img src="../images/common/ic_pdf.gif" /></p>
+	</dd>
+</dl>
+<dl>
+	<dt><span>2016.08.09</span></dt>
+	<dd>
+		<p class="txt"><a href="../datas/pdf/ir/201608 決算短信.pdf" title="第1四半期決算短信" target="_blank">第1四半期決算短信</a><img src="../images/common/ic_pdf.gif" /></p>
+	</dd>
+</dl>
+</div>
+<div class="box_irlist">
+	<h4 class="st">有価証券報告書</h4>
+<dl>
+	<dt><span>2016.11.11</span></dt>
+	<dd>
+		<p class="txt"><a href="../datas/pdf/ir/201611 四半期報告書.pdf" title="第2四半期報告書" target="_blank">第2四半期報告書</a><img src="../images/common/ic_pdf.gif" /></p>
+	</dd>
+</dl>
+<dl>
+	<dt><span>2016.08.10</span></dt>
+	<dd>
+		<p class="txt"><a href="../datas/pdf/ir/201608 四半期報告書.pdf" title="第1四半期報告書" target="_blank">第1四半期報告書</a><img src="../images/common/ic_pdf.gif" /></p>
+	</dd>
+</dl>
+</div>
+<div class="box_irlist">
+	<h4 class="st">その他</h4>
+<dl>
+	<dt><span>2017.01.05</span></dt>
+	<dd>
+		<p class="txt"><a href="../datas/pdf/ir/自己株式の取得状況に関するお知らせ2016年12月分.pdf" title="自己株式の取得状況に関するお知らせ" target="_blank">自己株式の取得状況に関するお知らせ</a><img src="../images/common/ic_pdf.gif" /></p>
+	</dd>
+</dl>
+<dl>
+	<dt><span>2016.12.13</span></dt>
+	<dd>
+		<p class="txt">第７１期（平成２９年３月期）第３四半期決算開示は平成２９年２月９日 午後３時３０分の予定です</p>
+	</dd>
+</dl>
+<dl>
+	<dt><span>2016.12.01</span></dt>
+	<dd>
+		<p class="txt"><a href="../datas/pdf/ir/自己株式の取得状況に関するお知らせ2016年11月分.pdf" title="自己株式の取得状況に関するお知らせ" target="_blank">自己株式の取得状況に関するお知らせ</a><img src="../images/common/ic_pdf.gif" /></p>
+	</dd>
+</dl>
+<dl>
+	<dt><span>2016.11.15</span></dt>
+	<dd>
+		<p class="txt"><a href="../datas/pdf/ir/自己株式立会外買付取引（ToSTNeT-３）による自己株式の取得結果に関するお知らせ20161115.pdf" title="自己株式立会外買付取引（ToSTNeT-３）による自己株式の取得結果に関するお知らせ" target="_blank">自己株式立会外買付取引（ToSTNeT-３）による自己株式の取得結果に関するお知らせ</a><img src="../images/common/ic_pdf.gif" /></p>
+	</dd>
+</dl>
+<dl>
+	<dt><span>2016.11.14</span></dt>
+	<dd>
+		<p class="txt"><a href="../datas/pdf/ir/201611_第2四半期決算説明資料.pdf" title="第2四半期決算説明資料" target="_blank">第2四半期決算説明資料</a><img src="../images/common/ic_pdf.gif" /></p>
+	</dd>
+</dl>
+<dl>
+	<dt><span>2016.11.14</span></dt>
+	<dd>
+		<p class="txt"><a href="../datas/pdf/ir/自己株式立会外買付取引（ToSTNeT-３）による自己株式の取得結果に関するお知らせ20161114.pdf" title="自己株式立会外買付取引（ToSTNeT-３）による自己株式の買付けに関するお知らせ" target="_blank">自己株式立会外買付取引（ToSTNeT-３）による自己株式の買付けに関するお知らせ</a><img src="../images/common/ic_pdf.gif" /></p>
+	</dd>
+</dl>
+<dl>
+	<dt><span>2016.11.11</span></dt>
+	<dd>
+		<p class="txt"><a href="../datas/pdf/ir/20161111_富士機械製造株式会社と朝日インテック株式会社との資本業務提携に関するお知らせ.pdf" title="富士機械製造株式会社と朝日インテック株式会社との資本業務提携に関するお知らせ" target="_blank">富士機械製造株式会社と朝日インテック株式会社との資本業務提携に関するお知らせ</a><img src="../images/common/ic_pdf.gif" /></p>
+	</dd>
+</dl>
+<dl>
+	<dt><span>2016.11.01</span></dt>
+	<dd>
+		<p class="txt"><a href="../datas/pdf/ir/自己株式の取得状況に関するお知らせ2016年10月分.pdf" title="自己株式の取得状況に関するお知らせ" target="_blank">自己株式の取得状況に関するお知らせ</a><img src="../images/common/ic_pdf.gif" /></p>
+	</dd>
+</dl>
+<dl>
+	<dt><span>2016.10.03</span></dt>
+	<dd>
+		<p class="txt"><a href="../datas/pdf/ir/自己株式の取得状況に関するお知らせ2016年9月分.pdf" title="自己株式の取得状況に関するお知らせ" target="_blank">自己株式の取得状況に関するお知らせ</a><img src="../images/common/ic_pdf.gif" /></p>
+	</dd>
+</dl>
+<dl>
+	<dt><span>2016.09.01</span></dt>
+	<dd>
+		<p class="txt"><a href="../datas/pdf/ir/自己株式の取得状況に関するお知らせ2016年8月分.pdf" title="自己株式の取得状況に関するお知らせ" target="_blank">自己株式の取得状況に関するお知らせ</a><img src="../images/common/ic_pdf.gif" /></p>
+	</dd>
+</dl>
+<dl>
+	<dt><span>2016.08.01</span></dt>
+	<dd>
+		<p class="txt"><a href="../datas/pdf/ir/自己株式の取得状況に関するお知らせ2016年7月分.pdf" title="自己株式の取得状況に関するお知らせ" target="_blank">自己株式の取得状況に関するお知らせ</a><img src="../images/common/ic_pdf.gif" /></p>
+	</dd>
+</dl>
+<dl>
+	<dt><span>2016.07.01</span></dt>
+	<dd>
+		<p class="txt"><a href="../datas/pdf/ir/自己株式の取得状況に関するお知らせ2016年6月分.pdf" title="自己株式の取得状況に関するお知らせ" target="_blank">自己株式の取得状況に関するお知らせ</a><img src="../images/common/ic_pdf.gif" /></p>
+	</dd>
+</dl>
+<dl>
+	<dt><span>2016.06.01</span></dt>
+	<dd>
+		<p class="txt"><a href="../datas/pdf/ir/自己株式の取得状況に関するお知らせ2016年5月分.pdf" title="自己株式の取得状況に関するお知らせ" target="_blank">自己株式の取得状況に関するお知らせ</a><img src="../images/common/ic_pdf.gif" /></p>
+	</dd>
+</dl>
+<dl>
+	<dt><span>2016.05.09</span></dt>
+	<dd>
+		<p class="txt"><a href="../datas/pdf/ir/自己株式の取得状況に関するお知らせ2016年4月分.pdf" title="自己株式の取得状況に関するお知らせ" target="_blank">自己株式の取得状況に関するお知らせ</a><img src="../images/common/ic_pdf.gif" /></p>
+	</dd>
+</dl>
+</div>
+
+					</div><!-- /.con_irnews -->
+				</div><!-- /#main -->
+
+				<div id="side">
+					<div class="con_snav">
+						<h2><img src="images/side_ir.gif" alt="IR情報" /></h2>
+						<ul>
+							<li><a class="on" href="irnews.php" title="IRニュース一覧">IRニュース一覧</a></li>
+							<li><a href="irpublicly.php" title="電子公告">電子公告</a></li>
+							<li class="last"><a href="irstockholders.php" title="株主情報">株主情報</a></li>
+						</ul>
+						<div class="subcontents">
+<h3><img src="images/side_outline.gif" alt="業績の概要" /></h3>
+<ul>
+	<li><a class="pop" href="../datas/images/performance/過去５年間の推移（連結）.JPG" title="過去5年間の経営�
+e9c
+��績推移">過去5年間の経営成績推移</a></li>
+	<li><a class="pop" href="../datas/images/performance/セグメント別売上高20160802.jpg" title="セグメント別売上高推移">セグメント別売上高推移</a></li>
+	<li><a class="pop" href="../datas/images/performance/地域別売上高推移（連結）.JPG" title="地域別売上高推移">地域別売上高推移</a></li>
+	<li class="last"><a class="pop" href="../datas/images/performance/１株当たり純利益・純資産（連結）.JPG" title="1株当たり純利益・純資産">1株当たり純利益・純資産</a></li>
+</ul>
+							<p class="update">平成28年6月29日更新</p>
+						</div>
+					</div>
+					
+				</div><!-- /#side -->
+
+
+
+				<p class="pagetop"><a href="#page" title="ページトップへ戻る"><img class="over" src="../images/common/btn_pagetop.gif" alt="ページトップへ戻る" /></a></p>
+
+
+			</div><!-- #contents-inner -->
+		</div><!-- #contents -->
+
+
+
+		<div id="footer">
+			<div class="con_footer">
+				<div class="box_general">
+					<h3><a href="../" title="総合サイト">総合サイト</a></h3>
+					<ul>
+						<li><a href="../about/" title="私たちについて">私たちについて</a></li>
+						<li><a href="../company/" title="企業情報">企業情報</a></li>
+						<li><a href="../ir/" title="IR情報">IR情報</a></li>
+						<li><a href="../saiyo/" title="採用情報">採用情報</a></li>
+						<li><a href="../news/" title="ニュースリリース">ニュースリリース</a></li>
+					</ul>
+					<ul>
+						<li><a href="../notice/" title="免責事項">免責事項</a></li>
+						<li><a href="../privacy/" title="個人情報保護方針">個人情報保護方針</a></li>
+						<li><a href="../sitemap/" title="サイトマップ">サイトマップ</a></li>
+						<li><a href="../contact/" title="お問い合わせ">お問い合わせ</a></li>
+					</ul>
+				</div>
+				<div class="box_flink">
+					<h3><a href="http://smt.fuji.co.jp/" title="電子部品実装ロボット">電子部品実装ロボット</a></h3>
+					<ul>
+						<li><a href="http://smt.fuji.co.jp/products/" title="製品紹介">製品紹介</a></li>
+						<li><a href="http://smt.fuji.co.jp/exhibition/" title="展示会情報">展示会情報</a></li>
+						<li><a href="http://smt.fuji.co.jp/contact/" title="お問い合わせ">お問い合わせ</a></li>
+					</ul>
+				</div>
+				<div class="box_flink2">
+					<h3><a href="http://mt.fuji.co.jp/" title="工作機械">工作機械</a></h3>
+					<ul>
+						<li><a href="http://mt.fuji.co.jp/products/" title="製品紹介">製品紹介</a></li>
+						<li><a href="http://mt.fuji.co.jp/support" title="サポート">サポート</a></li>
+						<li><a href="http://mt.fuji.co.jp/products/example/" title="ソリューション">ソリューション</a></li>
+						<li><a href="http://mt.fuji.co.jp/exhibitions/" title="展示会情報">展示会情報</a></li>
+						<li><a href="http://mt.fuji.co.jp/contact/" title="お問い合わせ">お問い合わせ</a></li>
+					</ul>
+				</div>
+				<div class="box_flink3">
+					<h3><a href="http://nfa.fuji.co.jp/" title="新規分野">新規分野</a></h3>
+					<ul>
+						<li><a href="http://nfa.fuji.co.jp/products/" title="製品紹介">製品紹介</a></li>
+						<li><a href="http://nfa.fuji.co.jp/contact/" title="お問い合わせ">お問い合わせ</a></li>
+					</ul>
+				</div>
+			</div>
+			<p class="copy"><a href="../" title="富士機械製造株式会社">富士機械製造株式会社</a>&copy; 
+<script type="text/javascript">
+<!--
+document.write("2012-" + new Date().getFullYear());
+-->
+</script> FUJI MACHINE MFG. CO., LTD. All Rights Reserved.</p>
+		</div>
+
+	</div><!-- /#page -->
+
+</body>
+</html>
+0
+

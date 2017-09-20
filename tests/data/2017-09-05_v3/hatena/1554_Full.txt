@@ -1,0 +1,221 @@
+GET http://profile.hatena.ne.jp/tester99994/ HTTP/1.1
+Host: profile.hatena.ne.jp
+User-Agent: Mozilla/5.0 (Windows NT 6.1; WOW64; rv:51.0) Gecko/20100101 Firefox/51.0
+Accept: text/html,application/xhtml+xml,application/xml;q=0.9,*/*;q=0.8
+Accept-Language: ja,en-US;q=0.7,en;q=0.3
+Cookie: b=$1$My7gZnO8$0.FGsPl4n1llPMV82C5TE1; _fout_segment=83206%2C83207%2C83208%2C83209%2C83215%2C83217%2C83218%2C83219%2C83220; _nttcom_segment=36000; _vsn_segment=37000; __gads=ID=53893da3f15ba603:T=1484115036:S=ALNI_MZ-5OuVluzYAAbSOjQmOTW8TyUzpg; _fout_segment_sync=1; _td=be863d7e-ee4e-4869-b43a-0cc9d49c24e5; _ga=GA1.3.1991463582.1487329486; __utma=90496003.1991463582.1487329486.1487329486.1487329486.1; __utmb=90496003.0.10.1487329486; __utmc=90496003; __utmz=90496003.1487329486.1.1.utmcsr=blog.kaerucloud.com|utmccn=(referral)|utmcmd=referral|utmcct=/entry/website-ranking; rk=f9cf05b364a04e27cd445e0f545c7ac69a358672; _dc_gtm_UA-47034238-1=1; _ga=GA1.4.1991463582.1487329486; __utma=90414299.1991463582.1487329486.1487330127.1487330127.1; __utmb=90414299.0.10.1487330127; __utmc=90414299; __utmz=90414299.1487330127.1.1.utmcsr=hatena.ne.jp|utmccn=(referral)|utmcmd=referral|utmcct=/rule/; agreed_privacy_alert=1; edit_profile_result=%E3%83%97%E3%83%AD%E3%83%95%E3%82%A3%E3%83%BC%E3%83%AB%E3%81%AE%E5%A4%89%E6%9B%B4%E3%82%92%E4%BF%9D%E5%AD%98%E3%81%97%E3%81%BE%E3%81%97%E3%81%9F%E3%80%82
+Connection: close
+Upgrade-Insecure-Requests: 1
+
+
+HTTP/1.1 200 OK
+Server: nginx
+Date: Fri, 17 Feb 2017 11:20:26 GMT
+Content-Type: text/html; charset=utf-8
+Content-Length: 12482
+Connection: close
+Vary: Accept-Encoding
+Vary: Accept-Language
+Content-Language: ja
+X-Framework: Ridge/0.11 Plack/0.9959
+X-Hatena-Author: tester99994
+X-Hatena-Locale-Vary: l,n,u,d,z,t
+X-Ridge-Dispatch: Hatena::Nano::Engine::User::Profile#default
+X-Runtime: 140ms
+X-Time-Zone: Asia/Tokyo
+X-UA-Compatible: IE=edge
+X-View-Runtime: 130ms
+
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Strict//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-strict.dtd">
+<html xmlns="http://www.w3.org/1999/xhtml" xml:lang="ja" lang="ja" data-theme="myprofile"
+    data-ten-notify-dimension-change=""
+>
+  <head>
+    <meta http-equiv="Content-Type" content="text/html; charset=utf-8" />
+    <meta http-equiv="Content-Style-Type" content="text/css" />
+    <meta http-equiv="Content-Script-Type" content="text/javascript" />
+    <link rel="stylesheet" href="//www.hatena.ne.jp/css/simple-header.css?201501301">
+    <link rel="stylesheet" href="//www.hatena.com/css/hatena/header.css?201501301"><link rel=stylesheet href="//n.hatena.com/css/profile.css?201501301"><link rel="stylesheet" href="//www.hatena.ne.jp/css/theme/default/default.css?201501301"><link rel="stylesheet" href="//www.hatena.ne.jp/css/emoji.css?201501301">
+    <link rel=stylesheet href="http://cdn.www.st-hatena.com/css/userconfigauth.css?201501301">
+    <link rel=icon href="http://profile.hatena.ne.jp/favicon.ico">
+    <style type="text/css">
+    div#langselector { font-size:100% !important; }
+    </style><link rel=author href="http://www.hatena.ne.jp/tester99994/">
+    <script type="text/javascript" src="//www.hatena.ne.jp/js/Ten/Ten.js?201501301"></script>
+    <script type="text/javascript">
+      if (typeof Hatena == 'undefined') Hatena = {};
+      if (typeof Hatena.My == 'undefined') Hatena.My = {};Hatena.My.CSSConfig = 'de';
+      Hatena.My.BaseURL = 'http://www.hatena.ne.jp/';
+      Hatena.My.Author  = 'tester99994';
+      Hatena.My.Visitor = 'tester99994';
+    </script>
+
+    <script type="text/javascript" src="https://www.hatena.ne.jp/js/Ten/Ten/SubWindow.js"></script>
+    <script type="text/javascript" src="//www.hatena.com/js/Hatena/My/MyHatenaCSSChanger.js"></script>
+    <script type="text/javascript" src="https://www.hatena.ne.jp/js/Hatena/My/XHR.js"></script>
+    <script type="text/javascript" src="https://www.hatena.ne.jp/js/Hatena/My/OthersPreference.js"></script>
+    <script type="text/javascript" src="https://www.hatena.ne.jp/js/Hatena/My/FollowSubWindow.js"></script>
+    <title>てすとやろうさんのプロフィール - はてな</title>
+
+    
+    <link rel="openid.server" href="https://www.hatena.ne.jp/openid/server" />
+    
+  </head>
+  <body id="hatena-profile">
+<!-- Google Tag Manager -->
+<noscript><iframe src="//www.googletagmanager.com/ns.html?id=GTM-WPVF7X"
+height="0" width="0" style="display:none;visibility:hidden"></iframe></noscript>
+<script>(function(w,d,s,l,i){w[l]=w[l]||[];w[l].push({'gtm.start':
+new Date().getTime(),event:'gtm.js'});var f=d.getElementsByTagName(s)[0],
+j=d.createElement(s),dl=l!='dataLayer'?'&l='+l:'';j.async=true;j.src=
+'//www.googletagmanager.com/gtm.js?id='+i+dl;f.parentNode.insertBefore(j,f);
+})(window,document,'script','dataLayer','GTM-WPVF7X');</script>
+<!-- End Google Tag Manager --><div id="header">
+  <div id="header-body">
+    <a href="http://www.hatena.ne.jp/" class="service-logo-container"><img class="service-logo" src="//www.hatena.com/images/logo_portal_hatena.gif" alt="はてな" title="はてな"></a><ul class="service-menu"><li><a href="http://profile.hatena.ne.jp/tester99994/"><img src="http://cdn1.www.st-hatena.com/users/te/tester99994/profile_s.gif" class="profile-image" alt="tester99994" title="tester99994" width="16" height="16" />プロフィール</a></li><li><a href="http://www.hatena.ne.jp/my">Myはてな</a></li><li><a href="http://www.hatena.ne.jp/my/config">設定</a></li><li><a href="http://profile.hatena.ne.jp/help/">ヘルプ</a></li><li id="langselector-button"><span><a href="http://n.hatena.ne.jp/setting/locale?location=http%3A%2F%2Fwww.hatena.ne.jp%2Fmy%2F">日本語</a></span></li><li class="header-username" id="header-username" title="利用中のサービス" data-name="tester99994" data-rkm="dqOLEvr4+Niua2lViBuDOA"><span class="header-dropdown" tabindex="0"><img src="//www.hatena.com/images/header/usermenu.png" alt="利用中のサービス" ></span><dl class="header-window" id="username-window"></dl></li><li class="header-notify" id="header-notify" title="あなたへのお知らせ"><span class="header-dropdown" tabindex="0"><img src="//www.hatena.com/images/header/notify.png" alt="あなたへのお知らせ"><span class="notify-count"></span></span><div id="notify-window" class="header-window header-notify"></div></li></ul></div></div>
+
+<div id="user-header">
+      <div id="user-header-body">
+        <a href="http://profile.hatena.ne.jp/tester99994/?location=http%3A%2F%2Fprofile.hatena.ne.jp%2Ftester99994%2Fprofile"><img src="http://cdn1.www.st-hatena.com/users/te/tester99994/profile.gif" alt="てすとやろう" class="userimg" /></a>
+        <h1>てすとやろうさんのプロフィール
+            <span class="fav-btn"><a class='follow-link' href="http://profile.hatena.ne.jp/tester99994/follow.add"><img src="//www.hatena.com/images/favorite-btn.gif" alt="お気に入りに追加" class="btn" /></a></span>
+          <script>
+            if (!/www|profile/.test(location.hostname)) {
+              var button = document.getElementsByClassName('fav-btn')[0];
+              if (button) button.style.display = 'none';
+            }
+          </script>
+        </h1>
+
+          <div class="btn">
+            <a href="http://profile.hatena.ne.jp/tester99994/edit?location=http%3A%2F%2Fprofile.hatena.ne.jp%2Ftester99994%2Fprofile" style="background:url(http://ugomemo.hatena.ne.jp/images/icon-edit2.gif) -0 8px no-repeat;">プロフィール編集・設定</a>
+          </div>
+
+        <ul class="tab-menu">
+          <li class="selected"><a href="http://profile.hatena.ne.jp/tester99994/profile?location=http%3A%2F%2Fprofile.hatena.ne.jp%2Ftester99994%2Fprofile">プロフィール</a></li>
+          <li><a href="http://profile.hatena.ne.jp/tester99994/favorites?location=http%3A%2F%2Fprofile.hatena.ne.jp%2Ftester99994%2Fprofile">お気に入り</a></li>
+          <li><a href="http://profile.hatena.ne.jp/tester99994/fans?location=http%3A%2F%2Fprofile.hatena.ne.jp%2Ftester99994%2Fprofile">ファン</a></li>
+          <li><a href="http://profile.hatena.ne.jp/tester99994/friends?location=http%3A%2F%2Fprofile.hatena.ne.jp%2Ftester99994%2Fprofile">フレンド</a></li>
+            <li id="edit-tab"><a href="http://profile.hatena.ne.jp/tester99994/edit?location=http%3A%2F%2Fprofile.hatena.ne.jp%2Ftester99994%2Fprofile">編集</a></li>
+            <li><a href="http://profile.hatena.ne.jp/tester99994/edit.config?location=http%3A%2F%2Fprofile.hatena.ne.jp%2Ftester99994%2Fprofile">デザイン</a></li>
+        </ul>
+      </div>
+    </div>
+
+<script type="text/javascript">
+  Hatena.My.Visitor_rkm = 'dqOLEvr4+Niua2lViBuDOA';
+</script>
+  <div id="hatena-body">
+    <div id="body">
+      <div id="main">
+
+          <h2 style="margin-top:0;">プロフィール<span class="updatetime">最終更新日:
+                <time datetime="2017-02-17">2017/02/18</time></span><span class="servicename"><a href="http://profile.hatena.ne.jp/tester99994/edit">編集</a></span></h2>
+            <img src="http://cdn1.www.st-hatena.com/users/te/tester99994/user.jpg?1487330309" class="profileimg" />
+
+          <div class="section">
+            <dl class="profile"><dt class="profile-dt">はてなID                </dt>
+                <dd class="profile-dd">
+                    tester99994
+                </dd><dt class="profile-dt">ニックネーム                </dt>
+                <dd class="profile-dd">
+                    てすとやろう
+                </dd>
+            </dl>
+            
+            <table class="profile">
+            </table>
+          </div>
+        
+      </div><div id="sidebar"><div class="hatena-module">
+    <div class="hatena-moduletitle">てすとやろうさんの使っているサービス</div>
+    <div class="hatena-modulebody">
+      <div class="medals">
+        <a href="http://profile.hatena.ne.jp/tester99994/"><img src="http://cdn1.www.st-hatena.com/users/te/tester99994/profile.gif" alt="てすとやろう" class="userimg" /></a></div><ul class="hatena-fotolife floatlist"></ul>        <div class="message-container" style="clear:both;"><a href="https://www.hatena.ne.jp/sendpoint"><img src="http://www.hatena.com/images/icon-mail.gif" class="icon" alt>ポイント送信</a><br /></div>    </div>
+  </div>
+<script type='text/javascript'>
+var googletag = googletag || {};
+googletag.cmd = googletag.cmd || [];
+(function() {
+var gads = document.createElement('script');
+gads.async = true;
+gads.type = 'text/javascript';
+var useSSL = 'https:' == document.location.protocol;
+gads.src = (useSSL ? 'https:' : 'http:') + 
+'//www.googletagservices.com/tag/js/gpt.js';
+var node = document.getElementsByTagName('script')[0];
+node.parentNode.insertBefore(gads, node);
+})();
+</script>
+
+<script type='text/javascript'>
+googletag.cmd.push(function() {
+googletag.defineSlot('/4374287/profile_sidebar', [300, 250], 'div-gpt-ad-1407838202814-0').addService(googletag.pubads());
+googletag.enableServices();
+});
+</script>
+<!-- profile_sidebar -->
+<div id='div-gpt-ad-1407838202814-0' style='width:300px; height:250px; margin-bottom: 10px;'>
+<script type='text/javascript'>
+googletag.cmd.push(function() { googletag.display('div-gpt-ad-1407838202814-0'); });
+</script>
+</div>
+<div class="hatena-module">
+  <div class="hatena-moduletitle">
+    <img src="//www.hatena.com/images/icon-fan.png" alt><a href="http://profile.hatena.ne.jp/tester99994/friends?location=http%3A%2F%2Fprofile.hatena.ne.jp%2Ftester99994%2Fprofile">てすとやろうさんのフレンド</a> (0)
+  </div>
+  <div class="hatena-modulebody">
+    <ul class="hatena-fotolife floatlist">
+    </ul></div>
+</div>
+<div class="hatena-module" style="display:none">
+          <div class="hatena-moduletitle">ブログパーツ</div>
+          <div class="hatena-modulebody">
+            <div class="message-container">
+              <a href="http://profile.hatena.ne.jp/tester99994/profile.embed">ブログに貼り付ける</a>
+            </div>
+          </div>
+        </div>
+      </div>
+    </div>
+  </div><script src="//www.hatena.com/js/locale-all.js?201501301" type="text/javascript"></script>
+    <script src="//www.hatena.com/js/updu/ten-extras.js?201501301" charset=utf-8></script><div id="footer">
+        <div id="footmenu"><a href="http://www.hatena.ne.jp/">ホーム</a>
+- <a href="http://www.hatena.ne.jp/rule/rule">利用規約</a>
+- <a href="http://www.hatena.ne.jp/rule/privacypolicy">プライバシーポリシー</a>
+- <a href="//www.hatena.ne.jp/faq/">お問い合わせ</a>- <a href="http://www.hatena.ne.jp/company/tokutei">特定商取引法に基づく表示</a> - <a href="http://www.hatena.ne.jp/company/shikin">資金決済法に基づく表示</a> - <a href="http://developer.hatena.ne.jp/ja/documents/security">セキュリティに関するお問い合わせ</a>
+<script type="text/javascript">
+  if (typeof Ten == "undefined") {
+    document.write('<scr' + 'ipt type="text/javascript" src="//www.hatena.com/js/Ten/Ten.js">' + '</scr' + 'ipt>');
+  }
+</script>
+<script src="//www.hatena.com/js/updu/ten-extras.js" charset=utf-8></script>
+<script src="//www.hatena.com/js/updu/locale-all.js" charset=utf-8></script>
+<script src="//www.hatena.com/js/header.ja.js" charset="utf-8"></script>
+<script src="//www.hatena.com/js/Hatena/LangSelector.js" charset=utf-8></script><div id="langselector" style="display:none;background-color:#ffffff;border:3px solid  #1841CE; padding:1em;text-align:left">
+  <div id="langselector-title">表示言語を選択</div>
+  <div id="langselector-body">
+    <ul>
+      <li ><a id="en" href="?locale.lang=en" rel="alternate" hreflang="en">English</a>
+      </li>
+      <li ><a id="en-gb" href="?locale.lang=en-gb" rel="alternate" hreflang="en-gb">English (UK)</a>
+      </li>
+      <li ><a id="fr" href="?locale.lang=fr" rel="alternate" hreflang="fr">Français</a>
+      </li>
+      <li ><a id="es" href="?locale.lang=es" rel="alternate" hreflang="es">Español</a>
+      </li>
+      <li ><a id="de" href="?locale.lang=de" rel="alternate" hreflang="de">Deutsch</a>
+      </li>
+      <li ><a id="it" href="?locale.lang=it" rel="alternate" hreflang="it">Italiano</a>
+      </li>
+      <li  class="selected"><a id="ja" href="?locale.lang=ja" rel="alternate" hreflang="ja">日本語</a>
+      </li>
+    </ul>
+  </div>
+</div>
+</div>
+      </div>
+      <script>
+        new Ten.Widget.Frame().initDimensionChangeListener();
+     </script></body>
+</html>

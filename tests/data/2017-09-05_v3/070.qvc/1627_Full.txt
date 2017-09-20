@@ -1,0 +1,259 @@
+GET https://qvc.jp/RemindMail.do?returnUrl=/GateToLogin.do&serverId=1 HTTP/1.1
+Host: qvc.jp
+User-Agent: Mozilla/5.0 (Windows NT 6.1; rv:52.0) Gecko/20100101 Firefox/52.0
+Accept: text/html,application/xhtml+xml,application/xml;q=0.9,*/*;q=0.8
+Accept-Language: ja,en-US;q=0.7,en;q=0.3
+Referer: https://qvc.jp/GateToLogin.do
+Cookie: JSESSIONID=9111EDC20EBF176EE3638B44F87CFDD2; uniqueid=f0b95f09-58f0-46bf-9c12-7724c360520c; CK_SERVERID=1; _libra=oOH0I4i73Ar4kEILo3866BObiqBsc6XmkfHBLP32B4rYKdBDLIjBbZnIcepdv57iVaUudWBX5cZM; s_cc=true; s_fid=6EDF1492B909393E-3DC5C71134357C5E; sc_visit=1; sc_segmsest=1491558701749; sc_segmhis=1491558701749; sc_segm=1; s_cvp_1=%5B%5B%27DIR%27%2C%271491558701751%27%5D%5D; s_cvp_2=%5B%5B%27DIR%27%2C%271491558701751%27%5D%5D; s_product=%5BPC%5D%3AOther; sc_prevFlag=F; sc_prevpage=%5BPC%5D%3Aqvc.jp%2FGateToLogin.do; s_sq=qvcjqvcjpprod%3D%2526pid%253D%25255BPC%25255D%25253Aqvc.jp%25252FGateToLogin.do%2526pidt%253D1%2526oid%253Dhttps%25253A%25252F%25252Fqvc.jp%25252FRemindMail.do%25253FreturnUrl%25253D%25252FGateToLogin.do%252526serverId%25253D1%2526ot%253DA; custid=73790398; s_vi=[CS]v1|2C73B37E0548B07F-40000105E00007B0[CE]; YTM_PV=2; __ar_v4=; _vz=viz_58e766f82b98d; curntChnl=QVC; saasData="https://aigent.silveregg.net/pycre5/click?merch=qvc|891165621|73790398"
+Connection: close
+Upgrade-Insecure-Requests: 1
+
+
+HTTP/1.1 200 OK
+Content-Type: text/html;charset=MS932
+Content-Length: 7864
+Cache-Control: private,no-store,no-cache,must-revalidate
+Pragma: no-cache
+Date: Fri, 07 Apr 2017 10:33:27 GMT
+Connection: close
+Set-Cookie: CK_SERVERID=1; path=/
+Set-Cookie: CK_SERVERID=1; path=/
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+		
+
+
+
+
+<!DOCTYPE HTML PUBLIC "-//W3C//DTD HTML 4.01 Transitional//EN" "http://www.w3.org/TR/html4/strict.dtd">
+<html lang="ja">
+<head>
+
+
+
+
+<TITLE>QVC JAPAN</TITLE>
+
+<META http-equiv="Content-Type" content="text/html; charset=Shift_JIS">
+<META http-equiv="Content-Script-Type" content="text/javascript">
+<META http-equiv="Content-Style-Type" content="text/css">
+<LINK REL="shortcut icon" href="img/qvc16.gif">
+<META name="author" content="QVC Japan,Inc.">
+
+<meta name="format-detection" content="telephone=no">
+
+
+<META name="copyright" content="Copyright 2001-2017 QVC Japan,Inc. All rights reserved.">
+
+<script type="text/javascript" language="JavaScript">
+var baseDir = './';
+function gotoBack() {
+	  if(check_flag()){
+	    url = document.RemindMailForm.returnUrl.value;
+	    // added by h-mao in 2013/6/27
+	    url = location.protocol + '//' + 'qvc.jp' + url + '?fromRemindMail=1&serverId=1' ;
+	    window.location.href=url;
+	  }
+	}
+</script>
+<link rel="stylesheet" type="text/css" href="/css/regist2010.css">
+
+
+
+
+
+
+
+<!--AA DTM Header Code-->
+<script type="text/javascript" src="/script/analytics/dtm_header.js"></script>
+<!--AA DTM Header Code-->
+
+</head>
+<body leftmargin="10" topmargin="0" marginwidth="10" marginheight="0">
+
+<script type="text/javascript">
+<!--
+/************************/
+/*** 二度押しチェック ***/
+/************************/
+	function check_flag(){
+		if(document.CommonForm.buttonCheck.value=="1"){
+			alert("ボタンの二度押し、ブラウザの戻るボタン、\n再読込ボタンは使用しないでください。");
+			return false;
+		}else{
+			document.CommonForm.buttonCheck.value="1";
+			return true;
+		}
+	}
+//-->
+</script>
+<noscript>
+<div style="font-size:20px;color:red;font-weight:bold">
+	javascriptが無効になっています。<br />
+	javascriptを有効にしてください。
+</div>
+</noscript>
+<FORM name="CommonForm" action="">
+	<INPUT type="hidden" name="buttonCheck"/>
+</FORM>
+<div class="main">
+<table width="948" border="0" cellspacing="0" cellpadding="0">
+  <tr>
+    <td>
+	    <div class="logo">
+	    <a href="http://qvc.jp/cont/top/Main?serverId=1">
+	    <img border="0" src="/cont/top/images/logo.gif" alt="QVCテレビショッピング"></a></div>
+	    <div class="head"><a href="http://qvc.jp/guide/index.html?serverId=1" target="blank">ご利用ガイド</a> | <a href="http://qvc.jp/contact/index.html?serverId=1" target="blank">Q＆A・お問い合わせ</a> </div>
+    </td>
+  </tr>
+</table>
+<table width="948" border="0" cellpadding="0" cellspacing="0">
+  <tr>
+    <td background="/images/regist2010/headline_login.gif"><img src="/images/regist2010/headline_login.gif" width="20" height="20"></td>
+    <td background="/images/regist2010/headline_login.gif"><img src="/img/spacer.gif" width="908" height="1"></td>
+    <td background="/images/regist2010/headline_login.gif"><img src="/images/regist2010/headline_login.gif" width="20" height="20"></td>
+  </tr>
+  <tr>
+    <td rowspan="2"><img src="/img/spacer.gif" width="1" height="1" /></td>
+    <td><img src="/images/regist2010/title_login.gif" alt="ログイン" width="138" height="45"></td>
+    <td><img src="/img/spacer.gif" width="1" height="1" /></td>
+  </tr>
+  <tr>
+    <td id="linelogin"><img src="/img/spacer.gif" width="2" height="2" /></td>
+  </tr>
+  <tr>
+    <td colspan="3"><img src="/img/spacer.gif" width="20" height="20" /></td>
+  </tr>
+  <tr>
+    <td colspan="3"><img src="/images/regist2010/tag_password.gif" alt="パスワードをお忘れの方" width="239" height="35" hspace="40">
+      <div align="center" class="ssl">この画面にご入力いただいたお客様の個人情報は、SSLという技術で暗号化され安全に送信されます</div></td>
+  </tr>
+</table>
+
+<table width="948" border="0" cellpadding="0" cellspacing="0">
+<tr><td align="center"><br /></td></tr>
+</table>
+
+<div align="center" style="margin-bottom:5px;"> ご本人確認のため、<strong>QVCにご登録いただいている</strong>下記項目を入力のうえ「送信する」ボタンをクリックしてください。<br>
+ご登録メールアドレスに確認メールを送信します。<br />
+※メールアドレスが未登録、または変更された方はお電話でご連絡ください。</div>
+
+<form name="RemindMailForm" method="post" action="/RemindMailConf.do" id="RemindMailForm"><input type="hidden" name="org.apache.struts.taglib.html.TOKEN" value="501ef1e0be2cd6b067985ca9f3d4dc38">
+<table width="400" border="0" align="center" cellpadding="0" cellspacing="0">
+  <tr>
+    <td width="15"><img src="/images/regist2010/pass_ueleft.gif" width="15" height="6"></td>
+    <td width="370" background="/images/regist2010/pass_uebg.gif"><img src="/images/regist2010/pass_uebg.gif" width="1" height="6"></td>
+    <td width="15"><img src="/images/regist2010/pass_ueright.gif" width="15" height="6"></td>
+  </tr>
+  <tr>
+    <td colspan="3" background="/images/regist2010/cs_line.gif">
+      <table width="0" border="0" align="center" cellpadding="0" cellspacing="0" class="form">
+        <tr>
+          <td nowrap><div style="margin-top:15px;"><strong>お名前（カナ）</strong></div>
+          <input type="text" id="kyakuKanaSei" name="kyakuKanaSei" maxlength="20" value="" class="hissu" style="width:130px;">
+		  <input type="text" id="kyakuKanaMei" name="kyakuKanaMei" maxlength="20" value="" class="hissu" style="width:130px;">
+          <div style="margin-top:10px;"><strong>電話番号</strong></div>
+			<input type="text" id="tel1" name="tel1" maxlength="5" value="" class="hissu" style="width:80px;">
+			-
+			<input type="text" id="tel2" name="tel2" maxlength="5" value="" class="hissu" style="width:80px;">
+			-
+			<input type="text" id="tel3" name="tel3" maxlength="5" value="" class="hissu" style="width:80px;">
+
+<div style="margin-top:10px;"><strong>メールアドレス</strong></div>
+<input type="text" id="email" name="email" maxlength="80" value="" class="hissu" style="width:280px;">
+<br />※メールアドレスが未登録、または変更された方は<br />お電話でご連絡ください。</td>
+        </tr>
+      </table>
+    </td>
+  </tr>
+  <tr><td colspan="3"><img src="/images/regist2010/cs_shita.gif" width="400" height="15"></td></tr>
+</table>
+<img src="/img/spacer.gif" width="20" height="20" />
+<div class="btarea">
+<table width="300" border="0" align="center" cellpadding="0" cellspacing="10">
+  <tr>
+    <td><a href="javascript:gotoBack();" ><img border="0"  src="/images/regist2010/bt_back.gif" alt="戻る" width="207" height="50"></a></td>
+    <td><a id="gotonext" href="javascript:gotoNext();" ><img border="0"  src="/images/regist2010/bt_send.gif" alt="送信する" width="207" height="50"></a></td>
+  </tr>
+</table>
+</div>
+<input type="hidden" name="serverId" value="1" />
+<input type="hidden" name="returnUrl" value="/GateToLogin.do" />
+</form>
+<table width="948" border="0" cellspacing="0" cellpadding="0">
+<tr><td background="/cont/top/images/footerline.gif"><img src="/cont/top/images/footerline.gif" width="1" /></td></tr>
+<tr><td align="right" bgcolor="#FFFFFF"><img src="/cont/top/images/copyright.gif" hspace="20" vspace="10"/></td></tr>
+</table>
+</div>
+<script type="text/javascript" language="JavaScript" src="/script/jquery-latest.js"></script>
+<script type="text/javascript" language="JavaScript" src="/script/passwordnotice.js"></script>
+
+
+
+
+
+
+
+
+
+
+
+<script type="text/javascript">
+<!--
+
+_sc.eVar13 = "D=pageName";
+
+_sc.pageName = "[PC]:パスワードをお忘れの方";
+
+_sc.eVar11 = "[PC]:ログイン";
+
+_sc.eVar12 = "D=pageName";
+
+-->
+</script>
+
+
+
+
+<!--AA code-->
+
+<script type="text/javascript" src="/script/analytics/s_code_pc.js?date=170407"></script>
+
+
+<script type="text/javascript" src="/script/analytics/s_code_do.js"></script>
+
+<!--/AA code-->
+
+<!--AA DTM Footer Code-->
+<script type="text/javascript" src="/script/analytics/dtm_footer.js"></script>
+<!--AA DTM Footer Code-->
+
+</body>
+</html>

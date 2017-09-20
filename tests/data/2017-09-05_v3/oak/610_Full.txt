@@ -1,0 +1,298 @@
+POST https://133.162.234.101/Contract/ContractDetail HTTP/1.1
+Host: 133.162.234.101
+Connection: close
+Content-Length: 182
+Cache-Control: max-age=0
+Origin: https://133.162.234.101
+Upgrade-Insecure-Requests: 1
+User-Agent: Mozilla/5.0 (Windows NT 10.0; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/56.0.2924.76 Safari/537.36
+Content-Type: application/x-www-form-urlencoded
+Accept: text/html,application/xhtml+xml,application/xml;q=0.9,image/webp,*/*;q=0.8
+Referer: https://133.162.234.101/Contract/ContractIndex
+Accept-Language: ja,en-US;q=0.8,en;q=0.6
+Cookie: __RequestVerificationToken=xrvhP-fuoJruxCjsimk2zaTrZ5K2jkHR2Cy2tQ2t6SD2Vs-B9Iq784_IWsHXG0gxynwmCGYViyLaa2RaAuaK1uTwwgrbfJZytNvOfQ0dkSc1; ASP.NET_SessionId=y3x1wrvmb52xx2n5vecdvj4s; .ASPXAUTH=EB311B926251B00952D1F000C0917B01CEE397312B7BE6BFBA06017E3CD6E0E9C3938A131B1F837EB009DFFA51055C465B29CB6147053E83824290D378579C9758D7FFD3CB5A6BC0EC67BA026B639022BF54197468101913AAA40E78E0CB925B; LastGroupMstId=1; LastCompanyCd=Company1; LastUserId=machida; LastText=machida; IsRemember=True
+
+__RequestVerificationToken=9bwcpexx5XGfTVsUjDb76ifmoQ8GeYT6QtMhxiKfWQCdSDmPhDuTji0qx4s5u5NAZmONpk2TKn-TPls0oL91anIJ0Klq-lqhnlT9pCgd13QuKSbt6907d08LzlWOf-S60&contractId=96&mode=detail
+HTTP/1.1 200 OK
+Date: Mon, 30 Jan 2017 05:39:28 GMT
+Server: Microsoft-IIS/8.5
+Cache-Control: private, s-maxage=0
+Content-Type: text/html; charset=utf-8
+X-AspNetMvc-Version: 5.0
+X-Frame-Options: SAMEORIGIN
+X-Frame-Options: SAMEORIGIN
+X-AspNet-Version: 4.0.30319
+X-Powered-By: ASP.NET
+Content-Length: 11193
+Connection: close
+
+
+<!DOCTYPE html>
+<html>
+<head>
+<meta http-equiv="Content-Type" content="text/html; charset=utf-8"/>
+    <meta charset="utf-8" />
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>契約明細照会画面 - CCMS</title>
+    <link href="/Content/css?v=l-Ph521pg0QCnur1cnG1IfR_JucXoaV3MlGY4k-KhxE1" rel="stylesheet"/>
+
+    <script src="/bundles/modernizr?v=wBEWDufH_8Md-Pbioxomt90vm6tJN2Pyy9u9zHtWsPo1"></script>
+
+    
+</head>
+<body>
+    <nav id="NbarTop" class="navbar navbar-inverse navbar-fixed-top">
+        <div class="navbar-header">
+            <button type="button" class="navbar-toggle" data-toggle="collapse" data-target=".navbar-collapse">
+                <span class="icon-bar"></span>
+                <span class="icon-bar"></span>
+                <span class="icon-bar"></span>
+            </button>
+            <img src="/Content/LOGO.png" draggable="false" style="width:120px; height:60px; padding:5px" />
+        </div>
+        <div class="navbar-collapse collapse NbarButton">
+            <ul class="nav navbar-nav">
+                    <li><a href="/Contract/ContractIndex">契約明細一覧</a></li>
+                        <li><a href="/Company/CompanyIndex">企業一覧</a></li>
+                        <li><a href="/Contractor/ContractorIndex">契約先企業一覧</a></li>
+                        <li><a href="/User/UserIndex">利用者一覧</a></li>
+                        <li><a href="/Project/ProjectIndex">プロジェクト一覧</a></li>
+            </ul>
+            
+
+        <ul class="nav navbar-nav navbar-right">
+            <li><a href="/" title="管理">町田大林でログイン中</a></li>
+            <li><a href="/Account/Logout" title="Logout">ログアウト</a></li>
+        </ul>
+<input name="__RequestVerificationToken" type="hidden" value="X0mPfm4PnuM5rkpbHIn_Dyoyet855yagGdlyyLdKlbIW5850BOhL6bQE7FAQM690nDd1dXdvCwMY3b8RY37Dqj0-LJtvT1n3xwDmDycexlJCctf6QHTCVpSZe31d_Dkl0" />
+
+        </div>
+    </nav>
+    <div class="container body-content">
+        
+
+<div class="contractDetail">
+    <div class="row">
+        <h2>契約明細照会</h2>
+        <a class="btn btn-primary" href="/Contract/ContractIndex">戻る</a>
+    </div>
+    <div class="table-prefix">
+        <h3 class="caption">契約明細情報を表示します。</h3>
+    </div>
+<div class="row">
+    <table class="edit-table">
+        <tbody>
+            <tr>
+                <th>契約コード</th>
+                <td colspan="3">CCC-2016-00014</td>
+            </tr>
+            <tr>
+                <th>契約名</th>
+                <td colspan="3">契約A16</td>
+            </tr>
+            <tr>
+                <th>契約先企業</th>
+                <td colspan="3">    <ul class="list-inline" id="contractorCompanies" data-msg="契約先が削除されたため、関連する署名者設定が削除されます。よろしいですか？">
+                    <li>Company3  &nbsp;企業３</li>
+                    <li>KCom4&nbsp;契約先企業４</li>
+    </ul>
+</td>
+            </tr>
+            <tr>
+                <th>契約内容</th>
+                <td colspan="3">
+                    <span class="line-break"></span>
+                </td>
+            </tr>
+            <tr>
+                <th>契約種別</th>
+                <td></td>
+                <th>基本契約区分</th>
+                <td></td>
+            </tr>
+            <tr>
+                <th>契約登録日</th>
+                <td class="ac"></td>
+                <th>契約開始終了日</th>
+                <td class="ac"></td>
+            </tr>
+            <tr>
+                <th>金額</th>
+                <td class="ar">1円</td>
+                <th>プロジェクトコード</th>
+                <td>Pj2&nbsp;プロジェクト２</td>
+            </tr>
+            <tr>
+                <th>元契約区分名</th>
+                <td></td>
+                <th>元契約コード</th>
+                <td>&nbsp;</td>
+            </tr>
+            <tr>
+                <th>備考</th>
+                <td colspan="3">
+                    <span class="line-break"></span>
+                </td>
+            </tr>
+            <tr>
+                <th>作成者</th>
+                <td>利用者１９</td>
+                <th>送信者</th>
+                <td>利用者１３</td>
+            </tr>
+            <tr>
+                <th>エンベロープID</th>
+                <td colspan="3">
+                        <a href="javascript:void(0)" class="document-action" data-action="download-documents" data-envelope="13d1a3e6-92af-49be-8bcc-ed9e0c7d5b7d">13d1a3e6-92af-49be-8bcc-ed9e0c7d5b7d</a>
+                </td>
+            </tr>
+        </tbody>
+    </table>
+</div>
+    <div class="row">
+        <div class="seperate"></div>
+        <h3>署名ファイル設定</h3>
+            <table class="list-table c-head">
+        <colgroup>
+            <col style="width: auto" />
+            <col style="width: 150px" />
+            <col style="width: 250px" />
+        </colgroup>
+        <thead>
+            <tr>
+                <th>署名ファイル</th>
+                <th>ファイルサイズ</th>
+                <th>アップロードファイルのダウンロード</th>
+            </tr>
+        </thead>
+        <tbody id="tblFiles">
+                    <tr data-document-no="95" data-mode="False">
+                        <td>試験.txt</td>
+                        <td class="ar">10byte</td>
+                        <td><a href="javascript:void(0)" class="document-action" data-action="file-download">アップロードファイルのダウンロード</a></td>
+                    </tr>
+        </tbody>
+    </table>
+
+    </div>
+    <div class="row">
+        <div class="seperate"></div>
+        <h3>署名者設定</h3>
+            <table class="list-table c-head">
+        <colgroup>
+            <col style="width: 80px" />
+            <col style="width: 120px" />
+            <col style="width: auto" />
+            <col style="width: 80px" />
+            <col style="width: 160px" />
+            <col style="width: 80px" />
+            <col style="width: 100px" />
+            <col style="width: 100px" />
+        </colgroup>
+        <thead>
+            <tr>
+                <th>送付順</th>
+                <th>署名者</th>
+                <th>送信メールアドレス</th>
+                <th>タグ</th>
+                <th>文書名</th>
+                <th>ページNo</th>
+                <th>X座標（mm）</th>
+                <th>Y座標（mm）</th>
+            </tr>
+        </thead>
+        <tbody id="tblSignatures">
+                    <tr data-document="1" data-index="0">
+                        <td class="ar">1</td>
+                        <td>利用者１９</td>
+                        <td>takko@construction-ec.com</td>
+                        <td>署名</td>
+                        <td>試験.txt</td>
+                        <td class="ar">1</td>
+                        <td class="ar">1</td>
+                        <td class="ar">1</td>
+                    </tr>
+                    <tr data-document="1" data-index="1">
+                        <td class="ar">2</td>
+                        <td>利用者９</td>
+                        <td>takko@construction-ec.com</td>
+                        <td>署名</td>
+                        <td>試験.txt</td>
+                        <td class="ar">1</td>
+                        <td class="ar">1</td>
+                        <td class="ar">1</td>
+                    </tr>
+        </tbody>
+    </table>
+
+    </div>
+    <div class="row">
+
+            <button type="button" class="btn btn-primary submit-action" data-action="CLONE" disabled>コピーして新規契約を作成</button>
+            <p class="mt10">※ 表示中の契約明細の内容をコピーし、契約の新規登録を行います。</p>
+            <button type="button" class="btn btn-primary submit-action" data-action="INHERIT" disabled>追加／変更の契約を作成</button>
+            <p class="mt10">
+                ※ 表示中の契約明細の内容をコピーし、契約の新規登録を行います。<br />
+                &nbsp;&nbsp;&nbsp;&nbsp;（但し、新規登録する契約の元契約コードには、表示中の契約コードが入力されます。）
+            </p>
+    </div>
+<form action="/Contract/ProcessContract" method="post" name="contractdetail">        <input type="hidden" name="mode" id="mode" />
+<input name="__RequestVerificationToken" type="hidden" value="JaNZi5wLGpVxptgs5yoEgi3q7-JYfqUrqW-HrlJ1ipbg1I8bI-zSYTRJA2_BZnJj0IqUC80ecClJaEImK791FZ5RhAn2bwLJDebwQzNb9bZkkgj5zVh1HRX0cMikpmOI0" /></form></div>
+    <div id="fileReUpload" class="hide plr10">
+        <div class="table-prefix popup-table-prefix">
+            <h3 class="caption">署名を行う文書をアップロードしてください。</h3>
+        </div>
+        <table class="list-table c-head">
+            <colgroup>
+                <col style="width: 200px" />
+                <col style="width: 350px" />
+                <col style="width: 80px" />
+            </colgroup>
+            <thead>
+                <tr>
+                    <th>アップロード済文書</th>
+                    <th>差し替え文書</th>
+                    <th></th>
+                </tr>
+            </thead>
+            <tbody id="files">
+                    <tr>
+                        <td>試験.txt</td>
+                        <td></td>
+                        <td class="ac">
+                            <input type="file" class="hidden" name="fileHolder" />
+                            <button type="button" class="btn btn-default file-action" data-action="upload">参照...</button>
+                        </td>
+                    </tr>
+            </tbody>
+        </table>
+        <div class="inline-btns pull-right">
+            <button type="button" class="btn btn-primary file-action" data-action="ok">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;OK&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;</button>
+            <button type="button" class="btn btn-primary file-action" data-action="cancel">キャンセル</button>
+        </div>
+    </div>
+
+        <div class="row">
+            <hr />
+            <footer>
+                <div id="NbarBottom">
+                    <p>CCMS System Version 0.7.0.8 201701231649 &copy; 2017 - CCMS</p>
+                </div>
+            </footer>
+        </div>
+    </div>
+
+    <script src="/bundles/jquery?v=EEZBCVzQe1TpkEUeLfjEm53wpuqSSXGjiXFWAVaewp81"></script>
+
+    <script src="/bundles/bootstrap?v=QNGKtD_svtkr2srjVyLGfVUimO436va_1Pq08Q20zaA1"></script>
+
+    <script src="/bundles/cryptojs?v=J9JMZQmwTOLfrOoC57rS1Ytrr5FqRqA4hACqlh20WBs1"></script>
+
+    <script src='/Scripts/Common/commonFunc.js'></script>
+    
+    <script src='/Scripts/Contract/detail.js'></script>
+    <script src='/Scripts/Contract/document.js'></script>
+
+</body>
+
+</html>

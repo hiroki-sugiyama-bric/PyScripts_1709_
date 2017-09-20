@@ -1,0 +1,23 @@
+GET http://jp.puma.com/on/demandware.store/Sites-JP-Site/ja_JP/Search-Show?q=%E3%82%B7%E3%83%A5%E3%83%BC%E3%82%BA HTTP/1.1
+Host: jp.puma.com
+User-Agent: Mozilla/5.0 (Windows NT 6.1; WOW64; rv:52.0) Gecko/20100101 Firefox/52.0
+Accept: text/html,application/xhtml+xml,application/xml;q=0.9,*/*;q=0.8
+Accept-Language: ja,en-US;q=0.7,en;q=0.3
+Cookie: dw=1; __cfduid=d1f3048467d01eb17cdb4be756f3161501491542463; dwac_bclxQiaagJ9qAaaadokkVQseIX=hMJo_ltFR5IaBbnsL9KxmOL3XrgfAkh1SAM%3D|dw-only|00600879||JPY|false|Asia%2FTokyo|true; cqcid=aba0Ntz4r341Bb8sFdUzZesdAQ; dwanonymous_f3cf7850d51118b6aca36868d498cd1e=aba0Ntz4r341Bb8sFdUzZesdAQ; sid=hMJo_ltFR5IaBbnsL9KxmOL3XrgfAkh1SAM; dwsid=eAlqzTy4sMaJqkfcWjwZyB48XIt4_78h26wL5r5EgKdr2KqmBmAuwXInEIhVFeefi8ZgmdAnBGgjWk-sRtt1Fw==; s_sess=%20s_cc%3Dtrue%3B%20s_sq%3Dpumastore-jp%252Cpumaglobal%253D%252526pid%25253DJP%25252520Puma%25252520Shop%25252520%2525253A%25252520Account%25252520%2525253A%25252520Home%252526pidt%25253D1%252526oid%25253Dgo%252526oidt%25253D3%252526ot%25253DSUBMIT%3B; s_pers=%20s_nr%3D1491546870722-New%7C1494138870722%3B%20gpv_p5%3DJP%2520Puma%2520Shop%2520%253A%2520Account%2520%253A%2520Home%7C1491548670725%3B; __cq_uuid=024712d0-1b52-11e7-9381-2fa5b3785a5f; __cq_seg=0~0.00!1~0.00!2~0.00!3~0.00!4~0.00!5~0.00!6~0.00!7~0.00!8~0.00!9~0.00; _ga=GA1.2.1843492680.1491542470; dw=1; dwcustomer_f3cf7850d51118b6aca36868d498cd1e=abXLUzCmhmTUV5Id3XS3AdjMWr; cquid=bM2LTHL3XoPqRJxrDwpsFYD68iBZwEAQcM9zAplcfCs=
+Connection: close
+Upgrade-Insecure-Requests: 1
+
+
+HTTP/1.1 301 Moved Permanently
+Date: Fri, 07 Apr 2017 06:34:31 GMT
+Content-Length: 0
+Connection: close
+Cache-Control: no-cache,no-store,must-revalidate
+Pragma: no-cache
+Expires: Thu, 01 Dec 1994 16:00:00 GMT
+x-dw-request-base-id: nA2NHVjnMvegAgAK
+Location: http://jp.puma.com/jp/ja/search?q=%E3%82%B7%E3%83%A5%E3%83%BC%E3%82%BA
+Accept-Ranges: bytes
+Server: cloudflare-nginx
+CF-RAY: 34baf628e2602042-KIX
+

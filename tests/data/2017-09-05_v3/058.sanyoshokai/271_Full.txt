@@ -1,0 +1,23 @@
+GET https://members.sanyo-shokai.co.jp/zipsearch.aspx?zipcode=1600022 HTTP/1.1
+Host: members.sanyo-shokai.co.jp
+User-Agent: Mozilla/5.0 (Windows NT 6.1; WOW64; rv:52.0) Gecko/20100101 Firefox/52.0
+Accept: application/json, text/javascript, */*; q=0.01
+Accept-Language: ja,en-US;q=0.7,en;q=0.3
+Accept-Encoding: gzip, deflate, br
+X-Requested-With: XMLHttpRequest
+Referer: https://members.sanyo-shokai.co.jp/ms/add/reg
+Cookie: AspxAutoDetectCookieSupport=1; AWSELB=87ADFF9D02E5198A7AE0258D21329D4886A9D96F90146BDBC5C298A29121DA7175E8B074BEEB9C6AD7881A203554EDDEF943D4AC1319CF872B64479FCEE9ECD43DF1677F29; ASP.NET_SessionId=fseu2pttlvn1a1yyit01020i; AMCV_2AA98C3E55E8481C7F000101%40AdobeOrg=793872103%7CMCIDTS%7C17267%7CMCMID%7C06316279283020518553052341503445460208%7CMCAID%7CNONE%7CMCAAMLH-1492414740%7C11%7CMCAAMB-1492414740%7Chmk_Lq6TPIBMW925SPhw3Q; mbox=session#1491809938876-354752#1491811910|PC#1491809938876-354752.18_22#1494402050|check#true#1491810110; isMember=false; s_fv=1491809942726; s_lv=1491810050248; s_lv_s=First%20Visit; s_cc=true; s_nr=1491810387535; gpv_p51=registration%3Aentry; s_ppvl=registration%253Aagreement%2C85%2C85%2C865%2C1536%2C865%2C1536%2C960%2C1.25%2CL; s_ppv=registration%253Aentry%2C37%2C72%2C1671%2C1536%2C865%2C1536%2C960%2C1.25%2CL; s_sq=%5B%5BB%5D%5D; _ga=GA1.3.609881291.1491809943; krt.vis=1217107314_1491809948675_68248893
+Connection: close
+
+
+HTTP/1.1 200 OK
+Cache-Control: private
+Content-Type: text/html; charset=utf-8
+Date: Mon, 10 Apr 2017 07:46:19 GMT
+Server: Microsoft-IIS/7.5
+X-AspNet-Version: 4.0.30319
+X-Powered-By: ASP.NET
+Content-Length: 73
+Connection: Close
+
+{"pref_name": "東京都", "address1": "新宿区", "address2": "新宿"}

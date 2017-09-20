@@ -1,0 +1,672 @@
+GET https://reserve.tokyodisneyresort.jp/mypage/news/ HTTP/1.1
+Host: reserve.tokyodisneyresort.jp
+User-Agent: Mozilla/5.0 (Windows NT 6.1; WOW64; rv:52.0) Gecko/20100101 Firefox/52.0
+Accept: text/html,application/xhtml+xml,application/xml;q=0.9,*/*;q=0.8
+Accept-Language: ja,en-US;q=0.7,en;q=0.3
+Accept-Encoding: gzip, deflate, br
+Referer: https://reserve.tokyodisneyresort.jp/user/confirm/
+Cookie: _ga=GA1.2.1015489637.1490941437; BIGipServersvlu1-pool-8443=!eoR9/91AZ+5DBZvQnpHmJRIH8PW1puZV6znRXjbQEoqdoNr/0fVNK1mDuQE8yeBDRtmyJmsV8Sn2mNk=; ak_bmsc=F240F608E50316CDE669E58134025AEB769BE696564100000D11E258BAE5FA7E~plWyw5l4BwmZuU+bTOcSFGfzuywedmD9Qk9Qqph/fXVWy7tXg7/hD2WNi3gfDVjC7CS9xoVvq2NwQvzOwHx9IlX5X3WTct98bgF4TFS0kxDnHx4YvxJDYKlEJ4ru0dsEvBsPp6xHWeXzqlCxrbPKmY44lZ2WDZylhb4c++ODrVNVqYZTVcSq1MU6J6Vsl37mzu0YcXD27ZaoEN4YsJNEX1qu4rvQS7OW4hPf00ykRuI8A=; _dc_gtm_UA-56274140-1=1; JSESSIONID=657C5801A322B39796DFD3CEE8EE06AC-n1
+Connection: keep-alive
+Upgrade-Insecure-Requests: 1
+
+
+HTTP/1.1 200 OK
+Content-Type: text/html;charset=UTF-8
+Content-Language: ja-JP
+Vary: Accept-Encoding
+Server: server
+Cache-Control: no-cache, no-store
+Pragma: no-cache
+X-Frame-Options: SAMEORIGIN
+Date: Mon, 03 Apr 2017 09:11:59 GMT
+Content-Length: 19859
+Connection: keep-alive
+Set-Cookie: ak_bmsc=F240F608E50316CDE669E58134025AEB769BE696564100000D11E258BAE5FA7E~plpM6N23b1VIuD+gpIZyHV6J+V+lSzzKdVdjosjXVqfawrKTr1K3HfyQoK6XSyKb0w9TYeU7ej6iwjW/L29T2M7CezmsVGlm9C0dw6Z75Ib8GAkFO7whp/BUUbaxjCkGHNqvOJIpjx4vtHQYqLgtCF9Cx5E18ql34USeGy2hefo+IVvscjXfqap+Xd6xMyKhRvAk7T6mLW7dEqSLKDIrqyGNQs8wDG9EoQuCBgC+nK6rE=; expires=Mon, 03 Apr 2017 11:08:29 GMT; max-age=6990; path=/; domain=.tokyodisneyresort.jp; HttpOnly
+
+
+
+
+
+
+
+
+<!DOCTYPE html>
+<html lang="ja">
+	<head>
+		
+		
+
+
+
+
+
+
+
+<meta charset="utf-8"/>
+<meta http-equiv="X-UA-Compatible" content="IE=edge,chrome=1" />
+<meta http-equiv="content-language" content="ja" />
+<meta http-equiv="Content-Type" content="text/html; charset=utf-8" />
+<meta http-equiv="Content-Script-Type" content="text/javascript" />
+<meta http-equiv="content-style-type" content="text/css" />
+<meta http-equiv="pragma" content="no-cache" />
+<meta http-equiv="cache-control" content="no-cache" />
+<meta http-equiv="expires" content="0" />
+<meta name="robots" content="noodp" />
+<meta name="description" content=""/>
+<meta name="keywords" content=""/>
+
+
+
+	<title>東京ディズニーリゾート・オンライン予約・購入サイト</title>
+
+	
+	
+		
+		
+		
+
+
+
+
+
+
+	
+
+
+
+<link rel="stylesheet" href="/cgp/css/jp/pc/normalize.css"/>
+<link rel="stylesheet" href="/cgp/css/jp/pc/main.css?rd=2017-03-30_18-12-03"/>
+
+
+
+<link rel="shortcut icon" href="/cgp/images/jp/pc/favicon.ico"/>
+
+	
+		
+		
+		
+
+
+
+
+
+
+
+
+<script type="text/javascript">
+	var context = {
+			isNeedNoActivationNotification : false,
+			languageDiv : "1",
+			isSp: false,
+			isJp: true,
+			isLogin: true
+	};
+</script>
+
+
+<script type="text/javascript" src="/js/lib/modernizr-2.6.2.min.js"></script>
+<script type="text/javascript" src="/js/lib/jquery-1.11.0.min.js"></script>
+<script type="text/javascript" src="/js/lib/jquery-ui-1.10.3.custom.min.js"></script>
+<script type="text/javascript" src="/js/jquery.tdrec.common.js?rd=2017-03-30_18-12-03"></script>
+<script type="text/javascript" src="/js/jquery.tdrec.effect.js?rd=2017-03-30_18-12-03"></script>
+<script type="text/javascript" src="/js/main.js?rd=2017-03-30_18-12-03"></script>
+
+
+<script type="text/javascript" src="/js/app/fcw/log.js?rd=2017-03-30_18-12-03"></script>
+
+
+<script type="text/javascript" src="/js/common/date/date.common.js?rd=2017-03-30_18-12-03"></script>
+
+
+<script type="text/javascript" src="/js/common/lifeobstruction/ajax.lifeobstruction.js?rd=2017-03-30_18-12-03"></script>
+
+
+<script type="text/javascript" src="/js/common/i18n/i18n.js?isJP=true&rd=2017-03-30_18-12-03"></script>
+<script type="text/javascript" src="/js/common/i18n/i18nMessage.js?rd=2017-03-30_18-12-03"></script>
+
+
+<script type="text/javascript" src="/js/common/authc/ajax.authc.js?rd=2017-03-30_18-12-03"></script>
+<script type="text/javascript" src="/js/lib/jquery.blockUI.js?rd=2017-03-30_18-12-03"></script>
+<script type="text/JavaScript" src="/js/common/util/commonUtil.js?rd=2017-03-30_18-12-03"></script>
+<script type="text/JavaScript" src="/js/common/util/apiCommonUtil.js?rd=2017-03-30_18-12-03"></script>
+
+
+<script type="text/javascript" src="/js/common/util/did.js?rd=2017-03-30_18-12-03"></script>
+
+
+<script type="text/javascript" src="/online/js/common/init.js?rd=2017-03-30_18-12-03"></script>
+
+<script type="text/javascript" src="/online/js/common/pc/app.js?rd=2017-03-30_18-12-03"></script>
+
+
+<script type="text/JavaScript" src="/js/common/faqSubmit.js?rd=2017-03-30_18-12-03"></script>
+
+
+
+
+	</head>
+
+	<body>
+		
+		<!-- Google Tag Manager -->
+<noscript><iframe src="//www.googletagmanager.com/ns.html?id=GTM-MFHWBL"
+height="0" width="0" style="display:none;visibility:hidden"></iframe></noscript>
+<script>(function(w,d,s,l,i){w[l]=w[l]||[];w[l].push({'gtm.start':
+new Date().getTime(),event:'gtm.js'});var f=d.getElementsByTagName(s)[0],
+j=d.createElement(s),dl=l!='dataLayer'?'&l='+l:'';j.async=true;j.src=
+'//www.googletagmanager.com/gtm.js?id='+i+dl;f.parentNode.insertBefore(j,f);
+})(window,document,'script','dataLayer','GTM-MFHWBL');</script>
+<!-- End Google Tag Manager -->
+<!-- CADREON Tag -->
+
+<script src="//tt.mbww.com/tt-56eff0923675867f255173936ee40e6f7ada31df62cb00f60fb28d54ee428553.js" async integrity="7rIgO6u4w5CcPZubNYgdMJa+3fVQoYV3KRakow6j4V/U0YlCI+BpWmkP5YY7/fa"></script>
+<!-- End CADREON Tag -->
+		
+		
+
+
+
+
+
+
+
+
+<header id="header" class="loadingHeader" role="banner" style="display: none;">
+	<div class="inner">
+		<p class="logo">
+		
+			<a href="/top/"><img src="/cgp/images/jp/pc/logo/logo_01.png" width="258" height="51" alt="東京ディズニーリゾート　オンライン予約・購入サイト"></a>
+		
+		
+		</p>
+	</div>
+</header>
+
+
+
+
+	
+
+
+
+
+
+
+
+
+
+
+	
+	
+
+<div id="DisnyJp">
+  <script
+    src="/js/disney/tdr_header.js?rd=2017-03-30_18-12-03"
+    id="_tdr-header-lang" class="ja"></script>
+</div>
+	
+	<header id="header" role="banner" class="header">
+		<div class="inner">
+	    	<p class="logo">
+	    		<a href="/top/"><img src="/cgp/images/jp/pc/logo/logo_01.png" width="258" height="51" alt="東京ディズニーリゾート　オンライン予約・購入サイト"></a>
+	    	</p>
+		    <ul class="nav01">
+				<li><a href="/far/inquiry_01" target="_blank">お問い合わせ</a></li>
+				<li><a href="/about/index" target="_blank">ヘルプ</a></li>
+
+		    </ul>
+		    <ul class="nav02">
+		    	
+		    	  
+			      <li><a href="/fli/logout/"><img src="/cgp/images/jp/pc/btn/btn_header_06.png" width="105" height="22" alt="ログアウト" class="roll"></a></li>
+			      <li><a href="/mypage/"><img src="/cgp/images/jp/pc/btn/btn_header_07.png" width="105" height="22" alt="ユーザー情報" class="roll"></a></li>
+		    	
+		    	
+		    </ul>
+		    <ul class="nav03">
+		      
+		      	<li><a href="/order/list/"><img src="/cgp/images/jp/pc/btn/btn_header_03.png" width="125" height="22" alt="予約・購入履歴" class="roll"></a></li>
+		      
+		      
+		      
+		      
+		      
+		      	<li><a href="/online/travelbag/edit/"><img src="/cgp/images/jp/pc/btn/btn_header_04.png" width="111" height="22" alt="トラベルバッグ" class="roll"></a></li>
+		      
+		      
+		      <li><a href="/checklist/"><img src="/cgp/images/jp/pc/btn/btn_header_05.png" width="83" height="22" alt="検討リスト" class="roll"></a></li>
+		    </ul>
+	  </div>
+		<nav class="globalNav">
+			<ul>
+				<li><a href="/vp/search/"><img src="/cgp/images/jp/pc/btn/btn_gn_01.png" width="150" height="32" alt="バケーションパッケージ" class="roll"></a></li>
+				<li><a href="/hotel/list/"><img src="/cgp/images/jp/pc/btn/btn_gn_02.png" width="105" height="32" alt="ホテル" class="roll"></a></li>
+				<li><a href="/ticket/list/"><img src="/cgp/images/jp/pc/btn/btn_gn_03.png" width="130" height="32" alt="チケット" class="roll"></a></li>
+                <li><a href="/gift/index/"><img src="/cgp/images/jp/pc/btn/btn_gn_09.png" width="131" height="32" alt="オンラインギフト" class="roll"></a></li>
+				<li><a href="/restaurant/list/"><img src="/cgp/images/jp/pc/btn/btn_gn_04.png" width="84" height="32" alt="レストラン" class="roll"></a></li>
+				<li><a href="/showrestaurant/list/"><img src="/cgp/images/jp/pc/btn/btn_gn_05.png" width="101" height="32" alt="ショーレストラン" class="roll"></a></li>
+				<li><a href="/guidetour/list/"><img src="/cgp/images/jp/pc/btn/btn_gn_06.png" width="86" height="32" alt="ガイドツアー" class="roll"></a></li>
+				<li><a href="/bbq/top/"><img src="/cgp/images/jp/pc/btn/btn_gn_07.png" width="162" height="32" alt="ビビディ・バビディ・ブティック" class="roll"></a></li>
+			</ul>
+		</nav>
+	</header>
+	
+
+	
+
+
+
+
+
+
+<script type="text/javascript" src="/js/app/fli/login.js?rd=2017-03-30_18-12-03"></script>
+
+
+
+<div id="hoPop" class="loginModalWrap" style="top:150px;display: none;">
+  <div class="loginModalBox01">
+    <h1><img src="/cgp/images/jp/pc/tit/tit_login_modal_01.png" width="291" height="66" alt="ログイン"></h1>
+    <div class="loginInnerbox">
+      <p class="loginBoxText01">当サイトでは、東京ディズニーリゾートが企画したオリジナルのパッケージプラン「バケーションパッケージ」やディズニーホテル(客室)、パークチケットをオンラインでのご購入が可能です。</p>
+      <p class="loginBoxText01">※13歳未満の方はご購入できません。</p>
+      <form id="loginForm" autocomplete="off" method="post" action="/fli/doLogin/" name="loginForm">
+      <div class="isNotExit">
+      	<p></p>
+      </div>
+      <table>
+        <tr class="expand">
+          <th>メールアドレス<br>または ユーザーID<br><p class="small">(ディズニーアカウント<br>メンバー名)</p></th>
+          <td>
+          <input type="text" id="userId" name="userId" value="" maxlength="128" autocomplete="off">
+          <p class="errorMsg userIdMsg"></p>
+          </td>
+        </tr>
+        <tr>
+          <th>パスワード</th>
+          <td>
+          <input type="password" id="password" name="password" value="" maxlength="25" autocomplete="off">
+          <p class="errorMsg passwordMsg"></p>
+          </td>
+        </tr>
+      </table>
+      <div style="display:none;"><input type="submit"></div>
+      </form>
+      <div class="loginBtn01"><a href="javascript:void(0);" onclick="Login.loginPopup('popup1','/fli/doLogin/')"><img src="/cgp/images/jp/pc/btn/btn_login_01.png" width="235" height="48" alt="ログイン" class="roll"></a></div>
+      <p class="loginBoxText02">ユーザー登録・ログイン・パスワードに関するご質問は<a href="/faq/regist_01" target="_blank" class="linkLine">こちら</a><br>ユーザー登録がお済みでない方は、こちらから新規登録をお願いします。</p>
+      <div class="loginBtn02">
+      	<a href="javascript:void(0);" onclick="$('#_rgDoneUrl').val($('#modalDialog').find('#_currentUrl').val());$('#registerForm').submit();">
+      		<img src="/cgp/images/jp/pc/btn/btn_login_02.png" width="233" height="45" alt="新規ユーザー登録" class="roll">
+      	</a>
+      </div>
+    </div>
+    <input type="hidden" id="_currentUrl" name="currentUrl" value=""/>
+  </div>
+</div>
+
+<form id="registerForm" style="display:none;" method="post" action="/user/birthdate/" name="registerForm">
+	<input type="hidden" id="_rgDoneUrl" name="currentUrl" value=""/>
+</form>
+
+
+<input type="hidden" id="_loginRecreate" value="/fli/recreate/">
+
+ 
+
+
+
+
+
+		 
+		
+		
+		<div id="content" role="main">
+			
+			
+
+			
+
+
+
+
+
+
+
+
+<ul class="topicPath cf">
+	
+		<li>
+		
+		
+			<a href='/top/'>トップ</a>
+		
+		
+		</li>
+	
+		<li>
+		&nbsp;
+		
+			<a href='/mypage/'>ユーザー情報TOP</a>
+		
+		
+		</li>
+	
+		<li>
+		&nbsp;
+		
+		
+			情報配信サービスの確認・変更
+		
+		</li>
+	
+</ul>
+
+			
+
+
+
+
+
+
+
+
+
+<script type="text/JavaScript" src="/js/app/fsu/memberRegister.js?rd=2017-03-30_18-12-03"></script>
+
+
+<div class="section02">
+	<h1>
+		<img src="/cgp/images/jp/pc/tit/tit_member_info_03.png" width="376" height="28" alt="情報配信サービスの確認・変更">
+	</h1>
+
+	
+	
+	<p class="pgh02">
+		購読対象を選択後、内容をご確認のうえ「確認する」ボタンを押してください。<br>
+	</p>
+	<br />
+
+	<form id="memberInfoForm" method="post" action='/mypage/news/confirm/'>
+
+	<div class="hdg01">
+		<h2 class="heading">情報配信サービス</h2>
+	</div>
+	<h3 class="hdg02">配信サービス選択</h3>
+	<p class="pghForm01">興味のある情報にチェックを入れますと、ディズニー及び東京ディズニーリゾートから最新情報をお送りします。</p>
+	<div class="boxChoice01">
+		<p>
+			<input type="checkbox" id="selectAll" class="checkbox">
+			<label for="selectAll" class="checkboxLabel">全ての選択を解除する / 全てを選択する</label>
+		</p>
+		<div class="pghForm01">
+			<ul class="list03 cf" style="margin-top:10px;">
+				
+					
+						<li>
+							<input type="checkbox" id="check_JAPANDI_DISNEYNEWS_NEWSLETTER" class="checkbox allCheckBox" name="deliveryServiceList" value="JAPANDI_DISNEYNEWS_NEWSLETTER" 
+							checked="checked"/>
+							<label for="check_JAPANDI_DISNEYNEWS_NEWSLETTER" class="checkboxLabel">ディズニー最新情報ニュースメール</label>
+						</li>
+					
+						<li>
+							<input type="checkbox" id="check_JAPANDI_MOVIESDVDS_NEWSLETTER" class="checkbox allCheckBox" name="deliveryServiceList" value="JAPANDI_MOVIESDVDS_NEWSLETTER" 
+							checked="checked"/>
+							<label for="check_JAPANDI_MOVIESDVDS_NEWSLETTER" class="checkboxLabel">ディズニースタジオニュースメール</label>
+						</li>
+					
+						<li>
+							<input type="checkbox" id="check_JAPANDI_TV_NEWSLETTER" class="checkbox allCheckBox" name="deliveryServiceList" value="JAPANDI_TV_NEWSLETTER" 
+							checked="checked"/>
+							<label for="check_JAPANDI_TV_NEWSLETTER" class="checkboxLabel">ディズニーTVニュースメール</label>
+						</li>
+					
+						<li>
+							<input type="checkbox" id="check_JAPANDI_MUSIC_NEWSLETTER" class="checkbox allCheckBox" name="deliveryServiceList" value="JAPANDI_MUSIC_NEWSLETTER" 
+							checked="checked"/>
+							<label for="check_JAPANDI_MUSIC_NEWSLETTER" class="checkboxLabel">ディズニーミュージック/イベントライブニュースメール</label>
+						</li>
+					
+						<li>
+							<input type="checkbox" id="check_JAPANDI_DISRESORTOVERSEAS_NWSL" class="checkbox allCheckBox" name="deliveryServiceList" value="JAPANDI_DISRESORTOVERSEAS_NWSL" 
+							checked="checked"/>
+							<label for="check_JAPANDI_DISRESORTOVERSEAS_NWSL" class="checkboxLabel">海外ディズニーリゾートニュースメール</label>
+						</li>
+					
+						<li>
+							<input type="checkbox" id="check_JAPANDI_TOKYODISRESORT_NWSL" class="checkbox allCheckBox" name="deliveryServiceList" value="JAPANDI_TOKYODISRESORT_NWSL" 
+							checked="checked"/>
+							<label for="check_JAPANDI_TOKYODISRESORT_NWSL" class="checkboxLabel">東京ディズニーリゾートニュースメール</label>
+						</li>
+					
+						<li>
+							<input type="checkbox" id="check_JAPANDI_MOBILE_NEWSLETTER" class="checkbox allCheckBox" name="deliveryServiceList" value="JAPANDI_MOBILE_NEWSLETTER" 
+							checked="checked"/>
+							<label for="check_JAPANDI_MOBILE_NEWSLETTER" class="checkboxLabel">ディズニーモバイルサービスニュースメール</label>
+						</li>
+					
+						<li>
+							<input type="checkbox" id="check_JAPANDI_SHOPPING_NEWSLETTER" class="checkbox allCheckBox" name="deliveryServiceList" value="JAPANDI_SHOPPING_NEWSLETTER" 
+							checked="checked"/>
+							<label for="check_JAPANDI_SHOPPING_NEWSLETTER" class="checkboxLabel">ディズニーショッピングニュースメール</label>
+						</li>
+					
+						<li>
+							<input type="checkbox" id="check_JAPANDI_FAMILY_NEWSLETTER" class="checkbox allCheckBox" name="deliveryServiceList" value="JAPANDI_FAMILY_NEWSLETTER" 
+							checked="checked"/>
+							<label for="check_JAPANDI_FAMILY_NEWSLETTER" class="checkboxLabel">ディズニー パパママ通信ニュースメール</label>
+						</li>
+					
+						<li>
+							<input type="checkbox" id="check_JAPANDI_MEMBERSHIP_NEWSLETTER" class="checkbox allCheckBox" name="deliveryServiceList" value="JAPANDI_MEMBERSHIP_NEWSLETTER" 
+							checked="checked"/>
+							<label for="check_JAPANDI_MEMBERSHIP_NEWSLETTER" class="checkboxLabel">ディズニーメンバーシップニュースメール</label>
+						</li>
+					
+						<li>
+							<input type="checkbox" id="check_JAPANDI_THIRDPARTYINFO_NWSL" class="checkbox allCheckBox" name="deliveryServiceList" value="JAPANDI_THIRDPARTYINFO_NWSL" 
+							checked="checked"/>
+							<label for="check_JAPANDI_THIRDPARTYINFO_NWSL" class="checkboxLabel">ディズニーが選んだ企業からのオトクなニュースメール（広告）</label>
+						</li>
+					
+						<li>
+							<input type="checkbox" id="check_JAPANDI_MARVEL_NEWSLETTER" class="checkbox allCheckBox" name="deliveryServiceList" value="JAPANDI_MARVEL_NEWSLETTER" 
+							checked="checked"/>
+							<label for="check_JAPANDI_MARVEL_NEWSLETTER" class="checkboxLabel">マーベルニュースメール</label>
+						</li>
+					
+						<li>
+							<input type="checkbox" id="check_JAPANDI_DLIFE_NEWSLETTER" class="checkbox allCheckBox" name="deliveryServiceList" value="JAPANDI_DLIFE_NEWSLETTER" 
+							checked="checked"/>
+							<label for="check_JAPANDI_DLIFE_NEWSLETTER" class="checkboxLabel">Dlifeニュースメール</label>
+						</li>
+					
+				
+			</ul>
+		</div>
+	</div>
+
+	<input type="hidden" name="initFlg" value='1'>
+	
+	</form>
+	
+	<ul class="listBtn01">
+		<li>
+			<input type="image" onclick="loadImage(function(){$('#memberInfoForm').submit();}); return false;" src="/cgp/images/jp/pc/btn/btn_confirm_04.png" alt="確認画面へ" class="roll">
+		</li>
+		
+	</ul>
+	
+</div>
+
+
+		</div>
+		 
+		
+		
+		
+
+
+
+
+
+
+
+
+
+	
+
+
+
+
+
+
+
+<footer role="contentinfo" id="footer">
+  <p class="logo">
+  
+   	<a href="http://www.tokyodisneyresort.jp/tds/" target="_blank">
+  		<img src="/cgp/images/jp/pc/logo/logo_02_01.png" alt="東京ディズニーシー">
+  	</a>
+   	<a href="http://www.tokyodisneyresort.jp/top.html" target="_blank">
+  		<img src="/cgp/images/jp/pc/logo/logo_02_02.png" alt="東京ディズニーリゾート">
+  	</a>
+   	<a href="http://www.tokyodisneyresort.jp/tdl/" target="_blank">
+  		<img src="/cgp/images/jp/pc/logo/logo_02_03.png" alt="東京ディズニーランド">
+  	</a>
+  
+  </p>
+  
+  
+  
+
+
+  <div class="inner">
+    <div class="cf">
+      <ul class="nav01">
+        <li><a target="_blank" href="/far/inquiry_01">問い合わせ</a></li>
+        
+        <li><a target="_blank" href="/about/index#faq">よくあるご質問</a></li>
+        
+        <li><a target="_blank" href="http://www.tokyodisneyresort.jp/calendar/">運営カレンダー</a></li>
+        <li><a target="_blank" href="http://www.tokyodisneyresort.jp/tdr/about/resort.html">マップ</a></li>
+        <li><a target="_blank" href="http://www.tokyodisneyresort.jp/access/">交通アクセス</a></li>
+      </ul>
+      <ul class="nav02">
+        <li><a target="_blank" href="/condition/p_cond_07">旅行条件書</a></li>
+        <li><a target="_blank" href="/condition/p_cond_08">標識・約款</a></li>
+        <li><a target="_blank" href="/about/usersguide_01#inscription">特定商取法に基づく表記</a></li>
+        <li><a target="_blank" href="http://www.tokyodisneyresort.jp/tdr/privacy.html">プライバシーポリシー</a></li>
+        <li><a target="_blank" href="http://www.tokyodisneyresort.jp/tdr/legal.html">法的制約と使用条件</a></li>
+        <li><a target="_blank" href="/condition/user_cond">利用規約</a></li>
+      </ul>
+    </div>
+    <p class="copyright">Copyright &copy; Disney. All Rights Reserved.</p>
+  </div>
+</footer>
+
+
+
+
+
+		 
+		
+		
+		<div id="castle">
+		  <div></div>
+		</div>
+		
+	
+		
+		
+
+
+
+
+
+
+
+<img hidden="true" src="/cgp/images/jp/pc/ico/ico_loading_02.gif" width="67" height="67" alt="ローディング中...">
+
+<script id="loadImage" type="text/template">
+	<div class="loading04">
+		<img src="/cgp/images/jp/pc/ico/ico_loading_02.gif" width="67" height="67" alt="ローディング中...">
+	</div>
+</script> 
+
+
+	
+	
+		
+		
+
+
+
+
+
+
+
+<script type="text/javascript">
+	/**
+	 * エラーメッセージをダイアログ表示する
+	 */
+	function errorMsgAlertDialog(errorMsg, callback) {
+		
+		if ( $('.notShowErrorMsgPopup').length > 0 ) {
+			return false;
+		}
+
+		//エラーメッセージを表示する
+		var $errorbox = $('#apiMsg_modalDialog').find('.errorMsgBox');
+
+		//clean the errors
+		$errorbox.contents().remove();
+
+		$errorbox.append(errorMsg);
+
+		$.tdrec.dialogSmall({
+			useCloseButton : true,
+			useBottomCloseButton: true,
+			feedInSpeed : 100,
+			contents : $('#apiMsg_modalDialog').html()
+		}).open();
+
+		$('body').on('click', '.dialogClose', function( e ) {
+			$('#modalOverlay, #modalDialog').remove();
+			
+			if ((typeof callback != "undefined") && $.isFunction(callback)) {
+				callback();
+			}
+		});
+	}
+</script>
+
+<div id="apiMsg_modalDialog" style="top: 150px; display: none;" class="modal02">
+	<div class="boxModal15">
+		<p class="errorMsgBox"></p>
+	</div>
+</div>
+
+
+
+	
+
+
+
+		
+		
+			
+
+
+
+
+
+
+			
+
+
+
+
+
+
+		
+	</body>
+</html>

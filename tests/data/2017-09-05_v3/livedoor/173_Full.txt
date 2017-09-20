@@ -1,0 +1,136 @@
+GET https://member.livedoor.com/reminder/ HTTP/1.1
+Host: member.livedoor.com
+User-Agent: Mozilla/5.0 (Windows NT 6.1; WOW64; rv:51.0) Gecko/20100101 Firefox/51.0
+Accept: text/html,application/xhtml+xml,application/xml;q=0.9,*/*;q=0.8
+Accept-Language: ja,en-US;q=0.7,en;q=0.3
+Referer: https://member.livedoor.com/login/?.sv=top
+Cookie: _ga=GA1.2.782945163.1484635068; ucd=ZpmlGMuZD2bgplA1PzMORjYrG4EGnmYC; ucd_sig=rEgLOFXwiKWGsTI2bltrck4GRZ8%3A1487584567; ldsuid=y2iZKFitAhQNPcCPzfN3Ag==; member_sid=4f5d006645e2fd8eb86343554bfc60cb; .LRCS=7c12faaf6a62cf5f0956f1f129d7ba6b; __utma=222699911.782945163.1484635068.1487731851.1487731851.1; __utmb=222699911.11.10.1487731851; __utmc=222699911; __utmz=222699911.1487731851.1.1.utmcsr=(direct)|utmccn=(direct)|utmcmd=(none); __utmt=1; _gat=1
+Connection: close
+Upgrade-Insecure-Requests: 1
+
+
+HTTP/1.1 200 OK
+Date: Wed, 22 Feb 2017 03:16:36 GMT
+Server: Plack::Handler::Starlet
+Content-Type: text/html; charset=utf-8
+Set-Cookie: member_sid=4f5d006645e2fd8eb86343554bfc60cb; domain=.member.livedoor.com; path=/; secure
+Vary: Accept-Encoding,User-Agent
+Connection: close
+Transfer-Encoding: chunked
+
+1237
+<?xml version="1.0" encoding="utf-8"?>
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+<html xmlns="http://www.w3.org/1999/xhtml" xml:lang="ja" lang="ja">
+<head>
+	<meta http-equiv="Content-Type" content="text/html; charset=UTF-8" />
+	<title>livedoor - livedoor IDやパスワードを忘れた方へ</title>
+	<meta name="keywords" content="livedoor" />
+	<meta name="description" content="livedoorへようこそ" />
+	<meta http-equiv="Content-Style-Type" content="text/css" />
+	<meta http-equiv="Content-Script-Type" content="text/javascript" />
+	<meta name="verify-v1" content="1bivxaxGrLBSoWSu7qAOa0M36HWHyewW+8YqCFDlBZQ=" />
+	<link rel="stylesheet" type="text/css" href="/common/css/login/login.css" />
+	<link rel="stylesheet" type="text/css" href="/common/css/register/register.css" />
+	<script type="text/javascript" src="/common/js/homepage.js"></script>
+	<script type="text/javascript" src="/common/js/jquery-1.6.2.min.js"></script>
+    
+</head>
+
+<body>
+<div id="headerWrapper" class="header wrapper">
+<div id="contentHeader" class="header wrapper">
+	<ul id="logo">
+	<li><a href="http://www.livedoor.com/" title="livedoor トップページ"><img src="/common/img/login/01/livedoor.gif" width="95" height="31" alt="livedoor" /></a></li>
+	</ul>
+	<ul>
+	<li><a href="/info/" title="登録情報">登録情報</a></li>
+	<li><a href="http://help.livedoor.com/ldid/" title="ヘルプページ">ヘルプ</a></li>
+	<li><a href="http://www.livedoor.com/" title="livedoor トップページ">livedoor</a></li>
+	</ul>
+</div>
+
+</div>
+
+
+
+<div id="mainContent" class="clearfix">
+
+<div class="registerbox clearfix">
+	<div class="registerbox_head"></div>
+	<div class="registerbox_body">
+	<p class="read">livedoor IDやパスワードを忘れた方へ</p>
+	</div>
+	<div class="registerbox_foot"></div>
+</div>
+
+<div class="registerbox clearfix">
+	<div class="registerbox_head"></div>
+	<div class="registerbox_body clearfix">
+
+		<div id="remindertitle1" class="infotitlebox"><h2>livedoor IDを忘れた方</h2></div>
+
+		<div class="guidebox"><p>livedoor IDを、認証済みのメールアドレスに再通知いたします。<br />認証されていないメールアドレスには通知できません。</p></div>
+
+		<div class="secretbox">
+			<p class="link"><b><a href="livedoor_id">livedoor IDを再通知する</a></b></p>
+		</div>
+
+		<div id="remindertitle2" class="infotitlebox"><h2>パスワードを忘れた方</h2></div>
+
+		<div class="guidebox"><p>認証済みのメールアドレスに再設定用URLを通知いたします。<br />認証されていないメールアドレスには通知できません。</p></div>
+
+		<div class="secretbox">
+			<p class="link"><b><a href="resend_password">パスワードを再発行する</a></b></p>
+		</div>
+
+		<div id="remindertitle3" class="infotitlebox"><h2>livedoor IDとパスワードを忘れた方</h2></div>
+		<div class="guidebox" style="margin-bottom: 40px;"><p>お手数ですが、livedoor IDをお調べいただいてからパスワードの再発行を行ってください。</p></div>
+
+		<div id="remindertitle4" class="infotitlebox"><h2>livedoor IDやパスワードを忘れた方、メルマガを停止したい方へ</h2></div>
+		<div class="guidebox"><p>メールアドレスに登録解除用URLを通知いたします。</p></div>
+
+		<div class="secretbox">
+			<p class="link"><b><a href="optout">メールマガジンの登録を解除する</a></b></p>
+		</div>
+
+	</div>
+	<div class="registerbox_foot"></div>
+</div>
+
+</div>
+
+<div id="footer" class="clearfix">
+<ul>
+<li><a href="http://www.livedoor.com/">livedoorトップ</a></li>
+<li><a href="javaScript:setStartPage()">livedoorをホームに設定</a></li>
+<li><a href="http://recruit.livedoor.com/">採用情報</a></li>
+<li><a href="http://docs.livedoor.com/ad/">広告掲載</a></li>
+<li><a href="http://docs.livedoor.com/info/kiyaku.html">利用規約</a></li>
+<li><a href="http://docs.livedoor.com/info/privacy.html">プライバシーポリシー</a></li>
+</ul>
+
+<p>&copy; LINE Corporation</p>
+</div>
+
+<script type="text/javascript">
+
+  var _gaq = _gaq || [];
+  _gaq.push(['_setAccount', 'UA-1638469-25']);
+  _gaq.push(['_setDomainName', 'member.livedoor.com']);
+  _gaq.push(['_trackPageview']);
+
+  (function() {
+    var ga = document.createElement('script'); ga.type = 'text/javascript'; ga.async = true;
+    ga.src = ('https:' == document.location.protocol ? 'https://ssl' : 'http://www') + '.google-analytics.com/ga.js';
+    var s = document.getElementsByTagName('script')[0]; s.parentNode.insertBefore(ga, s);
+  })();
+
+</script>
+
+</body>
+</html>
+
+
+0
+

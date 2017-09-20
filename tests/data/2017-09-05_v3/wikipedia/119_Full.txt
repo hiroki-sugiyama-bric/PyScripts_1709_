@@ -1,0 +1,1581 @@
+GET https://ja.wikipedia.org/wiki/%E7%89%B9%E5%88%A5:%E5%80%8B%E4%BA%BA%E8%A8%AD%E5%AE%9A HTTP/1.1
+Host: ja.wikipedia.org
+User-Agent: Mozilla/5.0 (Windows NT 6.1; WOW64; rv:51.0) Gecko/20100101 Firefox/51.0
+Accept: text/html,application/xhtml+xml,application/xml;q=0.9,*/*;q=0.8
+Accept-Language: ja,en-US;q=0.7,en;q=0.3
+Referer: https://ja.wikipedia.org/wiki/%E7%89%B9%E5%88%A5:%E5%80%8B%E4%BA%BA%E8%A8%AD%E5%AE%9A
+Cookie: StewardVoteEligible=0; WMF-Last-Access=24-Feb-2017; WMF-Last-Access-Global=24-Feb-2017; VEE=visualeditor; jawikiUserName=Testtesti9994; GeoIP=JP:::36.00:138.00:v4; jawikimwuser-sessionId=ca2951a625d13d5d; jawikiSession=233rq86k16d394ii0jbp446toq1io37v; jawikiGeoFeaturesUser2=a663828c16df0f3f; jawikiUserID=1186985; forceHTTPS=true; centralauth_User=Testtesti9994; centralauth_Session=bad7e89ad574136c89dc24e2f654f9e5; cpPosTime=1487922796.1988; UseDC=master; UseCDNCache=false
+Connection: close
+Upgrade-Insecure-Requests: 1
+
+
+HTTP/1.1 200 OK
+Date: Fri, 24 Feb 2017 07:53:17 GMT
+Content-Type: text/html; charset=UTF-8
+Transfer-Encoding: chunked
+Connection: close
+Server: mw1238.eqiad.wmnet
+X-Powered-By: HHVM/3.12.14
+Expires: Thu, 01 Jan 1970 00:00:00 GMT
+X-Frame-Options: DENY
+Vary: Accept-Encoding,Cookie,Authorization
+X-UA-Compatible: IE=Edge
+Content-language: ja
+X-Content-Type-Options: nosniff
+Backend-Timing: D=198411 t=1487922796814111
+X-Varnish: 396745980, 454861042, 629435050, 521820465
+Via: 1.1 varnish-v4, 1.1 varnish-v4, 1.1 varnish-v4, 1.1 varnish-v4
+Accept-Ranges: bytes
+Age: 0
+X-Cache: cp1067 pass, cp2019 pass, cp4010 pass, cp4016 pass
+X-Cache-Status: pass
+Strict-Transport-Security: max-age=31536000; includeSubDomains; preload
+X-Analytics: ns=-1;special=Preferences;loggedIn=1;WMF-Last-Access=24-Feb-2017;WMF-Last-Access-Global=24-Feb-2017;https=1
+X-Client-IP: 2404:7a00:100:4238:821:d862:4adb:84f8
+Cache-Control: private, s-maxage=0, max-age=0, must-revalidate
+
+c24
+<!DOCTYPE html>
+<html class="client-nojs" lang="ja" dir="ltr">
+<head>
+<meta charset="UTF-8"/>
+<title>個人設定 - Wikipedia</title>
+<script>document.documentElement.className = document.documentElement.className.replace( /(^|\s)client-nojs(\s|$)/, "$1client-js$2" );</script>
+<script>(window.RLQ=window.RLQ||[]).push(function(){mw.config.set({"wgCanonicalNamespace":"Special","wgCanonicalSpecialPageName":"Preferences","wgNamespaceNumber":-1,"wgPageName":"特別:個人設定","wgTitle":"個人設定","wgCurRevisionId":0,"wgRevisionId":0,"wgArticleId":0,"wgIsArticle":false,"wgIsRedirect":false,"wgAction":"view","wgUserName":"Testtesti9994","wgUserGroups":["*","user"],"wgCategories":[],"wgBreakFrames":true,"wgPageContentLanguage":"ja","wgPageContentModel":"wikitext","wgSeparatorTransformTable":["",""],"wgDigitTransformTable":["",""],"wgDefaultDateFormat":"ja","wgMonthNames":["","1月","2月","3月","4月","5月","6月","7月","8月","9月","10月","11月","12月"],"wgMonthNamesShort":["","1月","2月","3月","4月","5月","6月","7月","8月","9月","10月","11月","12月"],"wgRelevantPageName":"特別:個人設定","wgRelevantArticleId":0,"wgRequestId":"WK-mbApAMEkAAH1k5FUAAABF","wgUserId":1186985,"wgUserEditCount":0,"wgUserRegistration":1487922693000,"wgUserNewMsgRevisionId":null,"wgIsProbablyEditable":false,"wgGlobalGroups":[],"wgWikiEditorEnabledModules":{"toolbar":true,"dialogs":true,"preview":false,"publish":false},"wgBetaFeaturesFeatures":{"popups":[],"visualeditor-enable":{"blacklist":{"msie":[["\u003C=",8]],"android":[["\u003C",3]],"firefox":[["\u003C=",11]],"safari":[["\u003C=",6]],"opera":[["\u003C",12]],"blackberry":null,"silk":null}},"visualeditor-newwikitext":{"blacklist":{"msie":[["\u003C=",8]],"android":[["\u003C",3]],"firefox":[["\u003C=",11]],"safari":[["\u003C=",6]],"opera":[["\u003C",12]],"blackberry":null,"silk":null}},"read-more":[],"revisionslider":[],"cx":{"blacklist":{"msie":[["\u003C",10]]}}},"wgMediaViewerOnClick":false,"wgMediaViewerEnabledByDefault":true,"wgPopupsShouldSendModuleToUser":false,"wgPopupsConflictsWithNavPopupGadget":false,"wgVisualEditor":{"pageLanguageCode":"ja","pageLanguageDir":"ltr","usePageImages":true,"usePageDescriptions":true},"wgPreferredVariant":"ja","wgMFDisplayWikibaseDescriptions":{"search":true,"nearby":true,"watchlist":true,"tagline":true},"wgEchoEventLoggingSchemas":{"EchoMail":{"enabled":true,"revision":5467650,"client":false},"EchoInteraction":{"enabled":true,"revision":15823738,"client":true},"Echo":{"enabled":false,"revision":7731316,"client":false}},"wgEchoEventLoggingVersion":"1.12","wgRelatedArticles":null,"wgRelatedArticlesBetaFeatureEnabled":false,"wgRelatedArticlesUseCirrusSearch":true,"wgRelatedArticlesOnlyUseCirrusSearch":false,"wgULSAcceptLanguageList":["ja","en-us","en"],"wgULSCurrentAutonym":"日本語","wgNoticeProject":"wikipedia","wgCentralNoticeCookiesToDelete":[],"wgCentralNoticeCategoriesUsingLegacy":["Fundraising","fundraising"],"wgNoticeUserData":{"registration":"20170224075133"},"wgCategoryTreePageCategoryOptions":"{\"mode\":0,\"hideprefix\":20,\"showcount\":true,\"namespace
+1000
+s\":false}","wgVisualEditorToolbarScrollOffset":0,"wgEditSubmitButtonLabelPublish":false,"wgEchoSeenTime":{"alert":"1970-01-01T00:00:01Z","notice":"2017-02-24T07:52:20Z"}});mw.loader.state({"user.options":"loading","user.tokens":"loading","mediawiki.special.preferences.styles":"ready","mediawiki.notification.convertmessagebox.styles":"ready","mediawiki.helplink":"ready","mediawiki.htmlform.styles":"ready","ext.betaFeatures.styles":"ready","oojs-ui-core.styles":"ready","oojs-ui.styles.icons":"ready","oojs-ui.styles.indicators":"ready","oojs-ui.styles.textures":"ready","mediawiki.widgets.styles":"ready","oojs-ui.styles.icons-content":"ready","oojs-ui.styles.icons-alerts":"ready","ext.visualEditor.desktopArticleTarget.noscript":"ready","ext.echo.styles.badge":"ready","ext.echo.badgeicons":"ready","ext.uls.interlanguage":"ready","ext.wikimediaBadges":"ready","mediawiki.legacy.shared":"ready","mediawiki.legacy.commonPrint":"ready","mediawiki.sectionAnchor":"ready","mediawiki.skinning.interface":"ready","skins.vector.styles":"ready"});mw.loader.implement("user.options@1rfdp26",function($,jQuery,require,module){mw.user.options.set({"echo-subscriptions-email-edit-thank":"1","editsectiononrightclick":"1","echo-subscriptions-email-edit-user-talk":1,"echo-subscriptions-web-reverted":"0","echo-subscriptions-email-article-linked":"1","echo-subscriptions-web-article-linked":"1","echo-subscriptions-email-mention":"1","cx":"0","read-more":"0","revisionslider":"0"});});mw.loader.implement("user.tokens@1dqfd7l",function ( $, jQuery, require, module ) {
+mw.user.tokens.set({"editToken":"8c08a8e494d1b46906b30ff762ec012d58afe66c+\\","patrolToken":"28ab4ac41599d8f7d1d9687ac1f58a5558afe66c+\\","watchToken":"1ab262d8033a97428b1603f88f4ef31a58afe66c+\\","csrfToken":"8c08a8e494d1b46906b30ff762ec012d58afe66c+\\"});/*@nomin*/;
+
+});mw.loader.load(["mediawiki.special.preferences","mediawiki.htmlform","ext.betaFeatures","mediawiki.page.startup","mediawiki.user","mediawiki.hidpi","mediawiki.page.ready","mediawiki.legacy.wikibits","mediawiki.searchSuggest","mediawiki.action.view.rightClickEdit","ext.centralauth.centralautologin.clearcookie","ext.visualEditor.desktopArticleTarget.init","ext.visualEditor.targetLoader","ext.echo.init","ext.eventLogging.subscriber","ext.wikimediaEvents","ext.wikimediaEvents.loggedin","ext.navigationTiming","ext.uls.eventlogger","ext.uls.init","ext.uls.compactlinks","ext.uls.interface","ext.centralNotice.geoIP","skins.vector.js"]);});</script>
+<link rel="stylesheet" href="/w/load.php?debug=false&amp;lang=ja&amp;modules=ext.betaFeatures.styles%7Cext.echo.badgeicons%7Cext.echo.styles.badge%7Cext.uls.interlanguage%7Cext.visualEditor.desktopArticleTarget.noscript%7Cext.wikimediaBadges%7Cmediawiki.helplink%2CsectionAnchor%7Cmediawiki.htmlform.styles%7Cmediawiki.legacy.commonPrint%2Cshared%7Cmediawiki.notification.convertmessagebox.styles%7Cmediawiki.skinning.interface%7Cmediawiki.special.preferences.styles%7Cmediawiki.widgets.styles%7Coojs-ui-core.styles%7Coojs-ui.styles.icons%2Cicons-alerts%2Cicons-content%2Cindicators%2Ctextures%7Cskins.vector.styles&amp;only=styles&amp;skin=vector"/>
+<script async="" src="/w/load.php?debug=false&amp;lang=ja&amp;modules=startup&amp;only=scripts&amp;skin=vector"></script>
+<meta name="ResourceLoaderDynamicStyles" content=""/>
+<meta name="generator" content="MediaWiki 1.29.0-wmf.13"/>
+<meta name="referrer" content="origin-when-cross-origin"/>
+<meta name="robots" content="noindex,nofollow"/>
+<link rel="apple-touch-icon" href="/static/apple-touch/wikipedia.png"/>
+<link rel="shortcut icon" href="/static/favicon/wikipedia.ico"/>
+<link rel="search" type="application/opensearchdescription+xml" href="/w/opensearch_desc.php" title="Wikipedia (ja)"/>
+<link rel="EditURI" type="application/rsd+xml" href="//ja.wikipedia.org/w/api.php?action=rsd"/>
+<link rel="copyright" href="//creativecommons.org/licenses/by-sa/3.0/"/>
+<link rel="alternate" type="application/atom+xml" title="WikipediaのAtomフィード" href="/w/index.php?title=%E7%89%B9%E5%88%A5:%E6%9C%80%E8%BF%91%E3%81%AE%E6%9B%B4%E6%96%B0&amp;feed=atom"/>
+
+1000
+<link rel="canonical" href="https://ja.wikipedia.org/wiki/%E7%89%B9%E5%88%A5:%E5%80%8B%E4%BA%BA%E8%A8%AD%E5%AE%9A"/>
+</head>
+<body class="mediawiki ltr sitedir-ltr mw-hide-empty-elt ns--1 ns-special mw-special-Preferences page-特別_個人設定 rootpage-特別_個人設定 skin-vector action-view">		<div id="mw-page-base" class="noprint"></div>
+		<div id="mw-head-base" class="noprint"></div>
+		<div id="content" class="mw-body" role="main">
+			<a id="top"></a>
+
+							<div id="siteNotice"><!-- CentralNotice --></div>
+						<div class="mw-indicators">
+<div id="mw-indicator-mw-helplink" class="mw-indicator"><a href="//www.mediawiki.org/wiki/Special:MyLanguage/Help:Preferences" target="_blank" class="mw-helplink">ヘルプ</a></div>
+</div>
+			<h1 id="firstHeading" class="firstHeading" lang="ja">個人設定</h1>
+									<div id="bodyContent" class="mw-body-content">
+								<div id="contentSub"></div>
+												<div id="jump-to-nav" class="mw-jump">
+					移動先:					<a href="#mw-head">案内</a>、					<a href="#p-search">検索</a>
+				</div>
+				<div id="mw-content-text"><div class="mw-preferences-messagebox mw-notify-success successbox" id="mw-preferences-success" data-mw-autohide="false"><p>個人設定を保存しました。</p></div><ul id="preftoc" role="tablist"><li role="presentation" class="selected"><a id="preftab-personal" role="tab" href="#mw-prefsection-personal" aria-controls="mw-prefsection-personal" aria-selected="true" tabindex="0">利用者情報</a></li><li role="presentation"><a id="preftab-rendering" role="tab" href="#mw-prefsection-rendering" aria-controls="mw-prefsection-rendering" aria-selected="false" tabindex="-1">表示</a></li><li role="presentation"><a id="preftab-editing" role="tab" href="#mw-prefsection-editing" aria-controls="mw-prefsection-editing" aria-selected="false" tabindex="-1">編集</a></li><li role="presentation"><a id="preftab-rc" role="tab" href="#mw-prefsection-rc" aria-controls="mw-prefsection-rc" aria-selected="false" tabindex="-1">最近の更新</a></li><li role="presentation"><a id="preftab-watchlist" role="tab" href="#mw-prefsection-watchlist" aria-controls="mw-prefsection-watchlist" aria-selected="false" tabindex="-1">ウォッチリスト</a></li><li role="presentation"><a id="preftab-searchoptions" role="tab" href="#mw-prefsection-searchoptions" aria-controls="mw-prefsection-searchoptions" aria-selected="false" tabindex="-1">検索</a></li><li role="presentation"><a id="preftab-gadgets" role="tab" href="#mw-prefsection-gadgets" aria-controls="mw-prefsection-gadgets" aria-selected="false" tabindex="-1">ガジェット</a></li><li role="presentation"><a id="preftab-betafeatures" role="tab" href="#mw-prefsection-betafeatures" aria-controls="mw-prefsection-betafeatures" aria-selected="false" tabindex="-1">ベータ版機能</a></li><li role="presentation"><a id="preftab-echo" role="tab" href="#mw-prefsection-echo" aria-controls="mw-prefsection-echo" aria-selected="false" tabindex="-1">通知</a></li></ul><form class="mw-htmlform" action="/wiki/%E7%89%B9%E5%88%A5:%E5%80%8B%E4%BA%BA%E8%A8%AD%E5%AE%9A" method="post" id="mw-prefs-form" autocomplete="off"><div id="preferences"><table class="mw-htmlform-nolabel"><tbody>
+
+</tbody></table>
+
+<fieldset id="mw-prefsection-personal">
+<legend>利用者情報</legend>
+<table class="mw-htmlform-nolabel" id="mw-htmlform-personal"><tbody>
+
+</tbody></table>
+
+<fieldset id="mw-prefsection-personal-info">
+<legend>基本情報</legend>
+<table id="mw-htmlform-info"><tbody>
+<tr class="mw-htmlform-field-HTMLInfoField"><td class="mw-label"><label>利用者名:</label></td><td class="mw-input">Testtesti9994
+</td></tr><tr class="mw-htmlform-field-HTMLInfoField"><td class="mw-label"><label>所属グループ:</label></td><td class="mw-input"><a href="/wiki/Wikipedia:%E7%99%BB%E9%8C%B2%E5%88%A9%E7%94%A8%E8%80%85" class="mw-redirect" title="Wikipedia:登録利用者">登録利用者</a>
+</td></tr><tr class="mw-htmlform-field-HTMLInfoField"><td class="mw-label"><label>接続済みのアプリ:</label></td><td class="mw-input"><a href="/wiki/%E7%89
+1000
+%B9%E5%88%A5:OAuthManageMyGrants" title="特別:OAuthManageMyGrants">接続済みの 0 アプリケーションを管理</a>
+</td></tr><tr class="mw-htmlform-field-HTMLInfoField"><td class="mw-label"><label>編集回数:</label></td><td class="mw-input"><a href="/wiki/%E7%89%B9%E5%88%A5:%E6%8A%95%E7%A8%BF%E8%A8%98%E9%8C%B2/Testtesti9994" title="特別:投稿記録/Testtesti9994">0</a>
+</td></tr><tr class="mw-htmlform-field-HTMLInfoField"><td class="mw-label"><label>登録日時:</label></td><td class="mw-input">2017年2月24日 (金) 07:51
+</td></tr><tr class="mw-htmlform-field-HTMLInfoField"><td class="mw-label"><label>パスワード:</label></td><td class="mw-input"><a href="/w/index.php?title=%E7%89%B9%E5%88%A5:%E3%83%91%E3%82%B9%E3%83%AF%E3%83%BC%E3%83%89%E3%81%AE%E5%A4%89%E6%9B%B4&amp;returnto=%E7%89%B9%E5%88%A5%3A%E5%80%8B%E4%BA%BA%E8%A8%AD%E5%AE%9A" title="特別:パスワードの変更">パスワードを変更</a>
+</td></tr><tr class="mw-htmlform-field-HTMLInfoField"><td class="mw-label"><label>グローバルアカウント:</label></td><td class="mw-input"><a href="/wiki/%E7%89%B9%E5%88%A5:%E3%82%A2%E3%82%AB%E3%82%A6%E3%83%B3%E3%83%88%E7%B5%B1%E4%B8%80%E7%AE%A1%E7%90%86/Testtesti9994" title="特別:アカウント統一管理/Testtesti9994">グローバルアカウント情報を閲覧</a>
+</td></tr>
+</tbody></table>
+
+</fieldset>
+
+<fieldset id="mw-prefsection-personal-i18n">
+<legend>国際化</legend>
+<table id="mw-htmlform-i18n"><tbody>
+<tr class="mw-htmlform-field-HTMLSelectField"><td class="mw-label"><label for="mw-input-wplanguage">使用言語:</label></td><td class="mw-input"><select name="wplanguage" id="mw-input-wplanguage"><option value="aa">aa - Qafár af</option>
+<option value="ab">ab - Аҧсшәа</option>
+<option value="ace">ace - Acèh</option>
+<option value="ady">ady - адыгабзэ</option>
+<option value="ady-cyrl">ady-Cyrl - адыгабзэ</option>
+<option value="aeb">aeb - تونسي/Tûnsî</option>
+<option value="aeb-arab">aeb-Arab - تونسي</option>
+<option value="aeb-latn">aeb-Latn - Tûnsî</option>
+<option value="af">af - Afrikaans</option>
+<option value="ak">ak - Akan</option>
+<option value="aln">aln - Gegë</option>
+<option value="als">als - Alemannisch</option>
+<option value="am">am - አማርኛ</option>
+<option value="an">an - aragonés</option>
+<option value="ang">ang - Ænglisc</option>
+<option value="anp">anp - अङ्गिका</option>
+<option value="ar">ar - العربية</option>
+<option value="arc">arc - ܐܪܡܝܐ</option>
+<option value="arn">arn - mapudungun</option>
+<option value="arq">arq - جازايرية</option>
+<option value="ary">ary - Maġribi</option>
+<option value="arz">arz - مصرى</option>
+<option value="as">as - অসমীয়া</option>
+<option value="ase">ase - American sign language</option>
+<option value="ast">ast - asturianu</option>
+<option value="av">av - авар</option>
+<option value="avk">avk - Kotava</option>
+<option value="awa">awa - अवधी</option>
+<option value="ay">ay - Aymar aru</option>
+<option value="az">az - azərbaycanca</option>
+<option value="azb">azb - تۆرکجه</option>
+<option value="ba">ba - башҡортса</option>
+<option value="ban">ban - Basa Bali</option>
+<option value="bar">bar - Boarisch</option>
+<option value="bat-smg">bat-smg - žemaitėška</option>
+<option value="bbc">bbc - Batak Toba</option>
+<option value="bbc-latn">bbc-Latn - Batak Toba</option>
+<option value="bcc">bcc - جهلسری بلوچی</option>
+<option value="bcl">bcl - Bikol Central</option>
+<option value="be">be - беларуская</option>
+<option value="be-tarask">be-tarask - беларуская (тарашкевіца)‎</option>
+<option value="be-x-old">be-x-old - беларуская (тарашкевіца)‎</option>
+<option value="bg">bg - български</option>
+<option value="bgn">bgn - روچ کپتین بلوچی</option>
+<option value="bh">bh - भोजपुरी</option>
+<option value="bho">bho - भोजपुरी</option>
+<option value="bi">bi - Bislama</option>
+<option value="bjn">bjn - Ba
+1000
+hasa Banjar</option>
+<option value="bm">bm - bamanankan</option>
+<option value="bn">bn - বাংলা</option>
+<option value="bo">bo - བོད་ཡིག</option>
+<option value="bpy">bpy - বিষ্ণুপ্রিয়া মণিপুরী</option>
+<option value="bqi">bqi - بختیاری</option>
+<option value="br">br - brezhoneg</option>
+<option value="brh">brh - Bráhuí</option>
+<option value="bs">bs - bosanski</option>
+<option value="bto">bto - Iriga Bicolano</option>
+<option value="bug">bug - ᨅᨔ ᨕᨘᨁᨗ</option>
+<option value="bxr">bxr - буряад</option>
+<option value="ca">ca - català</option>
+<option value="cbk-zam">cbk-zam - Chavacano de Zamboanga</option>
+<option value="cdo">cdo - Mìng-dĕ̤ng-ngṳ̄</option>
+<option value="ce">ce - нохчийн</option>
+<option value="ceb">ceb - Cebuano</option>
+<option value="ch">ch - Chamoru</option>
+<option value="cho">cho - Choctaw</option>
+<option value="chr">chr - ᏣᎳᎩ</option>
+<option value="chy">chy - Tsetsêhestâhese</option>
+<option value="ckb">ckb - کوردیی ناوەندی</option>
+<option value="co">co - corsu</option>
+<option value="cps">cps - Capiceño</option>
+<option value="cr">cr - Nēhiyawēwin / ᓀᐦᐃᔭᐍᐏᐣ</option>
+<option value="crh">crh - qırımtatarca</option>
+<option value="crh-cyrl">crh-Cyrl - къырымтатарджа (Кирилл)‎</option>
+<option value="crh-latn">crh-Latn - qırımtatarca (Latin)‎</option>
+<option value="cs">cs - čeština</option>
+<option value="csb">csb - kaszëbsczi</option>
+<option value="cu">cu - словѣньскъ / ⰔⰎⰑⰂⰡⰐⰠⰔⰍⰟ</option>
+<option value="cv">cv - Чӑвашла</option>
+<option value="cy">cy - Cymraeg</option>
+<option value="da">da - dansk</option>
+<option value="de">de - Deutsch</option>
+<option value="de-at">de-AT - Österreichisches Deutsch</option>
+<option value="de-ch">de-CH - Schweizer Hochdeutsch</option>
+<option value="de-formal">de-formal - Deutsch (Sie-Form)‎</option>
+<option value="diq">diq - Zazaki</option>
+<option value="dsb">dsb - dolnoserbski</option>
+<option value="dtp">dtp - Dusun Bundu-liwan</option>
+<option value="dty">dty - डोटेली</option>
+<option value="dv">dv - ދިވެހިބަސް</option>
+<option value="dz">dz - ཇོང་ཁ</option>
+<option value="ee">ee - eʋegbe</option>
+<option value="egl">egl - Emiliàn</option>
+<option value="el">el - Ελληνικά</option>
+<option value="eml">eml - emiliàn e rumagnòl</option>
+<option value="en">en - English</option>
+<option value="en-ca">en-CA - Canadian English</option>
+<option value="en-gb">en-GB - British English</option>
+<option value="eo">eo - Esperanto</option>
+<option value="es">es - español</option>
+<option value="et">et - eesti</option>
+<option value="eu">eu - euskara</option>
+<option value="ext">ext - estremeñu</option>
+<option value="fa">fa - فارسی</option>
+<option value="ff">ff - Fulfulde</option>
+<option value="fi">fi - suomi</option>
+<option value="fit">fit - meänkieli</option>
+<option value="fiu-vro">fiu-vro - Võro</option>
+<option value="fj">fj - Na Vosa Vakaviti</option>
+<option value="fo">fo - føroyskt</option>
+<option value="fr">fr - français</option>
+<option value="frc">frc - français cadien</option>
+<option value="frp">frp - arpetan</option>
+<option value="frr">frr - Nordfriisk</option>
+<option value="fur">fur - furlan</option>
+<option value="fy">fy - Frysk</option>
+<option value="ga">ga - Gaeilge</option>
+<option value="gag">gag - Gagauz</option>
+<option value="gan">gan - 贛語</option>
+<option value="gan-hans">gan-Hans - 赣语（简体）‎</option>
+<option value="gan-hant">gan-Hant - 贛語（繁體）‎</option>
+<option value="gd">gd - Gàidhlig</option>
+<option value="gl">gl - galego</option>
+<option value="glk">glk - گیلکی</option>
+<option value="gn">gn - Avañe'ẽ</option>
+<option value="gom">gom - गोंयची कोंकणी / Gõychi Konknni</option>
+<option value="gom-deva">gom-Deva - गोंयची कोंकणी</option>
+<option value="gom-latn">gom-Latn - Gõychi Konknni
+1000
+</option>
+<option value="gor">gor - Bahasa Hulontalo</option>
+<option value="got">got - 𐌲𐌿𐍄𐌹𐍃𐌺</option>
+<option value="grc">grc - Ἀρχαία ἑλληνικὴ</option>
+<option value="gsw">gsw - Alemannisch</option>
+<option value="gu">gu - ગુજરાતી</option>
+<option value="gv">gv - Gaelg</option>
+<option value="ha">ha - Hausa</option>
+<option value="hak">hak - 客家語/Hak-kâ-ngî</option>
+<option value="haw">haw - Hawaiʻi</option>
+<option value="he">he - עברית</option>
+<option value="hi">hi - हिन्दी</option>
+<option value="hif">hif - Fiji Hindi</option>
+<option value="hif-latn">hif-Latn - Fiji Hindi</option>
+<option value="hil">hil - Ilonggo</option>
+<option value="ho">ho - Hiri Motu</option>
+<option value="hr">hr - hrvatski</option>
+<option value="hrx">hrx - Hunsrik</option>
+<option value="hsb">hsb - hornjoserbsce</option>
+<option value="ht">ht - Kreyòl ayisyen</option>
+<option value="hu">hu - magyar</option>
+<option value="hy">hy - Հայերեն</option>
+<option value="hz">hz - Otsiherero</option>
+<option value="ia">ia - interlingua</option>
+<option value="id">id - Bahasa Indonesia</option>
+<option value="ie">ie - Interlingue</option>
+<option value="ig">ig - Igbo</option>
+<option value="ii">ii - ꆇꉙ</option>
+<option value="ik">ik - Iñupiak</option>
+<option value="ike-cans">ike-Cans - ᐃᓄᒃᑎᑐᑦ</option>
+<option value="ike-latn">ike-Latn - inuktitut</option>
+<option value="ilo">ilo - Ilokano</option>
+<option value="inh">inh - ГӀалгӀай</option>
+<option value="io">io - Ido</option>
+<option value="is">is - íslenska</option>
+<option value="it">it - italiano</option>
+<option value="iu">iu - ᐃᓄᒃᑎᑐᑦ/inuktitut</option>
+<option value="ja" selected="">ja - 日本語</option>
+<option value="jam">jam - Patois</option>
+<option value="jbo">jbo - la .lojban.</option>
+<option value="jut">jut - jysk</option>
+<option value="jv">jv - Basa Jawa</option>
+<option value="ka">ka - ქართული</option>
+<option value="kaa">kaa - Qaraqalpaqsha</option>
+<option value="kab">kab - Taqbaylit</option>
+<option value="kbd">kbd - Адыгэбзэ</option>
+<option value="kbd-cyrl">kbd-Cyrl - Адыгэбзэ</option>
+<option value="kg">kg - Kongo</option>
+<option value="khw">khw - کھوار</option>
+<option value="ki">ki - Gĩkũyũ</option>
+<option value="kiu">kiu - Kırmancki</option>
+<option value="kj">kj - Kwanyama</option>
+<option value="kk">kk - қазақша</option>
+<option value="kk-arab">kk-Arab - قازاقشا (تٴوتە)‏</option>
+<option value="kk-cn">kk-CN - قازاقشا (جۇنگو)‏</option>
+<option value="kk-cyrl">kk-Cyrl - қазақша (кирил)‎</option>
+<option value="kk-kz">kk-KZ - қазақша (Қазақстан)‎</option>
+<option value="kk-latn">kk-Latn - qazaqşa (latın)‎</option>
+<option value="kk-tr">kk-TR - qazaqşa (Türkïya)‎</option>
+<option value="kl">kl - kalaallisut</option>
+<option value="km">km - ភាសាខ្មែរ</option>
+<option value="kn">kn - ಕನ್ನಡ</option>
+<option value="ko">ko - 한국어</option>
+<option value="ko-kp">ko-KP - 한국어 (조선)</option>
+<option value="koi">koi - Перем Коми</option>
+<option value="kr">kr - Kanuri</option>
+<option value="krc">krc - къарачай-малкъар</option>
+<option value="kri">kri - Krio</option>
+<option value="krj">krj - Kinaray-a</option>
+<option value="krl">krl - karjal</option>
+<option value="ks">ks - कॉशुर / کٲشُر</option>
+<option value="ks-arab">ks-Arab - کٲشُر</option>
+<option value="ks-deva">ks-Deva - कॉशुर</option>
+<option value="ksh">ksh - Ripoarisch</option>
+<option value="ku">ku - Kurdî</option>
+<option value="ku-arab">ku-Arab - كوردي (عەرەبی)‏</option>
+<option value="ku-latn">ku-Latn - Kurdî (latînî)‎</option>
+<option value="kv">kv - коми</option>
+<option value="kw">kw - kernowek</option>
+<option value="ky">ky - Кыргызча</option>
+<option value="la">la - Latina</option>
+<option value="lad">lad - Ladino</option>
+<option value="lb">lb - Lëtzebu
+1000
+ergesch</option>
+<option value="lbe">lbe - лакку</option>
+<option value="lez">lez - лезги</option>
+<option value="lfn">lfn - Lingua Franca Nova</option>
+<option value="lg">lg - Luganda</option>
+<option value="li">li - Limburgs</option>
+<option value="lij">lij - Ligure</option>
+<option value="liv">liv - Līvõ kēļ</option>
+<option value="lki">lki - لەکی‎</option>
+<option value="lmo">lmo - lumbaart</option>
+<option value="ln">ln - lingála</option>
+<option value="lo">lo - ລາວ</option>
+<option value="loz">loz - Silozi</option>
+<option value="lrc">lrc - لۊری شومالی</option>
+<option value="lt">lt - lietuvių</option>
+<option value="ltg">ltg - latgaļu</option>
+<option value="lus">lus - Mizo ţawng</option>
+<option value="luz">luz - لئری دوٙمینی</option>
+<option value="lv">lv - latviešu</option>
+<option value="lzh">lzh - 文言</option>
+<option value="lzz">lzz - Lazuri</option>
+<option value="mai">mai - मैथिली</option>
+<option value="map-bms">map-bms - Basa Banyumasan</option>
+<option value="mdf">mdf - мокшень</option>
+<option value="mg">mg - Malagasy</option>
+<option value="mh">mh - Ebon</option>
+<option value="mhr">mhr - олык марий</option>
+<option value="mi">mi - Māori</option>
+<option value="min">min - Baso Minangkabau</option>
+<option value="mk">mk - македонски</option>
+<option value="ml">ml - മലയാളം</option>
+<option value="mn">mn - монгол</option>
+<option value="mo">mo - молдовеняскэ</option>
+<option value="mr">mr - मराठी</option>
+<option value="mrj">mrj - кырык мары</option>
+<option value="ms">ms - Bahasa Melayu</option>
+<option value="mt">mt - Malti</option>
+<option value="mus">mus - Mvskoke</option>
+<option value="mwl">mwl - Mirandés</option>
+<option value="my">my - မြန်မာဘာသာ</option>
+<option value="myv">myv - эрзянь</option>
+<option value="mzn">mzn - مازِرونی</option>
+<option value="na">na - Dorerin Naoero</option>
+<option value="nah">nah - Nāhuatl</option>
+<option value="nan">nan - Bân-lâm-gú</option>
+<option value="nap">nap - Napulitano</option>
+<option value="nb">nb - norsk bokmål</option>
+<option value="nds">nds - Plattdüütsch</option>
+<option value="nds-nl">nds-NL - Nedersaksies</option>
+<option value="ne">ne - नेपाली</option>
+<option value="new">new - नेपाल भाषा</option>
+<option value="ng">ng - Oshiwambo</option>
+<option value="niu">niu - Niuē</option>
+<option value="nl">nl - Nederlands</option>
+<option value="nl-informal">nl-informal - Nederlands (informeel)‎</option>
+<option value="nn">nn - norsk nynorsk</option>
+<option value="no">no - norsk bokmål</option>
+<option value="nov">nov - Novial</option>
+<option value="nrm">nrm - Nouormand</option>
+<option value="nso">nso - Sesotho sa Leboa</option>
+<option value="nv">nv - Diné bizaad</option>
+<option value="ny">ny - Chi-Chewa</option>
+<option value="oc">oc - occitan</option>
+<option value="olo">olo - Livvinkarjala</option>
+<option value="om">om - Oromoo</option>
+<option value="or">or - ଓଡ଼ିଆ</option>
+<option value="os">os - Ирон</option>
+<option value="pa">pa - ਪੰਜਾਬੀ</option>
+<option value="pag">pag - Pangasinan</option>
+<option value="pam">pam - Kapampangan</option>
+<option value="pap">pap - Papiamentu</option>
+<option value="pcd">pcd - Picard</option>
+<option value="pdc">pdc - Deitsch</option>
+<option value="pdt">pdt - Plautdietsch</option>
+<option value="pfl">pfl - Pälzisch</option>
+<option value="pi">pi - पालि</option>
+<option value="pih">pih - Norfuk / Pitkern</option>
+<option value="pl">pl - polski</option>
+<option value="pms">pms - Piemontèis</option>
+<option value="pnb">pnb - پنجابی</option>
+<option value="pnt">pnt - Ποντιακά</option>
+<option value="prg">prg - Prūsiskan</option>
+<option value="ps">ps - پښتو</option>
+<option value="pt">pt - português</option>
+<option value="pt-br">pt-BR - português do Brasil</option>
+<option value="qu">qu - Runa Simi</option>
+<option value="qug">qug - Runa s
+1000
+himi</option>
+<option value="rgn">rgn - Rumagnôl</option>
+<option value="rif">rif - Tarifit</option>
+<option value="rm">rm - rumantsch</option>
+<option value="rmy">rmy - Romani</option>
+<option value="rn">rn - Kirundi</option>
+<option value="ro">ro - română</option>
+<option value="roa-rup">roa-rup - armãneashti</option>
+<option value="roa-tara">roa-Tara - tarandíne</option>
+<option value="ru">ru - русский</option>
+<option value="rue">rue - русиньскый</option>
+<option value="rup">rup - armãneashti</option>
+<option value="ruq">ruq - Vlăheşte</option>
+<option value="ruq-cyrl">ruq-Cyrl - Влахесте</option>
+<option value="ruq-latn">ruq-Latn - Vlăheşte</option>
+<option value="rw">rw - Kinyarwanda</option>
+<option value="sa">sa - संस्कृतम्</option>
+<option value="sah">sah - саха тыла</option>
+<option value="sat">sat - Santali</option>
+<option value="sc">sc - sardu</option>
+<option value="scn">scn - sicilianu</option>
+<option value="sco">sco - Scots</option>
+<option value="sd">sd - سنڌي</option>
+<option value="sdc">sdc - Sassaresu</option>
+<option value="sdh">sdh - کوردی خوارگ</option>
+<option value="se">se - sámegiella</option>
+<option value="sei">sei - Cmique Itom</option>
+<option value="ses">ses - Koyraboro Senni</option>
+<option value="sg">sg - Sängö</option>
+<option value="sgs">sgs - žemaitėška</option>
+<option value="sh">sh - srpskohrvatski / српскохрватски</option>
+<option value="shi">shi - Tašlḥiyt/ⵜⴰⵛⵍⵃⵉⵜ</option>
+<option value="shi-latn">shi-Latn - Tašlḥiyt</option>
+<option value="shi-tfng">shi-Tfng - ⵜⴰⵛⵍⵃⵉⵜ</option>
+<option value="shn">shn - ၽႃႇသႃႇတႆး </option>
+<option value="si">si - සිංහල</option>
+<option value="simple">simple - Simple English</option>
+<option value="sk">sk - slovenčina</option>
+<option value="sl">sl - slovenščina</option>
+<option value="sli">sli - Schläsch</option>
+<option value="sm">sm - Gagana Samoa</option>
+<option value="sma">sma - Åarjelsaemien</option>
+<option value="sn">sn - chiShona</option>
+<option value="so">so - Soomaaliga</option>
+<option value="sq">sq - shqip</option>
+<option value="sr">sr - српски / srpski</option>
+<option value="sr-ec">sr-EC - српски (ћирилица)‎</option>
+<option value="sr-el">sr-EL - srpski (latinica)‎</option>
+<option value="srn">srn - Sranantongo</option>
+<option value="ss">ss - SiSwati</option>
+<option value="st">st - Sesotho</option>
+<option value="stq">stq - Seeltersk</option>
+<option value="su">su - Basa Sunda</option>
+<option value="sv">sv - svenska</option>
+<option value="sw">sw - Kiswahili</option>
+<option value="szl">szl - ślůnski</option>
+<option value="ta">ta - தமிழ்</option>
+<option value="tcy">tcy - ತುಳು</option>
+<option value="te">te - తెలుగు</option>
+<option value="tet">tet - tetun</option>
+<option value="tg">tg - тоҷикӣ</option>
+<option value="tg-cyrl">tg-Cyrl - тоҷикӣ</option>
+<option value="tg-latn">tg-Latn - tojikī</option>
+<option value="th">th - ไทย</option>
+<option value="ti">ti - ትግርኛ</option>
+<option value="tk">tk - Türkmençe</option>
+<option value="tl">tl - Tagalog</option>
+<option value="tly">tly - толышә зывон</option>
+<option value="tn">tn - Setswana</option>
+<option value="to">to - lea faka-Tonga</option>
+<option value="tokipona">tokipona - Toki Pona</option>
+<option value="tpi">tpi - Tok Pisin</option>
+<option value="tr">tr - Türkçe</option>
+<option value="tru">tru - Ṫuroyo</option>
+<option value="ts">ts - Xitsonga</option>
+<option value="tt">tt - татарча/tatarça</option>
+<option value="tt-cyrl">tt-Cyrl - татарча</option>
+<option value="tt-latn">tt-Latn - tatarça</option>
+<option value="tum">tum - chiTumbuka</option>
+<option value="tw">tw - Twi</option>
+<option value="ty">ty - reo tahiti</option>
+<option value="tyv">tyv - тыва дыл</option>
+<option value="tzm">tzm - ⵜⴰⵎⴰⵣⵉⵖⵜ</option>
+<option value="udm">udm - удмурт</option>
+<option val
+ff6
+ue="ug">ug - ئۇيغۇرچە / Uyghurche</option>
+<option value="ug-arab">ug-Arab - ئۇيغۇرچە</option>
+<option value="ug-latn">ug-Latn - Uyghurche</option>
+<option value="uk">uk - українська</option>
+<option value="ur">ur - اردو</option>
+<option value="uz">uz - oʻzbekcha/ўзбекча</option>
+<option value="uz-cyrl">uz-Cyrl - ўзбекча</option>
+<option value="uz-latn">uz-Latn - oʻzbekcha</option>
+<option value="ve">ve - Tshivenda</option>
+<option value="vec">vec - vèneto</option>
+<option value="vep">vep - vepsän kel’</option>
+<option value="vi">vi - Tiếng Việt</option>
+<option value="vls">vls - West-Vlams</option>
+<option value="vmf">vmf - Mainfränkisch</option>
+<option value="vo">vo - Volapük</option>
+<option value="vot">vot - Vaďďa</option>
+<option value="vro">vro - Võro</option>
+<option value="wa">wa - walon</option>
+<option value="war">war - Winaray</option>
+<option value="wo">wo - Wolof</option>
+<option value="wuu">wuu - 吴语</option>
+<option value="xal">xal - хальмг</option>
+<option value="xh">xh - isiXhosa</option>
+<option value="xmf">xmf - მარგალური</option>
+<option value="yi">yi - ייִדיש</option>
+<option value="yo">yo - Yorùbá</option>
+<option value="yue">yue - 粵語</option>
+<option value="za">za - Vahcuengh</option>
+<option value="zea">zea - Zeêuws</option>
+<option value="zh">zh - 中文</option>
+<option value="zh-classical">zh-classical - 文言</option>
+<option value="zh-cn">zh-CN - 中文（中国大陆）‎</option>
+<option value="zh-hans">zh-Hans - 中文（简体）‎</option>
+<option value="zh-hant">zh-Hant - 中文（繁體）‎</option>
+<option value="zh-hk">zh-HK - 中文（香港）‎</option>
+<option value="zh-min-nan">zh-min-nan - Bân-lâm-gú</option>
+<option value="zh-mo">zh-MO - 中文（澳門）‎</option>
+<option value="zh-my">zh-MY - 中文（马来西亚）‎</option>
+<option value="zh-sg">zh-SG - 中文（新加坡）‎</option>
+<option value="zh-tw">zh-TW - 中文（台灣）‎</option>
+<option value="zh-yue">zh-yue - 粵語</option>
+<option value="zu">zu - isiZulu</option></select>
+</td></tr><tr class="mw-htmlform-field-HTMLRadioField"><td class="mw-label"><label>表示に使用する性別</label></td><td class="mw-input"> <div class="mw-htmlform-flatlist-item"><input name="wpgender" type="radio" value="unknown" checked="checked" id="mw-input-wpgender-unknown" />&#160;<label for="mw-input-wpgender-unknown">(あなたに言及する時、ソフトウェアは可能な限り、性別が中性の単語を使おうとします。)</label></div> <div class="mw-htmlform-flatlist-item"><input name="wpgender" type="radio" value="female" id="mw-input-wpgender-female" />&#160;<label for="mw-input-wpgender-female">女</label></div> <div class="mw-htmlform-flatlist-item"><input name="wpgender" type="radio" value="male" id="mw-input-wpgender-male" />&#160;<label for="mw-input-wpgender-male">男</label></div>
+</td></tr><tr><td colspan="2" class="htmlform-tip">この項目の設定は省略できます。
+ソフトウェアが利用者向けの画面表示であなたに言及する際に、適切な文法的性を選択するために使用されます。
+この情報は公開されます。</td></tr><tr class="mw-htmlform-field-HTMLInfoField"><td class="mw-label"><label></label></td><td class="mw-input"><a id='uls-preferences-link' href='#'></a>
+</td></tr>
+</tbody></table>
+
+</fieldset>
+
+<fieldset id="mw-prefsection-personal-signature">
+<legend>署名</legend>
+<table id="mw-htmlform-signature"><tbody>
+<tr class="mw-htmlform-field-HTMLInfoField"><td class="mw-label"><label>既存の署名:</label></td><td class="mw-input"><a href="/w/index.php?title=%E5%88%A9%E7%94%A8%E8%80%85:Testtesti9994&amp;action=edit&amp;redlink=1" class="new" title="利用者:Testtesti9994 (存在しないページ)">Testtesti9994</a>（<a href="/w/index.php?title=%E5%88%A9%E7%94%A8%E8%80%85%E2%80%90%E4%BC%9A%E8%A9%B1:Testtesti9994&amp;action=edit&amp;redlink=1" class="new" title="利用者‐会話:Testtesti9994 (存在しない
+1000
+ページ)">会話</a>）
+</td></tr><tr class="mw-htmlform-field-HTMLTextField"><td class="mw-label"><label for="mw-input-wpnickname">新しい署名:</label></td><td class="mw-input"><input id="mw-input-wpnickname" name="wpnickname" size="45" maxlength="255"/>
+</td></tr><tr class="mw-htmlform-field-HTMLCheckField"><td class="mw-label"><label>&#160;</label></td><td class="mw-input"><input name="wpfancysig" type="checkbox" value="1" id="mw-input-wpfancysig" />&#160;<label for="mw-input-wpfancysig">署名をウィキテキストとして扱い、利用者ページへの自動的なリンクを付けない（このチェックを付ける場合でも利用者ページへのリンクを外さないようにしましょう）</label>
+</td></tr><tr><td colspan="2" class="htmlform-tip">ノートページ上での発言には「~~~~」と付けて署名すべきです。これは自分の署名に時刻印を付けたものに変換されます。</td></tr>
+</tbody></table>
+
+</fieldset>
+
+<fieldset id="mw-prefsection-personal-email">
+<legend>メールの設定</legend>
+<table id="mw-htmlform-email"><tbody>
+<tr class="mw-htmlform-field-HTMLInfoField"><td class="mw-label"><label>メールアドレス:</label></td><td class="mw-input"><a href="/w/index.php?title=%E7%89%B9%E5%88%A5:%E3%83%A1%E3%83%BC%E3%83%AB%E3%82%A2%E3%83%89%E3%83%AC%E3%82%B9%E3%81%AE%E5%A4%89%E6%9B%B4&amp;returnto=%E7%89%B9%E5%88%A5%3A%E5%80%8B%E4%BA%BA%E8%A8%AD%E5%AE%9A" title="特別:メールアドレスの変更">メールアドレスを設定</a>
+</td></tr><tr><td colspan="2" class="htmlform-tip">メールアドレスの設定は任意ですが、設定しておけばパスワードを忘れた際に新しいパスワードを電子メールで受け取ることができます。また、他の利用者からのウィキメールを受け取ることができるようになります。メールアドレスを設定したり、ウィキメールを受信したりしただけでは、あなたのメールアドレスは他の利用者に知られることはありません。ただし、あなたからウィキメールを送信すれば、あなたのメールアドレスは先方に通知されます。ウィキメールについては <a href="/wiki/Help:%E3%82%A6%E3%82%A3%E3%82%AD%E3%83%A1%E3%83%BC%E3%83%AB" title="Help:ウィキメール">ウィキメールについての説明</a> を参照してください。 利用者ページや会話ページ上のリンクを通じて、他の利用者があなたにメールで連絡を取れるようにすることもできます。
+他の利用者が連絡を取る際にあなたのメールアドレスが開示されることはありません。</td></tr><tr class="mw-htmlform-field-HTMLInfoField mw-email-none"><td class="mw-label"><label>メールアドレスの確認:</label></td><td class="mw-input">これらの機能を有効にするには、個人設定でメールアドレスを登録してください。
+</td></tr><tr class="mw-htmlform-field-HTMLCheckField"><td class="mw-label"><label>&#160;</label></td><td class="mw-input"><input name="wpdisablemail" type="checkbox" value="1" checked="checked" id="mw-input-wpdisablemail" disabled="" />&#160;<label for="mw-input-wpdisablemail">他の利用者からのメールを受け取る</label>
+</td></tr><tr class="mw-htmlform-field-HTMLCheckField"><td class="mw-label"><label>&#160;</label></td><td class="mw-input"><input name="wpccmeonemails" type="checkbox" value="1" id="mw-input-wpccmeonemails" disabled="" />&#160;<label for="mw-input-wpccmeonemails">他の利用者に送信したメールの控えを自分にも送信</label>
+</td></tr><tr class="mw-htmlform-field-HTMLCheckField"><td class="mw-label"><label>&#160;</label></td><td class="mw-input"><input name="wpenotifwatchlistpages" type="checkbox" value="1" id="mw-input-wpenotifwatchlistpages" disabled="" />&#160;<label for="mw-input-wpenotifwatchlistpages">ウォッチリストにあるページやファイルが更新されたら、メールを受け取る</label>
+</td></tr>
+</tbody></table>
+
+</fieldset>
+
+
+
+1000
+</fieldset>
+
+<fieldset id="mw-prefsection-rendering">
+<legend>表示</legend>
+<table class="mw-htmlform-nolabel" id="mw-htmlform-rendering"><tbody>
+
+</tbody></table>
+
+<fieldset id="mw-prefsection-rendering-skin">
+<legend>外装</legend>
+<table id="mw-htmlform-skin"><tbody>
+<tr class="mw-htmlform-field-HTMLRadioField"><td class="mw-label"><label>&#160;</label></td><td class="mw-input"> <div class="mw-htmlform-flatlist-item"><input name="wpskin" type="radio" value="cologneblue" id="mw-input-wpskin-cologneblue" />&#160;<label for="mw-input-wpskin-cologneblue">ケルンブルー (<a target='_blank' href="/w/index.php?title=%E3%83%A1%E3%82%A4%E3%83%B3%E3%83%9A%E3%83%BC%E3%82%B8&amp;useskin=cologneblue">プレビュー</a> | <a href="/w/index.php?title=%E5%88%A9%E7%94%A8%E8%80%85:Testtesti9994/cologneblue.css&amp;action=edit&amp;redlink=1" class="new" title="利用者:Testtesti9994/cologneblue.css (存在しないページ)">カスタムCSS</a> | <a href="/w/index.php?title=%E5%88%A9%E7%94%A8%E8%80%85:Testtesti9994/cologneblue.js&amp;action=edit&amp;redlink=1" class="new" title="利用者:Testtesti9994/cologneblue.js (存在しないページ)">カスタムJavaScript</a>)</label></div> <div class="mw-htmlform-flatlist-item"><input name="wpskin" type="radio" value="vector" checked="checked" id="mw-input-wpskin-vector" />&#160;<label for="mw-input-wpskin-vector">ベクター (既定 | <a target='_blank' href="/w/index.php?title=%E3%83%A1%E3%82%A4%E3%83%B3%E3%83%9A%E3%83%BC%E3%82%B8&amp;useskin=vector">プレビュー</a> | <a href="/w/index.php?title=%E5%88%A9%E7%94%A8%E8%80%85:Testtesti9994/vector.css&amp;action=edit&amp;redlink=1" class="new" title="利用者:Testtesti9994/vector.css (存在しないページ)">カスタムCSS</a> | <a href="/w/index.php?title=%E5%88%A9%E7%94%A8%E8%80%85:Testtesti9994/vector.js&amp;action=edit&amp;redlink=1" class="new" title="利用者:Testtesti9994/vector.js (存在しないページ)">カスタムJavaScript</a>)</label></div> <div class="mw-htmlform-flatlist-item"><input name="wpskin" type="radio" value="modern" id="mw-input-wpskin-modern" />&#160;<label for="mw-input-wpskin-modern">モダン (<a target='_blank' href="/w/index.php?title=%E3%83%A1%E3%82%A4%E3%83%B3%E3%83%9A%E3%83%BC%E3%82%B8&amp;useskin=modern">プレビュー</a> | <a href="/w/index.php?title=%E5%88%A9%E7%94%A8%E8%80%85:Testtesti9994/modern.css&amp;action=edit&amp;redlink=1" class="new" title="利用者:Testtesti9994/modern.css (存在しないページ)">カスタムCSS</a> | <a href="/w/index.php?title=%E5%88%A9%E7%94%A8%E8%80%85:Testtesti9994/modern.js&amp;action=edit&amp;redlink=1" class="new" title="利用者:Testtesti9994/modern.js (存在しないページ)">カスタムJavaScript</a>)</label></div> <div class="mw-htmlform-flatlist-item"><input name="wpskin" type="radio" value="monobook" id="mw-input-wpskin-monobook" />&#160;<label for="mw-input-wpskin-monobook">モノブック (<a target='_blank' href="/w/index.php?title=%E3%83%A1%E3%82%A4%E3%83%B3%E3%83%9A%E3%83%BC%E3%82%B8&amp;useskin=monobook">プレビュー</a> | <a href="/w/index.php?title=%E5%88%A9%E7%94%A8%E8%80%85:Testtesti9994/monobook.css&amp;action=edit&amp;redlink=1" class="new" title="利用者:Testtesti9994/monobook.css (存在しないページ)">カスタムCSS</a> | <a href="/w/index.php?title=%E5%88%A9%E7%94%A8%E8%80%85:Testtesti9994/monobook.js&amp;action=edit&amp;redlink=1" class="new" title="利用者:Testtesti9994/monobook.js (存在しないページ)">カスタムJavaScript</a>)</label></div>
+</td></tr><tr class="mw-htmlform-field-HTMLInfoField"><td class="mw-label"><label>すべての外装に共通のCSSとJavaScript:</label></td><td class="mw-input"><a href="/w/index.php?title=%E5%88%A9%E7%94%A8%E8%80%85:Testtesti9994/common.css&amp;action=edit&amp;redlink=1" class="new" title="利用者:Testtesti9994/common.css (存在しないページ)">カスタムCSS</a> | <a href="/w/index.php?title=%E5%88%A9%E7%94%A8%E8%80%85:Testtesti9994/common.js&amp;action=edit&amp;redlink=1" class="new" title="利用者:Testtesti9994/common.js (存在しない
+1000
+ページ)">カスタムJavaScript</a>
+</td></tr><tr class="mw-htmlform-field-HTMLInfoField"><td class="mw-label"><label>すべてのウィキに共通のCSSとJavaScript:</label></td><td class="mw-input"><a class="external" href="//meta.wikimedia.org/wiki/User:Testtesti9994/global.css">カスタムCSS</a> | <a class="external" href="//meta.wikimedia.org/wiki/User:Testtesti9994/global.js">カスタムJS</a>
+</td></tr>
+</tbody></table>
+
+</fieldset>
+
+<fieldset id="mw-prefsection-rendering-dateformat">
+<legend>日付と時刻の形式</legend>
+<table class="mw-htmlform-nolabel" id="mw-htmlform-dateformat"><tbody>
+<tr class="mw-htmlform-field-HTMLRadioField"><td class="mw-label"><label>&#160;</label></td><td class="mw-input"> <div class="mw-htmlform-flatlist-item"><input name="wpdate" type="radio" value="default" checked="checked" id="mw-input-wpdate-default" />&#160;<label for="mw-input-wpdate-default">選択なし</label></div> <div class="mw-htmlform-flatlist-item"><input name="wpdate" type="radio" value="nengo" id="mw-input-wpdate-nengo" />&#160;<label for="mw-input-wpdate-nengo">平成29年2月24日 (金) 07:53</label></div> <div class="mw-htmlform-flatlist-item"><input name="wpdate" type="radio" value="ISO 8601" id="mw-input-wpdate-ISO_8601" />&#160;<label for="mw-input-wpdate-ISO_8601">2017-02-24T07:53:16</label></div>
+</td></tr>
+</tbody></table>
+
+</fieldset>
+
+<fieldset id="mw-prefsection-rendering-timeoffset">
+<legend>時差</legend>
+<table id="mw-htmlform-timeoffset"><tbody>
+<tr class="mw-htmlform-field-HTMLInfoField"><td class="mw-label"><label>サーバーの時刻:</label></td><td class="mw-input">07:53<input type="hidden" value="473" name="wpServerTime"/>
+</td></tr><tr class="mw-htmlform-field-HTMLInfoField"><td class="mw-label"><label>地域の時刻:</label></td><td class="mw-input"><span id="wpLocalTime">07:53</span>
+</td></tr><tr class="mw-htmlform-field-HTMLSelectOrOtherField"><td class="mw-label"><label for="mw-input-wptimecorrection">タイムゾーン:</label></td><td class="mw-input"><select name="wptimecorrection" id="mw-input-wptimecorrection" class="mw-htmlform-select-or-other"><option value="System|0" selected="">ウィキの既定を使用 (UTC)</option>
+<option value="other">その他 (時差を指定)</option>
+<option value="guess">ブラウザーの設定から入力</option>
+<optgroup label="アフリカ"><option value="ZoneInfo|0|Africa/Abidjan">アフリカ/Abidjan</option>
+<option value="ZoneInfo|0|Africa/Accra">アフリカ/Accra</option>
+<option value="ZoneInfo|180|Africa/Addis_Ababa">アフリカ/Addis Ababa</option>
+<option value="ZoneInfo|60|Africa/Algiers">アフリカ/Algiers</option>
+<option value="ZoneInfo|180|Africa/Asmara">アフリカ/Asmara</option>
+<option value="ZoneInfo|0|Africa/Bamako">アフリカ/Bamako</option>
+<option value="ZoneInfo|60|Africa/Bangui">アフリカ/Bangui</option>
+<option value="ZoneInfo|0|Africa/Banjul">アフリカ/Banjul</option>
+<option value="ZoneInfo|0|Africa/Bissau">アフリカ/Bissau</option>
+<option value="ZoneInfo|120|Africa/Blantyre">アフリカ/Blantyre</option>
+<option value="ZoneInfo|60|Africa/Brazzaville">アフリカ/Brazzaville</option>
+<option value="ZoneInfo|120|Africa/Bujumbura">アフリカ/Bujumbura</option>
+<option value="ZoneInfo|120|Africa/Cairo">アフリカ/Cairo</option>
+<option value="ZoneInfo|0|Africa/Casablanca">アフリカ/Casablanca</option>
+<option value="ZoneInfo|60|Africa/Ceuta">アフリカ/Ceuta</option>
+<option value="ZoneInfo|0|Africa/Conakry">アフリカ/Conakry</option>
+<option value="ZoneInfo|0|Africa/Dakar">アフリカ/Dakar</option>
+<option value="ZoneInfo|180|Africa/Dar_es_Salaam">アフリカ/Dar es Salaam</option>
+<option value="ZoneInfo|180|Africa/Djibouti">アフリカ/Djibouti</option>
+<option value="ZoneInfo|60|Africa/Douala">アフリカ/Douala</option>
+<option value="ZoneInfo|0|Africa/El_Aaiun">アフリカ/El Aaiun</option>
+<option value="ZoneInfo|0|Africa/Freetown">アフリカ/Freetown</option>
+<option value="ZoneInfo|120|Africa/Gaborone">アフリカ/Gaborone</option>
+<option value="ZoneInfo|1
+1000
+20|Africa/Harare">アフリカ/Harare</option>
+<option value="ZoneInfo|120|Africa/Johannesburg">アフリカ/Johannesburg</option>
+<option value="ZoneInfo|180|Africa/Juba">アフリカ/Juba</option>
+<option value="ZoneInfo|180|Africa/Kampala">アフリカ/Kampala</option>
+<option value="ZoneInfo|180|Africa/Khartoum">アフリカ/Khartoum</option>
+<option value="ZoneInfo|120|Africa/Kigali">アフリカ/Kigali</option>
+<option value="ZoneInfo|60|Africa/Kinshasa">アフリカ/Kinshasa</option>
+<option value="ZoneInfo|60|Africa/Lagos">アフリカ/Lagos</option>
+<option value="ZoneInfo|60|Africa/Libreville">アフリカ/Libreville</option>
+<option value="ZoneInfo|0|Africa/Lome">アフリカ/Lome</option>
+<option value="ZoneInfo|60|Africa/Luanda">アフリカ/Luanda</option>
+<option value="ZoneInfo|120|Africa/Lubumbashi">アフリカ/Lubumbashi</option>
+<option value="ZoneInfo|120|Africa/Lusaka">アフリカ/Lusaka</option>
+<option value="ZoneInfo|60|Africa/Malabo">アフリカ/Malabo</option>
+<option value="ZoneInfo|120|Africa/Maputo">アフリカ/Maputo</option>
+<option value="ZoneInfo|120|Africa/Maseru">アフリカ/Maseru</option>
+<option value="ZoneInfo|120|Africa/Mbabane">アフリカ/Mbabane</option>
+<option value="ZoneInfo|180|Africa/Mogadishu">アフリカ/Mogadishu</option>
+<option value="ZoneInfo|0|Africa/Monrovia">アフリカ/Monrovia</option>
+<option value="ZoneInfo|180|Africa/Nairobi">アフリカ/Nairobi</option>
+<option value="ZoneInfo|60|Africa/Ndjamena">アフリカ/Ndjamena</option>
+<option value="ZoneInfo|60|Africa/Niamey">アフリカ/Niamey</option>
+<option value="ZoneInfo|0|Africa/Nouakchott">アフリカ/Nouakchott</option>
+<option value="ZoneInfo|0|Africa/Ouagadougou">アフリカ/Ouagadougou</option>
+<option value="ZoneInfo|60|Africa/Porto-Novo">アフリカ/Porto-Novo</option>
+<option value="ZoneInfo|0|Africa/Sao_Tome">アフリカ/Sao Tome</option>
+<option value="ZoneInfo|120|Africa/Tripoli">アフリカ/Tripoli</option>
+<option value="ZoneInfo|60|Africa/Tunis">アフリカ/Tunis</option>
+<option value="ZoneInfo|120|Africa/Windhoek">アフリカ/Windhoek</option>
+</optgroup>
+<optgroup label="アメリカ"><option value="ZoneInfo|-600|America/Adak">アメリカ/Adak</option>
+<option value="ZoneInfo|-540|America/Anchorage">アメリカ/Anchorage</option>
+<option value="ZoneInfo|-240|America/Anguilla">アメリカ/Anguilla</option>
+<option value="ZoneInfo|-240|America/Antigua">アメリカ/Antigua</option>
+<option value="ZoneInfo|-180|America/Araguaina">アメリカ/Araguaina</option>
+<option value="ZoneInfo|-180|America/Argentina/Buenos_Aires">アメリカ/Argentina/Buenos Aires</option>
+<option value="ZoneInfo|-180|America/Argentina/Catamarca">アメリカ/Argentina/Catamarca</option>
+<option value="ZoneInfo|-180|America/Argentina/Cordoba">アメリカ/Argentina/Cordoba</option>
+<option value="ZoneInfo|-180|America/Argentina/Jujuy">アメリカ/Argentina/Jujuy</option>
+<option value="ZoneInfo|-180|America/Argentina/La_Rioja">アメリカ/Argentina/La Rioja</option>
+<option value="ZoneInfo|-180|America/Argentina/Mendoza">アメリカ/Argentina/Mendoza</option>
+<option value="ZoneInfo|-180|America/Argentina/Rio_Gallegos">アメリカ/Argentina/Rio Gallegos</option>
+<option value="ZoneInfo|-180|America/Argentina/Salta">アメリカ/Argentina/Salta</option>
+<option value="ZoneInfo|-180|America/Argentina/San_Juan">アメリカ/Argentina/San Juan</option>
+<option value="ZoneInfo|-180|America/Argentina/San_Luis">アメリカ/Argentina/San Luis</option>
+<option value="ZoneInfo|-180|America/Argentina/Tucuman">アメリカ/Argentina/Tucuman</option>
+<option value="ZoneInfo|-180|America/Argentina/Ushuaia">アメリカ/Argentina/Ushuaia</option>
+<option value="ZoneInfo|-240|America/Aruba">アメリカ/Aruba</option>
+<option value="ZoneInfo|-180|America/Asuncion">アメリカ/Asuncion</option>
+<option value="ZoneInfo|-300|America/Atikokan">アメリカ/Atikokan</option>
+<option value="ZoneInfo|-180|America/Bahia">アメリカ/Bahia</option>
+<option value="ZoneInfo|-360|America/Bahia_Banderas">アメリカ/Bahia
+1000
+ Banderas</option>
+<option value="ZoneInfo|-240|America/Barbados">アメリカ/Barbados</option>
+<option value="ZoneInfo|-180|America/Belem">アメリカ/Belem</option>
+<option value="ZoneInfo|-360|America/Belize">アメリカ/Belize</option>
+<option value="ZoneInfo|-240|America/Blanc-Sablon">アメリカ/Blanc-Sablon</option>
+<option value="ZoneInfo|-240|America/Boa_Vista">アメリカ/Boa Vista</option>
+<option value="ZoneInfo|-300|America/Bogota">アメリカ/Bogota</option>
+<option value="ZoneInfo|-420|America/Boise">アメリカ/Boise</option>
+<option value="ZoneInfo|-420|America/Cambridge_Bay">アメリカ/Cambridge Bay</option>
+<option value="ZoneInfo|-240|America/Campo_Grande">アメリカ/Campo Grande</option>
+<option value="ZoneInfo|-300|America/Cancun">アメリカ/Cancun</option>
+<option value="ZoneInfo|-240|America/Caracas">アメリカ/Caracas</option>
+<option value="ZoneInfo|-180|America/Cayenne">アメリカ/Cayenne</option>
+<option value="ZoneInfo|-300|America/Cayman">アメリカ/Cayman</option>
+<option value="ZoneInfo|-360|America/Chicago">アメリカ/Chicago</option>
+<option value="ZoneInfo|-420|America/Chihuahua">アメリカ/Chihuahua</option>
+<option value="ZoneInfo|-360|America/Costa_Rica">アメリカ/Costa Rica</option>
+<option value="ZoneInfo|-420|America/Creston">アメリカ/Creston</option>
+<option value="ZoneInfo|-240|America/Cuiaba">アメリカ/Cuiaba</option>
+<option value="ZoneInfo|-240|America/Curacao">アメリカ/Curacao</option>
+<option value="ZoneInfo|0|America/Danmarkshavn">アメリカ/Danmarkshavn</option>
+<option value="ZoneInfo|-480|America/Dawson">アメリカ/Dawson</option>
+<option value="ZoneInfo|-420|America/Dawson_Creek">アメリカ/Dawson Creek</option>
+<option value="ZoneInfo|-420|America/Denver">アメリカ/Denver</option>
+<option value="ZoneInfo|-300|America/Detroit">アメリカ/Detroit</option>
+<option value="ZoneInfo|-240|America/Dominica">アメリカ/Dominica</option>
+<option value="ZoneInfo|-420|America/Edmonton">アメリカ/Edmonton</option>
+<option value="ZoneInfo|-300|America/Eirunepe">アメリカ/Eirunepe</option>
+<option value="ZoneInfo|-360|America/El_Salvador">アメリカ/El Salvador</option>
+<option value="ZoneInfo|-420|America/Fort_Nelson">アメリカ/Fort Nelson</option>
+<option value="ZoneInfo|-180|America/Fortaleza">アメリカ/Fortaleza</option>
+<option value="ZoneInfo|-240|America/Glace_Bay">アメリカ/Glace Bay</option>
+<option value="ZoneInfo|-180|America/Godthab">アメリカ/Godthab</option>
+<option value="ZoneInfo|-240|America/Goose_Bay">アメリカ/Goose Bay</option>
+<option value="ZoneInfo|-240|America/Grand_Turk">アメリカ/Grand Turk</option>
+<option value="ZoneInfo|-240|America/Grenada">アメリカ/Grenada</option>
+<option value="ZoneInfo|-240|America/Guadeloupe">アメリカ/Guadeloupe</option>
+<option value="ZoneInfo|-360|America/Guatemala">アメリカ/Guatemala</option>
+<option value="ZoneInfo|-300|America/Guayaquil">アメリカ/Guayaquil</option>
+<option value="ZoneInfo|-240|America/Guyana">アメリカ/Guyana</option>
+<option value="ZoneInfo|-240|America/Halifax">アメリカ/Halifax</option>
+<option value="ZoneInfo|-300|America/Havana">アメリカ/Havana</option>
+<option value="ZoneInfo|-420|America/Hermosillo">アメリカ/Hermosillo</option>
+<option value="ZoneInfo|-300|America/Indiana/Indianapolis">アメリカ/Indiana/Indianapolis</option>
+<option value="ZoneInfo|-360|America/Indiana/Knox">アメリカ/Indiana/Knox</option>
+<option value="ZoneInfo|-300|America/Indiana/Marengo">アメリカ/Indiana/Marengo</option>
+<option value="ZoneInfo|-300|America/Indiana/Petersburg">アメリカ/Indiana/Petersburg</option>
+<option value="ZoneInfo|-360|America/Indiana/Tell_City">アメリカ/Indiana/Tell City</option>
+<option value="ZoneInfo|-300|America/Indiana/Vevay">アメリカ/Indiana/Vevay</option>
+<option value="ZoneInfo|-300|America/Indiana/Vincennes">アメリカ/Indiana/Vincennes</option>
+<option value="ZoneInfo|-300|America/Indiana/Winamac">アメリカ/Indiana/Winamac</option>
+<option value="ZoneInfo|-420|America
+1000
+/Inuvik">アメリカ/Inuvik</option>
+<option value="ZoneInfo|-300|America/Iqaluit">アメリカ/Iqaluit</option>
+<option value="ZoneInfo|-300|America/Jamaica">アメリカ/Jamaica</option>
+<option value="ZoneInfo|-540|America/Juneau">アメリカ/Juneau</option>
+<option value="ZoneInfo|-300|America/Kentucky/Louisville">アメリカ/Kentucky/Louisville</option>
+<option value="ZoneInfo|-300|America/Kentucky/Monticello">アメリカ/Kentucky/Monticello</option>
+<option value="ZoneInfo|-240|America/Kralendijk">アメリカ/Kralendijk</option>
+<option value="ZoneInfo|-240|America/La_Paz">アメリカ/La Paz</option>
+<option value="ZoneInfo|-300|America/Lima">アメリカ/Lima</option>
+<option value="ZoneInfo|-480|America/Los_Angeles">アメリカ/Los Angeles</option>
+<option value="ZoneInfo|-240|America/Lower_Princes">アメリカ/Lower Princes</option>
+<option value="ZoneInfo|-180|America/Maceio">アメリカ/Maceio</option>
+<option value="ZoneInfo|-360|America/Managua">アメリカ/Managua</option>
+<option value="ZoneInfo|-240|America/Manaus">アメリカ/Manaus</option>
+<option value="ZoneInfo|-240|America/Marigot">アメリカ/Marigot</option>
+<option value="ZoneInfo|-240|America/Martinique">アメリカ/Martinique</option>
+<option value="ZoneInfo|-360|America/Matamoros">アメリカ/Matamoros</option>
+<option value="ZoneInfo|-420|America/Mazatlan">アメリカ/Mazatlan</option>
+<option value="ZoneInfo|-360|America/Menominee">アメリカ/Menominee</option>
+<option value="ZoneInfo|-360|America/Merida">アメリカ/Merida</option>
+<option value="ZoneInfo|-540|America/Metlakatla">アメリカ/Metlakatla</option>
+<option value="ZoneInfo|-360|America/Mexico_City">アメリカ/Mexico City</option>
+<option value="ZoneInfo|-180|America/Miquelon">アメリカ/Miquelon</option>
+<option value="ZoneInfo|-240|America/Moncton">アメリカ/Moncton</option>
+<option value="ZoneInfo|-360|America/Monterrey">アメリカ/Monterrey</option>
+<option value="ZoneInfo|-180|America/Montevideo">アメリカ/Montevideo</option>
+<option value="ZoneInfo|-240|America/Montserrat">アメリカ/Montserrat</option>
+<option value="ZoneInfo|-300|America/Nassau">アメリカ/Nassau</option>
+<option value="ZoneInfo|-300|America/New_York">アメリカ/New York</option>
+<option value="ZoneInfo|-300|America/Nipigon">アメリカ/Nipigon</option>
+<option value="ZoneInfo|-540|America/Nome">アメリカ/Nome</option>
+<option value="ZoneInfo|-120|America/Noronha">アメリカ/Noronha</option>
+<option value="ZoneInfo|-360|America/North_Dakota/Beulah">アメリカ/North Dakota/Beulah</option>
+<option value="ZoneInfo|-360|America/North_Dakota/Center">アメリカ/North Dakota/Center</option>
+<option value="ZoneInfo|-360|America/North_Dakota/New_Salem">アメリカ/North Dakota/New Salem</option>
+<option value="ZoneInfo|-420|America/Ojinaga">アメリカ/Ojinaga</option>
+<option value="ZoneInfo|-300|America/Panama">アメリカ/Panama</option>
+<option value="ZoneInfo|-300|America/Pangnirtung">アメリカ/Pangnirtung</option>
+<option value="ZoneInfo|-180|America/Paramaribo">アメリカ/Paramaribo</option>
+<option value="ZoneInfo|-420|America/Phoenix">アメリカ/Phoenix</option>
+<option value="ZoneInfo|-300|America/Port-au-Prince">アメリカ/Port-au-Prince</option>
+<option value="ZoneInfo|-240|America/Port_of_Spain">アメリカ/Port of Spain</option>
+<option value="ZoneInfo|-240|America/Porto_Velho">アメリカ/Porto Velho</option>
+<option value="ZoneInfo|-240|America/Puerto_Rico">アメリカ/Puerto Rico</option>
+<option value="ZoneInfo|-360|America/Rainy_River">アメリカ/Rainy River</option>
+<option value="ZoneInfo|-360|America/Rankin_Inlet">アメリカ/Rankin Inlet</option>
+<option value="ZoneInfo|-180|America/Recife">アメリカ/Recife</option>
+<option value="ZoneInfo|-360|America/Regina">アメリカ/Regina</option>
+<option value="ZoneInfo|-360|America/Resolute">アメリカ/Resolute</option>
+<option value="ZoneInfo|-300|America/Rio_Branco">アメリカ/Rio Branco</option>
+<option value="ZoneInfo|-180|America/Santarem">アメリカ/Santarem</option>
+<o
+1000
+ption value="ZoneInfo|-180|America/Santiago">アメリカ/Santiago</option>
+<option value="ZoneInfo|-240|America/Santo_Domingo">アメリカ/Santo Domingo</option>
+<option value="ZoneInfo|-180|America/Sao_Paulo">アメリカ/Sao Paulo</option>
+<option value="ZoneInfo|-60|America/Scoresbysund">アメリカ/Scoresbysund</option>
+<option value="ZoneInfo|-540|America/Sitka">アメリカ/Sitka</option>
+<option value="ZoneInfo|-240|America/St_Barthelemy">アメリカ/St Barthelemy</option>
+<option value="ZoneInfo|-210|America/St_Johns">アメリカ/St Johns</option>
+<option value="ZoneInfo|-240|America/St_Kitts">アメリカ/St Kitts</option>
+<option value="ZoneInfo|-240|America/St_Lucia">アメリカ/St Lucia</option>
+<option value="ZoneInfo|-240|America/St_Thomas">アメリカ/St Thomas</option>
+<option value="ZoneInfo|-240|America/St_Vincent">アメリカ/St Vincent</option>
+<option value="ZoneInfo|-360|America/Swift_Current">アメリカ/Swift Current</option>
+<option value="ZoneInfo|-360|America/Tegucigalpa">アメリカ/Tegucigalpa</option>
+<option value="ZoneInfo|-240|America/Thule">アメリカ/Thule</option>
+<option value="ZoneInfo|-300|America/Thunder_Bay">アメリカ/Thunder Bay</option>
+<option value="ZoneInfo|-480|America/Tijuana">アメリカ/Tijuana</option>
+<option value="ZoneInfo|-300|America/Toronto">アメリカ/Toronto</option>
+<option value="ZoneInfo|-240|America/Tortola">アメリカ/Tortola</option>
+<option value="ZoneInfo|-480|America/Vancouver">アメリカ/Vancouver</option>
+<option value="ZoneInfo|-480|America/Whitehorse">アメリカ/Whitehorse</option>
+<option value="ZoneInfo|-360|America/Winnipeg">アメリカ/Winnipeg</option>
+<option value="ZoneInfo|-540|America/Yakutat">アメリカ/Yakutat</option>
+<option value="ZoneInfo|-420|America/Yellowknife">アメリカ/Yellowknife</option>
+</optgroup>
+<optgroup label="南極"><option value="ZoneInfo|660|Antarctica/Casey">南極/Casey</option>
+<option value="ZoneInfo|420|Antarctica/Davis">南極/Davis</option>
+<option value="ZoneInfo|600|Antarctica/DumontDUrville">南極/DumontDUrville</option>
+<option value="ZoneInfo|660|Antarctica/Macquarie">南極/Macquarie</option>
+<option value="ZoneInfo|300|Antarctica/Mawson">南極/Mawson</option>
+<option value="ZoneInfo|780|Antarctica/McMurdo">南極/McMurdo</option>
+<option value="ZoneInfo|-180|Antarctica/Palmer">南極/Palmer</option>
+<option value="ZoneInfo|-180|Antarctica/Rothera">南極/Rothera</option>
+<option value="ZoneInfo|180|Antarctica/Syowa">南極/Syowa</option>
+<option value="ZoneInfo|0|Antarctica/Troll">南極/Troll</option>
+<option value="ZoneInfo|360|Antarctica/Vostok">南極/Vostok</option>
+</optgroup>
+<optgroup label="北極"><option value="ZoneInfo|60|Arctic/Longyearbyen">北極/Longyearbyen</option>
+</optgroup>
+<optgroup label="アジア"><option value="ZoneInfo|180|Asia/Aden">アジア/Aden</option>
+<option value="ZoneInfo|360|Asia/Almaty">アジア/Almaty</option>
+<option value="ZoneInfo|120|Asia/Amman">アジア/Amman</option>
+<option value="ZoneInfo|720|Asia/Anadyr">アジア/Anadyr</option>
+<option value="ZoneInfo|300|Asia/Aqtau">アジア/Aqtau</option>
+<option value="ZoneInfo|300|Asia/Aqtobe">アジア/Aqtobe</option>
+<option value="ZoneInfo|300|Asia/Ashgabat">アジア/Ashgabat</option>
+<option value="ZoneInfo|300|Asia/Atyrau">アジア/Atyrau</option>
+<option value="ZoneInfo|180|Asia/Baghdad">アジア/Baghdad</option>
+<option value="ZoneInfo|180|Asia/Bahrain">アジア/Bahrain</option>
+<option value="ZoneInfo|240|Asia/Baku">アジア/Baku</option>
+<option value="ZoneInfo|420|Asia/Bangkok">アジア/Bangkok</option>
+<option value="ZoneInfo|420|Asia/Barnaul">アジア/Barnaul</option>
+<option value="ZoneInfo|120|Asia/Beirut">アジア/Beirut</option>
+<option value="ZoneInfo|360|Asia/Bishkek">アジア/Bishkek</option>
+<option value="ZoneInfo|480|Asia/Brunei">アジア/Brunei</option>
+<option value="ZoneInfo|540|Asia/Chita">アジア/Chita</option>
+<option value="ZoneInfo|480|Asia/Choibalsan">アジア/Choibalsan</option>
+<option value="ZoneInfo|330|Asia/Colombo">アジア/Colombo</o
+ff6
+ption>
+<option value="ZoneInfo|120|Asia/Damascus">アジア/Damascus</option>
+<option value="ZoneInfo|360|Asia/Dhaka">アジア/Dhaka</option>
+<option value="ZoneInfo|540|Asia/Dili">アジア/Dili</option>
+<option value="ZoneInfo|240|Asia/Dubai">アジア/Dubai</option>
+<option value="ZoneInfo|300|Asia/Dushanbe">アジア/Dushanbe</option>
+<option value="ZoneInfo|180|Asia/Famagusta">アジア/Famagusta</option>
+<option value="ZoneInfo|120|Asia/Gaza">アジア/Gaza</option>
+<option value="ZoneInfo|120|Asia/Hebron">アジア/Hebron</option>
+<option value="ZoneInfo|420|Asia/Ho_Chi_Minh">アジア/Ho Chi Minh</option>
+<option value="ZoneInfo|480|Asia/Hong_Kong">アジア/Hong Kong</option>
+<option value="ZoneInfo|420|Asia/Hovd">アジア/Hovd</option>
+<option value="ZoneInfo|480|Asia/Irkutsk">アジア/Irkutsk</option>
+<option value="ZoneInfo|420|Asia/Jakarta">アジア/Jakarta</option>
+<option value="ZoneInfo|540|Asia/Jayapura">アジア/Jayapura</option>
+<option value="ZoneInfo|120|Asia/Jerusalem">アジア/Jerusalem</option>
+<option value="ZoneInfo|270|Asia/Kabul">アジア/Kabul</option>
+<option value="ZoneInfo|720|Asia/Kamchatka">アジア/Kamchatka</option>
+<option value="ZoneInfo|300|Asia/Karachi">アジア/Karachi</option>
+<option value="ZoneInfo|345|Asia/Kathmandu">アジア/Kathmandu</option>
+<option value="ZoneInfo|540|Asia/Khandyga">アジア/Khandyga</option>
+<option value="ZoneInfo|330|Asia/Kolkata">アジア/Kolkata</option>
+<option value="ZoneInfo|420|Asia/Krasnoyarsk">アジア/Krasnoyarsk</option>
+<option value="ZoneInfo|480|Asia/Kuala_Lumpur">アジア/Kuala Lumpur</option>
+<option value="ZoneInfo|480|Asia/Kuching">アジア/Kuching</option>
+<option value="ZoneInfo|180|Asia/Kuwait">アジア/Kuwait</option>
+<option value="ZoneInfo|480|Asia/Macau">アジア/Macau</option>
+<option value="ZoneInfo|660|Asia/Magadan">アジア/Magadan</option>
+<option value="ZoneInfo|480|Asia/Makassar">アジア/Makassar</option>
+<option value="ZoneInfo|480|Asia/Manila">アジア/Manila</option>
+<option value="ZoneInfo|240|Asia/Muscat">アジア/Muscat</option>
+<option value="ZoneInfo|120|Asia/Nicosia">アジア/Nicosia</option>
+<option value="ZoneInfo|420|Asia/Novokuznetsk">アジア/Novokuznetsk</option>
+<option value="ZoneInfo|420|Asia/Novosibirsk">アジア/Novosibirsk</option>
+<option value="ZoneInfo|360|Asia/Omsk">アジア/Omsk</option>
+<option value="ZoneInfo|300|Asia/Oral">アジア/Oral</option>
+<option value="ZoneInfo|420|Asia/Phnom_Penh">アジア/Phnom Penh</option>
+<option value="ZoneInfo|420|Asia/Pontianak">アジア/Pontianak</option>
+<option value="ZoneInfo|510|Asia/Pyongyang">アジア/Pyongyang</option>
+<option value="ZoneInfo|180|Asia/Qatar">アジア/Qatar</option>
+<option value="ZoneInfo|360|Asia/Qyzylorda">アジア/Qyzylorda</option>
+<option value="ZoneInfo|180|Asia/Riyadh">アジア/Riyadh</option>
+<option value="ZoneInfo|660|Asia/Sakhalin">アジア/Sakhalin</option>
+<option value="ZoneInfo|300|Asia/Samarkand">アジア/Samarkand</option>
+<option value="ZoneInfo|540|Asia/Seoul">アジア/Seoul</option>
+<option value="ZoneInfo|480|Asia/Shanghai">アジア/Shanghai</option>
+<option value="ZoneInfo|480|Asia/Singapore">アジア/Singapore</option>
+<option value="ZoneInfo|660|Asia/Srednekolymsk">アジア/Srednekolymsk</option>
+<option value="ZoneInfo|480|Asia/Taipei">アジア/Taipei</option>
+<option value="ZoneInfo|300|Asia/Tashkent">アジア/Tashkent</option>
+<option value="ZoneInfo|240|Asia/Tbilisi">アジア/Tbilisi</option>
+<option value="ZoneInfo|210|Asia/Tehran">アジア/Tehran</option>
+<option value="ZoneInfo|360|Asia/Thimphu">アジア/Thimphu</option>
+<option value="ZoneInfo|540|Asia/Tokyo">アジア/Tokyo</option>
+<option value="ZoneInfo|420|Asia/Tomsk">アジア/Tomsk</option>
+<option value="ZoneInfo|480|Asia/Ulaanbaatar">アジア/Ulaanbaatar</option>
+<option value="ZoneInfo|360|Asia/Urumqi">アジア/Urumqi</option>
+<option value="ZoneInfo|600|Asia/Ust-Nera">アジア/Ust-Nera</option>
+<option value="ZoneInfo|420|Asia/Vientiane">アジア/Vientiane</option>
+<option value="ZoneInfo
+1000
+|600|Asia/Vladivostok">アジア/Vladivostok</option>
+<option value="ZoneInfo|540|Asia/Yakutsk">アジア/Yakutsk</option>
+<option value="ZoneInfo|390|Asia/Yangon">アジア/Yangon</option>
+<option value="ZoneInfo|300|Asia/Yekaterinburg">アジア/Yekaterinburg</option>
+<option value="ZoneInfo|240|Asia/Yerevan">アジア/Yerevan</option>
+</optgroup>
+<optgroup label="大西洋"><option value="ZoneInfo|-60|Atlantic/Azores">大西洋/Azores</option>
+<option value="ZoneInfo|-240|Atlantic/Bermuda">大西洋/Bermuda</option>
+<option value="ZoneInfo|0|Atlantic/Canary">大西洋/Canary</option>
+<option value="ZoneInfo|-60|Atlantic/Cape_Verde">大西洋/Cape Verde</option>
+<option value="ZoneInfo|0|Atlantic/Faroe">大西洋/Faroe</option>
+<option value="ZoneInfo|0|Atlantic/Madeira">大西洋/Madeira</option>
+<option value="ZoneInfo|0|Atlantic/Reykjavik">大西洋/Reykjavik</option>
+<option value="ZoneInfo|-120|Atlantic/South_Georgia">大西洋/South Georgia</option>
+<option value="ZoneInfo|0|Atlantic/St_Helena">大西洋/St Helena</option>
+<option value="ZoneInfo|-180|Atlantic/Stanley">大西洋/Stanley</option>
+</optgroup>
+<optgroup label="オーストラリア"><option value="ZoneInfo|630|Australia/Adelaide">オーストラリア/Adelaide</option>
+<option value="ZoneInfo|600|Australia/Brisbane">オーストラリア/Brisbane</option>
+<option value="ZoneInfo|630|Australia/Broken_Hill">オーストラリア/Broken Hill</option>
+<option value="ZoneInfo|660|Australia/Currie">オーストラリア/Currie</option>
+<option value="ZoneInfo|570|Australia/Darwin">オーストラリア/Darwin</option>
+<option value="ZoneInfo|525|Australia/Eucla">オーストラリア/Eucla</option>
+<option value="ZoneInfo|660|Australia/Hobart">オーストラリア/Hobart</option>
+<option value="ZoneInfo|600|Australia/Lindeman">オーストラリア/Lindeman</option>
+<option value="ZoneInfo|660|Australia/Lord_Howe">オーストラリア/Lord Howe</option>
+<option value="ZoneInfo|660|Australia/Melbourne">オーストラリア/Melbourne</option>
+<option value="ZoneInfo|480|Australia/Perth">オーストラリア/Perth</option>
+<option value="ZoneInfo|660|Australia/Sydney">オーストラリア/Sydney</option>
+</optgroup>
+<optgroup label="ヨーロッパ"><option value="ZoneInfo|60|Europe/Amsterdam">ヨーロッパ/Amsterdam</option>
+<option value="ZoneInfo|60|Europe/Andorra">ヨーロッパ/Andorra</option>
+<option value="ZoneInfo|240|Europe/Astrakhan">ヨーロッパ/Astrakhan</option>
+<option value="ZoneInfo|120|Europe/Athens">ヨーロッパ/Athens</option>
+<option value="ZoneInfo|60|Europe/Belgrade">ヨーロッパ/Belgrade</option>
+<option value="ZoneInfo|60|Europe/Berlin">ヨーロッパ/Berlin</option>
+<option value="ZoneInfo|60|Europe/Bratislava">ヨーロッパ/Bratislava</option>
+<option value="ZoneInfo|60|Europe/Brussels">ヨーロッパ/Brussels</option>
+<option value="ZoneInfo|120|Europe/Bucharest">ヨーロッパ/Bucharest</option>
+<option value="ZoneInfo|60|Europe/Budapest">ヨーロッパ/Budapest</option>
+<option value="ZoneInfo|60|Europe/Busingen">ヨーロッパ/Busingen</option>
+<option value="ZoneInfo|120|Europe/Chisinau">ヨーロッパ/Chisinau</option>
+<option value="ZoneInfo|60|Europe/Copenhagen">ヨーロッパ/Copenhagen</option>
+<option value="ZoneInfo|0|Europe/Dublin">ヨーロッパ/Dublin</option>
+<option value="ZoneInfo|60|Europe/Gibraltar">ヨーロッパ/Gibraltar</option>
+<option value="ZoneInfo|0|Europe/Guernsey">ヨーロッパ/Guernsey</option>
+<option value="ZoneInfo|120|Europe/Helsinki">ヨーロッパ/Helsinki</option>
+<option value="ZoneInfo|0|Europe/Isle_of_Man">ヨーロッパ/Isle of Man</option>
+<option value="ZoneInfo|180|Europe/Istanbul">ヨーロッパ/Istanbul</option>
+<option value="ZoneInfo|0|Europe/Jersey">ヨーロッパ/Jersey</option>
+<option value="ZoneInfo|120|Europe/Kaliningrad">ヨーロッパ/Kaliningrad</option>
+<option value="ZoneInfo|120|Europe/Kiev">ヨーロッパ/Kiev</option>
+<option value="ZoneInfo|180|Europe/Kirov">ヨーロッパ/Kirov</option>
+<option value="ZoneInfo|0|Europe/Lisbon">ヨ
+1000
+ーロッパ/Lisbon</option>
+<option value="ZoneInfo|60|Europe/Ljubljana">ヨーロッパ/Ljubljana</option>
+<option value="ZoneInfo|0|Europe/London">ヨーロッパ/London</option>
+<option value="ZoneInfo|60|Europe/Luxembourg">ヨーロッパ/Luxembourg</option>
+<option value="ZoneInfo|60|Europe/Madrid">ヨーロッパ/Madrid</option>
+<option value="ZoneInfo|60|Europe/Malta">ヨーロッパ/Malta</option>
+<option value="ZoneInfo|120|Europe/Mariehamn">ヨーロッパ/Mariehamn</option>
+<option value="ZoneInfo|180|Europe/Minsk">ヨーロッパ/Minsk</option>
+<option value="ZoneInfo|60|Europe/Monaco">ヨーロッパ/Monaco</option>
+<option value="ZoneInfo|180|Europe/Moscow">ヨーロッパ/Moscow</option>
+<option value="ZoneInfo|60|Europe/Oslo">ヨーロッパ/Oslo</option>
+<option value="ZoneInfo|60|Europe/Paris">ヨーロッパ/Paris</option>
+<option value="ZoneInfo|60|Europe/Podgorica">ヨーロッパ/Podgorica</option>
+<option value="ZoneInfo|60|Europe/Prague">ヨーロッパ/Prague</option>
+<option value="ZoneInfo|120|Europe/Riga">ヨーロッパ/Riga</option>
+<option value="ZoneInfo|60|Europe/Rome">ヨーロッパ/Rome</option>
+<option value="ZoneInfo|240|Europe/Samara">ヨーロッパ/Samara</option>
+<option value="ZoneInfo|60|Europe/San_Marino">ヨーロッパ/San Marino</option>
+<option value="ZoneInfo|60|Europe/Sarajevo">ヨーロッパ/Sarajevo</option>
+<option value="ZoneInfo|240|Europe/Saratov">ヨーロッパ/Saratov</option>
+<option value="ZoneInfo|180|Europe/Simferopol">ヨーロッパ/Simferopol</option>
+<option value="ZoneInfo|60|Europe/Skopje">ヨーロッパ/Skopje</option>
+<option value="ZoneInfo|120|Europe/Sofia">ヨーロッパ/Sofia</option>
+<option value="ZoneInfo|60|Europe/Stockholm">ヨーロッパ/Stockholm</option>
+<option value="ZoneInfo|120|Europe/Tallinn">ヨーロッパ/Tallinn</option>
+<option value="ZoneInfo|60|Europe/Tirane">ヨーロッパ/Tirane</option>
+<option value="ZoneInfo|240|Europe/Ulyanovsk">ヨーロッパ/Ulyanovsk</option>
+<option value="ZoneInfo|120|Europe/Uzhgorod">ヨーロッパ/Uzhgorod</option>
+<option value="ZoneInfo|60|Europe/Vaduz">ヨーロッパ/Vaduz</option>
+<option value="ZoneInfo|60|Europe/Vatican">ヨーロッパ/Vatican</option>
+<option value="ZoneInfo|60|Europe/Vienna">ヨーロッパ/Vienna</option>
+<option value="ZoneInfo|120|Europe/Vilnius">ヨーロッパ/Vilnius</option>
+<option value="ZoneInfo|180|Europe/Volgograd">ヨーロッパ/Volgograd</option>
+<option value="ZoneInfo|60|Europe/Warsaw">ヨーロッパ/Warsaw</option>
+<option value="ZoneInfo|60|Europe/Zagreb">ヨーロッパ/Zagreb</option>
+<option value="ZoneInfo|120|Europe/Zaporozhye">ヨーロッパ/Zaporozhye</option>
+<option value="ZoneInfo|60|Europe/Zurich">ヨーロッパ/Zurich</option>
+</optgroup>
+<optgroup label="インド洋"><option value="ZoneInfo|180|Indian/Antananarivo">インド洋/Antananarivo</option>
+<option value="ZoneInfo|360|Indian/Chagos">インド洋/Chagos</option>
+<option value="ZoneInfo|420|Indian/Christmas">インド洋/Christmas</option>
+<option value="ZoneInfo|390|Indian/Cocos">インド洋/Cocos</option>
+<option value="ZoneInfo|180|Indian/Comoro">インド洋/Comoro</option>
+<option value="ZoneInfo|300|Indian/Kerguelen">インド洋/Kerguelen</option>
+<option value="ZoneInfo|240|Indian/Mahe">インド洋/Mahe</option>
+<option value="ZoneInfo|300|Indian/Maldives">インド洋/Maldives</option>
+<option value="ZoneInfo|240|Indian/Mauritius">インド洋/Mauritius</option>
+<option value="ZoneInfo|180|Indian/Mayotte">インド洋/Mayotte</option>
+<option value="ZoneInfo|240|Indian/Reunion">インド洋/Reunion</option>
+</optgroup>
+<optgroup label="太平洋"><option value="ZoneInfo|840|Pacific/Apia">太平洋/Apia</option>
+<option value="ZoneInfo|780|Pacific/Auckland">太平洋/Auckland</option>
+<option value="ZoneInfo|660|Pacific/Bougainville">太平洋/Bougainville</option>
+<option value="ZoneInfo|825|Pacific/Chatham">太平洋/Chatham</option>
+<option value="ZoneInfo|600|Pacific/Chuuk">太平洋/Chuuk</option>
+<option value="ZoneInfo|-300|Pacific/Easter">太平洋/East
+1000
+er</option>
+<option value="ZoneInfo|660|Pacific/Efate">太平洋/Efate</option>
+<option value="ZoneInfo|780|Pacific/Enderbury">太平洋/Enderbury</option>
+<option value="ZoneInfo|780|Pacific/Fakaofo">太平洋/Fakaofo</option>
+<option value="ZoneInfo|720|Pacific/Fiji">太平洋/Fiji</option>
+<option value="ZoneInfo|720|Pacific/Funafuti">太平洋/Funafuti</option>
+<option value="ZoneInfo|-360|Pacific/Galapagos">太平洋/Galapagos</option>
+<option value="ZoneInfo|-540|Pacific/Gambier">太平洋/Gambier</option>
+<option value="ZoneInfo|660|Pacific/Guadalcanal">太平洋/Guadalcanal</option>
+<option value="ZoneInfo|600|Pacific/Guam">太平洋/Guam</option>
+<option value="ZoneInfo|-600|Pacific/Honolulu">太平洋/Honolulu</option>
+<option value="ZoneInfo|-600|Pacific/Johnston">太平洋/Johnston</option>
+<option value="ZoneInfo|840|Pacific/Kiritimati">太平洋/Kiritimati</option>
+<option value="ZoneInfo|660|Pacific/Kosrae">太平洋/Kosrae</option>
+<option value="ZoneInfo|720|Pacific/Kwajalein">太平洋/Kwajalein</option>
+<option value="ZoneInfo|720|Pacific/Majuro">太平洋/Majuro</option>
+<option value="ZoneInfo|-570|Pacific/Marquesas">太平洋/Marquesas</option>
+<option value="ZoneInfo|-660|Pacific/Midway">太平洋/Midway</option>
+<option value="ZoneInfo|720|Pacific/Nauru">太平洋/Nauru</option>
+<option value="ZoneInfo|-660|Pacific/Niue">太平洋/Niue</option>
+<option value="ZoneInfo|660|Pacific/Norfolk">太平洋/Norfolk</option>
+<option value="ZoneInfo|660|Pacific/Noumea">太平洋/Noumea</option>
+<option value="ZoneInfo|-660|Pacific/Pago_Pago">太平洋/Pago Pago</option>
+<option value="ZoneInfo|540|Pacific/Palau">太平洋/Palau</option>
+<option value="ZoneInfo|-480|Pacific/Pitcairn">太平洋/Pitcairn</option>
+<option value="ZoneInfo|660|Pacific/Pohnpei">太平洋/Pohnpei</option>
+<option value="ZoneInfo|600|Pacific/Port_Moresby">太平洋/Port Moresby</option>
+<option value="ZoneInfo|-600|Pacific/Rarotonga">太平洋/Rarotonga</option>
+<option value="ZoneInfo|600|Pacific/Saipan">太平洋/Saipan</option>
+<option value="ZoneInfo|-600|Pacific/Tahiti">太平洋/Tahiti</option>
+<option value="ZoneInfo|720|Pacific/Tarawa">太平洋/Tarawa</option>
+<option value="ZoneInfo|780|Pacific/Tongatapu">太平洋/Tongatapu</option>
+<option value="ZoneInfo|720|Pacific/Wake">太平洋/Wake</option>
+<option value="ZoneInfo|720|Pacific/Wallis">太平洋/Wallis</option>
+</optgroup></select><br />
+<input id="mw-input-wptimecorrection-other" size="20" name="wptimecorrection-other"/>
+</td></tr>
+</tbody></table>
+
+</fieldset>
+
+<fieldset id="mw-prefsection-rendering-files">
+<legend>ファイル</legend>
+<table id="mw-htmlform-files"><tbody>
+<tr class="mw-htmlform-field-HTMLSelectField"><td class="mw-label"><label for="mw-input-wpimagesize">画像のサイズ制限: <br/><em>(ファイルページに対する)</em></label></td><td class="mw-input"><select name="wpimagesize" id="mw-input-wpimagesize"><option value="0">320‎×240ピクセル</option>
+<option value="1">640‎×480ピクセル</option>
+<option value="2" selected="">800‎×600ピクセル</option>
+<option value="3">1024‎×768ピクセル</option>
+<option value="4">1280‎×1024ピクセル</option></select>
+</td></tr><tr class="mw-htmlform-field-HTMLSelectField"><td class="mw-label"><label for="mw-input-wpthumbsize">サムネイルの大きさ:</label></td><td class="mw-input"><select name="wpthumbsize" id="mw-input-wpthumbsize"><option value="0">120ピクセル</option>
+<option value="1">150ピクセル</option>
+<option value="2">180ピクセル</option>
+<option value="3">200ピクセル</option>
+<option value="4" selected="">220ピクセル</option>
+<option value="5">250ピクセル</option>
+<option value="6">300ピクセル</option>
+<option value="7">400ピクセル</option></select>
+</td></tr><tr class="mw-htmlform-field-HTMLCheckField"><td class="mw-label"><label>&#160;</label></td><td class="mw-input"><input name="wpmultimediaviewer-enable" type="checkbox" value="1" id="mw-input-wpmultimediaviewer-enable" />&#160;<label for="mw-input-wpmultimediaviewer-enable"><
+1000
+span class="plainlinks"><a class="external text" href="https://www.mediawiki.org/wiki/Special:MyLanguage/Extension:Media_Viewer/About">メディアビューアー</a></span>を有効にする</label>
+</td></tr>
+</tbody></table>
+
+</fieldset>
+
+<fieldset id="mw-prefsection-rendering-diffs">
+<legend>差分</legend>
+<table class="mw-htmlform-nolabel" id="mw-htmlform-diffs"><tbody>
+<tr class="mw-htmlform-field-HTMLCheckField"><td class="mw-label"><label>&#160;</label></td><td class="mw-input"><input name="wpdiffonly" type="checkbox" value="1" id="mw-input-wpdiffonly" />&#160;<label for="mw-input-wpdiffonly">差分の下にページ内容を表示しない</label>
+</td></tr><tr class="mw-htmlform-field-HTMLCheckField"><td class="mw-label"><label>&#160;</label></td><td class="mw-input"><input name="wpnorollbackdiff" type="checkbox" value="1" id="mw-input-wpnorollbackdiff" />&#160;<label for="mw-input-wpnorollbackdiff"><a href="/wiki/Help:%E7%AE%A1%E7%90%86%E8%80%85%E3%83%9E%E3%83%8B%E3%83%A5%E3%82%A2%E3%83%AB_%E3%83%AD%E3%83%BC%E3%83%AB%E3%83%90%E3%83%83%E3%82%AF" title="Help:管理者マニュアル ロールバック">ロールバック</a>後の差分を表示しない</label>
+</td></tr>
+</tbody></table>
+
+</fieldset>
+
+<fieldset id="mw-prefsection-rendering-advancedrendering">
+<legend>詳細の設定</legend>
+<table id="mw-htmlform-advancedrendering"><tbody>
+<tr class="mw-htmlform-field-HTMLSelectField"><td class="mw-label"><label for="mw-input-wpunderline">リンクの下線:</label></td><td class="mw-input"><select name="wpunderline" id="mw-input-wpunderline"><option value="0">常に付けない</option>
+<option value="1">常に付ける</option>
+<option value="2" selected="">外装またはブラウザーの既定値を使用</option></select>
+</td></tr><tr class="mw-htmlform-field-HTMLSelectField"><td class="mw-label"><label for="mw-input-wpstubthreshold">スタブリンク形式 (<a href="#" class="stub">サンプル</a>)として表示する閾値&#160;:</label></td><td class="mw-input"><select name="wpstubthreshold" id="mw-input-wpstubthreshold"><option value="0" selected="">無効</option>
+<option value="50">50バイト</option>
+<option value="100">100バイト</option>
+<option value="500">500バイト</option>
+<option value="1000">1000バイト</option>
+<option value="2000">2000バイト</option>
+<option value="5000">5000バイト</option>
+<option value="10000">10000バイト</option></select>
+</td></tr><tr class="mw-htmlform-field-HTMLCheckField"><td class="mw-label"><label>&#160;</label></td><td class="mw-input"><input name="wpshowhiddencats" type="checkbox" value="1" id="mw-input-wpshowhiddencats" />&#160;<label for="mw-input-wpshowhiddencats">隠しカテゴリを表示</label>
+</td></tr><tr class="mw-htmlform-field-HTMLCheckField"><td class="mw-label"><label>&#160;</label></td><td class="mw-input"><input name="wpnumberheadings" type="checkbox" value="1" id="mw-input-wpnumberheadings" />&#160;<label for="mw-input-wpnumberheadings">見出しに番号を自動的に振る</label>
+</td></tr>
+</tbody></table>
+
+</fieldset>
+
+<fieldset id="mw-prefsection-rendering-math">
+<legend>数式</legend>
+<table class="mw-htmlform-nolabel" id="mw-htmlform-math"><tbody>
+<tr class="mw-htmlform-field-HTMLRadioField"><td class="mw-label"><label>&#160;</label></td><td class="mw-input"> <div class="mw-htmlform-flatlist-item"><input name="wpmath" type="radio" value="png" id="mw-input-wpmath-png" />&#160;<label for="mw-input-wpmath-png">PNG 画像</label></div> <div class="mw-htmlform-flatlist-item"><input name="wpmath" type="radio" value="source" id="mw-input-wpmath-source" />&#160;<label for="mw-input-wpmath-source">LaTeX ソース (テキスト ブラウザー向け)</label></div> <div class="mw-htmlform-flatlist-item"><input name="wpmath" type="radio" value="mathml" checked="checked" id="mw-input-wpmath-mathml" />&#160;<label for="mw-input-wpmath-mathml">MathML、ただし動作しない場合はSVGかPNGで代替（最新ブラウザーや補助ツールに推奨）</label></div>
+</td></tr>
+</tbody></table>
+
+</fieldset>
+
+<fieldset id=
+1000
+"mw-prefsection-rendering-languages">
+<legend>言語</legend>
+<table class="mw-htmlform-nolabel" id="mw-htmlform-languages"><tbody>
+<tr class="mw-htmlform-field-HTMLCheckField"><td class="mw-label"><label>&#160;</label></td><td class="mw-input"><input name="wpcompact-language-links" type="checkbox" value="1" checked="checked" id="mw-input-wpcompact-language-links" />&#160;<label for="mw-input-wpcompact-language-links">あなたと関係するもの以外折りたたまれたコンパクトな言語間リンクを利用する。</label>
+</td></tr>
+</tbody></table>
+
+</fieldset>
+
+
+</fieldset>
+
+<fieldset id="mw-prefsection-editing">
+<legend>編集</legend>
+<table class="mw-htmlform-nolabel" id="mw-htmlform-editing"><tbody>
+
+</tbody></table>
+
+<fieldset id="mw-prefsection-editing-advancedediting">
+<legend>全般オプション</legend>
+<table class="mw-htmlform-nolabel" id="mw-htmlform-advancedediting"><tbody>
+<tr class="mw-htmlform-field-HTMLCheckField"><td class="mw-label"><label>&#160;</label></td><td class="mw-input"><input name="wpeditsectiononrightclick" type="checkbox" value="1" checked="checked" id="mw-input-wpeditsectiononrightclick" />&#160;<label for="mw-input-wpeditsectiononrightclick">節見出しの右クリックで節を編集できるようにする</label>
+</td></tr><tr class="mw-htmlform-field-HTMLCheckField"><td class="mw-label"><label>&#160;</label></td><td class="mw-input"><input name="wpeditondblclick" type="checkbox" value="1" id="mw-input-wpeditondblclick" />&#160;<label for="mw-input-wpeditondblclick">ダブルクリックでページを編集</label>
+</td></tr><tr class="mw-htmlform-field-HTMLCheckField"><td class="mw-label"><label>&#160;</label></td><td class="mw-input"><input name="wpwikilove-enabled" type="checkbox" value="1" checked="checked" id="mw-input-wpwikilove-enabled" />&#160;<label for="mw-input-wpwikilove-enabled">ウィキラブのタブを使用して他の利用者に感謝の意を示せるようにする</label>
+</td></tr>
+</tbody></table>
+
+</fieldset>
+
+<fieldset id="mw-prefsection-editing-editor">
+<legend>エディター</legend>
+<table id="mw-htmlform-editor"><tbody>
+<tr class="mw-htmlform-field-HTMLSelectField"><td class="mw-label"><label for="mw-input-wpeditfont">編集エリアのフォント形式:</label></td><td class="mw-input"><select name="wpeditfont" id="mw-input-wpeditfont"><option value="default" selected="">ブラウザーの設定を使用</option>
+<option value="monospace">等幅フォント</option>
+<option value="sans-serif">サンセリフ体のフォント</option>
+<option value="serif">セリフ体のフォント</option></select>
+</td></tr><tr class="mw-htmlform-field-HTMLCheckField"><td class="mw-label"><label>&#160;</label></td><td class="mw-input"><input name="wpminordefault" type="checkbox" value="1" id="mw-input-wpminordefault" />&#160;<label for="mw-input-wpminordefault">編集をすべて既定で細部の編集とする</label>
+</td></tr><tr class="mw-htmlform-field-HTMLCheckField"><td class="mw-label"><label>&#160;</label></td><td class="mw-input"><input name="wpforceeditsummary" type="checkbox" value="1" id="mw-input-wpforceeditsummary" />&#160;<label for="mw-input-wpforceeditsummary">要約欄が空欄の場合に確認を促す</label>
+</td></tr><tr class="mw-htmlform-field-HTMLCheckField"><td class="mw-label"><label>&#160;</label></td><td class="mw-input"><input name="wpuseeditwarning" type="checkbox" value="1" checked="checked" id="mw-input-wpuseeditwarning" />&#160;<label for="mw-input-wpuseeditwarning">変更を保存せずに編集画面から離れようとしたら警告</label>
+</td></tr><tr class="mw-htmlform-field-HTMLCheckField"><td class="mw-label"><label>&#160;</label></td><td class="mw-input"><input name="wpshowtoolbar" type="checkbox" value="1" checked="checked" id="mw-input-wpshowtoolbar" />&#160;<label for="mw-input-wpshowtoolbar">編集用のツールバーを表示</label>
+</td></tr><tr class="mw-htmlform-field-HTMLCheckField"><td class="mw-label"><label>&#160;</label></td><td class="mw-input"><input name="wpusebetatoolbar" type=
+1000
+"checkbox" value="1" checked="checked" id="mw-input-wpusebetatoolbar" />&#160;<label for="mw-input-wpusebetatoolbar">改良型編集ツールバーを有効にする</label>
+</td></tr><tr class="mw-htmlform-field-HTMLCheckField"><td class="mw-label"><label>&#160;</label></td><td class="mw-input"><input name="wpusebetatoolbar-cgd" type="checkbox" value="1" checked="checked" id="mw-input-wpusebetatoolbar-cgd" />&#160;<label for="mw-input-wpusebetatoolbar-cgd">リンクや表の挿入、および検索と置換のためのウィザードを有効にする</label>
+</td></tr><tr class="mw-htmlform-field-HTMLCheckField"><td class="mw-label"><label>&#160;</label></td><td class="mw-input"><input name="wpvisualeditor-betatempdisable" type="checkbox" value="1" id="mw-input-wpvisualeditor-betatempdisable" />&#160;<label for="mw-input-wpvisualeditor-betatempdisable">ビジュアルエディターがベータ版である間は、一時的に無効にする</label>
+</td></tr><tr class="mw-htmlform-field-HTMLSelectField"><td class="mw-label"><label for="mw-input-wpvisualeditor-tabs">編集モード：</label></td><td class="mw-input"><select name="wpvisualeditor-tabs" id="mw-input-wpvisualeditor-tabs"><option value="remember-last" selected="">最後に使用したエディターを記憶する</option>
+<option value="prefer-ve">可能であれば常にビジュアルエディターを使用する</option>
+<option value="prefer-wt">常にソースエディターを使用する</option>
+<option value="multi-tab">両方のエディタータブを表示する</option></select>
+</td></tr>
+</tbody></table>
+
+</fieldset>
+
+<fieldset id="mw-prefsection-editing-preview">
+<legend>プレビュー</legend>
+<table class="mw-htmlform-nolabel" id="mw-htmlform-preview"><tbody>
+<tr class="mw-htmlform-field-HTMLCheckField"><td class="mw-label"><label>&#160;</label></td><td class="mw-input"><input name="wppreviewonfirst" type="checkbox" value="1" id="mw-input-wppreviewonfirst" />&#160;<label for="mw-input-wppreviewonfirst">編集開始時にもプレビューを表示</label>
+</td></tr><tr class="mw-htmlform-field-HTMLCheckField"><td class="mw-label"><label>&#160;</label></td><td class="mw-input"><input name="wppreviewontop" type="checkbox" value="1" checked="checked" id="mw-input-wppreviewontop" />&#160;<label for="mw-input-wppreviewontop">プレビューを編集ボックスの前に配置</label>
+</td></tr><tr class="mw-htmlform-field-HTMLCheckField"><td class="mw-label"><label>&#160;</label></td><td class="mw-input"><input name="wpuselivepreview" type="checkbox" value="1" id="mw-input-wpuselivepreview" />&#160;<label for="mw-input-wpuselivepreview">ライブプレビューを使用</label>
+</td></tr>
+</tbody></table>
+
+</fieldset>
+
+
+</fieldset>
+
+<fieldset id="mw-prefsection-rc">
+<legend>最近の更新</legend>
+<table class="mw-htmlform-nolabel" id="mw-htmlform-rc"><tbody>
+
+</tbody></table>
+
+<fieldset id="mw-prefsection-rc-displayrc">
+<legend>表示の設定</legend>
+<table id="mw-htmlform-displayrc"><tbody>
+<tr class="mw-htmlform-field-HTMLFloatField"><td class="mw-label"><label for="mw-input-wprcdays">最近の更新に表示する日数:</label></td><td class="mw-input"><input id="mw-input-wprcdays" name="wprcdays" size="20" value="7" min="1" max="30" step="any" type="number"/>
+</td></tr><tr><td colspan="2" class="htmlform-tip">(最大 30 日間)</td></tr><tr class="mw-htmlform-field-HTMLIntField"><td class="mw-label"><label for="mw-input-wprclimit">既定で表示する件数:</label></td><td class="mw-input"><input id="mw-input-wprclimit" name="wprclimit" size="20" value="50" type="number"/>
+</td></tr><tr><td colspan="2" class="htmlform-tip">この設定は最近の更新、ページの履歴、および記録に適用されます。</td></tr>
+</tbody></table>
+
+</fieldset>
+
+<fieldset id="mw-prefsection-rc-advancedrc">
+<legend>詳細の設定</legend>
+<table class="mw-htmlform-nolabel" id="mw-htmlform-advancedrc"><tbody>
+<tr class="mw-htmlform-field-HTMLCheckField"><td class="mw-label"><label>&#160;</label></td><td class="mw-input"><input name="wpus
+1000
+enewrc" type="checkbox" value="1" id="mw-input-wpusenewrc" />&#160;<label for="mw-input-wpusenewrc">最近の更新とウォッチリストで、複数の変更をページごとにまとめる</label>
+</td></tr><tr class="mw-htmlform-field-HTMLCheckField"><td class="mw-label"><label>&#160;</label></td><td class="mw-input"><input name="wphideminor" type="checkbox" value="1" id="mw-input-wphideminor" />&#160;<label for="mw-input-wphideminor">最近の更新に細部の編集を表示しない</label>
+</td></tr><tr class="mw-htmlform-field-HTMLCheckField"><td class="mw-label"><label>&#160;</label></td><td class="mw-input"><input name="wphidecategorization" type="checkbox" value="1" checked="checked" id="mw-input-wphidecategorization" />&#160;<label for="mw-input-wphidecategorization">ページのカテゴリ追加・除去を表示しない</label>
+</td></tr><tr class="mw-htmlform-field-HTMLCheckField"><td class="mw-label"><label>&#160;</label></td><td class="mw-input"><input name="wprcshowwikidata" type="checkbox" value="1" id="mw-input-wprcshowwikidata" />&#160;<label for="mw-input-wprcshowwikidata">最近の更新にウィキデータの編集を表示</label>
+</td></tr>
+</tbody></table>
+
+</fieldset>
+
+
+</fieldset>
+
+<fieldset id="mw-prefsection-watchlist">
+<legend>ウォッチリスト</legend>
+<table class="mw-htmlform-nolabel" id="mw-htmlform-watchlist"><tbody>
+
+</tbody></table>
+
+<fieldset id="mw-prefsection-watchlist-editwatchlist">
+<legend>ウォッチリストの編集</legend>
+<table id="mw-htmlform-editwatchlist"><tbody>
+<tr class="mw-htmlform-field-HTMLInfoField"><td class="mw-label"><label>自分のウォッチリストの項目を編集:</label></td><td class="mw-input"><a href="/wiki/%E7%89%B9%E5%88%A5:%E3%82%A6%E3%82%A9%E3%83%83%E3%83%81%E3%83%AA%E3%82%B9%E3%83%88%E3%81%AE%E7%B7%A8%E9%9B%86" title="特別:ウォッチリストの編集">ウォッチリストの表示と除去</a> | <a href="/wiki/%E7%89%B9%E5%88%A5:%E3%82%A6%E3%82%A9%E3%83%83%E3%83%81%E3%83%AA%E3%82%B9%E3%83%88%E3%81%AE%E7%B7%A8%E9%9B%86/raw" title="特別:ウォッチリストの編集/raw">生のウォッチリストの編集</a> | <a href="/wiki/%E7%89%B9%E5%88%A5:%E3%82%A6%E3%82%A9%E3%83%83%E3%83%81%E3%83%AA%E3%82%B9%E3%83%88%E3%81%AE%E7%B7%A8%E9%9B%86/clear" title="特別:ウォッチリストの編集/clear">ウォッチリストの全消去</a>
+</td></tr>
+</tbody></table>
+
+</fieldset>
+
+<fieldset id="mw-prefsection-watchlist-displaywatchlist">
+<legend>表示の設定</legend>
+<table id="mw-htmlform-displaywatchlist"><tbody>
+<tr class="mw-htmlform-field-HTMLFloatField"><td class="mw-label"><label for="mw-input-wpwatchlistdays">ウォッチリストの表示日数:</label></td><td class="mw-input"><input id="mw-input-wpwatchlistdays" name="wpwatchlistdays" size="20" value="3" min="0" max="30" step="any" type="number"/>
+</td></tr><tr><td colspan="2" class="htmlform-tip">最大 30 日間</td></tr><tr class="mw-htmlform-field-HTMLIntField"><td class="mw-label"><label for="mw-input-wpwllimit">ウォッチリストの展開時の最大表示件数:</label></td><td class="mw-input"><input id="mw-input-wpwllimit" name="wpwllimit" size="20" value="250" min="0" max="1000" type="number"/>
+</td></tr><tr><td colspan="2" class="htmlform-tip">最大数: 1000</td></tr>
+</tbody></table>
+
+</fieldset>
+
+<fieldset id="mw-prefsection-watchlist-advancedwatchlist">
+<legend>詳細の設定</legend>
+<table class="mw-htmlform-nolabel" id="mw-htmlform-advancedwatchlist"><tbody>
+<tr class="mw-htmlform-field-HTMLCheckField"><td class="mw-label"><label>&#160;</label></td><td class="mw-input"><input name="wpextendwatchlist" type="checkbox" value="1" id="mw-input-wpextendwatchlist" />&#160;<label for="mw-input-wpextendwatchlist">ウォッチリストを拡張して最新の変更以外もすべて表示</label>
+</td></tr><tr class="mw-htmlform-field-HTMLCheckField"><td class="mw-label"><label>&#160;</label></td><td class="mw-input"><input name="wpwatchlisthideminor" type="checkbox" value="1" id="mw-input-wpwatchlisthideminor" />&#160;<label for="mw-input-wpwatchlisthide
+ff6
+minor">細部の編集をウォッチリストに表示しない</label>
+</td></tr><tr class="mw-htmlform-field-HTMLCheckField"><td class="mw-label"><label>&#160;</label></td><td class="mw-input"><input name="wpwatchlisthidebots" type="checkbox" value="1" id="mw-input-wpwatchlisthidebots" />&#160;<label for="mw-input-wpwatchlisthidebots">ボットによる編集をウォッチリストに表示しない</label>
+</td></tr><tr class="mw-htmlform-field-HTMLCheckField"><td class="mw-label"><label>&#160;</label></td><td class="mw-input"><input name="wpwatchlisthideown" type="checkbox" value="1" id="mw-input-wpwatchlisthideown" />&#160;<label for="mw-input-wpwatchlisthideown">自分の編集をウォッチリストに表示しない</label>
+</td></tr><tr class="mw-htmlform-field-HTMLCheckField"><td class="mw-label"><label>&#160;</label></td><td class="mw-input"><input name="wpwatchlisthideanons" type="checkbox" value="1" id="mw-input-wpwatchlisthideanons" />&#160;<label for="mw-input-wpwatchlisthideanons">匿名利用者による編集をウォッチリストに表示しない</label>
+</td></tr><tr class="mw-htmlform-field-HTMLCheckField"><td class="mw-label"><label>&#160;</label></td><td class="mw-input"><input name="wpwatchlisthideliu" type="checkbox" value="1" id="mw-input-wpwatchlisthideliu" />&#160;<label for="mw-input-wpwatchlisthideliu">ログイン利用者による編集をウォッチリストに表示しない</label>
+</td></tr><tr class="mw-htmlform-field-HTMLCheckField"><td class="mw-label"><label>&#160;</label></td><td class="mw-input"><input name="wpwatchlistreloadautomatically" type="checkbox" value="1" id="mw-input-wpwatchlistreloadautomatically" />&#160;<label for="mw-input-wpwatchlistreloadautomatically">フィルタが変更されるたびに、ウォッチリストを自動的に再読み込みする (JavaScript が必要)</label>
+</td></tr><tr class="mw-htmlform-field-HTMLCheckField"><td class="mw-label"><label>&#160;</label></td><td class="mw-input"><input name="wpwatchlisthidecategorization" type="checkbox" value="1" checked="checked" id="mw-input-wpwatchlisthidecategorization" />&#160;<label for="mw-input-wpwatchlisthidecategorization">ページのカテゴリ追加・除去を表示しない</label>
+</td></tr><tr class="mw-htmlform-field-HTMLCheckField"><td class="mw-label"><label>&#160;</label></td><td class="mw-input"><input name="wpwatchdefault" type="checkbox" value="1" id="mw-input-wpwatchdefault" />&#160;<label for="mw-input-wpwatchdefault">自分が編集したページやファイルをウォッチリストに追加</label>
+</td></tr><tr class="mw-htmlform-field-HTMLCheckField"><td class="mw-label"><label>&#160;</label></td><td class="mw-input"><input name="wpwatchcreations" type="checkbox" value="1" checked="checked" id="mw-input-wpwatchcreations" />&#160;<label for="mw-input-wpwatchcreations">自分が作成したページやアップロードしたファイルをウォッチリストに追加</label>
+</td></tr><tr class="mw-htmlform-field-HTMLCheckField"><td class="mw-label"><label>&#160;</label></td><td class="mw-input"><input name="wpwlshowwikibase" type="checkbox" value="1" id="mw-input-wpwlshowwikibase" />&#160;<label for="mw-input-wpwlshowwikibase">ウィキデータの編集をウォッチリストに表示</label>
+</td></tr>
+</tbody></table>
+
+</fieldset>
+
+<fieldset id="mw-prefsection-watchlist-tokenwatchlist">
+<legend>トークン</legend>
+<table id="mw-htmlform-tokenwatchlist"><tbody>
+<tr class="mw-htmlform-field-HTMLInfoField"><td class="mw-label"><label>ウォッチリストのトークン:</label></td><td class="mw-input">6862c378133fd99a6c41706b3af7a9dca0adfd3a
+</td></tr><tr><td colspan="2" class="htmlform-tip">これはあなたのウォッチリスト フィードの秘密のコードです。
+このトークンを知っている人は誰でもあなたのウォッチリストを読めてしまうため、他の人に教えないでください。
+<a href="/wiki/%E7%89%B9%E5%88%A5:%E3%83%88%E3%83%BC%E3%82%AF%E3%83%B3%E3%81%AE%E5%86%8D%E8%A8%AD%E5%AE%9A" title="特別
+1000
+:トークンの再設定">トークンを再設定する必要がある場合はここをクリックしてください</a>。</td></tr>
+</tbody></table>
+
+</fieldset>
+
+
+</fieldset>
+
+<fieldset id="mw-prefsection-searchoptions">
+<legend>検索</legend>
+<table class="mw-htmlform-nolabel" id="mw-htmlform-searchoptions"><tbody>
+
+</tbody></table>
+
+<fieldset id="mw-prefsection-searchoptions-completion">
+<legend>Search completion</legend>
+<table class="mw-htmlform-nolabel" id="mw-htmlform-completion"><tbody>
+<tr class="mw-htmlform-field-CirrusSearch\HTMLCompletionProfileSettings"><td class="mw-label"><label for="mw-input-wpcirrussearch-pref-completion-profile"></label></td><td class="mw-input"><div><legend>Set the behavior for autocomplete (search-as-you-type) suggestions.</legend><strong>Completion suggester</strong><legend>The <a class="external text" href="https://www.mediawiki.org/wiki/Special:MyLanguage/Extension:CirrusSearch/CompletionSuggester">completion suggester</a> is an algorithm for search suggestions with better typo correction and search relevance.</legend><div><div style="vertical-align:top; display:inline-block;"><input id="mw-input-wpcirrussearch-pref-completion-profile-fuzzy" checked="" type="radio" value="fuzzy" name="wpcirrussearch-pref-completion-profile"/></div><div style="display:inline-block; width: 90%"><label for="mw-input-wpcirrussearch-pref-completion-profile-fuzzy" style="font-weight: bold">Default (recommended)</label><div>Corrects up to two typos. Resolves close redirects.</div></div></div><div><div style="vertical-align:top; display:inline-block;"><input id="mw-input-wpcirrussearch-pref-completion-profile-strict" type="radio" value="strict" name="wpcirrussearch-pref-completion-profile"/></div><div style="display:inline-block; width: 90%"><label for="mw-input-wpcirrussearch-pref-completion-profile-strict" style="font-weight: bold">Strict mode (advanced)</label><div>No typo correction. No accent folding. Strict matching.</div></div></div><div><div style="vertical-align:top; display:inline-block;"><input id="mw-input-wpcirrussearch-pref-completion-profile-normal" type="radio" value="normal" name="wpcirrussearch-pref-completion-profile"/></div><div style="display:inline-block; width: 90%"><label for="mw-input-wpcirrussearch-pref-completion-profile-normal" style="font-weight: bold">Redirect mode (advanced)</label><div>No typo correction. Resolves close redirects.</div></div></div><br/><strong>Prefix search</strong><legend>The legacy search-as-you-type suggestion algorithm.</legend><div><div style="vertical-align:top; display:inline-block;"><input id="mw-input-wpcirrussearch-pref-completion-profile-classic" type="radio" value="classic" name="wpcirrussearch-pref-completion-profile"/></div><div style="display:inline-block; width: 90%"><label for="mw-input-wpcirrussearch-pref-completion-profile-classic" style="font-weight: bold">Classic prefix search</label><div>No typo correction. Matches the beginning of titles.</div></div></div></div>
+</td></tr>
+</tbody></table>
+
+</fieldset>
+
+
+</fieldset>
+
+<fieldset id="mw-prefsection-gadgets">
+<legend>ガジェット</legend>
+<table class="mw-htmlform-nolabel" id="mw-htmlform-gadgets"><tbody>
+<tr><td colspan="2"><p>以下はあなたのアカウントで利用できるガジェットの一覧です。
+これらのガジェットはほとんどが JavaScript ベースであるため、動作させるにはご使用中のブラウザーの JavaScript を有効にする必要があります。
+個人設定ページではこれらのガジェットが機能しないことにご注意ください。
+</p><p>また、これらのガジェットは MediaWiki ソフトウェアの一部ではなく、通常はローカルウィキの利用者が開発/メンテナンスをしていることにもご注意ください。
+管理者は、利用できるガジェットについてその<a href="/wiki/MediaWiki:Gadgets-definition" title="MediaWiki:Gadgets-definition">定義</a>や<a href="/wiki/%E7%89%B9%E5%88%A5:%E3%82%AC%E3%82%B8%E3%82%A7%E3%83%83%E3%83%88" title="特別:ガジ�
+1000
+��ット">説明</a>を編集できます。このウィキで各ガジェットを利用している人数は、<a href="/wiki/%E7%89%B9%E5%88%A5:GadgetUsage" title="特別:GadgetUsage">専用の使用状況</a>の統計ページで確認できます。
+</p></td></tr><tr class="mw-htmlform-field-HTMLMultiSelectField"><td class="mw-label"><label>&#160;</label></td><td class="mw-input"><h1>閲覧補助</h1>
+ <div class="mw-htmlform-flatlist-item"><input name="wpgadgets[]" type="checkbox" value="Navigation_popups" id="mw-input-wpgadgets-Navigation_popups" />&#160;<label for="mw-input-wpgadgets-Navigation_popups"><span dir="auto"><a href="/wiki/Help:%E3%83%8A%E3%83%93%E3%82%B2%E3%83%BC%E3%82%B7%E3%83%A7%E3%83%B3%E3%83%BB%E3%83%9D%E3%83%83%E3%83%97%E3%82%A2%E3%83%83%E3%83%97" title="Help:ナビゲーション・ポップアップ">ナビゲーション・ポップアップ</a> - マウスカーソルをリンクに重ねると、ページのプレビューや編集機能のリンクを表示します。</span></label></div> <div class="mw-htmlform-flatlist-item"><input name="wpgadgets[]" type="checkbox" value="dictionaryLookupHover" id="mw-input-wpgadgets-dictionaryLookupHover" />&#160;<label for="mw-input-wpgadgets-dictionaryLookupHover"><span dir="auto"><i>ウィクショナリー・ホバー</i>: ダブルクリックされた言葉の語義をツールチップに表示します。（画面上の別のところをクリックすればツールチップは隠れます。）（<a href="/wiki/Wikipedia:%E3%83%84%E3%83%BC%E3%83%AB/%E3%82%A6%E3%82%A3%E3%82%AF%E3%82%B7%E3%83%A7%E3%83%8A%E3%83%AA%E3%83%BC%E3%83%BB%E3%83%9B%E3%83%90%E3%83%BC" title="Wikipedia:ツール/ウィクショナリー・ホバー">解説</a>）</span></label></div> <div class="mw-htmlform-flatlist-item"><input name="wpgadgets[]" type="checkbox" value="removeAccessKeys" id="mw-input-wpgadgets-removeAccessKeys" />&#160;<label for="mw-input-wpgadgets-removeAccessKeys"><span dir="auto">キーボード・ショートカット無効化（<a href="/wiki/Help:%E3%82%AD%E3%83%BC%E3%83%9C%E3%83%BC%E3%83%89%E3%83%BB%E3%82%B7%E3%83%A7%E3%83%BC%E3%83%88%E3%82%AB%E3%83%83%E3%83%88%E3%82%92%E7%84%A1%E5%8A%B9%E5%8C%96%E3%81%99%E3%82%8B" title="Help:キーボード・ショートカットを無効化する">解説</a>）</span></label></div> <div class="mw-htmlform-flatlist-item"><input name="wpgadgets[]" type="checkbox" value="exlinks" id="mw-input-wpgadgets-exlinks" />&#160;<label for="mw-input-wpgadgets-exlinks"><span dir="auto">外部リンクを新しいウィンドウ・タブで開く（<a href="/wiki/Help:%E5%A4%96%E9%83%A8%E3%83%AA%E3%83%B3%E3%82%AF%E3%82%92%E6%96%B0%E3%81%97%E3%81%84%E3%82%A6%E3%82%A3%E3%83%B3%E3%83%89%E3%82%A6%E3%83%BB%E3%82%BF%E3%83%96%E3%81%A7%E9%96%8B%E3%81%8F" title="Help:外部リンクを新しいウィンドウ・タブで開く">解説</a>）</span></label></div> <div class="mw-htmlform-flatlist-item"><input name="wpgadgets[]" type="checkbox" value="ScrolledReflist" id="mw-input-wpgadgets-ScrolledReflist" />&#160;<label for="mw-input-wpgadgets-ScrolledReflist"><span dir="auto">脚注部分をスクロール化するガジェット（<a href="/wiki/Help:%E8%84%9A%E6%B3%A8%E9%83%A8%E5%88%86%E3%82%92%E3%82%B9%E3%82%AF%E3%83%AD%E3%83%BC%E3%83%AB%E5%8C%96%E3%81%99%E3%82%8B" title="Help:脚注部分をスクロール化する">解説</a>）</span></label></div> <div class="mw-htmlform-flatlist-item"><input name="wpgadgets[]" type="checkbox" value="ReferenceTooltips" checked="checked" id="mw-input-wpgadgets-ReferenceTooltips" />&#160;<label for="mw-input-wpgadgets-ReferenceTooltips"><span dir="auto"><a href="https://www.mediawiki.org/wiki/Reference_Tooltips" class="extiw" title="mw:Reference Tooltips">Reference Tooltips</a>を使うと、脚注にマウスカーソルを重ねたそのときに内容がポップアップ表示されます。</span></label></div> <div class="mw-htmlform-flatlist-item"><input name="wpgadgets[]" type="checkbox" value="searchFocus" id="mw-input-wpgadgets-searchFocus" />&#160;<label for="mw-input-wpgadgets-search
+1000
+Focus"><span dir="auto">メインページを開いたときに検索ボックスにフォーカスする（<a href="/wiki/Help:%E3%83%A1%E3%82%A4%E3%83%B3%E3%83%9A%E3%83%BC%E3%82%B8%E3%82%92%E9%96%8B%E3%81%84%E3%81%9F%E3%81%A8%E3%81%8D%E3%81%AB%E6%A4%9C%E7%B4%A2%E3%83%9C%E3%83%83%E3%82%AF%E3%82%B9%E3%81%AB%E3%83%95%E3%82%A9%E3%83%BC%E3%82%AB%E3%82%B9%E3%81%99%E3%82%8B" title="Help:メインページを開いたときに検索ボックスにフォーカスする">解説</a>）</span></label></div><h1>編集補助</h1>
+ <div class="mw-htmlform-flatlist-item"><input name="wpgadgets[]" type="checkbox" value="edittop" id="mw-input-wpgadgets-edittop" />&#160;<label for="mw-input-wpgadgets-edittop"><span dir="auto">ページ先頭のセクションに &#91;編集&#93; リンクを追加する（<a href="/wiki/Help:%E3%83%9A%E3%83%BC%E3%82%B8%E5%85%88%E9%A0%AD%E3%81%AE%E3%82%BB%E3%82%AF%E3%82%B7%E3%83%A7%E3%83%B3%E3%81%AB%E7%B7%A8%E9%9B%86%E3%83%AA%E3%83%B3%E3%82%AF%E3%82%92%E8%BF%BD%E5%8A%A0%E3%81%99%E3%82%8B" title="Help:ページ先頭のセクションに編集リンクを追加する">解説</a>）</span></label></div> <div class="mw-htmlform-flatlist-item"><input name="wpgadgets[]" type="checkbox" value="wikEd" id="mw-input-wpgadgets-wikEd" />&#160;<label for="mw-input-wpgadgets-wikEd"><span dir="auto"><a href="https://en.wikipedia.org/wiki/User:Cacycle/wikEd" class="extiw" title="en:User:Cacycle/wikEd">wikEd</a> - Firefox / Mozilla 用の高機能なテキストエディタ。使い方は<a href="/wiki/Help:WikEd" title="Help:WikEd">ヘルプ</a>を参照。</span></label></div> <div class="mw-htmlform-flatlist-item"><input name="wpgadgets[]" type="checkbox" value="SummaryEnterSave" id="mw-input-wpgadgets-SummaryEnterSave" />&#160;<label for="mw-input-wpgadgets-SummaryEnterSave"><span dir="auto"><b>エンターで保存</b>：編集画面の要約記入欄でエンターキーを押したとき、保存する。</span></label></div> <div class="mw-htmlform-flatlist-item"><input name="wpgadgets[]" type="checkbox" value="SummaryEnterPreview" id="mw-input-wpgadgets-SummaryEnterPreview" />&#160;<label for="mw-input-wpgadgets-SummaryEnterPreview"><span dir="auto"><b>エンターでプレビュー</b>：編集画面の要約記入欄でエンターキーを押したとき、プレビューする(「エンターで保存」と同時に有効にされていた場合、こちらが優先されます)。</span></label></div> <div class="mw-htmlform-flatlist-item"><input name="wpgadgets[]" type="checkbox" value="HotCat" id="mw-input-wpgadgets-HotCat" />&#160;<label for="mw-input-wpgadgets-HotCat"><span dir="auto"><a href="/wiki/Wikipedia:HotCat" title="Wikipedia:HotCat">HotCat</a>はカテゴリ編集を助けるためのツールです。カテゴリの変更、付加、除去作業をサポートします。</span></label></div> <div class="mw-htmlform-flatlist-item"><input name="wpgadgets[]" type="checkbox" value="ForkAPage" id="mw-input-wpgadgets-ForkAPage" />&#160;<label for="mw-input-wpgadgets-ForkAPage"><span dir="auto"><a href="/wiki/Help:%E3%83%9A%E3%83%BC%E3%82%B8%E8%A4%87%E8%A3%BD%E3%82%AC%E3%82%B8%E3%82%A7%E3%83%83%E3%83%88" title="Help:ページ複製ガジェット">ページ複製ガジェット</a> -「移動」タブと同じ場所に「複製」というメニューが新しく追加され、要約欄への日時記入などの必要な情報を正確に記入してから、別のページに<a href="/wiki/%E3%83%95%E3%82%A9%E3%83%BC%E3%82%AF_(%E3%82%BD%E3%83%95%E3%83%88%E3%82%A6%E3%82%A7%E3%82%A2%E9%96%8B%E7%99%BA)" title="フォーク (ソフトウェア開発)">フォーク</a>（複製）できるようになります</span></label></div> <div class="mw-htmlform-flatlist-item"><input name="wpgadgets[]" type="checkbox" value="SummaryByteCounter" id="mw-input-wpgadgets-SummaryByteCounter" />&#160;<label for="mw-input-wpgadgets-SummaryByteCounter"><span dir="auto">要約欄に書き込める残りバイト数を表示する（<a href="/wiki/%E5%88%A9%E7%94%A8%E8%80%85:Frozen-mikan/SummaryByteCounter" title="利�
+1000
+�者:Frozen-mikan/SummaryByteCounter">解説</a>）</span></label></div> <div class="mw-htmlform-flatlist-item"><input name="wpgadgets[]" type="checkbox" value="vpTagHelper" id="mw-input-wpgadgets-vpTagHelper" />&#160;<label for="mw-input-wpgadgets-vpTagHelper"><span dir="auto">井戸端サブページに<a href="/wiki/Wikipedia:%E4%BA%95%E6%88%B8%E7%AB%AF%E3%82%BF%E3%82%B0" title="Wikipedia:井戸端タグ">井戸端タグ</a>を付けるための支援ツールを有効にする</span></label></div><h1>外観の変更</h1>
+ <div class="mw-htmlform-flatlist-item"><input name="wpgadgets[]" type="checkbox" value="OldDiff" id="mw-input-wpgadgets-OldDiff" />&#160;<label for="mw-input-wpgadgets-OldDiff"><span dir="auto">差分画面を古い配色（黄色と緑）とデザインで表示する。</span></label></div> <div class="mw-htmlform-flatlist-item"><input name="wpgadgets[]" type="checkbox" value="UTCLiveClock" id="mw-input-wpgadgets-UTCLiveClock" />&#160;<label for="mw-input-wpgadgets-UTCLiveClock"><span dir="auto">個人用ツールバーにキャッシュ破棄リンク付きの <a href="/wiki/%E5%8D%94%E5%AE%9A%E4%B8%96%E7%95%8C%E6%99%82" title="協定世界時">UTC</a> の時計を表示する（<a href="/wiki/Help:UTCLiveClock" title="Help:UTCLiveClock">解説</a>）</span></label></div><h1>その他の機能追加・拡張</h1>
+ <div class="mw-htmlform-flatlist-item"><input name="wpgadgets[]" type="checkbox" value="contribsrange" id="mw-input-wpgadgets-contribsrange" />&#160;<label for="mw-input-wpgadgets-contribsrange"><span dir="auto"><a href="/wiki/%E7%89%B9%E5%88%A5:%E6%8A%95%E7%A8%BF%E8%A8%98%E9%8C%B2" title="特別:投稿記録">特別:投稿記録</a>の入力欄で、/16 および /24 から /32 の <a href="/wiki/Classless_Inter-Domain_Routing" title="Classless Inter-Domain Routing">CIDR</a> 範囲指定、およびワイルドカードを使った前方一致検索（例: "Splark*"）を可能にする（<a href="/wiki/Help:%E5%BC%B7%E5%8C%96%E7%89%88%E6%8A%95%E7%A8%BF%E8%A8%98%E9%8C%B2" title="Help:強化版投稿記録">解説</a>）</span></label></div> <div class="mw-htmlform-flatlist-item"><input name="wpgadgets[]" type="checkbox" value="CommentsInLocalTime" id="mw-input-wpgadgets-CommentsInLocalTime" />&#160;<label for="mw-input-wpgadgets-CommentsInLocalTime"><span dir="auto">署名などの<a href="/wiki/%E5%8D%94%E5%AE%9A%E4%B8%96%E7%95%8C%E6%99%82" title="協定世界時">UTC</a>で記入された時刻を、コンピュータのタイムゾーンに合わせて表示する（<a href="/wiki/Help:UTC%E3%81%AE%E6%99%82%E5%88%BB%E3%82%92%E5%9C%B0%E6%96%B9%E6%99%82%E3%81%A7%E8%A1%A8%E7%A4%BA%E3%81%99%E3%82%8B" title="Help:UTCの時刻を地方時で表示する">解説</a>）</span></label></div> <div class="mw-htmlform-flatlist-item"><input name="wpgadgets[]" type="checkbox" value="WikiMiniAtlas" checked="checked" id="mw-input-wpgadgets-WikiMiniAtlas" />&#160;<label for="mw-input-wpgadgets-WikiMiniAtlas"><span dir="auto"><a href="https://meta.wikimedia.org/wiki/WikiMiniAtlas/ja" class="extiw" title="meta:WikiMiniAtlas/ja">WikiMiniAtlas</a>を使うと、ジオコードのある記事上にインタラクティブな世界地図が表示されます。</span></label></div> <div class="mw-htmlform-flatlist-item"><input name="wpgadgets[]" type="checkbox" value="switcher" checked="checked" id="mw-input-wpgadgets-switcher" />&#160;<label for="mw-input-wpgadgets-switcher"><span dir="auto">位置情報を示す地図を複数表示させるとき、地図をラジオボタンで切り替えられるようにする。</span></label></div> <div class="mw-htmlform-flatlist-item"><input name="wpgadgets[]" type="checkbox" value="protectionLog" id="mw-input-wpgadgets-protectionLog" />&#160;<label for="mw-input-wpgadgets-protectionLog"><span dir="auto">保護記録を参照できるタブを追加し、保護テンプレートのないページに保護状態を示すアイコンを表示する（<a href="/wiki/Help:%E4%BF%9D%E8%AD%B7%E8%A8%98%E9%8C%B2%E5%8F%82%E7%85%A7%E3%82%AC%E3%82%B8%E3%82%A7%E3%83%83%E3%
+1000
+83%88" title="Help:保護記録参照ガジェット">解説</a>）</span></label></div>
+</td></tr>
+</tbody></table>
+
+</fieldset>
+
+<fieldset id="mw-prefsection-betafeatures">
+<legend>ベータ版機能</legend>
+<table class="mw-htmlform-nolabel" id="mw-htmlform-betafeatures"><tbody>
+<tr class="mw-htmlform-field-HTMLTextBlockField"><td class="mw-label"><label for="mw-input-wpbetafeatures-section-desc">&#160;</label></td><td class="mw-input"><div>Wikipediaのために検討している新しい機能があります。お試しの上ご意見をお寄せください。そのフィードバックに基づいて機能を改善します。</div>
+</td></tr><tr class="mw-htmlform-field-NewHTMLCheckField"><td class="mw-label"><label>&#160;</label></td><td class="mw-input"><div class="mw-ui-feature-checkbox"><div class='oo-ui-layout oo-ui-labelElement oo-ui-fieldLayout oo-ui-fieldLayout-align-inline'><div class='oo-ui-fieldLayout-body'><div class='oo-ui-fieldLayout-field'><div aria-disabled='false' class='oo-ui-widget oo-ui-widget-enabled oo-ui-inputWidget oo-ui-checkboxInputWidget'><input type='checkbox' tabindex='0' aria-disabled='false' name='wpbetafeatures-auto-enroll' value='1' id='ooui-1' class='oo-ui-inputWidget-input' /><span></span></div></div><div class='oo-ui-fieldLayout-header'><label for='ooui-1' class='oo-ui-labelElement-label'>すべてのベータ版機能を自動的に有効にする</label></div></div></div></div>
+</td></tr><tr class="mw-htmlform-field-HTMLHorizontalRuleField"><td class="mw-label"><label for="mw-input-wpbetafeatures-breaking-hr">&#160;</label></td><td class="mw-input"><hr/>
+</td></tr><tr class="mw-htmlform-field-HTMLFeatureField"><td class="mw-label"><label>&#160;</label></td><td class="mw-input"><div class="mw-ui-feature-field"><div class="mw-ui-feature-contain"><div class="mw-ui-feature-header"><div class="mw-ui-feature-title-contain"><div class="mw-ui-feature-checkbox"><div class='oo-ui-layout oo-ui-labelElement oo-ui-fieldLayout oo-ui-fieldLayout-align-inline'><div class='oo-ui-fieldLayout-body'><div class='oo-ui-fieldLayout-field'><div aria-disabled='false' class='oo-ui-widget oo-ui-widget-enabled oo-ui-inputWidget oo-ui-checkboxInputWidget'><input type='checkbox' tabindex='0' aria-disabled='false' name='wppopups' value='1' id='ooui-2' class='oo-ui-inputWidget-input' /><span></span></div></div><div class='oo-ui-fieldLayout-header'><label for='ooui-2' class='oo-ui-labelElement-label'>ホバーカード</label></div></div></div></div></div><div class="mw-ui-feature-info-links filled"><a href="https://www.mediawiki.org/wiki/Beta_Features/Hovercards" class="mw-ui-feature-info-link"><span aria-disabled='false' class='oo-ui-widget oo-ui-widget-enabled oo-ui-iconElement-icon oo-ui-icon-article oo-ui-iconElement oo-ui-iconWidget'></span>情報</a> <a href="https://www.mediawiki.org/wiki/Talk:Beta_Features/Hovercards" class="mw-ui-feature-discussion-link"><span aria-disabled='false' class='oo-ui-widget oo-ui-widget-enabled oo-ui-iconElement-icon oo-ui-icon-speechBubbles oo-ui-iconElement oo-ui-iconWidget'></span>議論</a></div></div><div class="mw-ui-feature-main"><div class="mw-ui-feature-meta"><p class="mw-ui-feature-user-count">2,305 人の利用者がこの機能を試用しています。</p><p class="mw-ui-feature-description">ページへのリンクにホバーした際に、ページ内容の要約のホバーカードを表示する</p><ul class="mw-ui-feature-requirements-list"><li class="mw-ui-feature-requirements-javascript">この機能の使用には JavaScript が必要です。</li></ul></div><div class="mw-ui-feature-screenshot-contain"><img src="/w/extensions/Popups/images/popups-ltr.svg" class="mw-ui-feature-screenshot"/></div></div></div></div>
+</td></tr><tr class="mw-htmlform-field-HTMLFeatureField"><td class="mw-label"><label>&#160;</label></td><td class="mw-input"><div class="mw-ui-feature-field"><div class="mw-ui-feature-contain"><div class="mw-ui-feature-header"><div class="mw-ui-feature-title-contain"><div class="mw-ui-feature-checkbox"><div class='oo-ui-layout oo-ui-labe
+1000
+lElement oo-ui-fieldLayout oo-ui-fieldLayout-align-inline'><div class='oo-ui-fieldLayout-body'><div class='oo-ui-fieldLayout-field'><div aria-disabled='false' class='oo-ui-widget oo-ui-widget-enabled oo-ui-inputWidget oo-ui-checkboxInputWidget'><input type='checkbox' tabindex='0' aria-disabled='false' name='wpvisualeditor-newwikitext' value='1' id='ooui-3' class='oo-ui-inputWidget-input' /><span></span></div></div><div class='oo-ui-fieldLayout-header'><label for='ooui-3' class='oo-ui-labelElement-label'>新しいウィキテキストモード</label></div></div></div></div></div><div class="mw-ui-feature-info-links filled"><a href="//mediawiki.org/wiki/Special:MyLanguage/2017 wikitext editor" class="mw-ui-feature-info-link"><span aria-disabled='false' class='oo-ui-widget oo-ui-widget-enabled oo-ui-iconElement-icon oo-ui-icon-article oo-ui-iconElement oo-ui-iconWidget'></span>情報</a> <a href="//mediawiki.org/wiki/2017_wikitext_editor/Feedback" class="mw-ui-feature-discussion-link"><span aria-disabled='false' class='oo-ui-widget oo-ui-widget-enabled oo-ui-iconElement-icon oo-ui-icon-speechBubbles oo-ui-iconElement oo-ui-iconWidget'></span>議論</a></div></div><div class="mw-ui-feature-main"><div class="mw-ui-feature-meta"><p class="mw-ui-feature-user-count">148 人の利用者がこの機能を試用しています。</p><p class="mw-ui-feature-description">ビジュアルエディター内で新しいウィキテキストモードを有効にします。これは現在のビジュアルエディターにある多くのツールを搭載し、類似のデザインを採用しており、2つのモード間の行き来をより改善しています。</p><ul class="mw-ui-feature-requirements-list"><li class="mw-ui-feature-requirements-javascript">この機能の使用には JavaScript が必要です。</li><li class="mw-ui-feature-requirements-browser">以下のブラウザーには対応していません:<ul><li>msie &lt;= 8</li><li>android &lt; 3</li><li>firefox &lt;= 11</li><li>safari &lt;= 6</li><li>opera &lt; 12</li><li>blackberry</li><li>silk</li></ul></li></ul></div><div class="mw-ui-feature-screenshot-contain"><img src="/w/extensions/VisualEditor/betafeatures-icon-WikitextEditor-ltr.svg" class="mw-ui-feature-screenshot"/></div></div></div></div>
+</td></tr><tr class="mw-htmlform-field-HTMLFeatureField"><td class="mw-label"><label>&#160;</label></td><td class="mw-input"><div class="mw-ui-feature-field"><div class="mw-ui-feature-contain"><div class="mw-ui-feature-header"><div class="mw-ui-feature-title-contain"><div class="mw-ui-feature-checkbox"><div class='oo-ui-layout oo-ui-labelElement oo-ui-fieldLayout oo-ui-fieldLayout-align-inline'><div class='oo-ui-fieldLayout-body'><div class='oo-ui-fieldLayout-field'><div aria-disabled='false' class='oo-ui-widget oo-ui-widget-enabled oo-ui-inputWidget oo-ui-checkboxInputWidget'><input type='checkbox' tabindex='0' aria-disabled='false' name='wpread-more' value='1' id='ooui-4' class='oo-ui-inputWidget-input' /><span></span></div></div><div class='oo-ui-fieldLayout-header'><label for='ooui-4' class='oo-ui-labelElement-label'>関連ページ</label></div></div></div></div></div><div class="mw-ui-feature-info-links filled"><a href="https://www.mediawiki.org/wiki/Reading/Web/Projects/Read_more" class="mw-ui-feature-info-link"><span aria-disabled='false' class='oo-ui-widget oo-ui-widget-enabled oo-ui-iconElement-icon oo-ui-icon-article oo-ui-iconElement oo-ui-iconWidget'></span>情報</a> <a href="https://www.mediawiki.org/wiki/Talk:Reading/Web/Projects/Read_more" class="mw-ui-feature-discussion-link"><span aria-disabled='false' class='oo-ui-widget oo-ui-widget-enabled oo-ui-iconElement-icon oo-ui-icon-speechBubbles oo-ui-iconElement oo-ui-iconWidget'></span>議論</a></div></div><div class="mw-ui-feature-main"><div class="mw-ui-feature-meta"><p class="mw-ui-feature-user-count">1,490 人の利用者がこの機能を試用しています。</p><p class="mw-ui-feature-description">ページの末尾で関連したページを提案する。</p><ul class="mw-ui-feature-requireme
+1000
+nts-list"></ul></div><div class="mw-ui-feature-screenshot-contain"><img src="/w/extensions/RelatedArticles/images/BetaFeatures/wb-readmore-beta-ltr.svg" class="mw-ui-feature-screenshot"/></div></div></div></div>
+</td></tr><tr class="mw-htmlform-field-HTMLFeatureField"><td class="mw-label"><label>&#160;</label></td><td class="mw-input"><div class="mw-ui-feature-field"><div class="mw-ui-feature-contain"><div class="mw-ui-feature-header"><div class="mw-ui-feature-title-contain"><div class="mw-ui-feature-checkbox"><div class='oo-ui-layout oo-ui-labelElement oo-ui-fieldLayout oo-ui-fieldLayout-align-inline'><div class='oo-ui-fieldLayout-body'><div class='oo-ui-fieldLayout-field'><div aria-disabled='false' class='oo-ui-widget oo-ui-widget-enabled oo-ui-inputWidget oo-ui-checkboxInputWidget'><input type='checkbox' tabindex='0' aria-disabled='false' name='wprevisionslider' value='1' id='ooui-5' class='oo-ui-inputWidget-input' /><span></span></div></div><div class='oo-ui-fieldLayout-header'><label for='ooui-5' class='oo-ui-labelElement-label'>リビジョンスライダー</label></div></div></div></div></div><div class="mw-ui-feature-info-links filled"><a href="https://meta.wikimedia.org/wiki/WMDE_Technical_Wishes/RevisionSlider" class="mw-ui-feature-info-link"><span aria-disabled='false' class='oo-ui-widget oo-ui-widget-enabled oo-ui-iconElement-icon oo-ui-icon-article oo-ui-iconElement oo-ui-iconWidget'></span>情報</a> <a href="https://meta.wikimedia.org/wiki/Talk:WMDE_Technical_Wishes/RevisionSlider" class="mw-ui-feature-discussion-link"><span aria-disabled='false' class='oo-ui-widget oo-ui-widget-enabled oo-ui-iconElement-icon oo-ui-icon-speechBubbles oo-ui-iconElement oo-ui-iconWidget'></span>議論</a></div></div><div class="mw-ui-feature-main"><div class="mw-ui-feature-meta"><p class="mw-ui-feature-user-count">712 人の利用者がこの機能を試用しています。</p><p class="mw-ui-feature-description">版間の差分を表示するときにグラフィックなスライダーが利用できます。</p><ul class="mw-ui-feature-requirements-list"></ul></div><div class="mw-ui-feature-screenshot-contain"><img src="/w/extensions/RevisionSlider/resources/RevisionSlider-beta-features-ltr.svg" class="mw-ui-feature-screenshot"/></div></div></div></div>
+</td></tr><tr class="mw-htmlform-field-HTMLFeatureField"><td class="mw-label"><label>&#160;</label></td><td class="mw-input"><div class="mw-ui-feature-field"><div class="mw-ui-feature-contain"><div class="mw-ui-feature-header"><div class="mw-ui-feature-title-contain"><div class="mw-ui-feature-checkbox"><div class='oo-ui-layout oo-ui-labelElement oo-ui-fieldLayout oo-ui-fieldLayout-align-inline'><div class='oo-ui-fieldLayout-body'><div class='oo-ui-fieldLayout-field'><div aria-disabled='false' class='oo-ui-widget oo-ui-widget-enabled oo-ui-inputWidget oo-ui-checkboxInputWidget'><input type='checkbox' tabindex='0' aria-disabled='false' name='wpcx' value='1' id='ooui-6' class='oo-ui-inputWidget-input' /><span></span></div></div><div class='oo-ui-fieldLayout-header'><label for='ooui-6' class='oo-ui-labelElement-label'>コンテンツ翻訳</label></div></div></div></div></div><div class="mw-ui-feature-info-links filled"><a href="https://www.mediawiki.org/wiki/Content_translation" class="mw-ui-feature-info-link"><span aria-disabled='false' class='oo-ui-widget oo-ui-widget-enabled oo-ui-iconElement-icon oo-ui-icon-article oo-ui-iconElement oo-ui-iconWidget'></span>情報</a> <a href="https://www.mediawiki.org/wiki/Talk:Content_translation" class="mw-ui-feature-discussion-link"><span aria-disabled='false' class='oo-ui-widget oo-ui-widget-enabled oo-ui-iconElement-icon oo-ui-icon-speechBubbles oo-ui-iconElement oo-ui-iconWidget'></span>議論</a></div></div><div class="mw-ui-feature-main"><div class="mw-ui-feature-meta"><p class="mw-ui-feature-user-count">8,452 人の利用者がこの機能を試用しています。</p><p class="mw-ui-feature-description">ページをあなたがお使いの言語にすばやく翻訳するツールです。 <a href="/wiki/%E7%89%B9%E5%88%A5:%
+ff6
+E8%87%AA%E5%88%86%E3%81%AE%E6%8A%95%E7%A8%BF%E8%A8%98%E9%8C%B2" title="特別:自分の投稿記録">あなたの投稿記録</a>から翻訳を始めてください。翻訳用に設計された二画面エディタで編集してみましょう。一部の言語にしか使用できないツールもある場合がありますのでご了承ください。</p><ul class="mw-ui-feature-requirements-list"><li class="mw-ui-feature-requirements-javascript">この機能の使用には JavaScript が必要です。</li><li class="mw-ui-feature-requirements-browser">以下のブラウザーには対応していません:<ul><li>msie &lt; 10</li></ul></li></ul></div><div class="mw-ui-feature-screenshot-contain"><img src="/w/extensions/ContentTranslation/images/cx-icon-ltr.svg" class="mw-ui-feature-screenshot"/></div></div></div></div>
+</td></tr>
+</tbody></table>
+
+</fieldset>
+
+<fieldset id="mw-prefsection-echo">
+<legend>通知</legend>
+<table class="mw-htmlform-nolabel" id="mw-htmlform-echo"><tbody>
+
+</tbody></table>
+
+<fieldset id="mw-prefsection-echo-emailsettings">
+<legend>メールの設定</legend>
+<table id="mw-htmlform-emailsettings"><tbody>
+<tr class="mw-htmlform-field-HTMLSelectField"><td class="mw-label"><label for="mw-input-wpecho-email-frequency">受け取る頻度:</label></td><td class="mw-input"><select name="wpecho-email-frequency" id="mw-input-wpecho-email-frequency"><option value="-1">通知メールを何も受け取らない</option>
+<option value="0" selected="">個別の通知が来るたび</option>
+<option value="1">通知を1日ごとに要約</option>
+<option value="7">通知を1週間ごとに要約</option></select>
+</td></tr><tr class="mw-htmlform-field-HTMLInfoField"><td class="mw-label"><label>送信先:</label></td><td class="mw-input"><a href="/w/index.php?title=%E7%89%B9%E5%88%A5:%E3%83%A1%E3%83%BC%E3%83%AB%E3%82%A2%E3%83%89%E3%83%AC%E3%82%B9%E3%81%AE%E5%A4%89%E6%9B%B4&amp;returnto=%E7%89%B9%E5%88%A5%3A%E5%80%8B%E4%BA%BA%E8%A8%AD%E5%AE%9A%23mw-prefsection-echo" title="特別:メールアドレスの変更">メールアドレスを設定</a>
+</td></tr><tr class="mw-htmlform-field-HTMLSelectField"><td class="mw-label"><label for="mw-input-wpecho-email-format">メールの形式:</label></td><td class="mw-input"><select name="wpecho-email-format" id="mw-input-wpecho-email-format"><option value="html" selected="">HTML</option>
+<option value="plain-text">プレーンテキスト</option></select>
+</td></tr>
+</tbody></table>
+
+</fieldset>
+
+<fieldset id="mw-prefsection-echo-echosubscriptions">
+<legend>以下の場合に通知を受け取る</legend>
+<table class="mw-htmlform-nolabel" id="mw-htmlform-echosubscriptions"><tbody>
+<tr class="mw-htmlform-vertical-label"><td class="mw-label" colspan="2"><label for="mw-input-wpecho-subscriptions"></label></td></tr><tr class="mw-htmlform-field-HTMLCheckMatrix"><td class="mw-input" colspan="2"><table class="mw-htmlform-matrix"><tbody>
+<tr>
+<td>&#160;</td><td>ウェブ</td><td>メール</td>
+</tr><tr>
+<td>トークページヘのメッセージ <span class="mw-htmlform-tooltip mw-icon-question" title="誰かが私のトークページでメッセージの投稿または返信をしたときに通知する。"></span></td><td><input name="wpecho-subscriptions[]" type="checkbox" value="web-edit-user-talk" checked="checked" id="mw-input-wpecho-subscriptions-web-edit-user-talk" disabled="1" /></td><td><input name="wpecho-subscriptions[]" type="checkbox" value="email-edit-user-talk" checked="checked" id="mw-input-wpecho-subscriptions-email-edit-user-talk" /></td>
+</tr><tr>
+<td>感謝 <span class="mw-htmlform-tooltip mw-icon-question" title="自分の編集に誰かが感謝を示したときに通知する。"></span></td><td><input name="wpecho-subscriptions[]" type="checkbox" value="web-edit-thank" checked="checked" id="mw-input-wpecho-subscriptions-web-edit-thank" /></td><td><input name="wpecho-subscriptions[]" type="checkbox" value="email-edit-thank" checked="checked" id="mw-input-wpecho-subscriptions-email-edit-thank" /></td>
+</tr><tr>
+<td>Flow <span clas
+1000
+s="mw-htmlform-tooltip mw-icon-question" title="Flow で私に関連する操作がなされたときに通知する。"></span></td><td><input name="wpecho-subscriptions[]" type="checkbox" value="web-flow-discussion" checked="checked" id="mw-input-wpecho-subscriptions-web-flow-discussion" /></td><td><input name="wpecho-subscriptions[]" type="checkbox" value="email-flow-discussion" id="mw-input-wpecho-subscriptions-email-flow-discussion" /></td>
+</tr><tr>
+<td>翻訳 <span class="mw-htmlform-tooltip mw-icon-question" title="コンテンツ翻訳ツールを利用して作成された自身の翻訳について通知する。"></span></td><td><input name="wpecho-subscriptions[]" type="checkbox" value="web-cx" checked="checked" id="mw-input-wpecho-subscriptions-web-cx" /></td><td><input name="wpecho-subscriptions[]" type="checkbox" value="email-cx" id="mw-input-wpecho-subscriptions-email-cx" /></td>
+</tr><tr>
+<td>言及 <span class="mw-htmlform-tooltip mw-icon-question" title="誰かが私の利用者ページにリンクしたときに通知する。"></span></td><td><input name="wpecho-subscriptions[]" type="checkbox" value="web-mention" checked="checked" id="mw-input-wpecho-subscriptions-web-mention" /></td><td><input name="wpecho-subscriptions[]" type="checkbox" value="email-mention" checked="checked" id="mw-input-wpecho-subscriptions-email-mention" /></td>
+</tr><tr>
+<td>言及の失敗 <span class="mw-htmlform-tooltip mw-icon-question" title="利用者への言及に失敗したとき通知する。"></span></td><td><input name="wpecho-subscriptions[]" type="checkbox" value="web-mention-failure" id="mw-input-wpecho-subscriptions-web-mention-failure" /></td><td><input name="wpecho-subscriptions[]" type="checkbox" value="email-mention-failure" id="mw-input-wpecho-subscriptions-email-mention-failure" disabled="1" /></td>
+</tr><tr>
+<td>言及の成功 <span class="mw-htmlform-tooltip mw-icon-question" title="利用者へ言及したときに通知する。"></span></td><td><input name="wpecho-subscriptions[]" type="checkbox" value="web-mention-success" id="mw-input-wpecho-subscriptions-web-mention-success" /></td><td><input name="wpecho-subscriptions[]" type="checkbox" value="email-mention-success" id="mw-input-wpecho-subscriptions-email-mention-success" disabled="1" /></td>
+</tr><tr>
+<td>ページへのリンク <span class="mw-htmlform-tooltip mw-icon-question" title="誰かが私が作成したページに記事からリンクしたときに通知する。"></span></td><td><input name="wpecho-subscriptions[]" type="checkbox" value="web-article-linked" checked="checked" id="mw-input-wpecho-subscriptions-web-article-linked" /></td><td><input name="wpecho-subscriptions[]" type="checkbox" value="email-article-linked" checked="checked" id="mw-input-wpecho-subscriptions-email-article-linked" /></td>
+</tr><tr>
+<td>利用者権限の変更 <span class="mw-htmlform-tooltip mw-icon-question" title="誰かが私の利用者権限を変更したときに通知する。"></span></td><td><input name="wpecho-subscriptions[]" type="checkbox" value="web-user-rights" checked="checked" id="mw-input-wpecho-subscriptions-web-user-rights" /></td><td><input name="wpecho-subscriptions[]" type="checkbox" value="email-user-rights" checked="checked" id="mw-input-wpecho-subscriptions-email-user-rights" /></td>
+</tr><tr>
+<td>編集の差し戻し <span class="mw-htmlform-tooltip mw-icon-question" title="誰かが取り消しや巻き戻しの機能で私の編集を差し戻したときに通知する。"></span></td><td><input name="wpecho-subscriptions[]" type="checkbox" value="web-reverted" id="mw-input-wpecho-subscriptions-web-reverted" /></td><td><input name="wpecho-subscriptions[]" type="checkbox" value="email-reverted" id="mw-input-wpecho-subscriptions-email-reverted" /></td>
+</tr><tr>
+<td>他の利用者からのメール <span class="mw-htmlform-tooltip mw-icon-question" title="誰かが私にメールを送ったときに通知する。"></span></td><td><input name="wpecho-subscriptions[]" type="checkbox" value="web-emailuser" checked="ch
+1000
+ecked" id="mw-input-wpecho-subscriptions-web-emailuser" /></td><td><input name="wpecho-subscriptions[]" type="checkbox" value="email-emailuser" id="mw-input-wpecho-subscriptions-email-emailuser" disabled="1" /></td>
+</tr>
+</tbody></table>
+
+</td></tr>
+</tbody></table>
+
+</fieldset>
+
+<fieldset id="mw-prefsection-echo-echocrosswiki">
+<legend>ウィキ横断通知</legend>
+<table class="mw-htmlform-nolabel" id="mw-htmlform-echocrosswiki"><tbody>
+<tr class="mw-htmlform-field-HTMLCheckField"><td class="mw-label"><label>&#160;</label></td><td class="mw-input"><input name="wpecho-cross-wiki-notifications" type="checkbox" value="1" checked="checked" id="mw-input-wpecho-cross-wiki-notifications" />&#160;<label for="mw-input-wpecho-cross-wiki-notifications">他のウィキからの通知を表示</label>
+</td></tr>
+</tbody></table>
+
+</fieldset>
+
+<fieldset id="mw-prefsection-echo-newmessageindicator">
+<legend>新着メッセージの表示</legend>
+<table class="mw-htmlform-nolabel" id="mw-htmlform-newmessageindicator"><tbody>
+<tr class="mw-htmlform-field-HTMLCheckField"><td class="mw-label"><label>&#160;</label></td><td class="mw-input"><input name="wpecho-show-alert" type="checkbox" value="1" checked="checked" id="mw-input-wpecho-show-alert" />&#160;<label for="mw-input-wpecho-show-alert">トークページのメッセージの未読数をツールバーに表示</label>
+</td></tr>
+</tbody></table>
+
+</fieldset>
+
+
+</fieldset>
+
+<input id="wpEditToken" type="hidden" value="8c08a8e494d1b46906b30ff762ec012d58afe66c+\" name="wpEditToken"/>
+<input type="hidden" value="特別:個人設定" name="title"/>
+<input id="mw-input-wpenotifusertalkpages" name="wpenotifusertalkpages" type="hidden" value="1"/>
+<div class="mw-prefs-buttons"><span class="mw-htmlform-submit-buttons">
+<input id="prefsubmit" title="設定を保存する [s]" accesskey="s" class="mw-htmlform-submit" type="submit" value="保存"/>
+</span>
+
+<a href="/wiki/%E7%89%B9%E5%88%A5:%E5%80%8B%E4%BA%BA%E8%A8%AD%E5%AE%9A/reset" title="特別:個人設定/reset" id="mw-prefs-restoreprefs">すべて初期設定に戻す (すべての節について)</a></div></div></form></div>					<div class="printfooter">
+						「<a dir="ltr" href="https://ja.wikipedia.org/wiki/特別:個人設定">https://ja.wikipedia.org/wiki/特別:個人設定</a>」から取得					</div>
+				<div id="catlinks" class="catlinks catlinks-allhidden" data-mw="interface"></div>				<div class="visualClear"></div>
+							</div>
+		</div>
+		<div id="mw-navigation">
+			<h2>案内メニュー</h2>
+
+			<div id="mw-head">
+									<div id="p-personal" role="navigation" class="" aria-labelledby="p-personal-label">
+						<h3 id="p-personal-label">個人用ツール</h3>
+						<ul>
+							<li id="pt-userpage"><a href="/wiki/%E5%88%A9%E7%94%A8%E8%80%85:Testtesti9994" class="new" dir="auto" title="自分の利用者ページ [.]" accesskey=".">Testtesti9994</a></li><li id="pt-notifications-alert"><a href="/wiki/%E7%89%B9%E5%88%A5:%E9%80%9A%E7%9F%A5" class="mw-echo-notifications-badge mw-echo-notification-badge-nojs mw-echo-notifications-badge-all-read" data-counter-num="0" data-counter-text="0" title="あなたへの注意喚起">0</a></li><li id="pt-notifications-notice"><a href="/wiki/%E7%89%B9%E5%88%A5:%E9%80%9A%E7%9F%A5" class="mw-echo-notifications-badge mw-echo-notification-badge-nojs" data-counter-num="1" data-counter-text="1" title="あなたへの通知">1</a></li><li id="pt-mytalk"><a href="/wiki/%E5%88%A9%E7%94%A8%E8%80%85%E2%80%90%E4%BC%9A%E8%A9%B1:Testtesti9994" class="new" title="あなたの会話ページ [n]" accesskey="n">会話</a></li><li id="pt-sandbox"><a href="/w/index.php?title=%E5%88%A9%E7%94%A8%E8%80%85:Testtesti9994/sandbox&amp;action=edit&amp;redlink=1&amp;editintro=Template%3AUser_sandbox&amp;preload=Template%3AUser_sandbox%2Fpreload" class="new" title="自分のサンドボックス">下書き</a></li><li id="pt-preferences" class="active"><a href="/wiki/%E7%89%B9%E5%88%A5:%E5%80%8B%E4%BA%BA%E8%A8%AD%E5%AE%9A" title="個人設定">個人設定</a></li><li id="pt-betafeatures" class="active"><a href="
+1000
+/wiki/%E7%89%B9%E5%88%A5:%E5%80%8B%E4%BA%BA%E8%A8%AD%E5%AE%9A#mw-prefsection-betafeatures" title="ベータ版機能">ベータ版</a></li><li id="pt-watchlist"><a href="/wiki/%E7%89%B9%E5%88%A5:%E3%82%A6%E3%82%A9%E3%83%83%E3%83%81%E3%83%AA%E3%82%B9%E3%83%88" title="変更をウォッチしているページの一覧 [l]" accesskey="l">ウォッチリスト</a></li><li id="pt-mycontris"><a href="/wiki/%E7%89%B9%E5%88%A5:%E6%8A%95%E7%A8%BF%E8%A8%98%E9%8C%B2/Testtesti9994" title="自分の投稿の一覧 [y]" accesskey="y">投稿記録</a></li><li id="pt-logout"><a href="/w/index.php?title=%E7%89%B9%E5%88%A5:%E3%83%AD%E3%82%B0%E3%82%A2%E3%82%A6%E3%83%88&amp;noreturnto" title="ログアウト">ログアウト</a></li>						</ul>
+					</div>
+									<div id="left-navigation">
+										<div id="p-namespaces" role="navigation" class="vectorTabs" aria-labelledby="p-namespaces-label">
+						<h3 id="p-namespaces-label">名前空間</h3>
+						<ul>
+															<li  id="ca-nstab-special" class="selected"><span><a href="/wiki/%E7%89%B9%E5%88%A5:%E5%80%8B%E4%BA%BA%E8%A8%AD%E5%AE%9A"  title="これは特別ページですので、編集はできません。">特別ページ</a></span></li>
+													</ul>
+					</div>
+										<div id="p-variants" role="navigation" class="vectorMenu emptyPortlet" aria-labelledby="p-variants-label">
+												<h3 id="p-variants-label">
+							<span>変種</span><a href="#"></a>
+						</h3>
+
+						<div class="menu">
+							<ul>
+															</ul>
+						</div>
+					</div>
+									</div>
+				<div id="right-navigation">
+										<div id="p-views" role="navigation" class="vectorTabs emptyPortlet" aria-labelledby="p-views-label">
+						<h3 id="p-views-label">表示</h3>
+						<ul>
+													</ul>
+					</div>
+										<div id="p-cactions" role="navigation" class="vectorMenu emptyPortlet" aria-labelledby="p-cactions-label">
+						<h3 id="p-cactions-label"><span>その他</span><a href="#"></a></h3>
+
+						<div class="menu">
+							<ul>
+															</ul>
+						</div>
+					</div>
+										<div id="p-search" role="search">
+						<h3>
+							<label for="searchInput">検索</label>
+						</h3>
+
+						<form action="/w/index.php" id="searchform">
+							<div id="simpleSearch">
+							<input type="search" name="search" placeholder="Wikipedia内を検索" title="Wikipedia内を検索する [f]" accesskey="f" id="searchInput"/><input type="hidden" value="特別:検索" name="title"/><input type="submit" name="fulltext" value="検索" title="この文字列が含まれるページを探す" id="mw-searchButton" class="searchButton mw-fallbackSearchButton"/><input type="submit" name="go" value="表示" title="厳密に一致する名前のページが存在すれば、そのページへ移動する" id="searchButton" class="searchButton"/>							</div>
+						</form>
+					</div>
+									</div>
+			</div>
+			<div id="mw-panel">
+				<div id="p-logo" role="banner"><a class="mw-wiki-logo" href="/wiki/%E3%83%A1%E3%82%A4%E3%83%B3%E3%83%9A%E3%83%BC%E3%82%B8"  title="メインページに移動する"></a></div>
+						<div class="portal" role="navigation" id='p-navigation' aria-labelledby='p-navigation-label'>
+			<h3 id='p-navigation-label'>案内</h3>
+
+			<div class="body">
+									<ul>
+						<li id="n-mainpage"><a href="/wiki/%E3%83%A1%E3%82%A4%E3%83%B3%E3%83%9A%E3%83%BC%E3%82%B8" title="メインページに移動する [z]" accesskey="z">メインページ</a></li><li id="n-portal"><a href="/wiki/Wikipedia:%E3%82%B3%E3%83%9F%E3%83%A5%E3%83%8B%E3%83%86%E3%82%A3%E3%83%BB%E3%83%9D%E3%83%BC%E3%82%BF%E3%83%AB" title="このプロジェクトについて、できること、情報を入手する場所">コミュニティ・ポータル</a></li><li id="n-currentevents"><a href="/wiki/Portal:%E6%9C%80%E8%BF%91%E3%81%AE%E5%87%BA%E6%9D%A5%E4%BA%8B" title="最近の出来事の背景を知る">最近の出来事</a></li><li id="n-newpages"><a href="/wiki/%E7%89%B9%E5%88%A5:%E6%96%B0%E3%81%97%E3%81%84%E3%83%9A%E3%83%BC%E3%82%B8" title="最近新規に作成されたページの一覧">新しいページ</a></li><li 
+1000
+id="n-recentchanges"><a href="/wiki/%E7%89%B9%E5%88%A5:%E6%9C%80%E8%BF%91%E3%81%AE%E6%9B%B4%E6%96%B0" title="このウィキにおける最近の更新の一覧 [r]" accesskey="r">最近の更新</a></li><li id="n-randompage"><a href="/wiki/%E7%89%B9%E5%88%A5:%E3%81%8A%E3%81%BE%E3%81%8B%E3%81%9B%E8%A1%A8%E7%A4%BA" title="無作為に選択されたページを読み込む [x]" accesskey="x">おまかせ表示</a></li><li id="n-sandbox"><a href="/wiki/Wikipedia:%E3%82%B5%E3%83%B3%E3%83%89%E3%83%9C%E3%83%83%E3%82%AF%E3%82%B9" title="練習用のページ">練習用ページ</a></li><li id="n-commonsupload"><a href="//commons.wikimedia.org/wiki/Special:UploadWizard?uselang=ja" title="画像やメディアファイルをウィキメディア・コモンズにアップロード">アップロード (ウィキメディア・コモンズ)</a></li>					</ul>
+							</div>
+		</div>
+			<div class="portal" role="navigation" id='p-help' aria-labelledby='p-help-label'>
+			<h3 id='p-help-label'>ヘルプ</h3>
+
+			<div class="body">
+									<ul>
+						<li id="n-help"><a href="/wiki/Help:%E7%9B%AE%E6%AC%A1" title="情報を得る場所">ヘルプ</a></li><li id="n-villagepump"><a href="/wiki/Wikipedia:%E4%BA%95%E6%88%B8%E7%AB%AF" title="プロジェクトについての意見交換">井戸端</a></li><li id="n-notice"><a href="/wiki/Wikipedia:%E3%81%8A%E7%9F%A5%E3%82%89%E3%81%9B" title="プロジェクトについてのお知らせ">お知らせ</a></li><li id="n-bugreportspage"><a href="/wiki/Wikipedia:%E3%83%90%E3%82%B0%E3%81%AE%E5%A0%B1%E5%91%8A" title="ウィキペディア・ソフトウェアのバグ報告">バグの報告</a></li><li id="n-sitesupport"><a href="//donate.wikimedia.org/wiki/Special:FundraiserRedirector?utm_source=donate&amp;utm_medium=sidebar&amp;utm_campaign=C13_ja.wikipedia.org&amp;uselang=ja" title="ご支援ください">寄付</a></li><li id="n-contact"><a href="/wiki/Wikipedia:%E9%80%A3%E7%B5%A1%E5%85%88" title="ウィキペディアやウィキメディア財団に関する連絡先">ウィキペディアに関するお問い合わせ</a></li>					</ul>
+							</div>
+		</div>
+			<div class="portal" role="navigation" id='p-tb' aria-labelledby='p-tb-label'>
+			<h3 id='p-tb-label'>ツール</h3>
+
+			<div class="body">
+									<ul>
+						<li id="t-upload"><a href="/wiki/Wikipedia:%E3%83%95%E3%82%A1%E3%82%A4%E3%83%AB%E3%81%AE%E3%82%A2%E3%83%83%E3%83%97%E3%83%AD%E3%83%BC%E3%83%89" title="ファイルをアップロードする [u]" accesskey="u">ファイルをアップロード</a></li><li id="t-specialpages"><a href="/wiki/%E7%89%B9%E5%88%A5:%E7%89%B9%E5%88%A5%E3%83%9A%E3%83%BC%E3%82%B8%E4%B8%80%E8%A6%A7" title="特別ページの一覧 [q]" accesskey="q">特別ページ</a></li><li id="t-print"><a href="/w/index.php?title=%E7%89%B9%E5%88%A5:%E5%80%8B%E4%BA%BA%E8%A8%AD%E5%AE%9A&amp;printable=yes" rel="alternate" title="このページの印刷用ページ [p]" accesskey="p">印刷用バージョン</a></li>					</ul>
+							</div>
+		</div>
+			<div class="portal" role="navigation" id='p-lang' aria-labelledby='p-lang-label'>
+			<h3 id='p-lang-label'>他言語版</h3>
+
+			<div class="body">
+									<ul>
+											</ul>
+							</div>
+		</div>
+				</div>
+		</div>
+		<div id="footer" role="contentinfo">
+							<ul id="footer-places">
+											<li id="footer-places-privacy"><a href="https://meta.wikimedia.org/wiki/Privacy_policy/ja" class="extiw" title="m:Privacy policy/ja">プライバシー・ポリシー</a></li>
+											<li id="footer-places-about"><a href="/wiki/Wikipedia:%E3%82%A6%E3%82%A3%E3%82%AD%E3%83%9A%E3%83%87%E3%82%A3%E3%82%A2%E3%81%AB%E3%81%A4%E3%81%84%E3%81%A6" title="Wikipedia:ウィキペディアについて">ウィキペディアについて</a></li>
+											<li id="footer-places-disclaimer"><a href="/wiki/Wikipedia:%E5%85%8D%E8%B2%AC%E4%BA%8B%E9%A0%85" title="Wikipedia:免責事項">免責事項</a></li>
+											<li id="footer-places-developers"><a href="https://www.mediawiki.org/wiki/Special:MyLanguage/How_to_contribute">開発者</a></li>
+											<li id="footer-places-cookiestatem
+4e4
+ent"><a href="https://wikimediafoundation.org/wiki/Cookie_statement">Cookieに関する声明</a></li>
+											<li id="footer-places-mobileview"><a href="//ja.m.wikipedia.org/w/index.php?title=%E7%89%B9%E5%88%A5:%E5%80%8B%E4%BA%BA%E8%A8%AD%E5%AE%9A&amp;mobileaction=toggle_view_mobile" class="noprint stopMobileRedirectToggle">モバイルビュー</a></li>
+									</ul>
+										<ul id="footer-icons" class="noprint">
+											<li id="footer-copyrightico">
+							<a href="https://wikimediafoundation.org/"><img src="/static/images/wikimedia-button.png" srcset="/static/images/wikimedia-button-1.5x.png 1.5x, /static/images/wikimedia-button-2x.png 2x" width="88" height="31" alt="Wikimedia Foundation"/></a>						</li>
+											<li id="footer-poweredbyico">
+							<a href="//www.mediawiki.org/"><img src="/static/images/poweredby_mediawiki_88x31.png" alt="Powered by MediaWiki" srcset="/static/images/poweredby_mediawiki_132x47.png 1.5x, /static/images/poweredby_mediawiki_176x62.png 2x" width="88" height="31"/></a>						</li>
+									</ul>
+						<div style="clear:both"></div>
+		</div>
+		<script>(window.RLQ=window.RLQ||[]).push(function(){mw.config.set({"wgBackendResponseTime":189,"wgHostname":"mw1238"});});</script>
+	</body>
+</html>
+
+0
+

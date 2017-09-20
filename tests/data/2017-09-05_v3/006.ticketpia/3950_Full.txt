@@ -1,0 +1,19 @@
+GET https://ticket-account.pia.jp/pia/AuthResponse.do?authResAction=1&BCAssign=&error=access_denied&error_description=forgot_password&state=2f9b479e3cfa2ac44c6fdd39fa5aae38 HTTP/1.1
+Host: ticket-account.pia.jp
+User-Agent: Mozilla/5.0 (Windows NT 6.1; rv:52.0) Gecko/20100101 Firefox/52.0
+Accept: text/html,application/xhtml+xml,application/xml;q=0.9,*/*;q=0.8
+Accept-Language: ja,en-US;q=0.7,en;q=0.3
+Accept-Encoding: gzip, deflate, br
+Referer: https://ticket-auth.pia.jp/pia/authenticate?request_token=UExdaSqfp2Zs3oF0axVji62htooCHd2ESbP3DfxmQ8o
+Cookie: pa_lrid=1491297466143-UdYoPZzTfBes9MdHdJmaWeYo3XiH7ff; pa_mrid=1491297466143-jjX3rCjpMaJsxN0no02i7cNB3dYecMO; pa_srid=1491297466143-6Qn5RmLL2WuyrxhvvjtQnB8d3l1uYm3; pa_rptime_AETPIA=1491301287253; cX_S=j13c0b6iuf23xy1e; cX_P=j13c0b6jhcz5dmpr; cstp=604800; JSESSIONID=CE5484853DE2BDE31DFC0A321FB165C0; BIGipServerpl-dtc-int2ap-ticket-account=2516588042.20480.0000; _ga=GA1.2.1821994594.1491298260; __utma=136095278.1821994594.1491298260.1491300036.1491300036.1; __utmb=136095278.4.10.1491300036; __utmc=136095278; __utmz=136095278.1491300036.1.1.utmcsr=(direct)|utmccn=(direct)|utmcmd=(none); __utmt_ga_asp=1; _gat_UA-41230966-5=1; _dc_gtm_UA-41230966-2=1; BetySessionId_AETPIA=e4af8328beb5dc739d4ad84efe298608; LastAccessServerId_AETPIA=a28d724e1d4d5a2c84bc5f8307fa5e6f
+Connection: keep-alive
+Upgrade-Insecure-Requests: 1
+
+
+HTTP/1.1 302 Moved Temporarily
+Date: Tue, 04 Apr 2017 10:21:48 GMT
+Location: https://ticket-account.pia.jp/pia/account/forgot_id_password.do
+Content-Type: text/html;charset = utf-8
+Content-Length: 0
+Connection: close
+

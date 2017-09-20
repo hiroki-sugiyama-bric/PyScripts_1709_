@@ -1,0 +1,485 @@
+POST https://zozo.jp/_member/forget/passupdateconf.html HTTP/1.1
+Host: zozo.jp
+User-Agent: Mozilla/5.0 (Windows NT 6.1; rv:52.0) Gecko/20100101 Firefox/52.0
+Accept: text/html,application/xhtml+xml,application/xml;q=0.9,*/*;q=0.8
+Accept-Language: ja,en-US;q=0.7,en;q=0.3
+Referer: https://zozo.jp/_member/forget/?c=MailReregist&k=231CA464D5DF4CB49F06BD37561B0FC8
+Cookie: GS=919bd0ae8f8c438c9188499b003f2b8d; ZOZO%5FISMEN=0; ZOZO%5FUID=P9100%3A709070058%3A544820071; ASPSESSIONIDCQBTQAQD=NPMHDEKCKPNBMCPNAHEEFBML; BIGipServerIN01_zozo.jp_Pool=1679628298.20480.0000; TS014d8e6a=0182a26047a17921f6727aa03b3ab00d6c0a2afe49b14d8098942123ea83cf4174ff494e27427632fc29cc9ec75e88c361b6b1a33af09c3d142648201154ce642a6718f315143a916870c3cb1c904e3e7d81580981a422e77b47f17eeec111d3941fdd66a6; TS014ab708=0182a260477cfb2009235c9381bf110034e80325052e98ae5021e5effa2a55f7246c47eb01b70f1e200b6a87f89bb074cde17f1d5ee61a0ba2879f2ddc02459df56f094e020bebc413aeaccf95bfa74b2eee8b574ff85c16dcd657b16bb36c39f5f0fc32d83e6c17b268b2a1268aff6ad32ca16918839a8373ce297d53a391e592b7f1a306c566e3db5a9d935712aed628048e0590bc8e73d8d66e4ed53fb2567dbbd0edcf144f1385040a5ac5674303c656d3e4d500d052867827e732accfd1d612ba5dc56935ff57e2cc38bb03e397426af0123201d65c1eb3937c5373e148abb22932da102a2e1338942d8aa2daf4160dbdc7358614d01302ed90c177ae4c6badf16bfe2503a6646ddeed9ffbb9c3d1c40050ea83464bc8b39811380b57657ff6a3d28374c23c2a520cd3d5db3e574c41a48e5130c3fbf21f9dc3dd7e530673b4a93a40e4d01709e912b61bb9af7561c9262b18; BIGipServerEX01_zozo.jp_Pool=19599532.20480.0000; __utma=205133723.1039877679.1491472484.1491472484.1491472484.1; __utmb=205133723.14.10.1491472484; __utmc=205133723; __utmz=205133723.1491472484.1.1.utmcsr=(direct)|utmccn=(direct)|utmcmd=(none); __utmv=205133723.|1=member=member=1^2=memberID=13533728=1; TS014d8e6a_30=01b5740c9bb88bd9d4238d2dff92bae8c608d2c63450814c385e7038f7aa79d4ac3e1bbfcd99c38b93d4260988a0121b8459747993; __utmt_UA-21899864-1=1; LPCKEY-42831738=a7ef3d6c-6810-49f7-9e60-a77f9be6fea64-39874%7Cnull%7Cnull%7C300; LPVID=IzOTBjYWIxNjZiYzBjOGFk; LPSID-42831738=bNw_qACUQ4uH8kg5tTRkSQ; __utmli=container
+Connection: close
+Upgrade-Insecure-Requests: 1
+Content-Type: application/x-www-form-urlencoded
+Content-Length: 59
+
+c=PassInput&Password=testtest1234&PasswordConf=testtest1234
+HTTP/1.1 200 OK
+Cache-Control: no-cache,no-store
+Content-Length: 15626
+Content-Type: text/html
+Expires: Thu, 06 Apr 2017 10:06:29 GMT
+Date: Thu, 06 Apr 2017 10:07:29 GMT
+Connection: close
+
+<!DOCTYPE html>
+<html lang="ja">
+<head prefix="og: http://ogp.me/ns# fb: http://ogp.me/ns/fb# article: http://ogp.me/ns/article#">
+	<meta charset="Shift_JIS" />
+	<meta http-equiv="X-UA-Compatible" content="IE=edge" />
+	<title>パスワードの変更 - ZOZOTOWN</title>
+	<meta name="keywords" content="" />
+	<meta name="description" content="" />
+	<meta name="author" content="COPYRIGHT (C) STARTTODAY CO.,LTD. ALL RIGHTS RESERVED." />
+	<meta name="robots" content="noindex,follow,noydir,noodp" />
+	<meta name="viewport" content="width=1000" />
+	<meta name="format-detection" content="telephone=no" />
+
+	<link rel="alternate" media="handheld" href="http://w2.zozo.jp/m/2/" />
+
+		<!-- link rel="stylesheet" href="/common_2015/lib/cs/cs_google.css" / -->
+	<link rel="stylesheet" href="/common_2015/css/general.css?20170329" />
+	<!-- link rel="stylesheet" href="/common_2015/css/gsa_suggest.css?20151028" / -->
+	
+
+	
+	
+		
+		<link rel="stylesheet" href="/common_2015/css/coupon/coupon_common_2016.css?10271"/>
+	
+	
+	
+	
+
+
+	<link rel="styleSheet" href="css/default_2015.css?20160705" />
+
+	<!-- 削除禁止 -->
+	<!--[if lt IE 9]>
+	<script src="/common_2015/lib/html5shiv/html5shiv.js" charset="utf-8"></script>
+	<![endif]-->
+	<!-- /削除禁止 -->
+</head>
+
+<body id="zozotown">
+
+<div id="wrapper">
+
+	
+
+
+
+
+	
+	
+	
+		
+	
+
+
+
+<div id="gblHeaderStuck">
+<div id="gblHeader" class="header">
+	<div id="hWrapper">
+		<div id="hWrapperInner">
+		<div id="header" class="clearfix">
+			<div id="hHeader" class="clearfix">
+				
+				
+				
+							<p id="hLogo"><a href="http://zozo.jp/">ZOZOTOWN</a></p>
+							
+				
+
+				<div id="hItemSearch" class="clearfix">
+					<form action="/search/" method="get" name="keyword">
+						<p id="hKeyword"><input type="text" name="p_keyv" value="" id="searchText" placeholder="何かお探しですか？" autocomplete="off" /></p>
+						
+						<p id="hSubmit" class="hBtn"><input type="submit" value="" title="検索" /></p>
+					</form>
+				<!-- /#hItemSearch --></div>
+			<!-- /#hHeader --></div>
+
+			<div id="hCtrl" class="clearfix">
+				<ul id="hCtrlList" class="clearfix">
+
+				
+				<!-- ログイン時 -->
+					<li id="hUserName" class="hNoLogin hPopWrap static">
+						<p id="hThumbs">
+							<a href="/_member/login.html?bkurl=%2F%5Fmember%2Fforget%2Fpassupdateconf%2Ehtml%3F"><span id="hName">ログイン</span></a>
+						</p>
+					<!-- /#hUserName --></li>
+				
+
+					<!-- 通知アイコン -->
+					<li id="hNotice" class="hPopWrap static">
+						<a href="/notice/"><span class="ico ico_notice"><span>通知機能</span></span></a>
+						
+							
+								
+								<ul class="lined clearfix"></ul>
+								<div class="hPopUp noLogin">
+									<div class="hPopUpInner">
+										<div class="hSubMap clearfix">
+											<p>お気に入りアイテムやショップの<br>値下がり情報などをお知らせします</p>
+											
+												<!-- SSL通信時  -->
+											<!-- /%IsSSL -->
+										</div>
+									<!-- /.hPopUpInner --></div>
+								<!-- /.hPopUp --></div>
+							
+						
+					<!-- /#hNotice --></li>
+
+					<!-- /通知アイコン -->
+					<li id="hFavoriteLink" class="static hPopWrap">
+						<a href="/_member/favoritelist/"><span id="hFavorite" class="ico ico_favorite"><span>お気に入り</span></span></a>
+						
+						<span class="ico_new">NEW</span>
+						<ul class="lined clearfix"></ul>
+						<div class="hPopUp noLogin">
+							<div class="hPopUpInner">
+								<div class="hSubMap clearfix">
+									<p>会員でない方でも「お気に入り」が<br>
+											使えるようになりました。</p>
+									
+										<!-- SSL通信時  -->
+									<!-- /%IsSSL -->
+								</div>
+							<!-- /.hPopUpInner --></div>
+						<!-- /.hPopUp --></div>
+						
+					<!-- /#hFavorite --></li>
+
+					<li id="hCart">
+						
+						<span class="clearfix"><a href="/_cart/default.html"><span class="ico ico_cart"><span>カート</span></span><span class="hide" id="hNum">0</span></a></span>
+						
+
+						
+						<div class="hPopUp">
+							<div class="hPopUpInner">
+								<div class="hSubMap clearfix">
+								<p class="tit">カートに商品がありません</p>
+								</div>
+							</div>
+						</div>
+						
+
+					<!-- /#hCart --></li>
+
+				<!-- サイトマップ -->
+				<li id="hServiceMap" class="static hPopWrap"><span class="ico ico_siteMap"><span>サイトマップ</span></span>
+					<div class="hPopUp">
+						<div class="hSubMap hPopUpInner clearfix">
+							<div id="hShopping" class="clearfix">
+								<dl id="hSiteList">
+									<dt>モール</dt>
+									<dd><a href="http://zozo.jp/">ZOZOTOWN</a><span>日本最大級のファッション通販サイト</span></dd>
+									<dd><a href="http://zozo.jp/shop/zozoused/">ZOZOUSED</a><span>ブランド古着のセレクトショップ</span></dd>
+									<dd><a href="https://zozo-f.jp">ZOZOフリマ</a><span>ファッションフリマアプリ</span></dd>
+								</dl>
+								<dl id="hAllList">
+									<dt>探す</dt>
+									<dd><a href="http://zozo.jp/category/">カテゴリ一覧</a></dd>
+									<dd><a href="http://zozo.jp/brand/">ブランド一覧</a></dd>
+									<dd><a href="http://zozo.jp/shop/">ショップ一覧</a></dd>
+									<dd><a href="http://zozo.jp/topics/">ショップニュース一覧</a></dd>
+									<dd><a href="http://zozo.jp/coordinate/">コーディネート一覧</a></dd>
+									<dd><a href="http://zozo.jp/fashionnews/">ファッションまとめ一覧</a></dd>
+									<dd><a href="http://zozo.jp/ranking/all-sales.html">ランキング一覧</a></dd>
+									<dd><a href="http://zozo.jp/detail/">こだわり検索</a></dd>
+								</dl>
+								<dl id="hHelpList">
+									<dt>ヘルプ</dt>
+									<dd><a href="http://zozo.jp/_help/default.html">よくある質問</a></dd>
+									<dd><a href="http://zozo.jp/_help/default.html?cid=10">お届けについて</a></dd>
+									<dd><a href="http://zozo.jp/_help/default.html?cid=9">お支払い方法について</a></dd>
+									<dd><a href="http://zozo.jp/_help/default.html?cid=11">注文取消し･返品について</a></dd>
+									<dd><a href="http://zozo.jp/welcome/default.html?p_no=1">はじめての方へ</a></dd>
+									<dd><a href="/_member/regist/?pattern=4&p_no=1">新規会員登録</a></dd>
+								</dl>
+							</div>
+						</div>
+					</div>
+				</li>
+				<!-- /サイトマップ -->
+			</ul>
+
+			
+
+		<!-- /#hCtrl --></div>
+
+		<!-- /#hWrapperInner --></div>
+		<!-- /#header --></div>
+
+	<!-- /#hWrapper --></div>
+<!-- /#gblHeader --></div>
+<!-- /#gblHeaderStuck --></div>
+
+
+
+
+	
+
+
+
+<script type="text/javascript">
+	var hConfig ={ SexType:("0"*1) };
+	var hFavoriteShop={
+		id	: "",
+		name	: "",
+		spath	: "",
+		path	: "http://zozo.jp/"
+	};
+
+	var hFavoriteBrand={
+			id	: "",
+			name	: "",
+			spath	: "",
+			path	: "http://zozo.jp/"
+	};
+		/*
+	var hFavoriteSearch={
+		id	: "",
+		name	: "",
+		path	: "http://zozo.jp/"
+	};
+*/
+</script>
+
+
+	<hr />
+
+	<nav id="breadCrumb">
+		<ul class="clearfix">
+			<li><a href="/">ZOZOTOWN</a></li>
+			<li>パスワードの変更</li>
+		</ul>
+	<!-- /#breadCrumb --></nav>
+
+
+	<div id="body" class="clearfix">
+
+		<div id="content">
+			<article>
+				<div id="container" class="passConf clearfix">
+					<div class="containerInner">
+						<div id="contentHeader" class="clearfix">
+							<h1>パスワードの変更</h1>
+							<p class="read">変更内容を確認のうえ、変更してください。<br />
+								お買い物の際に必要となりますので、大切に保管してください。
+							</p>
+						<!--#contentHeader--></div>
+						<div class="formContainer">
+							<table class="resist">
+								<tbody>
+									<tr>
+										
+										<th>メールアドレス<br />（ZOZO ID）</th>
+										<td>crawlingtest1000@gmail.com</td>
+										
+									</tr>
+									<tr>
+										<th>新しいパスワード</th>
+										<td>
+										    <span id="passwordOriginal" class="hide">testtest1234</span>
+										    <span id="passwordMask">********</span>
+										    <span data-toggle="masking-password">パスワードを表示</span>
+										</td>
+									</tr>
+								</tbody>
+							</table>
+						<!--/.formContainer--></div>
+
+						<div class="btnWrapper lined clearfix">
+							<form method="post" name="form2" action="passupdate.html">
+								<input type="hidden" value="PassUpdate" name="c" />
+								<p class="btn"><input type="submit" name="Back.x" value="戻る" class="gBtnWhite" /></p>
+							</form>
+							<form method="post" name="form1" action="passupdatecomplete.html">
+								<input type="hidden" value="PassUpdate" name="c" />
+								<p class="btn"><input type="submit" name="Regist" value="変更する" class="gBtn" /></p>
+							</form>
+						<!--/.btnWrapper--></div>
+					<!--/.containerInner--></div>
+				<!--/#container--></div>
+
+			</article>
+		<!-- /#content --></div>
+	<!-- /#body--></div>
+
+	<hr />
+
+<!-- [フッター] -->
+	<div id="gblFooter" class="footer">
+		<div id="fWrapper">
+			<div id="fInner" class="clearfix">
+				<div id="fService" class="fBox">
+					<ul>
+						<li><a href="/?p_no=1" target="_self" >ZOZOTOWN</a></li>
+						<li><a href="/zozoused/" target="_self" >ZOZOUSED</a></li>
+						<li><a href="https://zozo-f.jp" target="_self" >ZOZOフリマ</a></li>
+						<li><a href="http://wear.jp/" target="_self" >WEAR(ウェア)</a></li>
+					</ul>
+				</div>
+				<div id="fContents" class="fBox">
+					<ul>
+						<li><a href="/category/?p_no=1">カテゴリ一覧</a></li>
+						<li><a href="/brand/?p_no=1">ブランド一覧</a></li>
+						<li><a href="/shop/?p_no=1">ショップ一覧</a></li>
+						<li><a href="/ranking/all-sales.html">ランキング一覧</a></li>
+						<li><a href="/detail/?p_no=1">こだわり検索</a></li>
+					</ul>
+					<ul>
+						<li><a href="/topics/?p_no=1">ショップニュース一覧</a></li>
+						<li><a href="/coordinate/">コーディネート一覧</a></li>
+						<li><a href="/fashionnews/?p_no=1">ファッションまとめ一覧</a></li>
+						<li><a href="/keyword/">注目キーワード一覧</a></li>
+					</ul>
+				</div>
+				<div id="fMember" class="fBox">
+					<ul>
+						<li><a href="//sell.zozo.jp/">ブランド古着買取サービス</a></li>
+						
+						<li><a href="/_card/zozocard.html?p_no=1" target="_self">ZOZOCARD</a></li>
+						<li><a href="https://zozo.jp/_mail/?p_no=1" target="_self">メールマガジン購読</a></li>
+						<li><a href="/giftwrapping/?p_no=1" target="_self">ギフトラッピングサービス</a></li>
+						<li><a href="/premium/?p_no=1" target="_self">ゾゾプレミアム・プラチナム</a></li>
+					</ul>
+				</div>
+				<div id="fHelp" class="fBox">
+					<div class="clearfix">
+						<ul>
+							<li><a href="/_help/default.html?p_no=1" target="_self">ヘルプ</a></li>
+							<li><a href="/welcome/default.html?p_no=1" target="_self">初めての方へ</a></li>
+							<li><a href="/sitemap.html" target="_self">サイトマップ</a></li>
+						</ul>
+					</div>
+				</div>
+				<div id="fMobile" class="fBox">
+					<ul>
+						<li><a href="//itunes.apple.com/jp/app/zozotown/id404529222?mt=8&p_no=1" target="_blank">iPhoneアプリ</a></li>
+						<li><a href="//play.google.com/store/apps/details?id=jp.zozo.android.town" target="_blank">Androidアプリ</a></li>
+						<li class="ico ico_tw"><a href="//twitter.com/zozojp" target="_blank">Twitter</a></li>
+						<li class="ico ico_fb"><a href="//www.facebook.com/zozotown" target="_blank">Facebook</a></li>
+						<li class="ico ico_in"><a href="//instagram.com/zozotown_official/" target="_blank">Instagram</a></li>
+					</ul>
+				</div>
+				
+			<!-- /#finner --></div>
+			<div id="fCorporate" class="clearfix">
+				<ul class="clearfix">
+					<li><a target="_blank" class="ico_blank" href="http://www.starttoday.jp/?p_no=1">コーポレートサイト</a></li>
+					<li><a target="_blank" class="ico_blank" href="http://www.starttoday.jp/about/profile/">会社概要</a></li>
+					<li><a target="_blank" class="ico_blank" href="http://www.starttoday.jp/ir/">IR情報</a></li>
+					<li><a target="_blank" class="ico_blank" href="http://www.starttoday.jp/recruit/">採用情報</a></li>
+					<li><a href="/info/kiyaku.html?p_no=1">利用規約</a></li>
+					<li><a href="/info/pp.html?p_no=1">個人情報保護方針</a></li>
+					<li><a href="/_newhelp/help_resort_torihikihou.html?p_no=1">特定商取引法に基づく表示・古物営業法に基づく表示</a></li>
+				</ul>
+				<div id="fCopyRight">
+					<p id="copy">COPYRIGHT &copy; START TODAY CO.,LTD. ALL RIGHTS RESERVED.</p>
+					<p>サイト内の文章、画像などの著作物は株式会社スタートトゥデイに属します。複製、無断転載を禁止します。</p>
+				</div>
+			<!-- /#fCorporate --></div>
+		<!-- /#fWrapper --></div>
+	<!-- /#gblFooter --></div>
+<!-- /[フッター] -->
+
+
+<!-- /#wrapper --></div>
+<script>
+var FSObj={
+	FSEARCHIDS:"",
+	FSEARCHNAMES:"",
+	FSIDS:"-1",
+	FSNAMES:"-1",
+	FSPATHS:"-1",
+	FBIDS:"-1",
+	FBNAMES:"-1",
+	FBPATHS:"-1"
+};
+var cptypeid="10271";
+var loadLibTimestamp = '20160907';
+</script>
+
+<!-- script src="//ajax.googleapis.com/ajax/libs/jquery/1.8.3/jquery.min.js" charset="UTF-8"></script -->
+<script src="/common_2015/lib/jquery/jquery.js?20141120" charset="UTF-8"></script>
+<script src="/common_2015/js/common.js?20161108" charset="Shift_JIS"></script>
+<!-- script src="/common_2015/js/gsa_suggest.js?20141120" charset="Shift_JIS"></script -->
+
+
+	
+	<script src="/coupon/json/coupon_json.html?10271" charset="Shift_JIS" type="text/javascript"></script>
+	<script src="/common_2015/js/coupon/daily_coupon_2016.js?20170317" charset="Shift_JIS"></script>
+
+
+	<!--[if lt IE 9]>
+	<script>
+	$(function(){
+		$('#breadCrumb').find('li:last-child').addClass('last-child');
+	});
+	</script>
+	<![endif]-->
+
+
+
+<script src="/_member/js/common.js" charset="Shift_JIS"></script>
+
+
+<script>
+var cstatus = '';
+</script>
+<script src="//www.google.com/jsapi" charset="UTF-8"></script>
+
+
+
+<div class="gblAnalyze">
+<!-- Google Tag Manager -->
+<noscript><iframe src="https://www.googletagmanager.com/ns.html?id=GTM-KVPWWK"
+height="0" width="0" style="display:none;visibility:hidden"></iframe></noscript>
+<script>(function(w,d,s,l,i){w[l]=w[l]||[];w[l].push({'gtm.start':
+new Date().getTime(),event:'gtm.js'});var f=d.getElementsByTagName(s)[0],
+j=d.createElement(s),dl=l!='dataLayer'?'&l='+l:'';j.async=true;j.src=
+'https://www.googletagmanager.com/gtm.js?id='+i+dl;f.parentNode.insertBefore(j,f);
+})(window,document,'script','dataLayer','GTM-KVPWWK');</script>
+<!-- End Google Tag Manager -->
+<script>
+var _gaq = _gaq || []; // dummy
+</script>
+
+
+<!-- /.gblAnalyze --></div>
+
+
+<div class="gblAnalyze">
+<script>
+(function(w,d){var a='//rtm.zozo.jp/cfm-realtime-marketing/rest/accesslog?';
+var b={_u:'P9100%3A709070058%3A544820071',_m:'',_c:1,_s:1,_l:encodeURIComponent(location.href),
+_r:encodeURIComponent(document.referrer),_n:encodeURIComponent(navigator.userAgent),_a:1,_i:[]};
+b._i=w.crmPrm||[];var c=[];for(var e in b){if(b.hasOwnProperty(e)&&e!='_i'){c.push(e+'='+b[e])}}
+if(b.hasOwnProperty('_i')){var f=[];for(var i=0,len=b._i.length;i<len;i++){for(var e in b._i[i]){
+if(b._i[i].hasOwnProperty(e)&&e!='_i'){f.push(e+':'+b._i[i][e])}}}c.push('_i='+encodeURIComponent(f.join(',')))}
+d.write('<img src="'+a+c.join('&')+'" alt="" width="1" height="1" />')})(window,document);
+</script>
+<!-- /.gblAnalyze --></div>
+
+<noscript>
+	<div id="noscript">
+		<p>ZOZOTOWNではJavaScriptを使用しています。
+		ご利用の際にはブラウザ設定でJavaScript有効にしてください。</p>
+	</div>
+<style>
+<!--
+/* noscript warning */
+#noscript{position:absolute; top:10px; width:100%; z-index:10; }
+#noscript p{ padding: 5px 0; text-align:center; border:solid 1px #cc0000; color:#cc0000; background:#ffffff; width:980px; margin:auto; }
+#wrapper{padding: 45px 0 0;}
+-->
+</style>
+</noscript>
+
+
+
+</body>
+</html>

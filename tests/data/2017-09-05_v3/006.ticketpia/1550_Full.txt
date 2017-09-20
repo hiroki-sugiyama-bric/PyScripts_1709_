@@ -1,0 +1,1867 @@
+GET https://ticket-account.pia.jp/pia/membmng/RegisterNormalAction.do HTTP/1.1
+Host: ticket-account.pia.jp
+User-Agent: Mozilla/5.0 (Windows NT 6.1; rv:52.0) Gecko/20100101 Firefox/52.0
+Accept: text/html,application/xhtml+xml,application/xml;q=0.9,*/*;q=0.8
+Accept-Language: ja,en-US;q=0.7,en;q=0.3
+Accept-Encoding: gzip, deflate, br
+Referer: http://t.pia.jp/
+Cookie: pa_lrid=1491297466143-UdYoPZzTfBes9MdHdJmaWeYo3XiH7ff; pa_mrid=1491297466143-jjX3rCjpMaJsxN0no02i7cNB3dYecMO; pa_srid=1491297466143-6Qn5RmLL2WuyrxhvvjtQnB8d3l1uYm3; pa_rptime_AETPIA=1491298259675; BetySessionId_AETPIA=4c1dc969dc706c2ef8f2b7453930a7e2; LastAccessServerId_AETPIA=0e6fbb151b1a2768c1b49b71d3c8cdac; cX_S=j13c0b6iuf23xy1e; cX_P=j13c0b6jhcz5dmpr; cstp=1; JSESSIONID=CE5484853DE2BDE31DFC0A321FB165C0; BIGipServerpl-dtc-int2ap-ticket-account=2516588042.20480.0000; _ga=GA1.2.1821994594.1491298260
+Connection: keep-alive
+Upgrade-Insecure-Requests: 1
+
+
+HTTP/1.1 200 OK
+Date: Tue, 04 Apr 2017 09:39:17 GMT
+Set-Cookie: AuthId_AETPIA=""; Domain=.pia.jp; Expires=Thu, 01-Jan-1970 00:00:10 GMT; Path=/
+Set-Cookie: user_nm_AETPIA=""; Domain=.pia.jp; Expires=Thu, 01-Jan-1970 00:00:10 GMT; Path=/
+Set-Cookie: pa_mid_AETPIA=""; Domain=.pia.jp; Expires=Thu, 01-Jan-1970 00:00:10 GMT; Path=/
+Set-Cookie: notify_count_AETPIA=""; Domain=.pia.jp; Expires=Thu, 01-Jan-1970 00:00:10 GMT; Path=/
+Set-Cookie: default_rgon_code_AETPIA=""; Domain=.pia.jp; Expires=Thu, 01-Jan-1970 00:00:10 GMT; Path=/
+Set-Cookie: condition_b_date_AETPIA=""; Domain=.pia.jp; Expires=Thu, 01-Jan-1970 00:00:10 GMT; Path=/
+Content-Type: text/html;charset=UTF-8
+Connection: close
+Transfer-Encoding: chunked
+
+15e
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+	
+
+
+
+
+
+
+
+
+
+
+
+
+
+<!-- 新規HTML reg_01.html ここから   リビジョン179771-->
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+<html xmlns="http://www.w3.org/1999/xhtml" xml:lang="ja" lang="ja">
+
+
+
+
+
+
+
+
+<head>
+
+
+
+  
+  
+
+
+
+
+
+
+
+13ed
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+<title>会員情報入力：チケットぴあ</title>
+
+<meta http-equiv="Content-Type" content="text/html; charset=utf-8" />
+<meta name="author" content="PIA" />
+<meta name="copyright" content="Copyright PIA Corporation. All Rights Reserved. " />
+
+
+
+
+
+
+
+
+<meta name="Description" content="会員情報入力：チケットぴあ,チケット買うならチケットぴあで！" />
+
+
+<meta name="Keywords" content="会員情報入力：チケットぴあ,チケット,ぴあ,PIA,pia,コンサート,ライブ,当日券,入場券,プレミア,電話番号,予約,一般発売,会場,プレイガイド,先行" />
+
+<meta http-equiv="content-style-type" content="text/css" />
+<meta http-equiv="content-script-type" content="text/javascript" />
+<meta name="format-detection" content="telephone=no">
+
+
+
+
+
+
+
+
+
+
+
+<link rel="stylesheet" type="text/css" media="screen, print" href="https://image.pia.jp/common2//css/base.css"/>
+
+<!-- naoko0306 2009/12/10 jQuery Alert Dialogs用 jquery.alerts.css追加-->
+<link rel="stylesheet" type="text/css" media="screen, print" href="https://image.pia.jp/common2//css/jquery.alerts.css"/>
+
+
+<link rel="stylesheet" type="text/css" media="print, screen" href="https://image.pia.jp/common2//css/alert.css"/>
+<link rel="stylesheet" type="text/css" media="print, screen" href="https://image.pia.jp/common2//css/jquery.jscrollpane.css"/>
+
+
+<script language="JavaScript" src="https://image.pia.jp/common2//common/pc/share/js/ajax.js"></script>
+<script language="JavaScript" src="https://image.pia.jp/common2//common/pc/share/js/common.js"></script>
+<script language="JavaScript" src="https://image.pia.jp/common2//common/pc/share/js/control.js"></script>
+<script language="JavaScript" src="https://image.pia.jp/common2//common/pc/share/js/taglib.js"></script>
+
+
+
+<!--  暫定で追加。control.jsとtaglib.jsは上と重複しているのでコメントアウト。 -->
+
+<script language="JavaScript" src="https://image.pia.jp/common2//js/jquery-1.3.2.min.js"></script>
+
+<script language="JavaScript" src="https://image.pia.jp/common2//js/jquery-ui-1.7.2.custom.min.js"></script>
+<script language="JavaScript" src="https://image.pia.jp/common2//js/jquery.validate.min.js"></script>
+<script language="JavaScript" src="https://image.pia.jp/common2//js/json2.js"></script>
+<script language="JavaScript" src="https://image.pia.jp/common2//js/javaScriptUtil.js"></script>
+<script language="JavaScript" src="https://image.pia.jp/common2//js/jquery.timers-1.2.js"></script>
+<script language="JavaScript" src="https://image.pia.jp/common2//js/DropDown.js"></script>
+<script language="JavaScript" src="https://image.pia.jp/common2//js/DropDownMenu.js"></script>
+<script language="JavaScript" src="https://image.pia.jp/common2//js/swfobject.js"></script>
+<script language="JavaScript" src="https://image.pia.jp/common2//js/SlideToggle.js"></script>
+
+<script language="JavaScript" src="https://image.pia.jp/common2//js/AddRemind.js"></script>
+<script language="JavaScript" src="https://image.pia.jp/common2//js/AddFavorite.js"></script>
+<script language="javascript" src="https://image.pia.jp/common2//js/AC_RunActiveContent.js"></script>
+<script language="javascript" src="https://image.pia.jp/common2//js/jquery.alerts.js"></script>
+
+<script language="JavaScript" src="https://image.pia.jp/common2//js/ZipAjax.js"></script>
+
+<script language="javascript" src="https://image.pia.jp/common2//js/ChangeAttImage.js"></script>
+
+<script language="javascript" src="https://image.pia.jp/common2//js/SearchWindow.js"></script>
+<script language="javascript" src="https://image.pia.jp/common2//js/FixFooter.js"></script>
+
+
+<script language="javascript" src="https://image.pia.jp/common2//js/AddAlert.js"></script>
+<script language="javascript" src="https://image.pia.jp/common2//js/jquery.mousewheel.min.js"></script>
+<script language="javascript" src="https://image.pia.jp/common2//js/jquery.jscrollpane.min.js"></script>
+
+
+
+
+
+
+
+<link rel="stylesheet" type="text/css" media="screen, print" href="https://image.pia.jp/common2//css/register.css"/>
+<link rel="stylesheet" type="text/css" media="screen, print" href="https://image.pia.jp/common2//css/mypage.css"/>
+<script type="text/javascript" src="https://image.pia.jp/common2//js/EntryValidate.js"></script>
+<script type="text/javascript">
+  function checkLoginId(){
+     var loginId = document.NT0202S03Form.elements["loginIdTmp"];
+     var  params = new Map();
+     params.put("loginId",loginId.value);
+     requestAction('/pia/membmng/NT0202S03IdChkAction.do',checkUser,params);
+  }
+
+  function checkUser(result){
+     var loginIdChcR = document.getElementById("loginIdChcR");
+     var returnMessege = result.get("returnMessege");
+     loginIdChcR.innerHTML = returnMessege;
+  }
+
+
+function crtCardCheck(){}
+function nextPage(){}
+function onloadPage(){}
+function checkNextPage(){}
+function checkCardKndTyp(){}
+</script>
+
+</head>
+
+<body>
+
+<script id="Google_process">
+var dataLayer = dataLayer || [];
+dataLayer.push({
+    'ga-goal-process' : 'MembmngRegisterNormalInput.jsp'
+});
+</script>
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+ 
+ 
+ 
+ 
+
+
+
+
+
+
+
+1ff8
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+<!-- Google Tag Manager -->
+<script id="Google_Tag_Manager">(function(w,d,s,l,i){w[l]=w[l]||[];w[l].push({'gtm.start':
+new Date().getTime(),event:'gtm.js'});var f=d.getElementsByTagName(s)[0],
+j=d.createElement(s),dl=l!='dataLayer'?'&l='+l:'';j.async=true;j.src=
+'//www.googletagmanager.com/gtm.js?id='+i+dl;f.parentNode.insertBefore(j,f);
+})(window,document,'script','dataLayer','GTM-JN9B');</script>
+<!-- End Google Tag Manager -->
+
+
+
+	
+	
+<div class="_pia_ub">
+<script type="text/javascript">
+var _gpt = _gpt || {};
+_gpt.responseDateTime = new Date().getTime();
+_gpt.serviceId = "AETPIA";
+_gpt.cookieDomainName = ".pia.jp";
+_gpt.remoteServerName = 'ub.pia.jp/images/pt.gif';
+_gpt.ptJsPath = 'https://image.pia.jp/common2//js/pt.js';
+
+
+_gpt.extraParamArray = _gpt.extraParamArray || [];
+_gpt.extraParamArray.push(["pc_aid", 'AETPIA', false, true]);
+_gpt.extraParamArray.push(["pc_evcd", '', false, false]);
+_gpt.extraParamArray.push(["pc_rcd", '', false, false]);
+_gpt.extraParamArray.push(["pc_pcd", '', false, false]);
+_gpt.extraParamArray.push(["pc_lrcd", '', false, false]);
+_gpt.extraParamArray.push(["pc_acd", '', false, false]);
+_gpt.extraParamArray.push(["pc_x", '', false, false]);
+_gpt.extraParamArray.push(["pc_y", '', false, false]);
+_gpt.extraParamArray.push(["pc_jph", 'pia_account_MembmngRegisterNormalInput', false, false]);
+_gpt.extraParamArray.push(["pc_afid", '', false, false]);
+_gpt.extraParamArray.push(["pc_utso", '', false, false]);
+_gpt.extraParamArray.push(["pc_utme", '', false, false]);
+_gpt.extraParamArray.push(["pc_utca", '', false, false]);
+
+_gpt.liCondition = '0';
+
+
+(function(pJsPath) {
+    var pt = document.createElement('script');
+    pt.type = 'text/javascript';
+    pt.async = true;
+    pt.src = pJsPath;
+    (document.getElementsByTagName('head')[0] || document.getElementsByTagName('body')[0]).appendChild(pt);
+})(_gpt.ptJsPath);
+</script>
+</div>
+
+
+
+<!--
+<script type="text/javascript">
+$(document).ready(function(){
+	$("a").click(function () {
+		var hrefUrl = $(this).attr("href");
+		if(isSslToNonSslLink(hrefUrl)){
+			location.href = "/pia/refNonSsl.do?url=" + escape(hrefUrl);
+			return false;
+		}
+		return true;
+	});
+});
+
+function isSslToNonSslLink(hrefUrl){
+	if(hrefUrl == null || hrefUrl.length == 0){
+		return false;
+	}
+	return ((location.href.indexOf('https://') == 0) && (hrefUrl.indexOf('http://') == 0));
+}
+</script>
+ -->
+
+
+
+<!--h_navi-->
+<div id="h_navi" class="clearfix">
+<div id="wrap">
+
+
+
+<p id="home">チケットのことならチケットぴあ<a href="http://t.pia.jp/"><img src="https://image.pia.jp/common2/images/logo.gif" alt="チケットぴあ"></a></p>
+
+
+
+
+
+<link rel="stylesheet" type="text/css" media="screen, print" href="https://image.pia.jp/common2//css/mypage_area.css"/>
+
+
+<div id="mypage_area">
+
+<div id="sub_menu_blank">&nbsp;</div>
+
+
+
+
+<div id="mypage_area_box_blank">
+
+<div id="lob_base_blank" class="clearfix">&nbsp;</div>
+
+
+
+  </div>
+</div>
+
+<!--gNavigation-->
+
+
+<!--/gNavigation-->
+
+
+<!--mymenu -->
+
+<!--mymenu-->
+
+
+
+
+<!-- TODO ログイン状態のタグをhiddenで書き込み -->
+
+
+<input type="hidden" name="authed" value="false">
+
+
+
+<input type="hidden" name="js_context_path" value="https://ticket-account.pia.jp/pia/" />
+
+<input type="hidden" name="js_image_path" value="https://image.pia.jp/common2/images/" />
+
+
+
+<div id="JS00001" style="display:none" >通信中…</div>
+<div id="JS00002" style="display:none" >通信エラーにより登録に失敗しました</div>
+<div id="JS00003" style="display:none" >登録に失敗しました</div>
+<div id="JS00004" style="display:none" >登録完了しました</div>
+<div id="JS00005" style="display:none" >既に登録されています</div>
+<div id="JS00006" style="display:none" >登録件数オーバーにより登録に失敗しました</div>
+<div id="JS00007" style="display:none" >登録に失敗しました。<br/>エラーコード：</div>
+<div id="JS00008" style="display:none" >ログイン後に登録動作をおこなってください</div>
+<div id="JS00009" style="display:none" >ログイン</div>
+<div id="JS00010" style="display:none" >新規登録</div>
+<div id="JS00011" style="display:none" >閉じる</div>
+
+
+<div id="JS00012" style="display:none" >通信中…</div>
+<div id="JS00013" style="display:none" >通信エラーにより登録に失敗しました</div>
+<div id="JS00014" style="display:none" >登録に失敗しました</div>
+<div id="JS00015" style="display:none" >発売情報を登録しました。発売日が近づいたらメールをお送りします。</div>
+<div id="JS00016" style="display:none" >既に登録されています</div>
+<div id="JS00017" style="display:none" >登録件数オーバーにより登録に失敗しました</div>
+<div id="JS00018" style="display:none" >登録に失敗しました。<br/>エラーコード：</div>
+<div id="JS00019" style="display:none" >ログイン後に登録動作をおこなってください</div>
+<div id="JS00020" style="display:none" >ログイン</div>
+<div id="JS00021" style="display:none" >新規登録</div>
+<div id="JS00022" style="display:none" >閉じる</div>
+
+<script type="text/javascript">
+$(document).ready(function(){
+$("body").css("zoom","1");
+});
+</script>
+
+
+
+
+<!-- pagetitle -->
+<div class="category8 nobread" id="page_title">
+
+	<h1>会員登録</h1>
+</div>
+<!-- /pagetitle -->
+
+<!-- contents -->
+
+<!-- main_contents -->
+<div class="reg main_m_master">
+	
+	<!-- register_status -->
+	
+	
+		<ol class="reg_interim_status i_register main_m_master_m">
+		<li class="status_register">基本情報の登録</li>
+		<li class="status_confirm">登録内容の確認</li>
+		<li class="status_interim_complete">仮登録完了</li>
+		<li class="status_login">本登録ログイン</li>
+		<li class="status_complete">本登録完了</li>
+		</ol>
+	
+	<!-- /register_status -->
+
+
+
+
+	<div id="postNoErrorM" style="color:red;margin-left:20px;"></div>
+
+
+
+	<p class="leadingTxt">お客様の情報をご入力後、利用規約をお読みになり、「下記の利用規約に同意して確認画面へ」ボタンを押してください。</p>
+
+
+	
+	<div id="JS00026" style="display:none" >通信エラーが発生しました</div>
+	<div id="JS00027" style="display:none" >地域が複数ヒットしました。以下からお選びください。</div>
+	<div id="JS00028" style="display:none" >閉じる</div>
+	<div id="JS00073" style="display:none" >確認</div>
+	<div id="JS00074" style="display:none" >正しい郵便番号を入力してください</div>
+
+
+	
+	<div id="JS00029" style="display:none" >通信エラーが発生しました</div>
+	<div id="JS00030" style="display:none" >ご使用になれるIDです</div>
+	<div id="JS00031" style="display:none" >このIDは既に使われています。別のIDを設定してください。</div>
+	<div id="JS00032" style="display:none" >任意のユーザーIDを設定する場合、「任意のユーザーIDを設定」にチェックを選択してください。</div>
+
+	
+	<div id="JS00033" style="display:none" >必須項目です</div>
+	<div id="JS00034" style="display:none" >文字以下を入力してください</div>
+	<div id="JS00035" style="display:none" >文字以上を入力してください</div>
+	<div id="JS00036" style="display:none" >カタカナを入力してください</div>
+	<div id="JS00037" style="display:none" >正しいメールアドレスを入力してください</div>
+	<div id="JS00038" style="display:none" >半角英数字のみで入力してください</div>
+	<div id="JS00039" style="display:none" >半角英数字のみで入力してください</div>
+	<div id="JS00040" style="display:none" >半角英大文字のみで入力してください</div>
+	<div id="JS00041" style="display:none" >同じ内容を入力してください</div>
+	<div id="JS00042" style="display:none" >名前と苗字の間に空白を入れてください</div>
+	<div id="JS00069" style="display:none" >半角数字を入力してください</div>
+	<input type="hidden" name="lastKn_req" value="true"/>
+<input type="hidden" name="fastKn_req" value="true"/>
+<input type="hidden" name="lastNm_req" value="true"/>
+<input typ
+1ff8
+e="hidden" name="fastNm_req" value="true"/>
+<input type="hidden" name="telno_req" value="true"/>
+<input type="hidden" name="telno1_req" value="true"/>
+<input type="hidden" name="telno2_req" value="true"/>
+<input type="hidden" name="telno3_req" value="true"/>
+<input type="hidden" name="email1_req" value="true"/>
+<input type="hidden" name="email1Confirm_req" value="true"/>
+<input type="hidden" name="postno_req" value="true"/>
+<input type="hidden" name="postno1_req" value="true"/>
+<input type="hidden" name="postno2_req" value="true"/>
+<input type="hidden" name="remaindAskCd_req" value="true"/>
+<input type="hidden" name="remaindAnser_req" value="true"/>
+<input type="hidden" name="sexTyp_req" value="true"/>
+<input type="hidden" name="birthDa_req" value="true"/>
+<input type="hidden" name="birthdY_req" value="true"/>
+<input type="hidden" name="birthdM_req" value="true"/>
+<input type="hidden" name="birthdD_req" value="true"/>
+<input type="hidden" name="passwd_req" value="true"/>
+<input type="hidden" name="passwdConfirm_req" value="true"/>
+<input type="hidden" name="sendMembNewsMlFlg_req" value="true"/>
+<input type="hidden" name="passLoginFlg_req" value="true"/>
+<input type="hidden" name="idCardNo_req" value="true"/>
+<input type="hidden" name="captyaInput_req" value="true"/>
+<input type="hidden" name="sendMailMagazineMlFlg_req" value="true"/>
+<input type="hidden" name="idMailAddressLinkFlg_req" value="true"/>
+<input type="hidden" name="loginIdTmp_req" value="true"/>
+
+
+	<!-- form -->
+    <form name="NT0202S03Form" id="form_id" method="post" action="/pia/membmng/NT0202S03NextAction.do">
+
+	<style>
+		.error_validate {
+			color:#FFFFFF;
+			position:absolute;
+			margin-top:5px;
+			border:1px solid #FF3333;
+			background-color:#FF3333;
+			padding:5px;
+			font-size:10px;
+			line-height:10px;
+		}
+
+		.error_element {
+
+		}
+
+		.err_space {
+			position:relative;
+		}
+
+	</style>
+
+	<input type="hidden" name="search_postcode_url_id" value="/pia/membmng/AddrSearchAction.do">
+	<input type="hidden" name="addr1_name" value="prefectureCd">
+	<input type="hidden" name="addr2_name" value="addr2">
+	<input type="hidden" name="addr3_name" value="addr3">
+	<input type="hidden" name="postno1_name" value="postno1">
+	<input type="hidden" name="postno2_name" value="postno2">
+	<input type="hidden" name="path_context" value="">
+
+	<input type="hidden" name="membChgPattern" value="1">
+	<input type="hidden" name="comStlmntFlg" value="1">
+	<input type="hidden" name="lidNotdspFlg" value="0">
+	<input type="hidden" name="crStlmntFlg" value="1">
+	<input type="hidden" name="billingFuncNoCardFlg" value="0">
+	<input type="hidden" name="passShowFlg" value="0">
+	<input type="hidden" name="billingShowFlg" value="1">
+	<input type="hidden" name="trmvldYears" value="10">
+	<input type="hidden" name="chocomNm" value="電子マネー（ちょコム）">
+	<input type="hidden" name="escottAuthFlg" value="1" id="escottAuthFlg">
+	<input type="hidden" name="membmngRegisterPattern" value="PC_MEMBMNG_REGISTER_NORMAL">
+	
+
+	<span style="color:#FF1A00;">※</span>印は必須入力項目です。
+
+<div class="register_table_container main_m_master_m">
+	<!-- register_table_container -->
+
+		<table border="0" cellpadding="0" cellspacing="0" class="register_table input_table_set input_set_wide">
+
+			
+				
+				<tr>
+				<th>他サービスのIDを使用して<br />会員登録</th>
+				<td>
+					<dl class="section below">
+					
+						
+						
+							
+							<dt></dt>
+							<dd>
+							<a href="JavaScript:goSubmit();" title="Google" onclick="return checkSubmit();" onmousedown="document.forms[0].action='/pia/AuthRequest.do?clientId=Google';" onkeydown="linkChangeActionOnEnterKeyDown('/pia/AuthRequest.do?clientId=Google', event);">
+								<span class="item"><img src="https://image.pia.jp/common2/images/openid/google.gif" height="61" width="212" border="0" alt="Google"></span>
+							</a>
+							</dd>
+						
+							
+							<dt></dt>
+							<dd>
+							<a href="JavaScript:goSubmit();" title="Facebook" onclick="return checkSubmit();" onmousedown="document.forms[0].action='/pia/AuthRequest.do?clientId=Facebook';" onkeydown="linkChangeActionOnEnterKeyDown('/pia/AuthRequest.do?clientId=Facebook', event);">
+								<span class="item"><img src="https://image.pia.jp/common2/images/openid/facebook.gif" height="61" width="212" border="0" alt="Facebook"></span>
+							</a>
+							</dd>
+						
+							
+							<dt></dt>
+							<dd>
+							<a href="JavaScript:goSubmit();" title="Twitter" onclick="return checkSubmit();" onmousedown="document.forms[0].action='/pia/AuthRequest.do?clientId=Twitter';" onkeydown="linkChangeActionOnEnterKeyDown('/pia/AuthRequest.do?clientId=Twitter', event);">
+								<span class="item"><img src="https://image.pia.jp/common2/images/openid/twitter.gif" height="61" width="212" border="0" alt="Twitter"></span>
+							</a>
+							</dd>
+						
+					
+					
+					</dl>
+				</td>
+				</tr>
+				
+			
+
+			<tr class="row_name">
+			<th scope="row" abbr="お名前"><span class="required">※</span>お名前</th>
+			<td>
+				<dl class="section below">
+				<dt><label for="surname">姓</label></dt>
+				<dd><span class="item"><input type="text" name="lastNm" maxlength="10" value="" id="surname" style="IME-MODE: active" class="text short"></span></dd>
+				<dt><label for="name">名</label></dt>
+				<dd><span class="item"><input type="text" name="fastNm" maxlength="10" value="" id="name" style="IME-MODE: active" class="text short"></span></dd>
+				<dd class="annotation">(全角)</dd>
+				</dl>
+			</td>
+			</tr>
+
+			<tr class="row_kana">
+			<th scope="row" abbr="フリガナ"><span class="required">※</span>フリガナ</th>
+			<td>
+				<dl class="section below">
+				<dt><label for="surnamekana">セイ</label></dt>
+				<dd><span class="item"><input type="text" name="lastKn" maxlength="20" value="" id="surnamekana" style="IME-MODE: active" class="text short"></span></dd>
+				<dt><label for="namekana">メイ</label></dt>
+				<dd><span class="item"><input type="text" name="fastKn" maxlength="20" value="" id="namekana" style="IME-MODE: active" class="text short"></span></dd>
+				<dd class="annotation">(全角カタカナ)</dd>
+				</dl>
+			</td>
+			</tr>
+
+			<tr class="row_sex">
+			<th scope="row" abbr="性別"><label for="sex"><span class="required">※</span>性別</label></th>
+				<td><span class="divide"><span class="item"><input type="radio" name="sexTyp" value="1" class="radio">男</span>
+<span class="item"><input type="radio" name="sexTyp" value="2" class="radio">女</span>
+</span><div id="err_point_sex"></div></td>
+			</tr>
+
+			<tr class="row_birthday">
+			<th scope="row" abbr="生年月日"><span class="required">※</span>生年月日</th>
+			<td>
+				<span class="item">
+				<select name="birthdY" id="year" style="IME-MODE: disabled;width:110px"><option value="1900">1900</option>
+<option value="1901">1901</option>
+<option value="1902">1902</option>
+<option value="1903">1903</option>
+<option value="1904">1904</option>
+<option value="1905">1905</option>
+<option value="1906">1906</option>
+<option value="1907">1907</option>
+<option value="1908">1908</option>
+<option value="1909">1909</option>
+<option value="1910">1910</option>
+<option value="1911">1911</option>
+<option value="1912">1912</option>
+<option value="1913">1913</option>
+<option value="1914">1914</option>
+<option value="1915">1915</option>
+<option value="1916">1916</option>
+<option value="1917">1917</option>
+<option value="1918">1918</option>
+<option value="1919">1919</option>
+<option value="1920">1920</option>
+<option value="1921">1921</option>
+<option value="1922">1922</option>
+<option value="1923">1923</option>
+<option value="1924">1924</option>
+<option value="1925">1925</option>
+<option value="1926">1926</option>
+<option value="1927">1927</option>
+<option value="1928">1928</option>
+<option value="1929">1929</option>
+<option value="1930">1930</option>
+<option value="1931">1931</option>
+<option value="1932">1932</option>
+<option value="1933">1933</option>
+<option value="1934">1934</option>
+<option value="1935">1935</option>
+<option value="1936">1936</option>
+<option value="1937">1937</option>
+<option value="1938">1938</option>
+<option value="1939">1939</opti
+1ff8
+on>
+<option value="1940">1940</option>
+<option value="1941">1941</option>
+<option value="1942">1942</option>
+<option value="1943">1943</option>
+<option value="1944">1944</option>
+<option value="1945">1945</option>
+<option value="1946">1946</option>
+<option value="1947">1947</option>
+<option value="1948">1948</option>
+<option value="1949">1949</option>
+<option value="1950">1950</option>
+<option value="1951">1951</option>
+<option value="1952">1952</option>
+<option value="1953">1953</option>
+<option value="1954">1954</option>
+<option value="1955">1955</option>
+<option value="1956">1956</option>
+<option value="1957">1957</option>
+<option value="1958">1958</option>
+<option value="1959">1959</option>
+<option value="1960">1960</option>
+<option value="1961">1961</option>
+<option value="1962">1962</option>
+<option value="1963">1963</option>
+<option value="1964">1964</option>
+<option value="1965">1965</option>
+<option value="1966">1966</option>
+<option value="1967">1967</option>
+<option value="1968">1968</option>
+<option value="1969">1969</option>
+<option value="1970">1970</option>
+<option value="1971">1971</option>
+<option value="1972">1972</option>
+<option value="1973">1973</option>
+<option value="1974">1974</option>
+<option value="1975">1975</option>
+<option value="1976">1976</option>
+<option value="1977">1977</option>
+<option value="1978">1978</option>
+<option value="1979">1979</option>
+<option value="1980">1980</option>
+<option value="1981" selected>1981</option>
+<option value="1982">1982</option>
+<option value="1983">1983</option>
+<option value="1984">1984</option>
+<option value="1985">1985</option>
+<option value="1986">1986</option>
+<option value="1987">1987</option>
+<option value="1988">1988</option>
+<option value="1989">1989</option>
+<option value="1990">1990</option>
+<option value="1991">1991</option>
+<option value="1992">1992</option>
+<option value="1993">1993</option>
+<option value="1994">1994</option>
+<option value="1995">1995</option>
+<option value="1996">1996</option>
+<option value="1997">1997</option>
+<option value="1998">1998</option>
+<option value="1999">1999</option>
+<option value="2000">2000</option>
+<option value="2001">2001</option>
+<option value="2002">2002</option>
+<option value="2003">2003</option>
+<option value="2004">2004</option>
+<option value="2005">2005</option>
+<option value="2006">2006</option>
+<option value="2007">2007</option>
+<option value="2008">2008</option>
+<option value="2009">2009</option>
+<option value="2010">2010</option>
+<option value="2011">2011</option>
+<option value="2012">2012</option>
+<option value="2013">2013</option>
+<option value="2014">2014</option>
+<option value="2015">2015</option>
+<option value="2016">2016</option>
+<option value="2017">2017</option>
+</select><label for="year">年</label>
+				</span>
+				<span class="item">
+				<select name="birthdM" id="month" style="IME-MODE: disabled;width:110px"><option value="" selected>選択してください</option>
+<option value="01">01</option>
+<option value="02">02</option>
+<option value="03">03</option>
+<option value="04">04</option>
+<option value="05">05</option>
+<option value="06">06</option>
+<option value="07">07</option>
+<option value="08">08</option>
+<option value="09">09</option>
+<option value="10">10</option>
+<option value="11">11</option>
+<option value="12">12</option>
+</select><label for="month">月</label>
+				</span>
+				<span class="item">
+				<select name="birthdD" id="day" style="IME-MODE: disabled;width:110px"><option value="" selected>選択してください</option>
+<option value="01">01</option>
+<option value="02">02</option>
+<option value="03">03</option>
+<option value="04">04</option>
+<option value="05">05</option>
+<option value="06">06</option>
+<option value="07">07</option>
+<option value="08">08</option>
+<option value="09">09</option>
+<option value="10">10</option>
+<option value="11">11</option>
+<option value="12">12</option>
+<option value="13">13</option>
+<option value="14">14</option>
+<option value="15">15</option>
+<option value="16">16</option>
+<option value="17">17</option>
+<option value="18">18</option>
+<option value="19">19</option>
+<option value="20">20</option>
+<option value="21">21</option>
+<option value="22">22</option>
+<option value="23">23</option>
+<option value="24">24</option>
+<option value="25">25</option>
+<option value="26">26</option>
+<option value="27">27</option>
+<option value="28">28</option>
+<option value="29">29</option>
+<option value="30">30</option>
+<option value="31">31</option>
+</select><label for="day">日</label>
+				</span>
+				<div id="err_point_barth"></div>
+			</td>
+			</tr>
+
+			<tr class="row_mail">
+			<th scope="row" abbr="メインメールアドレス"><label for="mail1"><span class="required">※</span>
+				メールアドレス(ぴあ会員ID)
+				
+			</label></th>
+			<td>
+
+				<div class="above">
+				<span class="item"><input type="text" name="email1" maxlength="128" value="" id="mail1" style="IME-MODE: disabled" class="text long"></span>
+				<span class="annotation">＜半角英数字＞</span>
+				</div>
+				<div id="err_point_mail"></div>
+				<div class="below">
+				<span class="notice">確認のためもう一度、入力してください。</span>
+				<span class="item"><input type="text" name="email1Confirm" maxlength="128" value="" id="remail1" style="IME-MODE: disabled" class="text long"></span>
+				<span class="annotation">＜半角英数字＞</span>
+				</div>
+				<div id="err_point_mail2"></div>
+			</td>
+			</tr>
+
+			
+				<input type="hidden" name="idMailAddressLinkFlg" value="1">
+			
+			
+
+			<tr class="row_password">
+			<th scope="row" abbr="パスワード"><label for="password"><span class="required">※</span>パスワード</label></th>
+			<td>
+				<div class="above">
+				
+				<span class="notice">パスワードはメールアドレス(ぴあ会員ID)とは異なる文字列にしてください。<br />同一文字列・生年月日・車のナンバー・電話番号・住所番地またはそれらを並び替えたものなど、第三者に推測されやすいパスワードはお避けください。</span>
+				
+				<span class="item"><input type="password" id="password" name="passwd" maxlength="16" class="text long" /></span>
+				<span class="annotation">(半角英数字で6文字以上16文字以内)</span>
+				</div>
+				<div id="err_point_passwd"></div>
+				<div class="below">
+				<span class="notice">確認のためもう一度、入力してください。</span>
+				<span class="item"><input type="password" id="password2" name="passwdConfirm" maxlength="16" class="text long" /></span>
+				<span class="annotation">(半角英数字で6文字以上16文字以内)</span>
+				</div>
+				<div id="err_point_passwd2"></div>
+			</td>
+			
+			</tr>
+
+			
+
+			
+
+			<tr class="row_address" >
+				<th scope="row" abbr="ご住所">ご住所</th>
+				<td>
+					<dl class="section">
+						<dt><span class="required">※</span>郵便番号</dt>
+						<dd>
+						<span class="item">
+						<input type="text" name="postno1" maxlength="3" value="" id="zipcode3" style="IME-MODE: disabled" class="text veryshort">
+						 - <input type="text" name="postno2" maxlength="4" value="" id="zipcode2" style="IME-MODE: disabled" class="text veryshort">
+						 </span>
+						<a id="zip_search" style="cursor: pointer;"><img src="https://image.pia.jp/common2/images/register/button/address_search.gif" height="27" width="78" class="button" alt="住所検索"></a>
+						<input type="hidden" name="post_check"/>
+						<div name="post_check" id="err_point_post_check"></div>
+						<div id="err_point_post"></div>
+						</dd>
+						</dl>
+					<dl class="section">
+						<dt><label for="prefectures" class="nonsapce"><span class="required">
+							</span></label>都道府県</dt>
+						<dd>
+							<span class="item">
+								<select name="prefectureCd" id="prefectures"><option value="">（都道府県）</option>
+<option value="01">北海道</option>
+<option value="02">青森県</option>
+<option value="03">岩手県</option>
+<option value="04">宮城県</option>
+<option value="05">秋田県</option>
+<option value="06">山形県</option>
+<option value="07">福島県</option>
+<option value="08">�
+1ff8
+��城県</option>
+<option value="09">栃木県</option>
+<option value="10">群馬県</option>
+<option value="11">埼玉県</option>
+<option value="12">千葉県</option>
+<option value="13">東京都</option>
+<option value="14">神奈川県</option>
+<option value="15">新潟県</option>
+<option value="16">富山県</option>
+<option value="17">石川県</option>
+<option value="18">福井県</option>
+<option value="19">山梨県</option>
+<option value="20">長野県</option>
+<option value="21">岐阜県</option>
+<option value="22">静岡県</option>
+<option value="23">愛知県</option>
+<option value="24">三重県</option>
+<option value="25">滋賀県</option>
+<option value="26">京都府</option>
+<option value="27">大阪府</option>
+<option value="28">兵庫県</option>
+<option value="29">奈良県</option>
+<option value="30">和歌山県</option>
+<option value="31">鳥取県</option>
+<option value="32">島根県</option>
+<option value="33">岡山県</option>
+<option value="34">広島県</option>
+<option value="35">山口県</option>
+<option value="36">徳島県</option>
+<option value="37">香川県</option>
+<option value="38">愛媛県</option>
+<option value="39">高知県</option>
+<option value="40">福岡県</option>
+<option value="41">佐賀県</option>
+<option value="42">長崎県</option>
+<option value="43">熊本県</option>
+<option value="44">大分県</option>
+<option value="45">宮崎県</option>
+<option value="46">鹿児島県</option>
+<option value="47">沖縄県</option>
+</select>
+							</span>
+							</dd>
+						</dl>
+					<dl class="section">
+						<dt><label for="city1"><span class="required"></span>市区町村</label></dt>
+						<dd>
+							<span class="item">
+							<input type="text" name="addr2" maxlength="26" size="56" value="" id="city1" style="IME-MODE: active" class="text verylong">
+							</span>
+							<span class="annotation">(全角)</span>
+							<div id="err_point_add2"></div>
+							</dd>
+						</dl>
+					<dl class="section">
+						<dt><label for="city2"><span class="required"></span>町名番地</label></dt>
+						<dd>
+							<span class="item"><input type="text" name="addr3" maxlength="26" size="56" value="" id="city2" style="IME-MODE: active" class="text verylong"></span>
+							<span class="annotation">(全角)</span>
+							
+							<span class="notice">番地のご入力がありませんとチケットをお届けできません。<br />必ず番地をご入力ください。番地がない方は「無番地」とご入力ください。</span>
+							
+							<div id="err_point_add3"></div>
+							</dd>
+						</dl>
+					<dl class="section building below">
+						<dt><label for="city3"><span class="required"></span>ビル・マンション名・号室</label></dt>
+						<dd>
+							<span class="item"><input type="text" name="addr4" maxlength="26" size="56" value="" id="city3" style="IME-MODE: active" class="text verylong"></span>
+							<span class="annotation">(全角)</span>
+							<div id="err_point_add4"></div>
+							</dd>
+						</dl>
+					</td>
+			</tr>
+
+			<tr class="row_phone">
+			<th scope="row" abbr="電話番号"><span class="required">※</span>電話番号</th>
+			<td>
+
+				<div class="section below">
+				<span class="item">
+				<input type="text" name="telno1" maxlength="5" size="8" value="" id="tel1" style="IME-MODE: disabled" class="text veryshort"> -
+				<input type="text" name="telno2" maxlength="4" size="8" value="" id="tel2" style="IME-MODE: disabled" class="text veryshort"> -
+				<input type="text" name="telno3" maxlength="4" size="8" value="" id="tel3" style="IME-MODE: disabled" class="text veryshort">
+				</span>
+				
+				<span class="annotation">(半角数字)</span>
+				
+				</div>
+			<div id="err_point_telno"></div>
+			</td>
+			</tr>
+
+			
+
+			
+			<tr class="row_payment">
+			<th scope="row" abbr="決済方法"><span class="required"></span>決済方法</th>
+			<td>
+				
+				
+					<p>ここで決済方法を入力せずに会員登録を続けることができます。<br />チケットの販売方法により、決済方法が限定されることがございますので、クレジットカードもしくはちょコムをご登録することをおすすめします。ご登録の際は、ご利用ご本人名義のクレジットカードにてお願いします。<br />&nbsp;</p>
+				
+				
+				<dl class="payment">
+					<dt class="payment_select">
+					<select name="cardKndTyp" onchange="checkCardKndTyp()" id="cardKndTyp"><option value="" id="kessai"><label for="kessai">選択してください</label></option>
+							
+								<option value="3">クレジットカード</option>
+							
+							
+								<option value="4" id="money"><label for="money">ちょコム</label></option></select>
+					</dt>
+
+					
+					<dd class="payment_detail">
+
+						<dl class="section" id="card_label_section">
+						<dt>決済名</dt>
+						<dd>
+						<span class="item"><input type="text" name="cardLabel" maxlength="10" value="" style="IME-MODE: active" class="text short"></span>
+						<span class="annotation">例：A社のカード</span>
+						<div id="err_point_card_label"></div>
+						</dd>
+						<dd class="notice" id="chocomOnlyMessage">
+							あらかじめ、ちょコムのホームページにて、ちょコムのご登録をお願いします。
+						</dd>
+						</dl>
+
+						<dl class="section">
+						<dt><label for="cardnum2">カード番号</label></dt>
+						<dd>
+						<span class="item"><input type="text" name="cardNo" maxlength="16" value="" id="cardnum2" style="IME-MODE: disabled" class="text short"></span>
+						<span class="annotation">例：0123456789012345</span>
+						<div id="err_point_card_no"></div>
+						</dd>
+						</dl>
+
+						<dl class="section">
+						<dt>カード名義</dt>
+						<dd>
+						<span class="item"><input type="text" name="cardHolderNm" value="" id="cardholdername" style="IME-MODE: disabled" class="text short"></span>
+						<span class="annotation">(半角英大文字) 例：PIA TARO</span>
+						<div id="err_point_card_holder"></div>
+						</dd>
+						</dl>
+
+						<dl class="section">
+						<dt>有効期限</dt>
+						<dd>
+						<span class="item">
+							<select name="cardTrmvldMonth" id="month2"><option value="" selected>選択してください</option>
+<option value="01">01</option>
+<option value="02">02</option>
+<option value="03">03</option>
+<option value="04">04</option>
+<option value="05">05</option>
+<option value="06">06</option>
+<option value="07">07</option>
+<option value="08">08</option>
+<option value="09">09</option>
+<option value="10">10</option>
+<option value="11">11</option>
+<option value="12">12</option>
+</select>
+				
+				月
+				
+							<span class="slash">/</span>
+							<select name="cardTrmvldYear" id="year2"><option value="" selected>選択してください</option>
+<option value="2017">2017</option>
+<option value="2018">2018</option>
+<option value="2019">2019</option>
+<option value="2020">2020</option>
+<option value="2021">2021</option>
+<option value="2022">2022</option>
+<option value="2023">2023</option>
+<option value="2024">2024</option>
+<option value="2025">2025</option>
+<option value="2026">2026</option>
+<option value="2027">2027</option>
+</select>
+				
+				年
+				
+						</span>
+						<span class="annotation">例：「08/12」=2012年8月</span>
+						<div id="err_point_card_trm"></div>
+						</dd>
+						</dl>
+
+						
+						<dl class="section below security_code">
+						<dt>セキュリティコード</dt>
+						<dd>
+							<div class="above">
+							<!-- TODO sonmoku-goo 2009/11/19　セキュリティコードは3桁なのにMaxlengthは4なのは？ -->
+							<span class="item"><input type="password"  name="scrtyCd" style="IME-MODE: disabled" maxlength="4" class="text veryshort" /></span>
+							<span class="annotation">例：123</span>
+							<div id="err_point_scrtyCd"></div>
+							</div>
+							<div class="below">
+							<p>カード裏面署名欄の数字末尾３桁をご入力下さい。<br />
+							<span class="link"><a href="/pia/template1/exp1/security.do" title="セキュリティコードとは。">セキュリティコードとは</a></span></p>
+							<
+1ff8
+span class="input_vertical_middle"><input type="checkbox" name="scrtyCdexist" value="1"/>※カード裏面にセキュリティコードがないお客様はこちらにチェックしてください</span>
+							</div>
+						</dd>
+						</dl>
+						<span></span>
+						<input type="hidden" name="authAgree" id="authAgree" value="2" onclick="nextPage()"/>
+						
+					</dd>
+					
+				</dl>
+
+			</td>
+			</tr>
+			
+
+			
+			<tr class="row_maildeliver_permission">
+			
+			
+			<th scope="row" abbr="メール配信設定"><span class="required">※</span>メール配信設定</th>
+			<td>
+				<div class="above">
+				<dl>
+				<dt>
+				
+					 ぴあからのお知らせ<br/>ご希望の公演に関連するチケット情報など、ぴあがお客様へおすすめする情報をお送りします。<br/>
+					<span class="caption">(適切と判断した第三者の商品・サービスの広告案内などの販売促進活動含む）</span>
+				
+			
+				
+				</dt>
+				<dd>
+			
+				<span class="item"><label><input type="radio" name="sendMembNewsMlFlg" value="1" checked="checked" id="yes" class="radio">受信する</label></span>
+				<span class="item"><label><input type="radio" name="sendMembNewsMlFlg" value="0" id="no" class="radio">受信しない</label></span>
+				<span class="notice notice_sendmemb">※重要なお知らせにつきましては許諾に関わらずお届けいたします。</span>
+			
+			
+				<div id="err_point_sendMembNewsMlFlg"></div>
+				</dd>
+				</dl>
+				</div>
+
+				
+					<div class="below">
+					<dl>
+					<dt>ぴあメールマガジンを受信しますか？</dt>
+					<dd>
+					<span class="item"><input type="radio" name="sendMailMagazineMlFlg" value="1" checked="checked" id="sendMailMagazineMlFlgYes" class="radio">はい</span>
+					<span class="item"><input type="radio" name="sendMailMagazineMlFlg" value="0" id="sendMailMagazineMlFlgNo" class="radio">いいえ</span>
+					<div id="err_point_sendMailMagazineMlFlg"></div>
+					</dd>
+					</dl>
+					</div>
+				
+			</td>
+			</tr>
+
+		</table>
+
+	</div>
+	<!-- /register_table_container -->
+
+	<div class="register_confirm main_m_master_m"><input type="image" name="" src="https://image.pia.jp/common2/images/register/button/confirm.jpg" height="67" width="424" onmousedown="this.form.action='/pia/membmng/NT0202S03NextAction.do';" onkeydown="buttonChangeActionOnEnterKeyDown('/pia/membmng/NT0202S03NextAction.do', event ,this);" id="nextBt" alt="下記の利用規約に同意して確認画面へ"></div>
+
+</form>
+
+	<!-- terms -->
+	<div class="terms_container main_m_master_m">
+		<textarea name="membAgreement" cols="60" rows="10" readonly="readonly">----------------
+ぴあ会員規約
+----------------
+第1条：(本規約の範囲及び変更)
+1.本規約は、ぴあ株式会社（以下、「当社」といいます）が運営するインターネットホームページ（携帯端末からのアクセスを含みます）で提供する登録制サービス「ぴあ会員サービス」（以下、「本サービス」といいます）の利用に関し、当社及びぴあ会員（以下、「会員」といいます）に適用されるものとします。
+2.本規約に添付されている個別規定及び今後ご提供する新サービス毎に規定する個別規定は、本規約の一部を構成します。
+3.第3条で定める本サービス入会契約の成立後、会員は本規約を遵守する義務を負うものとします。
+4.当社は合理的な範囲・方法により、会員の各別の承諾を得ることなく本規約を変更でき、会員は変更後の本規約も予めこれを承諾し遵守するものとします。
+
+第2条：(入会契約の申込)
+1.本サービスは、会員のみが利用することができるものとします。
+2.本サービスの利用（以下、「入会」といいます）を希望する人（以下、「入会希望者」といいます）は、インターネット（携帯端末からのアクセスも含みます）で提供されるチケットぴあサービス利用規約、本規約を承諾した上で、所定の手続きに従って、本人自身で入会契約締結を申し込むものとします。
+3.入会希望者が未成年者である場合、入会希望者は、本サービスに入会すること及び本サービスを利用することについて、親権者など法定代理人の事前の同意を得るものとします。
+4.入会希望者は決済手段として登録したクレジットカード会社等の会員規約に従うものとし、クレジットカード等の情報登録の際に該当するクレジットカード会社等において認証確認が行なわれることに予め同意するものとします。
+
+第3条：(入会契約の成立)
+1.入会希望者が、第2条に規定する入会契約の申込を行い、これに対して当社が本サービス利用のためのID及びパスワードを付与して前記申込を承諾した時点をもって、入会契約が成立し、会員登録が完了したものとします。
+2.当社は、入会希望者が以下の項目に該当する場合、当該入会契約の申込を承諾しない場合があります。
+a.入会希望者が既に会員になっている場合
+b.入会希望者の入会申込内容が他の会員の登録情報の全部又は一部と同じである場合
+c.入会希望者が、過去において、本規約違反等により会員資格の取消等の処分を受けたことがある場合
+d.申込内容に虚偽、誤記または記入もれがあった場合
+e.未成年者である入会希望者が親権者など法定代理人の同意を得ていない場合
+f.入会希望者は決済手段につき、クレジットカード会社、金融機関等により、利用停止処分等が行われている場合
+g.入会希望者が、当社の提携サービスにおいて利用資格の取消等の処分を受けたことがある場合
+h.その他、合理的な事由により、当社が入会契約の締結を不適当と判断する場合
+
+第4条：(連絡事項)
+1.本規約の変更の通知、その他当社から会員への通知は、電子メール、チケットぴあホームページ上での一般掲示、またはその他、当社が適当と認める方法により行われるものとします。
+2.前項の通知が電子メールで行われる場合、当社は会員が予め届け出た電子メールアドレス宛に発信した時点をもって会員への通知が完了したものとみなします。会員は、当社が電子メールで発信した通知を遅滞なく閲覧する義務を負うものとします。
+
+第5条：(登録内容の変更・削除等)
+1.会員は、入会契約の申込や購入の際に届け出た内容に変更があった場合には、速やかに所定の方法により当該変更の届出を当社に対して行うものとします。
+2.会員は、前項の届出を怠ったことにより、当社からの通知または物品の送付が不到達となっても、前条第2項の場合を除き、通常到達すべきときに到達したとみなされることを予め異議なく承認するものとします。
+3.第１項の届出を怠ったことによる会員の損害について、当社は一切の責任を負いません。また、会員が前記届出を怠ったことにより当社その他の第三者が被った損害について、会員は全ての責任を負うものとします。
+4.会員は、入会契約の申込や購入の際に届け出た内容または第1項の変更の届け出内容に間違いがあった場合（電話番号や電子メールアドレス等を誤ってまたは故意に第三者の情報を登録された場合など）に必要な範囲において、何ら通知をすることなく、当社が当該届け出内容の変更を行うことを了承するものとします。
+5.当社は、事前に通知することなく、2年間本サービスにおいて利用されなかった又は�
+1ff8
+��効期限を過ぎたクレジットカード情報を削除する場合があります。
+
+第6条：(退会)
+1.会員からの申し出の無い限り、会員有効期限は無期限とし、自動継続されるものとします。
+2.会員が退会を希望する場合には、所定の方法により会員自ら退会の届出を当社に対して行うものとします。その際、当該会員は当社に対する債務の全額を直ちに支払うものとします。
+3.当社は、理由の如何を問わず、既に支払われた料金等の払い戻し義務を一切負わないものとします。
+4.当社は、会員からの退会の届出を受領してから1年間は会員の個人情報、利用履歴を保有し管理するものとします。
+5.会員は、退会後は、会員ID等を利用して、本サービスおよび連携するサービスを受けることができなくなるものとします。ただし、個別規定：チケット販売第14条に基づく、チケットの受け取り及び払戻しに関してはこの限りではありません。
+
+第7条：(会員資格の停止・取消)
+1.会員が以下の項目に該当する場合、当社は、事前に通知することなく、直ちに当該会員の会員資格を停止または取り消すことができるものとします。また、会員資格が取り消された場合、当該会員は、当社に対する債務の全額を直ちに支払うものとします。また、当社は、理由の如何を問わず、既に支払われた料金等の払い戻し義務を一切負わないものとします。
+a.第3条第2項に定める事項に該当する場合
+b.第13条で禁止している事項に該当する行為を行った場合
+c.料金等の支払債務の履行遅滞または履行不能が発生した場合
+d.購入契約の成立にもかかわらず、振込など入金手続きをされない場合
+e.手段の如何を問わず、本サービスの運営を妨害した場合
+f.クレジットカード会社、収納代行会社、金融機関等により、会員の指定したクレジットカードや支払口座の利用が停止となった場合
+g.一個人が会員登録を多重にしていると当社が判断した場合
+h.営利を目的として、購入もしくは譲り受けたチケットまたはチケット引換え時に必要な番号を第三者に販売ないし譲渡した場合
+i.ぴあ会員のID及びパスワードを用いて本サービスへのログインを2年以上行わず、今後の本サービスのご利用が見込めないと当社が判断した場合。
+j.本規約に違反した場合
+k.その他、合理的な事由により会員として不適切と当社が判断した場合
+2.会員が前項各号に該当する場合、当該会員は当該行為により当社その他の第三者が被った損害を賠償する責めを負うものとします。
+3.会員は、会員資格の停止・取り消しが行われた場合、会員ID等を利用して、本サービスおよび連携するサービスを受けることができなくなるものとします。ただし、個別規定：チケット販売第14条第2項に基づく、チケットの払い戻しに関してはこの限りではありません。
+
+第8条：(利用前の準備)
+1.会員は、自己の責任と負担において、本サービスを利用するために必要な通信機器、ソフトウェア、電話利用契約及びインターネット接続契約等を準備するものとします。また、本サービス利用に関わる一切の通信料、接続料等は会員が負担するものとします。
+2.携帯端末でのご利用の場合、携帯端末の新規発売機種等、端末によっては本サービスのご利用に対応するまで時間がかかる場合や対応できない場合があることに予め了承するものとします。
+3.会員は当社のドメイン（pia.co.jp）からの電子メールを常に受信できるよう設定するものとします。当社は、当社からの電子メールを一度でも受信拒否した会員に対し、その後の電子メールでの連絡を控えることがあります。なお、受信拒否を解除した会員はその旨を速やかに当社に届け出るものとします。
+
+第9条：(ID及びパスワードの管理)
+1.会員は、当社が会員に付与するID及びパスワードの管理責任を負うものとします。
+2.会員は、当社指定のホームページから、ぴあ会員のID及びパスワードを用いて本サービスを利用することができます。
+3.当社は、入力されたID及びパスワードをもって、会員の本人確認を行います。ID及びパスワードが登録されたものと一致することを当社が確認した場合、当該利用が会員本人による利用であるとみなします。
+4.ID及びパスワードの管理不十分、使用上の過誤、第三者の使用等による損害の責任は、会員が負うものとし、当社は一切の責任を負いません。
+5.会員は、ID及びパスワードが盗まれたり、第三者に使用されていることを知った場合には、直ちに当社にその旨を連絡するとともに、当社からの指示がある場合には、これに従うものとします。
+
+第10条：(会員情報の利用目的)
+1.当社は、会員よりご提供を受けた個人情報及びその個人の固有の情報（嗜好情報等も含みます）を、下記の目的に利用できるものとします。なお、下記の目的以外で個人情報を利用する場合は、改めてその目的を通知するものとします。
+a.当社が取り扱うチケットや本・ＣＤ・ＤＶＤなどの商品・サービスの販売・提供（受付・代金決済・配送または当日引換等）
+b.上記aに付随するサービス（公演の変更・中止・追加発売・次回発売などの会員ページ・電子メール、郵便及び電話等による案内や業務上必要と判断した確認のための連絡など）
+c.当社サービスに関する情報の案内や当社が適切と判断した企業の商品・サービス等の広告案内などの営業活動や販売促進活動
+d.当社サービスに関するユーザーサポート（お問合せ対応など）
+e.公演の主催者及び運営会社並びに公演出演者所属事務所等（以下、「興行主催者」といいます）が、公演の変更・中止の案内やチケット引換の際の本人確認及び興行主催者が提供する公演・商品・サービスの案内などを行うための当該公演チケット購入申込者及びチケット利用者の個人情報の興行主催者への提供
+f.その他の当社サービスの開発・提供の目的で実施する各種アンケート調査、キャンペーン（各種プレゼント等）の実施
+g.営業活動や新たなサービス開発の参考とするため、個人を識別または特定できない様態にて集計した統計資料の作成及びそれらを用いたマーケティング分析
+h.システムの運用・管理やお問合せ対応のためのアクセス情報（インターネット・携帯サイト・電話等）の利用及び記録
+
+第11条：(会員情報の第三者提供)
+1.当社は、会員が入会契約の申込を行った際に知り得た情報、または会員が本サービスを利用する過程において知り得た情報に関し、以下の項目に該当する場合を除き、正当な理由なく第三者に対して開示しないものとします。（第12条cの場合を除きます）
+a.会員が、個人情報（会員の氏名、住所、電話番号、性別、年齢、電子メールのアドレス等）の開示について同意している場合
+b.当社が、本サービスの利用動向を把握する目的で収集した統計情報を、会員の特定がで
+1ff8
+きない形式に加工して開示する場合
+c.本サービスにより購入したチケットを用いて会場に入場する際の本人確認のため、興行主催者及び会場の管理者にチケット購入者及びチケット利用者の個人情報の全部または一部（会員の氏名、住所、電話番号、性別、年齢等）を提供する場合
+d.本サービスにてチケットを購入した会員やチケット利用者に対して、興行主催者が、公演中止・延期・内容変更等の連絡や、それに伴う払い戻し業務を行うため、当社から興行主催者にチケット購入者及びチケット利用者の個人情報の全部または一部（氏名、住所、電話番号、電子メールアドレス等）を提供する場合
+e.本規約に違反して、チケットを購入した会員やチケット利用者に対して、興行主催者が連絡をするため、当社から興行主催者にチケット購入者及びチケット利用者の個人情報の全部または一部（氏名、住所、電話番号、電子メールアドレス等）を提供する場合
+f.本サービスにてチケットを購入した会員やチケット利用者に対して、興行主催者が提供する公演・商品・サービスの案内などを行うため、当社と個人情報の保護の契約を締結した当該興行主催者にチケット購入申込者及びチケット利用者の個人情報の全部または一部(氏名、住所、電子メールアドレス等)を提供する場合
+g.他の会員、第三者または当社の著作権、財産権、プライバシー、名誉、信用もしくはその他の権利を侵害する場合、及び侵害するおそれのある場合
+h.前号の他、他の会員、第三者または当社に不利益もしくは損害を与える場合、及び与えるおそれのある場合
+i.法令により開示が認められている場合
+j.法令により開示が求められた場合
+k.犯罪捜査のために警察等の公的機関から要求された場合
+l.会員が当社が提携するクレジットカード会社（以下、「提携カード会社」といいます）から提携クレジットカードの発行を受けた場合に、提携カード会社が当該提携クレジットカードの基本的な機能や付帯サービスの提供、提携カード会社及び加盟店等の事業における市場調査・商品開発を行うために、当該会員の個人情報の全部または一部（氏名、住所、電話番号、電子メールアドレス等）を提携カード会社に提供する場合
+m.その他、本サービスの運営上必要な場合
+
+第12条：(サービスの運営)
+1.当社は、本サービスの運営に関し、完全且つ独自の裁量を有しており、以下の項目を実施することができるものとします。
+a.本サービス上で行われる、掲示板等の利用の監視及びこれらのアクセスの制限
+b.掲示板等の利用において、一定期間以上、会員からアクセスがない情報の削除
+c.本サービスの販売促進の目的において、掲示板等にアップロードされた情報やファイルを、アップロードした会員の承諾を得ることなく、第三者に提供すること。この場合、会員は当社に対し、期間無制限、無償にて当該情報やファイルを使用許諾（再使用許諾を含みます）するとともに、当社及び当社が提供した第三者に対し著作者人格権その他の権利を行使せず、または行使させないこととします。
+
+第13条：(禁止事項)
+1.会員は、本サービスの利用にあたって、以下の行為を行ってはならないものとします。
+a.他の会員、第三者または当社の著作権、商標権、財産権、肖像権、プライバシー、名誉、信用もしくはその他の権利を侵害する行為、及び侵害するおそれのある行為
+b.上記aの他、他の会員、第三者または当社に不利益もしくは損害を与える行為、及び与えるおそれのある行為
+c.他の会員、第三者または当社を誹謗中傷する行為
+d.公序良俗に反する行為、もしくはそのおそれのある行為、または公序良俗に反する情報を他の会員または第三者に提供する行為
+e.犯罪的行為、もしくは犯罪的行為に結び付く行為、またはそのおそれのある行為
+f.選挙期間中であるか否かを問わず、選挙運動またはこれに類する行為
+g.性風俗、宗教、政治に関する活動を行う行為
+h.当社の承諾なく、本サービスを通じて、もしくは本サービスに関連して、営利を目的とする行為、またはその準備を目的とした行為
+i.IDまたはパスワードを不正に使用する行為
+j.本サービスの円滑な運営を妨げる行為、その他本サービスに支障をきたす恐れのある行為
+k.コンピュータウィルス等の有害なプログラムを送信、提供または書き込みその他の使用する行為
+l.自動入力等を行うソフトウエアの使用、その他当社が不当とみなした通常とは異なる方法により、本サービスを利用しようとする行為
+m.本サービスに接続されている他のコンピュータ・システムまたはネットワークへの不正アクセスを試みる行為
+n.法令に違反する、または違反するおそれのある行為
+o.その他、当社が不適切と判断する行為
+
+第14条：(著作権)
+1.会員は、権利者の許諾を得ないで、いかなる方法においても、本サービスを通じて提供される情報またはファイルについて、著作権法で認められる会員個人の私的利用の範囲を超えて、使用することはできないものとします。
+
+第15条：(サービスの中止・中断・変更等)
+1.当社は、以下の事項に該当する場合、本サービスの運営を中止、中断、変更、停止、廃止、遅滞できるものとします。
+a.本サービスのシステムの保守を定期的にまたは緊急に行う場合
+b.戦争、暴動、騒乱、労働争議、地震、噴火、洪水、津波、火災、停電その他の非常事態により、本サービスの提供が通常どおりできなくなった場合
+c.通信事業者のサービスの中止・中断・変更等があった場合
+d.その他、当社が本サービスの運営上、一時的な中断が必要であると判断した場合
+2.当社は、前項に基づく本サービスの中止、中断、変更、停止、廃止、遅滞について、会員、または第三者に対し何らの責任も負わないものとします。
+
+第16条：(免責事項)
+1.当社は、本サービスの各種情報の提供、その他本サービスに関連して発生した会員、または第三者の損害について、本規約に別段の定めがある場合をのぞき、過去3ヶ月間に会員が当社に支払った対価及び各種手数料額又は1千円のいずれか大きい金額を超えて責任を一切負わないものとします。ただし、当該損害が当社の故意または重過失により発生した場合は除きます。また、本サービスのご利用は、全て会員の責任において行われるものとします。なお、未成年者による本サービスのご利用は、親権者など法定代理人の同意と責任において行われるものとします。
+2.当社は、会員が本サービスのご利用に当たり入力、送信した個人情報については、暗号化処理等を行い、厳重に管理し機密保持に十分な注意を払いますが、情報の漏洩、消失、他者による改ざん等が完全に防止されることの保証は行わないものとします。
+3.当社は、本サービス内容、及び本サービ�
+1ff8
+�にて提供する情報やサービス、及び会員が、本サービスや当社がお送りした電子メール等を通じて得る情報等に関して、その安全性、正確性、確実性、有用性、最新性、目的適合性、合法性、道徳性等のいかなる保証も行うものではありません。
+4.当社は、本サービスからリンクされている各サイトに含まれている情報、サービス等については、一切関知しておらず、一切の責任を負わないものとします。
+5.当社は、本サービスにより販売されるチケット等の販売数量が会員の全ての購入希望を満たすことを保証するものではなく、また、本サービスにより販売されるチケット等に記載された内容が真実であること（記載どおりに挙行されることを含みます）についていかなる保証も行わないものとします。
+6.当社は、当社の責任が、会員が購入時に登録した連絡先へ連絡すること、及び購入時に指示した送付先へ商品を配送等することに限られるものとし、本サービスに関して責任を負わないものとします。
+7.当社は、ある会員の行為により他の会員、または第三者が被った損害について、何らの責任も負わないものとします。
+8.当社は、会員が当社からの電子メールの受信拒否をしたこと、または受信拒否解除の連絡を怠ったことにより、会員または第三者に生じた損害について、一切の責任を負わないものとします。
+
+第17条：(準拠法)
+1.本規約の成立、履行及び解釈に関しては、日本法が適用されるものとします。
+
+第18条：(管轄裁判所)
+1.本サービスに関連して、会員と当社との間で紛争が生じた場合には、当事者間において誠意をもって解決するものとします。
+2.協議をしても解決しない場合、東京地方裁判所または東京簡易裁判所を第一審の専属的合意管轄裁判所とします。
+付則：本規約は、日本標準時 2003年10月16日（午前10時）より実施するものとします。
+2004年 3月25日一部改正、同日実施
+2004年12月 1日一部改正、同日実施
+2007年10月 1日一部改正、同日実施
+2008年 1月 1日一部改正、同日実施
+2010年 3月 8日一部改正、同日実施
+2010年 9月16日一部改正、同日実施
+2011年 1月31日一部改正、同日実施
+2013年10月 1日一部改正、同日実施
+2016年 1月 4日一部改正、同日実施
+2017年 2月 6日一部改正、同日実施
+以上
+
+----------------
+個別規定：チケット販売
+----------------
+
+第1条：(販売方法)
+1.当社は、興行主催者より、その販売方法の指示に基づき、チケット販売の業務を委託されております。必要に応じて販売枚数や販売方法に制限を設ける場合があります。
+
+第2条：(チケット販売サービス)
+1.本サービスにおいて、会員に購入いただけるチケットは、当社コンピュータ・オンライン・システムにて取り扱いのあるチケット（一部を除く）を対象とし、なおかつ興行主催者よりチケットぴあでの販売を委託されているチケットのみとなります。
+2.チケットの購入に際しては、ぴあ会員の登録が必要となり、会員登録完了により本個別規定が適用されます。
+
+第3条：(購入契約の成立)
+1.会員は、所定の手続きに従って購入申込をするものとし、当該申込手続き完了をもって、原則として購入契約の成立とします。
+2.購入申込手続き完了の告知は、ホームページ上の購入履歴画面にて告知します。会員はホームページ上の購入履歴画面を遅滞なく確認する義務を負うものとし、確認の遅滞または確認の不能等により会員または第三者に生じた損害に対し、当社は一切の責任を負いません。あわせて当社より補足的に購入確認の電子メールを登録の電子メールアドレス宛にお送りいたしますが、電子メールアドレスの登録情報の誤り、判読不可能な文字化け現象等、申込内容に何らかの不具合が生じて電子メールを送信できない場合や、電子メールの不達・誤達・遅達・受信拒否（ぴあ会員規約第８条第3項を参照）等により電子メールが届かなかった場合でも当社は一切責任を負いません。
+
+第4条：(料金の支払い)
+1.チケットを購入した場合には、会員はチケット代金の他、当社の定めるサービス利用料として特別販売利用料、特別チャージ、システム利用料、支払いに関わる手数料や、配送や店頭引取などチケット引き渡しに関わる利用料等、利用するサービスの必要料金を購入時に支払うものとします。
+2.会員は支払方法について、当社が購入申込時に指定する決済手段の中から選択するものとし、クレジットカードやNTTスマートトレード株式会社の電子マネー「ちょコム」の場合は購入契約成立時に即時決済し、決済代行サービス「イーコンテクスト決済」「ぴあ店舗決済」「セブン-イレブン決済」「サークルK・サンクス決済」の場合は当社の定める期日までに当該料金をお支払いいただくものとします。
+3.当社は支払方法について必要に応じ制限を設けることがあります。また、当社が定める支払方法の変更可能期間を過ぎてからの、会員の事情による支払方法の変更は一切できません。
+4.購入契約の成立にもかかわらず、入金手続きがなかった場合は、当社が定める入金締切期日の経過をもって当社は契約を解除することができ、当該会員の会員資格の剥奪をし、以降の当社サービスの利用をお断りすることがあります。
+5.当社は、当社が適当と判断する方法にて会員に事前に通知することにより、各種利用料金の追加・変更及び支払方法を変更できるものとします。
+
+第5条：(チケットの引き渡し)
+1.チケット購入成立後の会員へのチケットの引き渡しは、購入の際に登録頂いた会員の住所への配送か、チケットぴあ店舗または提携コンビニエンスストア等当社指定の店頭での引き取りに限るものとし、会員は購入申込時に選択するものとします。当社は引取方法について必要に応じ制限を設けることがあります。
+2.当社が定める引取方法の変更可能期間を過ぎてからの、会員の事情による引取方法の変更は一切できません。
+3.配送での引き取りについて、チケットが郵便局での保管期間を過ぎたり、または会員の住所、氏名等のご登録内容に不備があり、当社へ戻ってきた場合、当社は原則として再配送を行い、その場合は会員から別途再配送の料金を申し受けます。また、配送予定日から１週間経過してもチケットが届かない場合、チケットぴあメールセンターまでお問い合わせ下さい。
+4.店頭での引き取りの場合、会員は当社指定の方法で、当社指定の期限または公演日までに発券して引き取るものとします。
+5.会員の事情によりチケットをお受け取りになられない場合でも、当社はチケット代金、当社の定めるサービス利用料、支払に関する手数料、及び引き渡しに関する利用料等の返金は一切行いません。
+
+第6条：(販売・引き渡しの拒否)
+1.当社は、会員が以下の事項に該当する場合、会員へのチケットの販売、ま�
+1ff8
+�はチケットの引き渡しをお断りする場合がございます。その場合、当社は、事前に通知することなく、直ちに当該会員の会員資格を停止または剥奪ができるものとします。
+a.ぴあ会員規約第3条第2項に定める事項に該当する場合
+b.会員が当社の定める事項について虚偽の申告をした場合、または必要な申告をしなかった場合
+c.他の会員または第三者の迷惑になるような行為、または当社の円滑な販売を妨げるような行為をした場合
+d.当社よりご案内の期限内に所定の手続きをしなかった場合
+e.所定の購入方法を守らなかった場合
+f.会員が振込による入金を選択し、当社より認められた場合で、振込期日までにお振り込まなかった場合
+g.その他本規約に違反する行為をした場合
+2.前項で当社に発生した損害について、当社は当該会員に損害賠償を請求することができます。
+
+第7条：(チケットの取替・変更・クーリングオフ)
+1.チケット購入契約が成立したチケットは、お客様都合による取替、変更、キャンセルはお受けできません。なお、本サービスで販売したチケットには、クーリングオフは適用されません。
+
+第8条：(紛失・盗難)
+1.当社はチケットをいかなる場合（紛失・盗難・破損等）でも再発行いたしません。
+
+第9条：(チケットの払い戻し)
+1.興行等の内容変更、中止に伴うお客様への告知は興行主催者が行い、当社は変更、中止に伴なう責任は一切負いません。ただし、当社は興行主催者の決定・依頼に基づき、販売したチケットの興行等の内容の変更や中止による当該チケットの払い戻し業務を代行することがあります。
+2.払い戻しについては興行主催者より要請のあった払い戻し期間内とし、当社の定める方法にて会員に返金します。払い戻し期間を過ぎた場合や、チケットを破損・紛失したり、甚だしく汚損し判別しがたい場合、当社は会員に一切払い戻しは致しません。
+3.会員への返金額は、チケット代金、システム利用料、発券手数料、特別販売利用料となり(配送手数料は未配送の場合にのみ返金となります)、決済手数料、交通費、宿泊費、通信費等の返金は行いません。なお、会員は返金までに3～4週間程お時間がかかる場合があることを予め了承します。
+
+第10条：(販売の終了・再開)
+1.チケット販売期間中であっても当社での販売予定枚数に達した時点で個々の興行毎に販売を終了いたします。ただし、興行主催者から追加席・追加公演があった場合は販売を再開することがあります。
+
+第11条：(禁止事項)
+1.会員は、以下の行為を行ってはならないものとします。以下の行為が判明した場合、当社または興行主催者が自らの判断で購入済みのチケットを無効とし、チケット代金の返金を認めず、入場を認めないことがあります。既に入場している場合には退場を命じられることもあります。
+a.当社から購入したチケットまたはチケット引換え時に必要な番号を、営利を目的として第三者に転売、または転売のために第三者に提供する行為
+b.チケット券面金額より高い価格で転売し、または転売を試みる行為、オークションまたはインターネットチケットオークションにかけて転売し、または転売を試みる行為
+
+第12条：(ミス発券の損害賠償)
+1.チケットの発券上のミスによる会員への損害賠償の限度額はチケットの券面金額及び各種手数料金額とします。ただし、当社の故意または重過失による場合はこの限りではないものとします。
+
+第13条：(チケットについての免責）
+1.当社から直接購入された以外のチケットについては、当社はその販売責任を負いません。
+2.通信回線の混雑またはコンピューター・システム上の不慮の事故等により、チケット申込や購入の成否の確定またはその通知が大幅に遅れ、または不可能となったとしても、当社はこれにより会員または第三者に生じた損害に対し一切責任を負わないものとします。
+
+第14条：(退会後の措置)
+1.会員資格が終了した後であっても、会員は購入したチケットは当社指定の方法にて受け取ることができます。但し、ぴあ会員規約第7条または本個別規定第4条第4項、第6条その他の事由に基づき、当社が会員資格を停止・取消・剥奪した場合はこの限りではありません。
+2.チケットの払い戻しが発生した場合、会員は会員資格終了後であっても、第9条に則り払い戻しを受けることができます。
+
+第15条：(その他)
+1.本個別規定に定める条項のほか、興行主催者が定める約款や規定がある場合は当該規定も適用されます。本個別規定は、当社の事業内容の変更や興行主催者からの要請等により、事前通告なく条項を変更・追加する場合があります。
+付則：本規定は、日本標準時2003年10月16日（午前10時）より実施するものとします。
+2008年 1月 1日一部改正、同日実施
+2010年 3月 8日一部改正、同日実施
+2010年 9月16日一部改正、同日実施
+2011年 1月31日一部改正、同日実施
+2011年 10月6日一部改正、同日実施
+2017年 2月 6日一部改正、同日実施
+2017年 2月20日一部改正、同日実施
+以上
+
+----------------
+個別規定：抽選販売サービス
+----------------
+
+第1条：(抽選販売サービス)
+1.抽選販売サービスとは、事前のチケットの確保を目的としたサービスであり、一般発売前に、ホームページ上で購入の申込を受け付け、チケット等を有料で販売するサービスです。申込受付分全てのチケットを手配できない場合は、やむを得ず購入申込をした会員の中から抽選にて選択された会員に対してのみ販売をいたします。チケットの手配ができた場合でも、当社は会員に条件の良いお席を確約するものではありません。また、一般発売後でもこのサービスによりチケットを販売することがあります。
+2.おまかせエントリーサービスとは、抽選販売サービスに関連するサービスであり、会員が事前に登録した条件に基づき、条件に合致する抽選販売サービスに自動で購入申込登録がなされるサービスです。なお、おまかせエントリーサービスの対象となるチケットは、当社が、各種区分（興行の種類、公演日時・場所、席種、チケット発売時期、アーティストの種類等を含みますが、これらに限られません）に応じて別途決定するチケットに限られるものとし、抽選販売サービスの対象となるチケットの全てがおまかせエントリーサービスの対象となるわけではありません。
+3.抽選販売サービスには、一般発売に先駆けて、受付期間内にお申し込みいただき（おまかせエントリーサービスによる自動での購入申込の場合も含みます、以下本項において同じ。）、抽選でチケットを販売する最速抽選「いち早プレリザーブ」及び先行抽選「プレリザーブ」並びに一般発売後に、追加席等があった場合に、受付期間内にお申し込みいただき、抽選でチケットを販売する追加抽選「モアチャンス
+1ff8
+」があります。
+4.本個別規定における「抽選販売サービス」には、別段の定めがない限り、会員が個別に抽選販売サービスを利用して購入申込をする場合のほか、おまかせエントリーサービスを通じて抽選販売サービスを利用して自動で購入申込をする場合も含みます。
+
+第2条：(抽選販売サービスの利用申込等)
+1.抽選販売サービスの利用を希望する会員は、所定の手続きに従って購入申込登録をするものとし（おまかせエントリーサービスによる自動での購入申込の場合も含みます。）、当該登録の完了をもって抽選販売サービスに関する利用契約が成立し、本個別規定が適用されるものとします。
+2.会員はチケット購入申込について、別途当社が定める購入申込の取り下げ受付期間が満了するまで、取り下げることができます。但し、公演及びチケットの種類並びに購入方法等によっては、購入申込の取り下げが認められない場合があります。
+3.会員との間に成立した抽選販売サービスに関する利用契約につき、支障があると当社が判断した場合、当社は何時でも会員との抽選販売サービスの利用契約を終了することができるものとします。
+4..抽選販売サービスの購入申込登録について、会員は購入申込登録の状況をホームページ上の申込履歴画面にて遅滞なく確認する義務を負うものとし、確認の遅滞または確認の不能等により会員または第三者に生じた損害に対し、当社は一切の責任を負いません。あわせて当社より補足的に購入申込登録完了の電子メールを登録の電子メールアドレス宛にお送りいたしますが、電子メールアドレスの登録情報の誤り、判読不可能な文字化け現象等、申込内容に何らかの不具合が生じて電子メールを送信できない場合や、電子メールの不達・誤達・遅達・受信拒否（ぴあ会員規約第８条第3項を参照）等により電子メールが届かなかった場合でも当社は一切責任を負いません。
+
+第3条：(購入契約の成立)
+1.抽選販売サービスによるチケット購入契約は、申込受付期間満了と同時に成立するものとします。但し、やむを得ず申込受付分全てのチケットを手配できない場合は、抽選で当社が当選する会員を選択した時点で、当社と当選した会員との間に限り、購入契約が成立するものとします。
+2.当社はチケット購入契約の成立を、、ホームページ上の申込履歴画面・購入履歴画面で告知します。会員はホームページ上の申込履歴画面・購入履歴画面を遅滞なく確認する義務を負うものとし、確認の遅滞または確認の不能等により会員または第三者に生じた損害に対し、当社は一切の責任を負いません。あわせて当社より補足的に購入完了の電子メールを登録の電子メールアドレス宛にお送りいたしますが、電子メールアドレスの登録情報の誤り、判読不可能な文字化け現象等、申込内容に何らかの不具合が生じて電子メールを送信できない場合や、電子メールの不達・誤達・遅達・受信拒否（ぴあ会員規約第８条第3項を参照）等により電子メールが届かなかった場合でも当社は一切責任を負いません。
+3.抽選販売サービスで販売するチケットによっては、購入契約成立前に購入意思確認期間が設けられることがあります。その場合、当社の定める購入意思確認期間内に、購入契約成立の手続き、または当選辞退（取り消し）の手続きをすることができます。なお、当選辞退の手続きをしない場合、購入意思があるものとして、購入契約は成立するものとします。
+
+第4条：(利用料金・支払い)
+1.会員は、抽選販売サービスの利用によりチケットを購入した場合には、チケット代金の他、当社が定めるサービス利用料として特別販売利用料、特別チャージ、システム利用料、支払いに関わる手数料や、配送や店頭引取などチケット引き渡しに関わる利用料等、利用するサービスの必要料金を購入時に支払うものとします。
+2.当社は、当社が適当と判断する方法にて会員に事前に通知することにより、前項に定める抽選販売サービスの利用料金及び支払方法を変更できるものとします。
+3.会員からの退会、会員資格取り消し等の理由の如何を問わず、当社は会員より既に支払われた料金等の払い戻し義務を一切負わないものとし、また会員は既に利用した抽選販売サービスに関する料金の支払いを免れないものとします。
+4.購入契約の成立にもかかわらず、入金手続きがなかった場合は、当社が定める入金締切期日の経過をもって当社は購入契約を解除することができ、当該会員の会員資格の剥奪をし、以降の抽選販売サービスを含む当社サービスの利用をお断りすることがあります。
+
+第5条：(登録内容の変更・削除等)
+1.会員による登録内容に誤り等があることに基づく当該会員の損害について、当社は一切の責任を負いません。
+2.同一人物と思われる会員が複数のIDを使って申込またはチケットを購入された場合、事前に通知することなく、申込または購入したチケットを無効とさせていただくことがあります。なお、チケットを無効とした場合であっても当該会員は料金の支払いは免れず、また、当社は払い戻しの義務を一切負わないものとします。
+3.会員により登録内容の変更・削除がなされる以前に、当該変更・削除前の登録内容に基づいて会員が負うこととなった利用料金等についても、当該会員は料金の支払いを免れず、また当社は払い戻し義務を一切負わないものとします。
+4.会員は、第2条第2項、第3条第3項に定める場合を除き、その購入の申込を撤回する権利のないことを、予め了承するものとします。
+
+第6条：(おまかせエントリーサービスに関する免責事項等)
+1.会員は、自己の判断と責任により、おまかせエントリーサービスにおける購入申込条件の登録を行うものとします。購入申込登録後の抽選販売サービスの変更および取り消しが必要な場合は、会員の責任で行うものとし、当社は一切の責任を負いません。また、会員が、おまかせエントリーサービスにおける購入申込条件の登録を行った場合であっても、ぴあ会員規約第7条第1項各号に該当する場合には、当社の判断で抽選販売サービスの購入申込登録を行わない場合もございます。
+2.当社は、おまかせエントリーサービスを利用する会員に対して、当該会員が登録した条件の一部が合致する公演に関する情報を参考情報として提供する場合がありますが、当該情報は、当社が当該公演のチケット購入契約の成立を確約・保証するものではなく、会員が当該公演のチケット購入を希望する場合には、抽選販売サービスを含む別途チケット購入申込を行う必要があります。
+3.当社は、おまかせエントリーサービスを利用する会員が登録した条件に従い、自動で購入申込登録がなされた抽選販売サービスに関して、購入申込登録が完�
+1ff8
+��した旨と、購入契約成立状況をホームページ上の申込履歴画面・購入履歴画面で告知します。会員はホームページ上の申込申込履歴画面・購入履歴画面を遅滞なく確認する義務を負うものとし、確認の遅滞または確認の不能等により会員または第三者に生じた損害に対し、当社は一切の責任を負いません。あわせて当社より補足的に購入申込登録の完了を登録の電子メールアドレス宛にメールでお送りいたしますが、電子メールアドレスの登録情報の誤り、判読不可能な文字化け現象等、申込内容に何らかの不具合が生じて電子メールを送信できない場合や、不達・誤達・遅達・受信拒否（ぴあ会員規約第8条第3項を参照）等により電子メールが届かなかった場合も同様に一切責任を負わないものとします。
+
+第7条：(抽選販売サービスの終了及び内容変更)
+1.当社が必要と認めた場合、当社が適当と認める方法にて会員に事前に通知の上、抽選販売サービスの終了または内容変更を行うことができるものとします。
+付則：本規定は、日本標準時2003年10月16日（午前10時）より実施するものとします。
+2004年 3月25日一部改正、同日実施
+2008年 1月 1日一部改正、同日実施
+2010年 3月 8日一部改正、同日実施
+2010年 9月16日一部改正、同日実施
+2016年 4月12日一部改正、同日実施
+2017年 2月 6日一部改正、同日実施
+以上
+
+----------------
+個別規定：定価リセールサービス
+----------------
+
+当社は、当社の運営するウェブサイトを通じて提供するサービス（以下「本サービス」といいます）を、お客様にご利用いただく際に、次のリセールサービスの個別規定 (以下「本規定」といいます）を設けております。本規定をご承諾の上、ご利用ください。
+
+第1条：(リセールサービス)
+1.本サービスは、ぴあ会員規約に基づき会員登録をした会員（以下「会員」といいます）が、本サービスを通じて当社に対して当社から購入したチケットの販売を委託し、当該チケットの購入希望した他の会員に対して当社が本サービスを通じて販売をするサービスです。本サービスは会員のみが利用可能できるものとし、必ずしも本サービスを通じて当社に販売を委託したすべてのチケットに関して取引が成立することを保証するものではありません。
+
+第2条：(定義)
+1.本規定において、各用語は次の意味を有するものとします。
+a.「リセール」とは、チケットぴあサイト上で購入したチケットを本サービスを通じて当社に購入希望者への販売を委託し、購入希望者からの申込があり次第、当該チケットに関して、当社が販売を委託した会員との間の売買契約を解除し、当社が購入希望者に対して当該チケットを販売することをいいます。
+b.「リセール申込者」とは、本サービスを通じて、当社にチケット販売を委託した会員をいいます。
+c.「リセール購入者」とは、本サービスを通じて、リセール申込者から当社に委託されたチケットを購入した会員をいいます。
+d.「リセールアラート」とは、本サービスを通じて目的となるチケットを興行・公演日単位で登録しアラートメールを受け取れることをいいます。
+
+第3条：(リセールの申込等)
+1.本サービスの対象となるチケットは、別途当社が定めた公演・興行のうちリセール申込者がリセールの申込みをしたチケットであり、かつ、チケットぴあサイトにおいてクレジットカード又はちょコムで決済購入をし、かつ発券手続を行っていないチケットとします。また、本サービスの対象とできるのは、リセール申込者が決済を行ったチケット枚数どおりとし、そのうち一部のリセールを申込むことはできないものとします。
+2.本サービスの利用を希望する会員は、所定の手続に従って申込登録をするものとし、当該登録の完了をもって本サービスに関する利用契約が成立し、本規定が適用されるものとします。なお、本サービスの利用を希望する会員が、所定の手続に従って申込登録をすることにより、本規定に同意したものとみなします。
+3.リセール申込者はリセールの申込みについて、所定の方法に従い、原則各公演・興行日の前日まで申し込みをすることができます。但し、公演・興行によってはリセールの対象とならない場合があります。
+4.リセール購入者から購入申込がなされるまでの間は、公演・興行日の前日までリセール申込者からの所定の方法による申告をもってリセール申込の取り消しをすること可能とします。
+5.リセール購入者から購入申込がなされるまでの間に、リセール申込者がリセールの申込を行っていたチケットの発券手続を行った場合には、その時点でリセールの申込みは取り消されたものとみなします。
+6.当社は、リセール購入者から購入申込みがなされるまでの間に、興行主催者等の事情によよって、当該公演・興行がリセールの対象の公演・興行とならなくなった場合には、その時点においてリセール申込みは取り消されるものとし、当社において申込みの取消を行うことができるものとします。
+7.当社は、リセールの申込みにおいて支障があると当社が判断した場合、何時でも会員への本サービスの提供を中止、停止、終了することができるものとします。
+
+第4条：(リセールサービスの成立)
+1.リセールの成立は、本サービスを通じてリセール購入者が、リセール申込者から当社が委託されたチケットの購入申込をしたと同時に成立するものとするものとし、この場合、当社はリセール申込者との間の売買契約を解除し、当社はリセール購入者との間で新たに売買契約を成立させるものとします。
+2.リセール購入者からの申込みがない場合は、リセールは不成立とし、リセール申込者からの委託については自動的に終了するものとします。
+3.リセールの成立後、リセール申込者及びリセール購入者はリセールを取り消すことはできないものとします。
+4.リセール申込者及びリセール購入者は、リセールの申込状況・成立状況をホームページ上のリセール申込み履歴画面及び購入履歴画面にて遅滞無く確認する義務を負うものとし、確認の遅滞または確認の不能等により会員または第三者に生じた損害に対し、当社は一切の責任を負いません。あわせて当社より補足的に電子メールを登録の電子メールアドレス宛にお送りしますが、電子メールアドレスの登録情報の誤り、判読不可能な文字化け現象等、申込内容に何らかの不具合が生じて電子メールを送信できない場合や、不達・誤達・遅達・受信拒否（ぴあ会員規約第8条第3項を参照）等により電子メールが届かなかった場合も同様に一切責任を負わないものとします。
+
+第5条：(リセールサービス利用料金・支払)
+1.リセール成立により、リセール申込者に対しては、チケット券面金額及び購入時の手数料及びその他の利用料がある場合�
+1ff8
+�、当社からクレジットカード会社又はちょコムを通じて返金がなされた後に リセール手数料（チケット券面金額の合計の10％が100円以下の場合は100円）が課金されるものとします。
+2.当社は、当社が適当と判断する方法にて会員に事前に通知することにより前二項に定める各種利用料及び支払方法を変更できるものとします。
+3.会員の退会、会員資格取り消し等の理由の如何を問わず、当社は、リセール不成立の際のリセール申込者よりすでに支払われた料金等、リセール成立の際に払われたリセール購入者よりすでに支払われた料金等の払い戻し義務を、次条に従い売買契約を解除した場合を除き、一切負わないものとし、リセール申込者及びリセール購入者はいずれも本サービス利用に関する料金の支払を免れないものとします。
+
+第6条：(チケットの引き渡し等)
+1.リセール成立後のリセール購入者のチケット料金の支払い・ 引き渡し等については、チケット販売規定第4条以下の定めに従うものとします。
+
+第7条：(リセールサービス利用拒否)
+1.第三者に迷惑・不利益を与える等の行為、当社のサービスに支障をきたすおそれのある行為、ぴあ会員規約第7条に定める行為、その他当社が不適当と判断する行為を行うお客様には、リセールサービスのご利用をお断りすることがあります。
+
+第8条：(リセールサービスの終了及び内容変更)
+1.当社が必要と認めた場合、当社が適当と認める方法にて会員に事前に通知の上、定価リセールサービスの終了または内容変更を行うことができるものとします。
+
+第9条：(準拠法)
+1.本規定の成立、履行及び解釈に関しては、日本法が適用されるものとします。
+
+第10条：(管轄裁判所)
+1.本サービスに関連して、お客様と当社との間で紛争が生じた場合には、当事者間において誠意をもって解決するものとします。
+2.協議をしても解決しない場合、東京地方裁判所または東京簡易裁判所を第一審の専属的合意管轄裁判所とします。
+付則：本規定は、日本標準時2014年7月1日(午前5時)より有効とします。
+2014年 7月 28日一部改正、同日実施
+2017年 2月 6日一部改正、同日実施
+以上
+
+----------------
+チケットぴあサービス利用規約
+----------------
+
+ぴあ株式会社（以下、「当社」といいます）は、当社の運営するチケット販売サービス「チケットぴあ」（以下、「チケットぴあサービス」といいます）を、お客様にご利用いただく際に、次の[チケットぴあサービス利用規約](以下、「本規約」といいます）を設けております。本規約をご承諾の上、本サービスをご利用ください。
+
+第1条：(サービスの利用)
+1.チケットぴあサービスのご利用に際しまして、お客様にはインターネット利用の一般的なマナーやモラル及び技術的ルールを遵守するものとします。
+
+第2条：(利用の拒否)
+1.第三者に迷惑・不利益を与える等の行為、当社のサービスに支障をきたすおそれのある行為、本規約第7条に定める行為、その他当社が不適当と判断する行為を行うお客様には、チケットぴあサービスのご利用をお断りすることがあります。
+
+第3条：(利用環境の準備)
+1.チケットぴあサービスは、文字（日本語表示）や電子メール等の諸設定が適切になされている方を対象にしています。この条件にあてはまらない方の動作結果やそれがもたらす諸影響に関して、当社は一切責任を負いません。また、前記条件を満たしていても、お客様各位の事情（ＯＳ、ソフトウェア、ＬＡＮ環境等）によって、チケットぴあサービスが正しく作動しない場合も、それがもたらす諸影響に関して、当社は一切責任を負いません。
+2.携帯端末でのご利用の場合、携帯端末の新規発売機種や発売されてから時間が経過した携帯端末等、端末によってはチケットぴあサービスのご利用に対応するまで時間がかかる場合や対応できない場合があることに予め了承するものとします。
+3.チケットぴあのサービス動作環境・セキュリティ方針は、当社の判断により事前の通告無く変更できるものとします。
+
+第4条：(本規約の適用及び変更)
+1.チケットぴあサービスをご利用いただいたお客様は、本規約に同意したものとみなします。当社は事前の通知をすることなく本規約を変更できるものとし、お客様は本規約を毎回ご確認するものとします。内容変更後は、変更後の内容のみを有効とします。
+2.本規約に添付されている個別規定及び今後ご提供する新サービス毎に規定する個別規定は、本規約の一部を構成します。
+
+第5条：(サービスの運営)
+1.当社は、チケットぴあサービスの運営に関し、完全且つ独自の裁量を有しており、以下の項目を実施することができるものとします。
+a.チケットぴあサービス上で行われる、掲示板等の利用の監視及びこれらのアクセスの制限
+b.掲示板等の利用において、一定期間以上、お客様からアクセスがない情報の削除
+c.チケットぴあサービスの販売促進の目的において、掲示板等にアップロードされた情報やファイルを、アップロードしたお客様の承諾を得ることなく、第三者に提供すること。この場合、お客様は当社に対し、期間無制限、無償にて当該情報やファイルを使用許諾（再使用許諾を含みます）するとともに、当社及び当社が提供した第三者に対し著作者人格権その他の権利を行使せず、または行使させないこととします。
+
+第6条：(チケット販売)
+1.当社は、チケットぴあサービス内で行うチケット販売に関し、原則としてぴあ会員向けに販売するものとし、お客様はぴあ会員規約に従って購入手続きをするものとします。但し、必要に応じてぴあ会員以外に販売することもあり、その場合には、お客様はチケット申込画面の案内に従って購入手続きをするものとし、申込画面に定めのない事項については、ぴあ会員規約個別規定に準じるものとします。
+
+第7条：(禁止事項)
+1.お客様は、チケットぴあサービスの利用にあたって、以下の行為を行ってはならないものとします。
+a.第三者または当社の著作権、商標権、財産権、プライバシー、肖像権、名誉、信用もしくはその他の権利を侵害する行為、及び侵害するおそれのある行為
+b.第三者または当社に不利益もしくは損害を与える行為、及び与えるおそれのある行為
+c.他のお客様、第三者または当社を誹謗中傷する行為
+d.公序良俗に反する行為、もしくはそのおそれのある行為、または公序良俗に反する情報を他の会員または第三者に提供する行為
+e.犯罪的行為、もしくは犯罪的行為に結び付く行為、またはそのおそれのある行為
+f.選挙期間中であるか否かを問わず、選挙運動またはこれに類する行為
+g.性風俗、宗教、政治に関する活動を行う行為
+h.当社の承諾なく、チケットぴあサービスを通じて、もしくはチケットぴあサービスに関連して、�
+1ff8
+��利を目的とする行為、またはその準備を目的とした行為
+i.IDまたはパスワードを不正に使用する行為
+j.チケットぴあサービスの円滑な運営を妨げる行為、その他チケットぴあサービスに支障をきたす恐れのある行為
+k.コンピュータウィルス等の有害なプログラムを送信、提供、または書き込みその他の使用する行為
+l.自動入力等を行うソフトウエアの使用、その他当社が不当とみなした通常とは異なる方法により、チケットぴあサービスを利用しようとする行為
+m.チケットぴあサービスに接続されている他のコンピュータ・システムまたはネットワークへの不正アクセスを試みる行為
+n.法令に違反する、または違反するおそれのある行為
+o.その他、当社が不適切と判断する行為
+
+第8条：(著作権)
+1.お客様は、権利者の許諾を得ないで、いかなる方法においても、チケットぴあサービスを通じて提供される情報またはファイルについて、著作権法で認められるお客様個人の私的利用の範囲を超えて、使用することはできないものとします。
+
+第9条：(サービスの中止・中断・変更等)
+1.当社は、以下の事項に該当する場合、チケットぴあサービスの運営を中止、中断、変更、停止、廃止、遅滞できるものとします。
+a.チケットぴあサービスのシステムの保守を定期的にまたは緊急に行う場合
+b.戦争、暴動、騒乱、労働争議、地震、噴火、洪水、津波、火災、停電その他の非常事態により、チケットぴあサービスの提供が通常どおりできなくなった場合
+c.通信事業者のサービスの中止・中断・変更等があった場合
+d.その他、当社がチケットぴあサービスの運営上、一時的な中断が必要と判断した場合
+2.当社は、前項に基づくチケットぴあサービスの中止、中断、変更、停止、廃止、遅滞について、お客様に対し何らの責任も負わないものとします。
+
+第10条：(免責事項)
+1.当社は、チケットぴあサービスの各種情報の提供、その他チケットぴあサービスに関連して発生したお客様、または第三者の損害について、一切の責任を負わないものとします。ただし、当該損害が当社の故意または重過失により発生した場合は除きます。また、チケットぴあサービスのご利用は、全てお客様の責任において行われるものとします。なお、未成年者によるチケットぴあサービスのご利用は、親権者など法定代理人の同意と責任において行われるものとします。
+2.当社は、お客様がチケットぴあサービスのご利用に当たり入力、送信した個人情報については、暗号化処理等を行い、厳重に管理し機密保持に十分な注意を払いますが、情報の漏洩、消失、他者による改ざん等が完全に防止されることの保証は行わないものとします。
+3.当社は、チケットぴあサービス内容、及びチケットぴあサービスにて提供する情報やサービス、及びお客様が、チケットぴあサービスや当社がお送りした電子メール等を通じて得る情報等に関して、その安全性、正確性、確実性、有用性、最新性、目的適合性、合法性、道徳性等のいかなる保証も行うものではありません。
+4.当社は、チケットぴあサービスからリンクされている各サイトに含まれている情報、サービス等については、一切関知しておらず、一切の責任を負わないものとします。
+5.当社は、チケットぴあサービスにより販売されるチケット等の販売数量がお客様の全ての購入希望を満たすことを保証するものではなく、また、チケットぴあサービスにより販売されるチケット等に記載された内容が真実であること（記載どおりに挙行されることを含みます）についていかなる保証も行わないものとします。
+6.当社は、お客様が購入時に登録した連絡先へ連絡すること、及び購入時に指示した送付先へ商品を配送等することにより、チケットぴあサービスに関して責任を負わないものとします。
+7.当社は、お客様の行為により第三者が被った損害について、何らの責任も負わないものとします。
+
+第11条：(サービスの変更)
+1.当社は、チケットぴあサービスの運営上そのシステムや内容の変更が必要であると判断した場合には事前に通知することなく必要な変更を行います。
+
+第12条：(準拠法)
+1.本規約の成立、履行及び解釈に関しては、日本法が適用されるものとします。
+
+第13条：(管轄裁判所)
+1.チケットぴあサービスに関連して、お客様と当社との間で紛争が生じた場合には、当事者間において誠意をもって解決するものとします。
+2.協議をしても解決しない場合、東京地方裁判所または東京簡易裁判所を第一審の専属的合意管轄裁判所とします。
+
+付則：本規約は、日本標準時2000年1月20日（午前10時）より有効とします。
+2000年 6月 1日一部改正、同日実施
+2000年 9月28日一部改正、同日実施
+2001年 6月 1日一部改正、同日実施
+2002年 1月 4日一部改正、同日実施
+2002年 3月15日一部改正、同日実施
+2002年 4月 1日一部改正、同日実施
+2002年 5月15日一部改正、同日実施
+2003年 9月 2日一部改正、同日実施
+2003年10月16日一部改正、同日実施
+2003年10月22日一部改正、同日実施
+2004年 3月25日一部改正、同日実施
+2004年12月 1日一部改正、同日実施
+2005年 9月15日一部改正、同日実施
+2007年10月 1日一部改正、同日実施
+2008年 1月 1日一部改正、同日実施
+2010年 3月18日一部改正、同日実施
+2010年 9月16日一部改正、同日実施
+2011年 1月31日一部改正、同日実施
+2015年 1月28日一部改正、同日実施
+2016年 1月12日一部改正、同日実施
+以上
+
+----------------
+個別規定：メールサービス
+----------------
+当社は、当社の運営するウェブサイトを通じて提供するサービス（以下「本サービス」といいます）を、お客様にご利用いただく際に、次のメールサービスの個別規定 (以下「本規定」といいます）を設けております。本規定ならびにチケットぴあサービス利用規約（以下「本規約」といいます）をご承諾の上、ご利用ください。
+
+第1条：(メールサービス)
+1.本条で定めるサービス（以下、「メールサービス」といいます）は、当社からお客様へ電子メールによる情報配信を目的としたサービスです。
+2.お客様は当社が定める方法にて登録手続をすることでメールサービスをご利用いただけます。
+3.メールサービスには、本規定及び本規約が適用されます。
+
+第2条：(利用環境の準備)
+1.お客様は、本規約第3条に定める利用環境の準備に加え、当社のドメイン（pia.co.jp）からの電子メールを常に受信できるよう設定するものとします。当社は、当社からの電子メールを一度でも受信拒否したお客様に対し、その後の電子メールでの連絡を控えることがあります。なお、受信拒否を解除したお客様はその旨を速やかに当社に届け出るものとします。
+
+第3条：(禁止事項)
+1.お客様は、本規約第7条に定める禁止事項に加え、意図的に虚偽の情報を登�
+1095
+��する行為（故意に存在しないメールアドレスによる登録等を含みます）を行ってはならないものとします。
+
+第4条：(サービス利用資格の取消)
+1.当社は、お客様が本規定ならびに本規約に違反したと判断した場合、お客様に事前に通知することなく、お客様への本サービスの全部または一部の提供を一時的に中止、もしくは登録を削除することがあります。
+
+第5条：(登録情報の利用目的)
+1.当社は、お客様よりご提供を受けた個人情報及びその個人の固有の情報（嗜好情報等も含みます）を、下記の目的に利用できるものとします。なお、下記の目的以外で個人情報を利用する場合は、改めてその目的を通知するものとします。
+a.チケット販売・公演情報および付随するサービス（追加発売・次回発売などの案内や業務上必要と判断した確認のための連絡など）
+b.当社サービスに関する情報の案内や当社が適切と判断した企業の商品・サービス等の広告案内などの営業活動や販売促進活動
+c.当社サービスに関するユーザーサポート（お問合せ対応など）
+d.その他の当社サービスの開発・提供の目的で実施する各種アンケート調査、キャンペーン（各種プレゼント等）の実施
+e.営業活動や新たなサービス開発の参考とするため、個人を識別または特定できない様態にて集計した統計資料の作成及びそれらを用いたマーケティング分析
+f.システムの運用・管理やお問合せ対応のためのアクセス情報（インターネット・携帯サイト・電話等）の利用及び記録
+
+第6条：(登録情報の第三者提供)
+1.当社は、お客様が利用登録を行った際に知り得た情報、またはお客様が本サービスを利用する過程において知り得た情報に関し、以下の項目に該当する場合を除き、正当な理由なく第三者に対して開示しないものとします。
+a.お客様が、個人情報（氏名、住所、電話番号、性別、年齢、電子メールのアドレス等）の開示について同意している場合
+b.当社が、本サービスの利用動向を把握する目的で収集した統計情報を、お客様の特定ができない形式に加工して開示する場合
+c.本サービスによって公演情報を得たお客様に対して、公演の主催者及び運営会社並びに公演出演者所属事務所等（以下、「興行主催者」といいます）が提供する公演・商品・サービスの案内などを行うため、当社と個人情報の保護の契約を締結した当該興行主催者に本サービス利用者の個人情報の全部または一部(氏名、住所、電子メールアドレス等)を提供する場合
+d.前号の他、第三者または当社に不利益もしくは損害を与える場合、及び与えるおそれのある場合
+e.法令により開示が認められている場合
+f.法令により開示が求められた場合
+g.犯罪捜査のために警察等の公的機関から要求された場合
+h.その他、本サービスの運営上必要な場合
+
+第7条：(免責事項)
+1.当社は、本規約第10条に定める事項の他、お客様が当社からの電子メールの受信拒否をしたこと、または受信拒否解除の連絡を怠ったことにより、お客様または第三者に生じた損害について、一切の責任を負わないものとします。
+
+第8条：(サービス利用終了)
+1.お客様がメールサービスの終了を希望する場合には、所定の方法により、お客様自らが当社に対し終了の申し出を行うものとします。
+
+付則：本規約は、日本標準時2015年1月28日（午前5時）より有効とします。
+2015年 3月19日一部改正、同日実施
+以上</textarea>
+	</div>
+	<!-- /terms -->
+
+</div>
+<!-- /main_contents /reg -->
+
+<!-- /contents -->
+
+<!-- /wrap -->
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+b5b
+
+
+
+
+
+
+
+
+<div id="p_top"><a href="#h_navi">このページ「会員情報入力」上部へ</a>
+
+<!-- テーマワード文を表示 -->
+
+</div>
+
+</div>
+<!-- /wrap -->
+</div>
+<!--/h_navi-->
+<!--ftr-->
+<div id="ftr" class="clearfix">
+  <div id="ft_base">
+    <div id="ft_l">
+      <div class="foot_menu">
+        <ul>
+          <li>
+            <dl>
+              <dt><a href="http://t2.pia.jp/genre_list.html">ジャンル</a></dt>
+              <dd><a href="http://t2.pia.jp/music/">音楽</a><a href="http://t2.pia.jp/sports/">スポーツ</a><a href="http://t2.pia.jp/stage/">演劇</a><a href="http://t2.pia.jp/classic/">クラシック</a><a href="http://t2.pia.jp/event/">イベント・アート</a><a href="http://t2.pia.jp/cinema/">映画</a>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<a href="http://t2.pia.jp/artist_list/artistlist_a_1.html">アーティスト一覧</a></dd>
+            </dl>
+          </li>
+          <li>
+            <dl>
+              <dt>エリア</dt>
+              <dd><a href="http://t2.pia.jp/hokkaido/">北海道</a><a href="http://t2.pia.jp/tohoku/">東 北</a><a href="http://t2.pia.jp/kanto/">関東甲信越</a><a href="http://t2.pia.jp/chubu/">中部・北陸</a><a href="http://t2.pia.jp/kansai/">関 西</a><a href="http://t2.pia.jp/chushikoku/">中国・四国</a><a href="http://t2.pia.jp/kyushu/">九州・沖縄</a></dd>
+            </dl>
+          </li>
+        </ul>
+      </div>
+    </div>
+
+	
+	<div class="foot_menu2"> <div><a href="http://t.pia.jp/info/privacy.html">プライバシーポリシー</a>｜<a href="http://t.pia.jp/info/terms.html">ぴあ会員規約</a>｜<a href="http://t.pia.jp/info/mailorderlaw.html">特定商取引法に基づく表示</a>｜<a href="http://t.pia.jp/info/yakkan.html">旅行業登録票・約款等</a>｜<a href="http://t.pia.jp/info/security.html">動作環境・セキュリティ</a>｜<a href="http://www.pia.co.jp/t_pia_info/real/">公演中止・延期・発売方法変更などのお知らせ</a>｜<a href="http://t.pia.jp/info/api.html">チケットぴあ WEB APIのご案内</a>｜<a href="http://t2.pia.jp/info/web/index.html">チケットを委託するには</a>｜<br /><a href="http://t.pia.jp/info/affiliates.html">アフィリエイト募集</a>｜<a href="http://www.pia-ad.net/">広告のお問い合わせ</a>｜<a href="http://corporate.pia.jp/">ぴあ会社案内</a>｜<a href="http://t.pia.jp/help/index.html">お問い合わせ</a>｜<a href="http://t.pia.jp/sitemap/sitemap.html">サイトマップ</a></div>
+		
+		
+			
+
+
+
+
+
+
+
+
+
+		
+		<p>チケットぴあに掲載されているすべてのコンテンツ（記事、画像、音声データ等）はぴあ株式会社の承諾なしに無断転載することはできません。</p>
+		<span class="copyright">Copyright c PIA Corporation. All Rights Reserved.</span> </div>
+	
+	</div>
+</div>
+<!--/ftr-->
+
+
+<!--/ftr-->
+
+
+
+</body>
+
+</html>
+
+
+0
+

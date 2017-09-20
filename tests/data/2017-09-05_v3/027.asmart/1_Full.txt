@@ -1,0 +1,973 @@
+GET https://www.asmart.jp/Form/User/UserRegistRegulation.aspx HTTP/1.1
+Host: www.asmart.jp
+User-Agent: Mozilla/5.0 (Windows NT 6.1; WOW64; rv:52.0) Gecko/20100101 Firefox/52.0
+Accept: text/html,application/xhtml+xml,application/xml;q=0.9,*/*;q=0.8
+Accept-Language: ja,en-US;q=0.7,en;q=0.3
+Accept-Encoding: gzip, deflate, br
+Cookie: Unique_User_Id=20170331_842bded7-4595-4d97-b2ea-0be9c5ebc359; __access_user_id=83599750.1490947694.910955497; __last_acs_date=83599750.1491376775484; __utma=83599750.1785304914.1490947694.1490947694.1491376708.2; __utmz=83599750.1490947694.1.1.utmcsr=google|utmccn=(organic)|utmcmd=organic|utmctr=(not%20provided); ac=14902588082430; ASP.NET_SessionId.Front=14cggt2w4w4gtr04zs5h0o23; AWSELB=495B47651EF16749AA9E2D1C553BE261E4D11A398CE2A623BDF685636D75D42666AF977B7B3748574A651A569CF1F17C666E10FC3B5862FFCCC28A27B5BC9E7BF315647082; __session_id=83599750.1491376708.279406541; __utmb=83599750.3.10.1491376708; __utmc=83599750; __utmt=1
+Connection: keep-alive
+Upgrade-Insecure-Requests: 1
+Cache-Control: max-age=0
+
+
+HTTP/1.1 200 OK
+Cache-Control: no-store
+Content-Type: text/html; charset=utf-8
+Date: Wed, 05 Apr 2017 07:20:13 GMT
+Vary: Accept-Encoding
+X-FRAME-OPTIONS: SAMEORIGIN
+Content-Length: 73270
+Connection: keep-alive
+
+
+<!DOCTYPE html>
+<html dir="ltr" lang="ja">
+<head id="ctl00_Head1"><meta http-equiv="content-script-type" content="text/javascript" /><meta charset="utf-8" /><title>
+	利用規約 | 会員登録 | A!SMART | アスマート
+</title><meta http-equiv="Content-Script-Type" content="text/javascript" /><meta http-equiv="Pragma" content="no-cache" /><meta http-equiv="Expires" content="-1" /><meta http-equiv="Cache-Control" content="no-cache" /><link href="https://img.asm.w2s.xyz/Css/ams_user.css" rel="stylesheet" type="text/css" media="screen,print" />
+
+<script type="text/javascript" charset="Shift_JIS" src="https://img.asm.w2s.xyz/Js/w2.js?2015028"></script>
+
+
+<script src="//ajax.googleapis.com/ajax/libs/jquery/1.11.3/jquery.min.js"></script>
+<script>!window.jQuery && document.write('<script src="/Js/jquery-1.11.1.min" charset="utf-8"><\/script>')</script>
+
+<script type="text/javascript" charset="Shift_JIS" src="https://img.asm.w2s.xyz/Js/AC_ActiveX.js"></script>
+<script type="text/javascript" charset="Shift_JIS" src="https://img.asm.w2s.xyz/Js/AC_RunActiveContent.js"></script>
+
+<script type="text/javascript" charset="UTF-8" src="../../Js/ClientValidateScript.aspx?"></script>
+
+
+<link href="https://img.asm.w2s.xyz/Css/default.css" rel="stylesheet" type="text/css" media="screen, print" /><link href="https://img.asm.w2s.xyz/Css/user.css" rel="stylesheet" type="text/css" media="screen, print" /><link href="https://img.asm.w2s.xyz/Css/print.css" rel="stylesheet" type="text/css" media="print" /><link href="https://img.asm.w2s.xyz/Css/jScrollPane.css" rel="stylesheet" type="text/css" media="screen, print" /><link href="https://img.asm.w2s.xyz/Css/jqtransform.css" rel="stylesheet" type="text/css" media="screen, print" /><link rel="shortcut icon" href="/favicon.ico" />
+<script type="text/javascript" charset="Shift_JIS" src="https://img.asm.w2s.xyz/Js/smartRollover.js"></script>
+<script type="text/javascript" charset="Shift_JIS" src="https://img.asm.w2s.xyz/Js/heightLine.js"></script>
+
+
+<script type="text/javascript" charset="Shift_JIS" src="https://img.asm.w2s.xyz/Js/jquery.jqtransform.js"></script>
+<script type="text/javascript" charset="Shift_JIS" src="https://img.asm.w2s.xyz/Js/jquery.mousewheel.js"></script>
+<script type="text/javascript" charset="Shift_JIS" src="https://img.asm.w2s.xyz/Js/jquery.flatheights.js"></script>
+
+<script type="text/javascript" charset="UTF-8" src="https://img.asm.w2s.xyz/Js/jq_common.js"></script>
+<script type="text/javascript" charset="Shift_JIS" src="https://img.asm.w2s.xyz/Js/jq_detail.js"></script>
+<script type="text/javascript" charset="Shift_JIS" src="https://img.asm.w2s.xyz/Js/jquery.easing.1.3.js"></script>
+<script type="text/javascript" charset="Shift_JIS" src="https://img.asm.w2s.xyz/Js/smoothscroll.js"></script>
+
+
+<!-- jScrollPane.js -->
+<script type="text/javascript" src="https://img.asm.w2s.xyz/Js/clicktag.js"></script>
+
+
+<link href="https://img.asm.w2s.xyz/Css/amuse.css" rel="stylesheet" type="text/css" media="all" />
+</head>
+
+<body>
+
+<form name="aspnetForm" method="post" action="./UserRegistRegulation.aspx" onsubmit="javascript:return WebForm_OnSubmit();" id="aspnetForm">
+<div>
+<input type="hidden" name="__EVENTTARGET" id="__EVENTTARGET" value="" />
+<input type="hidden" name="__EVENTARGUMENT" id="__EVENTARGUMENT" value="" />
+<input type="hidden" name="__VIEWSTATE" id="__VIEWSTATE" value="/wEPDwUKMTAzNDUzMzMyMA9kFgJmD2QWAgIBEGRkFgQCAQ9kFgQCAw8PFgIeB1Zpc2libGVoZBYCZg8WAh4LXyFJdGVtQ291bnRmZAIJD2QWAgIDD2QWAgIBD2QWAmYPEGRkFgBkAgMPZBYCAgIPZBYEZg8WAh8AZ2QCAQ8WAh8AZ2QYAQUeX19Db250cm9sc1JlcXVpcmVQb3N0QmFja0tleV9fFgQFQmN0bDAwJEJvZHlIZWFkZXJNYWluJFByb2R1Y3REZXRhaWxTZWFyY2hNRERNJGNoa1ByaXZpbGVnZUNvbmRpdGlvbgU9Y3RsMDAkQm9keUhlYWRlck1haW4kUHJvZHVjdERldGFpbFNlYXJjaE1ERE0kY2hrU2lnbkNvbmRpdGlvbgVBY3RsMDAkQm9keUhlYWRlck1haW4kUHJvZHVjdERldGFpbFNlYXJjaE1ERE0kY2hrQ2FtcGFpZ25Db25kaXRpb24FO2N0bDAwJEJvZHlIZWFkZXJNYWluJFByb2R1Y3REZXRhaWxTZWFyY2hNRERNJGNoa0ZDQ29uZGl0aW9untHsVqWwBNRzf3z/X3fXAY9NRQsH8S+PkMOpO+vv2Kk=" />
+</div>
+
+<script type="text/javascript">
+//<![CDATA[
+var theForm = document.forms['aspnetForm'];
+if (!theForm) {
+    theForm = document.aspnetForm;
+}
+function __doPostBack(eventTarget, eventArgument) {
+    if (!theForm.onsubmit || (theForm.onsubmit() != false)) {
+        theForm.__EVENTTARGET.value = eventTarget;
+        theForm.__EVENTARGUMENT.value = eventArgument;
+        theForm.submit();
+    }
+}
+//]]>
+</script>
+
+
+<script src="/WebResource.axd?d=cvstsIx9MubySUz6o3wECvMLMJ1aWJiMBa3DNsiUMbXP-KTQeI3kIMIAy_-n7YfgII1RjhcUt0M9oOHygchtRvcnsSGaQOVF_uaLm5WxN6A1&amp;t=635875833181218729" type="text/javascript"></script>
+
+
+<script src="/ScriptResource.axd?d=x5r0a0_esj4awPks1k_psAFkpxzOe1FqyT-5HOjjeMUVJ9MYP_xGTILvFOkBkJyo---C85bDwwln3DIgtwdh7f-8_sNmwCnS4Id6g1JoTcklRs_vdZQFmuy-onXuYZNOBa7vKHKioZpPxHaMzHNeA7RZg2hAty15oDvXc9f_pRs1&amp;t=1c6690ce" type="text/javascript"></script>
+<script src="/ScriptResource.axd?d=vxRVoCYh8ejMAzLV5PrXoaY3irZbjo4s_L4x2OwgpmNfgVWD8uqZnIhf-fUELaY5vWpcjqIMouj5DMVTMIFKjJvW47vUFugNPj8_0kOHBA18BmgGBqow0TGMz7jJMqu3DIH1YzahbvLEuLldIilEoHW0BfcDdFK0XVe0QXnb2VY1&amp;t=ffffffffeea0dba9" type="text/javascript"></script>
+<script src="/ScriptResource.axd?d=w6w2tioqnB3Hy7SGn0o-h6yvKrm-voRGegAtwTwZ2Xm4cg3GHvgwW_GVxhrUnXGqcaJWRYiVM9OUJaWNSUbZ81QzEO9o-OsOdVKA4SwZFrj9wMNSChdH8XXYJxyXtqB4K8PwSJbi4_2GxIIndRFUW-lcXPngG0lYYrMWJZoZPr6avoJotBnEfhGwKC2RvKtX0&amp;t=ffffffffeea0dba9" type="text/javascript"></script>
+<script type="text/javascript">
+//<![CDATA[
+function WebForm_OnSubmit() {
+if (typeof(ValidatorOnSubmit) == "function" && ValidatorOnSubmit() == false) return false;return (document.getElementById('__EVENTVALIDATION') != null);
+return true;
+}
+//]]>
+</script>
+
+<div>
+
+	<input type="hidden" name="__VIEWSTATEGENERATOR" id="__VIEWSTATEGENERATOR" value="7ABDDCD9" />
+	<input type="hidden" name="__EVENTVALIDATION" id="__EVENTVALIDATION" value="/wEdAC3yKhJH48Cw59Ax5A8J41sEsA85NK5zI996beR/xUpLSVe3uyNwVBEna4u+7uQcfqcnzkDBxrCgllQnHHxTC6SWee8UaJT6zKnmYYC22ZPcOaOjatMgNeaJsPN/nNqc0UStyRBcAP93WUl9hbT6bHC9P69v6aRBUrnsPm1cuOjeFxb6TOlGPAlpw85reR+INdV5WBRqVmfxXW7tK5/NM6oxPjoIrHniNYtA8vRzU7paV3Gpdmi7rgRcbFyIZ2LfRJFhKdE/tbsI/jRK4fk93izirxDkGGc/kzHgcf4c+ejgSloS/rw4zzf2FE/FEjWYYhiom+S2q9A0oeJVfrN46Ix3xN4I6Y1KAYCGDg/xwCZ4gscdj014/TA9axpciLvsd4TnBy4wEuFUajPUotpyMybp4BQ3yv4gxFL4NXl11wCnLyXo3xDQdyu4gOjSu9oJLx0m0d9o29Q0zQG7WgUMazBxxIb8auSOXYmUtJ2ax0mxVUgXg1sHWwps/S6DRR3fR5/t+5xCseSjR5MtYxxanZepVZnciCT6nrhQ7MKUJX1M/G/xqB7vuvleTj55AlOowcT1dug7f0smSXlM4geE6LeRAsHoUncLgpO396uGCYkSTR0njVKxNmLzf0egZAAEuAQJyZ57OdYe8nmqx+FRuMrB/mTTFZStfzOv6iaSbA7faOQ9jZ/D7ycrnvKdSYi0RAOecIEC9ThKg1BgrQi6roe5dt0wLG9tt0dcAb3WQ/FHFNBR+XU3FiCdY1ATXVQJi92adRZ0qlgJ4ppPX83YRJkRG7vJjAjbYEmEMV6mABOnv0NkzEtqrdwJTqt5+9QXBALzTdq5g4rIrIBUljPora5bCAPw5ndhaJBi7lk+OQz2/p4T0kc7S2vNJfohiakqSN3Algy+fTCKNDfdTXBoMv8BKYf1/U2vX58fiB9HAkTKCeJOMvLTj/B0vdiuCk/Fj1k4L8qxwp6iRaKuDXHzWda7q/yU48oUjvzMoo7LEfuhjQ==" />
+</div>
+
+<script type="text/javascript">
+<!--
+	// クリックジャック攻撃対策
+	CheckClickJack('/Form/Blank.aspx');
+
+	function pageLoad(sender, args) {
+		if (args.get_isPartialLoad()) {
+			// 
+			ams_jq_common();
+			//ams_jq_detail();
+			//ams_jq_list();
+		}
+
+		// ページロード共通処理
+		pageLoad_common();
+	}
+//-->
+</script>
+
+<!--リニューアル2015追加-->
+<script src="https://img.asm.w2s.xyz/Js/devicecheck.js"></script>
+  <!--[if lt IE 9]>
+  <script src="https://img.asm.w2s.xyz/Js/html5shiv-printshiv.js"></script>
+  <![endif]-->
+<link href="https://img.asm.w2s.xyz/Css/style_head_foot.css?2017-02-21" rel="stylesheet" type="text/css" media	="screen, print" />
+<link href="https://img.asm.w2s.xyz/Js/poplink.css" rel="stylesheet" type="text/css" media="screen, print" />
+<link href="https://img.asm.w2s.xyz/Css/rn2016.css" rel="stylesheet" type="text/css" media ="screen, print" />
+<script type="text/javascript" charset="Shift_JIS" src="https://img.asm.w2s.xyz/Js/poplink.js"></script>
+
+<script type="text/javascript">
+//<![CDATA[
+Sys.WebForms.PageRequestManager._initialize('ctl00$smScriptManager', 'aspnetForm', ['tctl00$BodyHeaderMain$ctl00','','tctl00$BodyHeaderMain$ctl01',''], [], [], 90, 'ctl00');
+//]]>
+</script>
+
+<a id="top"></a>
+<div id="wrapper">
+
+	
+	<div id="header" class="clear">
+		
+
+
+<style>
+#suggest{ width:152px !important; margin-left:-152px !important}
+/**/
+.old_header{display:none !important; width:980px; margin:0 auto; padding:23px 0 0 0;}/*padding:6px 0 0 0*/
+#logo img{ width:160px !important; height: auto; }
+#logo{ margin-bottom:10px !important}
+#logo a{ margin-bottom:6px;}
+#logo a,
+#logo span{ display:block !important;}
+
+.login_txt_2015{
+  line-height: 18px !important;
+  padding: 10px 0 6px 0;
+}
+.login_txt_2015 a{
+  text-decoration: underline;
+  color: #ffffff;
+}
+.login_txt_2015 span.ico{
+  display: inline-block;
+  padding-left: 29px;
+  position: relative;
+}
+.login_txt_2015 span.ico:after{
+  width: 20px;
+  height: 20px;
+  box-sizing: border-box;
+  -moz-box-sizing: border-box;
+  -webkit-box-sizing: border-box;
+  -webkit-background-size: 20px auto;
+  background-size: 20px auto;
+  position: absolute;
+  top: 50%;
+  left: 5px;
+  margin-top: -10px;
+  content: '';
+}
+.login_txt_2015 span.ico_regular:after{background-image: url(data:image/png;base64,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);
+}
+.login_txt_2015 span.ico_bronze:after{background-image: url(data:image/png;base64,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);
+}
+.login_txt_2015 span.ico_silver:after{background-image: url(data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAFAAAABQCAYAAACOEfKtAAAHrElEQVR4nO2cW2wbVRrHDUIIIR54AJ5BCB6rjhNAqoRaVImq7QOlsAuofeAJ8dCNFoldQJVopG5eVlSqareUBbWmF2q6JHHSpJdNmtImbJqLb+NLksaJL3F9iS8zHmc8dm7/fYjtdZKxMx77xM3Uf+n3MkmOz/eb4/OdKBOrVPXUU0899dRTj8ID4GkAJpCPCcDTta636gFwYhPk5XKi1vVWNQD25CpbWFiAIAiS4DgOrimXZOLxeKHEPbWuu2gANALYJZF3AYQBYHFxEQzDIh5nJBEKhWE0GSVjtpghCEJOYDj72lLn2biZAi1y3leJBCdZnhyBRpMRzjEnlpeX5UzP8kgL5PlUWfLkCjSajJiZmdkaAufn5yXLiEZjZRMIBGUJNJqMsNltkggEA7UTmE6nEQ7PEsPvfyhboIzVuvkCBUFAIBAkhtfrU7bAVCqFmRk/Mdxuj7IF8nwKXq+PGFNT00oXyGPa7SHGpMulbIFzczxcU9PEmHgwqWyBybk5PJh0EWN8YkLhApNJjE88IIZzbFzZAjkuCefYODHsDqfSBXJwOJzEsNntyhaYSHCw2R3EoG02pQtMgKZtxLBaaWULZNkELFaaGGaLVekCWZgtVoJYlC2QYVmYzBaCmJUhMPBDw7Ox9gZdjuTQlzHeeAzM4Dfw9fyFMEeIEun/G3jjMSSHvowV1hj4oeHZqgl0t29/njE04HHC3b79+UdWIHfnQwguTdXGE1wacHc+fHwEpr3nsMANgLv7UeU34+5HWOAGkPaeezwEcn0fYIEbWCnap6v8Zvh0+fG4vg+ULzDt+SlfcKWrMLf68jfE85OyBLLXdiBx+wCSg5+Btx6F4NKsKniBG0Am3IGUswVzo1+A6z+MxK09YAyNIuM1InFrD7j+w5gb/QIpZwsy4Y514wkuDXjrUSQHP0Pi9gGw13aQFRjVUr0xrZotRfS0OiFrtWX3unLh7h1av9ruHZI1lty9MXpandjQi5bqVUVPbnsrpqWWY1o1inJGLWsS7I3dyIQNZRXMm78uOh5v/rqssTJhA9gbu2XNPXamhA+tGjEttRw9ue0tlUqlUsVOUT+SEJiXGGyVKO+rDcfjzV9JkxdslS1PksBT1I/5t3Hgu9dfiGmpOAmBjKEBbPdOZELtFcv7v8S/l5YXagfbvbOiOZcWSMUD373+wqq9MKKhPiclkDE0QJg+W3rfK+MIUngUEkOYPlvxfEsJjGioz9c1k+Zm1ZNRrXqUlMDMbGfJoueGj0gea274SOkVONtJTGBUqx5tblY9Kd6RizWUSt/C13asKnA+3oO0//KqaylHi+TxUo6W1Z3Wfxnz8Z5V1+QeX0oLLGgcxSLaUCoUyPUdXCmMvQPe1gy26+2V63c/yYss57iROx6l/ZfB3f1k5SZ1vQ3e1owF9k52SzhYfYGFjaNYIhqqsdoCEz37kbIfB3v9HdGvJ//4FLz1qOTxeOtRJP/4VHy1X38HKftxJHr2V11gRENt/BRrVEt1ktgDtxpiAqNaqrP06ju1fT+pJrLVKNZEIqe27xeV525++ZmYVj0lKvC0GhF94zqibTvB9P6ZGPGePyF8/T2izLbvFq0tdrroMWbK3fzyM+ubh5b6ttTJ++GJRtxr2oULB/dCd2AfdAf24T/Hj4HjOGJEIhHifxO59b02X8+Fg3txr2kXHp5o3OjXuG9XyQtptr0S1aqF0j+0XqRSBEoXlz8LCiHNtldKNw4JIq1nv9nyAu9fOilZnGhDKdo4JBDvaALDMMQIh+X9m0M5THb/U1bt+YYS1VCtMQ1lKQfm0vspVv8xYr0tCASDxPD6yD9k7rr9L7D6j8Fcej9Vroeohmrd8FwolsJHfN1uDzFcSn/Ed+UBywliOMfGlC0wkUjAZrMTg6YV/ngby7Iwmy0EUcizMcUExhkGI6NGoihbYDyOoeERYgyPjChbYDqdht3hxP2hYSIMDZMVOD4xjmQyWROBXShIguMwNjaO/w7eryqD94eIiHO5XIXicunaTIFPANgH4PfCGSSTSdA0jZs3b+HGjZsV09PTWzVpJrMJHo+n8CMBcvk9W8sTmyZwjcw3AfwGIP9/9qlUClbaBkNHJ35rbZNN57WuisWZLWb4/X7Mz88XSlvOzvnNmkgTC4DXAJwFkL/FmUwGDocTbW3t+OWXK2XT2tYmWxxtoxEMBbG4uFgoTsjO8bVa+yoaAC8B+AeA/GeQLC0tYXJyEgZDBy5cuCiZq1f/XbY4h8OBSDSy9oMn4tk5vVRrP5ID4DkAfwXgy79vlpfh9frQ3X0dOt3PG6L/9deyOirDMmv3N192Ds/V2ofsAHgKwGEAdGFloVAYvb29OH9eVxS9Xr9xR50S7ah09jWfqnX9VQtWOvdeAH2FlTIMg/7+Aeh0P+PcufOruHJFXKDJbILHK9pR+7KvUZuOulkB8AaAqwCWcpXzPI/h4RFcvHipqECL1SLWUZeyY71R67o2PQBeBXAGazo3Tdug1+vzAmkbjVAoJNZRzwB4tdZ11DwAXgRwHEAsv6yWluDz+TAbmV3bUWPZ732x1vN+5IKVzt0EwLt2c8tea8JW7qibFax07kMArFkOKaqj1lNPPfXUU0899dSz5fM/+zNI+6QFdXkAAAAASUVORK5CYII=);
+}
+.login_txt_2015 span.ico_gold:after{background-image: url(data:image/png;base64,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);
+}
+
+
+</style>
+
+<div class="navbar-nav"></div>
+
+<div class="old_header">
+    <dl class="clear" id="head_logo">
+      <dt id="logo"><a href="/"><img src="https://img.asm.w2s.xyz/Contents/img/logo_2015.gif" width="102" height="24" alt="A!SMART アスマート"></a></dt>
+    <dd>
+    <span class="head_bt_box">
+        <span class="bt_about">
+        <a href="/Page/a_guide/index.aspx">
+            <img src="https://img.asm.w2s.xyz/Contents/Images/bt_about_off.gif" alt="→ご利用ガイド" width="69" height="10" />
+        </a>
+        </span>
+
+        <!--▼ メール認証画面では、ミニカートを非表示 ▼-->
+        
+        <span class="bt_cart">
+        <a href="/Form/Order/CartList.aspx">
+          <!--▼ 国内アクセス ▼-->
+    
+        <img src="https://img.asm.w2s.xyz/Contents/Images/bt_cart_off.gif" alt="カートを見る" width="117" height="22" />
+        
+    <!--▲ 国内アクセス ▲-->
+    <!--▼ 海外アクセス ▼-->
+    
+    <!--▲ 海外アクセス ▲-->
+        </a>
+        </span>
+        
+        <!--▲ メール認証画面では、ミニカートを非表示 ▲-->
+
+    </span>
+    <span class="form_box">
+        <input name="ctl00$BodyHeaderMain$tbSearchWord2" type="text" id="ctl00_BodyHeaderMain_tbSearchWord2" class="search_txt_box" />
+        <a id="ctl00_BodyHeaderMain_lbSearch2" href="javascript:__doPostBack(&#39;ctl00$BodyHeaderMain$lbSearch2&#39;,&#39;&#39;)">
+            <img src="https://img.asm.w2s.xyz/Contents/Images/bt_search.gif" alt="検索"/>
+        </a>
+
+        <!-- サジェスト機能 -->
+       <!-- <script type="text/javascript" src="//popword-js.probo.biz/popword.js" charset="UTF-8"></script>-->
+        <script>
+        <!--
+          // var p = new popWord({'targetid':'ctl00_BodyHeaderMain_tbSearchWord', 'uid':'4d3c9ba79ebc517decd461656474f798', 'cssid':'suggest'});
+        //-->
+       </script>
+
+    </span>
+    </dd>
+    </dl>
+
+    <div id="ctl00_BodyHeaderMain_ctl00">
+	
+    <div id="cart_info_box">
+        <p class="no_display" style="display: inline;">
+        商品点数
+        </p>
+        <p class="item_count" style="display: inline;">
+        0
+        </p>
+        <p class="no_display" style="display: inline;">
+        点｜小計&yen;0
+        </p>
+    </div>
+    
+</div>
+
+    <div id="topicpath">
+    <ul>
+    <li class="home">
+    <a href="/">
+        <img src="https://img.asm.w2s.xyz/Contents/Images/bt_home_off.gif" alt="HOME" width="39" height="8" />
+    </a>
+    </li>
+    <li>
+        
+    </li>
+    <li>
+        <span id="ctl00_BodyHeaderMain_SiteMapPath1"><a href="#ctl00_BodyHeaderMain_SiteMapPath1_SkipLink"><img alt="ナビゲーション リンクのスキップ" src="/WebResource.axd?d=JtnEtWUS1pfmp9V8ZnkVjz2VrVTQYSjWqnfNDAI77yh1N0KAlZe650uUQf5_2GSgQm8qyp3VsWLxMQ9nd1MN-j9I4JeKJvn8ctxbuEIhO701&amp;t=635875833181218729" width="0" height="0" style="border-width:0px;" /></a><span><a title="トップ" href="/Default.aspx">トップ</a></span><span> &gt; </span><span><a title="会員登録">会員登録</a></span><span> &gt; </span><span>会員規約</span><a id="ctl00_BodyHeaderMain_SiteMapPath1_SkipLink"></a></span>
+    </li>
+    </ul>
+
+    </div>
+    <div id="search_more">
+    <a href="/Form/Product/ProductList.aspx">詳細検索はこちら</a>
+    </div>
+</div><!-- / .old_header -->
+
+
+
+<div class="header op3">
+  <div class="header_inner clearfix">
+    <div class="logo">
+      <a href="/"><img src="https://img.asm.w2s.xyz/Contents/img/logo_2015.gif" width="102" height="24" alt="A!SMART アスマート"></a>
+      
+    </div>
+    <div class="box_r">
+
+<div id="ctl00_BodyHeaderMain_ctl01">
+	
+    <!--国内-->
+    
+      <ul>
+        <li class="ico_login"><a href="/Form/Login.aspx">ログイン</a></li><li class="ico_member"><a href="/Form/User/UserRegistRegulation.aspx">会員登録</a></li><li class="ico_guide"><a href="/Page/a_guide/index.aspx">ガイド</a></li><li class="ico_cart"><a href="/Form/Order/CartList.aspx">カートをみる</a></li><li class="ico_asmart_mag"><a href="http://mag.asmart.jp/" target="_blank"><img src="https://img.asm.w2s.xyz/Contents/img/btn_asmartmag_2015.gif" alt="A!SMART MAGAZINE"></a></li><li class="ico_aid"><a href="http://id.amob.jp/" target="_blank"><img src="https://img.asm.w2s.xyz/Contents/img/btn_aid_2015.gif" height="22" alt="A!ID"></a></li><li class="ico_tw"><a href="http://twitter.com/asmart_shop" target="_blank"><img src="https://img.asm.w2s.xyz/Contents/img/btn_tw_2015.gif" height="22" alt="Twiiter"></a></li><li class="ico_youtube"><a href="https://www.youtube.com/channel/UC_HWq72mGUBtd12tDO2qppg" target="_blank"><img src="https://img.asm.w2s.xyz/Contents/img/btn_youtube_2015.gif" height="22" alt="YouTube"></a></li><li class="ico_line"><a href="
+https://line.me/ti/p/%40okj5200s" target="_blank"><img src="https://img.asm.w2s.xyz/Contents/img/btn_line.gif" height="22" alt="LINE"></a></li><li class="li_freeshipping">￥5000以上で<br>送料無料</li>
+      </ul>
+    
+    <!--国内-->
+    <!--海外-->
+    
+</div>
+    <!--海外-->
+    </div><!-- /.box_r -->
+  </div><!-- /.header_inner -->
+  <div class="h_search clearfix">
+
+
+
+
+    <div class="h_search_wrap">
+      <div class="dropdown_box">
+        <a href="javascript:void(0);" class="ico_dropdown">
+          
+          商品を探す
+          
+        </a>
+      </div><!-- /.dropdown_box -->
+
+      <div class="artist_search_box">
+        <div class="search_sbox">
+     <span class="input_base"><input name="ctl00$BodyHeaderMain$tbSearchWord" type="text" id="ctl00_BodyHeaderMain_tbSearchWord" class="search_txt_box" placeholder="SEARCH" onkeypress="if (event.keyCode==13){__doPostBack(&#39;ctl00$BodyHeaderMain$lbSearch&#39;,&#39;&#39;); return false;}" /></span>
+        <a id="ctl00_BodyHeaderMain_lbSearch" href="javascript:__doPostBack(&#39;ctl00$BodyHeaderMain$lbSearch&#39;,&#39;&#39;)">
+        <img src="https://img.asm.w2s.xyz/Contents/img/btn_search.gif" alt="search" class="show_pctb"><!-- <img src="https://img.asm.w2s.xyz/Contents/img/btn_search.png" alt="search" class="show_sp"> -->
+        </a>
+        <script><!--
+    var p = new popLink({ 'id': 'poplink', 'targetid': 'ctl00_BodyHeaderMain_tbSearchWord' });
+--></script>
+
+     
+        </div><!-- /.search_sbox -->
+      </div><!-- /.search_box -->
+
+
+
+    </div><!-- /.h_search_wrap -->
+  </div><!-- /.h_search -->
+
+<div class="megadorpdown_box dip_n">
+<div class="sbox">
+<div id="InnerMDDM" style="min-height: 200px">
+  <div class="js-tab dip_n" id="search_detail">
+    
+<div class="detail_search_box">
+<table border="0" cellpadding="0" cellspacing="0" summary="検索" class="d_search_tab">
+	<tr>
+		<th>カテゴリで絞り込む</th>
+		<td>
+		<span class="select w100p">
+			<select name="ctl00$BodyHeaderMain$ProductDetailSearchMDDM$ddlCategoryCondition" id="ctl00_BodyHeaderMain_ProductDetailSearchMDDM_ddlCategoryCondition" class="js_select">
+	<option value="">指定なし</option>
+	<option value="100">ミュージシャン</option>
+	<option value="200">男性俳優・タレント</option>
+	<option value="300">女性俳優・タレント</option>
+	<option value="400">スペシャリスト</option>
+	<option value="500">イベント・TV</option>
+	<option value="600">エンタテインメント</option>
+	<option value="700">クリエイター</option>
+	<option value="800">ライフスタイル</option>
+
+</select>
+		</span>
+		</td>
+	</tr>
+	
+	
+	<tr>
+		<th>キーワード</th>
+		<td>
+		<div class="input_box">
+			<input name="ctl00$BodyHeaderMain$ProductDetailSearchMDDM$txtWordCondition" type="text" id="ctl00_BodyHeaderMain_ProductDetailSearchMDDM_txtWordCondition" />
+		</div>
+
+			<span id="ctl00_BodyHeaderMain_ProductDetailSearchMDDM_rbWordTypeCondition"><input id="ctl00_BodyHeaderMain_ProductDetailSearchMDDM_rbWordTypeCondition_0" type="radio" name="ctl00$BodyHeaderMain$ProductDetailSearchMDDM$rbWordTypeCondition" value="" checked="checked" /><label for="ctl00_BodyHeaderMain_ProductDetailSearchMDDM_rbWordTypeCondition_0">すべて</label><input id="ctl00_BodyHeaderMain_ProductDetailSearchMDDM_rbWordTypeCondition_1" type="radio" name="ctl00$BodyHeaderMain$ProductDetailSearchMDDM$rbWordTypeCondition" value="PRODUCTNAME" /><label for="ctl00_BodyHeaderMain_ProductDetailSearchMDDM_rbWordTypeCondition_1">商品名</label><input id="ctl00_BodyHeaderMain_ProductDetailSearchMDDM_rbWordTypeCondition_2" type="radio" name="ctl00$BodyHeaderMain$ProductDetailSearchMDDM$rbWordTypeCondition" value="COOPERATIONID2" /><label for="ctl00_BodyHeaderMain_ProductDetailSearchMDDM_rbWordTypeCondition_2">商品番号</label></span>
+		</td>
+	</tr>
+	<tr>
+		<th>価格帯</th>
+		<td>
+		<span class="select">
+			<select name="ctl00$BodyHeaderMain$ProductDetailSearchMDDM$ddlPriceConditionFrom" id="ctl00_BodyHeaderMain_ProductDetailSearchMDDM_ddlPriceConditionFrom" class="js_select">
+	<option value="" Class="min_none">指定なし</option>
+	<option value="500" Class="min_500">500 円</option>
+	<option value="1000" Class="min_1000">1,000 円</option>
+	<option value="2000" Class="min_2000">2,000 円</option>
+	<option value="3000" Class="min_3000">3,000 円</option>
+	<option value="4000" Class="min_4000">4,000 円</option>
+	<option value="5000" Class="min_5000">5,000 円</option>
+	<option value="10000" Class="min_10000">10,000 円</option>
+	<option value="20000" Class="min_20000">20,000 円</option>
+	<option value="30000" Class="min_30000">30,000 円</option>
+
+</select>
+		 円～ </span>
+		<span class="select">
+			<select name="ctl00$BodyHeaderMain$ProductDetailSearchMDDM$ddlPriceConditionTo" id="ctl00_BodyHeaderMain_ProductDetailSearchMDDM_ddlPriceConditionTo" class="js_select">
+	<option value="" Class="max_none">指定なし</option>
+	<option value="500" Class="max_500">500 円</option>
+	<option value="1000" Class="max_1000">1,000 円</option>
+	<option value="2000" Class="max_2000">2,000 円</option>
+	<option value="3000" Class="max_3000">3,000 円</option>
+	<option value="4000" Class="max_4000">4,000 円</option>
+	<option value="5000" Class="max_5000">5,000 円</option>
+	<option value="10000" Class="max_10000">10,000 円</option>
+	<option value="20000" Class="max_20000">20,000 円</option>
+	<option value="30000" Class="max_30000">30,000 円</option>
+
+</select> 円</span>
+		</td>
+	</tr>
+	<tr>
+		<th>絞り込み条件</th>
+		<td>
+			<input id="ctl00_BodyHeaderMain_ProductDetailSearchMDDM_chkPrivilegeCondition" type="checkbox" name="ctl00$BodyHeaderMain$ProductDetailSearchMDDM$chkPrivilegeCondition" /><label for="ctl00_BodyHeaderMain_ProductDetailSearchMDDM_chkPrivilegeCondition">特典付き</label>
+			<input id="ctl00_BodyHeaderMain_ProductDetailSearchMDDM_chkSignCondition" type="checkbox" name="ctl00$BodyHeaderMain$ProductDetailSearchMDDM$chkSignCondition" /><label for="ctl00_BodyHeaderMain_ProductDetailSearchMDDM_chkSignCondition">サイン入り</label>
+			<input id="ctl00_BodyHeaderMain_ProductDetailSearchMDDM_chkCampaignCondition" type="checkbox" name="ctl00$BodyHeaderMain$ProductDetailSearchMDDM$chkCampaignCondition" /><label for="ctl00_BodyHeaderMain_ProductDetailSearchMDDM_chkCampaignCondition">キャンペーン</label>
+			<input id="ctl00_BodyHeaderMain_ProductDetailSearchMDDM_chkFCCondition" type="checkbox" name="ctl00$BodyHeaderMain$ProductDetailSearchMDDM$chkFCCondition" /><label for="ctl00_BodyHeaderMain_ProductDetailSearchMDDM_chkFCCondition">FC／メンバー</label>
+		</td>
+	</tr>
+</table>
+
+<div class="btn_box">
+	<a id="ctl00_BodyHeaderMain_ProductDetailSearchMDDM_lbSearch" href="javascript:__doPostBack(&#39;ctl00$BodyHeaderMain$ProductDetailSearchMDDM$lbSearch&#39;,&#39;&#39;)">
+		検索
+	</a>
+</div>
+</div>
+
+  </div>
+</div>
+</div><!-- /.sbox -->
+</div><!-- /.megadorpdown_box -->
+<script type="text/javascript">
+ $(function(){
+        $.ajax({
+            url: "/Form/Common/MDDM.aspx?inter=0&locale=",
+            dataType: "html",
+            success: function (html) {
+                $("#InnerMDDM").html(html + $("#InnerMDDM").html());
+                // bindMegaDropdown();
+                megaDropdown();
+            },
+            error: function (html) {
+                $("#InnerMDDM").html('再度お試しください');
+            }
+        });
+    });
+</script>
+</div><!-- /.header -->
+
+
+
+
+
+
+
+	</div><!--header-->
+	
+
+	
+	<div id="wrap" class="clear">
+		
+
+		
+		
+<style type="text/css" media="screen">
+  .scroll_box ul.sub{margin-left: 10px;}
+</style>
+<div id="contents_long">
+
+<div id="main_rn2016">
+<!--会員登録タイトル-->
+<h1 class="ttl_h1">会員登録</h1>
+<ol class="flow">
+  <li class="current"><span>1. 利用規約・メール確認</span></li><li class=""><span>2. 会員情報の入力</span></li><li class=""><span>3. 入力内容の確認</span></li><li class=""><span>4. 登録完了</span></li>
+</ol>
+
+<h2 class="ttl_h2">利用規約</h2>
+
+<div class="shadow_box">
+  <div class="inner">
+    <p class="lead">アスマートをはじめてご利用頂く方へ。<br>
+新規会員登録をされる場合、以下の利用規約を必ずお読みいただき、<br>
+メールによる本人確認が必要です。</p>
+
+    <div class="box">
+      <div class="scroll_box">
+        
+<h4><b>利用規約</b></h4>
+
+
+<p>株式会社アミューズ（以下「当社」といいます。）は、当社が運営するオンラインショップ「アスマート」（以下「本サイト」といい、本サイトを通じて当社が提供するサービスを「本サービス」といいます。）の運営に関する利用規約（以下「本規約」といいます。）を以下のとおり定めます。</p>
+
+
+
+  <h4 id="member01"><strong>第1条 本規約の適用範囲</strong></h4>
+  <ul class="main_list mb30">
+  <li><span class="no">1.</span>本規約は、当社と利用者の間における本サービスの利用および運営等に係る一切の事項に適用されるものとし、利用者は、本規約の内容を確認しこれに同意した上で、本サービスを利用するものとします（ただし、本サービスからリンクする他社サイトで提供されるサービスについては、当該他社サイトにおける利用規約等のルールが適用されます。）。</li>
+  <li><span class="no">2.</span>本サイトにおいて当社が表示する「ご利用ガイド」、「ヘルプ」、「よくある質問」等の諸規定（以下「諸規定」といいます。）は、本規約の一部を構成するものとします。</li>
+  </ul>
+
+  <h4 id="member02"><strong>第2条 規約の変更</strong></h4>
+  <p>当社は、本規約の内容を利用者に予告なく変更することができるものとします。変更後の本規約は、当社が別途定める場合を除き、本サイト上に表示された時点より効力を生じるものとします。本規約の変更の効力が生じた後に本サービスを利用した利用者は、変更後の本規約の内容に同意したものとみなされます。</p>
+
+  <h4 id="member03"><strong>第3条 利用者</strong></h4>
+  <p>本規約において「利用者」とは、本サイトの閲覧、本サイトに掲げた商品の購入、その他本サービスを利用する者をいいます（第5条に定める会員を含みます。）。本サービスを利用した時点で、利用者は本規約の全ての内容に同意したものとみなされます。</p>
+
+  <h4 id="member04"><strong>第4条 本サービスの利用</strong></h4>
+  <ul class="main_list mb30">
+  <li><span class="no">1.</span>利用者は、本規約および当社が定めるその他の規約・注意事項等に従って本サービスを利用するものとします。</li>
+  <li><span class="no">2.</span>利用者は、本サービスを通じて利用者が発信する情報につき一切の責任を負うものとし、当社に何等の迷惑または損害も与えないものとします。</li>
+  <li><span class="no">3.</span>利用者が未成年者の場合、親権者の同意を得た上で本サービスを利用するものとします。</li>
+  </ul>
+
+
+  <h4 id="member05"><strong>第5条 会員登録</strong></h4>
+  <ul class="main_list mb30">
+  <li><span class="no">1.</span>本規約において、「会員」とは、当社所定の手続により、本規約および「A!-ID［A!-POINT］サービス利用規約」に同意した上で会員登録申請を行い、当該申請を当社が承認した者をいいます。利用者は、会員となることにより本サービスを通じて本サイト上の商品の購入をすることができます。なお、会員登録は無料です。</li>
+  <li><span class="no">2.</span>会員が本サイトに登録したA!-IDおよびパスワードの管理および使用に関しては、全て当該会員が自らの責任で行うものとします。なお、ログインにはA!-IDおよびパスワードの入力が必要となります。当社は、会員によるA!-IDおよびパスワードの管理および使用に関して一切の責任を負わないものとします。登録されたA!-IDおよびパスワードを用いて当社に対して行われた意思表示は、当該A!-IDおよびパスワードを会員登録事項とする会員による意思表示とみなします。</li>
+  <li><span class="no">3.</span>会員が本サイトに登録したA!-IDおよびパスワードは、当該会員のみが本サービスにおいて使用できるものとし、A!-IDおよびパスワードの他人への譲渡、貸与は一切禁止します。また、会員として有する権利は当該会員のみが行使できるものとし、当該権利の他人への譲渡、貸与、担保提供は一切禁止します。</li>
+  <li><span class="no">4.</span>会員は、当社に申告する会員登録事項のすべての項目に関していかなる虚偽の申告もしてはならないものとします。会員は、当社から会員登録事項の確認のための資料の提出を求められた場合には、当社の定める期間内にこれに応じるものとします。</li>
+  <li><span class="no">5.</span>当社は、利用者が次の各号のいずれかに該当すると判断した場合、当該利用者による会員登録申請を承認しないものとします。
+  <ul class="sub">
+  <li><span class="no">(1)</span>当該利用者が、過去に、本サービスその他当社の提供するサービスに関して、当社が定める規約・注意事項等（本規約を含みますが、これに限られません。）に違反したことが判明した場合</li>
+  <li><span class="no">(2)</span>当該利用者の申告した会員登録事項に虚偽の事実が含まれていることが判明した場合</li>
+  <li><span class="no">(3)</span>当該利用者が、過去に、本サービスその他当社の提供するサービスに関して、代金等の支払債務の履行遅滞その他の債務不履行があったことが判明した場合</li>
+  <li><span class="no">(4)</span>当該利用者が、過去に本規約第16条（禁止事項）の行為を行ったことが判明した場合</li>
+  <li><span class="no">(5)</span>その他当該利用者の会員登録申請を承認することが本サービスの運営・管理上、不適当と当社が判断する場合</li>
+  </ul></li>
+  <li><span class="no">6.</span>会員登録事項に変更が生じた場合、会員は、速やかに当社所定の変更手続を行うものとします。当社は、会員が当該変更手続を行わなかったことにより当該会員に損害または不利益が生じたとしても、一切責任を負わないものとします。</li>
+  <li><span class="no">7.</span>本サービスに関し、当社は、会員に対して随時必要な事項を通知します。当該通知は、本サイト上に表示された時点で全ての会員に通知されたものとみなします。</li>
+  <li><span class="no">8.</span>会員は、当社所定の手続により退会することができます。会員は、当社が会員からの退会申請を受領した時点で、会員の地位を喪失するものとします。</li>
+  </ul>
+
+  <h4 id="member06"><strong>第6条 ポイントサービス</strong></h4>
+  <ul class="main_list mb30">
+  <li><span class="no">1.</span>［A!-POINT］は、本サービスにおいて当社が提供するポイントサービス（以下「ポイントサービス」といいます。）です。ポイントサービスは、「アスマート」および［A!-POINT］参加サイト（以下、総称して「指定サイト」といいます。）にて利用するこができます。ポイントサービスにより付与されるポイントを「ポイント」といいます。</li>
+  <li><span class="no">2.</span>［A!-POINT］では、指定サイトでの利用額や利用状況に応じて、ポイントを貯めることができます。</li>
+  <li><span class="no">3.</span>当社は、利用者が［A!-POINT］指定サイトにおいて、当社の指定する方法で物品等の購入またはサービスを利用したとき、その他当社が相当と認めた場合に、当該利用者に対してポイントを付与します。</li>
+  <li><span class="no">4.</span>指定サイト、ポイント付与の対象となるサービスおよび取引（以下、総称して「対象取引」といいます）、ポイントの付与率、ポイントの利用方法、その他ポイント付与および利用の条件は、当社が別途定める「A!-ID［A!-POINT］サービス利用規約」その他当社が定める規約・注意事項等に従うものとし、指定サイトにおいて表示します。</li>
+  <li><span class="no">5.</span>対象取引の範囲については、取引の種類、または利用サービスの種類等によって異なる場合があります。</li>
+  <li><span class="no">6.</span>ポイントは、対象取引が行なわれてから、当社が定める一定の期間を経た後に付与されます。この期間内に、当社が対象取引につき契約の解除などがあったことを確認した場合は、当該対象取引によるポイントの付与はされず、また当該対象取引の購入額に変更があった場合は、変更後の購入額に応じてポイントが付与されます。</li>
+  <li><span class="no">7.</span>利用者は、保有するポイントを他の利用者に譲渡、貸与することや、利用者間でポイントを共有することはできません。</li>
+  <li><span class="no">8.</span>一人の利用者が複数の会員登録をしている場合、利用者はそれぞれの会員登録において保有するポイントを合算することはできません。</li>
+  <li><span class="no">9.</span>利用者は、いかなる場合でもポイントを換金することはできません。</li>
+  <li><span class="no">10.</span>当社がポイントを付与した後に、対象取引について契約の解除その他当社がポイントの付与を取り消すことが適当と判断する事由があった場合、当社は、当該対象取引により付与されたポイントを取り消すことができます。</li>
+  <li><span class="no">11.</span>当社は、利用者が次の各号のいずれかに該当すると判断した場合、当社は利用者に事前に通知することなく、利用者が保有するポイントの一部または全部を取り消すことができます。
+    <ul class="sub">
+  <li><span class="no">(1)</span>違法または不正行為があった場合</li>
+  <li><span class="no">(2)</span>本規約、会員規約、A!-ID［A!-POINT］サービス利用規約その他当社が定める規約・注意事項等に違反があった場合</li>
+  <li><span class="no">(3)</span>その他当社が利用者に付与されたポイントを取り消すことが適当と判断した場合</li>
+  </ul>
+</li>
+  <li><span class="no">12.</span>当社がポイントを付与した後に、利用者が当社所定のポイントの有効期間を超えて対象取引を行わなかった場合、ポイントは自動的に消滅します。</li>
+  <li><span class="no">13.</span>当社は、取消しまたは消滅したポイントについて何らの補償も行わず、一切の責任を負いません。</li>
+  <li><span class="no">14.</span>利用者が購入した商品について、配送の遅延、または配送中もしくは納入後に紛失、盗難、破損等の事故が生じた場合は、当該事故について当社の故意または重過失がある場合を除き、当社は一切責任を負わず、ポイントの払い戻しも行いません。</li>
+  <li><span class="no">15.</span>ポイントの使用は、利用者本人が行うものとし、当該利用者以外の第三者が行うことはできません。</li>
+  <li><span class="no">16.</span>当社は、ポイント使用時に入力されたA!-IDおよびパスワードが登録されたものと一致することを当社所定の方法により確認した場合には、当該A!-IDおよびパスワードを会員登録事項とする利用者による使用とみなします。それが第三者による不正使用であった場合でも、当社は使用されたポイントを返還せず、利用者に生じた損害について一切責任を負いません。</li>
+  <li><span class="no">17.</span>利用者が会員の地位を喪失した場合には、当該利用者は、保有するポイント、その他本サービスの利用に関する一切の権利を失うものとし、また地位の喪失にともなって当社に対して何らの請求権も取得しないものとします。</li>
+  <li><span class="no">18.</span>当社は、利用者に事前に通知することなく、ポイントサービスの変更（ポイントサービスの廃止、ポイント付与の停止、指定サイトもしくは対象取引の変更・廃止、またはポイント付与率もしく利用方法の変更を含みますが、これらに限られません。）を行うことがあり、利用者はこれを予め承諾するものとします。</li>
+  <li><span class="no">19.</span>当社は、前項の変更により利用者に不利益または損害が生じた場合であっても、これらについて一切責任を負わないものとします。</li>
+  </ul>
+
+  <h4 id="member07"><strong>第7条 売買契約の成立</strong></h4>
+  <ul class="main_list mb30">
+  <li><span class="no">1.</span>本サービスにおける会員と当社との間の売買契約は、本サイトを通じて当社が会員からの注文情報を受け取り、本サイト上に注文が完了した旨が表示された時点で成立するものとします。なお、売買契約成立後、当社は、会員に対し、当該表示とは別途、注文確認メールにより注文内容を通知するものとします。</li>
+  <li><span class="no">2.</span>システム障害により、会員が発信した注文情報が当社に到達しない場合には、申込の効力は発生しないものとし、それに伴って生じた会員の損害については、当社は責任を負わないものとします。</li>
+  <li><span class="no">3.</span>未成年の会員は、必ず親権者の同意を得たうえで商品の注文を行うものとします。</li>
+  <li><span class="no">4.</span>売買契約成立後、当社は、会員が注文時に指定した第9条1項で定める決済方法により、会員と当社との間に成立した売買契約に基づく代金（以下「代金」といいます。）を会員に請求できるのものとします。</li>
+  <li><span class="no">5.</span>本サービスにおける売買契約に関する当社の問合せ担当窓口および連絡先は、以下のとおりとします。<br>
+アスマート販売事務局<br>
+電話　0570-064-452 (平日9:30〜18:00)<br>
+<a href="/Page/a_guide/inquiry.aspx" class="fc_green tdu">お問い合わせフォーム</a></li>
+
+  </ul>
+
+  <h4 id="member08"><strong>第8条 当社による契約の解除</strong></h4>
+  <ul class="main_list mb30">
+  <li><span class="no">1.</span>当社は、売買契約成立後、次の各号のいずれかの事由に該当した場合、注文者である会員に個別に通知することにより、当該売買契約を解除することができます。
+    <ul class="sub">
+    <li><span class="no">(1)</span>届先不明・不在等により、当社所定の期間内に商品を納入できない場合。</li>
+    <li><span class="no">(2)</span>登録した会員登録事項に虚偽の事実が認められた場合。</li>
+    <li><span class="no">(3)</span>当社指定の期間内に会員が代金の支払を行なわなかった場合。</li>
+    <li><span class="no">(4)</span>クレジットカード決済を選択した場合に、クレジットカード会社の承認が得られない場合</li>
+    <li><span class="no">(5)</span>商品購入条件（代金支払い、商品引渡し、その他の条件）に関する当社からの連絡（会員が登録した電子メールアドレスその他の連絡先）に対して、2週間以内に会員が必要な回答を行わない場合</li>
+    <li><span class="no">(6)</span>メーカーや仕入先で商品の製造が中止される等、当社の責に帰すべき事由によらずに商品を納入することが不可能となった場合</li>
+    <li><span class="no">(7)</span>当該会員が本規約第13条（措置）第(2)号ないし第(6)号のいずれかに該当することが判明した場合</li>
+    </ul>
+</li>
+  <li><span class="no">2.</span>前項の規定に関わらず、本サービスの利用に関し、会員に、本規約その他当社が定める規約・注意事項等に違反する等の不正な行為があった場合、当社は当該会員との間の売買契約を解除することができるものとします。</li>
+  </ul>
+
+  <h4 id="member09"><strong>第9条 支払い方法</strong></h4>
+  <ul class="main_list mb30">
+  <li><span class="no">1.</span>会員は、商品購入時に、当社所定の方法により、「クレジットカード」、「コンビニ／電子決済」、「コンビニ後払い（NP）」のいずれかの決済方法を指定できるものとし、指定した決済方法に従って代金を支払うものとします。</li>
+  <li><span class="no">2.</span>当社は、前項に定める決済方法を追加または削除することができるものとします。</li>
+  <li><span class="no">3.</span>会員がクレジットカード決済を指定した場合において、指定したクレジットカード会社からカード与信不履行の旨の連絡があった場合、当社は、会員に対し他の決済方法による代金支払いの請求を行えるものとします。</li>
+  </ul>
+
+  <h4 id="member10"><strong>第10条 商品の発送</strong></h4>
+  <ul class="main_list mb30">
+  <li><span class="no">1.</span>会員は、商品購入時に、当社所定の方法により、商品の納入先として登録された会員の住所または別の住所を指定するものとし、当社は、当社が指定する配送業者による宅配便等にて、商品を指定された納入先に届けるものとします。商品の納入先は日本国内のみとします。なお、当社は、会員に対し、商品発送時に、発送確認メールにより発送の連絡をするものとします。</li>
+  <li><span class="no">2.</span>コンビニ決済、郵便振替（前払い）による代金支払の場合、当社は、当該決済方法による商品代金の入金が確認できた後、商品の発送の手配を開始するものとします。</li>
+  <li><span class="no">3.</span>クレジットカード決済による代金支払の場合、当社は、クレジットカード会社からの承認の連絡を受けた後、商品の発送の手配を開始するものとします。</li>
+  <li><span class="no">4.</span>本条第1項に定める配送業者が、商品を指定された納入先送先に送付したにも係わらず、届先不明、または配送業者所定の保管期間内に商品の受け取りがなされない場合、当社は、売買契約上の商品引渡債務の履行を提供したものとし、会員に対する債務不履行責任を一切負わないものとします。また、この場合、当社は自己の財産におけると同一の注意義務により商品を保管すれば足りるものとし、当該保管に伴う増加費用は会員の負担となるものとします。</li>
+  <li><span class="no">5.</span>前項の場合、当社から相当な期間を定めた催告をしたにもかかわらず当該期間内に会員による商品の受け取りがないときは、当社は、本規約第8条第1項第(1)号に基づき当該商品についての売買契約を解除し、これに伴い発生する損害の賠償を当該会員に請求することができるものとします。</li>
+  <li><span class="no">6.</span>納入日に会員が不在等のため、配送業者が商品を納入できずに持ち帰り、「不在通知書」が残されていた場合には、会員自ら配送業者に連絡を取り再配送の手配を行うものとします。</li>
+  <li><span class="no">7.</span>当社は、通常、代金の入金が確認できた後、10日以内に商品の発送をするものとし、会員は予めこれを承諾するものとします。</li>
+  <li><span class="no">8.</span>商品お届けまでの期間は、次の各号に定める理由により、前項に定める期間内に発送した場合の通常のお届け期間を超える場合があり、会員は予めこれを承諾するものとします。
+  <ul class="sub">
+  <li><span class="no">(1)</span>商品が一時的に品切れとなった場合</li>
+  <li><span class="no">(2)</span>注文内容に不備（必要事項の記入漏れ、記入間違い、料金過不足等）があった場合</li>
+  <li><span class="no">(3)</span>天候等の不可抗力</li>
+  <li><span class="no">(4)</span>配送業者側の事情により配送が遅延する場合</li>
+  <li><span class="no">(5)</span>年末年始・ゴールデンウィークなどの連休をはさむ場合</li>
+  </ul></li>
+  <li><span class="no">9.</span>商品の所有権は、会員による商品の受領をもって、当社から会員に移転するものとします。ただし、クレジットカード決済による代金支払の場合は、利用者がクレジットカード会社との間で別途締結する条件に従うものとします。</li>
+  <li><span class="no">10.</span>当社は、会員への商品お届けが遅延したことによる会員の直接的および間接的損害について、一切の責任を負わないものとします。ただし、当社の故意または重過失により会員に損害が生じた場合には、当社は、会員に対して当該損害を賠償するものとします。</li>
+  </ul>
+
+  <h4 id="member11"><strong>第11条 会員による契約の解除、商品の交換</strong></h4>
+  <ul class="main_list mb30">
+  <li><span class="no">1.</span>売買契約成立後、会員は、すべての注文について、他の商品への変更、仕様の変更、または会員の都合による契約の解除は行えないものとします。ただし、次項または第3項に定める場合はこの限りではありません。</li>
+  <li><span class="no">2.</span>売買契約成立後、会員は、注文について、当社所定のキャンセル可能期間（以下「キャンセル可能期間」といいます。）内に限り、売買契約を解除できるものとします。なお、キャンセル可能期間その他会員による売買契約の解除の方法等の詳細については、諸規定において定めるものとします。</li>
+  <li><span class="no">3.</span>会員は、商品の受領後、遅滞なく商品に破損、瑕疵または商品違いがないかを確認し、もしある場合は、商品受領後14日以内に当社へ連絡するものとします。当社の責に帰すべきと認められた場合、当社は無償で新品との交換を行うものとします。この場合、交換可能な在庫があるときは、交換のみ可能（売買契約の解除は不可）としますが、在庫切れその他の事由により、交換可能な新品を用意できないときは、当社は、売買契約を解除した上で返品および返金を行うものとします。</li>
+  <li><span class="no">4.</span>前項の場合、当社の裁量により、当社が新品を配送し商品と交換する場合と、会員が商品を当社が指定する住所に商品を着払いにて返送のうえ当社が新品を配送し交換する場合があるものとします。</li>
+  <li><span class="no">5.</span>本条第3項の定めにかかわらず、当社は、会員の責に帰すべき事由により商品に破損もしくは汚れ等の不具合が生じた場合、会員が商品を使用した場合、または会員が前項に違反した場合については、交換・返品には応じられません。</li>
+  <li><span class="no">6.</span>当社は、本サービスを通じて販売した商品に瑕疵がある場合、第3項に定める場合を除き、損害賠償責任その他一切の責任を負わないものとします。</li>
+  </ul>
+
+  <h4 id="member12"><strong>第12条 本サービスの停止等</strong></h4>
+  <ul class="main_list mb30">
+  <li><span>当社は、以下のいずれかの事由に該当する場合、利用者に事前に通知することなく、また利用者の承諾なしに、本サービスを変更・追加・停止または中止できるものとします。また、本サービスの変更・追加・停止または中止等により利用者が被った損害について、当社は一切の責任を負わないものとします。</span>
+    <ul class="sub">
+      <li><span class="no">(1)</span>システムの定期保守および緊急保守のために必要な場合</li>
+      <li><span class="no">(2)</span>火災、停電、第三者による妨害行為等によりシステム運営が困難になった場合</li>
+      <li><span class="no">(3)</span>天災地変その他の不可抗力により本サービスの提供ができない場合</li>
+      <li><span class="no">(4)</span>その他当社が必要と判断した場合</li>
+      </ul></li>
+  </ul>
+
+
+
+  <h4 id="member13"><strong>第13条 措置</strong></h4>
+  <ul class="main_list mb30">
+    <li><span>当社は、会員が次の各号のいずれかに該当すると判断した場合、当該会員に事前に通知することなく、また当該会員の承諾を得ることなく、当該会員の会員登録を抹消すること、当該会員に対して本サービスの全部もしくは一部の利用を許諾しないことその他当社が必要と判断する措置を講じることができるものとします。会員は、当該措置に対して一切の異議を申し立てず、当該措置により損害または不利益を被ったとしても、当社に対して損害賠償その他一切の請求を行わないものとします。</span>
+    <ul class="sub">
+      <li><span class="no">(1)</span>本規約その他当社が定める規定・注意事項に違反した場合</li>
+      <li><span class="no">(2)</span>差押、仮差押、仮処分、強制執行もしくは競売等の申立てを受け、または公売処分、租税滞納処分その他公権力の処分を受けた場合</li>
+      <li><span class="no">(3)</span>自ら破産もしくは民事再生の手続開始を申し立て、または第三者から申し立てられた場合</li>
+      <li><span class="no">(4)</span>任意整理手続を開始する旨を対外的に通知した場合</li>
+      <li><span class="no">(5)</span>暴力団員、暴力団員でなくなったときから5年を経過しない者、暴力団準構成員等その他これらに準ずる者に該当することが判明した場合</li>
+      <li><span class="no">(6)</span>その他当社が会員として不適当と判断した場合</li>
+      </ul></li>
+  </ul>
+
+
+
+
+  <h4 id="member14"><strong>第14条 個人情報の取り扱い</strong></h4>
+  <ul class="main_list mb30">
+    <li><span class="no">1.</span>当社は、本サービスを通じて販売する商品の注文内容の確認、商品の発送および連絡、会員登録および退会の手続その他の会員情報の管理、メールマガジン等の案内の配信、ポイントサービスの提供および連絡、キャンペーン企画およびアンケート等の実施、マーケティング分析、本サービスに関する問合せ対応、クレジットカード決済に関する問合せ対応のために、利用者の個人情報を収集または利用します。</li>
+    <li><span class="no">2.</span>前項に定めるほか、当社は、当社が別途定める「プライバシーポリシー」に基づき、利用者の個人情報を取り扱うものとします。</li>
+  </ul>
+
+
+
+  <h4 id="member15"><strong>第15条 著作権等</strong></h4>
+  <p>利用者は、本サービスを通じて提供される著作物等いかなる情報についても、権利者の承諾を得ずに、著作権法その他の法令で許容される範囲を超えて使用または公開等することはできないものとします。本条の規定に違反して著作権等の権利侵害に関する問題が生じた場合、利用者は自己の費用と責任においてその問題を解決するものとし、当社に対して何等の迷惑または損害等を与えないものとします。</p>
+
+  <h4 id="member16"><strong>第16条 禁止事項</strong></h4>
+  <ul class="main_list mb30">
+  <li><span class="no">1.</span>利用者は、次の各号に定める行為を行ってはならないものとします。
+  <ul class="sub">
+  <li><span class="no">(1)</span>犯罪行為、公序良俗に反する行為、その他法令に違反する行為、またはそのおそれのある行為。</li>
+  <li><span class="no">(2)</span>当社または本サービスの運営、営業を妨げる行為、またはそのおそれのある行為。</li>
+  <li><span class="no">(3)</span>当社または当社所属のアーティストその他の第三者の名誉・信用を毀損する行為、これらの者に対して迷惑、不利益もしくは損害を与える行為、またはそのおそれのある行為。</li>
+  <li><span class="no">(4)</span>第三者の個人情報または虚偽の情報を不正使用して本サービスを利用する行為。</li>
+  <li><span class="no">(5)</span>本規約、A!-ID［A!-POINT］サービス利用規約その他の当社が定める規約・注意事項等に違反する行為、またはそのおそれのある行為。</li>
+  <li><span class="no">(6)</span>本サイトに掲載されている画像、テキストその他の一切の情報を、本サービスの提供を受ける目的以外の目的に転用する行為。</li>
+  <li><span class="no">(7)</span>その他当社が不適当と判断する行為。</li>
+  </ul></li>
+  <li><span class="no">2.</span>前項に違反して当社または第三者に損害が生じた場合、違反した利用者は、その損害（合理的な範囲での弁護士費用を含みますが、これに限られません。）を賠償する責任を負うものとします。</li>
+  </ul>
+
+
+  <h4 id="member17"><strong>第17条 その他免責事項</strong></h4>
+  <ul class="main_list mb30">
+  <li><span class="no">1.</span>当社は、本サイトについて、ウェブサイトの構成、コンテンツ、ウェブページ、その他を自由に変更、削除または追加できるものとし、利用者の要望により変更、削除または追加する義務を負わないものとします。また、当社は、本サイトのコンテンツが、全ての利用者の利用環境に適応し、適正に動作することを保証いたしません。プログラムやデータベース等のECシステム全般についても同様とします。</li>
+  <li><span class="no">2.</span>利用者が、本サービスを利用したことにより、第三者に対して損害を与えた場合には、当該利用者は自己の責任と費用において解決し、当社に対して何等の迷惑または損害等を与えないものとします。</li>
+  <li><span class="no">3.</span>当社は、事由の如何を問わず、いかなる場合においても本サービスの利用に関して生じた損害または不利益に関して一切の責任を負わないものとします。ただし、当社の故意または重過失により利用者に損害が生じた場合には、当社は、利用者に対して当該損害を賠償するものとします。</li>
+  </ul>
+
+  <h4 id="member18"><strong>第18条 合意管轄裁判所等</strong></h4>
+  <ul class="main_list mb30">
+  <li><span class="no">1.</span>本サービスの利用に関して、本規約により解決できない問題が生じた場合には、利用者と当社は、双方誠意をもって話し合い、これを解決するものとします。</li>
+  <li><span class="no">2.</span>本サービスの利用に関して訴訟の必要が発生した場合には、訴額の如何に関わらず東京地方裁判所を第一審の専属的合意管轄裁判所とします。</li>
+  </ul>
+
+  <h4 id="member19"><strong>第19条 準拠法</strong></h4>
+  <p>本規約の解釈、適用については日本法に準拠します。</p>
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+      </div><!--scroll_box-->
+      </div><!-- .box -->
+
+      <div class="mail_text">
+      ご利用するメールアドレスを入力してください。<br>ご記入したメールアドレス宛に確認メールが届きます。<br>
+      アスマートのドメイン「asmart.jp」を受信する設定をお願いします。
+      </div>
+      <!-- <br /> -->
+      <table border="0" cellpadding="0" cellspacing="0" summary="お客様情報" class="input_tab">
+        <tr>
+          <th class="pt11 vam">メールアドレス<sup class="req">*</sup></th>
+          <td class="tar vam">
+            <input name="ctl00$ContentPlaceHolder1$tbUserMainMailAddr" type="text" maxlength="256" id="ctl00_ContentPlaceHolder1_tbUserMainMailAddr" class="form_txt_long" PlaceHolder="sample@asmart.jp" />
+            <span id="ctl00_ContentPlaceHolder1_cvUserMainMailAddr" class="error_inline pt10 w562 m000auto tal" style="color:Red;visibility:hidden;"></span>
+          </td>
+        </tr>
+      </table>
+
+	<div class="btn_box">
+		<a href="javascript:window.history.back();" class="btn_gray">同意しない</a>
+		
+		<a id="ctl00_ContentPlaceHolder1_lbAgree" class="btn_pink" href="javascript:__doPostBack(&#39;ctl00$ContentPlaceHolder1$lbAgree&#39;,&#39;&#39;)">規約に同意してメールを送信</a>
+		
+	</div>
+	<!--btn_box-->
+
+
+  </div><!-- .inner -->
+</div><!-- .shadow_box -->
+
+
+
+
+
+<!--会員登録ヘッダー-->
+<div id="user_flow_box">
+
+
+
+<div id="ctl00_ContentPlaceHolder1_dvInput">
+
+
+
+
+
+
+</div>
+
+
+
+</div><!--user_flow_box-->
+</div><!--main-->
+
+
+
+
+
+</div><!--contents_long-->
+
+
+
+	</div><!--wrap-->
+	
+
+	
+	<!--bt_pagetop-->
+	<div id="footer">
+		
+
+
+
+
+<div class="footer">
+  <div class="footer_box">
+    <div class="footer_wrap">
+
+      <div class="flink">
+        
+      <a href="http://www.amuse.co.jp/privacy/" target="_blank" class="f_txt_privacy">プライバシーポリシー</a>　l　<a href="/Page/note.aspx">特定商取引法に基づく表記</a>　l　<a href="/Page/Member.aspx" class="">利用規約</a>
+      
+      </div>
+      <div class="copyright"><span class="fs16">©</span>AMUSE Inc. All Rights Reserved.</div>
+    </div><!-- /.footer_wrap -->
+  </div>
+<div class="ssl_box">
+</div>
+</div><!-- /.footer -->
+
+
+<!-- w2tracker -->
+
+<div id="ctl00_BodyFooterMain_AccessLogTrackerScript1_divTracker">
+<script type='text/javascript'>
+<!--
+	var w2accesslog_account_id = "amuse";
+	var w2accesslog_target_domain = "www.asmart.jp";
+	var w2accesslog_cookie_root = "/";
+	var w2accesslog_getlog_path = "//www.asmart.jp/Scripts/getlog.gif";
+
+	
+	document.write(unescape("%3Csc" + "ript type='text/javascript' src='" + (("https:" == document.location.protocol) ? "https:" : "http:") + "//www.asmart.jp/Scripts/tracker.js'%3E%3C/sc" + "ript%3E"));
+// -->
+</script>
+</div>
+
+
+
+<script type="text/javascript">
+
+	var _gaq = _gaq || [];
+	_gaq.push(['_setAccount', 'UA-24516687-1']);
+	_gaq.push(['_trackPageview']);
+
+	(function () {
+		var ga = document.createElement('script'); ga.type = 'text/javascript'; ga.async = true;
+		ga.src = ('https:' == document.location.protocol ? 'https://' : 'http://') + 'stats.g.doubleclick.net/dc.js';
+		var s = document.getElementsByTagName('script')[0]; s.parentNode.insertBefore(ga, s);
+	})();
+</script>
+<div id="ctl00_BodyFooterMain_AccessLogTrackerScript1_divGetLog">
+<script type='text/javascript'>
+<!--
+	getlog();
+// -->
+</script>
+</div>
+
+
+
+
+
+
+
+<!-- 規約完了ページ以外で表示 -->
+
+<!-- start of ac cruiser tag S/N acct11102010 
+Copyright (c) 2005-2013 activecore, Inc. All rights reserved. 
+ www.activecore.jp 
+--> 
+<script type="text/javascript" src="https://img.asm.w2s.xyz/Js/Ac/ppz_clip.js"></script>
+<script type="text/javascript" src="https://img.asm.w2s.xyz/Js/Ac/acContentsview.js"></script>
+<script type="text/javascript">
+
+	var objDistinct = new Distinct();
+	if(objDistinct.getDevice() =="pc"){
+		_cid = 23026;
+	}else{
+		_cid = 23028;
+	}
+	
+    var _cid = _cid;
+    var _item_param = '';
+    var _contents_param = '';
+    var _entry_js = '//tracer21.a-cast.jp/entry.js?cid=';
+    var _proto = window.location.protocol;
+    if (_proto != 'http:' && _proto != 'https:') {
+        _proto = 'http:';
+    }
+    if ('function' === typeof AC_contents){
+        _contents_param = AC_contents('cat');
+        _ac_contents_clip(_contents_param);
+    }
+    var _p = _item_param != '' ? '&info=ac_item_no=' + _item_param : '';
+    var _cseg = _contents_param != '' ? '&cseg={contents_id=' + _contents_param + '}' : '';
+    _ac_item_clip(_item_param);
+    document.write('<scr' + 'ipt type="text/javascript" '
+       + 'language="JavaScript" s' + 'rc="'
+       + _proto + _entry_js + _cid
+       + _p + _cseg
+       + '" ></' + 'scr' + 'ipt>');
+	   
+
+
+	   
+</script>
+
+
+
+		
+
+	</div><!--footer-->
+	
+
+</div><!--wrapper-->
+
+  <script src="//cdnjs.cloudflare.com/ajax/libs/jquery-easing/1.3/jquery.easing.min.js"></script>
+  <script src="https://img.asm.w2s.xyz/Js/velocity.min.js"></script>
+  <script src="https://img.asm.w2s.xyz/Js/jquery.tile.min.js"></script>
+  <script src="https://img.asm.w2s.xyz/Js/matchMedia.js"></script>
+  <script src="https://img.asm.w2s.xyz/Js/common.js"></script>
+
+
+
+<script type="text/javascript">
+//<![CDATA[
+var Page_Validators =  new Array(document.getElementById("ctl00_ContentPlaceHolder1_cvUserMainMailAddr"));
+//]]>
+</script>
+
+<script type="text/javascript">
+//<![CDATA[
+var ctl00_ContentPlaceHolder1_cvUserMainMailAddr = document.all ? document.all["ctl00_ContentPlaceHolder1_cvUserMainMailAddr"] : document.getElementById("ctl00_ContentPlaceHolder1_cvUserMainMailAddr");
+ctl00_ContentPlaceHolder1_cvUserMainMailAddr.controltovalidate = "ctl00_ContentPlaceHolder1_tbUserMainMailAddr";
+ctl00_ContentPlaceHolder1_cvUserMainMailAddr.focusOnError = "t";
+ctl00_ContentPlaceHolder1_cvUserMainMailAddr.validationGroup = "UserRegistRegulation";
+ctl00_ContentPlaceHolder1_cvUserMainMailAddr.evaluationfunction = "CustomValidatorEvaluateIsValid";
+//]]>
+</script>
+
+
+<script type="text/javascript">
+//<![CDATA[
+
+var Page_ValidationActive = false;
+if (typeof(ValidatorOnLoad) == "function") {
+    ValidatorOnLoad();
+}
+
+function ValidatorOnSubmit() {
+    if (Page_ValidationActive) {
+        return ValidatorCommonOnSubmit();
+    }
+    else {
+        return true;
+    }
+}
+        
+document.getElementById('ctl00_ContentPlaceHolder1_cvUserMainMailAddr').dispose = function() {
+    Array.remove(Page_Validators, document.getElementById('ctl00_ContentPlaceHolder1_cvUserMainMailAddr'));
+}
+//]]>
+</script>
+</form>
+</body>
+</html>

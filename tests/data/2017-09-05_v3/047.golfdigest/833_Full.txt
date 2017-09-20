@@ -1,0 +1,246 @@
+GET https://usr.golfdigest.co.jp/pg/frlogout.php HTTP/1.1
+Host: usr.golfdigest.co.jp
+User-Agent: Mozilla/5.0 (Windows NT 6.1; WOW64; rv:52.0) Gecko/20100101 Firefox/52.0
+Accept: text/html,application/xhtml+xml,application/xml;q=0.9,*/*;q=0.8
+Accept-Language: ja,en-US;q=0.7,en;q=0.3
+Accept-Encoding: gzip, deflate, br
+Referer: http://www.golfdigest.co.jp/?car=top2_navi
+Cookie: go.itv=1; sctvaspcookie_cd=20170405115549734xJSHjtjG8bIAaCJ6Z; TS016d09f0=01250487715d9f7cf70318261fb491f2a91b25655b413aa2cae0934319af0e70627e1fba17c2936930c1c59425bda0ba4095b56771; MkiTracUUID=3314e628bf6f461cae4f76ce0932e85a; _rt.uid=233E91E7569581D8999481F04E14BC1A95E92AEF36A498DFFD8A40C124B6DA52; _rt.xd=3bf3fadd; _rt.cs=2; __utma=110123411.13208537.1491360535.1491360535.1491363927.2; __utmc=110123411; __utmz=110123411.1491360535.1.1.utmcsr=(direct)|utmccn=(direct)|utmcmd=(none); _ga=GA1.4.13208537.1491360535; __ulfpc=201704051148574614; MkiTracMBID=233E91E7569581D8999481F04E14BC1A95E92AEF36A498DFFD8A40C124B6DA52; TS0133a40f=01250487715d9f7cf70318261fb491f2a91b25655b413aa2cae0934319af0e70627e1fba17c2936930c1c59425bda0ba4095b56771; __gads=ID=fac33f16dfb9dace:T=1491361138:S=ALNI_MZ76KC_SXVHwzkwz8Nt2tw7Ps44ig; NavicastApi=20170405.115550.34378200.87809; NavicastApi.su=20170405.115859.33370600.78573; mmsn=6d636fc8756b205e1cf621bc8d10043f; mmsns=454ff1a66a33e7a0fb50d39d4978cdd4; ak_bmsc=754B941C047F351EE58F03ABAD690167769BE68A7E3200005368E458BFA3C12A~plSNxuR3PRINOCuDBq9R8oIV5P2K+GJIJE4jRHfoMvtOyuVu8hf/pqUGLP7LBR2GJmyxzbwkvPqHYXaCcd5h+qq2SMg52isEdnGyup3Q/NiA6XpZT51AiTTR5ld1D5VN4Dv74urfimodoKUBD2RJJ8GEHsyw5H2P1fSJXU7YF6xyI8dUnqmbJ6S3dpe8azJPFvIERV3fv+SMMBPKH9XR5Yig==; __utmb=110123411.3.10.1491363927; __utmt_AllTracker=1; krt.vis=1217107314_1491363931323_662509558; krt.v=message%3A58acec5049bf2422227f8d8b; krt.s=date%3A1491363933%3Bpv%3A0%3Btime%3A0; _td=8cf99a8f-7dbf-4d1b-a9e7-a31cf84eb3b4; _ga=GA1.3.13208537.1491360535; _gat=1; _gat_newTracker1=1; __utmt_MbuTracker=1
+Connection: keep-alive
+Upgrade-Insecure-Requests: 1
+
+
+HTTP/1.1 200 OK
+Date: Wed, 05 Apr 2017 03:46:24 GMT
+X-Powered-By: PHP/5.4.16
+X-Frame-Options: SAMEORIGIN
+Set-Cookie: mmsn=deleted; expires=Thu, 01-Jan-1970 00:00:01 GMT; path=/; domain=.golfdigest.co.jp; httponly
+Set-Cookie: mmsns=deleted; expires=Thu, 01-Jan-1970 00:00:01 GMT; path=/; domain=.golfdigest.co.jp; secure; httponly
+Vary: Accept-Encoding
+Content-Length: 13231
+Keep-Alive: timeout=5, max=100
+Connection: Keep-Alive
+Content-Type: text/html; charset=UTF-8
+Set-Cookie: TS016d09f0=012504877176003fef3b1d4b075a29f70e5e635e373c1915e69daedd9313b237818664a2e464dfbcd87197c20a4e44106ea87b1441; Path=/
+Set-Cookie: TS0133a40f=01250487715d9f7cf70318261fb491f2a91b25655b413aa2cae0934319af0e70627e1fba17c2936930c1c59425bda0ba4095b56771; path=/; domain=.golfdigest.co.jp
+
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+<html xmlns="http://www.w3.org/1999/xhtml" xml:lang="ja" lang="ja">
+<head>
+<meta http-equiv="Content-Type" content="text/html; charset=Shift_JIS" />
+<meta http-equiv="Content-Script-Type" content="text/javascript" />
+<meta http-equiv="Content-Style-Type" content="text/css" />
+<title>GDO</title>
+<!--criteo 20120328 MK-->
+<script type="text/javascript" src="/resource/scripts/criteo_94.js"></script>
+<!--criteo 20120328 MK-->
+<!-- common stylesheet -->
+<link type="text/css" rel="stylesheet" href="/resource/css/import_resource.css" media="all" />
+<link type="text/css" rel="stylesheet" href="/resource/css/logout.css" media="all" />
+<!-- preload javascript -->
+<script type="text/javascript" src="/resource/scripts/jquery.js"></script>
+<script type="text/javascript"> 
+<!--
+function MM_swapImgRestore() { //v3.0
+ var i,x,a=document.MM_sr; for(i=0;a&&i<a.length&&(x=a[i])&&x.oSrc;i++) x.src=x.oSrc;
+}
+function MM_preloadImages() { //v3.0
+ var d=document; if(d.images){ if(!d.MM_p) d.MM_p=new Array();
+   var i,j=d.MM_p.length,a=MM_preloadImages.arguments; for(i=0; i<a.length; i++)
+   if (a[i].indexOf("#")!=0){ d.MM_p[j]=new Image; d.MM_p[j++].src=a[i];}}
+}
+function MM_findObj(n, d) { //v4.01
+ var p,i,x;  if(!d) d=document; if((p=n.indexOf("?"))>0&&parent.frames.length) {
+   d=parent.frames[n.substring(p+1)].document; n=n.substring(0,p);}
+ if(!(x=d[n])&&d.all) x=d.all[n]; for (i=0;!x&&i<d.forms.length;i++) x=d.forms[i][n];
+ for(i=0;!x&&d.layers&&i<d.layers.length;i++) x=MM_findObj(n,d.layers[i].document);
+ if(!x && d.getElementById) x=d.getElementById(n); return x;
+}
+function MM_swapImage() { //v3.0
+ var i,j=0,x,a=MM_swapImage.arguments; document.MM_sr=new Array; for(i=0;i<(a.length-2);i+=3)
+  if ((x=MM_findObj(a[i]))!=null){document.MM_sr[j++]=x; if(!x.oSrc) x.oSrc=x.src; x.src=a[i+2];}
+}
+//-->
+</script>
+<!-- レコメンド用JS ここから -->
+<script type="text/javascript" src="//js.rtoaster.jp/Rtoaster.js"></script>
+<script type="text/javascript">
+  Rtoaster.init("RTA-d72d-400f90f91715",Rtoaster.Cookie.get("MkiTracMBID"));
+  Rtoaster.track();
+</script>
+<!-- レコメンド用JS ここまで -->
+</head>
+<body bgcolor="#ffffff" onload="MM_preloadImages('/resource/images/contents/lineup_golfshop_h.jpg','/resource/images/contents/lineup_play_h.jpg','/resource/images/contents/lineup_news_h.jpg','/resource/images/contents/lineup_score_h.jpg','/resource/images/contents/lineup_mygdo_h.jpg','/resource/images/contents/lineup_community_h.jpg')">
+<div id="wholeHeaderPane">
+<div id="res_header" class="res_error">
+<div id="res_globalnavigation">
+<ul id="res_gnavi_new">
+
+<li class="nav01"><a href="http://www.golfdigest.co.jp/?car=top2_navi">ホーム</a></li>
+<li class="nav02"><a href="http://shop.golfdigest.co.jp/?car=top2_navi">ショップ</a></li>
+<li class="nav10"><a href="http://shop.golfdigest.co.jp/used/?car=top2_navi">中古クラブ</a></li>
+<li class="nav03"><a href="http://reserve.golfdigest.co.jp/?car=top2_navi">ゴルフ場予約</a></li>
+<li class="nav04"><a href="http://news.golfdigest.co.jp/?car=top2_navi">ニュース</a></li>
+<li class="nav05"><a href="http://lesson.golfdigest.co.jp/gear/?car=top2_navi">ギア情報</a></li>
+<li class="nav06"><a href="http://www.golfdigest.co.jp/event/?car=top2_navi">競技・イベント</a></li>
+<li class="nav07"><a href="http://lesson.golfdigest.co.jp/lesson/?car=top2_navi">レッスン・練習</a></li>
+<li class="nav08"><a href="http://lesson.golfdigest.co.jp/score/opening/?car=top2_navi">スコア</a></li>
+<li class="nav09"><a href="https://myp.golfdigest.co.jp/?car=top2_navi">MY GDO</a></li>
+
+</ul>
+<!-- /#res_globalnavigation --></div>
+<div id="res_headbody">
+<div id="res_ci"><img src="/resource/images/headfoot/header/ci_small.gif" alt="GOLF DIGEST ONLINE ゴルフダイジェスト・オンライン" width="84" height="31" /></div><!-- 
+-->
+<!-- /#res_headbody --></div>
+<!-- /#res_header --></div>
+<h1 class="vi_header_24">ゴルフダイジェスト・オンラインが運営するゴルフの総合サイト</h1>
+</div><!-- id="wholeHeaderPane" -->
+<div id="str_container">
+<div id="str_center">
+<div class="mt20 mb10 alignC ttl_logout">
+	<img src="/resource/images/headings/ttl_logout.gif" alt="ログアウトしました。" />
+   <div class="form_submit_btn">
+   <a href="http://www.golfdigest.co.jp/"><img src="/resource/images/button/btn_back_home.gif" alt="GDO ホームへ" width="237" height="42" class="rollover" /></a>
+   </div>
+</div>
+<table class="lineup mb30" border="0" cellpadding="0" cellspacing="0" width="609">
+<tr>
+<td>
+   <table align="left" border="0" cellpadding="0" cellspacing="0" width="609">
+   <tr>
+   <td><img name="lineup_r2_c2" src="/resource/images/contents/lineup_r2_c2.jpg" width="121" height="104" border="0" alt=""></td>
+   <td><a href="http://shop.golfdigest.co.jp/" onmouseout="MM_swapImgRestore()" onmouseover="MM_swapImage('Image14','','/resource/images/contents/lineup_golfshop_h.jpg',1)"><img src="/resource/images/contents/lineup_golfshop.jpg" alt="ショップ" name="Image14" width="152" height="104" border="0"></a></td>
+   <td><img name="lineup_r2_c5" src="/resource/images/contents/lineup_r2_c5.jpg" width="65" height="104" border="0" alt=""></td>
+   <td><a href="http://reserve.golfdigest.co.jp/" onmouseout="MM_swapImgRestore()" onmouseover="MM_swapImage('Image15','','/resource/images/contents/lineup_play_h.jpg',1)"><img src="/resource/images/contents/lineup_play.jpg" alt="ゴルフ場予約" name="Image15" width="152" height="104" border="0"></a></td>
+   <td><img name="lineup_r2_c8" src="/resource/images/contents/lineup_r2_c8.jpg" width="119" height="104" border="0" alt=""></td>
+   </tr>
+   </table>
+</td>
+</tr>
+<tr>
+<td>
+	<table align="left" border="0" cellpadding="0" cellspacing="0" width="609">
+   <tr>
+   <td><a href="http://news.golfdigest.co.jp/" onmouseout="MM_swapImgRestore()" onmouseover="MM_swapImage('Image16','','/resource/images/contents/lineup_news_h.jpg',1)"><img src="/resource/images/contents/lineup_news.jpg" alt="ニュース" name="Image16" width="152" height="97" border="0"></a></td>
+   <td><img name="lineup_r3_c4" src="/resource/images/contents/lineup_txt.jpg" width="306" height="97" border="0" alt=""></td>
+   <td><a href="http://lesson.golfdigest.co.jp/score/opening/" onmouseout="MM_swapImgRestore()" onmouseover="MM_swapImage('Image17','','/resource/images/contents/lineup_score_h.jpg',1)"><img src="/resource/images/contents/lineup_score.jpg" alt="スコア" name="Image17" width="151" height="97" border="0"></a></td>
+   </tr>
+   </table>
+</td>
+</tr>
+<tr>
+<td>
+	<table align="left" border="0" cellpadding="0" cellspacing="0" width="609">
+   <tr>
+   <td><img name="lineup_r4_c2" src="/resource/images/contents/lineup_r4_c2.jpg" width="121" height="99" border="0" alt=""></td>
+   <td><a href="https://myp.golfdigest.co.jp/" onmouseout="MM_swapImgRestore()" onmouseover="MM_swapImage('Image18','','/resource/images/contents/lineup_mygdo_h.jpg',1)"><img src="/resource/images/contents/lineup_mygdo.jpg" alt="MY GDO" name="Image18" width="152" height="99" border="0"></a></td>
+   <td><img name="lineup_r4_c5" src="/resource/images/contents/lineup_r4_c5.jpg" width="65" height="99" border="0" alt=""></td>
+   <td><a href="http://com.golfdigest.co.jp/" onmouseout="MM_swapImgRestore()" onmouseover="MM_swapImage('Image19','','/resource/images/contents/lineup_community_h.jpg',1)"><img src="/resource/images/contents/lineup_community.jpg" alt="コミュニティ" name="Image19" width="152" height="99" border="0"></a></td>
+   <td><img name="lineup_r4_c8" src="/resource/images/contents/lineup_r4_c8.jpg" width="119" height="99" border="0" alt=""></td>
+   </tr>
+   </table>
+</td>
+</tr>
+</table>
+<!--バナー-->
+<div id="service_lineup_banner">
+
+<script type='text/javascript'>
+  var googletag = googletag || {};
+  googletag.cmd = googletag.cmd || [];
+  (function() {
+    var gads = document.createElement('script');
+    gads.async = true;
+    gads.type = 'text/javascript';
+    var useSSL = 'https:' == document.location.protocol;
+    gads.src = (useSSL ? 'https:' : 'http:') +
+      '//www.googletagservices.com/tag/js/gpt.js';
+    var node = document.getElementsByTagName('script')[0];
+    node.parentNode.insertBefore(gads, node);
+  })();
+</script>
+
+<script type='text/javascript'>
+  googletag.cmd.push(function() {
+    googletag.defineSlot('/67530057/PC_GDO_REGISTER_790x195_COMPLITE', [790, 195], 'div-gpt-ad-1465811299644-0').addService(googletag.pubads());
+    googletag.pubads().collapseEmptyDivs();
+    googletag.enableServices();
+  });
+</script>
+
+<!-- /67530057/PC_GDO_REGISTER_790x195_COMPLITE -->
+<div id='div-gpt-ad-1465811299644-0' style='height:195px; width:790px;'>
+<script type='text/javascript'>
+googletag.cmd.push(function() { googletag.display('div-gpt-ad-1465811299644-0'); });
+</script>
+</div>
+
+</div>
+<!--//バナー-->
+</div><!-- id="str_center" -->
+<div id="res_footer">
+<div id="res_footer_utilitylinks">
+<ul>
+<li><a href="http://www.golfdigest.co.jp/company/kiyaku.html">総合利用規約</a></li>
+<li><a href="http://www.golfdigest.co.jp/company/privacy.html">個人情報保護ポリシー</a></li>
+<li><a href="http://www.golfdigest.co.jp/company/kiyaku/envi.html">推奨環境について</a></li>
+<li><a href="http://faq.golfdigest.co.jp/">お問い合わせ・ヘルプ</a></li>
+</ul>
+</div>
+<div id="res_footer_addressmarks">
+<address>Copyright &copy; 2000-2017 Golf Digest Online Inc. All rights reserved.</address>
+</div>
+<!-- /#res_footer --></div>
+<!-- postload javascript -->
+<script type="text/javascript" src="/resource/scripts/headfoot.js"></script>
+<!-- analyse code -->
+<script type="text/javascript" src="//www.golfdigest.co.jp/rtsrc/uuid.js" charset="utf-8"></script>
+<script type="text/javascript" src="//www.golfdigest.co.jp/rtsrc/set_cookie.js" charset="utf-8"></script>
+</div><!-- id="str_container" -->
+
+
+<!-- Google Analytics Start -->
+<script type="text/javascript" src="//www.golfdigest.co.jp/rtsrc/ga_gdo.js" charset="utf-8"></script>
+<!-- Google Analytics End -->
+
+<!-- User Insight PCDF Code Start : golfdigest.co.jp -->
+<script type="text/javascript">
+<!--
+var uilid  = '';
+var uigr_1   = ''; var uigr_2 = ''; var uigr_3 = ''; var uigr_4 = ''; var uigr_5 = '';
+var uigr_6   = ''; var uigr_7 = ''; var uigr_8 = ''; var uigr_9 = ''; var uigr_10 = '';
+// DO NOT ALTER BELOW THIS LINE
+// WITHOUT F.P.C.
+var uiinit   = uiinit || Math.floor(Math.random() * 9000000) + 1000000;
+var uihost   = uihost || (("https:" == document.location.protocol) ? "https://bs." : "http://b03.")+"nakanohito.jp/b1/";
+document.write("<img id='id_shellfish' style='position: absolute' src='"+uihost+"?uisv=3&id=31475&mode=default&h=abda&rand="+uiinit+"&url="+encodeURIComponent(parent.document.URL)+"&ref="+encodeURIComponent(parent.document.referrer)+"&uigr_1="+encodeURIComponent(uigr_1)+"&uigr_2="+encodeURIComponent(uigr_2)+"&uigr_3="+encodeURIComponent(uigr_3)+"&uigr_4="+encodeURIComponent(uigr_4)+"&uigr_5="+encodeURIComponent(uigr_5)+"&uigr_6="+encodeURIComponent(uigr_6)+"&uigr_7="+encodeURIComponent(uigr_7)+"&uigr_8="+encodeURIComponent(uigr_8)+"&uigr_9="+encodeURIComponent(uigr_9)+"&uigr_10="+encodeURIComponent(uigr_10)+"&lv="+uilid+"&sb="+encodeURIComponent(document.title)+"&guid=ON&eflg=1' border='0' width='1' height='1' alt='' />");
+if (typeof document.documentElement.style.maxHeight != "undefined") {
+document.write('<span  style="position: absolute" id="id_bivalves"></span>'); document.write(decodeURI("%3Cscr"+"ipt src='"+uihost+"bivalves.js' charset='utf-8' type='text/javascript'%3E%3C/script%3E")); var uiLimit = 3000, uiInterval = 50, uiTime = 0; var uiLoadedId = setInterval(function(){ if ((typeof(Vesicomyid) != "undefined") && (typeof(Vesicomyid.Bivalves) != "undefined") && (typeof(Vesicomyid.Bivalves.Loaded) == "function") ) { clearInterval(uiLoadedId); try { var lb = new Vesicomyid.Bivalves(31475, uiinit); lb.host = uihost; lb.uisv = 3; lb.init(); } catch (err) { } } else if ((uiTime += uiInterval) > uiLimit) { clearInterval(uiLoadedId); } }, uiInterval);
+}
+//-->
+</script>
+<!-- User Insight PCDF Code End : golfdigest.co.jp -->
+
+
+
+
+<!-- Mk_div AFF recomend tag start -->
+<div id="_silveregg_tracker"></div>
+<script>document.write("<script src='//aigent2.silveregg.net/suite/page?m=gdo&t="+(new Date()).getTime()+"&r="+escape(document.referrer)+"'><\/script>");</script>
+<!-- Mk_div AFF recomend tag end -->
+
+
+
+<!-- Google Tag Manager -->
+<noscript><iframe src="//www.googletagmanager.com/ns.html?id=GTM-4XSC" height="0" width="0" style="display:none;visibility:hidden"></iframe></noscript>
+<script>(function(w,d,s,l,i){w[l]=w[l]||[];w[l].push({'gtm.start':new Date().getTime(),event:'gtm.js'});var f=d.getElementsByTagName(s)[0],j=d.createElement(s),dl=l!='dataLayer'?'&l='+l:'';j.async=true;j.src='//www.googletagmanager.com/gtm.js?id='+i+dl;f.parentNode.insertBefore(j,f);})(window,document,'script','dataLayerGDOall','GTM-4XSC');</script>
+<!-- End Google Tag Manager -->
+
+
+<!-- OneTagManagerECO 201307-->
+<script type="text/javascript" src="//cf.eco-tag.jp/perfx/pix-gdo-min.js"></script>
+<!-- //OneTagManagerECO 201307-->
+
+</body>
+</html>
