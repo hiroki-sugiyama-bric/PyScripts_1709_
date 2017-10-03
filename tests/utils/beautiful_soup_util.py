@@ -23,7 +23,8 @@ def get_bs_by_version(text):
         # 2系の場合
         from BeautifulSoup import BeautifulSoup
 
-        return BeautifulSoup(text)
+        return BeautifulSoup(text, convertEntities=BeautifulSoup.HTML_ENTITIES)
+        # return BeautifulSoup(text)
 
 
 
