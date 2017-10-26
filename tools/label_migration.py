@@ -3,8 +3,10 @@ import openpyxl as px
 from openpyxl.styles import PatternFill
 
 work_root_dir = '/Users/hirokisugiyama/Work/NTTTX/NTTTX_201709_/tests/utils/py3/all'
-py3_wb_path = os.path.join(work_root_dir, 'form_3_all_cp932.xlsx')
-label_wbs_dir = os.path.join(work_root_dir, '2_labeled_excels')
+# py3_wb_path = os.path.join(work_root_dir, 'form_3_all_cp932.xlsx')
+py3_wb_path = os.path.join(work_root_dir, 'form_3_html5lib_cp932.xlsx')
+# label_wbs_dir = os.path.join(work_root_dir, '2_labeled_excels')
+label_wbs_dir = os.path.join(work_root_dir, 'label_html_parser')
 
 py3_ws_name = 'form_with_label'
 yellow_fill = PatternFill(

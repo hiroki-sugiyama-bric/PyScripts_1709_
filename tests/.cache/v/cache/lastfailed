@@ -1,0 +1,4 @@
+{
+  "test_transaction_parse_util.py::TransactionParseUtilTestCase::test_open_single": true,
+  "test_transaction_parse_util.py::TransactionParseUtilTestCase::test_parser_ts_txt": true
+}

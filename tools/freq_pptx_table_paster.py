@@ -7,9 +7,17 @@ import os
 import sys
 
 PPTX_PATH = 'tests/data/power_point/cycle_5.pptx'
+# TODO: コマンドライン引数化
 SLIDE_INDEX = 80
 TABLE_INDEX = 0
+
 RANK_NUMS = 10
+START_ROW_INDEX = 2
+END_ROW_INDEX = 12
+
+# TODO: コマンドライン引数化
+WORD_COLUMN_INDEX = 1
+COUNT_COLUMN_INDEX = 2
 
 FreqInfo = namedtuple('FreqInfo', ('rank', 'word', 'count'))
 
@@ -72,7 +80,8 @@ def paste():
     table = get_target_table(prs)
 
     cell = table.cell(2, 1)
-    replace_paragraph_text_retaining_initial_formatting(cell, 'aaa')
+    replace_table_cell_text(cell, 'aaa')
+    # TODO: load_freq_infos等を使うようにする
 
     prs.save(PPTX_PATH[:-len('.pptx')] + '_modified.pptx')
 

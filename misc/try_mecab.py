@@ -2,7 +2,7 @@ import MeCab
 
 def test_tagger():
     m = MeCab.Tagger()
-    text = '私はPythonプログラマです。'
+    text = '私はPythonのプログラマです。'
 
     m.parse(text)
     node = m.parseToNode(text)
