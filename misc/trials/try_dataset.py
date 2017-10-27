@@ -1,13 +1,19 @@
 from secdiagai import dataset
 import os
 
-def test_read():
-    base = '/data/dataset_v3'
-    # base = '/Users/hirokisugiyama/Work/NTTTX/NTTTX_201709_/WebDav/20_Data/2017-09-05_v3'
-    ds = dataset.DatasetLoader.load_all(base=base)
+DATASET_BASE = '/data/dataset_v3'
+
+def try_read():
+    ds = dataset.DatasetLoader.load_all(base=DATASET_BASE)
     print(len(ds))
 
-def test_filter_forms():
+def try_load_labels():
+    labels = dataset.DatasetLoader.load_labels(base=DATASET_BASE)
+    # print(len(labels.keys()))
+    # print(len(labels['yahoo']))
+    print(labels['yahoo'].keys())
+
+def try_filter_forms():
     form_1 = 'form_1'
     form_2 = 'form_2'
     form_3 = 'form_3'
@@ -27,7 +33,8 @@ def test_filter_forms():
 
 
 if __name__ == '__main__':
-    # test_read()
-    test_filter_forms()
+    # try_read()
+    try_load_labels()
+    # try_filter_forms()
 
 

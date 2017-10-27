@@ -41,9 +41,6 @@ def exec_cv(w_clf, all_forms, all_form_labels, by_website):
         return w_clf.run_cv_by_website(all_forms, all_form_labels, LABEL_LOGIN, N_FOLDS,
                                        ['Not-' + TARGET_FORM_NAME, TARGET_FORM_NAME], ret_err_x_info=True)
     else:
-        # forms_target, forms_not_target = separate_target_forms(all_forms, all_form_labels, LABEL_LOGIN)
-        # X = forms_not_target + forms_target
-        # y = [0] * len(forms_not_target) + [1] * len(forms_target)
         X, y = create_X_y(all_forms, all_form_labels, LABEL_LOGIN)
         target_names = ['Not-' + TARGET_FORM_NAME, TARGET_FORM_NAME]
 
@@ -73,35 +70,10 @@ def run_login_cv():
     all_forms, all_form_labels = load_form_infos(DATASET_BASE)
     fex = create_login_fex()
     print(len(all_forms))
-    # run_svm(all_forms, all_form_labels, fex, by_website=True)
+
     return run_svm(all_forms, all_form_labels, fex, by_website=False)
 
 
 if __name__ == '__main__':
-    # import dill
-    # import pickle
-    import dill
+    run_login_cv()
 
-    # all_forms, all_form_labels = load_form_infos(DATASET_BASE)
-    # X, y = create_X_y(all_forms, all_form_labels, LABEL_LOGIN)
-    #
-    # w_clf = run_login_cv()
-    # print('')
-    # print(w_clf._clf.predict(X))
-    # w_clf.dump_model(DUMP_PATH)
-
-    # clf = Pipeline([('feature_extraction', FeatureUnion(create_login_fex())),
-    #                 ('clf', RandomForestClassifier(n_estimators=20, max_features=None, random_state=42))])
-    # w_clf = secdiagai.classifier.base.WebClassifier(clf, rule_login)
-    # joblib.dump(w_clf._clf, DUMP_PATH)
-    # joblib.dump(w_clf._clf, DUMP_PATH)
-    # with open(DUMP_PATH, mode='wb') as f:
-    #     pickle.dump(w_clf._clf, f)
-
-    with open(DUMP_PATH, mode='rb') as f:
-        model = dill.load(f)
-
-        all_forms, all_form_labels = load_form_infos(DATASET_BASE)
-        X, y = create_X_y(all_forms, all_form_labels, LABEL_LOGIN)
-        print(f'predict result: {model.predict(X)}')
-        print(f'score: {model.score(X, y)}')

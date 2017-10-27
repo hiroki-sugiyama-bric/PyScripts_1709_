@@ -1,5 +1,7 @@
 {
   "tests/test_bs_util.py": true,
   "tests/test_file.py": true,
-  "tests/test_secdiagai_parser.py": true
+  "tests/test_secdiagai_parser.py": true,
+  "tests/test_transaction_parse_util.py": true,
+  "tests/utils/test_email_msg_util.py::TransactionParseUtilTestCase::test_parser_ts_txt": true
 }
