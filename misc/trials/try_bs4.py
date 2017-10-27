@@ -1,3 +1,4 @@
+import json
 from bs4 import BeautifulSoup
 from bs4.element import Tag
 from secdiagai.beautiful_soup_util import confirm_submit_btn
@@ -67,12 +68,27 @@ def test_html5lib_file():
         bs = BeautifulSoup(html, 'html5lib')
         print(bs.body)
 
+def test_unicode():
+    html = '''\
+<form>
+あああ
+</form>   
+'''
+    bs = BeautifulSoup(html, 'html.parser')
+    json_d = {'form': str(bs.form)}
+
+    path = 'test.json'
+    with open(path, mode='w') as f:
+        json.dump(json_d, f, ensure_ascii=False)
+
+
 if __name__ == '__main__':
     # test_entities()
     # test_button_type()
     # test_parser()
     # test_html5lib()
-    test_html5lib_file()
+    # test_html5lib_file()
+    test_unicode()
 
 
 

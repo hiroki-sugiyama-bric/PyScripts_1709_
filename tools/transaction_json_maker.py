@@ -5,13 +5,13 @@ from secdiagai.dataset import DatasetLoader, FormExtractor
 from ..utils.email_msg_util import create_headers_dict, extract_body_str
 
 # DATASET_BASE = '/data/dataset_v3'
-# DATASET_BASE = '/Users/hirokisugiyama/Work/NTTTX/NTTTX_201709_/WebDav/20_Data/2017-09-27_v5_part_10'
+DATASET_BASE = '/Users/hirokisugiyama/Work/NTTTX/NTTTX_201709_/WebDav/20_Data/2017-09-27_v5_part_10'
 # DATASET_BASE = '/Users/hirokisugiyama/Work/NTTTX/NTTTX_201709_/WebDav/20_Data/2017-09-27_v5_part_20'
-DATASET_BASE = '/Users/hirokisugiyama/Work/NTTTX/NTTTX_201709_/WebDav/20_Data/2017-09-27_v5'
+# DATASET_BASE = '/Users/hirokisugiyama/Work/NTTTX/NTTTX_201709_/WebDav/20_Data/2017-09-27_v5'
 # OUTPUT_BASE = '/data/dataset_v3_jsons'
-# OUTPUT_BASE = '/Users/hirokisugiyama/Work/NTTTX/NTTTX_201709_/data/labels/2017-09-27_v5_part_10'
+OUTPUT_BASE = '/Users/hirokisugiyama/Work/NTTTX/NTTTX_201709_/data/labels/2017-09-27_v5_part_10'
 # OUTPUT_BASE = '/Users/hirokisugiyama/Work/NTTTX/NTTTX_201709_/data/labels/2017-09-27_v5_part_20'
-OUTPUT_BASE = '/Users/hirokisugiyama/Work/NTTTX/NTTTX_201709_/data/labels/2017-09-27_v5'
+# OUTPUT_BASE = '/Users/hirokisugiyama/Work/NTTTX/NTTTX_201709_/data/labels/2017-09-27_v5'
 
 # {(元のラベルjsonのキー): (変換後のjsonのキー)}
 FORM_TYPE_KEY_MAP = {
@@ -101,7 +101,7 @@ def make_single(req_parser, resp_parser, all_labels, site, tid):
 
     # jsonファイル出力
     with open(json_path, mode='w') as f:
-        json.dump(json_dict, f)
+        json.dump(json_dict, f, ensure_ascii=False)
 
 def make_jsons():
     all_transactions = DatasetLoader.load_all(base=DATASET_BASE)
