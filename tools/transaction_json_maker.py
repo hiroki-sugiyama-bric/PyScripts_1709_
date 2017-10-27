@@ -1,10 +1,17 @@
+import json
 import os
 import sys
 from secdiagai.dataset import DatasetLoader, FormExtractor
-from ..utils.email_msg_util import create_headers_dict
+from ..utils.email_msg_util import create_headers_dict, extract_body_str
 
-DATASET_BASE = '/data/dataset_v3'
-OUTPUT_BASE = '/data/dataset_v3_jsons'
+# DATASET_BASE = '/data/dataset_v3'
+# DATASET_BASE = '/Users/hirokisugiyama/Work/NTTTX/NTTTX_201709_/WebDav/20_Data/2017-09-27_v5_part_10'
+# DATASET_BASE = '/Users/hirokisugiyama/Work/NTTTX/NTTTX_201709_/WebDav/20_Data/2017-09-27_v5_part_20'
+DATASET_BASE = '/Users/hirokisugiyama/Work/NTTTX/NTTTX_201709_/WebDav/20_Data/2017-09-27_v5'
+# OUTPUT_BASE = '/data/dataset_v3_jsons'
+# OUTPUT_BASE = '/Users/hirokisugiyama/Work/NTTTX/NTTTX_201709_/data/labels/2017-09-27_v5_part_10'
+# OUTPUT_BASE = '/Users/hirokisugiyama/Work/NTTTX/NTTTX_201709_/data/labels/2017-09-27_v5_part_20'
+OUTPUT_BASE = '/Users/hirokisugiyama/Work/NTTTX/NTTTX_201709_/data/labels/2017-09-27_v5'
 
 # {(元のラベルjsonのキー): (変換後のjsonのキー)}
 FORM_TYPE_KEY_MAP = {
@@ -30,7 +37,7 @@ def create_req_dict(req_parser):
     req_dict = {
         'requestLine': request_line,
         'headers': create_headers_dict(msg),
-        'body': req_parser._payload()
+        'body': extract_body_str(msg)
     }
 
     return req_dict
@@ -72,6 +79,8 @@ def create_single_form_label(form, label):
 def create_labels_list(resp_parser, all_labels, site, tid):
     forms, form_labels = FormExtractor.extract_transaction_forms(resp_parser, all_labels, site, tid)
 
+    return [create_single_form_label(f, l) for f, l in zip(forms, form_labels)]
+
 def create_json_dict(req_parser, resp_parser, all_labels, site, tid):
     request = create_req_dict(req_parser)
     response = create_resp_dict(resp_parser)
@@ -86,11 +95,13 @@ def create_json_dict(req_parser, resp_parser, all_labels, site, tid):
     return json_dict
 
 def make_single(req_parser, resp_parser, all_labels, site, tid):
-    forms, labels = FormExtractor.extract_transaction_forms(resp_parser, all_labels, site, tid)
     json_filename = tid + '.json'
     json_path = os.path.join(OUTPUT_BASE, site, json_filename)
+    json_dict = create_json_dict(req_parser, resp_parser, all_labels, site, tid)
 
-    request = create_req_dict(req_parser)
+    # jsonファイル出力
+    with open(json_path, mode='w') as f:
+        json.dump(json_dict, f)
 
 def make_jsons():
     all_transactions = DatasetLoader.load_all(base=DATASET_BASE)
@@ -109,5 +120,5 @@ def make_jsons():
 
 
 if __name__ == '__main__':
-    make_jsons()
+    pass
 

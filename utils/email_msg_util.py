@@ -1,5 +1,6 @@
 from itertools import groupby
 from operator import itemgetter
+import copy
 
 def extract_sorted_headers(msg):
     """email.message.Messageオブジェクトから、ソート済みのヘッダを抽出する。
@@ -43,6 +44,25 @@ def create_headers_dict(msg):
     headers = {name: join_grouped_vals(g) for name, g in groupby(sorted_headers, itemgetter(0))}
 
     return headers
+
+def extract_body_str(msg):
+    """email.message.Messageオブジェクトから、body部の文字列を取得する。
+
+    get_payload()はmultipartの場合文字列を返却しないので、次の手順で取得する。
+    1. 全体の文字列を取得
+    2. ヘッダ部の文字列を取得
+    3. 全体の文字列から、ヘッダ部の文字列数分だけスライスした文字列を取得
+
+    :param msg:
+    :return:
+    """
+    header_msg = copy.deepcopy(msg)
+    header_msg.set_payload('')
+
+    whole_str = msg.as_string()
+    header_str = header_msg.as_string()
+
+    return whole_str[len(header_str):]
 
 if __name__ == '__main__':
     pass
