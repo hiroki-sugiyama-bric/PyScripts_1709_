@@ -72,9 +72,21 @@ Content-Disposition: form-data; name="question_03"
 
     # print(msg.as_string())
 
+def try_get_content_charset():
+    msg_str = '''\
+Content-Type: text/html;charset=Windows-31J
+Content-Length: 1140
 
+あああ
+'''
+    msg = message_from_string(msg_str)
+    charset = msg.get_content_charset()
+    print(charset)
+    # print(msg)
 
 if __name__ == '__main__':
-    try_get_body_str()
+    try_get_content_charset()
+    # try_get_body_str()
+
 
 
