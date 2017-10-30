@@ -2,6 +2,8 @@ import re
 
 import numpy as np
 import secdiagai.dataset
+from ...utils.transaction_parse_util import load_forms
+from bs4 import BeautifulSoup
 
 noisePtn = re.compile(r'[!-/:-?[-`{-~]')
 
@@ -47,4 +49,20 @@ def create_X_y(all_forms, all_form_labels, target_label):
     X = forms_not_target + forms_target
     y = [0] * len(forms_not_target) + [1] * len(forms_target)
 
+    return X, y
+
+def create_X_y_from_json(jsons_base, target_label):
+    forms, labels = load_forms(jsons_base)
+    
+    # 既存のものと同じ順番にするため
+    forms_target, forms_not_target = [], []
+    for form, label in zip(forms, labels):
+        if label['type'][target_label]:
+            forms_target.append(form)
+        else:
+            forms_not_target.append(form)
+
+    X = forms_not_target + forms_target
+    y = [0] * len(forms_not_target) + [1] * len(forms_target)
+    
     return X, y

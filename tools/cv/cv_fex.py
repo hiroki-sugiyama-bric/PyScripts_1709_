@@ -12,7 +12,7 @@ from secdiagai.classifier.bm25 import BM25Transformer
 from sklearn.feature_extraction.text import CountVectorizer
 from sklearn.pipeline import Pipeline
 
-from cv_util import exclude_sign_and_pick_noun_only, noun_only
+from .cv_util import exclude_sign_and_pick_noun_only, noun_only
 
 def create_login_fex():
     # ボタン名
