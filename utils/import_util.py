@@ -1,3 +1,4 @@
+import importlib
 import importlib.util
 import os
 
@@ -16,6 +17,13 @@ def import_by_py_path(py_path):
     spec = importlib.util.spec_from_file_location(module_name, py_path)
     module = importlib.util.module_from_spec(spec)
     spec.loader.exec_module(module)
+
+    try:
+        importlib.reload(module)
+    except:
+        print('failed to reload.')
+        pass
+
 
     return module
 
