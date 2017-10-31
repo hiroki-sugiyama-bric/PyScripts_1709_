@@ -51,9 +51,7 @@ def create_X_y(all_forms, all_form_labels, target_label):
 
     return X, y
 
-def create_X_y_from_json(jsons_base, target_label):
-    forms, labels = load_forms(jsons_base)
-    
+def create_X_y_from_json(forms, labels, target_label):
     # 既存のものと同じ順番にするため
     forms_target, forms_not_target = [], []
     for form, label in zip(forms, labels):
@@ -66,3 +64,8 @@ def create_X_y_from_json(jsons_base, target_label):
     y = [0] * len(forms_not_target) + [1] * len(forms_target)
     
     return X, y
+
+def load_and_create_X_y_from_json(jsons_base, target_label):
+    forms, labels = load_forms(jsons_base)
+
+    return create_X_y_from_json(forms, labels)

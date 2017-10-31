@@ -12,7 +12,7 @@ from sklearn.pipeline import Pipeline, FeatureUnion
 
 from .cv_fex import create_login_fex
 from .cv_rules import rule_login
-from .cv_util import load_form_infos, create_X_y, create_X_y_from_json
+from .cv_util import load_form_infos, create_X_y, load_and_create_X_y_from_json
 
 # DATASET_BASE = '/data/dataset_v3'
 # DATASET_BASE = '/Users/hirokisugiyama/Work/NTTTX/NTTTX_201709_/WebDav/20_Data/2017-09-27_v5_part_10'
@@ -24,7 +24,8 @@ LABEL_LOGIN = 'action_login'
 LABEL_LOGIN_FOR_JSON = 'login'
 # N_FOLDS = 2
 N_FOLDS = 5
-DUMP_PATH = '/Users/hirokisugiyama/Development/Projects/Python/Scripts/cv/model-login.pickle'
+# DUMP_PATH = '/Users/hirokisugiyama/Development/Projects/Python/Scripts/cv/model-login.pickle'
+DUMP_PATH = '/Users/hirokisugiyama/Work/NTTTX/NTTTX_201709_/data/models/model-login.dill'
 # JSONS_BASE = '/Users/hirokisugiyama/Work/NTTTX/NTTTX_201709_/data/labels/2017-09-27_v5_part_10'
 JSONS_BASE = '/Users/hirokisugiyama/Work/NTTTX/NTTTX_201709_/data/labels/2017-09-27_v5'
 
@@ -66,7 +67,7 @@ def run_login_cv():
     return run_svm(all_forms, all_form_labels, fex, by_website=False)
 
 def run_login_cv_by_jsons():
-    X, y = create_X_y_from_json(JSONS_BASE, LABEL_LOGIN_FOR_JSON)
+    X, y = load_and_create_X_y_from_json(JSONS_BASE, LABEL_LOGIN_FOR_JSON)
     fex = create_login_fex()
 
     # 分類器
@@ -82,6 +83,8 @@ def run_login_cv_by_jsons():
     errors = err_x_info['with_rule']
     print('fp_num: %d' % len(errors['f_positives']))
     print('fn_num: %d' % len(errors['f_negatives']))
+
+    w_clf.dump_model(DUMP_PATH)
 
 if __name__ == '__main__':
     pass
