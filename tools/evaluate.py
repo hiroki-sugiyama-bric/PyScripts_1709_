@@ -1,5 +1,7 @@
 from .cv.cv_util import create_X_y_from_json
 from ..consts import TYPE_LABELS, MODEL_FILE_PREFIX, MODEL_FILE_EXT
+from ..utils.classification_util import create_confusion_matrix_image, create_clf_scores, \
+    create_confusion_matrix_counts
 from logging import getLogger
 from sklearn.metrics import accuracy_score, confusion_matrix, precision_recall_fscore_support
 import os
@@ -37,49 +39,20 @@ class ModelEvaluator():
             with open(model_path, mode='rb') as f:
                 self.models[type_label] = dill.load(f)
 
-    def create_classification_scores(self, y_true, y_pred):
-        # TODO: utilに出す
-        not_target_form = {}
-        target_form = {}
-        avg_per_total = {}
-
-        return not_target_form, target_form, avg_per_total
-
-    def create_confusion_matrix_counts(self, y_true, y_pred):
-        # TODO: utilに出す
-        (tn, fp), (fn, tp) = confusion_matrix(y_true, y_pred)
-        counts = {
-            'tp': tp,
-            'fp': fp,
-            'fn': fn,
-            'tp': tp
-        }
-
-        return counts
-
-    def create_confusion_matrix_image(self, y_true, y_pred):
-        # TODO: utilに出す
-        # TODO: 画像生成処理
-        url = ''
-
-        return url
-
     def create_single_result(self, target_label):
         X, y_true = create_X_y_from_json(self.forms, self.labels, target_label)
         y_pred = self.models[target_label].predict(X)
 
-        not_target_form, target_form, avg_per_total = self.create_classification_scores(y_true, y_pred)
+        not_target_form, target_form, avg_per_total = create_clf_scores(y_true, y_pred)
 
-        result = {
+        return {
             'notTargetForm': not_target_form,
             'targetForm': target_form,
             'avgPerTotal': avg_per_total,
             'accuracyScore': accuracy_score(y_true, y_pred),
-            'confusionMatrix': self.create_confusion_matrix_counts(y_true, y_pred),
-            'confusionMatrixUrl': self.create_confusion_matrix_image(y_true, y_pred)
+            'confusionMatrix': create_confusion_matrix_counts(y_true, y_pred),
+            'confusionMatrixUrl': create_confusion_matrix_image(y_true, y_pred)
         }
-
-        return result
 
     def create_eval_result(self):
         return {l: self.create_single_result(l) for l in TYPE_LABELS}

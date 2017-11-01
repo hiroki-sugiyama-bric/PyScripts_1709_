@@ -52,7 +52,8 @@ def try_precision_recall_fscore_support():
     y_true = [0, 1, 1, 1, 0, 0, 1, 0, 1, 0, 0, 1, 1, 1, 1]
     y_pred = [0, 1, 0, 1, 0, 1, 0, 0, 1, 0, 0, 1, 0, 0, 1]
 
-    precision, recall, f_score, true_sum = precision_recall_fscore_support(y_true, y_pred)
+    # precision, recall, f_score, true_sum = precision_recall_fscore_support(y_true, y_pred)
+    precision, recall, f_score, true_sum = precision_recall_fscore_support(y_true, y_pred, labels=[0, 1])
 
     print(precision)
     print(recall)
@@ -71,7 +72,7 @@ def try_precision_recall_fscore_support():
 if __name__ == '__main__':
     # try_group_labels()
     # try_stratified_k_fold()
-    try_confusion_matrix()
+    # try_confusion_matrix()
     # try_classification_report()
-    # try_precision_recall_fscore_support()
+    try_precision_recall_fscore_support()
 
