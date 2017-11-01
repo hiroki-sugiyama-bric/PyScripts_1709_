@@ -45,8 +45,15 @@ def create_confusion_matrix_counts(y_true, y_pred):
 
     return counts
 
-def create_confusion_matrix_image(y_true, y_pred):
-    # TODO: 画像生成処理
+def create_confusion_matrix_image(y_true, y_pred, output_path, http_path):
     url = ''
 
     return url
+
+def create_target_names(target_label):
+    labeled_name = target_label.capitalize() + ' Form'
+    non_labeled_name = 'Not-' + labeled_name
+
+    return [non_labeled_name, labeled_name]
+
+
