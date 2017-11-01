@@ -26,8 +26,12 @@ def try_stratified_k_fold():
         print('')
 
 def try_confusion_matrix():
-    y_true = [0, 1, 1, 1, 0, 0, 1, 0, 1, 0, 0, 1, 1, 1, 1]
-    y_pred = [0, 1, 0, 1, 0, 1, 0, 0, 1, 0, 0, 1, 0, 0, 1]
+    # y_true = [0, 1, 1, 1, 0, 0, 1, 0, 1, 0, 0, 1, 1, 1, 1]
+    # y_pred = [0, 1, 0, 1, 0, 1, 0, 0, 1, 0, 0, 1, 0, 0, 1]
+    # y_true = [0, 0, 0, 1, 1, 1, 1, 1, 1, 1, 1, 0, 0, 1, 1, 1, 1, 1, 1, 1]
+    # y_pred = [0, 0, 0, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 0, 0, 0, 0, 0, 0, 0]
+    y_true = [0, 0, 0, 0, 1, 1, 1, 1, 1, 1, 1, 1, 1, 0, 1]
+    y_pred = [0, 0, 0, 0, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 0]
 
     cm = confusion_matrix(y_true, y_pred)
     print(cm)
@@ -41,16 +45,24 @@ def try_confusion_matrix():
 
     
 def try_classification_report():
-    y_true = [0, 1, 1, 1, 0, 0, 1, 0, 1, 0, 0, 1, 1, 1, 1]
-    y_pred = [0, 1, 0, 1, 0, 1, 0, 0, 1, 0, 0, 1, 0, 0, 1]
+    # y_true = [0, 1, 1, 1, 0, 0, 1, 0, 1, 0, 0, 1, 1, 1, 1]
+    # y_pred = [0, 1, 0, 1, 0, 1, 0, 0, 1, 0, 0, 1, 0, 0, 1]
+    # y_true = [0, 0, 0, 1, 1, 1, 1, 1, 1, 1, 1, 0, 0, 1, 1, 1, 1, 1, 1, 1]
+    # y_pred = [0, 0, 0, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 0, 0, 0, 0, 0, 0, 0]
+    y_true = [0, 0, 0, 0, 1, 1, 1, 1, 1, 1, 1, 1, 1, 0, 1]
+    y_pred = [0, 0, 0, 0, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 0]
 
     report = classification_report(y_true, y_pred)
 
     print(report)
 
 def try_precision_recall_fscore_support():
-    y_true = [0, 1, 1, 1, 0, 0, 1, 0, 1, 0, 0, 1, 1, 1, 1]
-    y_pred = [0, 1, 0, 1, 0, 1, 0, 0, 1, 0, 0, 1, 0, 0, 1]
+    # y_true = [0, 1, 1, 1, 0, 0, 1, 0, 1, 0, 0, 1, 1, 1, 1]
+    # y_pred = [0, 1, 0, 1, 0, 1, 0, 0, 1, 0, 0, 1, 0, 0, 1]
+    # y_true = [0, 0, 0, 1, 1, 1, 1, 1, 1, 1, 1, 0, 0, 1, 1, 1, 1, 1, 1, 1]
+    # y_pred = [0, 0, 0, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 0, 0, 0, 0, 0, 0, 0]
+    y_true = [0, 0, 0, 0, 1, 1, 1, 1, 1, 1, 1, 1, 1, 0, 1]
+    y_pred = [0, 0, 0, 0, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 0]
 
     # precision, recall, f_score, true_sum = precision_recall_fscore_support(y_true, y_pred)
     precision, recall, f_score, true_sum = precision_recall_fscore_support(y_true, y_pred, labels=[0, 1])
@@ -72,7 +84,7 @@ def try_precision_recall_fscore_support():
 if __name__ == '__main__':
     # try_group_labels()
     # try_stratified_k_fold()
-    # try_confusion_matrix()
-    # try_classification_report()
+    try_confusion_matrix()
+    try_classification_report()
     try_precision_recall_fscore_support()
 
