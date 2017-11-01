@@ -1,6 +1,9 @@
 from sklearn.metrics import accuracy_score, confusion_matrix, precision_recall_fscore_support
 from ..consts import Y_VALS
 import numpy as np
+import matplotlib.pyplot as plt
+import itertools
+
 
 def create_clf_scores(y_true, y_pred):
     # 「labels」は各スコアデータが [(ラベルなし), (ラベルあり)] の順になることを保証するための引数
@@ -34,21 +37,16 @@ def create_clf_scores(y_true, y_pred):
         'avgPerTotal': avg_per_total,
     }
 
+
 def create_confusion_matrix_counts(y_true, y_pred):
     (tn, fp), (fn, tp) = confusion_matrix(y_true, y_pred)
-    counts = {
+    return {
         'tp': tp,
         'fp': fp,
         'fn': fn,
         'tp': tp
     }
 
-    return counts
-
-def create_confusion_matrix_image(y_true, y_pred, output_path, http_path):
-    url = ''
-
-    return url
 
 def create_target_names(target_label):
     labeled_name = target_label.capitalize() + ' Form'
@@ -57,3 +55,33 @@ def create_target_names(target_label):
     return [non_labeled_name, labeled_name]
 
 
+def save_confusion_matrix_img(y_true, y_pred, target_label, save_path):
+    # 既存のvisualize.ConfusionMatrix.draw()とほぼ同じ
+    cm = confusion_matrix(y_true, y_pred)
+    plt.figure()
+    plt.imshow(cm, interpolation='nearest', cmap=plt.cm.PuBu)
+    plt.title('Confusion Matrix')
+    plt.colorbar()
+
+    labels = create_target_names(target_label)
+    if labels is None:
+        labels = range(max(len(cm.shape[0]), len(cm.shape[1])))
+
+    ticks = np.arange(len(labels))
+    plt.xticks(ticks, labels)
+    plt.yticks(ticks, labels)
+
+    for i, j in itertools.product(ticks, ticks):
+        plt.text(j, i, '{0:d}'.format(cm[i, j]),
+                 horizontalalignment="center",
+                 color="white" if cm[i, j] > cm.max() / 2 else "black")
+
+    plt.tight_layout()
+    plt.ylabel('True label')
+    plt.xlabel('Predicted label')
+
+    # 画像保存
+    plt.savefig(save_path)
+
+    # プロット情報をリセット
+    plt.clf()
