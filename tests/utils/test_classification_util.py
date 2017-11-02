@@ -12,7 +12,12 @@ class ClassificationUtilTestCase(TestCase):
         y_true = [0, 0, 0, 0, 1, 1, 1, 1, 1, 1, 1, 1, 1, 0, 1]
         y_pred = [0, 0, 0, 0, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 0]
 
-        actual = create_clf_scores(y_true, y_pred)
+        not_target_form, target_form, avg_per_total = create_clf_scores(y_true, y_pred)
+        actual = {
+            'notTargetForm': not_target_form,
+            'targetForm': target_form,
+            'avgPerTotal': avg_per_total
+        }
         expected = {
             'notTargetForm': {
                 'precision': 0.8,
@@ -54,7 +59,7 @@ class ClassificationUtilTestCase(TestCase):
 
         actual = create_confusion_matrix_counts(y_true, y_pred)
         expected = {
-            'tp': 4,
+            'tn': 4,
             'fp': 1,
             'fn': 1,
             'tp': 9

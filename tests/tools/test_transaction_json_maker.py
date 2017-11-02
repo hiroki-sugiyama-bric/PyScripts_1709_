@@ -179,7 +179,7 @@ Server: Apache
                     'Content-Length': '38',
                     'Cache-Control': 'max-age=0'
                 },
-                'body': 'postp=bar\n'
+                'body': 'postp=bar\r\n'
             },
             'response': {
                 'statusLine': {
@@ -213,4 +213,5 @@ Server: Apache
             ]
         }
 
+        self.maxDiff = None
         self.assertDictEqual(actual, expected)

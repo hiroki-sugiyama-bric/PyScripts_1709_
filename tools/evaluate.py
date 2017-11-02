@@ -3,6 +3,7 @@ from ..consts import TYPE_LABELS, MODEL_FILE_PREFIX, MODEL_FILE_EXT
 from ..utils.classification_util import save_confusion_matrix_img, create_clf_scores, \
     create_confusion_matrix_counts
 from ..utils.datetime_util import create_year_to_millisec_str
+from ..utils.numpy_util import dict_np_to_native
 from logging import getLogger
 from sklearn.metrics import accuracy_score, confusion_matrix, precision_recall_fscore_support
 import os
@@ -81,7 +82,7 @@ class ModelEvaluator():
         # ConfusionMatrix画像を保存
         save_confusion_matrix_img(y_true, y_pred, target_label, cm_path)
 
-        return {
+        result = {
             'notTargetForm': not_target_form,
             'targetForm': target_form,
             'avgPerTotal': avg_per_total,
@@ -89,6 +90,9 @@ class ModelEvaluator():
             'confusionMatrix': create_confusion_matrix_counts(y_true, y_pred),
             'confusionMatrixUrl': cm_http_path
         }
+
+        # 結果はjson互換である必要があるため、numpyの型はnative型に変換する
+        return dict_np_to_native(result)
 
     def _make_cm_dir(self):
         # ディレクトリ名生成

@@ -14,14 +14,10 @@ def create_clf_scores(y_true, y_pred):
     avg_pre, avg_rec, avg_f1, _ = precision_recall_fscore_support(y_true, y_pred, average='weighted')
 
     # 各スコアデータを [(ラベルなし), (ラベルあり), (平均値)] のlistに変換
-    # pres = list(pres) + [avg_pre]
-    # recs = list(recs) + [avg_rec]
-    # f1s = list(f1s) + [avg_f1]
-    # sups = list(sups) + [sum(sups)]
-    pres = (pres + [avg_pre]).tolist()
-    recs = (recs + [avg_rec]).tolist()
-    f1s = (f1s + [avg_f1]).tolist()
-    sups = (sups + [sum(sups)]).tolist()
+    pres = list(pres) + [avg_pre]
+    recs = list(recs) + [avg_rec]
+    f1s = list(f1s) + [avg_f1]
+    sups = list(sups) + [sum(sups)]
 
     def scores_to_dict(pre, rec, f1, sup):
         return {
@@ -35,17 +31,14 @@ def create_clf_scores(y_true, y_pred):
     all_scores = [scores_to_dict(*params) for params in zip(pres, recs, f1s, sups)]
     not_target_form, target_form, avg_per_total = all_scores
 
-    return {
-        'notTargetForm': not_target_form,
-        'targetForm': target_form,
-        'avgPerTotal': avg_per_total,
-    }
+    return not_target_form, target_form, avg_per_total
+
 
 
 def create_confusion_matrix_counts(y_true, y_pred):
     (tn, fp), (fn, tp) = confusion_matrix(y_true, y_pred)
     return {
-        'tp': tp,
+        'tn': tn,
         'fp': fp,
         'fn': fn,
         'tp': tp

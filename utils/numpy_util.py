@@ -14,8 +14,19 @@ def np_to_native(obj):
     if isinstance(obj, np.number):
         return np.asscalar(obj)
 
+    return obj
 
 @dict_recursive
 def dict_np_to_native(d):
+    """dictに含まれるnumpy型の値をPythonネイティブ型に変換して返却する。
+
+    制限として、
+    1. numpy.asscalarで変換できないnumpy数値型は変換しない
+    2. dict内にdict以外のデータ構造(list, tuple, set等)が含まれている場合、その内部の値は変換しない
+       (ただし、numpy.ndarrayはlistに変換する)
+
+    :param d:
+    :return:
+    """
     return np_to_native(d)
 
