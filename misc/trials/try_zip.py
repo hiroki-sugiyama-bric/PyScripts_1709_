@@ -20,4 +20,5 @@ def unzip_and_flatten(zipped_seqs):
 
 
 if __name__ == '__main__':
-    try_unzip()
+    # try_unzip()
+    print(unzip_and_flatten(([], [])))

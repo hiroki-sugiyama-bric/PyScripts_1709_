@@ -8,6 +8,7 @@ from secdiagai.dataset import DatasetLoader, FormExtractor
 from secdiagai.parser import TransactionParser, ResponseParser, RequestParser
 from itertools import groupby
 from bs4 import BeautifulSoup
+from .list_util import unzip_and_flatten
 
 JSONS_BASE = '/Users/hirokisugiyama/Work/NTTTX/NTTTX_201709_/data/labels/2017-09-27_v5_part_10'
 # JSONS_BASE = '/Users/hirokisugiyama/Work/NTTTX/NTTTX_201709_/data/labels/2017-09-27_v5'
@@ -45,12 +46,9 @@ def extract_forms_from_trs_dict(trs_dict):
     :return:
     """
     transactions = [tr for tr in trs_dict['transactions'].values()]
-
     form_label_sets = [extract_single_tr_forms(t) for t in transactions]
-    form_label_pairs = [(f, l) for (fs, ls) in form_label_sets for (f, l) in zip(fs, ls)]
-    forms, labels = zip(*form_label_pairs)
 
-    return forms, labels
+    return unzip_and_flatten(form_label_sets)
 
 def load_forms_from_jsons(jsons_base):
     """トランザクションjsonファイルを格納するディレクトリから、全フォームデータを読み込む。
@@ -67,10 +65,8 @@ def load_forms_from_jsons(jsons_base):
     trs_dicts = (read_tr(p) for p in paths)
 
     form_label_sets = [extract_forms_from_trs_dict(t) for t in trs_dicts]
-    form_label_pairs = [(f, l) for (fs, ls) in form_label_sets for (f, l) in zip(fs, ls)]
-    forms, labels = zip(*form_label_pairs)
 
-    return forms, labels
+    return unzip_and_flatten(form_label_sets)
 
 
 def try_parse_tr_txt():
