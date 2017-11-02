@@ -68,4 +68,4 @@ def create_X_y_from_json(forms, labels, target_label):
 def load_and_create_X_y_from_json(jsons_base, target_label):
     forms, labels = load_forms(jsons_base)
 
-    return create_X_y_from_json(forms, labels)
+    return create_X_y_from_json(forms, labels, target_label)

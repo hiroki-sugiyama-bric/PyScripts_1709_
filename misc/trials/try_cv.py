@@ -42,6 +42,10 @@ def try_confusion_matrix():
     print(fp)
     print(fn)
     print(tp)
+    print(type(tn))
+    print(type(fp))
+    print(type(fn))
+    print(type(tp))
 
     
 def try_classification_report():
@@ -85,6 +89,6 @@ if __name__ == '__main__':
     # try_group_labels()
     # try_stratified_k_fold()
     try_confusion_matrix()
-    try_classification_report()
-    try_precision_recall_fscore_support()
+    # try_classification_report()
+    # try_precision_recall_fscore_support()
 

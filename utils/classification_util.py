@@ -14,10 +14,14 @@ def create_clf_scores(y_true, y_pred):
     avg_pre, avg_rec, avg_f1, _ = precision_recall_fscore_support(y_true, y_pred, average='weighted')
 
     # 各スコアデータを [(ラベルなし), (ラベルあり), (平均値)] のlistに変換
-    pres = list(pres) + [avg_pre]
-    recs = list(recs) + [avg_rec]
-    f1s = list(f1s) + [avg_f1]
-    sups = list(sups) + [sum(sups)]
+    # pres = list(pres) + [avg_pre]
+    # recs = list(recs) + [avg_rec]
+    # f1s = list(f1s) + [avg_f1]
+    # sups = list(sups) + [sum(sups)]
+    pres = (pres + [avg_pre]).tolist()
+    recs = (recs + [avg_rec]).tolist()
+    f1s = (f1s + [avg_f1]).tolist()
+    sups = (sups + [sum(sups)]).tolist()
 
     def scores_to_dict(pre, rec, f1, sup):
         return {

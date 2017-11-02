@@ -2,7 +2,7 @@ from .cv.cv_util import create_X_y_from_json
 from ..consts import TYPE_LABELS, MODEL_FILE_PREFIX, MODEL_FILE_EXT
 from ..utils.classification_util import save_confusion_matrix_img, create_clf_scores, \
     create_confusion_matrix_counts
-from utils.datetime_util import create_year_to_millisec_str
+from ..utils.datetime_util import create_year_to_millisec_str
 from logging import getLogger
 from sklearn.metrics import accuracy_score, confusion_matrix, precision_recall_fscore_support
 import os
@@ -60,8 +60,8 @@ class ModelEvaluator():
 
     def _construct_cm_paths(self, target_label):
         cm_filename = target_label + '.png'
-        cm_path = os.path.join(self.cm_http_root, self.cm_dirname, cm_filename)
-        cm_http_path = os.path.join(self.cm_root, self.cm_dirname, cm_filename)
+        cm_path = os.path.join(self.cm_root, self.cm_dirname, cm_filename)
+        cm_http_path = os.path.join(self.cm_http_root, self.cm_dirname, cm_filename)
 
         return cm_path, cm_http_path
 
