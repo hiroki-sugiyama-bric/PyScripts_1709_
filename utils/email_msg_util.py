@@ -64,6 +64,4 @@ def extract_body_str(msg):
 
     return whole_str[len(header_str):]
 
-if __name__ == '__main__':
-    pass
 

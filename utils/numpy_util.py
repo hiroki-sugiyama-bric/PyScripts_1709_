@@ -2,6 +2,14 @@ import numpy as np
 from .dict_util import dict_recursive
 
 def np_to_native(obj):
+    """numpy型のオブジェクトをPythonネイティブ型に変換して返却する。
+
+    制限として、
+    1. numpy.asscalarで変換できないnumpy数値型は変換しない
+
+    :param obj:
+    :return:
+    """
     # ndarrayの場合、tolist()で変換する
     # 各要素もネイティブ型になる
     if isinstance(obj, np.ndarray):

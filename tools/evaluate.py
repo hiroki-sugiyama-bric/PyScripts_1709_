@@ -42,6 +42,10 @@ class ModelEvaluator():
         self.already_evaluated = False
 
     def _init_models(self):
+        """シリアライズ化された学習モデルを各ファイルから読み込む。
+
+        :return:
+        """
         # {(種別ラベル): (モデルオブジェクト)}
         # モデルオブジェクトが大きすぎてパフォーマンスを下げるなら、ここでは存在チェックだけしてパスを持つようにした方が良さそう
         self.models = dict.fromkeys(TYPE_LABELS)
@@ -60,6 +64,11 @@ class ModelEvaluator():
                 self.models[type_label] = dill.load(f)
 
     def _construct_cm_paths(self, target_label):
+        """混合行列画像の格納先パス文字列を生成する。
+
+        :param target_label:
+        :return:
+        """
         cm_filename = target_label + '.png'
         cm_path = os.path.join(self.cm_root, self.cm_dirname, cm_filename)
         cm_http_path = os.path.join(self.cm_http_root, self.cm_dirname, cm_filename)
@@ -67,6 +76,11 @@ class ModelEvaluator():
         return cm_path, cm_http_path
 
     def _create_single_result(self, target_label):
+        """単一種別のフォームに関する評価結果データを生成する。
+
+        :param target_label:
+        :return:
+        """
         if self.models[target_label] is None:
             # 種別ラベルに対応するモデルが存在しない場合は空dictを返却
             return {}
@@ -95,6 +109,10 @@ class ModelEvaluator():
         return dict_np_to_native(result)
 
     def _make_cm_dir(self):
+        """混合行列画像の格納先ディレクトリを生成する。
+
+        :return:
+        """
         # ディレクトリ名生成
         self.cm_dirname = create_year_to_millisec_str(self.exec_date)
 
@@ -102,6 +120,10 @@ class ModelEvaluator():
         os.mkdir(os.path.join(self.cm_root, self.cm_dirname))
 
     def create_eval_result(self):
+        """学習モデル性能評価結果データを生成する。
+
+        :return:
+        """
         # 本メソッドを使う側の実行日時との整合性を取るため、１度しか呼べないようにする
         if not self.already_evaluated:
             self.already_evaluated = True

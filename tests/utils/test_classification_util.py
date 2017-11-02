@@ -1,5 +1,5 @@
 from unittest import TestCase
-from ...utils.classification_util import create_clf_scores, create_confusion_matrix_counts, create_target_names
+from ...utils.classification_util import create_clf_scores, create_confusion_matrix_counts, create_cm_labels
 
 class ClassificationUtilTestCase(TestCase):
     def test_create_clf_scores(self):
@@ -69,7 +69,7 @@ class ClassificationUtilTestCase(TestCase):
 
     def test_create_target_names(self):
         target_label = 'login'
-        actual = create_target_names(target_label)
+        actual = create_cm_labels(target_label)
         expected = ['Not-Login Form', 'Login Form']
 
         self.assertEqual(actual, expected)
