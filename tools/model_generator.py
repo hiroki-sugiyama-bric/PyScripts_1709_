@@ -1,5 +1,6 @@
 from logging import getLogger
 from ..consts import TYPE_LABELS
+from ..utils.import_util import get_attr_by_fullname
 
 logger = getLogger(__name__)
 
@@ -16,6 +17,22 @@ class ModelGenerator():
         # 学習アルゴリズム関連情報
         self.algorithm_info = algorigthm_info
 
-    # def _init_algorithm_info():
+        self.algorithm_clses = dict.fromkeys(TYPE_LABELS)
+
+    def _init_algorithm_clses(self):
+        """学習アルゴリズムに対応するクラスをインスタンス化する。
+
+        クラス名、パラメータ不備のチェックを兼ねる。
+
+        :return:
+        """
+        for type_label in TYPE_LABELS:
+            al_info = self.algorithm_info[type_label]
+            cls_fullname, parameters = al_info['cls_fullname'], al_info['parameters']
+            clazz = get_attr_by_fullname(cls_fullname)
+            self.algorithm_clses[type_label] = clazz(**parameters)
+
+
+
 
 

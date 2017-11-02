@@ -13,3 +13,5 @@ MODEL_FILE_EXT = '.dill'
 # Classification等で用いる「y」(ラベル情報リスト)で用いる値
 # 0: ラベルなし、1: ラベルあり
 Y_VALS = [0, 1]
+
+RANDOM_STATE = 42
