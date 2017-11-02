@@ -6,13 +6,13 @@ from ..utils.email_msg_util import create_headers_dict, extract_body_str
 from bs4.dammit import UnicodeDammit
 
 # DATASET_BASE = '/data/dataset_v3'
-# DATASET_BASE = '/Users/hirokisugiyama/Work/NTTTX/NTTTX_201709_/WebDav/20_Data/2017-09-27_v5_part_10'
+DATASET_BASE = '/Users/hirokisugiyama/Work/NTTTX/NTTTX_201709_/WebDav/20_Data/2017-09-27_v5_part_10'
 # DATASET_BASE = '/Users/hirokisugiyama/Work/NTTTX/NTTTX_201709_/WebDav/20_Data/2017-09-27_v5_part_20'
-DATASET_BASE = '/Users/hirokisugiyama/Work/NTTTX/NTTTX_201709_/WebDav/20_Data/2017-09-27_v5'
+# DATASET_BASE = '/Users/hirokisugiyama/Work/NTTTX/NTTTX_201709_/WebDav/20_Data/2017-09-27_v5'
 # OUTPUT_BASE = '/data/dataset_v3_jsons'
-# OUTPUT_BASE = '/Users/hirokisugiyama/Work/NTTTX/NTTTX_201709_/data/labels/2017-09-27_v5_part_10'
+OUTPUT_BASE = '/Users/hirokisugiyama/Work/NTTTX/NTTTX_201709_/data/labels/2017-09-27_v5_part_10'
 # OUTPUT_BASE = '/Users/hirokisugiyama/Work/NTTTX/NTTTX_201709_/data/labels/2017-09-27_v5_part_20'
-OUTPUT_BASE = '/Users/hirokisugiyama/Work/NTTTX/NTTTX_201709_/data/labels/2017-09-27_v5'
+# OUTPUT_BASE = '/Users/hirokisugiyama/Work/NTTTX/NTTTX_201709_/data/labels/2017-09-27_v5'
 
 # {(元のラベルjsonのキー): (変換後のjsonのキー)}
 FORM_TYPE_KEY_MAP = {
@@ -26,6 +26,7 @@ FORM_TYPE_KEY_MAP = {
 
 FORM_SUB_INFO_KEYS = ['id', 'name', 'action', 'snippet']
 FORM_SUB_INFO_KEY_PREFIX = '_form_'
+
 
 def create_req_dict(req_parser):
     msg = req_parser._req
@@ -42,6 +43,7 @@ def create_req_dict(req_parser):
     }
 
     return req_dict
+
 
 def create_resp_dict(resp_parser):
     msg = resp_parser._resp
@@ -61,6 +63,7 @@ def create_resp_dict(resp_parser):
 
     return req_dict
 
+
 def create_form_sub_info(label):
     sub_keys_with_prefix = [FORM_SUB_INFO_KEY_PREFIX + k for k in FORM_SUB_INFO_KEYS]
     rm_prefix = lambda k: k[len(FORM_SUB_INFO_KEY_PREFIX):]
@@ -68,8 +71,10 @@ def create_form_sub_info(label):
 
     return form_sub_info
 
+
 def create_label_type(label):
     return {FORM_TYPE_KEY_MAP[k]: v for k, v in label.items() if k in FORM_TYPE_KEY_MAP.keys()}
+
 
 def create_single_form_label(form, label):
     form_sub_info = create_form_sub_info(label)
@@ -79,10 +84,12 @@ def create_single_form_label(form, label):
 
     return single_form_label
 
+
 def create_labels_list(resp_parser, all_labels, site, tid):
     forms, form_labels = FormExtractor.extract_transaction_forms(resp_parser, all_labels, site, tid)
 
     return [create_single_form_label(f, l) for f, l in zip(forms, form_labels)]
+
 
 def create_json_dict(req_parser, resp_parser, all_labels, site, tid):
     request = create_req_dict(req_parser)
@@ -90,12 +97,17 @@ def create_json_dict(req_parser, resp_parser, all_labels, site, tid):
     labels = create_labels_list(resp_parser, all_labels, site, tid)
 
     json_dict = {
-        'request': request,
-        'response': response,
-        'labels': labels,
+        'transactions': {
+            tid: {
+                'request': request,
+                'response': response,
+                'labels': labels,
+            }
+        }
     }
 
     return json_dict
+
 
 def make_single(req_parser, resp_parser, all_labels, site, tid):
     json_filename = tid + '.json'
@@ -105,6 +117,7 @@ def make_single(req_parser, resp_parser, all_labels, site, tid):
     # jsonファイル出力
     with open(json_path, mode='w') as f:
         json.dump(json_dict, f, ensure_ascii=False)
+
 
 def make_jsons():
     all_transactions = DatasetLoader.load_all(base=DATASET_BASE)
@@ -124,4 +137,3 @@ def make_jsons():
 
 if __name__ == '__main__':
     pass
-

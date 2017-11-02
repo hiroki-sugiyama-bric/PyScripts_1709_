@@ -2,7 +2,7 @@ import re
 
 import numpy as np
 import secdiagai.dataset
-from ...utils.transaction_parse_util import load_forms
+from ...utils.transaction_parse_util import load_forms_from_jsons
 from bs4 import BeautifulSoup
 
 noisePtn = re.compile(r'[!-/:-?[-`{-~]')
@@ -66,6 +66,6 @@ def create_X_y_from_json(forms, labels, target_label):
     return X, y
 
 def load_and_create_X_y_from_json(jsons_base, target_label):
-    forms, labels = load_forms(jsons_base)
+    forms, labels = load_forms_from_jsons(jsons_base)
 
     return create_X_y_from_json(forms, labels, target_label)

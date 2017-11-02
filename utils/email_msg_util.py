@@ -31,7 +31,7 @@ def create_headers_dict(msg):
     """
     sorted_headers = extract_sorted_headers(msg)
     def join_grouped_vals(group):
-        """groupby()グループ化されたヘッダ値を結合する。
+        """groupby()でグループ化されたヘッダ値を結合する。
 
         「, 」で結合する。
 

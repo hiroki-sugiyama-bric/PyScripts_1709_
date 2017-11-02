@@ -1,7 +1,7 @@
 from unittest import TestCase
 from ...utils.dict_util import dict_recursive
 
-class NumpyUtilTestCase(TestCase):
+class DictUtilTestCase(TestCase):
     def test_dict_recursive(self):
         @dict_recursive
         def double(obj):
