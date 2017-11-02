@@ -1,7 +1,7 @@
 from .cv.cv_util import create_X_y_from_json
 from ..consts import TYPE_LABELS, MODEL_FILE_PREFIX, MODEL_FILE_EXT
 from ..utils.classification_util import save_confusion_matrix_img, create_clf_scores, \
-    create_confusion_matrix_counts
+    create_confusion_matrix_counts, type_to_model_filename
 from ..utils.datetime_util import create_year_to_millisec_str
 from ..utils.numpy_util import dict_np_to_native
 from logging import getLogger
@@ -47,7 +47,7 @@ class ModelEvaluator():
         self.models = dict.fromkeys(TYPE_LABELS)
 
         for type_label in TYPE_LABELS:
-            model_filename = MODEL_FILE_PREFIX + type_label + MODEL_FILE_EXT
+            model_filename = type_to_model_filename(type_label)
             model_path = os.path.join(self.models_dir, model_filename)
 
             if not os.path.isfile(model_path):

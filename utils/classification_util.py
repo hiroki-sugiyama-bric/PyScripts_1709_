@@ -1,5 +1,5 @@
 from sklearn.metrics import accuracy_score, confusion_matrix, precision_recall_fscore_support
-from ..consts import Y_VALS
+from ..consts import Y_VALS, MODEL_FILE_EXT, MODEL_FILE_PREFIX
 import numpy as np
 import matplotlib.pyplot as plt
 import itertools
@@ -34,7 +34,6 @@ def create_clf_scores(y_true, y_pred):
     return not_target_form, target_form, avg_per_total
 
 
-
 def create_confusion_matrix_counts(y_true, y_pred):
     (tn, fp), (fn, tp) = confusion_matrix(y_true, y_pred)
     return {
@@ -50,6 +49,12 @@ def create_target_names(target_label):
     non_labeled_name = 'Not-' + labeled_name
 
     return [non_labeled_name, labeled_name]
+
+
+def type_to_model_filename(type_label):
+    model_filename = MODEL_FILE_PREFIX + type_label + MODEL_FILE_EXT
+
+    return model_filename
 
 
 def save_confusion_matrix_img(y_true, y_pred, target_label, save_path):
