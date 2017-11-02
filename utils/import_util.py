@@ -5,7 +5,7 @@ import os
 def import_by_py_path(py_path):
     '''指定Pythonパスのモジュールをインポートし、返却する。
 
-    指定Pythonパス内で相対インポート等は行うことができないことに注意。
+    指定Pythonパス内で相対インポートは行うことができないことに注意。
 
     :param py_path:
     :return:
@@ -26,6 +26,19 @@ def import_by_py_path(py_path):
 
 
     return module
+
+def get_attr_by_fullname(attr_fullname):
+    """モジュール名を含む属性名から、当該モジュールの属性を取得する。
+
+    :param attr_fullname:
+    :return:
+    """
+    *module_parts, attr_name = attr_fullname.split('.')
+    module_name = '.'.join(module_parts)
+    module = importlib.import_module(module_name)
+
+    return getattr(module, attr_name)
+
 
 
 

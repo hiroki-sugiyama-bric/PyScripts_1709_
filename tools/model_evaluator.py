@@ -14,7 +14,7 @@ logger = getLogger(__name__)
 
 
 class ModelEvaluator():
-    """与えられたデータから、学習済みモデルの性能を評価するクラス。
+    """学習済みモデルの性能を評価するクラス。
     """
 
     def __init__(self, forms, labels, models_dir, cm_root, cm_http_root, exec_date):

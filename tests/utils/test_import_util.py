@@ -1,6 +1,7 @@
 from unittest import TestCase
-from ...utils.import_util import import_by_py_path
+from ...utils.import_util import import_by_py_path, get_attr_by_fullname
 from ...consts import FIXTURES_ROOT
+from sklearn.ensemble import RandomForestClassifier
 import os
 
 class ImportUtilTestCase(TestCase):
@@ -9,3 +10,10 @@ class ImportUtilTestCase(TestCase):
         test_module = import_by_py_path(test_module_path)
 
         self.assertEqual(test_module.test_attr, 3)
+
+    def test_get_attr_by_fullname(self):
+        rf_fullname = 'sklearn.ensemble.RandomForestClassifier'
+        actual = get_attr_by_fullname(rf_fullname)
+
+        self.assertEqual(actual, RandomForestClassifier)
+
