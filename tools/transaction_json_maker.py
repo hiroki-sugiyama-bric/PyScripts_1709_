@@ -116,7 +116,7 @@ def make_single(req_parser, resp_parser, all_labels, site, tid):
 
     # jsonファイル出力
     with open(json_path, mode='w') as f:
-        json.dump(json_dict, f, ensure_ascii=False)
+        json.dump(json_dict, f, ensure_ascii=False, indent=4)
 
 
 def make_jsons():

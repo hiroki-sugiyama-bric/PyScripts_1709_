@@ -17,9 +17,9 @@ class ModelGenerator():
         # 学習アルゴリズム関連情報
         self.algorithm_info = algorigthm_info
 
-        self.algorithm_clses = dict.fromkeys(TYPE_LABELS)
+        self.algorithm_models = dict.fromkeys(TYPE_LABELS)
 
-    def _init_algorithm_clses(self):
+    def _init_algorithm_models(self):
         """学習アルゴリズムに対応するクラスをインスタンス化する。
 
         クラス名、パラメータ不備のチェックを兼ねる。
@@ -30,7 +30,7 @@ class ModelGenerator():
             al_info = self.algorithm_info[type_label]
             cls_fullname, parameters = al_info['cls_fullname'], al_info['parameters']
             clazz = get_attr_by_fullname(cls_fullname)
-            self.algorithm_clses[type_label] = clazz(**parameters)
+            self.algorithm_models[type_label] = clazz(**parameters)
 
 
 
