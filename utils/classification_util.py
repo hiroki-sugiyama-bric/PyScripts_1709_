@@ -1,8 +1,36 @@
 from sklearn.metrics import accuracy_score, confusion_matrix, precision_recall_fscore_support
-from ..consts import Y_VALS, MODEL_FILE_EXT, MODEL_FILE_PREFIX
+from sklearn.feature_extraction.text import CountVectorizer
+from sklearn.pipeline import Pipeline, FeatureUnion
+from ..consts import Y_VALS, MODEL_FILE_EXT, MODEL_FILE_PREFIX, FEATURE_TYPE_BUTTON, FEATURE_TYPE_ACTION, \
+    FEATURE_TYPE_TEXT_0, FEATURE_TYPE_TEXT_2, FEATURE_TYPE_LABEL, FEATURE_TYPE_TITLE, FEATURE_TYPE_INPUT_NAME, \
+    FEATURE_TYPE_INPUT_ID, FEATURES_FOR_FORM_TYPE, FORM_TYPE_LABEL_LOGIN, FORM_TYPE_LABEL_UPLOADER
 import numpy as np
 import matplotlib.pyplot as plt
 import itertools
+import re
+from secdiagai.classifier.iteration2 import FormSubmitButtonNameTransformer, FormActionTransformer, \
+    FormNeighborTextTransformer, FormLabelTransformer, FormPageTitieTransformer, FormInputNameTransformer, \
+    FormInputIdTransformer
+from secdiagai.feature import MecabSplitter
+from secdiagai.classifier.bm25 import BM25Transformer
+from secdiagai.classifier.base import WebClassifier
+from .cv_rules import rule_login, rule_uploader
+
+TRANSFORMER_FOR_FEATURE_TYPE = {
+    FEATURE_TYPE_BUTTON: FormSubmitButtonNameTransformer(),
+    FEATURE_TYPE_ACTION: FormActionTransformer(),
+    FEATURE_TYPE_TEXT_0: FormNeighborTextTransformer(parent=0),
+    FEATURE_TYPE_TEXT_2: FormNeighborTextTransformer(parent=2),
+    FEATURE_TYPE_LABEL: FormLabelTransformer(),
+    FEATURE_TYPE_TITLE: FormPageTitieTransformer(),
+    FEATURE_TYPE_INPUT_NAME: FormInputNameTransformer(),
+    FEATURE_TYPE_INPUT_ID: FormInputIdTransformer()
+}
+
+RULE_FOR_FORM_TYPE = {
+    FORM_TYPE_LABEL_LOGIN: rule_login,
+    FORM_TYPE_LABEL_UPLOADER: rule_uploader
+}
 
 
 def create_clf_scores(y_true, y_pred):
@@ -23,9 +51,9 @@ def create_clf_scores(y_true, y_pred):
     :param y_pred:
     :return:
     """
+    # 各スコアデータを [(ラベルなし), (ラベルあり)] のndarrayとして取得
     # 「labels」は各スコアデータが [(ラベルなし), (ラベルあり)] の順になることを保証するための引数
     labels = sorted(Y_VALS)
-    # 各スコアデータを [(ラベルなし), (ラベルあり)] のndarrayとして取得
     pres, recs, f1s, sups = precision_recall_fscore_support(y_true, y_pred, labels=labels)
     # precision, recall, f1の平均値を取得
     avg_pre, avg_rec, avg_f1, _ = precision_recall_fscore_support(y_true, y_pred, average='weighted')
@@ -128,3 +156,61 @@ def save_confusion_matrix_img(y_true, y_pred, target_label, save_path):
 
     # プロット情報をリセット
     plt.clf()
+
+
+def noun_only(surface, features):
+    if features[0] == u'名詞' and not features[1] in set([u'非自立', u'接尾', u'動詞非自立的']):
+        return surface
+
+
+def exclude_sign_and_pick_noun_only(surface, features):
+    noisePtn = re.compile(r'[!-/:-?[-`{-~]')
+
+    # @を除く半角記号の除去関数
+    if noisePtn.match(surface) is not None:
+        return ''
+
+    if features[0] == u'名詞' and not features[1] in set([u'非自立', u'接尾', u'動詞非自立的']):
+        return surface
+
+
+def create_count_vectorizer(feature_type):
+    def choose_analyzer(feature_type):
+        if feature_type in {FEATURE_TYPE_ACTION}:
+            return lambda x: x
+        elif feature_type in {FEATURE_TYPE_BUTTON, FEATURE_TYPE_LABEL, FEATURE_TYPE_INPUT_NAME, FEATURE_TYPE_INPUT_ID}:
+            return lambda x: MecabSplitter().split_filtered('\n'.join(x), noun_only)
+        elif feature_type in {FEATURE_TYPE_TEXT_0, FEATURE_TYPE_TEXT_2, FEATURE_TYPE_TITLE}:
+            return lambda x: MecabSplitter().split_filtered(x[0], exclude_sign_and_pick_noun_only, noun_only)
+
+    return CountVectorizer(analyzer=choose_analyzer(feature_type), binary=True)
+
+
+def create_single_feature_extractor(feature_type):
+    return Pipeline([
+        ('extract', TRANSFORMER_FOR_FEATURE_TYPE[feature_type]),
+        # 要素を対象とするため、改行で結合する
+        ('count', create_count_vectorizer(feature_type)),
+        ('bm25', BM25Transformer())
+    ])
+
+
+def create_feature_union(type_label):
+    feature_types = FEATURES_FOR_FORM_TYPE[type_label]
+    extractors = [(t, create_single_feature_extractor(t)) for t in feature_types]
+
+    return FeatureUnion(extractors)
+
+
+def create_clf_pipeline(type_label, algorithm_model):
+    return Pipeline([
+        ('feature_extraction', create_feature_union(type_label)),
+        ('clf', algorithm_model)
+    ])
+
+
+def create_web_classifier(type_label, algorithm_model):
+    clf_pipeline = create_clf_pipeline(type_label, algorithm_model)
+    rule = RULE_FOR_FORM_TYPE.get(type_label, None)
+
+    return WebClassifier(clf_pipeline, rule)

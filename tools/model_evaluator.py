@@ -1,16 +1,14 @@
+import os
+
+import dill
+from sklearn.metrics import accuracy_score
+
 from .cv.cv_util import create_X_y_from_json
-from ..consts import TYPE_LABELS, MODEL_FILE_PREFIX, MODEL_FILE_EXT
+from ..consts import FORM_TYPE_LABELS
 from ..utils.classification_util import save_confusion_matrix_img, create_clf_scores, \
     create_confusion_matrix_counts, type_to_model_filename
 from ..utils.datetime_util import create_year_to_millisec_str
 from ..utils.numpy_util import dict_np_to_native
-from logging import getLogger
-from sklearn.metrics import accuracy_score, confusion_matrix, precision_recall_fscore_support
-import os
-import dill
-from datetime import datetime
-
-logger = getLogger(__name__)
 
 
 class ModelEvaluator():
@@ -36,6 +34,7 @@ class ModelEvaluator():
         # シリアライズ化されたモデルのファイル格納ディレクトリ
         self.models_dir = models_dir
         # シリアライズ化されたモデルをインスタンス化
+        self.models = dict.fromkeys(FORM_TYPE_LABELS)
         self._init_models()
 
     def _init_models(self):
@@ -43,18 +42,16 @@ class ModelEvaluator():
 
         :return:
         """
-        # {(種別ラベル): (モデルオブジェクト)}
         # モデルオブジェクトが大きすぎてパフォーマンスを下げるなら、ここでは存在チェックだけしてパスを持つようにした方が良さそう
-        self.models = dict.fromkeys(TYPE_LABELS)
-
-        for type_label in TYPE_LABELS:
+        for type_label in FORM_TYPE_LABELS:
             model_filename = type_to_model_filename(type_label)
             model_path = os.path.join(self.models_dir, model_filename)
 
             if not os.path.isfile(model_path):
                 # モデルファイルが存在しなかった場合
                 # 対応するパスはNoneのまま
-                logger.info(f'No model found for {type_label}')
+                # TODO: ログ出力
+                print(f'No model found for {type_label}')
                 continue
 
             with open(model_path, mode='rb') as f:
@@ -126,4 +123,4 @@ class ModelEvaluator():
         # ConfusionMatrix画像格納先ディレクトリ生成
         self._make_cm_dir()
 
-        return {l: self._create_single_result(l) for l in TYPE_LABELS}
+        return {l: self._create_single_result(l) for l in FORM_TYPE_LABELS}

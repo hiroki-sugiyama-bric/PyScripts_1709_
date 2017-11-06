@@ -1,12 +1,95 @@
 import os
+from secdiagai.classifier.iteration2 import FormSubmitButtonNameTransformer, FormActionTransformer, \
+    FormNeighborTextTransformer, FormLabelTransformer, FormPageTitieTransformer, FormInputNameTransformer, \
+    FormInputIdTransformer
 
 PROJECT_ROOT = os.path.dirname(os.path.realpath(__file__))
-CONFIG_DIR = 'confs' 
+CONFIG_DIR = 'confs'
 CONFIG_ROOT = os.path.join(PROJECT_ROOT, CONFIG_DIR)
 FIXTURES_DIR = 'fixtures'
 FIXTURES_ROOT = os.path.join(PROJECT_ROOT, FIXTURES_DIR)
 
-TYPE_LABELS = ['login', 'preSignUp', 'signUp', 'reminder', 'uploader', 'userUpdate']
+FORM_TYPE_LABEL_LOGIN = 'login'
+FORM_TYPE_LABEL_PRE_SIGNUP = 'preSignUp'
+FORM_TYPE_LABEL_SIGN_UP = 'signUp'
+FORM_TYPE_LABEL_REMINDER = 'reminder'
+FORM_TYPE_LABEL_UPLOADER = 'uploader'
+FORM_TYPE_LABEL_USER_UPDATE = 'userUpdate'
+FORM_TYPE_LABELS = [
+    FORM_TYPE_LABEL_LOGIN,
+    FORM_TYPE_LABEL_PRE_SIGNUP,
+    FORM_TYPE_LABEL_SIGN_UP,
+    FORM_TYPE_LABEL_REMINDER,
+    FORM_TYPE_LABEL_UPLOADER,
+    FORM_TYPE_LABEL_USER_UPDATE
+]
+
+FEATURE_TYPE_BUTTON = 'button'
+FEATURE_TYPE_ACTION = 'action'
+FEATURE_TYPE_TEXT_0 = 'text_0'
+FEATURE_TYPE_TEXT_2 = 'text_2'
+FEATURE_TYPE_LABEL = 'label'
+FEATURE_TYPE_TITLE = 'title'
+FEATURE_TYPE_INPUT_NAME = 'input_name'
+FEATURE_TYPE_INPUT_ID = 'input_id'
+FEATURE_TYPES = [
+    FEATURE_TYPE_BUTTON,
+    FEATURE_TYPE_ACTION,
+    FEATURE_TYPE_TEXT_0,
+    FEATURE_TYPE_TEXT_2,
+    FEATURE_TYPE_LABEL,
+    FEATURE_TYPE_TITLE,
+    FEATURE_TYPE_INPUT_NAME,
+    FEATURE_TYPE_INPUT_ID
+]
+
+FEATURES_FOR_FORM_TYPE = {
+    FORM_TYPE_LABEL_LOGIN: [
+        FEATURE_TYPE_BUTTON,
+        FEATURE_TYPE_ACTION,
+        FEATURE_TYPE_TEXT_2,
+        FEATURE_TYPE_TITLE,
+        FEATURE_TYPE_LABEL
+    ],
+    FORM_TYPE_LABEL_PRE_SIGNUP: [
+        FEATURE_TYPE_BUTTON,
+        FEATURE_TYPE_ACTION,
+        FEATURE_TYPE_TEXT_2,
+        FEATURE_TYPE_TITLE,
+        FEATURE_TYPE_INPUT_NAME,
+        FEATURE_TYPE_INPUT_ID
+    ],
+    FORM_TYPE_LABEL_SIGN_UP: [
+        FEATURE_TYPE_BUTTON,
+        FEATURE_TYPE_ACTION,
+        FEATURE_TYPE_TEXT_2,
+        FEATURE_TYPE_TITLE,
+        FEATURE_TYPE_INPUT_NAME,
+        FEATURE_TYPE_INPUT_ID
+    ],
+    FORM_TYPE_LABEL_REMINDER: [
+        FEATURE_TYPE_BUTTON,
+        FEATURE_TYPE_ACTION,
+        FEATURE_TYPE_TEXT_0,
+        FEATURE_TYPE_TEXT_2,
+        FEATURE_TYPE_TITLE,
+        FEATURE_TYPE_LABEL,
+        FEATURE_TYPE_INPUT_ID
+    ],
+    FORM_TYPE_LABEL_UPLOADER: [
+        FEATURE_TYPE_BUTTON,
+        FEATURE_TYPE_ACTION,
+        FEATURE_TYPE_TEXT_0,
+        FEATURE_TYPE_LABEL
+    ],
+    FORM_TYPE_LABEL_USER_UPDATE: [
+        FEATURE_TYPE_BUTTON,
+        FEATURE_TYPE_ACTION,
+        FEATURE_TYPE_TEXT_2,
+        FEATURE_TYPE_TITLE
+    ]
+}
+
 MODEL_FILE_PREFIX = 'model-'
 MODEL_FILE_EXT = '.dill'
 
