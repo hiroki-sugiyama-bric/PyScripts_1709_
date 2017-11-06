@@ -56,4 +56,6 @@ class ModelGenerator():
 
     def generate_models(self):
         for label in FORM_TYPE_LABELS:
-            self._generate_single(label)
+            # 生成対象種別のフォームに関して、モデルを生成
+            if self.generate_targets[label]:
+                self._generate_single(label)
