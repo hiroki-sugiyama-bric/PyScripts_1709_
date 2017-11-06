@@ -17,7 +17,7 @@ class ModelEvaluator():
     """学習済みモデルの性能を評価するクラス。
     """
 
-    def __init__(self, forms, labels, models_dir, cm_root, cm_http_root, exec_date):
+    def __init__(self, forms, labels, models_dir, cm_root, cm_http_root):
         # 性能評価用データ
         self.forms = forms
         self.labels = labels
@@ -30,16 +30,13 @@ class ModelEvaluator():
 
         # ConfusionMatrix画像格納先ディレクトリ名
         self.cm_dirname = None
-        # 実行日時
-        self.exec_date = exec_date
+        # 最終評価実行日時
+        self.last_eval_date = None
 
         # シリアライズ化されたモデルのファイル格納ディレクトリ
         self.models_dir = models_dir
         # シリアライズ化されたモデルをインスタンス化
         self._init_models()
-
-        # 評価を既に行ったか
-        self.already_evaluated = False
 
     def _init_models(self):
         """シリアライズ化された学習モデルを各ファイルから読み込む。
@@ -114,21 +111,17 @@ class ModelEvaluator():
         :return:
         """
         # ディレクトリ名生成
-        self.cm_dirname = create_year_to_millisec_str(self.exec_date)
+        self.cm_dirname = create_year_to_millisec_str(self.last_eval_date)
 
         # ディレクトリ生成
         os.mkdir(os.path.join(self.cm_root, self.cm_dirname))
 
-    def create_eval_result(self):
+    def create_eval_result(self, exec_date):
         """学習モデル性能評価結果データを生成する。
 
         :return:
         """
-        # 本メソッドを使う側の実行日時との整合性を取るため、１度しか呼べないようにする
-        if not self.already_evaluated:
-            self.already_evaluated = True
-        else:
-            raise Exception('Already evaluated by this instance.')
+        self.last_eval_date = exec_date
 
         # ConfusionMatrix画像格納先ディレクトリ生成
         self._make_cm_dir()
