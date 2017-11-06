@@ -1,11 +1,10 @@
-from logging import getLogger
+import os
+
 from ..consts import FORM_TYPE_LABELS
+from ..tools.cv.cv_util import create_X_y_from_json
+from ..utils.classification_util import create_web_classifier, type_to_model_filename
 from ..utils.import_util import get_attr_by_fullname
 from ..utils.transaction_parse_util import load_forms_from_jsons
-from ..utils.classification_util import create_clf_pipeline
-from ..tools.cv.cv_util import create_X_y_from_json
-
-logger = getLogger(__name__)
 
 
 class ModelGenerator():
@@ -43,9 +42,17 @@ class ModelGenerator():
             self.algorithm_models[type_label] = clazz(**parameters)
 
     def _generate_single(self, target_label):
+        # 出力先パス生成
+        model_filename = type_to_model_filename(target_label)
+        dump_path = os.path.join(self.models_dir, model_filename)
+
+        # 学習用データ抽出
         X, y = create_X_y_from_json(self.forms, self.labels, target_label)
+
+        # 学習モデル生成、シリアライズ化
         algorithm_model = self.algorithm_models[target_label]
-        clf_pipeline = create_clf_pipeline(target_label, algorithm_model)
+        clf = create_web_classifier(target_label, algorithm_model)
+        clf.dump_model(dump_path, X_train=X, y_train=y)
 
     def generate_models(self):
         for label in FORM_TYPE_LABELS:
