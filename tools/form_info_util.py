@@ -1,4 +1,10 @@
-import os
+"""
+下記の形式で、各フォームに対応するデータを含むテキストをパースするためのモジュール
+
+website: 002.tdr
+transaction: 3_Full
+form: 0
+"""
 
 PROP_DELIMITER = ': '
 
@@ -11,12 +17,12 @@ INIT_KEY = KEY_WEBSITE
 
 
 def partition(list_, idxs):
-    '''インデックスを元にリストをサブリストに分割する。
+    """インデックスを元にリストをサブリストに分割する。
 
     :param list_:
     :param idxs:
     :return:
-    '''
+    """
     return [list_[i:j] for i, j in zip([0] + idxs, idxs + [None])]
 
 
@@ -51,24 +57,16 @@ def extract_part_lines(path):
 
 
 def extract_infos(path):
+    """テキストファイルのフォームデータをパースする。
+
+    :param path:
+    :return: 各フォームに対応するdictのlist
+    """
     part_lines = extract_part_lines(path)
     infos = [extract_single_info(l) for l in part_lines]
 
     return infos
 
 
-def compare():
-    infos_1 = extract_infos(PATH_1)
-    infos_2 = extract_infos(PATH_2)
-
-    # 要素がdictなのでsetでの比較はできない
-    duplicates = [i for i in infos_1 if i in infos_2]
-    print(len(duplicates))
-    for dup in duplicates:
-        print(dup)
-
-
 if __name__ == '__main__':
-    # extract_infos(PATH_1)
-    # print(dict.fromkeys(KEYS))
-    compare()
+    pass

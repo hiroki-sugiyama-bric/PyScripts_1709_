@@ -1,3 +1,9 @@
+"""
+コマンドライン引数のwebsite, transactionに対応するhtmlファイルを開くためのモジュール
+
+「open_forms_info_htmls.py」で開けないもの（gzipでエンコードされているもの等）を開くのが主な目的
+"""
+
 import os
 import pyperclip
 import sys
@@ -17,6 +23,7 @@ TRANSACTION_SUFFIX = '_Full'
 website = sys.argv[1]
 transaction_num = sys.argv[2]
 
+
 def get_html_bs():
     tr_filename = transaction_num + TRANSACTION_SUFFIX + EXT_TXT
     tr_path = os.path.join(DATA_ROOT_PATH, website, tr_filename)
@@ -25,6 +32,7 @@ def get_html_bs():
     html = res_parser.html()
 
     return html
+
 
 def open_single():
     html = get_html_bs()
@@ -44,13 +52,6 @@ def open_single():
     subprocess.run(['open', ntf.name])
     # subprocess.run(['open', '-a', '/Applications/Google Chrome.app', ntf.name])
 
+
 if __name__ == '__main__':
     open_single()
-    # html = get_html_bs()
-    # print(html.findAll('form'))
-    # print(html)
-    # print(html.html)
-    # print(html.html.head)
-    # print(html.html.body)
-    # print(str(html.html)[-300:])
-
