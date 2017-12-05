@@ -170,6 +170,7 @@ def create_count_vectorizer(feature_type):
         if feature_type in {FEATURE_TYPE_ACTION}:
             return lambda x: x
         elif feature_type in {FEATURE_TYPE_BUTTON, FEATURE_TYPE_LABEL, FEATURE_TYPE_INPUT_NAME, FEATURE_TYPE_INPUT_ID}:
+            # 要素を対象とするため、改行で結合する
             return lambda x: MecabSplitter().split_filtered('\n'.join(x), noun_only)
         elif feature_type in {FEATURE_TYPE_TEXT_0, FEATURE_TYPE_TEXT_2, FEATURE_TYPE_TITLE}:
             return lambda x: MecabSplitter().split_filtered(x[0], exclude_sign_and_pick_noun_only)
@@ -185,7 +186,6 @@ def create_single_feature_extractor(feature_type):
     """
     return Pipeline([
         ('extract', TRANSFORMER_FOR_FEATURE_TYPE[feature_type]),
-        # 要素を対象とするため、改行で結合する
         ('count', create_count_vectorizer(feature_type)),
         ('bm25', BM25Transformer())
     ])

@@ -1,0 +1,40 @@
+2017-11-24 15:35:49,856 - __main__ - DEBUG - debug_log
+2017-11-24 15:35:49,856 - __main__ - INFO - info_log
+2017-11-24 15:35:49,856 - __main__ - WARNING - warning_log
+2017-11-24 15:35:49,856 - __main__ - ERROR - error_log
+2017-11-24 15:35:49,856 - __main__ - CRITICAL - critical_log
+2017-11-24 15:36:10,555 - __main__ - DEBUG - debug_log
+2017-11-24 15:36:10,555 - __main__ - INFO - info_log
+2017-11-24 15:36:10,555 - __main__ - WARNING - warning_log
+2017-11-24 15:36:10,555 - __main__ - ERROR - error_log
+2017-11-24 15:36:10,555 - __main__ - CRITICAL - critical_log
+2017-11-24 15:38:56,608 - simpleExample - DEBUG - debug_log
+2017-11-24 15:38:56,608 - simpleExample - INFO - info_log
+2017-11-24 15:38:56,608 - simpleExample - WARNING - warning_log
+2017-11-24 15:38:56,608 - simpleExample - ERROR - error_log
+2017-11-24 15:38:56,608 - simpleExample - CRITICAL - critical_log
+2017-11-24 15:40:59,895 - root - DEBUG - debug_log
+2017-11-24 15:40:59,895 - root - INFO - info_log
+2017-11-24 15:40:59,895 - root - WARNING - warning_log
+2017-11-24 15:40:59,895 - root - ERROR - error_log
+2017-11-24 15:40:59,895 - root - CRITICAL - critical_log
+2017-11-24 15:41:10,031 - simpleExample - DEBUG - debug_log
+2017-11-24 15:41:10,031 - simpleExample - INFO - info_log
+2017-11-24 15:41:10,031 - simpleExample - WARNING - warning_log
+2017-11-24 15:41:10,031 - simpleExample - ERROR - error_log
+2017-11-24 15:41:10,031 - simpleExample - CRITICAL - critical_log
+2017-11-24 15:42:29,579 - simpleExample - DEBUG - debug_log
+2017-11-24 15:42:29,579 - simpleExample - INFO - info_log
+2017-11-24 15:42:29,579 - simpleExample - WARNING - warning_log
+2017-11-24 15:42:29,579 - simpleExample - ERROR - error_log
+2017-11-24 15:42:29,579 - simpleExample - CRITICAL - critical_log
+2017-11-24 15:43:07,060 - simpleExample - try_logging - DEBUG - debug_log
+2017-11-24 15:43:07,060 - simpleExample - try_logging - INFO - info_log
+2017-11-24 15:43:07,060 - simpleExample - try_logging - WARNING - warning_log
+2017-11-24 15:43:07,061 - simpleExample - try_logging - ERROR - error_log
+2017-11-24 15:43:07,061 - simpleExample - try_logging - CRITICAL - critical_log
+2017-11-24 15:43:33,820 - simpleExample - try_logging - /Users/hirokisugiyama/Development/Projects/Python/Work/NTTTX_201709_/scripts/misc/trials/logging/try_logging.py - DEBUG - debug_log
+2017-11-24 15:43:33,820 - simpleExample - try_logging - /Users/hirokisugiyama/Development/Projects/Python/Work/NTTTX_201709_/scripts/misc/trials/logging/try_logging.py - INFO - info_log
+2017-11-24 15:43:33,820 - simpleExample - try_logging - /Users/hirokisugiyama/Development/Projects/Python/Work/NTTTX_201709_/scripts/misc/trials/logging/try_logging.py - WARNING - warning_log
+2017-11-24 15:43:33,820 - simpleExample - try_logging - /Users/hirokisugiyama/Development/Projects/Python/Work/NTTTX_201709_/scripts/misc/trials/logging/try_logging.py - ERROR - error_log
+2017-11-24 15:43:33,820 - simpleExample - try_logging - /Users/hirokisugiyama/Development/Projects/Python/Work/NTTTX_201709_/scripts/misc/trials/logging/try_logging.py - CRITICAL - critical_log

@@ -1,5 +1,11 @@
 from unittest import TestCase
-from ...utils.classification_util import create_clf_scores, create_confusion_matrix_counts, create_cm_labels
+
+from ...utils.classification_util import create_clf_scores, create_confusion_matrix_counts, create_cm_labels, \
+    create_web_classifier
+from sklearn.ensemble import RandomForestClassifier
+from bs4 import BeautifulSoup
+from ...consts import HTML_PARSER, RANDOM_STATE
+
 
 class ClassificationUtilTestCase(TestCase):
     def test_create_clf_scores(self):
@@ -74,5 +80,57 @@ class ClassificationUtilTestCase(TestCase):
 
         self.assertEqual(actual, expected)
 
-    
+    def test_create_web_classifier(self):
+        login_form_str = '''\
+        <html>
+            <head>
+                <title>
+                title
+                </title>
+            </head>
+            前
+            <body>
+                前
+                <form action="/test/login">
+                    <input type="submit" value="ログイン">
+                    ログイン
+                </form>
+            </body>
+        </html>
+        '''
+        non_login_form_str = '''\
+        <html>
+            前
+            <body>
+                前
+                <form action="/test/signUp">
+                    <input type="submit" value="ユーザ本登録">
+                    ユーザ本登録
+                    <label>
+                    label
+                    </label>
+                </form>
+            </body>
+        </html>
+        '''
+        login_form = BeautifulSoup(login_form_str, HTML_PARSER).form
+        non_login_form = BeautifulSoup(non_login_form_str, HTML_PARSER).form
+        print(login_form)
+        print(non_login_form)
+        X = [login_form, non_login_form]
+        y = [1, 0]
+
+        type_label = 'login'
+        w_clf = create_web_classifier(type_label, RandomForestClassifier(random_state=RANDOM_STATE))
+        w_clf.fit(X, y)
+        y_pred = w_clf.predict(X)
+
+        # ログインのルールにより、login_formは確実にログインであると判定される
+        self.assertEqual(y_pred[0], 1)
+
+
+
+
+
+
 

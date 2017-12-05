@@ -1,0 +1,96 @@
+2017-11-24 15:04:00,540 - __main__ - DEBUG - debug_log
+2017-11-24 15:04:00,541 - __main__ - INFO - info_log
+2017-11-24 15:04:00,541 - __main__ - WARNING - warning_log
+2017-11-24 15:04:00,541 - __main__ - ERROR - error_log
+2017-11-24 15:04:00,541 - __main__ - CRITICAL - critical_log
+2017-11-24 15:04:14,705 - __main__ - DEBUG - debug_log
+2017-11-24 15:04:14,705 - __main__ - INFO - info_log
+2017-11-24 15:04:14,705 - __main__ - WARNING - warning_log
+2017-11-24 15:04:14,705 - __main__ - ERROR - error_log
+2017-11-24 15:04:14,705 - __main__ - CRITICAL - critical_log
+2017-11-24 15:06:25,555 - __main__ - DEBUG - debug_log
+2017-11-24 15:06:25,555 - __main__ - INFO - info_log
+2017-11-24 15:06:25,555 - __main__ - WARNING - warning_log
+2017-11-24 15:06:25,555 - __main__ - ERROR - error_log
+2017-11-24 15:06:25,556 - __main__ - CRITICAL - critical_log
+2017-11-24 15:10:20,768 - __main__ - DEBUG - debug_log
+2017-11-24 15:10:20,769 - __main__ - INFO - info_log
+2017-11-24 15:10:20,769 - __main__ - WARNING - warning_log
+2017-11-24 15:10:20,769 - __main__ - ERROR - error_log
+2017-11-24 15:10:20,769 - __main__ - CRITICAL - critical_log
+2017-11-24 15:10:41,084 - __main__ - DEBUG - debug_log
+2017-11-24 15:10:41,085 - __main__ - INFO - info_log
+2017-11-24 15:10:41,085 - __main__ - WARNING - warning_log
+2017-11-24 15:10:41,085 - __main__ - ERROR - error_log
+2017-11-24 15:10:41,085 - __main__ - CRITICAL - critical_log
+2017-11-24 15:15:08,031 - __main__ - DEBUG - debug_log
+2017-11-24 15:15:08,031 - __main__ - INFO - info_log
+2017-11-24 15:15:08,031 - __main__ - WARNING - warning_log
+2017-11-24 15:15:08,031 - __main__ - ERROR - error_log
+2017-11-24 15:15:08,032 - __main__ - CRITICAL - critical_log
+2017-11-24 15:15:31,901 - __main__ - DEBUG - debug_log
+2017-11-24 15:15:31,901 - __main__ - INFO - info_log
+2017-11-24 15:15:31,902 - __main__ - WARNING - warning_log
+2017-11-24 15:15:31,902 - __main__ - ERROR - error_log
+2017-11-24 15:15:31,902 - __main__ - CRITICAL - critical_log
+2017-11-24 15:18:25,289 - simple_example - DEBUG - debug_log
+2017-11-24 15:18:25,290 - simple_example - INFO - info_log
+2017-11-24 15:18:25,290 - simple_example - WARNING - warning_log
+2017-11-24 15:18:25,290 - simple_example - ERROR - error_log
+2017-11-24 15:18:25,290 - simple_example - CRITICAL - critical_log
+2017-11-24 15:18:32,862 - simpleExample - DEBUG - debug_log
+2017-11-24 15:18:32,862 - simpleExample - INFO - info_log
+2017-11-24 15:18:32,862 - simpleExample - WARNING - warning_log
+2017-11-24 15:18:32,862 - simpleExample - ERROR - error_log
+2017-11-24 15:18:32,862 - simpleExample - CRITICAL - critical_log
+2017-11-24 15:19:29,456 - __main__ - DEBUG - debug_log
+2017-11-24 15:19:29,456 - __main__ - INFO - info_log
+2017-11-24 15:19:29,456 - __main__ - WARNING - warning_log
+2017-11-24 15:19:29,456 - __main__ - ERROR - error_log
+2017-11-24 15:19:29,456 - __main__ - CRITICAL - critical_log
+2017-11-24 15:19:43,530 - __main__ - DEBUG - debug_log
+2017-11-24 15:19:43,530 - __main__ - INFO - info_log
+2017-11-24 15:19:43,530 - __main__ - WARNING - warning_log
+2017-11-24 15:19:43,530 - __main__ - ERROR - error_log
+2017-11-24 15:19:43,530 - __main__ - CRITICAL - critical_log
+2017-11-24 15:20:00,934 - __main__ - DEBUG - debug_log
+2017-11-24 15:20:00,934 - __main__ - INFO - info_log
+2017-11-24 15:20:00,934 - __main__ - WARNING - warning_log
+2017-11-24 15:20:00,934 - __main__ - ERROR - error_log
+2017-11-24 15:20:00,934 - __main__ - CRITICAL - critical_log
+2017-11-24 15:20:07,991 - __main__ - DEBUG - debug_log
+2017-11-24 15:20:07,991 - __main__ - INFO - info_log
+2017-11-24 15:20:07,991 - __main__ - WARNING - warning_log
+2017-11-24 15:20:07,991 - __main__ - ERROR - error_log
+2017-11-24 15:20:07,992 - __main__ - CRITICAL - critical_log
+2017-11-24 15:21:39,635 - root - DEBUG - debug_log
+2017-11-24 15:21:39,635 - root - INFO - info_log
+2017-11-24 15:21:39,635 - root - WARNING - warning_log
+2017-11-24 15:21:39,635 - root - ERROR - error_log
+2017-11-24 15:21:39,635 - root - CRITICAL - critical_log
+2017-11-24 15:34:14,235 - simpleExample - DEBUG - debug_log
+2017-11-24 15:34:14,236 - simpleExample - INFO - info_log
+2017-11-24 15:34:14,236 - simpleExample - WARNING - warning_log
+2017-11-24 15:34:14,236 - simpleExample - ERROR - error_log
+2017-11-24 15:34:14,236 - simpleExample - CRITICAL - critical_log
+2017-11-24 15:50:26,292 - simpleExample - try_logging - /Users/hirokisugiyama/Development/Projects/Python/Work/NTTTX_201709_/scripts/misc/trials/log/try_logging.py - DEBUG - debug_log
+2017-11-24 15:50:26,293 - simpleExample - try_logging - /Users/hirokisugiyama/Development/Projects/Python/Work/NTTTX_201709_/scripts/misc/trials/log/try_logging.py - INFO - info_log
+2017-11-24 15:50:26,293 - simpleExample - try_logging - /Users/hirokisugiyama/Development/Projects/Python/Work/NTTTX_201709_/scripts/misc/trials/log/try_logging.py - WARNING - warning_log
+2017-11-24 15:50:26,293 - simpleExample - try_logging - /Users/hirokisugiyama/Development/Projects/Python/Work/NTTTX_201709_/scripts/misc/trials/log/try_logging.py - ERROR - error_log
+2017-11-24 15:50:26,293 - simpleExample - try_logging - /Users/hirokisugiyama/Development/Projects/Python/Work/NTTTX_201709_/scripts/misc/trials/log/try_logging.py - CRITICAL - critical_log
+2017-11-24 15:50:50,376 - simpleExample - try_logging - /Users/hirokisugiyama/Development/Projects/Python/Work/NTTTX_201709_/scripts/misc/trials/log/try_logging.py - DEBUG - debug_log
+2017-11-24 15:50:50,377 - simpleExample - try_logging - /Users/hirokisugiyama/Development/Projects/Python/Work/NTTTX_201709_/scripts/misc/trials/log/try_logging.py - INFO - info_log
+2017-11-24 15:50:50,377 - simpleExample - try_logging - /Users/hirokisugiyama/Development/Projects/Python/Work/NTTTX_201709_/scripts/misc/trials/log/try_logging.py - WARNING - warning_log
+2017-11-24 15:50:50,378 - simpleExample - try_logging - /Users/hirokisugiyama/Development/Projects/Python/Work/NTTTX_201709_/scripts/misc/trials/log/try_logging.py - ERROR - error_log
+2017-11-24 15:50:50,378 - simpleExample - try_logging - /Users/hirokisugiyama/Development/Projects/Python/Work/NTTTX_201709_/scripts/misc/trials/log/try_logging.py - CRITICAL - critical_log
+2017-11-24 15:52:19,609 - simpleExample - try_logging - /Users/hirokisugiyama/Development/Projects/Python/Work/NTTTX_201709_/scripts/misc/trials/log/try_logging.py - DEBUG - debug_log
+2017-11-24 15:52:19,609 - simpleExample - try_logging - /Users/hirokisugiyama/Development/Projects/Python/Work/NTTTX_201709_/scripts/misc/trials/log/try_logging.py - INFO - info_log
+2017-11-24 15:52:19,609 - simpleExample - try_logging - /Users/hirokisugiyama/Development/Projects/Python/Work/NTTTX_201709_/scripts/misc/trials/log/try_logging.py - WARNING - warning_log
+2017-11-24 15:52:19,610 - simpleExample - try_logging - /Users/hirokisugiyama/Development/Projects/Python/Work/NTTTX_201709_/scripts/misc/trials/log/try_logging.py - ERROR - error_log
+2017-11-24 15:52:19,610 - simpleExample - try_logging - /Users/hirokisugiyama/Development/Projects/Python/Work/NTTTX_201709_/scripts/misc/trials/log/try_logging.py - CRITICAL - critical_log
+2017-11-24 15:52:19,610 - simpleExample - try_logging_import - /Users/hirokisugiyama/Development/Projects/Python/Work/NTTTX_201709_/scripts/misc/trials/log/try_logging_import.py - DEBUG - debug_log
+2017-11-24 15:52:19,610 - simpleExample - try_logging_import - /Users/hirokisugiyama/Development/Projects/Python/Work/NTTTX_201709_/scripts/misc/trials/log/try_logging_import.py - INFO - info_log
+2017-11-24 15:52:19,610 - simpleExample - try_logging_import - /Users/hirokisugiyama/Development/Projects/Python/Work/NTTTX_201709_/scripts/misc/trials/log/try_logging_import.py - WARNING - warning_log
+2017-11-24 15:52:19,610 - simpleExample - try_logging_import - /Users/hirokisugiyama/Development/Projects/Python/Work/NTTTX_201709_/scripts/misc/trials/log/try_logging_import.py - ERROR - error_log
+2017-11-24 15:52:19,610 - simpleExample - try_logging_import - /Users/hirokisugiyama/Development/Projects/Python/Work/NTTTX_201709_/scripts/misc/trials/log/try_logging_import.py - CRITICAL - critical_log
+2017-11-24 15:53:53,548 - simpleExample - <ipython-input-5-f98cc01969d9> - <ipython-input-5-f98cc01969d9> - WARNING - warning

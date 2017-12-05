@@ -4,6 +4,7 @@ import sys
 from secdiagai.dataset import DatasetLoader, FormExtractor
 from ..utils.email_msg_util import create_headers_dict, extract_body_str
 from bs4.dammit import UnicodeDammit
+from bs4 import BeautifulSoup
 
 # DATASET_BASE = '/data/dataset_v3'
 # DATASET_BASE = '/Users/hirokisugiyama/Work/NTTTX/NTTTX_201709_/WebDav/20_Data/2017-09-27_v5_part_10'

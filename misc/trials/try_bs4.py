@@ -1,7 +1,7 @@
 import json
 from bs4 import BeautifulSoup
 from bs4.element import Tag
-from secdiagai.beautiful_soup_util import confirm_submit_btn
+from secdiagai.common.beautiful_soup_util import confirm_submit_btn
 
 parser = 'html.parser'
 
@@ -81,6 +81,20 @@ def test_unicode():
     with open(path, mode='w') as f:
         json.dump(json_d, f, ensure_ascii=False)
 
+def test_attrs():
+    html = '''\
+<form id="login" action="/login.php" name="user-login">
+あああ
+</form>   
+'''
+    form = BeautifulSoup(html, 'html.parser').form
+    print(form.attrs)
+    print(form.id)
+    print(form.href)
+    print(getattr(form, 'id'))
+
+
+
 
 if __name__ == '__main__':
     # test_entities()
@@ -88,7 +102,8 @@ if __name__ == '__main__':
     # test_parser()
     # test_html5lib()
     # test_html5lib_file()
-    test_unicode()
+    # test_unicode()
+    test_attrs()
 
 
 

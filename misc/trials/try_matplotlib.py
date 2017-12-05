@@ -34,10 +34,28 @@ def try_savefig():
     plt.xlabel('Predicted label')
 
     plt.savefig('login.png')
-    
+
+
+def try_basic():
+    plt.figure()
+
+    plt.show()
+    # for attr in dir(plt):
+    #     print(attr)
+
+
+def try_imshow():
+    plt.figure()
+    X = [
+        [1, 3],
+        [3, 4],
+        [8, 2],
+    ]
+    plt.imshow(X)
+    plt.show()
+
 
 if __name__ == '__main__':
-    try_savefig()
-    plt.clf()
-    plt.savefig('login_2.png')
-
+    # try_savefig()
+    # try_basic()
+    try_imshow()

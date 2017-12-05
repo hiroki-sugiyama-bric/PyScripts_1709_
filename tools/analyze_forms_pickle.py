@@ -1,7 +1,7 @@
 import os
 import pickle
 from bs4 import BeautifulSoup
-from secdiagai.classifier.iteration2 import FormSubmitButtonNameTransformer, FormActionTransformer, \
+from secdiagai.classifier.form_transformers import FormSubmitButtonNameTransformer, FormActionTransformer, \
     FormNeighborTextTransformer, FormLabelTransformer, FormPageTitieTransformer
 
 # PICKLE_PATH = '/Users/hirokisugiyama/Work/NTTTX/NTTTX_201709_/data/pickles/fn_login_form_strs.p'
@@ -26,6 +26,7 @@ def load_forms():
 
         return forms
 
+
 def print_features(form, form_num):
     submit_bt_name_tf = FormSubmitButtonNameTransformer()
     action_tf = FormActionTransformer()
@@ -45,6 +46,7 @@ def print_features(form, form_num):
     print('action: %s' % action)
     print('label: %s' % label)
     print('')
+
 
 def save_forms(forms):
     if not os.path.isdir(FORMS_SAVE_DIR_PATH):

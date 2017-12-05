@@ -1,7 +1,6 @@
 import os
-from secdiagai.classifier.iteration2 import FormSubmitButtonNameTransformer, FormActionTransformer, \
-    FormNeighborTextTransformer, FormLabelTransformer, FormPageTitieTransformer, FormInputNameTransformer, \
-    FormInputIdTransformer
+
+HTML_PARSER = 'html.parser'
 
 PROJECT_ROOT = os.path.dirname(os.path.realpath(__file__))
 CONFIG_DIR = 'confs'

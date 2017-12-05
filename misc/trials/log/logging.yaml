@@ -1,0 +1,23 @@
+version: 1
+formatters:
+  simple:
+    format: '%(asctime)s - %(name)s - %(module)s - %(pathname)s - %(levelname)s - %(message)s'
+handlers:
+  console:
+    class: logging.StreamHandler
+    level: INFO
+    formatter: simple
+    stream: ext://sys.stdout
+  rotatingFile:
+    class: logging.handlers.RotatingFileHandler
+    level: DEBUG
+    filename: try_logging_yaml.log
+    formatter: simple
+loggers:
+  simpleExample:
+    level: DEBUG
+    handlers: [console, rotatingFile]
+    propagate: no
+root:
+  level: DEBUG
+  handlers: [console, rotatingFile]
